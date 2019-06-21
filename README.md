@@ -1,3 +1,15 @@
+### gocn_news_2018-02-11
+- 1. Go中的继承与OOP  http://yourbasic.org/golang/inheritance-object-oriented/
+
+- 2. HTTP服务监控工具lokahi介绍  https://christine.website/blog/lokahi-2018-02-08
+
+- 3. cpu cache 入门 https://zhuanlan.zhihu.com/p/33663745
+
+- 4. Linux容器技术进化史  http://www.infoq.com/cn/articles/how-linux-containers-evolved
+
+- 5. Apache下流处理项目巡览 https://mp.weixin.qq.com/s/HCKpLP0bvuBNWaQFQWLp0g
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-10
 - 1. Go 1.10 Release Party https://github.com/golang/go/wiki/Go-1.10-Release-Party
 
