@@ -1,3 +1,19 @@
+### gocn_news_2017-07-29
+- 1. 可水平扩展的channel https://github.com/matryer/vice
+
+- 2. 艺术家眼中的Go泛型 https://medium.com/@delaneygillilan/go-generics-are-you-sure-729a17150506
+
+- 3. 有赞支付微服务实践 http://tech.youzan.com/youzan_microservice_best_practice/
+
+- 4. 微服务架构和领域驱动设计 http://insights.thoughtworkers.org/ddd-and-microservices/
+
+- 5. 
+3倍性能的go程序优化实践 https://mp.weixin.qq.com/s/9IKaXeWTiiQTFlvZzxgsEA
+
+
+- 6. [8月5日]杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-28
 - 1. 你不该用的六个Go小技巧 https://medium.com/@Raedwulf/6-go-tips-you-should-probably-not-use-b252dfd0a3c4
 
