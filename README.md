@@ -1,3 +1,15 @@
+### gocn_news_2018-07-07
+- 1. golang的测试框架stretchr/testify https://studygolang.com/articles/13491
+
+- 2. 前端遇上Go: 静态资源增量更新的新实践 https://mp.weixin.qq.com/s/hCqQW1F8FngPPGZAisAWUg
+
+- 3. Serverless的本质是什么？https://mp.weixin.qq.com/s/fuIhHI9VraOv64uII8NzlA
+
+- 4. 可能是把Docker的概念讲的最清楚的一篇文章 https://mp.weixin.qq.com/s/9--UJYVJXVr92RCX36R6Vg
+
+- 5. 一个可快速落地的微服务网关架构实现 https://mp.weixin.qq.com/s/FxEH82B7d9y762SI5DSBpA
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-06
 - 1. go语言之行--golang核武器goroutine调度原理、channel详解 http://www.cnblogs.com/wdliu/p/9272220.html
 
