@@ -1,3 +1,15 @@
+### gocn_news_2018-10-05
+- 1. vscode-go开始支持Go modules https://github.com/Microsoft/vscode-go/releases/tag/0.6.90
+
+- 2. Go的类型嵌套 https://go101.org/article/type-embedding.html
+
+- 3. Go web 开发中的cookie和session https://colobu.com/2018/09/28/cookie-and-session-in-go/
+
+- 4. 重新思考负载均衡在Netfix的使用 https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c
+
+- 5. 内存顺序 https://zhuanlan.zhihu.com/p/45566448
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-04
 - 1. Golang中使用TTL正确使用方式 https://dev.to/irlndts/simple-golang-jobber-with-ttl-455h
 
