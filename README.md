@@ -1,3 +1,15 @@
+### gocn_news_2018-07-09
+- 1. 使用接口和依赖注入让你的设计不会过时 https://medium.com/dm03514-tech-blog/you-are-going-to-need-it-using-interfaces-and-dependency-injection-to-future-proof-your-designs-2cf6f58db192
+
+- 2. 理解Go中的context包 https://medium.com/@parikshit/understanding-the-context-package-in-golang-b1392c821d14
+
+- 3. 如何用Go语言实现Web爬虫 https://kernel-panic.me/how-to-build-web-scraper-golang/
+
+- 4. 如何提高代码质量？ https://mp.weixin.qq.com/s/nyqbRLFEofONb0mevyoYow
+
+- 5. gaia: 跨语言pipeline系统 https://github.com/gaia-pipeline/gaia
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-08
 - 1. 用Golang和PostgreSQL构建一个全栈APP https://ednsquare.com/publisher/view/Full-Stack-GoLang-Tutorial-with-PostgreSQL-------fn1h0zlYGm
 
