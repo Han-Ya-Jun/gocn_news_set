@@ -1,3 +1,15 @@
+### gocn_news_2018-01-07
+- 1. NTP客户端实现 https://medium.com/learning-the-go-programming-language/lets-make-an-ntp-client-in-go-287c4b9a969f
+
+- 2. 从内存对齐谈同步控制 https://dave.cheney.net/2018/01/06/if-aligned-memory-writes-are-atomic-why-do-we-need-the-sync-atomic-package
+
+- 3. io.Reader与io.Writer时间估测 https://blog.machinebox.io/measuring-the-progress-of-long-running-io-reader-and-io-writer-operations-in-go-ba26b204a507
+
+- 4. 以太坊golang实现 https://github.com/ethereumproject/go-ethereum
+
+- 5. 深度学习已死，可微分编程万岁 https://mp.weixin.qq.com/s/xyjrr5uWGP-oYsRWCqqTDg
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-05
 - 1. 谈谈Go语言、Docker和新技术 http://www.infoq.com/cn/articles/talk-about-go-and-docker
 
