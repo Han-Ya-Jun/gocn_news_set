@@ -1,3 +1,15 @@
+### gocn_news_2019-03-14
+- 1. DLang、Rust 以及 Golang 对比数据库操作方式： https://my.oschina.net/jiaqing/blog/3021369
+
+- 2. 关于go 语言中的延迟执行函数：https://www.jianshu.com/p/441c016f527e
+
+- 3. go学习笔记 利用chan嵌套chan 实现函数异步执行 顺序返回值： https://studygolang.com/articles/18854
+
+- 4. Uber开源P2P容器仓库Kraken，每秒分布TB级数据：https://mp.weixin.qq.com/s/MUUlIKDC6LExWOCWUmossg
+
+- 5. 微服务测试及镜像化提测全流程实践：https://mp.weixin.qq.com/s/ao3BojXIeWjuC2_K8ObNZg
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-13
 - 1. 图解Go语言内存分配 http://www.cnblogs.com/qcrao-2018/p/10520785.html
 
