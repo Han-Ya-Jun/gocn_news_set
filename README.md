@@ -1,3 +1,15 @@
+### gocn_news_2018-11-17
+- 1. 使用Go+HTML5构建跨平台的现代桌面应用程序 https://github.com/zserge/lorca
+
+- 2. 在Go中实现的Lua 5.3引擎 https://github.com/Azure/golua
+
+- 3. Golang 编写的瓦片地图服务 https://juejin.im/post/5bee3aab51882517165d9995
+
+- 4. 与MySQL一起构建RESTful API作为Go微服务 https://medium.com/@johanlejdung/a-mini-guide-build-a-rest-api-as-a-go-microservice-together-with-mysql-fc203a6411c0
+
+- 5. 如何使用GitHub操作和编织云创建GitOps管道 https://www.weave.works/blog/how-to-create-gitops-pipelines-with-github-actions-and-weave-cloud
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-16
 - 1. GoCN每日新闻(2018-11-16)
 
