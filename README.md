@@ -1,3 +1,15 @@
+### gocn_news_2019-06-01
+- 1. Golang Configor 配置文件工具 https://www.jianshu.com/p/f826d2cc361b
+
+- 2. Go 小知识之 Go 中如何使用 set https://juejin.im/post/5ceffeddf265da1bc8540df5
+
+- 3. 如何使用运算符进行数学运算 https://www.digitalocean.com/community/tutorials/how-to-do-math-in-go-with-operators
+
+- 4. 在OKD中创建Source-to-Image构建管道 https://opensource.com/article/19/5/creating-source-image-build-pipeline-okd
+
+- 5. 我不知道cpu是如何工作的，所以我用代码模拟了一个 https://djhworld.github.io/post/2019/05/21/i-dont-know-how-cpus-work-so-i-simulated-one-in-code/
+
+- - - - - - - - - - 
 ### gocn_news_2019-05-31
 - 1. 500字内让你搞明白Go的指针 https://medium.com/@hiepnguyen_2315/understand-go-pointers-in-less-than-500-words-db2d4e5ad918
 
