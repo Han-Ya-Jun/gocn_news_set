@@ -1,3 +1,15 @@
+### gocn_news_2018-09-20
+- 1. Go 1.11 快速实践教程  https://getstream.io/blog/go-1-11-rocket-tutorial/
+
+- 2. Golang 里一个有趣的小细节 https://zhuanlan.zhihu.com/p/44851211
+
+- 3. Kubernetes API访问鉴权之Basic模式 https://gocn.vip/article/989
+
+- 4. 解读 | TARS 开源项目发布 Go 语言版本 https://linux.cn/article-10033-1.html
+
+- 5. 桔子网关—全新企业级的API网关 https://github.com/mafanr/juz
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-19
 - 1. 如何使用实时数据CDN为App提供服务 https://hackernoon.com/powering-your-app-with-a-realtime-messaging-cdn-13d92a6df5f3
 
