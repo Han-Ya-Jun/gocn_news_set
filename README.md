@@ -1,3 +1,15 @@
+### gocn_news_2018-11-11
+- 1. Go的九年历程 https://blog.golang.org/9years
+
+- 2. Go基础:接口的用法 http://www.cnblogs.com/f-ck-need-u/p/9940845.html
+
+- 3. Go1.10:sync map分析 https://studygolang.com/articles/16141
+
+- 4. Go管理虚拟机(hypervisor, qemu/kvm) https://github.com/intel/govmm
+
+- 5. 浅谈大型互联网的企业入侵检测及防护策略 https://mp.weixin.qq.com/s/1Iry620hCkJ8sHA626T3Dg
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-10
 - 1. 五个加速 Go 的特性 https://mp.weixin.qq.com/s/sKMlczFAKVdybUHZwSNkpw
 
