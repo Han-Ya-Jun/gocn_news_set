@@ -1,3 +1,15 @@
+### gocn_news_2019-05-01
+- 1. C++/Golang的数组类型异同 https://www.jianshu.com/p/12ec17408836
+
+- 2. 如何分析golang程序的内存使用情况 https://www.jianshu.com/p/43b0e12043b9
+
+- 3. 编译时依赖注入与运行时依赖注入 https://dimes.github.io/blog/compile-time-di-vs-run-time-di
+
+- 4. 从Go的角度看LLVM https://aykevl.nl/2019/04/llvm-from-go
+
+- 5. helm chart 模板开发技巧 https://mp.weixin.qq.com/s/-W3ekLSNmSsbVUjP55JQZw
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-30
 - 1. Go 官方 proxy 进入 Alpha 阶段 https://proxy.golang.org/
 
