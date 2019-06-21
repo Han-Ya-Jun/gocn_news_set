@@ -1,3 +1,23 @@
+### gocn_news_2018-01-11
+- 1. GoCN每日新闻(2018-01-11)
+
+- 2. 1.AWS开发工具包发布适用Go 2.0的开发者预览版 https://aws.amazon.com/cn/blogs/developer/aws-sdk-for-go-2-0-developer-preview/
+
+- 3. 2.TensorFlow用Go实现的图像识别 https://dev.to/plutov/image-recognition-in-go-using-tensorflow-2hga
+
+- 4. 3.Go的IO流 https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185
+
+- 5. 4.Go实现的推送服务 https://dev.to/douglasmakey/firebase-cloud-messaging-with-golang-4he4
+
+- 6. 5.你能用Docker的cli做什么 https://dev.to/twaintaylor/docker-cli-commands-and-what-you-can-do-with-them-5dg3
+
+- 7. 活动预告：
+
+- 8. 编辑: 李森森
+
+- 9. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - 
 ### gocn_news_2018-01-10
 - 1. 三种常见的API设计错误以及如何避免他们 https://blogs.mulesoft.com/dev/api-dev/overcome-three-common-api-mistakes/
 
