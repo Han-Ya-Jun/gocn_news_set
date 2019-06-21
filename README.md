@@ -1,3 +1,15 @@
+### gocn_news_2018-10-25
+- 1. Go interface深入分析 https://blog.csdn.net/TurkeyCock/article/details/83317943
+
+- 2. GoFrame v1.0.898 正式版发布，Go 应用开发框架 https://www.oschina.net/news/101126/goframe-1-0-898--stable-released
+
+- 3. Go 代码的扩展套路 https://mritd.me/2018/10/23/golang-code-plugin/
+
+- 4. Cloud Foundry和Kubernetes结合的过去与未来 https://mp.weixin.qq.com/s/ejap7Xk6FzaiRoBmS1GDCg
+
+- 5. Multi-Cloud Kubernetes 最佳实践 https://mp.weixin.qq.com/s/eG4AoXVGaXpMQJNFtj9sDg
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-24
 - 1. 智能SQL优化和改写工具SORA指南 https://mp.weixin.qq.com/s/7sj2HnOQsNP_Zf_07C1FFQ
 
