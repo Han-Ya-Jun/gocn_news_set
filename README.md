@@ -1,3 +1,15 @@
+### gocn_news_2018-04-21
+- 1. MemConn:一个内存中的网络栈 https://akutz.wordpress.com/2018/04/20/memconn
+
+- 2. Go游戏服务器架构 https://github.com/bobohume/go-server
+
+- 3. Mouthful 一个轻量级的评论服务 https://github.com/vkuznecovas/mouthful
+
+- 4. go基于grpc构建微服务框架-服务注册与发现 https://segmentfault.com/a/1190000014501241
+
+- 5. 基于golang的爬虫实战 https://my.oschina.net/EIKPE2lvl3wigMQG/blog/1798447
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-20
 - 1. 苹果宣布开源FoundationDB https://www.foundationdb.org/blog/foundationdb-is-open-source/
 
