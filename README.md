@@ -1,3 +1,15 @@
+### gocn_news_2017-11-25
+- 1. 【译】如何使用 Golang 中的 Go-Routines 写出高性能的代码https://juejin.im/post/5a17c0f9f265da431a42e060
+
+- 2. 分布式数据库的故障和常见处理机制 http://www.jianshu.com/p/d77ef1f3c939
+
+- 3. postgre分布式事务处理 https://www.citusdata.com/blog/2017/11/22/how-citus-executes-distributed-transactions
+
+- 4. HTTP/2之服务器推送(Server Push)最佳实践 https://mp.weixin.qq.com/s/U0311_AiGkIEtyuO9Uh1Rw
+
+- 5. go开发实时协作画图APP https://outcrawl.com/realtime-collaborative-drawing-go
+
+- - - - - - - - - - 
 ### gocn_news_2017-11-24
 - 1. 1.为Go程序创建最小的Docker Image http://www.cnblogs.com/gaorong/p/Docker.html
 2.Golang 任务队列策略 -- 读《JOB QUEUES IN GO》http://www.cnblogs.com/artong0416/p/7883381.html
