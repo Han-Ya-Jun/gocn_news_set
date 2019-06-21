@@ -1,3 +1,15 @@
+### gocn_news_2018-01-31
+- 1. 当我谈 scheduling 时我在谈什么？ https://zhuanlan.zhihu.com/p/33389178
+
+- 2. 如何节省1T图片带宽？ 解密极致图像压缩！ https://mp.weixin.qq.com/s/8KYlDIhYmF0jCpbdBsIdcw
+
+- 3. 解读R-Net：微软「超越人类」的阅读理解人工智能 https://www.jiqizhixin.com/articles/2018-01-29-4
+
+- 4. Go基于物理的3D渲染引擎 https://github.com/hunterloftis/pbr
+
+- 5. 沪江全链路跟踪系统设计与实践 https://mp.weixin.qq.com/s/uYTVNMpX8Ci0oFvqEF_jlA
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-30
 - 1. IIoT  基础设施的演进：https://www.controldesign.com/articles/2018/the-evolution-of-iiot-infrastructure/
 
