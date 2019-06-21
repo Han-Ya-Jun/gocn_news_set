@@ -1,3 +1,15 @@
+### gocn_news_2019-05-29
+- 1. [译]Go如何优雅的处理异常 https://mp.weixin.qq.com/s/GEWy8AQg5WmlX3POearpZQ
+
+- 2. Micro源码系列 - Go-Micro服务的构造过程 https://gocn.vip/question/3379
+
+- 3. Go内存管理 https://povilasv.me/go-memory-management-part-2/
+
+- 4. gobox中的异常定义和杂项工具 https://mp.weixin.qq.com/s/F-T9aoo3-DMAEr8-dzsenQ
+
+- 5. Go 1.12 移植到 RISC-V 的进展 https://www.reddit.com/r/golang/comments/bu4l0p/progress_on_the_go_112_port_to_riscv/
+
+- - - - - - - - - - 
 ### gocn_news_2019-05-28
 - 1. 是否使用 ORM  https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/
 
