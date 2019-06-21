@@ -1,3 +1,15 @@
+### gocn_news_2018-01-30
+- 1. IIoT  基础设施的演进：https://www.controldesign.com/articles/2018/the-evolution-of-iiot-infrastructure/
+
+- 2. 写给 Go 初学者的十六节课： https://github.com/hacking-code/golang-tutorials
+
+- 3. 使用 TravisCI 自动编译 GitHub 上的 Go 项目：http://blog.questionable.services/article/build-go-binaries-travis-ci-github/
+
+- 4. 5G 时代下全球瞩目的中国： https://futurumresearch.com/5g-is-coming-all-eyes-on-china/
+
+- 5. 200 行代码搭建区块链：https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-29
 - 1. Golang 工程经验 https://juejin.im/post/5a6873fb518825733e60a1ae
 
