@@ -1,3 +1,15 @@
+### gocn_news_2018-12-15
+- 1. Go 1.11.4和Go 1.10.6发布 https://groups.google.com/forum/#!topic/golang-dev/7v2i4A9M_pI
+
+- 2. 内存管理 https://juejin.im/post/5c137f35f265da616f6fda3a
+
+- 3. 并发与安全 https://juejin.im/post/5c1315b0e51d4558bf392053
+
+- 4. 使用HAProxy和Consul构建服务网格 https://www.haproxy.com/blog/building-a-service-mesh-with-haproxy-and-consul/
+
+- 5. 在Go中探索字节解析API  https://blog.gopheracademy.com/advent-2018/exploring-byte-parsing-apis-in-go/
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-14
 - 1. GoCN每日新闻(2018-12-14)  
 
