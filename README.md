@@ -1,3 +1,19 @@
+### gocn_news_2017-07-24
+- 1. 使用Go实现以太坊智能合约 https://zupzup.org/eth-smart-contracts-go/
+
+- 2. 未来Go的延迟调优 https://rakyll.org/latency-profiling/
+
+- 3. 理解Go interface的五个关键点 http://sanyuesha.com/2017/07/22/how-to-understand-go-interface/
+
+- 4. 有限状态机 FSM 的原理与 Go 的实现 http://www.jianshu.com/p/37281543f506
+
+- 5. 
+深入挖掘net/http https://lanreadelowo.com/blog/2017/07/24/roundtripper-go/
+
+
+- 6. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-23
 - 1. 为什么好程序员离开大的技术公司 https://thinkgrowth.org/why-good-people-leave-large-tech-companies-af2b6fea4ee
 
