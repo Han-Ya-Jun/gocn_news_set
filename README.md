@@ -1,3 +1,15 @@
+### gocn_news_2017-08-20
+- 1. Golang之情非得已的DeepCopy http://www.jianshu.com/p/f1cdb1bc1b74
+
+- 2. 我为什么最喜欢 Go https://michael.stapelberg.de/Artikel/golang_favorite
+
+- 3. Go 发送 HTML 邮件 http://www.blog.labouardy.com/sending-html-email-using-go/
+
+- 4. Go 正则引擎性能对比 https://nasciiboy.github.io/raptorVSworld/
+
+- 5. Go vs .NET Core https://hackernoon.com/go-vs-net-core-in-terms-of-http-performance-7535a61b67b8
+
+- - - - - 
 ### gocn_news_2017-08-19
 - 1. 再谈 CGO http://www.jianshu.com/p/7a47c6f3456d
 
