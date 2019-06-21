@@ -1,3 +1,14 @@
+### gocn_news_2017-11-24
+- 1. 1.为Go程序创建最小的Docker Image http://www.cnblogs.com/gaorong/p/Docker.html
+2.Golang 任务队列策略 -- 读《JOB QUEUES IN GO》http://www.cnblogs.com/artong0416/p/7883381.html
+3.使用go来写微服务(part2)  https://ewanvalentine.io/microservices-in-golang-part-2/
+4.Google 人工智能系统 https://github.com/galeone/tfgo
+5.gkvdb v1.0 正式版发布，Go 语言开发的 KV 嵌入式数据库https://www.oschina.net/news/9 ... eased
+
+- 2. 编辑:何小云
+订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - 
 ### gocn_news_2017-11-23
 - 1. 键入安全绑定与Chrome远程接口进行交互  https://github.com/SKatiyar/cri
 
