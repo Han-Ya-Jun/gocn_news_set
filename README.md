@@ -1,3 +1,15 @@
+### gocn_news_2018-02-14
+- 1. 以积极的建设性反馈来写绩效评估 https://jvns.ca/blog/2018/02/10/positive-constructive-feedback/
+
+- 2. Go测试模式 https://medium.com/@pierreprinetti/a-pattern-for-go-tests-3468b51535
+
+- 3. 10秒钟让你的方法变为RPC服务 https://medium.com/@smallnest/make-your-methods-as-services-in-10-seconds-14ec74b86210
+
+- 4. 揭秘阿里数据中心大幅降低成本的核心技术 https://mp.weixin.qq.com/s/lccktISXLLfKzT_ZuNTdpg 
+
+- 5. 通过调试协议来调用谷歌浏览器 https://github.com/chromedp/chromedp
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-12
 - 1. Go 生成 GraphQL 服务端：https://github.com/vektah/gqlgen
 
