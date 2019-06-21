@@ -1,3 +1,15 @@
+### gocn_news_2018-08-17
+- 1. Go 1.11还有什么？https://talks.godoc.org/github.com/mvdan/talks/2018/go1.11.slide#1
+
+- 2. 通过测试学习Go https://quii.gitbook.io/learn-go-with-tests/build-an-application/command-line
+
+- 3. 2018年5大微服务架构发展趋势 https://mp.weixin.qq.com/s/_GoKlD2h8FVLsNhD5FtqtQ
+
+- 4. 深度解析 | 基于DAG的分布式任务调度平台：Maat https://mp.weixin.qq.com/s/39FG8FXADFC9UQuUJGTwbQ
+
+- 5. 有赞是如何高效管理自己的开发测试环境的？https://mp.weixin.qq.com/s/Db5Jwb0QvqsEB207dhWEEg
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-16
 - 1. 迁移到Serverless之前应该想清楚的几件事 https://mp.weixin.qq.com/s/P1fKZwPaIsOQKvmQXqj2yg
 
