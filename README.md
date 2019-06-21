@@ -1,3 +1,15 @@
+### gocn_news_2017-10-12
+- 1. 使用 Go Channels 创建爬虫  https://jorin.me/use-go-channels-to-build-a-crawler
+
+- 2. 在可扩展的项目中组织 Go 代码  https://blog.digitalocean.com/cthulhu-organizing-go-code-in-a-scalable-repo/
+
+- 3. Plan9 libframe in Go  https://github.com/as/frame
+
+- 4. 使用 OpenFaas 构建无服务 Go 函数 https://blog.alexellis.io/serverless-golang-with-openfaas/
+
+- 5. 用Golang开发以太坊去中心化应用 https://blog.sodroid.com/2017/09/25/%E5%A6%82%E4%BD%95%E7%94%A8Golang%E5%BC%80%E5%8F%91Ethereum%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E5%BA%94%E7%94%A8/
+
+- - - - - 
 ### gocn_news_2017-10-11
 - 1. GopherJS 令人惊讶的性能改进 https://medium.com/gopherjs/surprises-in-gopherjs-performance-4a0a49b04ecd
 
