@@ -1,3 +1,15 @@
+### gocn_news_2018-06-17
+- 1. Go值复制的开销 https://go101.org/article/value-copy-cost.html
+
+- 2. CGO 文章整理 http://colobu.com/2018/06/13/cgo-articles/
+
+- 3. 使用fmt包格式化任何数据类型 https://yourbasic.org/golang/fmt-printf-reference-cheat-sheet/
+
+- 4. 测试你的serverless服务的最佳方式 https://medium.freecodecamp.org/the-best-ways-to-test-your-serverless-applications-40b88d6ee31e
+
+- 5. Metacat: 赋予大数据意义并且让其可发现 https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-16
 - 1. Go语言中的组合 https://www.ardanlabs.com/blog/2015/09/composition-with-go.html
 
