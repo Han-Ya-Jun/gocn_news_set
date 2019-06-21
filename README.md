@@ -1,3 +1,15 @@
+### gocn_news_2017-11-12
+- 1. 理解Docker的多阶段镜像构建 http://tonybai.com/2017/11/11/multi-stage-image-build-in-docker/
+
+- 2. Go项目的Makefile https://ops.tips/blog/minimal-golang-makefile/
+
+- 3. Go在线练习网站，非常酷 https://gophercises.com/
+
+- 4. 高并发和高可用的一点思考 http://kriszhang.com/high_performance/
+
+- 5. Golang的HTTP操作大全 https://i6448038.github.io/2017/11/11/httpAndGolang/
+
+- - - - - 
 ### gocn_news_2017-11-10
 - 1. 压缩各种静态文件的工具 https://github.com/tdewolff/minify
 
