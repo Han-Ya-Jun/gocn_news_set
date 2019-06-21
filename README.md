@@ -1,3 +1,15 @@
+### gocn_news_2017-06-23
+- 1. 在Go程序中如何不用httprouter http://blog.merovius.de/2017/06/18/how-not-to-use-an-http-router.html
+
+- 2. Go调度详解  https://zhuanlan.zhihu.com/p/27056944
+
+- 3. 今日头条Go建千亿级微服务的实践 https://36kr.com/p/5073181.html
+
+- 4. MySQL优化原理 http://www.jianshu.com/p/d7665192aaaf
+
+- 5. Go相比Java的优势在哪里？https://www.zhihu.com/question/61200249
+
+- - - - - 
 ### gocn_news_2017-06-22
 - 1. Go实现的rsync算法 https://github.com/c4milo/gsync
 
