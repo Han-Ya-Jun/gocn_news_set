@@ -1,3 +1,15 @@
+### gocn_news_2019-03-26
+- 1. Dave Cheney - Absolute Unit (Test) : https://www.youtube.com/watch?v=UKe5sX1dZ0k
+
+- 2. 使用 Go 和 Flutter 搭建 App：https://divan.dev/talks/2019/gdgbcn/FlutterGomobile.pdf
+
+- 3. Istio 基础：https://medium.com/devopslinks/microservices-mesh-part-ii-istio-basics-b9c343594a05
+
+- 4. 谷歌开源 k8s 原生 CI/CD 构建框架 Tekton：https://mp.weixin.qq.com/s/zP1u8ulwtIVbPOlnK4ttjQ
+
+- 5. 打造高效的工作环境 - SHELL 篇：https://coolshell.cn/articles/19219.html
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-25
 - 1. 恒温器数据收集 https://medium.com/@stevenyue/an-investigation-of-my-home-thermostat-d52c835e90eb
 
