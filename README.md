@@ -1,3 +1,14 @@
+### gocn_news_2019-03-22
+- 1. 从 dep 迁移到 mod http://elliot.land/post/migrating-projects-from-dep-to-go-modules
+
+- 2. Go http.Flusher 在实际项目中的应用 http://www.songjiayang.com/posts/go-http-zhong-flusher-zai-shi-ji-kai-fa-zhong-de-ying-yong
+
+- 3. 结合 docker 做 Go 项目集成测试 https://www.ardanlabs.com/blog/2019/03/integration-testing-in-go-executing-tests-with-docker.html
+4.从 nginx 热更新聊一聊 Go 中的热更新（下） https://zhuanlan.zhihu.com/p/59196185
+
+- 4. 使用排队论做容量规划 https://hackernoon.com/why-capacity-planning-needs-queueing-theory-without-the-hard-math-342a851e215c
+
+- - - - - - - - - - - 
 ### gocn_news_2019-03-21
 - 1. Go实现的具有动态分片策略的高级HTTP反向代理器Weaver https://github.com/gojektech/weaver
 
