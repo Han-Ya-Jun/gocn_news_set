@@ -1,3 +1,15 @@
+### gocn_news_2018-12-27
+- 1. Go构建Docker容器 https://www.callicoder.com/docker-golang-image-container-example/
+
+- 2. 在Go中对API进行版本控制 https://dev.to/geosoft1/versioning-your-api-in-go-1g4h
+
+- 3. Golang安全资源 https://github.com/guardrailsio/awesome-golang-security
+
+- 4. 解析MySQL binlog推送到不同的接收器 https://github.com/bytewatch/dolphinbeat
+
+- 5. Go实现的数据压缩 https://github.com/flanglet/kanzi-go
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-26
 - 1. go-runtime/debug分析 https://www.jianshu.com/p/0b3d11f7af57
 
