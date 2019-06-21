@@ -1,3 +1,15 @@
+### gocn_news_2019-02-16
+- 1. 基于Kubernetes实践弹性的CI/CD系统 https://mp.weixin.qq.com/s/RHLetC0Pz_vscJ0cq11I7g
+
+- 2. Go goroutine理解 https://segmentfault.com/a/1190000018150987
+
+- 3. Go JSON Cookbook https://eli.thegreenplace.net/2019/go-json-cookbook/
+
+- 4. Go任务队列Goblero介绍 https://medium.com/@didil/introducing-goblero-a-go-embedded-job-queue-6dfec8e24d4c
+
+- 5. Go处理100万websocket连接 https://github.com/eranyanay/1m-go-websockets
+
+- - - - - - - - - - 
 ### gocn_news_2019-02-15
 - 1. filecoin已开源 https://filecoin.io/blog/opening-filecoin-project-repos/ 
 
