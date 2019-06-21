@@ -1,3 +1,15 @@
+### gocn_news_2018-12-13
+- 1. 深入解析Golang的fmt包 https://blog.gopheracademy.com/advent-2018/fmt
+
+- 2. Certmagic自动获取和更新TLS证书 https://github.com/mholt/certmagic
+
+- 3. 使用Golang构建微服务 https://www.infoq.com/articles/golang-the-economist
+
+- 4. 使用Go，Gin和React构建Web应用程序 https://hakaselogs.me/2018-04-20/building-a-web-app-with-go-gin-and-react/
+
+- 5. 机器学习的实用方法 https://github.com/GokuMohandas/practicalAI
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-12
 - 1. Go分布式实时服务架构 https://mp.weixin.qq.com/s/EbXmt1I5fYSIugD7x56_WA
 
