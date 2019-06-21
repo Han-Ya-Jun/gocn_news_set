@@ -1,3 +1,15 @@
+### gocn_news_2019-05-07
+- 1. Go语言设计的优劣 https://zhuanlan.zhihu.com/p/64823525
+
+- 2. 深度解密Go语言之反射 https://zhuanlan.zhihu.com/p/64884660
+
+- 3. STUN 的 Go 实现版本：https://github.com/gortc/stun
+
+- 4. Dave Cheney：清晰比聪明更重要  https://dave.cheney.net/paste/clear-is-better-than-clever.pdf 
+
+- 5. PostgreSQL “Don't Do This” 清单 https://wiki.postgresql.org/wiki/Don%27t_Do_This
+
+- - - - - - - - - - 
 ### gocn_news_2019-05-06
 - 1. Go Modules 剖析 https://medium.com/rungo/anatomy-of-modules-in-go-c8274d215c16
 
