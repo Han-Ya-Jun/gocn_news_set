@@ -1,3 +1,15 @@
+### gocn_news_2018-03-04
+- 1. Go的WebAssembly体系结构 https://docs.google.com/document/d/131vjr4DH6JFnb-blm_uRdaC0_Nv3OUwjEY5qVCxCup4
+
+- 2. 一种实验性Go动态加载器 https://github.com/dearplain/goloader
+
+- 3. Go中string rune byte 三者的关系 https://blog.haohtml.com/archives/17646
+
+- 4. Goroutine+Channel+WaitGroup使用 http://helight.info/?p=1046
+
+- 5. Golang正则表达式 http://yourbasic.org/golang/regexp-cheat-sheet/
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-03
 - 1. TiDB 源码阅读系列文章（二）初识 TiDB 源码 http://mp.weixin.qq.com/s/Vdsdr8oU0TNCwGs4V4XqfA
 
