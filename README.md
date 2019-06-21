@@ -1,3 +1,15 @@
+### gocn_news_2018-09-18
+- 1. Go 资源精选中文版 https://github.com/chai2010/awesome-go-zh
+
+- 2. Go runtime 中的 string https://boakye.yiadom.org/go/strings/
+
+- 3. Go 声音可视化 https://mlesniak.com/post/2018/09/13/go-guitar-/-visualize-sound/
+
+- 4. 在 K8s 中调试 Go 程序 https://itnext.io/debug-a-go-application-in-kubernetes-from-ide-c45ad26d8785
+
+- 5. Go vs Python http://govspy.peterbe.com/
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-17
 - 1. Gophercon2018演讲视频 https://www.youtube.com/watch?v=zPd0Cxzsslk&list=PL2ntRZ1ySWBdatAqf-2_125H4sGzaWngM
 
