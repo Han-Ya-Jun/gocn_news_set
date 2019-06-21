@@ -1,3 +1,15 @@
+### gocn_news_2018-08-19
+- 1. 用Go创建一款跨平台桌面游戏 https://sausheong.github.io/posts/cross-platform-games-with-go/
+
+- 2. GoAWK:用Go编写的AWK解释器 https://github.com/benhoyt/goawk
+
+- 3. 基于LLVM的Go编译器 https://github.com/aykevl/tinygo
+
+- 4. Go Modules介绍 https://talks.godoc.org/github.com/rogpeppe/talks/modules.talk/modules.slide
+
+- 5. 推荐30个用于微服务的顶级工具 https://mp.weixin.qq.com/s/XmlmN2h7cCguJc6spBoD7w
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-18
 - 1. Go strings.Builder源码分析 http://blog.cyeam.com/golang/2018/08/16/strings-builder
 
