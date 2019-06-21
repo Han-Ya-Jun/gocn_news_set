@@ -1,3 +1,15 @@
+### gocn_news_2017-08-17
+- 1. Testing with GoMock  https://blog.codecentric.de/en/2017/08/gomock-tutorial/
+
+- 2. Gop - 编译和管理在GOPATH之外的Go工程 http://lunny.info/2017/8/15/Gop---%E7%BC%96%E8%AF%91%E5%92%8C%E7%AE%A1%E7%90%86%E5%9C%A8GOPATH%E4%B9%8B%E5%A4%96%E7%9A%84Go%E5%B7%A5%E7%A8%8B.html
+
+- 3. Kubernetes at GitHub https://githubengineering.com/kubernetes-at-github/
+
+- 4. Channel 缓冲与不缓冲 https://medium.com/@philpearl/channel-direct-send-9e2899ab2ee3
+
+- 5. 商务微服务框架 digota https://github.com/digota/digota
+
+- - - - - 
 ### gocn_news_2017-08-16
 - 1. 第一次贡献代码给 Go  http://agniva.me/open-source/go/2017/08/12/contributing-to-go.html
 
