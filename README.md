@@ -1,3 +1,15 @@
+### gocn_news_2017-10-01
+- 1. 《Go in action》读后记录：Go的并发与并行 http://www.cnblogs.com/QG-whz/p/7616547.html
+
+- 2. Go实现的服务器监控工具 https://github.com/ssimunic/gossm
+
+- 3. Go如何进入企业 https://www.youtube.com/watch?feature=youtu.be&v=mxlJqrVSalY
+
+- 4. Chrome高级调试工具 http://eux.baidu.com/blog/2017/08/chrome-%E8%B0%83%E8%AF%95%E5%B7%A5%E5%85%B7%E7%9A%84%E4%B8%80%E4%BA%9B%E9%AB%98%E9%98%B6%E5%8A%9F%E8%83%BD
+
+- 5. Go string和[]byte的对比 https://sheepbao.github.io/post/golang_byte_slice_and_string/
+
+- - - - - 
 ### gocn_news_2017-09-30
 - 1. 《effective Go》读后记录 http://www.cnblogs.com/QG-whz/p/7613707.html
 
