@@ -1,3 +1,17 @@
+### gocn_news_2018-03-12
+- 1. GopherChina 2018 大会全部议程 https://mp.weixin.qq.com/s/1_v8DsvinZWfh0-HXks88Q
+
+- 2. GopherChina大会嘉宾专访--逻辑思维首席架构师方圆 https://mp.weixin.qq.com/s/OW8Xhfblg_lOO9pRJfxFEQ
+
+- 3. GopherChina大会嘉宾专访--阿里巴巴技术专家李雨前 https://mp.weixin.qq.com/s/ve6LYDyiQwKvm8C5USYm_w
+
+- 4. GopherChina大会嘉宾专访--比特大陆哥白尼负责人姜家志 https://mp.weixin.qq.com/s/ozyi485w5We1UtGarYI-dQ
+
+- 5. GopherChina大会嘉宾专访--AChainABTC项目CTO强科臻 https://mp.weixin.qq.com/s/V4c9QiZ_Fh9yIfkMveTrCg
+
+- 6. GopherChina大会嘉宾专访--青云应用平台开发部工程师柴树杉 https://mp.weixin.qq.com/s/-_e5Zt4x0yYvgV4_fkxAGw
+
+- - - - - - - - - 
 ### gocn_news_2018-03-11
 - 1. Go编写的现代 IRC 服务 https://github.com/oragono/oragono
 
