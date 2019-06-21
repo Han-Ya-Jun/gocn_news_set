@@ -1,3 +1,15 @@
+### gocn_news_2019-04-19
+- 1. Uber M3存储优化实践 https://eng.uber.com/optimizing-m3/
+
+- 2. 从头开始学习go的并发 http://www.doxsey.net/blog/go-concurrency-from-the-ground-up
+
+- 3. bet365开源更快的json序列化库jingo https://bet365techblog.com/open-sourcing-jingo-a-faster-json-encoder-for-go
+
+- 4. 利用二分法思想找出Go性能退化原因 https://medium.com/@fzambia/bisecting-go-performance-degradation-4d4a7ee83a63
+
+- 5. SQLite网络查询服务器 https://github.com/assafmo/SQLiteQueryServer
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-18
 - 1. Go 2和Go的未来 https://changelog.com/gotime/80
 
