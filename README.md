@@ -1,3 +1,15 @@
+### gocn_news_2018-09-05
+- 1. 经典并发模式中的一些反思 https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view
+
+- 2. GO MODULES 介绍 https://ukiahsmith.com/amp/blog/a-gentle-introduction-to-golang-modules/
+
+- 3. Helm 的基本使用方法 https://mp.weixin.qq.com/s/0K5T5wSxDUxGezsPcfiR0Q
+
+- 4. GO Web教程 https://www.youtube.com/playlist?list=PLSak_q1UXfPrba68q2afhFq4aBAPVSDbj
+
+- 5. serverless 平台 knative 简介 http://cizixs.com/2018/08/25/knative-serverless-platform
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-04
 - 1. PushMan：Go 实时应用开发实践 https://medium.com/koinex-crunch/pushman-the-koinex-standard-for-realtime-experience-4122d2715c92
 
