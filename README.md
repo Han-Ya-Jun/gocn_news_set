@@ -1,3 +1,15 @@
+### gocn_news_2018-04-18
+- 1. 谷歌开源容器镜像归档工具 https://github.com/GoogleContainerTools/kaniko
+
+- 2. JWT在Web应用间安全地传递信息 http://mp.weixin.qq.com/s/rLrYsGhnf_iZrMTSDvkqxA
+
+- 3. Web3与智能合约交互实战 https://zhuanlan.zhihu.com/p/35708174
+
+- 4. 使用channel还是Mutex https://github.com/golang/go/wiki/MutexOrChannel
+
+- 5. 微服务API网关 https://github.com/eolinker/GoKu-API-Gateway
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-17
 - 1. 从测试驱动学习 Go https://quii.gitbook.io/learn-go-with-tests/
 
