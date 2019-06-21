@@ -1,3 +1,17 @@
+### gocn_news_2018-11-30
+- 1. GoCN每日新闻(2018-11-30)  
+
+- 2. 1.Go2:俺来也！ https://blog.golang.org/go2-here-we-come
+2.深入了解Go的类型系统 https://medium.com/@ankur_anand/a-closer-look-at-go-golang-type-system-3058a51d1615
+3.使用Go和GraphQL编写API服务 https://medium.com/@xavierfox/how-to-code-an-an-api-with-go-and-graphql-1e86c950bd1
+4.使用Go语言写一个DNS服务 https://medium.com/@owlwalks/build-a-dns-server-in-golang-fec346c42889
+5.vdl: 唯品会开源日志存储系统 https://github.com/vipshop/vdl  
+
+- 3. 活动: Gopher Meetup 巡回第五站 - 广州 https://gocn.vip/question/2391  
+
+- 4. 编辑: Razil  
+
+- - - - - - - - - - - 
 ### gocn_news_2018-11-29
 - 1. GoCN每日新闻(2018-11-29)  
 
