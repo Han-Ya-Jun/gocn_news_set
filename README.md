@@ -1,3 +1,15 @@
+### gocn_news_2017-06-15
+- 1. mgo的session与连接池 https://cardinfolink.github.io/2017/05/17/mgo-session/
+
+- 2. CapitalGo 2017 视频列表 https://www.youtube.com/playlist?list=PLeGxIOPLk9EKdl-h_Y-sbLhLoP-ia7CJ5
+
+- 3. REST的2.0版本 graphql https://www.sitepoint.com/rest-2-0-graphql/
+
+- 4. 最经典的TCP性能问题 http://jm.taobao.org/2017/06/01/20170601/
+
+- 5. 微服务就是一把双刃剑 http://www.jianshu.com/p/82ec12651d2d
+
+- - - - - 
 ### gocn_news_2017-05-10
 - 1. 程序员面试宝典 https://github.com/jwasham/coding-interview-university
 
