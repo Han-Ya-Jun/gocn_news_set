@@ -1,3 +1,15 @@
+### gocn_news_2018-11-02
+- 1. Grpc Mock与测试实践 https://medium.com/@lukexng/mocking-grpc-services-and-tests-in-golang-7a83771f1b21
+
+- 2. gitbase:使用SQL语句查询git的repo https://medium.com/sourcedtech/gitbase-exploring-git-repos-with-sql-95ec0986386c
+
+- 3. Go的值对象使用 https://medium.com/@cn007b/go-valueobject-19ea273f9056
+
+- 4. 理解k8s资源限制系列:cpu time https://medium.com/@betz.mark/understanding-resource-limits-in-kubernetes-cpu-time-9eff74d3161b
+
+- 5. go-mysql-server:一款类MySQL的SQL引擎 https://github.com/src-d/go-mysql-server
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-01
 - 1. Golang包的新特性对于Mysql查询操作 https://medium.com/@rocketlaunchr.cloud/canceling-mysql-in-go-827ed8f83b30
 
