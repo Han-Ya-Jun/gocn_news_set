@@ -1,3 +1,15 @@
+### gocn_news_2019-05-11
+- 1. 从并发模型看 Go 的语言设计 https://mp.weixin.qq.com/s/vBUBkecD6TxSHhZja9Ww7g
+
+- 2. 深度解密Go语言之反射 https://mp.weixin.qq.com/s/Hke0mSCEa4ga_GS_LUp78A
+
+- 3. 开源代码学习-nsq（v0.1.5版本）源码分析 https://mp.weixin.qq.com/s/Hke0mSCEa4ga_GS_LUp78A
+
+- 4. Go驱动测试 https://dave.cheney.net/2019/05/07/prefer-table-driven-tests
+
+- 5. Go与Java、Python相比的优势 https://yourbasic.org/golang/advantages-over-java-python/
+
+- - - - - - - - - - 
 ### gocn_news_2019-05-10
 - 1. 进程、线程、协程和goroutine https://www.jianshu.com/p/4739d2cd72d7
 
