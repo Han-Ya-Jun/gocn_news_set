@@ -1,3 +1,15 @@
+### gocn_news_2018-07-04
+- 1. Go在广发证券分布式行情和交易系统的应用和实践 https://mp.weixin.qq.com/s/tKwN4wucIE0SprC-ToRQcA
+
+- 2. 理解go中interface关键点 https://www.jianshu.com/p/d0efa039e9db
+
+- 3. 使用go channel循环访问数据集 https://medium.com/average-coder/looping-through-data-sets-with-go-channels-5c7fd1ec5589
+
+- 4. 如何让机器向“时尚达人”学习？阿里做了个“实用”的图像数据集 https://mp.weixin.qq.com/s/W92qf_xq2QbtN3PLobrvHQ
+
+- 5. 推荐引擎数百分片redis使用时需要注意的事https://mp.weixin.qq.com/s/RK1ThFCZ2uDym8jTky4vpQ
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-03
 - 1. Go 实现 OAuth 2.0： https://www.sohamkamani.com/blog/golang/2018-06-24-oauth-with-golang/
 
