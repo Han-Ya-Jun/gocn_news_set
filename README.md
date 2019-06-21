@@ -1,3 +1,15 @@
+### gocn_news_2018-07-24
+- 1. Golang 代码质量持续检测 https://github.com/developer-learning/night-reading-go/blob/master/articles/sonarqube-for-golang/sonarqube-for-golang.md
+
+- 2. Go 编写的麻将手游后端演示 https://github.com/lonnng/nanoserver
+
+- 3. Go for Rubyist 系列文章 http://zonov.me/go-for-rubyists-part-8-concurrency-ruby-go-elixir/
+
+- 4. 一分钟教你快速部署Kubernetes应用 https://mp.weixin.qq.com/s/93KbCPp98r-RMBecN-7OtA
+
+- 5. Google首款小程序「猜画小歌」用了哪些AI相关技术？  https://jizhi.im/blog/post/google_ai_chxg
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-23
 - 1. beego 1.10.0发布，修复大量已知问题 https://gocn.vip/question/2078
 
