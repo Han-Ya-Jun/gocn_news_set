@@ -1,3 +1,15 @@
+### gocn_news_2018-11-01
+- 1. Golang包的新特性对于Mysql查询操作 https://medium.com/@rocketlaunchr.cloud/canceling-mysql-in-go-827ed8f83b30
+
+- 2. Go微控制器编译器 https://github.com/aykevl/tinygo
+
+- 3. Go的RESTful APIs和路由框架gorouter https://github.com/xujiajun/gorouter
+
+- 4. Go的依赖注入 https://github.com/i-love-flamingo/dingo
+
+- 5. 不同的视角解读Docker和Kubernetes https://dzone.com/articles/docker-containers-and-kubernetes-an-architectural
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-31
 - 1. Go 3D源代码分析库  https://github.com/rodrigo-brito/gocity
 
