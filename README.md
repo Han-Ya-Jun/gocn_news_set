@@ -1,3 +1,15 @@
+### gocn_news_2018-03-31
+- 1. Golang 项目中如何对 API 进行测试？https://juejin.im/post/5ab9fb50518825557459b94d
+
+- 2. 专访William Kennedy：如何学习Go语言 http://www.infoq.com/cn/news/2018/03/William-Kennedy-Interview
+
+- 3. SQL查询Go源码包 https://github.com/fzerorubigd/goql
+
+- 4. Go应用高级测试 https://mhmxs.blogspot.jp/2018/03/advanced-testing-of-golang-applications.html
+
+- 5. QALM Uber的QoS 管理框架 https://eng.uber.com/qalm/
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-30
 - 1. 用树莓派和golang写一个比特币硬件钱包  https://www.thepolyglotdeveloper.com/2018/03/create-bitcoin-hardware-wallet-golang-raspberry-pi-zero/
 
