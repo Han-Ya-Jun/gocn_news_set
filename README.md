@@ -1,3 +1,15 @@
+### gocn_news_2019-06-19
+- 1. Go 中 Defer, Panic 和 Recover: https://medium.com/rungo/defer-panic-and-recover-in-go-689dfa7f8802
+
+- 2. Go 错误处理：https://medium.com/rungo/error-handling-in-go-f0125de052f0 
+
+- 3. 优化 Go 程序的简单技巧：https://stephen.sh/posts/quick-go-performance-improvements
+
+- 4. Service Mesh 简介：https://medium.com/@arjunrc143/introduction-to-service-mesh-4fc2b872d4f9 
+
+- 5. 系统架构系列（一）：如何用公式定义该概念? https://www.infoq.cn/article/fwhQ-dIN2xTUH6zNLYZp
+
+- - - - - - - - - - 
 ### gocn_news_2019-06-18
 - 1. 曹大谈内存重排 https://mp.weixin.qq.com/s/r9yC78exkDbXs7Et2pC5PA
 
