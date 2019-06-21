@@ -1,3 +1,15 @@
+### gocn_news_2019-01-30
+- 1. 如何在两个最流行的语言go和JAVA中选择 https://blog.spiralscout.com/when-to-use-go-vs-java-one-programmers-take-on-two-top-languages-59617f30be5e
+
+- 2. go plugins的设计与实践 https://medium.com/pathaoengineering/go-plugin-write-it-once-39be2ba38bc4
+
+- 3. 如何容器化引入私有库的Go应用 https://medium.com/@anuragdhingra/containerize-a-golang-app-using-private-github-repos-as-import-packages-51e993afe394
+
+- 4. 将postgresql扩展到12亿条每月的经验 https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067
+
+- 5. 如何创建一个更小的docker镜像 https://medium.com/@gdiener/how-to-build-a-smaller-docker-image-76779e18d48a
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-29
 - 1. Golang中带有容量的函数调度程序的解析 https://medium.com/@sdeoras/a-go-func-scheduler-with-a-cap-360383f14875
 
