@@ -1,3 +1,15 @@
+### gocn_news_2019-01-27
+- 1. cacheline 对 Go 程序的影响 https://colobu.com/2019/01/24/cacheline-affects-performance-in-go/
+
+- 2. 使用 defer 还是不使用 defer https://colobu.com/2019/01/22/Runtime-overhead-of-using-defer-in-go/
+
+- 3. 错误处理与自动重试 http://www.zenlife.tk/error-retry.md
+
+- 4. 同时支持SAP、ASE、RS、IQ的Go驱动库 https://github.com/thda/tds
+
+- 5. GopherCon UK 2018 使用Go构建弹性流水线 https://www.youtube.com/watch?v=gm34Aph9v0M
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-26
 - 1. 提议: Go 2错误检查 https://go.googlesource.com/proposal/+/master/design/29934-error-values.md
 
