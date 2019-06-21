@@ -1,3 +1,15 @@
+### gocn_news_2018-09-14
+- 1. Golang基于Gitlab CI/CD部署方案 https://yq.aliyun.com/articles/638794
+
+- 2. 手把手教你学之golang反射 https://www.jianshu.com/p/c890ae5da90e
+
+- 3. AWS EKS上部署OpenFaaS|亚马逊Web服务 https://aws.amazon.com/blogs/opensource/deploy-openfaas-aws-eks/
+
+- 4. 如何做好服务拆分？https://mp.weixin.qq.com/s/wDWQxaCxOjpeoj_0sZHcuQ
+
+- 5. 教程|使用Istio在Kubernetes集群中实现金丝雀部署 https://kublr.com/blog/hands-on-canary-deployments-with-istio-and-kubernetes/
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-13
 - 1. 如何优雅地关闭Go channel https://yq.aliyun.com/articles/638787
 
