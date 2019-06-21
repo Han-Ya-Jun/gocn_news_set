@@ -1,3 +1,19 @@
+### gocn_news_2017-08-24
+- 1. 微服务架构 API 的开发与治理 https://mp.weixin.qq.com/s/eXvoJew3bjFKzLLJpS0Otg
+
+- 2. Go汇编实战的坑 https://mzh.io/golang-asm-notes
+
+- 3. [译] 设计一个容错的微服务架构 https://github.com/jasonGeng88/blog/blob/master/201708/microservice-for-failure.md
+
+- 4. 探索C++与Go的接口底层实现 http://www.jianshu.com/p/073c09a05da7
+
+- 5. 
+Go 项目Makefile实战 https://sahilm.com/makefiles-for-golang/
+
+
+- 6. [9月9日]广州Gopher Meetup https://www.bagevent.com/event/751233
+
+- - - - 
 ### gocn_news_2017-08-23
 - 1. Grpc Go 性能优化  https://grpc.io/2017/08/22/grpc-go-perf-improvements.html
 
