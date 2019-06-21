@@ -1,3 +1,15 @@
+### gocn_news_2018-03-15
+- 1. [总结] 容器技术架构、网络和生态详解 https://mp.weixin.qq.com/s/Vs7jR8ekJF31etsGTzxRKA
+
+- 2. [图解] 机器学习常见的基本算法 https://mp.weixin.qq.com/s/F5F5TKlOvfojXbVfeS-f9g
+
+- 3. 淘宝高可用高伸缩高性能框架之实现 https://mp.weixin.qq.com/s/998XKSIGSH-hRNtxxiERnw
+
+- 4. 使用 Go 进行 Socket 编程 http://hbliu.coding.me/2018/03/14/unix-socket-programming/
+
+- 5. Golang 新手可能会踩的 50 个坑  https://wuyin.io/2018/03/07/50-shades-of-golang-traps-gotchas-mistakes/
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-14
 - 1. Go推送服务 https://github.com/appleboy/gorush
 
