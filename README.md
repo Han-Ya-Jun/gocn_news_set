@@ -1,3 +1,15 @@
+### gocn_news_2018-08-29
+- 1. Go2设计草案 https://golang.org/s/go2designs
+
+- 2. GopherCon2018博文汇总 https://about.sourcegraph.com/go
+
+- 3. C和Go相互调用 https://colobu.com/2018/08/28/c-and-go-calling-interaction/
+
+- 4. Go版Surge https://github.com/sipt/shuttle
+
+- 5. InnoDB巧妙实现4种事务的隔离级别 https://mp.weixin.qq.com/s/x_7E2R2i27Ci5O7kLQF0UA
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-28
 - 1. Travis CI 如何支持go modules 和 vendor : https://arslan.io/2018/08/26/using-go-modules-with-vendor-support-on-travis-ci/
 
