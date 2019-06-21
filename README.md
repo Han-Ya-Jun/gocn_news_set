@@ -1,3 +1,17 @@
+### gocn_news_2017-07-15
+- 1. 到底有多少Gopher？https://research.swtch.com/gophercount
+
+- 2. Go1.9有哪些值得关注的变化 http://tonybai.com/2017/07/14/some-changes-in-go-1-9/
+
+- 3. redis4.0发布了 https://groups.google.com/forum/#!msg/redis-db/5Kh3viziYGQ/58TKLwX0AAAJ
+
+- 4. Go AST入门 https://zupzup.org/go-ast-traversal/
+
+- 5. 如何做Go的性能优化 https://zhuanlan.zhihu.com/p/27800985
+
+- 6. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-14
 - 1. 浅谈 MVC、MVP 和 MVVM 架构模式 http://draveness.me/mvx.html
 
