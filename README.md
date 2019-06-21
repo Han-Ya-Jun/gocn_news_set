@@ -1,3 +1,15 @@
+### gocn_news_2017-11-06
+- 1. 你所下过的那些笨功夫，才是你的核心竞争力 http://www.jianshu.com/p/0199fdcf73b5
+
+- 2. Go静态分析和review工具reviewdog https://docs.google.com/presentation/d/1_BWQXamZvIhL3l9ziL9zb25yP9RjpgXoxkWX-48ECss/edit#slide=id.p
+
+- 3. Go+Microservices at Mercari https://talks.godoc.org/github.com/tcnksm/talks/2017/11/gocon2017/gocon2017.slide
+
+- 4. 基于 event-loop 的网络库  https://github.com/tidwall/evio
+
+- 5. Go压力测试UI https://github.com/divan/gobenchui
+
+- - - - - 
 ### gocn_news_2017-11-05
 - 1. vim-go的过去与未来 https://speakerdeck.com/farslan/the-past-and-future-of-vim-go
 
