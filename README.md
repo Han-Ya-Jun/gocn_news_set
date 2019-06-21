@@ -1,3 +1,15 @@
+### gocn_news_2018-06-08
+- 1. Go 1.10.3和1.9.7发布 https://groups.google.com/forum/m/#!topic/golang-announce/_S9YQriFKuU
+
+- 2. go内存管理 https://povilasv.me/go-memory-management
+
+- 3. prometheus2.3发布 https://github.com/prometheus/prometheus/releases/tag/v2.3.0
+
+- 4. 大道至简—GO语言最佳实践 https://mp.weixin.qq.com/s/hE7ecSywWY8SxoQV0OwBQg
+
+- 5. Go数据结构完美打印 https://github.com/shivamMg/ppds
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-07
 - 1. 深入介绍 Golang 中的 bufio.Scanner https://zhuanlan.zhihu.com/p/37673679
 
