@@ -1,3 +1,15 @@
+### gocn_news_2018-02-28
+- 1. Go2017年问卷调查结果 https://blog.golang.org/survey2017-results
+
+- 2. Go零基础编程入门教程 https://gocn.io/question/1615
+
+- 3. 跨平台编译cgo https://github.com/karalabe/xgo
+
+- 4. 200行Go实现一个以太坊代理服务器 https://zhuanlan.zhihu.com/p/34056983
+
+- 5. Go addressable http://colobu.com/2018/02/27/go-addressable/
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-27
 - 1. Android 系统中运行 Go：http://rafalgolarz.com/blog/2017/01/15/running_golang_on_android/
 
