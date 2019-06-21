@@ -1,3 +1,15 @@
+### gocn_news_2018-06-13
+- 1. Go语言汇编优化 https://mp.weixin.qq.com/s/fiVVCjBG17aX_8MbBZ80jg
+
+- 2. 记一次linux(被)入侵，服务器变矿机 https://mp.weixin.qq.com/s/kPc-0HVmYtNaGDoJOwxzAg
+
+- 3. 性能优化的一般性原则与方法 https://mp.weixin.qq.com/s/7cmuw6nMSpAu_os7AkF7cw
+
+- 4. pod垂直扩展 https://banzaicloud.github.io/blog/k8s-vertical-pod-autoscaler/
+
+- 5. dotcoin，一个新兴的区块链项目 https://github.com/michain/dotcoin
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-12
 - 1. Go 代码重构获得 23x 性能提升 https://medium.com/@val_deleplace/go-code-refactoring-the-23x-performance-hunt-156746b522f7
 
