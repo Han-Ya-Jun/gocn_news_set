@@ -1,3 +1,20 @@
+### gocn_news_2018-01-25
+- 1. GoCN每日新闻(2018-01-25)
+
+- 2. 1.使用ServiceComb Go-chassis构建微服务 http://www.infoq.com/cn/articles/ServiceComb-Go-chassis-micro-service
+2.使用AWS10年经验之谈 https://hackernoon.com/10-lessons-from-10-years-of-aws-part-1-258b56703fcf
+3.go并发 http://www.minaandrawos.com/2015/12/06/concurrency-in-golang/
+4.Golang中的空接口作用 http://www.minaandrawos.com/2017/12/29/empty-interface-go-programming-language/
+5.使用goroutine/defer所犯的错误 https://dev.to/mattn/my-stupid-mistake-about-goroutinedefer-5ddb
+
+- 3. Tips：
+
+- 4. 编辑: 李森森
+订阅新闻: http://tinyletter.com/gocn
+
+- 5. 为什么从这篇没有收录到 每日新闻 这个 topic 下面呢，从2017年11.19号之后的 每日推送 没有都归档到这个 topic 下，现在查询起来好不方面啊
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-24
 - 1. golang的http cookie用法 http://www.linuxidc.com/Linux/2018-01/150518.htm
 
