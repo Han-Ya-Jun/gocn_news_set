@@ -1,3 +1,15 @@
+### gocn_news_2018-01-29
+- 1. Golang 工程经验 https://juejin.im/post/5a6873fb518825733e60a1ae
+
+- 2. Go 谚语 https://lingchao.xin/post/go-proverbs.html
+
+- 3. golang json 性能分析 https://segmentfault.com/a/1190000013022780
+
+- 4. Go 管道传数据的速度到底有多快 https://syslog.ravelin.com/so-just-how-fast-are-channels-anyway-4c156a407e45
+
+- 5. 一个能将任意网络摄像机转化为 IP 摄像机的库 https://github.com/gen2brain/cam2ip
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-28
 - 1. GoCN每日新闻(2018-01-28)
 
