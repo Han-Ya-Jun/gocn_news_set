@@ -1,3 +1,15 @@
+### gocn_news_2018-05-13
+- 1. NSQ源码剖析 https://gocn.io/article/785
+
+- 2. Golang NewApi https://github.com/kaelanb/newsapi-go
+
+- 3. Golang解决现实中背包问题算法 https://dev.to/hivickylai/knapsack-problem-algorithms-for-my-real-life-carry-on-knapsack-33jj
+
+- 4. Postgres内幕:并发控制 http://www.interdb.jp/pg/pgsql05.html
+
+- 5. 深入分析Kubernetes Scheduler的优先级队列 https://my.oschina.net/jxcdwangtao/blog/1811164
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-12
 - 1. 使用JWT保护API接口访问  https://scene-si.org/2018/05/08/protecting-api-access-with-jwt/
 
