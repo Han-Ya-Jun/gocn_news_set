@@ -1,3 +1,15 @@
+### gocn_news_2018-12-25
+- 1. Using Go in Devops https://blog.gopheracademy.com/advent-2018/go-devops/
+
+- 2. 知乎推荐系统的实践及重构之路 https://zhuanlan.zhihu.com/p/53130925
+
+- 3. Go 堆栈的理解 https://segmentfault.com/a/1190000017498101
+
+- 4. Go 设计 API 版本化 https://dev.to/geosoft1/versioning-your-api-in-go-1g4h
+
+- 5. Go 的服务对象模式 https://itnext.io/using-service-objects-in-go-d899dc599335
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-24
 - 1. 性能优化：优化一个已经很快了的Go程序 https://boyter.org/posts/sloc-cloc-code-performance/
 
