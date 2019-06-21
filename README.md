@@ -1,3 +1,15 @@
+### gocn_news_2018-01-08
+- 1. httplive: Go语言实现的Postman开源替代 https://github.com/gencebay/httplive
+
+- 2. libmqtt: Go实现的高性能MQTT客户端 https://github.com/goiiot/libmqtt
+
+- 3. Gobgp: Go实现的BGP工具 https://github.com/osrg/gobgp
+
+- 4. Golang sucks: Go中让人困惑的设计 https://speakerdeck.com/majek04/golang-sucks
+
+- 5. go-health: 方便的在服务中实现异步状态监控 https://github.com/InVisionApp/go-health
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-07
 - 1. NTP客户端实现 https://medium.com/learning-the-go-programming-language/lets-make-an-ntp-client-in-go-287c4b9a969f
 
