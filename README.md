@@ -1,3 +1,15 @@
+### gocn_news_2018-10-20
+- 1. gRPC客户端身份验证 https://jbrandhorst.com/post/grpc-auth/
+
+- 2. 掌握Golang世界 https://www.getrevue.co/profile/golang/issues/master-the-world-of-golang-issue-25-139614
+
+- 3. GoLand中的重构：更改签名 https://blog.jetbrains.com/go/2018/10/19/refactorings-change-signature/
+
+- 4. 微服务架构组件分析 https://segmentfault.com/a/1190000016744430
+
+- 5. 可组合的GIF效应CLI https://github.com/sgreben/yeetgif
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-19
 - 1. 使用RSpec对Go应用进行黑盒测试 https://medium.freecodecamp.org/how-to-black-box-test-a-go-app-with-rspec-421e786f4103
 
