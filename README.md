@@ -1,3 +1,15 @@
+### gocn_news_2017-06-25
+- 1. Go入门教程 http://www.golangprograms.com/
+
+- 2. SSH with Go http://talks.rodaine.com/gosf-ssh/present.slide#1
+
+- 3. 如何利用好interface http://blog.tamizhvendan.in/blog/2017/06/24/leveraging-interfaces-in-golang-part-1/
+
+- 4. etcd 3.2分布式锁等新特性 http://dockone.io/article/2444
+
+- 5. 工作能力强的人都有哪些特征 https://www.zhihu.com/question/28880482
+
+- - - - - 
 ### gocn_news_2017-06-24
 - 1. 一个内部Go API系统的性能优化 https://zhuanlan.zhihu.com/p/27211445
 
