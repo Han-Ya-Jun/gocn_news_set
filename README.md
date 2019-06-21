@@ -1,3 +1,15 @@
+### gocn_news_2018-08-11
+- 1. 容器技术从头开始 https://www.youtube.com/watch?v=8fi7uSYlOdc
+
+- 2. 修改并编译golang源码 https://www.jianshu.com/p/3ca7d1a649a8
+
+- 3. Gosec：Go语言源码安全分析工具 http://www.freebuf.com/sectool/179549.html
+
+- 4. 一个用Go编写实现shell的科学管道的工作流库 https://www.biorxiv.org/content/early/2018/08/01/380808
+
+- 5. mimetype - 用于文件签名检测的简单库 https://github.com/gabriel-vasile/mimetype
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-10
 - 1. Go的鲁棒性介绍 https://www.youtube.com/watch?v=40d26ZGfhR8
 
