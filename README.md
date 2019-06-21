@@ -1,3 +1,15 @@
+### gocn_news_2018-06-03
+- 1. Go CookBook https://ednsquare.com/publisher/view/Go-Language-CookBook-With-Examples------xOhLZaZVGG
+
+- 2. Go 101 细节 https://go101.org/article/details.html
+
+- 3. Go工业级编程 https://peter.bourgon.org/go-for-industrial-programming/
+
+- 4. 现代存储系统背后的算法 https://queue.acm.org/detail.cfm?id=3220266
+
+- 5. 可观测的异常检查工作流 https://eng.uber.com/observability-anomaly-detection/
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-02
 - 1. Go实现的supervisor https://github.com/ochinchina/supervisord
 
