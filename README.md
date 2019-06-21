@@ -1,3 +1,15 @@
+### gocn_news_2018-03-16
+- 1. 用 Go 写一个轻量级的 ldap 测试工具 https://xiaozhuanlan.com/topic/6140389527
+
+- 2. 新一代开源分布式账本项目R3 Corda 技术揭秘：基于JVM开 https://mp.weixin.qq.com/s/3VQGRmBjvGKahw82uTsvFQ
+
+- 3. 基于Docker和Kubernetes的最佳架构实践 https://mp.weixin.qq.com/s/Kw5_9aR1AQbrxHRjDa4BhQ
+
+- 4. 北京大学加入超级账本 在高校学术领域推动区块链加速 https://mp.weixin.qq.com/s/sGtZrFJfsGixz9iExepIBA
+
+- 5. Agones：一款基于Kubernetes的开源游戏服务器  https://mp.weixin.qq.com/s/roxSf1LemzS-t7vk9JxvTA
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-15
 - 1. [总结] 容器技术架构、网络和生态详解 https://mp.weixin.qq.com/s/Vs7jR8ekJF31etsGTzxRKA
 
