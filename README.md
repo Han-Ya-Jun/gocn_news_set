@@ -1,3 +1,15 @@
+### gocn_news_2017-08-05
+- 1. 再谈谈获取 goroutine id 的方法 http://colobu.com/2017/08/04/talk-about-getting-goroutine-id-again/
+
+- 2. 使用Beego+Swagger构建更好的API服务 http://www.jianshu.com/p/43ddc4509585
+
+- 3. Go替换nodejs的库，跑javascript https://github.com/jingweno/godzilla
+
+- 4. Go内存布局 https://syslog.ravelin.com/go-and-memory-layout-6ef30c730d51
+
+- 5. 关于缓存你需要知道的 http://www.jianshu.com/p/3c111e4719b8
+
+- - - - - 
 ### gocn_news_2017-08-04
 - 1. 深入理解SQL事务隔离 https://begriffs.com/posts/2017-08-01-practical-guide-sql-isolation.html
 
