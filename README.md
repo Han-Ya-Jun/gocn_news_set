@@ -1,3 +1,15 @@
+### gocn_news_2017-12-13
+- 1. 阿里的容器技术 https://github.com/alibaba/pouch
+
+- 2. 从php到go再回到php http://blog.breakthru.solutions/re-moving-from-php-to-go-and-back-again/
+
+- 3. 走近比特币：一个故事看懂区块链原 https://mp.weixin.qq.com/s/hoRLBOGfDOe57dEzdNzMoQ
+
+- 4. go符号回归库 https://github.com/MaxHalford/koza
+
+- 5. 代码重用工具  https://github.com/dc0d/goreuse
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-12
 - 1. 基于机器学习的索引 https://arxiv.org/pdf/1712.01208.pdf
 
