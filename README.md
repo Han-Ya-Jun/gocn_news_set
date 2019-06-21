@@ -1,3 +1,19 @@
+### gocn_news_2017-07-12
+- 1. Severless架构 https://read.acloud.guru/serverless-event-sourcing-at-nordstrom-ea69bd8fb7cc
+
+- 2. 提高应用程序可用性的五个要点 http://www.broadview.com.cn/article/337
+
+- 3. Erlang 和Go 的对比 http://www.jianshu.com/p/514459a3e0e7
+
+- 4. 纯Go写的图标库  https://github.com/wcharczuk/go-chart
+
+- 5. 使用beego 开发 api server 和前端同学拆分开发，使用swagger http://t.cn/RKx3VIA
+
+- 6. 【北京】360运维工程师 https://gocn.io/article/384
+
+- 7. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - 
 ### gocn_news_2017-07-11
 - 1. Consul实现分布式锁 https://xiequan.info/golang-%E9%80%9A%E8%BF%87-consul-%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/
 
