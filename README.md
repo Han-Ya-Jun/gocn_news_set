@@ -1,3 +1,15 @@
+### gocn_news_2017-09-13
+- 1. Go 官方调试指南  https://tip.golang.org/doc/diagnostics.html
+
+- 2. API设计中常见的三大错误 https://www.programmableweb.com/news/three-common-api-design-mistakes-and-how-to-overcome-them/analysis/2017/03/10
+
+- 3. Go 在百万亿级搜索引擎中的应用 https://mp.weixin.qq.com/s/m3fvUUnVBLxE2SUvwX7v0w
+
+- 4. Go 1.10将针对time包效率在多核下进行大幅提升 https://go-review.googlesource.com/c/go/+/34784
+
+- 5. 写给Rubyist的Go教程 https://medium.com/@klebervirgilio/go-for-rubyits-part-1-8543938c3ecc
+
+- - - - - 
 ### gocn_news_2017-09-12
 - 1. 图解 TCMalloc https://zhuanlan.zhihu.com/p/29216091
 
