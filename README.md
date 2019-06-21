@@ -1,3 +1,15 @@
+### gocn_news_2018-06-26
+- 1. Klook分享Go应用秘籍：服务千万级全球用户的4点心得  https://mp.weixin.qq.com/s/5eOe-2JyxhepcvjmXZuL-A
+
+- 2. 基于 TiKV 搭建兼容 Redis 集群 https://itnext.io/build-a-redis-compatible-cluster-based-on-tikv-6ef03d26528
+
+- 3. golang实现mysql数据库备份 https://segmentfault.com/a/1190000015382281
+
+- 4. Go 使用编译 tag 载入配置 https://medium.com/@eminetto/golang-using-build-tags-to-store-configurations-d586e23c1dde
+
+- 5. Go 绘制 ASCII 曲线 https://github.com/guptarohit/asciigraph
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-25
 - 1. Go 1.11中的性能优化 https://docs.google.com/presentation/d/1tpeJZFObkeick4CF-mx0L3CeCgvT15B96aJeRpxEPcE
 
