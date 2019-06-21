@@ -1,3 +1,15 @@
+### gocn_news_2018-03-07
+- 1. 如何入门区块链  https://mp.weixin.qq.com/s/9NrDOOe1EvxHln2BehU9Ww
+
+- 2. 我是怎么阅读kubernetes源代码的？ http://dockone.io/article/895
+
+- 3. Kubernetes HA 1.9 高可用集群,本地离线部署 https://mp.weixin.qq.com/s/KfZ1SyRFy-tXI44CQfaSPQ
+
+- 4. 一个好用的视图模型映射库 https://github.com/devfeel/mapper
+
+- 5. 利用K8S技术栈打造个人私有云(连载之：K8S资源控制)  https://www.jianshu.com/p/58a98e65074c
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-06
 - 1. AWS 架构分享系列 https://aws.amazon.com/this-is-my-architecture/
 
