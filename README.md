@@ -1,3 +1,15 @@
+### gocn_news_2018-12-24
+- 1. 性能优化：优化一个已经很快了的Go程序 https://boyter.org/posts/sloc-cloc-code-performance/
+
+- 2. 构建弹性系统：断路器还是重试？ https://engineering.grab.com/designing-resilient-systems-part-1
+
+- 3. loki: 为日志而生的类Prometheus https://github.com/grafana/loki
+
+- 4. 尝试将preact移植到Go WASM https://github.com/gernest/greact
+
+- 5. athens与微软 https://medium.com/@arschles/athens-and-microsoft-1b11a316bc23
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-23
 - 1. 如何用GO语言编写缓存服务 https://www.epubit.com/selfpublish/article/5105
 
