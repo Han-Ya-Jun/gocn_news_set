@@ -1,3 +1,15 @@
+### gocn_news_2018-07-01
+- 1. 详解Go的Reader接口 https://medium.com/@snippet22/reader-types-2ba61290a5cf
+
+- 2. Go中复制文件的3种方式 https://opensource.com/article/18/6/copying-files-go
+
+- 3. Makefile生成器mkg  https://github.com/cwchentw/mkg
+
+- 4. 解决 error creating overlay mount to /var/lib/docker/overlay2 http://colobu.com/2018/06/28/Error-response-from-daemon-error-creating-overlay-mount-to-var-lib-docker-overlay2/
+
+- 5. 为docker容器配置日志rotation https://medium.freecodecamp.org/how-to-setup-log-rotation-for-a-docker-container-a508093912b2
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-30
 - 1. 2018.06.29 IOST测试网 Everest 0.5如约而至 https://www.jianshu.com/p/bac1bd755269
 
