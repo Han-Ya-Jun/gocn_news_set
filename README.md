@@ -1,3 +1,15 @@
+### gocn_news_2018-03-06
+- 1. AWS 架构分享系列 https://aws.amazon.com/this-is-my-architecture/
+
+- 2. Go 语言知识图谱 https://mp.weixin.qq.com/s/SmKxLsa2grc7kYj7eYyidQ
+
+- 3. Go 内部原理 https://github.com/teh-cmc/go-internals
+
+- 4. Go 使用服务器对象模式 https://www.calhoun.io/using-the-service-object-pattern-in-go/
+
+- 5. go rpc 源码分析 https://segmentfault.com/a/1190000013532622
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-05
 - 1. 关于Go的博文收集列表 https://github.com/enocom/gopher-reading-list
 
