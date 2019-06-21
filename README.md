@@ -1,3 +1,15 @@
+### gocn_news_2018-01-19
+- 1. Google新开源的分布式追踪系统 http://opencensus.io/
+
+- 2. 网络启动工具包netboot https://github.com/google/netboot
+
+- 3. DevOps利器-Hygieia平台开发部署 https://www.toutiao.com/i6509021208409801219/
+
+- 4. Go高性能编程实战 https://www.infoq.com/presentations/go-programming-language
+
+- 5. Go web应用移植到AWS Lambda http://artem.krylysov.com/blog/2018/01/18/porting-go-web-applications-to-aws-lambda/
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-18
 - 1. 引入Serverless/FaaS时机到了？国外Hootsuite的Serverless架构实践 https://mp.weixin.qq.com/s/bdbWQ5YsgrNArpI6Wp81pA
 
