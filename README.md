@@ -1,3 +1,17 @@
+### gocn_news_2017-07-09
+- 1. Go handler 接口详解 https://blog.bartfokker.nl/clean-handlers/
+
+- 2. JWT用户认证 http://lion1ou.win/2017/01/18/
+
+- 3. 高质量代码的特征 http://zhangyi.farbox.com/post/coding/feature-of-high-quality-code
+
+- 4. 容器化你的应用 http://dockone.io/article/2239
+
+- 5. 轻松筹1.6亿注册用户的Passport账户体系架构设计 http://www.sohu.com/a/154131834_467759
+
+- 6. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-08
 - 1. TIOBE Go 排名进入前十 https://www.tiobe.com/tiobe-index/
 
