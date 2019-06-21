@@ -1,3 +1,15 @@
+### gocn_news_2018-12-23
+- 1. 如何用GO语言编写缓存服务 https://www.epubit.com/selfpublish/article/5105
+
+- 2. Golang TLS双向身份认证DoS漏洞分析 https://www.anquanke.com/post/id/168383
+
+- 3. Golang非CSP并发模型外的其他并行方法总结 https://i6448038.github.io/2018/12/18/Golang-no-csp
+
+- 4. gpio-and-go https://blog.gopheracademy.com/advent-2018/gpio-and-go/
+
+- 5. netcap:基于安全和可伸缩流量分析的框架 https://github.com/dreadl0ck/netcap
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-22
 - 1. Go指针和内存分配详解 https://segmentfault.com/a/1190000017473672
 
