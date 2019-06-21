@@ -1,3 +1,15 @@
+### gocn_news_2018-06-06
+- 1. 使用Go备份Github和Gitlab https://www.linuxjournal.com/content/back-github-and-gitlab-repositories-using-golang
+
+- 2. time.Sleep是如何运作的 https://github.com/golang/go/issues/25471#issuecomment-391906366 
+
+- 3. 纯Go实现的人脸识别库 https://github.com/esimov/pigo
+
+- 4. Kafka解惑之时间轮 https://mp.weixin.qq.com/s/7S_TC9uTE-P1uYV5p0HzCA
+
+- 5. 网易严选从单一架构到分布式交易架构 https://mp.weixin.qq.com/s/syM4ReAWpZ5d4KI87ogpiQ
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-05
 - 1. 微软收购 github : https://www.entrepreneur.com/article/314449
 
