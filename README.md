@@ -1,3 +1,15 @@
+### gocn_news_2019-03-28
+- 1. golang中接口interface和struct结构类的分析 http://www.cnblogs.com/zhangdewang/p/10612089.html
+
+- 2. 木犀的第二代后端架构 http://zxc0328.github.io/2019/03/27/muxi-arch-2019/
+
+- 3. ERC20 代币作为 Hyperledger Fabric Golang 链码 http://blog.hubwiz.com/2019/03/26/hyperledger-fabric-golang-erc20/
+
+- 4. 六年打磨！阿里开源混沌工程工具 ChaosBlade https://mp.weixin.qq.com/s/QLlCeYq_j0EwVzEMHHTwPg
+
+- 5. Kubernetes 1.14发布：对Windows节点的生产级支持、Kubectl更新与持久本地卷通用版本已全面到来 https://mp.weixin.qq.com/s/eQRpRfMVs9G2lfdk5rdAEg
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-27
 - 1. 深入理解 Go map：初始化和访问元素 https://gocn.vip/article/1683
 
