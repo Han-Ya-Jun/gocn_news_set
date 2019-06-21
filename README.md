@@ -1,3 +1,15 @@
+### gocn_news_2018-02-02
+- 1. eBay的Elasticsearch性能调优实践 http://mp.weixin.qq.com/s/Xvc7f0nBaNVa7_DnzjCUiw
+
+- 2. golang通用连接池的实现 https://segmentfault.com/a/1190000013089363
+
+- 3. 腾讯：手Q研发体系与工具实践 http://mp.weixin.qq.com/s/JeBv04N9-D_zFo4ShOyO0Q
+
+- 4. Facebook开源物体检测平台Detectron https://github.com/facebookresearch/Detectron
+
+- 5. Golang Rollbar客户端 https://github.com/rollbar/rollbar-go
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-01
 - 1. 微服务架构技术栈选型手册 https://mp.weixin.qq.com/s/zFJokAv8lSQejGFTGJTJeQ
 
