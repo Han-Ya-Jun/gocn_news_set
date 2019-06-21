@@ -1,3 +1,15 @@
+### gocn_news_2017-08-19
+- 1. 再谈 CGO http://www.jianshu.com/p/7a47c6f3456d
+
+- 2. Go 操作底层 socket 和 wifi  https://medium.com/@mdlayher/linux-netlink-and-go-part-3-packages-netlink-genetlink-and-wifi-b0ca78e62f8a
+
+- 3. Go 领域驱动设计 https://juicemia.com/post/go-ddd/
+
+- 4. Iris 支持 MVC 设计 https://github.com/kataras/iris/blob/master/HISTORY.md#fr-18-august-2017--v830
+
+- 5. Go 实现操作系统 https://github.com/achilleasa/gopher-os
+
+- - - - - 
 ### gocn_news_2017-08-18
 - 1. Go 1.9 Release Party https://talks.godoc.org/github.com/davecheney/go-1.9-release-party/presentation.slide#1
 
