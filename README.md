@@ -1,3 +1,15 @@
+### gocn_news_2019-01-08
+- 1. Github 支持免费创建私有仓库 https://blog.github.com/2019-01-07-new-year-new-github/
+
+- 2. Go语言(golang)的错误(error)处理的推荐方案 https://www.flysnow.org/2019/01/01/golang-error-handle-suggestion.html
+
+- 3. 使用 pprof 提升 Prometheus 的启动速度 https://www.robustperception.io/optimising-startup-time-of-prometheus-2-6-0-with-pprof
+
+- 4. 《经济学人》使用 Go 搭建微服务 https://www.infoq.com/articles/golang-the-economist
+
+- 5. Go 使用 Docker 进行实时开发更新 https://threedots.tech/post/go-docker-dev-environment-with-go-modules-and-live-code-reloading/
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-07
 - 1. 让Raft变快100倍 - Dragonboat的写优化 https://zhuanlan.zhihu.com/p/52620657
 
