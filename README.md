@@ -1,3 +1,14 @@
+### gocn_news_2018-10-27
+- 1. 用Go和Vue写单页面应用 https://developer.okta.com/blog/2018/10/23/build-a-single-page-app-with-go-and-vue
+
+- 2. Go语言中的并行合并排序 https://hackernoon.com/parallel-merge-sort-in-go-fe14c1bc006
+
+- 3. 用JWTs使你的Go REST API更安全 https://tutorialedge.net/golang/authenticating-golang-rest-api-with-jwts/
+
+- 4. Istio1.1.0下的TCP流量控制 https://mp.weixin.qq.com/s/UuTrPlO4yk2uHfIXfsfiAA
+5 Go开发工具GoLand新版本支持Mozilla rr调试和一些别的更强大的功能 https://blog.jetbrains.com/go/2018/10/25/goland-2018-3-eap-4-is-here/
+
+- - - - - - - - - - - 
 ### gocn_news_2018-10-26
 - 1. 小米正式开源 Istio 管理面板 Naftis https://xiaomi-info.github.io/2018/10/25/naftis/
 
