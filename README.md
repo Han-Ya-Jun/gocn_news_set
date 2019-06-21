@@ -1,3 +1,15 @@
+### gocn_news_2018-07-26
+- 1. Golang中的Error监控 https://dev.to/mostlyjason/error-monitoring-in-golang-51a8
+
+- 2. Go并发中的锁与channel https://opensource.com/article/18/7/locks-versus-channels-concurrent-go
+
+- 3. Go实现的开源多层窗口工具 https://github.com/hortonworks/cloud-haunter
+
+- 4. Knative 一套平台覆盖全部主流云无服务器 https://github.com/knative/docs
+
+- 5. GitHub集成到你的Kubernetes集群的持续交付　https://github.com/manifoldco/heighliner
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-25
 - 1. Go-Cloud：Go团队推出的混合云平台开发框架 https://blog.golang.org/go-cloud
 
