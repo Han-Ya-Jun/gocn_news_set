@@ -1,3 +1,15 @@
+### gocn_news_2019-05-15
+- 1. ConnectLoop模型 https://alex.dzyoba.com/blog/go-connect-loop/
+
+- 2. 在Go中使用PostgreSQL的JSONB https://www.alexedwards.net/blog/using-postgresql-jsonb
+
+- 3. 性能优化之罪 http://t.cn/EKKhpYY
+
+- 4. ktop: Kubernetes可视化监控工具 https://github.com/ynqa/ktop
+
+- 5. radix:高性能字符串排序库 https://github.com/yourbasic/radix
+
+- - - - - - - - - - 
 ### gocn_news_2019-05-14
 - 1. Go playground 支持第三方引用包 https://github.com/golang/go/issues/31944
 
