@@ -1,3 +1,15 @@
+### gocn_news_2017-10-30
+- 1. Go 终极指南：编写一个 Go 工具  http://www.jianshu.com/p/20b533c5c3f9
+
+- 2. 我们为什么从 Python 迁移到 Go https://dzone.com/articles/why-we-switched-from-python-to-go
+
+- 3. 用Go开发可以内网活跃主机嗅探器 https://github.com/timest/goscan/issues/1
+
+- 4. Neugram,  a fork of go for scripting  https://neugram.io/blog/neugram-briefly
+
+- 5. Go 与遗传算法 https://5280incode.wordpress.com/2017/10/30/go-with-genetic-algorithms/
+
+- - - - - 
 ### gocn_news_2017-10-29
 - 1. 少于100行代码实现一个http(s)代理 https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c
 
