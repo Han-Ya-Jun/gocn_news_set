@@ -1,3 +1,17 @@
+### gocn_news_2017-07-22
+- 1. GRPC生产实践 https://about.sourcegraph.com/go/grpc-in-production-alan-shreve
+
+- 2. Go mindmap 整理 https://learn-anything.xyz/programming/programming-languages/go
+
+- 3. glide从入门到精通使用 https://my.oschina.net/u/553243/blog/1475626
+
+- 4. morestack与goroutine pool http://www.zenlife.tk/goroutine-pool.md
+
+- 5. 给新手的微服务入门知识 https://zhuanlan.zhihu.com/p/28000891
+
+- 6. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-21
 - 1. Go怎么写一个网络客户端 https://www.slideshare.net/nats_io/writing-networking-clients-in-go-gophercon-2017-talk
 
