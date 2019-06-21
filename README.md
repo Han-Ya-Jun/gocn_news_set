@@ -1,3 +1,20 @@
+### gocn_news_2017-12-14
+- 1. GOCN每日新闻(2017-12-14)
+
+- 2. 1.在 Kubernetes上运行 Spark https://jimmysong.io/spark-on-k8s/running-on-kubernetes.html
+2.Go和机器学习 https://www.dotconferences.com/2017/11/francesc-campoy-flores-machine-learning-and-go
+3.Go通过 Consul实现分布式锁 https://distributedbydefault.com/distributed-locks-with-consul-and-golang-c4eccc217dd5
+4.Go转换Javascript编译器 https://mat.tm/joy/
+5.随时随地访问您的Kubernetes集群 https://jimmysong.io/posts/kubernetes-anytime-anywhere/
+
+- 3. 编辑：李森森
+订阅新闻：http://tinyletter.com/gocn
+
+- 4. 有问题反馈的可以加我微信Sen0676,go每日新闻会做的更好
+
+- 5. 终于看到有关机器学习的要闻啦。不错不错。
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-13
 - 1. 阿里的容器技术 https://github.com/alibaba/pouch
 
