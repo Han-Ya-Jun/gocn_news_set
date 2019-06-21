@@ -1,3 +1,15 @@
+### gocn_news_2017-07-18
+- 1. systemd前世今生 http://coolshell.cn/articles/17998.html
+
+- 2. 60行Go代码实现的strace https://medium.com/@lizrice/strace-in-60-lines-of-go-b4b76e3ecd64
+
+- 3. Go窃取算法的调度器 https://rakyll.org/scheduler/
+
+- 4. obito：开箱即用的 iOS 推送服务（Golang）https://github.com/jiajunhuang/obito
+
+- 5. 微服务最难的部分：调用服务 http://blog.christianposta.com/microservices/the-hardest-part-of-microservices-calling-your-services/
+
+- - - - - 
 ### gocn_news_2017-07-17
 - 1. Idiomatic Go https://about.sourcegraph.com/go/idiomatic-go
 
