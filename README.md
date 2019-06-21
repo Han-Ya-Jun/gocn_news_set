@@ -1,3 +1,15 @@
+### gocn_news_2017-08-28
+- 1. Teleport：通用、高效、灵活的 TCP Socket 框架（Golang） https://github.com/henrylee2cn/teleport
+
+- 2. Go 零值序列化  https://daenney.github.io/2017/08/27/go-zero-values-serialising-deserialising.html
+
+- 3. Go 带唯一 key 的锁 https://medium.com/@petrlozhkin/kmutex-lock-mutex-by-unique-id-408467659c24
+
+- 4. 我的 Go 的使用场景 https://dev.to/mariosangiorgio/my-use-case-for-go
+
+- 5. 为什么需要学习 Go http://www.itproportal.com/features/why-you-need-to-learn-go/
+
+- - - - - 
 ### gocn_news_2017-08-27
 - 1. Go defer的一些坑 https://deepzz.com/post/how-to-use-defer-in-golang.html
 
