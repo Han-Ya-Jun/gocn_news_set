@@ -1,3 +1,15 @@
+### gocn_news_2017-10-29
+- 1. 少于100行代码实现一个http(s)代理 https://medium.com/@mlowicki/http-s-proxy-in-golang-in-less-than-100-lines-of-code-6a51c2f2c38c
+
+- 2. 深入理解GO语言之内存分配 https://juejin.im/post/59f2e19f5188253d6816d504
+
+- 3. Go 延迟函数 defer 详解 https://mp.weixin.qq.com/s/5xeAOYi3OoxCEPe-S2RE2Q
+
+- 4. 最终，为什么选择go-kit http://www.jianshu.com/p/0c34a75569b1
+
+- 5. 怎样用beego开发服务端应用？http://www.lijiaocn.com/%E6%96%B9%E6%B3%95/2017/10/23/beego-usage.html
+
+- - - - - 
 ### gocn_news_2017-10-28
 - 1. 使用Go gRPC 和k8s开始你的微服务之旅 https://outcrawl.com/getting-started-microservices-go-grpc-kubernetes/
 
