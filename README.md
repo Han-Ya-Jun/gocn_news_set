@@ -1,3 +1,16 @@
+### gocn_news_2018-04-25
+- 1. 【漏洞分析】Go语言任意代码执行漏洞 CVE-2018-6574
+http://blog.nsfocus.net/cve-2018-6574/
+
+- 2. html链接检测 https://github.com/raviqqe/muffet
+
+- 3. 深度学习笔记 http://www.ai-start.com/dl2017
+
+- 4. web框架架构 https://idawson.me/posts/ewserver-part-1/
+
+- 5. 介绍kubeless的go function https://medium.com/bitnami-perspectives/introducing-golang-functions-to-kubeless-a9a9e4f0cab1
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-24
 - 1. Go 可能会让你讨厌的五点： https://jaxenter.com/5-things-you-hate-about-go-143422.html
 
