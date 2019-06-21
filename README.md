@@ -1,3 +1,15 @@
+### gocn_news_2018-05-21
+- 1. JSON APIs 就像 Web 应用一样 https://www.calhoun.io/apis-are-just-web-applications
+
+- 2. gobox 中的异常定义和杂项工具 http://blog.7rule.com/2018/05/20/gobox-exception-misc.html
+
+- 3. 也许你并不需要 REST http://hire.jonasgalvez.com.br/2018/May/20/You-Dont-Need-REST
+
+- 4. 在 Slack 中创建一个进度条 https://github.com/sfreiberg/progress
+
+- 5. Go 开发的高性能无损压缩工具 https://github.com/flanglet/kanzi-go
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-20
 - 1. Hacker News招聘趋势排名，Go首次进入前10 https://www.hntrends.com/2018/apr-golang-jumps-into-top-10.html
 
