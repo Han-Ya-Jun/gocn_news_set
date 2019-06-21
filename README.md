@@ -1,3 +1,19 @@
+### gocn_news_2017-08-25
+- 1. 在Go程序中嵌入静态文件数据 https://scene-si.org/2017/08/22/embedding-data-in-go-executables/
+
+- 2. 为什么Go是可扩展的？https://www.youtube.com/watch?v=e2QVjmN5IF4
+
+- 3. Rustgo: 用Golang轻轻松松调用Rust http://geek.csdn.net/news/detail/233396
+
+- 4. Go 1.9 is released https://blog.golang.org/go1.9
+
+- 5. 
+给Go建立一个CI系统 https://medium.com/@zarkopafilis/building-a-ci-system-for-go-with-jenkins-4ab04d4bacd0
+
+
+- 6. [9月9日]广州Gopher Meetup https://www.bagevent.com/event/751233
+
+- - - - 
 ### gocn_news_2017-08-24
 - 1. 微服务架构 API 的开发与治理 https://mp.weixin.qq.com/s/eXvoJew3bjFKzLLJpS0Otg
 
