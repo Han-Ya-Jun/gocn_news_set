@@ -1,3 +1,15 @@
+### gocn_news_2018-07-31
+- 1. Go modules 和 CircleCI 的配合使用： https://medium.com/@toddkeech/go-modules-and-circleci-c0d6fac0b000
+
+- 2. 编写 Go 命令行工具： https://hackernoon.com/building-a-network-command-line-interface-in-go-fd57b31df3fe 
+
+- 3. 通过例子学 Go：https://hackernoon.com/time-to-go-learning-golang-through-examples-480a90c5e7f9
+
+- 4. Istio 将是 HP 平台强有力的挑战者：https://preliminary.istio.io/blog/2018/hp/
+
+- 5. IPFS 简介：https://medium.com/zimrii-music-platform/ipfs-what-it-is-how-it-works-and-who-uses-it-1132700b9563
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-30
 - 1. [译]用 Go 语言写一个简单的shell https://mp.weixin.qq.com/s/9pGt1kvoCZhXk9gUxdOhzQ
 
