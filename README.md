@@ -1,3 +1,15 @@
+### gocn_news_2018-05-23
+- 1. interface详解 https://itnext.io/interfaces-in-golang-f1aea1ba31cb
+
+- 2. 爬虫带你了解一下Golang的市场行情 https://segmentfault.com/a/1190000014643720
+
+- 3. 在go中使用splice(2) https://acln.ro/articles/go-splice
+
+- 4. 创建一个杀手级 Go Cli 的 5 个关键点 http://sanyuesha.com/2018/05/23/five-keys-to-a-killer-go-cli/
+
+- 5. Go语言map实践 https://mp.weixin.qq.com/s/9x-R6LJuS5iTfzqzDoqbyQ
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-22
 - 1. 如何在 gRPC 项目中使用 OpenCensus: https://medium.com/@orijtech/opencensus-for-go-grpc-developers-7f3ee1ac3d6d
 
