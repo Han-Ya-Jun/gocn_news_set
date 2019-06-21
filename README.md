@@ -1,3 +1,15 @@
+### gocn_news_2019-02-22
+- 1. 可视化学习Go的内存分配器 https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed 
+
+- 2. WebAssembly实践 https://medium.com/@didil/practice-your-go-webassembly-with-a-game-7195dabbfc44 
+
+- 3. 用Go搭建商城系统 https://morioh.com/p/3d1f6febc8b4/a-guide-to-golang-e-commerce 
+
+- 4. Cds:一款企业级CI/CD平台 https://github.com/ovh/cds  
+
+- 5. glTF 2.0 序列化反序列化库: https://github.com/qmuntal/gltf 
+
+- - - - - - - - - - 
 ### gocn_news_2019-02-21
 - 1. 使用Go和Kubernetes进行数据库迁移 https://dev.to/plutov/database-migrations-with-go-and-kubernetes-266a
 
