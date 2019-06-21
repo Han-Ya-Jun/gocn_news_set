@@ -1,3 +1,15 @@
+### gocn_news_2017-11-13
+- 1. pprof新的UI https://rakyll.org/pprof-ui/
+
+- 2. Google的可观测性方法 https://medium.com/@rakyll/googles-approach-to-observability-frameworks-c89fc1f0e058
+
+- 3. golang interface深度解析 http://blog.csdn.net/D_Guco/article/details/78507999
+
+- 4. 软件2.0 https://medium.com/@karpathy/software-2-0-a64152b37c35
+
+- 5. GothamGo 2017视频集 https://www.youtube.com/watch?v=egSvw7xYw9s&list=PLeGxIOPLk9ELp7dx6A0gtvjbc99dU2kq-
+
+- - - - - 
 ### gocn_news_2017-11-12
 - 1. 理解Docker的多阶段镜像构建 http://tonybai.com/2017/11/11/multi-stage-image-build-in-docker/
 
