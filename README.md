@@ -1,3 +1,15 @@
+### gocn_news_2019-01-15
+- 1. 阅读挑战：Go中的堆排 https://blog.bitsrc.io/reading-challenge-heap-sort-in-go-93115239accd
+
+- 2. 思想实验：Flutter与Go集成 http://divan.github.io/posts/flutter_go
+
+- 3. Golang并发：再也不愁选channel还是选锁 https://segmentfault.com/a/1190000017890174
+
+- 4. Hyperledger Fabric的Chaincode测试教程 https://medium.com/coinmonks/tutorial-on-hyperledger-fabrics-chaincode-testing-44c3f260cb2b
+
+- 5. coredhcp：一个Go编写的高效、多线程、模块化、可扩展的DHCP服务器 https://github.com/coredhcp/coredhcp
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-14
 - 1. 用Go创建新的智能合约语言 - 词法分析器部分 https://medium.com/@14wnrkim/create-new-smartcontract-language-with-go-lexer-part-a5cdfca9b42e
 
