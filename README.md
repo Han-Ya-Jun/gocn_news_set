@@ -1,3 +1,15 @@
+### gocn_news_2017-10-18
+- 1. 在Google Go team工作体验 https://medium.com/@ljrudberg/working-on-the-go-team-at-google-917b2c8d35ff
+
+- 2. Go学习一月总结 https://blog.learngoprogramming.com/learn-go-programming-monthly-recap-a0b1e494393c
+
+- 3. devops的肮脏的秘密 http://chrisdodds.net/dirty-secrets-of-devops/
+
+- 4. 从ELK到EFK https://mp.weixin.qq.com/s/UMzq0Mt2_nm5pWn1Spba3Q
+
+- 5. 我们怎么从Python切换到Go https://getstream.io/blog/switched-python-go/
+
+- - - - - 
 ### gocn_news_2017-10-17
 - 1. Golang 微服务在腾讯游戏用户运营领域的探索及实践 http://www.infoq.com/cn/presentations/exploration-practice-of-golang-micro-service-in-the-tencent-game-users
 
