@@ -1,3 +1,15 @@
+### gocn_news_2018-03-27
+- 1. 关于 Go 包版本管理的提案： https://blog.golang.org/versioning-proposal
+
+- 2. 使用Go语言从零编写PoS区块链 http://chaingod.io/article/16
+
+- 3. 如何在初创产品中运用深度学习？ https://thenextweb.com/contributors/2018/03/25/use-machine-learning-startups-product/
+
+- 4. Kubernetes 1.10 发布  http://blog.kubernetes.io/2018/03/kubernetes-1.10-stabilizing-storage-security-networking.html
+
+- 5. 微服务的安全性和你所想的一样吗？ https://thenewstack.io/microservices-security-probably-not-what-you-think-it-is/
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-26
 - 1. Go 汇编简介：https://blog.hackercat.ninja/post/quick_intro_to_go_assembly
 
