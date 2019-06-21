@@ -1,3 +1,17 @@
+### gocn_news_2017-06-16
+- 1. Program FPGAs with Go https://reconfigure.io/
+
+- 2. 给Go项目做体检 https://github.com/wgliang/goreporter
+
+- 3. Go1.9 beta发布 https://tip.golang.org/doc/go1.9
+
+- 4. 通过Go深入理解网络协议 https://medium.com/@mdlayher/network-protocol-breakdown-ethernet-and-go-de985d726cc1
+
+- 5. 使用os/exec执行一些高级命令 https://blog.kowalczyk.info/article/wOYk/advanced-command-execution-in-go-with-osexec.html
+
+- 6. 【北京】派派 https://gocn.io/article/362
+
+- - - - 
 ### gocn_news_2017-06-15
 - 1. mgo的session与连接池 https://cardinfolink.github.io/2017/05/17/mgo-session/
 
