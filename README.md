@@ -1,3 +1,15 @@
+### gocn_news_2018-01-21
+- 1. 自定义GraphQL客户端json解析 https://dmitri.shuralyov.com/blog/25
+
+- 2. 如何使用go的反射 https://medium.com/capital-one-developers/learning-to-use-go-reflection-822a0aed74b7
+
+- 3. 使用go实现比特币交易 https://mp.weixin.qq.com/s/lZkyDsj7h2YmgG24WOZtKQ
+
+- 4. goquery选择器示例大全 http://www.flysnow.org/2018/01/20/golang-goquery-examples-selector.html
+
+- 5. 机器学习应用区块链系列(开发智能合约) https://mp.weixin.qq.com/s/o0gIQCRIHuOmAZAH7EkVaA
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-20
 - 1. 微信亿级用户异常检测框架的设计与实践 https://mp.weixin.qq.com/s/M9DWyGQ_VeV15OnUF8W2ZA
 
