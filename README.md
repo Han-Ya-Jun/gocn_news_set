@@ -1,3 +1,15 @@
+### gocn_news_2018-10-29
+- 1. Go语言并发模式 https://blog.afoolishmanifesto.com/posts/golang-concurrency-patterns/
+
+- 2. einx: 一个用Go构建的游戏服务器 https://github.com/Cyinx/einx
+
+- 3. 应用容器化优化指南 - Golang篇 https://yq.aliyun.com/articles/658456
+
+- 4. 使用Go构建pipeline架构 https://labs.bawi.io/building-a-pipeline-architecture-in-golang-4c154b8cdcff
+
+- 5. Golang反射深入理解 https://www.jianshu.com/p/1cf328cfe82b
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-28
 - 1. Go Web框架特性比较 http://www.cnblogs.com/joyswings/p/9864521.html
 
