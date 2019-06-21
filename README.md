@@ -1,3 +1,16 @@
+### gocn_news_2018-01-02
+- 1. 使用 GopherJS 和 React 搭建交互式前端应用 https://www.youtube.com/watch?v=Vr3SzCI8TVo&feature=youtu.be
+
+- 2. Go ORM 框架 https://github.com/volatiletech/sqlboiler
+
+- 3. Go 中不同的文件读取方式 http://kgrz.io/reading-files-in-go-an-overview.html
+
+- 4. 微服务架构中的测试问题 https://medium.com/@copyconstruct/testing-microservices-the-sane-way-9bb31d158c16
+
+- 5. 2017年 AI 与 深度学习发展回顾
+http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-01
 - 1. Go 的设计哲学 https://www.infoq.com/presentations/go-concurrency-gc
 
