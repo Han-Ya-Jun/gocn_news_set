@@ -1,3 +1,15 @@
+### gocn_news_2017-08-16
+- 1. 第一次贡献代码给 Go  http://agniva.me/open-source/go/2017/08/12/contributing-to-go.html
+
+- 2. 理解锁  https://golangbot.com/mutex/
+
+- 3. 从设计上规避Go语言的 interface{} == nil 判断容易出错的简单办法  https://my.oschina.net/linker/blog/1510802
+
+- 4. rustgo: 从 Go 调用 Rust https://blog.filippo.io/rustgo/
+
+- 5. 理解 go interface 的 5 个关键点  https://my.oschina.net/shyl/blog/1510619
+
+- - - - - 
 ### gocn_news_2017-08-15
 - 1. [译]像牛人一样改进你的Go代码 http://colobu.com/2017/06/27/Lint-your-golang-code-like-a-mad-man/
 
