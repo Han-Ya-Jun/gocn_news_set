@@ -1,3 +1,15 @@
+### gocn_news_2018-01-14
+- 1. 使用istio治理微服务入门 http://tonybai.com/2018/01/03/an-intro-of-microservices-governance-by-istio/
+
+- 2. 是时候使用Kubernetes包管理工具Helm了https://www.kubernetes.org.cn/3435.html
+
+- 3. 写Go代码时遇到的那些问题[第1期] http://tonybai.com/2018/01/13/the-problems-i-encountered-when-writing-go-code-issue-1st/
+
+- 4. go实现的高速highwayhash算法 https://github.com/minio/highwayhash
+
+- 5. 负载均衡那点事 https://zhuanlan.zhihu.com/p/32854860
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-13
 - 1. Go语言解析网页利器goquery简单使用 https://tomoya92.github.io/2017/06/21/golang-goquery/
 
