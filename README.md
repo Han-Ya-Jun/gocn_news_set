@@ -1,3 +1,15 @@
+### gocn_news_2018-07-08
+- 1. 用Golang和PostgreSQL构建一个全栈APP https://ednsquare.com/publisher/view/Full-Stack-GoLang-Tutorial-with-PostgreSQL-------fn1h0zlYGm
+
+- 2. 构建一个消息APP: OAuth篇 https://nicolasparada.netlify.com/posts/go-messenger-oauth/
+
+- 3. Golang在SmartX的实践(含代码示例）https://mp.weixin.qq.com/s/Hog_KZgmBTCqYI3EPIRrQw
+
+- 4. Go WebAssembly:绑定结构到JS引用 https://medium.com/@nlepage/go-webassembly-binding-structures-to-js-references-4eddd6fd4d23
+
+- 5. DDOS防御:如何在一秒钟丢掉1000w的数据包 https://blog.cloudflare.com/how-to-drop-10-million-packets/
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-07
 - 1. golang的测试框架stretchr/testify https://studygolang.com/articles/13491
 
