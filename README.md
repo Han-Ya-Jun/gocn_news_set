@@ -1,3 +1,15 @@
+### gocn_news_2018-12-19
+- 1. Go 1.12beta1发布 https://groups.google.com/forum/#!topic/golang-nuts/cYlIdVjpPrQ
+
+- 2. 三步骤迁移至Go mod https://medium.com/@ivan.corrales.solera/migrating-to-go-mod-in-just-3-steps-6b6a07a04640
+
+- 3. Go interface实现分析 https://mp.weixin.qq.com/s/px9BRQrTCLX6BbvXJbysCA
+
+- 4. 自动kubernetes部署 https://medium.com/@michelvocks/automatic-kubernetes-deployment-with-gaia-and-hashicorp-vault-73b882e40741
+
+- 5. 万字长文揭秘：阿里如何实现海量数据实时分析？ https://mp.weixin.qq.com/s/kt-xtvM77UZ3kD-3dpU7sw
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-18
 - 1. Go 接口与反射的关联： https://blog.gopheracademy.com/advent-2018/interfaces-and-reflect/
 
