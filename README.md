@@ -1,3 +1,25 @@
+### gocn_news_2017-07-13
+- 1. 神经网络入门 http://www.ruanyifeng.com/blog/2017/07/neural-network.html
+
+- 2. Go 1.9 sync.Map揭秘 http://colobu.com/2017/07/11/dive-into-sync-Map/
+
+- 3. Git 配置最佳实践 http://zcfy.cc/article/better-git-configuration-scott-nonnenberg-3350.html
+
+- 4. 基于Go channel的通知 http://blog.atte.ro/2017/07/09/golang-channel-notification-select.html
+
+- 5. 可重用I/O buffer的websocket实现 https://github.com/gobwas/ws
+
+- 6. 黄庆兵 《可视化学习 Go 并发编程》网易
+
+- 7. 陈超 《基于Go的大数据平台》七牛
+
+- 8. 张磊《 Kubernetes语境下的基于Golang的编程范式》Kubernetes官方ProjectManager
+
+- 9. 黄励博《基于 mesos 的容器调度框架》又拍云
+
+- 10. 谢孟军《Go使用grpc+http打造高性能微服务》GoCN
+
+
 ### gocn_news_2017-07-12
 - 1. Severless架构 https://read.acloud.guru/serverless-event-sourcing-at-nordstrom-ea69bd8fb7cc
 
