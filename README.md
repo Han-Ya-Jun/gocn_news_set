@@ -1,3 +1,19 @@
+### gocn_news_2017-07-25
+- 1. Dropbox公司的Go语言探索之路 http://t.cn/R9PQkRw
+
+- 2. GopherConf 2017视频集 http://t.cn/R9PDAIF
+
+- 3. http test视频教程 http://t.cn/R9PDAIk
+
+- 4. goroutine使得并发简单 http://t.cn/R9PDAMP
+
+- 5. 
+GitHub GraphQL API 使用介绍 http://t.cn/R9vf4SF
+[8月5日]
+1.杭州Gopher meetup http://www.bagevent.com/event/668296
+
+
+- - - - - 
 ### gocn_news_2017-07-24
 - 1. 使用Go实现以太坊智能合约 https://zupzup.org/eth-smart-contracts-go/
 
