@@ -1,3 +1,15 @@
+### gocn_news_2018-07-29
+- 1. [译]Go HttpServer 最佳实践 http://colobu.com/2018/07/25/exposing-go-on-the-internet/
+
+- 2. 代码可读性的心理学 https://medium.com/@egonelbre/psychology-of-code-readability-d23b1ff1258a
+
+- 3. 缓存的进化: 从RAM到SSD https://medium.com/netflix-techblog/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690
+
+- 4. 在没有反射的情况下在Go语言中使用Lodash的好处 https://medium.freecodecamp.org/the-benefits-of-using-lodash-in-the-go-language-without-reflection-1d64b5115486
+
+- 5. 让事件飞 — Linux eventfd 原理与实践 https://zhuanlan.zhihu.com/p/40572954
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-28
 - 1. Go的工作窃取调度 https://rakyll.org/scheduler/
 
