@@ -1,3 +1,15 @@
+### gocn_news_2019-04-16
+- 1. Micro 构建微服务 https://github.com/micro-in-cn/tutorials/tree/master/microservice-in-micro
+
+- 2. Go 工具链概述 https://www.alexedwards.net/blog/an-overview-of-go-tooling
+
+- 3. Goroutine 使代码变慢 https://appliedgo.net/concurrencyslower/
+
+- 4. Gomobile 系列文章 https://blog.koundinya.xyz/series/gomobile/
+
+- 5. 聊一聊 golang 结构体标签 https://mp.weixin.qq.com/s/ueaxNjSmIPZRsqjMCRrJ5w
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-15
 - 1. 图解Go的channel底层原理 https://mp.weixin.qq.com/s/40uxAPdubIk0lU321LmfRg
 
