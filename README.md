@@ -1,3 +1,15 @@
+### gocn_news_2018-06-22
+- 1. 【Go并发编程】第二篇 - Goroutines和Channels https://juejin.im/post/5b2c49185188257494642464
+
+- 2. go语言之行--结构体(struct)详解、链表 http://www.cnblogs.com/wdliu/p/9209419.html
+
+- 3. Kubernetes的十大使用技巧 https://mp.weixin.qq.com/s/YnnhRh9HV20gbd5hBBLNig
+
+- 4. Kubernetes RBAC 详细使用方法 https://blog.qikqiak.com/post/use-rbac-in-k8s/
+
+- 5. TiDB 源码阅读系列文章（十）Chunk 和执行框架简介 https://cloud.tencent.com/developer/article/1148491
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-21
 - 1. Golang中的并发 http://xargin.com/concurrency-in-go-notes/
 
