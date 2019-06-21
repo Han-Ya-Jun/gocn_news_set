@@ -1,3 +1,15 @@
+### gocn_news_2018-06-27
+- 1. Go 1.11 Beta 1发布 https://groups.google.com/forum/m/#!msg/golang-nuts/vpVOVVMLa08/oQQQWX3rCgAJ
+
+- 2. kubernetes 1.11发布 https://mp.weixin.qq.com/s/8bW-Et9WHVgQ8O2JwJarUw
+
+- 3. Kubernetes scheduler V2草案 https://mp.weixin.qq.com/s/MTKUyV6_HGBWTAiSQaTqAg
+
+- 4. Golang中的组合 https://mp.weixin.qq.com/s/-KaLnZTimnKH7q2H_MdkfQ
+
+- 5. Meq：构建你的消息推送、聊天及IoT服务 http://meq.io/
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-26
 - 1. Klook分享Go应用秘籍：服务千万级全球用户的4点心得  https://mp.weixin.qq.com/s/5eOe-2JyxhepcvjmXZuL-A
 
