@@ -1,3 +1,15 @@
+### gocn_news_2017-10-21
+- 1. 分布式系统扩展中的不确定性和容错性 https://www.slideshare.net/helenaedelson/uncertainty-tolerance-in-distributed-systems-at-scale
+
+- 2. 怎么让团队适应微服务 https://opensource.com/article/17/10/how-align-your-team-microservices
+
+- 3. Go mobile 知识库 https://github.com/golang/go/wiki/Mobile
+
+- 4. B站日志系统的前世今生 https://mp.weixin.qq.com/s/onrBwQ0vyLJYWD_FRnNjEg
+
+- 5. 微服务架构设计 https://hackernoon.com/microservices-are-hard-an-invaluable-guide-to-microservices-2d06bd7bcf5d
+
+- - - - - 
 ### gocn_news_2017-10-20
 - 1. 分布式数据库一致性原理说明 https://my.oschina.net/wangzhonnew/blog/1553841
 
