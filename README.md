@@ -1,3 +1,15 @@
+### gocn_news_2018-06-23
+- 1. 内存分配（三）3.2 大对象-Go学习笔记 https://mp.weixin.qq.com/s/kUmPckrgxJOw8PCjH2fkeA
+
+- 2. Go对象生命周期  https://middlemost.com/object-lifecycle/
+
+- 3. Go context cancel使用介绍 https://www.sohamkamani.com/blog/golang/2018-06-17-golang-using-context-cancellation/
+
+- 4. Go 微服务：基于 RabbitMQ 和 AMQP 进行消息传递 https://juejin.im/post/5b2c82446fb9a00e3642635f
+
+- 5. Go实现的git协议解析器 https://github.com/google/gitprotocolio
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-22
 - 1. 【Go并发编程】第二篇 - Goroutines和Channels https://juejin.im/post/5b2c49185188257494642464
 
