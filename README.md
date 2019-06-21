@@ -1,3 +1,15 @@
+### gocn_news_2018-08-12
+- 1. golang新手容易犯的三个错误 https://zhuanlan.zhihu.com/p/41418726 
+
+- 2. 一个为go准备的优秀makefile http://azer.bike/journal/a-good-makefile-for-go/
+
+- 3. 编写安全的代码 http://www.zenlife.tk/write-safe-code.md
+
+- 4. 深入浅出垃圾回收——增量式 GC https://liujiacai.net/blog/2018/08/04/incremental-gc
+
+- 5. 你不理解你的软件工程师  https://medium.com/@amandoabreu/you-dont-understand-your-software-engineers-53442ca0805a
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-11
 - 1. 容器技术从头开始 https://www.youtube.com/watch?v=8fi7uSYlOdc
 
