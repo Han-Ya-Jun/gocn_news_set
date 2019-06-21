@@ -1,3 +1,15 @@
+### gocn_news_2018-02-09
+- 1. 让你的Go程序运行更快 https://golangnews.com/stories/3168-video-make-your-go-go-faster
+
+- 2. 手把手教你编写和发布Go功能库 https://darahayes.com/publishing-golang-libraries-comprehensive-guide/
+
+- 3. k8s带给我们什么 https://www.infoq.com/articles/kubernetes-effect
+
+- 4. go-deep:使用Go语言开发神经网络 https://github.com/patrikeh/go-deep
+
+- 5. genesis:使用Go语言编写的开源区块链平台 https://github.com/GenesisCommunity/go-genesis
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-08
 - 1. (译)在 Golang 中针对 int64 类型优化 abs()  https://wuyin.io/2018/02/07/optimized-abs-func-for-int64-in-Go/
 
