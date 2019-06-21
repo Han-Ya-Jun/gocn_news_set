@@ -1,3 +1,15 @@
+### gocn_news_2018-01-05
+- 1. 谈谈Go语言、Docker和新技术 http://www.infoq.com/cn/articles/talk-about-go-and-docker
+
+- 2. golang实现微信聊天机器人 https://www.jianshu.com/p/96a969ad4b02
+
+- 3. 使用SwaggerUI创建golang接口文档 https://www.ribice.ba/swagger-golang/
+
+- 4. 使用rpm打包上线部署golang代码 http://xiaorui.cc/?p=4955
+
+- 5. 我们如何转型微服务? https://mp.weixin.qq.com/s/z6LJ-b1xpz2Ik4DzXpDDIw
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-04
 - 1. 让互联网更快的协议，QUIC在腾讯的实践及性能优化https://mp.weixin.qq.com/s/_RAXrlGPeN_3D6dhJFf6Qg
 
