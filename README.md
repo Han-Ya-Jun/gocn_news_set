@@ -1,3 +1,13 @@
+### gocn_news_2018-08-02
+- 1. cgo阻塞调用引起golang线程暴增  http://xiaorui.cc/?p=5408
+
+- 2. 小米DevOps团队针对容器的Nginx优化 https://mp.weixin.qq.com/s/bl2RzgKpbpBuuLZyNdZ0sw
+
+- 3. 面向机器学习：数据平台的设计与搭建 https://mp.weixin.qq.com/s/gitJWTPyFlP5p2pvVswZWw
+
+- 4. Redis 深度历险：核心原理与应用实践 https://mp.weixin.qq.com/s/6CXehn80jtz4GYkjACDeyQ
+
+- - - - - - - - - - - 
 ### gocn_news_2018-08-01
 - 1. 恭喜首个加入CNCF且原创于中国的项目Harbor https://mp.weixin.qq.com/s/HL0xz0JW9HTE8YG7vRXe1w
 
