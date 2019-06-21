@@ -1,3 +1,15 @@
+### gocn_news_2018-03-09
+- 1. ipfs指南 https://zhuanlan.zhihu.com/p/34158682
+
+- 2. 深入理解k8s的flannel https://www.kubernetes.org.cn/3682.html
+
+- 3. 如何成为一名区块链开发者 https://howtotoken.com/career/blockchain-developer-practical-advice-from-experts/
+
+- 4. 让Go自动填写古诗词 https://juejin.im/post/5a9f33ee518825558a0620d3?
+
+- 5. golang调试工具Delve http://www.cnblogs.com/li-peng/p/8522592.html
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-08
 - 1. 为什么选择TDD开发? https://builttoadapt.io/why-tdd-489fdcdda05e
 
