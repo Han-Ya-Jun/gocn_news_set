@@ -1,3 +1,15 @@
+### gocn_news_2018-04-09
+- 1. Golang strings.Builder 原理解析 https://liudanking.com/performance/golang-strings-builder-原理解析/
+
+- 2. 异步系统的两种测试方法 https://tech.youzan.com/asynchronoustest
+
+- 3. GitLab CI/CD 与 Kubernetes 集成 https://medium.com/nosebit/gitlab-ci-cd-kubernetes-65eec29d0555
+
+- 4. Redis 的七个应用场景 https://my.oschina.net/architectliuyuanyuan/blog/1791445
+
+- 5. 企业级运维发布系统 gopub https://www.oschina.net/p/gopub
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-08
 - 1. 使用Zipkin构建Go应用程序 https://medium.com/@jcchavezs/b79cc858ac3e
 
