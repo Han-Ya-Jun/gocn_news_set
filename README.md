@@ -1,3 +1,15 @@
+### gocn_news_2018-11-23
+- 1. GO上开发高负载WebSocket服务器https://medium.com/%40alexmais ... 2e248
+
+- 2. Go语言YAML配置文件库，类似于spring-boot https://github.com/flyleft/gprofile
+
+- 3. Go基础系列：双层channel用法示例 https://www.cnblogs.com/f-ck-need-u/p/9994496.html
+
+- 4. Envoy service mesh、Prometheus和Grafana下的微服务监控 https://mp.weixin.qq.com/s/cQd2hi0SAlFkQTEOOX8oVw
+
+- 5. 阿里如何做到百万量级硬件故障自愈？ https://mp.weixin.qq.com/s/G6qgI37RHzANpl2fyRUg0Q
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-22
 - 1. Go基础系列：互斥锁Mutex和读写锁RWMutex用法详述 http://www.cnblogs.com/f-ck-need-u/p/9998729.html
 
