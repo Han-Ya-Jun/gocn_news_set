@@ -1,3 +1,15 @@
+### gocn_news_2018-10-26
+- 1. 小米正式开源 Istio 管理面板 Naftis https://xiaomi-info.github.io/2018/10/25/naftis/
+
+- 2. godoc在线预览 https://bradleyjkemp.github.io/godoc-playground/
+
+- 3. Linux Kernel 4.19发布，初步支持Wi-Fi 6, 新EROFS文件系统 https://mp.weixin.qq.com/s/JvT8T_GEBYl0daTALtkSBA
+
+- 4. gRPC-Web is going GA https://www.cncf.io/blog/2018/10/24/grpc-web-is-going-ga/
+
+- 5. Kubernetes NodePort、LoadBalancer和Ingress介绍 https://mp.weixin.qq.com/s/WC5TQSBHiHsAIDtpDsZ1qw
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-25
 - 1. Go interface深入分析 https://blog.csdn.net/TurkeyCock/article/details/83317943
 
