@@ -1,3 +1,15 @@
+### gocn_news_2018-11-28
+- 1. 性能分析：在Go中使用简单的HTTP Web服务器调整方法 https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca
+
+- 2. Golang错误处理:从拒绝到接受 https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance
+
+- 3. 使用Docker和Go实现自动HTTPS https://medium.com/weareservian/automagical-https-with-docker-and-go-4953fdaf83d2
+
+- 4. 用go语言给lua/openresty写扩展 https://zhuanlan.zhihu.com/p/50937409
+
+- 5. Go 编译器 nil 指针检查 https://www.ardanlabs.com/blog/2014/09/go-compiler-nil-pointer-checks.html
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-27
 - 1. Go 使用小内存上传大文件 https://medium.com/@owlwalks/sending-big-file-with-minimal-memory-in-golang-8f3fc280d2c
 
