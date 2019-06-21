@@ -1,3 +1,15 @@
+### gocn_news_2019-01-03
+- 1. 为什么goroutine存在泄露，如何避免？ https://medium.com/jexia/why-goroutines-leaks-exist-and-how-to-avoid-these-dfc572bdad08
+
+- 2. Go静态错误分析工具 https://staticcheck.io/
+
+- 3. 基于Raft的分布式Mysql binlog存储系统 https://github.com/flike/kingbus
+
+- 4. go中的array和slice https://medium.com/@marty.stepien/arrays-vs-slices-bonanza-in-golang-fa8d32cd2b7c
+
+- 5. 2019年值得关注的23个开发者博客 https://zhuanlan.zhihu.com/p/53729304
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-02
 - 1. Go语言slice的本质-SliceHeader：https://juejin.im/post/5c2a1e446fb9a049df242997
 
