@@ -1,3 +1,15 @@
+### gocn_news_2018-05-04
+- 1. 手把手教你Go程序的国际化和本土化 https://phraseapp.com/blog/posts/internationalization-i18n-go/
+
+- 2. Netflix的高可用小贴士 https://medium.com/@NetflixTechBlog/tips-for-high-availability-be0472f2599c
+
+- 3. 编写单元测试时,避免使用Mock https://sendgrid.com/blog/when-writing-unit-tests-dont-use-mocks/
+
+- 4. API网关部署与版本管理 https://medium.com/devops-faith/deploying-and-versioning-an-api-gateway-42440a88986c
+
+- 5. corral:高性能轻量级MapReduce框架 https://github.com/bcongdon/corral
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-03
 - 1. 机器学习 https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/37024aa7-8550-44d9-aa5e-e80aa82ec436/Ng_MLY03.pdf
 
