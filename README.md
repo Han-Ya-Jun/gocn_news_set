@@ -1,3 +1,15 @@
+### gocn_news_2017-10-26
+- 1. 在Golang进化的代理模式 http://www.jianshu.com/p/2b11163f35a3
+
+- 2. Go语言·听说你想让程序运行的更快？http://www.jianshu.com/p/0db174aebfec
+
+- 3. Go 1.9.2 和 Go 1.8.5 发布 https://groups.google.com/forum/#!topic/golang-nuts/s8EXcSSJ5cg
+
+- 4. 分布式任务框架 http://www.mikeperham.com/2017/10/24/introducing-faktory/
+
+- 5. 各家公司的开发风格 https://increment.com/development/what-its-like-to-be-a-developer-at/
+
+- - - - - 
 ### gocn_news_2017-10-25
 - 1. gRPC构建Go客户端和服务端 https://medium.com/pantomath/how-we-use-grpc-to-build-a-client-server-system-in-go-dd20045fa1c2
 
