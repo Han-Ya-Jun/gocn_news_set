@@ -1,3 +1,15 @@
+### gocn_news_2018-05-20
+- 1. Hacker News招聘趋势排名，Go首次进入前10 https://www.hntrends.com/2018/apr-golang-jumps-into-top-10.html
+
+- 2. 为Go准备的数据结构可视化库 https://medium.com/@Arafat./introducing-dataviz-a-data-structure-visualization-library-for-golang-f6e60663bc9d
+
+- 3. Netflix的全周期开发 https://medium.com/netflix-techblog/full-cycle-developers-at-netflix-a08c31f83249
+
+- 4. 如何配置服务之间通讯的gRPC服务 https://ryanmccue.ca/how-to-setup-grpc-service-to-service-communication/
+
+- 5. 一些能够增加开发者面试信心的技巧 https://medium.freecodecamp.org/interview-tips-that-will-give-you-confidence-and-help-you-land-a-dev-job-5ef43c1ae422
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-19
 - 1. Goland支持vgo了 https://blog.jetbrains.com/go/2018/05/18/vgo-integration-support/
 
