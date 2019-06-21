@@ -1,3 +1,15 @@
+### gocn_news_2018-11-20
+- 1. 360 开源 K8S 多集群管理平台 Wayne（后端采用 beego）：https://github.com/Qihoo360/wayne
+
+- 2. Go Channel 剖析：https://medium.com/rungo/anatomy-of-channels-in-go-concurrency-in-go-1ec336086adb
+
+- 3. Go 同步状态方式比较：Mutex VS Channel  https://medium.com/mindorks/https-medium-com-yashishdua-synchronizing-states-using-mutex-vs-channel-in-go-25e646c83567
+
+- 4. 如何在 Ubuntu 上安装 Hyperledger Fabric：https://medium.com/@techgeek628/how-to-install-hyperledger-fabric-on-ubuntu-92d777dcf6a7
+
+- 5. HTTP/3 学习笔记：https://blog.erratasec.com/2018/11/some-notes-about-http3.html#.W_NkHpMzbUI
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-19
 - 1. Go 微服务之 Go kit 介绍 https://medium.com/@shijuvar/go-microservices-with-go-kit-introduction-43a757398183
 
