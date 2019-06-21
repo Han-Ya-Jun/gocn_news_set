@@ -1,3 +1,15 @@
+### gocn_news_2018-11-15
+- 1. 部署Go应用到AWS Elastic Beanstalk https://medium.com/@ddymko/deploying-docker-go-to-aws-beanstalk-e91207fe21d6
+
+- 2. 使用Jenkins构建CI/CD流水线 https://read.acloud.guru/ci-cd-for-lambda-functions-with-jenkins-1c682a6c8d33
+
+- 3. Go在内存中缓存DNS查找结果 https://github.com/mercari/go-dnscache
+
+- 4. Go中的Celery分布式任务队列 https://github.com/gocelery/gocelery
+
+- 5. 悉尼Golang Meetup Go2草案规范 https://www.youtube.com/watch?feature=youtu.be&v=RIvL2ONhFBI
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-14
 - 1. 使用 GraphQL 和 Go 创建 API https://medium.com/@bradford_hamilton/building-an-api-with-graphql-and-go-9350df5c9356
 
