@@ -1,3 +1,15 @@
+### gocn_news_2017-10-15
+- 1. 黑一下Go (实际上是作者不理解Go的interfaceO(∩_∩)O) https://zhuanlan.zhihu.com/p/30120861
+
+- 2. 基于nats的Go分布式微服务系统 https://medium.com/@shijuvar/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2
+
+- 3. 深入浅出 Raft - 基本概念 http://www.jianshu.com/p/138b4d267084
+
+- 4. RESTful API 设计最佳实践 http://www.zcfy.cc/article/restful-api-design-best-practices-in-a-nutshell-4388.html
+
+- 5. 七个JWT最佳实践 https://dev.to/neilmadden/7-best-practices-for-json-web-tokens
+
+- - - - - 
 ### gocn_news_2017-10-14
 - 1. Go语言三驾马车 https://cloud.tencent.com/community/article/649192
 
