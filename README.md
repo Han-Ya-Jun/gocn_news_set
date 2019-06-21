@@ -1,3 +1,15 @@
+### gocn_news_2018-09-16
+- 1. Securing Cookies in Go https://www.calhoun.io/securing-cookies-in-go/
+
+- 2. HTTPS-Portal：由Nginx|Let's Encrypt|Docker提供支持的自动HTTPS服务器 https://github.com/SteveLTN/https-portal
+
+- 3. 30分钟内入手Go微服务 https://github.com/dlsniper/gopherconuk
+
+- 4. Go语言基础:结构体 http://www.youjiatuanjian.com/index/news_details/id/2795.html
+
+- 5. HHVM_3.30：结束PHP支持和Hack的未来 https://hhvm.com/blog/2018/09/12/end-of-php-support-future-of-hack.html
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-15
 - 1. Go代码检查分析工具API接口实现文档 文档 https://docs.google.com/document/d/1-azPLXaLgTCKeKDNg0HVMq2ovMlD-e7n1ZHzZVzOlJk/edit#
 
