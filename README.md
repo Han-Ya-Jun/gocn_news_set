@@ -1,3 +1,15 @@
+### gocn_news_2018-10-07
+- 1. 那些学习Go的最佳书籍 https://tutorialedge.net/golang/top-books-for-learning-golang/
+
+- 2. goroutine和panic不得不说的故事 https://zhuanlan.zhihu.com/p/42101856
+
+- 3. Go2错误值建议的非官方实现 https://www.reddit.com/r/golang/comments/9losio/implementation_of_go_2_error_values_proposal/
+
+- 4. 哈希算法现状——原因、方法及未来 https://mp.weixin.qq.com/s/t0bM5NBN9aSU0cZHjcJRNQ
+
+- 5. 浅析数据库并发控制机制 http://catkang.github.io/2018/09/19/concurrency-control.html
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-06
 - 1. Go应用中热路径的迭代优化 https://medium.com/samsara-engineering/iterative-optimization-on-hot-paths-c89827749c20
 
