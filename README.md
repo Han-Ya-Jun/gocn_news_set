@@ -1,3 +1,17 @@
+### gocn_news_2018-11-29
+- 1. GoCN每日新闻(2018-11-29)  
+
+- 2. 1.别再把全部上传内容都解析了 https://medium.com/@owlwalks/dont-parse-everything-from-client-multipart-post-golang-9280d23cd4ad
+2.Go开发中字符串内容替换的3种方式 https://hackernoon.com/replacing-parts-of-a-string-cc1bb2f9ca07
+3.知乎社区核心业务 Golang 化实践 https://zhuanlan.zhihu.com/p/48039838
+4.分布式事务：Saga模式 https://www.jianshu.com/p/e4b662407c66
+5.使用Prometheus实现对OCI的监控 https://medium.com/@sw_samuraj/oci-monitoring-via-prometheus-service-discovery-851f022f0cdb    
+
+- 3. 活动: Gopher Meetup 巡回第五站 - 广州 https://gocn.vip/question/2391  
+
+- 4. 编辑: Razil  
+
+- - - - - - - - - - - 
 ### gocn_news_2018-11-28
 - 1. 性能分析：在Go中使用简单的HTTP Web服务器调整方法 https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca
 
