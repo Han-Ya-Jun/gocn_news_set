@@ -1,3 +1,15 @@
+### gocn_news_2018-12-08
+- 1. Go调度刨析Part III:并发  https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
+
+- 2. Go验证ecdsa签名算法 https://thanethomson.com/2018/11/30/validating-ecdsa-signatures-golang/
+
+- 3. 在浏览器中运行Go程序 https://blog.gopheracademy.com/advent-2018/go-in-the-browser/
+
+- 4. Go errors处理从否定到接受 https://evilmartians.com/chronicles/errors-in-go-from-denial-to-acceptance
+
+- 5. 微软开源的Go跨平台网络诊断工具 https://github.com/Microsoft/Ethr
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-07
 - 1. golang持续测试工具 https://github.com/vdemeester/ram
 
