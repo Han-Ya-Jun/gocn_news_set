@@ -1,3 +1,15 @@
+### gocn_news_2018-04-13
+- 1. 用Golang处理每分钟100万份请求 https://medium.com/percolate-engineering/introducing-charlatan-df9b5d3d3107
+
+- 2. 支撑4.5亿活跃用户的WhatsApp架构概览 https://mp.weixin.qq.com/s/wwALGXHmbKphNWFqQTL9QA
+
+- 3. 电商异步消息系统的实践 https://mp.weixin.qq.com/s/_-rEZHEjR_m68SB5cD3KgA
+
+- 4. Uber：如何建立司机支持服务的签到及预约系统 https://mp.weixin.qq.com/s/eyr-m8GzELmjEeyKVgwgWA
+
+- 5. Kubernetes 1.10.1 和 v1.10.2-beta.0 发布 https://www.oschina.net/news/95119/kubernetes-v1-10-1-and-1-10-2-beta0-released
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-12
 - 1. 饿了么异地多活技术实现 https://mp.weixin.qq.com/s/pKAYR1GxbQH51RkgkpmcOg
 
