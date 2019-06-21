@@ -1,3 +1,15 @@
+### gocn_news_2018-06-02
+- 1. Go实现的supervisor https://github.com/ochinchina/supervisord
+
+- 2. 大数据，小型机 https://adamdrake.com/big-data-small-machine.html
+
+- 3. revive，比golint快6倍 https://github.com/mgechev/revive
+
+- 4. 构建自更新Golang项目 https://github.com/inconshreveable/go-update
+
+- 5. 以太坊开发SDK(离线签名) https://www.npmjs.com/package/ethereumjs-sdk
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-01
 - 1. consul集群搭建与Golang服务发现示例 http://lihaoquan.me/2018/5/31/consul-in-action.html
 
