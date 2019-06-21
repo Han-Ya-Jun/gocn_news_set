@@ -1,3 +1,15 @@
+### gocn_news_2017-09-28
+- 1. PingCAP为什么选择rust实现tikv https://pingcap.github.io/blog/2017/09/26/whyrust/
+
+- 2. 怎么写出漂亮的Go package https://medium.com/@matryer/video-writing-beautiful-packages-in-go-fab1138608ee
+
+- 3. 从零开始用golang编写一个分布式测试工具 https://juejin.im/post/59cbc1746fb9a00a3d1371f4
+
+- 4. 如何读懂火焰图？https://mp.weixin.qq.com/s/6ajmdliIDjIU03Hx-moJKQ
+
+- 5. 剖析Go的读写锁 http://zablog.me/2017/09/27/go_sync/
+
+- - - - - 
 ### gocn_news_2017-09-27
 - 1. Imgproxy 图片resize工具 https://evilmartians.com/chronicles/introducing-imgproxy
 
