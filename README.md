@@ -1,3 +1,15 @@
+### gocn_news_2018-10-02
+- 1. Go 实现 Python 模块 https://mp.weixin.qq.com/s/r-IoNkKW_ygGpLMQRhvdxg
+
+- 2. Go 源码研究 (1.11, WIP)  https://github.com/changkun/go-under-the-hood
+
+- 3. Go 命令行调用 .NET 4.5 程序  https://dominicstpierre.com/calling-net-4-5-c-methods-from-go-a-wip-2acb89392537 
+
+- 4. Go 和 Jupyter Notebooks https://imti.co/golang-to-jupyter/
+
+- 5. Go 1.11 Modules 初体验 https://medium.com/@KevinHoffman/my-first-exposure-to-go-1-11s-modules-ba85e238f5f5
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-01
 - 1. 使用 Go 进行异步任务共享 https://medium.com/@farissyariati/async-task-sharing-using-tcp-socket-in-golang-5cf78eb52a33
 
