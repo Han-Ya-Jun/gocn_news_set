@@ -1,3 +1,15 @@
+### gocn_news_2018-03-22
+- 1. GC延迟问题解决 https://talks.golang.org/2015/go-gc.pdf
+
+- 2. 使用深度学习改进FIFA18图形 https://towardsdatascience.com/using-deep-learning-to-improve-fifa-18-graphics-529ec44ea37e
+
+- 3. 微服务之后会出现什么？ https://www.infoq.com/presentations/microservices-future 
+
+- 4. Go的随机测试工具 https://medium.com/@dgryski/go-fuzz-github-com-arolek-ase-3c74d5a3150c
+
+- 5. 我如何用Mux，Go，PostgreSQL和GORM构建API https://dev.to/aspittel/how-i-built-an-api-with-mux-go-postgresql-and-gorm-5ah8
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-21
 - 1. 迁移项目到Kubernetes的5个小窍门 https://blog.alexellis.io/move-your-project-to-kubernetes/
 
