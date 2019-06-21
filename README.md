@@ -1,3 +1,15 @@
+### gocn_news_2019-04-18
+- 1. Go 2和Go的未来 https://changelog.com/gotime/80
+
+- 2. 如何在Windows 10上安装Go并设置本地编程环境 https://www.digitalocean.com/community/tutorials/how-to-install-go-and-set-up-a-local-programming-environment-on-windows-10
+
+- 3. Go实现的Web服务器Space Cloud 可以提供即时Realtime API https://github.com/spaceuptech/space-cloud
+
+- 4. 基于HA LDAP的键/值解决方案，用于存储具有多主复制支持的项目配置 https://github.com/Mnwa/Recon
+
+- 5. 可恢复文件上传器系列文章 https://golangbot.com/resumable-file-uploader/
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-17
 - 1. 结构化日志提高生产力 https://www.youtube.com/watch?v=YlrwDN7_vHw
 
