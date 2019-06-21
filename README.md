@@ -1,3 +1,15 @@
+### gocn_news_2018-02-23
+- 1. 生产环境上的代码迁移:重写Uber 无范式数据仓库的分片层 https://eng.uber.com/schemaless-rewrite/
+
+- 2. vgo和dep对比 https://sdboyer.io/blog/vgo-and-dep/
+
+- 3. Serverless 架构：享受纯粹的编程乐趣 https://mp.weixin.qq.com/s/T5weB01QUy3Nzhw8H3hz5g
+
+- 4. Go 1.10 支持https代理 https://medium.com/@mlowicki/https-proxies-support-in-go-1-10-b956fb501d6b
+
+- 5. 初探vgo https://www.calhoun.io/exploring-vgo/
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-22
 - 1. GoCN每日新闻(2018-02-22)
 
