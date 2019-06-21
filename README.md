@@ -1,3 +1,15 @@
+### gocn_news_2018-10-09
+- 1. Go 和 NCS (Intel Movidius Neural Compute Stick) 边缘计算开发教程 http://mlexplore.org/2018/10/07/edge-computing-with-go-and-intel-movidius-neural-compute-stick
+
+- 2. v1.11 让我无法再忽视 Go  https://drewdevault.com/2018/10/08/Go-1.11.html
+
+- 3. [译] Go 的调度剖析 - 第二部分 https://segmentfault.com/a/1190000016611742
+
+- 4. 另一个 Go 接口简介 https://mlvin.xyz/gi.html
+
+- 5. Prometheus 在五个行业落地的案例 https://mp.weixin.qq.com/s/11tFYlUCg9JLFPk6q-CCag
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-08
 - 1. 十五分钟写一个 Go Worker Pool：https://medium.com/@j.d.livni/write-a-go-worker-pool-in-15-minutes-c9b42f640923
 
