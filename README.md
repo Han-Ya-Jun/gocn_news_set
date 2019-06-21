@@ -1,3 +1,14 @@
+### gocn_news_2018-08-30
+- 1. 比Python还好用的Go语言要出2.0了，你想怎么设计？ https://www.jiqizhixin.com/articles/2018-08-29-3
+2.跳出Go module的泥潭  https://colobu.com/2018/08/27/learn-go-module/
+
+- 2. Docker多阶段构建最佳实践 https://mp.weixin.qq.com/s/-ST2TJoi76a-1AHzx9WUEw
+
+- 3. Kubernetes集群健康检查最佳实践  https://mp.weixin.qq.com/s/dGf8bo-fDuY_KD_PAAXh1w
+
+- 4. 基于SDN的多址边缘计算系统 https://mp.weixin.qq.com/s/1FEMPfXsjGWU_Wrh9O1Whg
+
+- - - - - - - - - - - 
 ### gocn_news_2018-08-29
 - 1. Go2设计草案 https://golang.org/s/go2designs
 
