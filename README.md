@@ -1,3 +1,15 @@
+### gocn_news_2019-01-17
+- 1. Go channel实现原理 http://www.cnblogs.com/hlxs/p/10275303.html
+
+- 2. Golang编译-ldflags -X 在vendor中不生效的问题 https://chenjiehua.me/golang/golang-build-with-ldflags-not-work-for-vendor.html?utm_source=tuicool&utm_medium=referral
+
+- 3. go并发调度原理学习 http://www.cnblogs.com/hlxs/p/10274186.html
+
+- 4. 微服务架构下静态数据通用缓存机制 https://mp.weixin.qq.com/s/UUjdcBidNh5lwwSs372CCw
+
+- 5. 如何评估Kubernetes持久化存储方案 https://mp.weixin.qq.com/s/6yg_bt5mYKWdXS0CidY6Rg
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-16
 - 1. 使用go和tensorflow进行拟合 https://medium.com/@sdeoras/poly-fit-using-tensorflow-and-go-dba53fc7c4e2
 
