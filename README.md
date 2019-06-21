@@ -1,3 +1,15 @@
+### gocn_news_2018-04-16
+- 1. Node工程师的Go语言入门 https://medium.com/@OmisNomis/my-journey-from-node-to-go-4b657f57836e
+
+- 2. Java to Go学习指南 https://xiequan.info/java-to-go-学习指南/
+
+- 3. 使用Go语言编写区块链P2P网络(译) http://mp.weixin.qq.com/s/2daFH9Ej5fVlWmpsN5HZzw
+
+- 4. go-serial：利用Go进行串口通讯 https://github.com/jacobsa/go-serial/
+
+- 5. vegamcache：Go实现的分布式内存缓存 https://github.com/sch00lb0y/vegamcache    
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-15
 - 1. GopherChina2018第一天PPT https://github.com/gopherchina/conference/tree/master/2018
 
