@@ -1,3 +1,15 @@
+### gocn_news_2017-10-24
+- 1. Prometheus到底NB在哪里？https://my.oschina.net/u/2397560/blog/1554680
+
+- 2. 如何使用Go tracer https://youtu.be/ySy3sR1LFCQ
+
+- 3. Go Hackathon 所有项目已上线 http://gohack2017.golangfoundation.org/
+
+- 4. Docker搭建内网Registry https://segmentfault.com/a/1190000011690485
+
+- 5. 微服务设计笔记 https://segmentfault.com/a/1190000011690048
+
+- - - - - 
 ### gocn_news_2017-10-23
 - 1. riot 开源，分布式，简单高效的搜索引擎 https://github.com/go-ego/riot
 
