@@ -1,3 +1,15 @@
+### gocn_news_2018-11-19
+- 1. Go 微服务之 Go kit 介绍 https://medium.com/@shijuvar/go-microservices-with-go-kit-introduction-43a757398183
+
+- 2. redis个人理解----hyperloglog（golang实现）https://juejin.im/post/5bef9c706fb9a049c23204a3
+
+- 3. golang 之树的遍历 https://segmentfault.com/a/1190000017052768
+
+- 4. 使用 Go 和 Kubernetes 构建可横向扩展的 API 视频教程 https://www.youtube.com/watch?v=pkZrgHxJ130
+
+- 5. 一个列出和查找许可证的 Go 类库 https://github.com/mitchellh/go-spdx
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-18
 - 1. 关于 Go1.11 module 和语义版本 http://www.zenlife.tk/go-module-semantic-version.md
 
