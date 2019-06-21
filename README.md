@@ -1,3 +1,15 @@
+### gocn_news_2017-10-03
+- 1. Go for rails https://sphereinc.com/go-for-rails-developers/
+
+- 2. fmt包详解 https://medium.com/go-walkthrough/go-walkthrough-fmt-55a14bbbfc53
+
+- 3. 基于 Linux bcc/BPF 实现 Go 程序动态追踪 http://www.jianshu.com/p/f1781fc452f6
+
+- 4. 如何测试Go程序 https://getstream.io/blog/how-we-test-go-at-stream/
+
+- 5. Go如何改善性能 https://www.youtube.com/watch?v=DJ4d_PZ6Gns
+
+- - - - - 
 ### gocn_news_2017-10-02
 - 1. Prometheus 如何记录请求时间 https://povilasv.me/prometheus-tracking-request-duration/
 
