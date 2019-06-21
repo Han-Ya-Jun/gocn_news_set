@@ -1,3 +1,15 @@
+### gocn_news_2018-08-08
+- 1. Kubernetes核心组件解析 https://mp.weixin.qq.com/s/TvCQ-ie5pgekJDemSBtqWw
+
+- 2. 一个跨平台的文件监听系统 https://github.com/fsnotify/fsnotify
+
+- 3. 【译】在 Go 语言中使用猴子补丁 http://blog.cyeam.com/golang/2018/08/07/monkey-patch
+
+- 4. Uber Prometheus 存储实践 https://eng.uber.com/m3/
+
+- 5. 使用Vagrant在本地一键部署3节点的K8s分布式集群和Istio Service Mesh https://github.com/rootsongjc/kubernetes-vagrant-centos-cluster
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-07
 - 1. 室内音量控制 Go+VueJS  https://itnext.io/home-volume-control-go-vuejs-r-r-151ff030ffa8
 
