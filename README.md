@@ -1,3 +1,15 @@
+### gocn_news_2019-02-18
+- 1. Go高级性能测试指南 https://blogtitle.github.io/go-advanced-benchmarking/
+
+- 2. MongoDB官方驱动介绍 https://www.avcosystems.com/blog/mongo-go/
+
+- 3. 组织可测试的Go微服务 https://medium.com/@cdyer1980/structuring-testable-microservices-with-golang-cf5c4d39be50
+
+- 4. 面向开发者的机器学习基础设施 https://github.com/cortexlabs/cortex
+
+- 5. 详解Golang中间代码生成 https://draveness.me/golang-ir-ssa
+
+- - - - - - - - - - 
 ### gocn_news_2019-02-17
 - 1. go mod官方的module管理工具 https://github.com/googege/blog/blob/master/go/tool/goMod/README.md
 
