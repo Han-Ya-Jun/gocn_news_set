@@ -1,3 +1,15 @@
+### gocn_news_2018-09-12
+- 1. 使用Go构建分布式哈希表 https://medium.com/@arriqaaq/chord-building-a-dht-distributed-hash-table-in-golang-67c3ce17417b
+
+- 2. go工程效率实践 https://mp.weixin.qq.com/s/wCRtWr-ibedLkKcTd85aCA
+
+- 3. 异步网络模式 https://www.youtube.com/watch?v=aJy2ip9FpFs
+
+- 4. 微服务化之服务拆分与服务发现 https://mp.weixin.qq.com/s/mcBdtqBRQbY4D5i6G7o-7g
+
+- 5. 从人肉到智能，阿里运维体系经历了哪些变迁？ https://mp.weixin.qq.com/s/gsW-AtNWT_0LLvTMX0lD0w
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-11
 - 1. 
 Go 依赖注入： https://medium.com/@rakateja/dependency-injection-in-go-c5ed91552bc6
