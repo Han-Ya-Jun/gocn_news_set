@@ -1,3 +1,15 @@
+### gocn_news_2018-04-27
+- 1. Go's New Brand https://blog.golang.org/go-brand
+
+- 2. DingTalk Golang SDK https://github.com/icepy/go-dingtalk
+
+- 3. gobox介绍 http://blog.7rule.com/2018/04/27/gobox-intro.html
+
+- 4. 阿里妈妈基于TensorFlow做了哪些深度优化？TensorFlowRS架构解析 https://mp.weixin.qq.com/s/yuHavuGTYMH5JDC_1fnjcg 
+
+- 5. 基于人工智能场景的移动平台工程化实践 https://mp.weixin.qq.com/s/EtUlaslOUrmp9a2gQOJmnQ
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-26
 - 1. Logtail 从入门到精通：开启日志采集之旅 https://mp.weixin.qq.com/s/1rJrfuwzntdf9Vf6AOIhaA
 
