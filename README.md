@@ -1,3 +1,15 @@
+### gocn_news_2017-10-08
+- 1. 基于openfaas的serverless服务 https://blog.alexellis.io/serverless-golang-with-openfaas/
+
+- 2. 使用Go加密整个互联网 https://speakerdeck.com/filosottile/encrypting-the-internet-with-go-at-gophercon-2017
+
+- 3. go run -race的底层实现 https://speakerdeck.com/kavya719/go-run-race-under-the-hood
+
+- 4. 监控和追踪Go服务 https://speakerdeck.com/chimeracoder/monitoring-and-tracing-your-go-services-gothamgo-2017
+
+- 5. 如何优化高负载服务 https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/
+
+- - - - - 
 ### gocn_news_2017-10-07
 - 1. Go概述 https://blog.learngoprogramming.com/about-go-language-an-overview-f0bee143597c
 
