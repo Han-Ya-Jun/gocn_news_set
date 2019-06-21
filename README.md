@@ -1,3 +1,15 @@
+### gocn_news_2017-09-15
+- 1. Go sync.Map的使用和性能测试 https://medium.com/@deckarep/the-new-kid-in-town-gos-sync-map-de24a6bf7c2c
+
+- 2. Go工具编写指南 https://arslan.io/2017/09/14/the-ultimate-guide-to-writing-a-go-tool/
+
+- 3. 项目实战--知识图谱初探 http://www.shuang0420.com/2017/09/05/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98-%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1%E5%88%9D%E6%8E%A2/
+
+- 4. 分布式追踪系统 jaeger 加入CNCF基金会 https://www.cncf.io/blog/2017/09/13/cncf-hosts-jaeger/
+
+- 5. Go 实现的现代化代理转发器 https://github.com/containous/traefik
+
+- - - - - 
 ### gocn_news_2017-09-14
 - 1. 用Go如何简单的构建serverless https://www.slideshare.net/yunspace/amazingly-simple-serverless-go/1
 
