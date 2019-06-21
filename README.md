@@ -1,3 +1,15 @@
+### gocn_news_2018-12-16
+- 1. 深入理解 Go Slice https://gocn.vip/article/1074
+
+- 2. Go2错误处理的部分试验性实现 https://godoc.org/golang.org/x/exp/errors
+
+- 3. 微服务断路器实现 Istio vs Hystrix https://www.exoscale.com/syslog/istio-vs-hystrix-circuit-breaker/
+
+- 4. Netfix 从适应 GraphQL 中学到的东西 https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f
+
+- 5. 理解分布式事务 https://zhuanlan.zhihu.com/p/51684618
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-15
 - 1. Go 1.11.4和Go 1.10.6发布 https://groups.google.com/forum/#!topic/golang-dev/7v2i4A9M_pI
 
