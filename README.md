@@ -1,3 +1,15 @@
+### gocn_news_2017-06-29
+- 1. Gogland EAP 10 https://blog.jetbrains.com/go/2017/06/27/gogland-eap-10-is-out-go-1-9-better-remote-debugger-and-more/
+
+- 2. Go入门视频教程 https://teamtreehouse.com/library/go-language-overview
+
+- 3. Go里面 For 和range的语义分析 https://www.goinggo.net/2017/06/for-range-semantics.html
+
+- 4. 怎么条件编译Go https://dave.cheney.net/2013/10/12/how-to-use-conditional-compilation-with-the-go-build-tool
+
+- 5. golang dns 查询超时故障定位 https://zhuanlan.zhihu.com/p/27534814
+
+- - - - - 
 ### gocn_news_2017-06-28
 - 1. 如何做高可用架构设计 http://t.cn/RoWfVHc
 
