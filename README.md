@@ -1,3 +1,15 @@
+### gocn_news_2017-08-30
+- 1. Digg.com 走上 Gopher 之路 https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f
+
+- 2. 一次使用汇编优化 Go 的 math.Atan2 的体验 http://agniva.me/go/2017/08/27/fun-with-go-assembly.html
+
+- 3. Go 运行在小内存设备 https://medium.com/samsara-engineering/running-go-on-low-memory-devices-536e1ca2fe8f
+
+- 4. A driver pattern in go https://blog.systemdump.org/go/pattern/2017/08/27/driver-pattern.html
+
+- 5. Go 进程诊断工具  https://github.com/google/gops
+
+- - - - - 
 ### gocn_news_2017-08-29
 - 1. Go访问控制开源库 https://github.com/casbin/casbin
 
