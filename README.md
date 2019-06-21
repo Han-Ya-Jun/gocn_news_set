@@ -1,3 +1,15 @@
+### gocn_news_2017-10-11
+- 1. GopherJS 令人惊讶的性能改进 https://medium.com/gopherjs/surprises-in-gopherjs-performance-4a0a49b04ecd
+
+- 2. Go 1.10 版本将支持编译window dll https://go-review.googlesource.com/c/go/+/69091
+
+- 3. 如何学习Go https://dev.to/codehakase/how-i-learned-go-programming
+
+- 4. 微服务组织 https://developers.redhat.com/blog/2017/08/02/organizing-microservices-modern-integration/
+
+- 5. 玩转 Go Hack 之官方攻略 | 赛前指南 https://mp.weixin.qq.com/s/7mrxUxuQlOxDKxB2HTZHIw
+
+- - - - - 
 ### gocn_news_2017-10-10
 - 1. golang 标准库间依赖的可视化展示 http://blog.csdn.net/sinat_30800357/article/details/78178844
 
