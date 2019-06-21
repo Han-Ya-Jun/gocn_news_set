@@ -1,3 +1,15 @@
+### gocn_news_2019-03-05
+- 1. 微服务中的 GraphQL https://itnext.io/graphql-in-a-microservices-architecture-d17922b886eb
+
+- 2. Go 1.12  TLS 1.3 简单测试 https://liudanking.com/sitelog/go-1-12-tls-1-3-test/
+
+- 3. Open-Falcon 存储优化: 高性能内存 TSDB 的诞生 https://mp.weixin.qq.com/s/ztQtn6-g5fxViu9Ox_W-tA
+
+- 4. Go 中心化代码源校验提议 https://go.googlesource.com/proposal/+/master/design/25530-notary.md
+
+- 5. 我的 HTTP/3 学习笔记 https://mp.weixin.qq.com/s/bD8C0oR34ZKUEZjN9yBSJg
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-04
 - 1. 基于hashicorp/raft的分布式一致性实战教学 https://zhuanlan.zhihu.com/p/58048906
 
