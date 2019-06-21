@@ -1,3 +1,15 @@
+### gocn_news_2018-09-15
+- 1. Go代码检查分析工具API接口实现文档 文档 https://docs.google.com/document/d/1-azPLXaLgTCKeKDNg0HVMq2ovMlD-e7n1ZHzZVzOlJk/edit#
+
+- 2. Go构建Reddit广告系统经验教训 教训 https://about.sourcegraph.com/go/gophercon-2018-from-prototype-to-production-lessons-from-building-and/
+
+- 3. 让Go程序执行的更快些 快些 https://syslog.ravelin.com/making-something-faster-56dd6b772b83
+
+- 4. 从计算机视角来使用Go和opencv cv https://about.sourcegraph.com/go/gophercon-2018-computer-vision-using-go-and-opencv-3/
+
+- 5. 腾讯高性能RPC框架Tars Go实现版 现版 https://github.com/TarsCloud/TarsGo
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-14
 - 1. Golang基于Gitlab CI/CD部署方案 https://yq.aliyun.com/articles/638794
 
