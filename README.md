@@ -1,3 +1,15 @@
+### gocn_news_2017-10-23
+- 1. riot 开源，分布式，简单高效的搜索引擎 https://github.com/go-ego/riot
+
+- 2. 可复用，类型安全的 Go API 设计 https://derekchiang.com/posts/reusable-and-type-safe-options-for-go-apis/
+
+- 3. Go 和 CPython 并发模型对比 https://labs.getninjas.com.br/go-vs-cpython-visual-comparison-of-concurrency-and-parallelism-d29a1ebec20a
+
+- 4. Bazel 构建 Golang 入门 https://chrislovecnm.com/golang/bazel/bazel-hello-world/
+
+- 5. 无用 import 检查工具 https://github.com/alexkohler/unimport
+
+- - - - - 
 ### gocn_news_2017-10-22
 - 1. 墙内安装 golang.org 中的包 https://blog.kasora.moe/2017/10/21/%E5%A2%99%E5%86%85%E5%AE%89%E8%A3%85golang-org%E4%B8%AD%E7%9A%84%E5%8C%85/
 
