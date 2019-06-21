@@ -1,3 +1,15 @@
+### gocn_news_2018-07-15
+- 1. Go modules 小试 https://dave.cheney.net/2018/07/14/taking-go-modules-for-a-spin
+
+- 2. Go 精华 https://gist.github.com/justdoit0823/1956b1db9719df31b5ffbabfb5e5ac99
+
+- 3. GitHub的MySQL高可用性实践 https://mp.weixin.qq.com/s/J1dFPs_ijEk20f3q6GismQ
+
+- 4. 深入浅出垃圾回收——Mark-Sweep 详析及其优化 https://liujiacai.net/blog/2018/07/08/mark-sweep/
+
+- 5. ldd、objdump、nm、strings、strip等工具 http://colobu.com/2018/07/12/some-tools-in-GNU-Binutils/
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-14
 - 1. 为什么Goroutine能有上百万个，Java线程却只能有上千个？ https://rcoh.me/posts/why-you-can-have-a-million-go-routines-but-only-1000-java-threads/
 
