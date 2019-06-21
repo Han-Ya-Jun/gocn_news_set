@@ -1,3 +1,15 @@
+### gocn_news_2018-12-10
+- 1. MongoDB官方Go驱动发布Beta1版本 https://github.com/mongodb/mongo-go-driver
+
+- 2. TinyGo中的interface实现 https://aykevl.nl/2018/12/tinygo-interface
+
+- 3. 利用Go、Slack和K8s构建持续集成交付bot https://blog.gopheracademy.com/advent-2018/building-ci-cd-slack-bot/
+
+- 4. [译] 代码审查之最佳实践 https://mp.weixin.qq.com/s/p_CNasQxzdni4G2eD0xUrQ
+
+- 5. 我们如何利用WASM让krakend运行在Javascript环境上 https://medium.com/devops-faith/how-we-run-krakend-on-javascript-with-webassembly-f100ac2efd67
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-09
 - 1. Go安全更新预告：1.11.3 和 1.10.6 https://groups.google.com/forum/#!topic/golang-dev/Yk09_1ktph8
 
