@@ -1,3 +1,15 @@
+### gocn_news_2018-08-01
+- 1. 恭喜首个加入CNCF且原创于中国的项目Harbor https://mp.weixin.qq.com/s/HL0xz0JW9HTE8YG7vRXe1w
+
+- 2. Istio 1.0发布，已生产就绪。 https://istio.io/zh/blog/2018/announcing-1.0
+
+- 3. Go x86-64平台汇编转换分析 http://science.raphael.poss.name/go-calling-convention-x86-64.html
+
+- 4. 具有Web UI的跨平台http嗅探器 https://github.com/ga0/netgraph
+
+- 5. 阿里搜索中台开发运维一体化实践 https://mp.weixin.qq.com/s/eSxqtmsZNhDdEtnuodlvsA
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-31
 - 1. Go modules 和 CircleCI 的配合使用： https://medium.com/@toddkeech/go-modules-and-circleci-c0d6fac0b000
 
