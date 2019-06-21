@@ -1,3 +1,17 @@
+### gocn_news_2017-07-07
+- 1. Go二进制文件发布系统 https://github.com/goreleaser/goreleaser
+
+- 2. 假数据模拟工具 https://github.com/malisit/kolpa
+
+- 3. Go里面模拟依赖 https://medium.com/agrea-technogies/mocking-dependencies-in-go-bb9739fef008
+
+- 4. Go里四舍五入的实现 https://www.cockroachlabs.com/blog/rouding-implementations-in-go/
+
+- 5. Go热更新研究笔记 http://www.cppblog.com/sunicdavy/archive/2017/07/06/215057.html
+
+- 6. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-06
 - 1. Go程序日志深入浅出 http://www.jianshu.com/p/a855e91c5335
 
