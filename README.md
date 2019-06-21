@@ -1,3 +1,15 @@
+### gocn_news_2018-11-24
+- 1. 五种语言五个故事 https://medium.com/@kari.marttila/five-languages-five-stories-1afd7b0b583f
+
+- 2. 快学Go语言 第8课 程序大厦是如何构建起来的 https://juejin.im/post/5bf76783e51d45599d422a2b
+
+- 3. Go channel学习教程 https://tutorialedge.net/golang/go-channels-tutorial/
+
+- 4. 如何用Go写业务的表达式引擎 https://medv.io/how-to-write-an-expression-engine/
+
+- 5. Go开发跨平台任天堂游戏仿真器 https://github.com/Humpheh/goboy
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-23
 - 1. GO上开发高负载WebSocket服务器https://medium.com/%40alexmais ... 2e248
 
