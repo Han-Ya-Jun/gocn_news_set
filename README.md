@@ -1,3 +1,15 @@
+### gocn_news_2018-07-16
+- 1. 初窥 Go module https://tonybai.com/2018/07/15/hello-go-module
+
+- 2. 使用 Go 语言学会 Tensorflow https://log.zvz.im/2018/07/15/go-tensorflow
+
+- 3. Go 并发中的锁与管道 https://opensource.com/article/18/7/locks-versus-channels-concurrent-go
+
+- 4. gobox中处理文件系统通知 http://blog.7rule.com/2018/07/15/gobox-inotify.html
+
+- 5. Golang 实现的 Service Mesh 数据平面代理  https://github.com/alipay/sofa-mosn
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-15
 - 1. Go modules 小试 https://dave.cheney.net/2018/07/14/taking-go-modules-for-a-spin
 
