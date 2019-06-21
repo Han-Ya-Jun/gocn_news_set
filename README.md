@@ -1,3 +1,15 @@
+### gocn_news_2017-11-28
+- 1. Go defer 可视化简介 https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff
+
+- 2. 从 Python 后端到 Go  http://benhoyt.com/writings/learning-go/
+
+- 3. Go map 源码解释 https://blog.yiz96.com/golang-map-%E6%BA%90%E7%A0%81%E8%AF%A6%E8%A7%A3/
+
+- 4. Go Glot 图表库 https://medium.com/@Arafat./introducing-glot-the-plotting-library-for-golang-3133399948a1
+
+- 5. 60 行 Go 代码获取 strace https://hackernoon.com/strace-in-60-lines-of-go-b4b76e3ecd64
+
+- - - - - - - - - - 
 ### gocn_news_2017-11-27
 - 1. Python转Go速查手册 https://www.353.solutions/py2go/index.html
 
