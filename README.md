@@ -1,3 +1,15 @@
+### gocn_news_2017-09-02
+- 1. 不使用锁来保证Golang的并发安全 https://zhuanlan.zhihu.com/p/28984390
+
+- 2. Go语言技巧 http://zablog.me/2017/09/01/go_tricks_and_tips/
+
+- 3. Nodejs创始人眼中的Go https://www.mappingthejourney.com/single-post/2017/08/31/Episode-8-Interview-with-Ryan-Dahl-Creator-of-Nodejs
+
+- 4. Go Web例子 https://gowebexamples.com/
+
+- 5. Go SDK中处理数据模型的错误 https://blog.couchbase.com/handle-data-modeling-errors-golang-couchbase-application/
+
+- - - - - 
 ### gocn_news_2017-09-01
 - 1. Go 编写区块链  https://jeiwan.cc/posts/building-blockchain-in-go-part-1
 
