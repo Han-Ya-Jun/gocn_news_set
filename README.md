@@ -1,3 +1,15 @@
+### gocn_news_2018-10-06
+- 1. Go应用中热路径的迭代优化 https://medium.com/samsara-engineering/iterative-optimization-on-hot-paths-c89827749c20
+
+- 2. Go语言中间件框架 Negroni 的静态文件处理源码分析 https://juejin.im/post/5bb823d56fb9a05d096568be
+
+- 3. Go Cloud为Go编程语言带来了新的功能 https://blog.syncfusion.com/post/go-cloud-brings-new-functionality-to-the-go-programming-language.aspx
+
+- 4. Go的Attache web工具包和框架 https://github.com/mccolljr/attache
+
+- 5. 类型嵌入 https://go101.org/article/type-embedding.html
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-05
 - 1. vscode-go开始支持Go modules https://github.com/Microsoft/vscode-go/releases/tag/0.6.90
 
