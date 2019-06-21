@@ -1,3 +1,15 @@
+### gocn_news_2018-11-07
+- 1. Go语言最佳实战[一] https://mp.weixin.qq.com/s/BbZcp5OJSQHNi6nlnu3_eA
+
+- 2. 容器化你的Go应用 https://medium.com/eaciit-engineering/dockerized-your-golang-application-37e9067ad6dd
+
+- 3. 谷歌对话机器人dialogflow的Go对接教程 https://medium.com/@robeceiro/golang-dialogflow-d32c4be5e124
+
+- 4. Go处理SOAP-WSDLhttps://medium.com/eaciit-engi ... 5949e
+
+- 5. 如何给女朋友解释什么是并发和并行 https://mp.weixin.qq.com/s/dfAKnpeLKPymULL7vRSYUA
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-06
 - 1. goroutine 剖析： https://medium.com/rungo/anatomy-of-goroutines-in-go-concurrency-in-go-a4cb9272ff88
 
