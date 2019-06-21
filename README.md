@@ -1,3 +1,15 @@
+### gocn_news_2018-08-10
+- 1. Go的鲁棒性介绍 https://www.youtube.com/watch?v=40d26ZGfhR8
+
+- 2. panic的正误用法 https://eli.thegreenplace.net/2018/on-the-uses-and-misuses-of-panics-in-go
+
+- 3. 为什么我们选择Go语言开发k8s集群管理平台 https://medium.com/containerum/why-we-use-go-to-develop-containerum-platform-for-kubernetes-3a33d5bdc5ec
+
+- 4. Prometheus正式从CNCF毕业 https://www.cncf.io/announcement/2018/08/09/prometheus-graduates/
+
+- 5. GoFasion:一个轻量级的具备链式调用风格的JSON数据解析库 https://github.com/Anderson-Lu/gofasion
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-09
 - 1. 关于Go性能优化的思考 https://github.com/dgryski/go-perfbook
 
