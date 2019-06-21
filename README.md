@@ -1,3 +1,15 @@
+### gocn_news_2018-05-06
+- 1. 在Go1.11中调试延迟问题 https://medium.com/observability/debugging-latency-in-go-1-11-9f97a7910d68
+
+- 2. 在Go里面安全地记录和跟踪HTTP请求https://zvelo.com/securely-log ... s-go/
+
+- 3. C、Go、Perl与Unix https://blog.afoolishmanifesto.com/posts/c-golang-perl-and-unix/  
+
+- 4. HTTP Endpoint变化通知工具flare https://github.com/diegobernardes/flare
+
+- 5. Nginx也许并不是Service Mesh最好的选择,Envoy才是 https://www.servercoder.com/2018/03/27/envoy-grpc-not-nginx/
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-05
 - 1. Go语言中的TCP/IP网络编程 https://segmentfault.com/a/1190000014733620
 
