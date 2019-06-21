@@ -1,3 +1,15 @@
+### gocn_news_2019-01-12
+- 1. 世界可能缺少一种编程语言 https://medium.com/@the1mills/the-world-might-be-missing-a-programming-language-4ce43e212277
+
+- 2. 如何在Go中编写好的单元测试 https://medium.com/@jens.neuse/want-to-write-good-unit-tests-in-go-dont-panic-or-should-you-ba3eb5bf4f51
+
+- 3. 为什么我在Go中使用接口 https://medium.com/@kent.rancourt/go-pointers-why-i-use-interfaces-in-go-338ae0bdc9e4
+
+- 4. 验证结构字段工具 https://medium.com/@shivarajvarali/validating-struct-fields-made-easy-in-go-language-7ea9c49bba3b
+
+- 5. 初次尝试Kubernetes https://www.youtube.com/watch?v=ZSuh_nNPGls
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-11
 - 1. GoCN每日新闻(2019-01-11)
 
