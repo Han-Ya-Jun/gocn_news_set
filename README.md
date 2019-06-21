@@ -1,3 +1,15 @@
+### gocn_news_2017-08-23
+- 1. Grpc Go 性能优化  https://grpc.io/2017/08/22/grpc-go-perf-improvements.html
+
+- 2. [译] 设计一个容错的微服务架构  https://segmentfault.com/a/1190000010799109
+
+- 3. 我在 Go 尝试泛型  https://medium.com/@watchforstock/why-i-miss-generics-in-go-9aef810a1bef
+
+- 4. 学习 Go 之后的五点思考  http://mjk.space/5-things-about-programming-learned-with-go
+
+- 5. Go 执行文件中嵌入数据 https://scene-si.org/2017/08/22/embedding-data-in-go-executables/
+
+- - - - - 
 ### gocn_news_2017-08-22
 - 1. Serverless 树莓派集群 https://blog.alexellis.io/your-serverless-raspberry-pi-cluster
 
