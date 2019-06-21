@@ -84,3 +84,15 @@
 - 5. geziyor:一款高效的web爬虫框架 https://github.com/geziyor/geziyor
 
 - - - - - 
+### gocn_news_2019-06-21
+- 1. Golang 详解 defer https://juejin.im/post/5d034fabf265da1b971a716f
+
+- 2. 你是否犯了Go编码错误？ https://yourbasic.org/golang/gotcha
+
+- 3. 使用互斥锁进行单元测试代码 https://www.reddit.com/r/golang/comments/c0pav8/unit_testing_code_with_mutexes/
+
+- 4. 仔细研究Go (golang)类型系统 https://blog.ankuranand.com/2018/11/29/a-closer-look-at-go-golang-type-system/
+
+- 5. 服务端高并发分布式架构演进之路 https://segmentfault.com/a/1190000018626163
+
+- - - - - 
