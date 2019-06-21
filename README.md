@@ -1,3 +1,15 @@
+### gocn_news_2018-07-13
+- 1. 使用Go语言实现GraphQL API的JWT https://www.thepolyglotdeveloper.com/2018/07/jwt-authorization-graphql-api-using-golang
+
+- 2. 使用Go语言开发Web组件 https://medium.com/@magyarvladimir/web-components-in-go-3a2488725f68
+
+- 3. Go moudule支持已合并进入1.11版本https://groups.google.com/foru ... tBgAJ
+
+- 4. oathkeeper:云原生IAP组件 https://github.com/ory/oathkeeper
+
+- 5. hop:更易使用的AMQP客户端包 https://github.com/mazingstudio/hop
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-12
 - 1. Go依赖注入 https://medium.com/@pafortin/simple-go-dependency-injection-part-1-96fd9ba1b7a7
 
