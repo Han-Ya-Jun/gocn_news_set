@@ -1,3 +1,15 @@
+### gocn_news_2017-11-23
+- 1. 键入安全绑定与Chrome远程接口进行交互  https://github.com/SKatiyar/cri
+
+- 2. 用Go来操作OVS  https://www.youtube.com/watch?feature=youtu.be&v=45PpBbqB2Z0
+
+- 3. 如何将golang的并发编程运用到实际开发 https://juejin.im/post/5a11a3c76fb9a04512388a50
+
+- 4. Go 1.10 的pprof的工具将直接支持火焰图 http://colobu.com/2017/11/22/new-pprof-UI/
+
+- 5. （译）Go 语言的工作窃取调度器 http://www.jianshu.com/p/20c49ce02175
+
+- - - - - - - - - - 
 ### gocn_news_2017-11-22
 - 1. GoCN每日新闻(2017-11-22)
 
