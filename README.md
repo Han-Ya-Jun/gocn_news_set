@@ -1,3 +1,15 @@
+### gocn_news_2017-12-15
+- 1. 单元测试的艺术 https://www.youtube.com/watch?v=EOpj9aZ8KfoGoCN
+
+- 2. 使用Go语言解析动态JSON格式 http://eagain.net/articles/go-dynamic-json/
+
+- 3. 微服务模型：Service Mesh http://philcalcado.com/2017/08/03/pattern_service_mesh.html
+
+- 4. 如何落地TensorFlow on Kubernetes？https://mp.weixin.qq.com/s/huHm09xfStIw76eN3hL8tA
+
+- 5. 基于Go技术栈的微服务构建 http://www.uml.org.cn/wfw/201712061.asp
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-14
 - 1. GOCN每日新闻(2017-12-14)
 
