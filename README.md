@@ -1,3 +1,15 @@
+### gocn_news_2019-04-21
+- 1. 并发陷阱之未完成的工作 https://www.ardanlabs.com/blog/2019/04/concurrency-trap-2-incomplete-work.html
+
+- 2. 为什么你应该喜欢 sync.Pool https://medium.com/@Mnwa/why-you-should-like-sync-pool-2c7960c023ba
+
+- 3. 为Go模拟枚举类型 https://stein.wtf/posts/2019-04-16/enums/
+
+- 4. [译]使用Go语言读写Redis协议  https://colobu.com/2019/04/16/Reading-and-Writing-Redis-Protocol-in-Go/
+
+- 5. 使用nomad在weave网络中部署工作负载 https://tonybai.com/2019/04/20/deploy-workload-in-weave-network-using-nomad/
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-20
 - 1. 如何客观评价 Go 语言 https://mp.weixin.qq.com/s/WOvjEQc6Tr3hcZlCu5aLkA
 
