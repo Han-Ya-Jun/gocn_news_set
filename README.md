@@ -1,3 +1,15 @@
+### gocn_news_2017-09-01
+- 1. Go 编写区块链  https://jeiwan.cc/posts/building-blockchain-in-go-part-1
+
+- 2. Go Assembly 范例  http://davidwong.fr/goasm/
+
+- 3. Go 使用新的 pprof web ui https://honeycomb.io/blog/2017/08/golang-observability-using-the-new-pprof-web-ui-to-debug-memory-usage
+
+- 4. Go 微服务系列文章 http://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/
+
+- 5. Go iota  http://arsonistgopher.com/golang/2017/06/27/golang-iota.html
+
+- - - - - 
 ### gocn_news_2017-08-31
 - 1. Go处理百万每分钟的请求 https://medium.com/smsjunk/handling-1-million-requests-per-minute-with-golang-f70ac505fcaa
 
