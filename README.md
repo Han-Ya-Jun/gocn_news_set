@@ -1,3 +1,15 @@
+### gocn_news_2018-08-18
+- 1. Go strings.Builder源码分析 http://blog.cyeam.com/golang/2018/08/16/strings-builder
+
+- 2. Golang调度剖析 https://segmentfault.com/a/1190000016038785
+
+- 3. Go面部识别使用 https://hackernoon.com/face-recognition-with-go-676a555b8a7e
+
+- 4. Go中elasticsearch和prometheus结合使用 https://zupzup.org/go-elasticsearch-prometheus-exporter/
+
+- 5. Go 2设计我最喜欢的3个issue修改提议 https://dev.to/deanveloper/my-favorite-go-2-proposals-3lie
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-17
 - 1. Go 1.11还有什么？https://talks.godoc.org/github.com/mvdan/talks/2018/go1.11.slide#1
 
