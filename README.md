@@ -1,3 +1,15 @@
+### gocn_news_2019-02-23
+- 1. 转到接口并键入断言 https://marcofranssen.nl/go-interfaces-and-type-assertions/
+
+- 2. 解读为什么GoLang与其他语言不同 https://www.mindinventory.com/blog/what-makes-golang-stand-apart-from-other-languages/
+
+- 3. AppsFlyer 将 API 网关服务从 Clojure 迁移到 Golang https://www.infoq.com/articles/api-gateway-clojure-golang
+
+- 4. Windows上Go GUI应用程序的通用库 https://github.com/tadvi/winc
+
+- 5. 云原生微服务演示应用程序 https://github.com/GoogleCloudPlatform/microservices-demo
+
+- - - - - - - - - - 
 ### gocn_news_2019-02-22
 - 1. 可视化学习Go的内存分配器 https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed 
 
