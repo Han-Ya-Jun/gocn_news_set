@@ -1,3 +1,15 @@
+### gocn_news_2018-03-05
+- 1. 关于Go的博文收集列表 https://github.com/enocom/gopher-reading-list
+
+- 2. GraphQL连接数据库生成工具 https://ahmedalhulaibi.github.io/graphqlator-website/
+
+- 3. 命令行中监控Goroutine https://github.com/bcicen/grmon
+
+- 4. Go实现的CASPaxos协议 https://github.com/peterbourgon/caspaxos
+
+- 5. goroutine 所有权和退出 https://zhuanlan.zhihu.com/p/34123287
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-04
 - 1. Go的WebAssembly体系结构 https://docs.google.com/document/d/131vjr4DH6JFnb-blm_uRdaC0_Nv3OUwjEY5qVCxCup4
 
