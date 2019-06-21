@@ -1,3 +1,19 @@
+### gocn_news_2017-07-04
+- 1. Go1.9 sync.map使用及内部实现 https://zhuanlan.zhihu.com/p/27642824
+
+- 2. Go unsafe 包之内存布局 http://t.cn/RoeJIeM
+
+- 3. Go并发不等于并行 https://chinazt.cc/2017/07/03/golangde-bing-fa-bu-deng-yu-bing-xing/
+
+- 4. Postgres 性能调优指南 https://www.justwatch.com/blog/post/debugging-postgresql-performance-the-hard-way/
+
+- 5. Websocket实现原理 http://zeeyang.com/2017/07/02/websocket/
+
+- 6. 腾讯 【深圳】 Go工程师 https://gocn.io/question/900
+
+- 7. 阿里 【杭州】 Go工程师 https://gocn.io/question/899
+
+- - - 
 ### gocn_news_2017-07-03
 - 1. 扩充Web服务：负载均衡 https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/
 
