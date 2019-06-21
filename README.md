@@ -1,3 +1,15 @@
+### gocn_news_2018-04-28
+- 1. Golang中多大的对象算是大对象，多小的对象算是小对象？ https://gocn.io/question/1845
+
+- 2. 爬虫带你了解一下Golang的市场行情 https://segmentfault.com/a/1190000014643720
+
+- 3. Go并发危害的思考 https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
+
+- 4. 如何用mocks写出更好的单元测试 https://medium.com/@peter.gtz/how-to-write-better-unit-tests-in-go-using-mocks-4dd05e867b17
+
+- 5. 大型分布式网站架构实战项目分析 https://juejin.im/post/5ae1e71af265da0b7527d442
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-27
 - 1. Go's New Brand https://blog.golang.org/go-brand
 
