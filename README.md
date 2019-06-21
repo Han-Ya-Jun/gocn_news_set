@@ -1,3 +1,15 @@
+### gocn_news_2018-01-27
+- 1. golang的httpserver优雅重启 http://zhwen.org/?p=984
+
+- 2. memmap 可视化数据结构工具 https://github.com/bradleyjkemp/memmap
+
+- 3. golang channel提前close丢失数据? http://xiaorui.cc/?p=5007
+
+- 4. htmlparse:强大的html文档解析工具 https://studygolang.com/articles/12284
+
+- 5. AWS SDK for Go V2 https://www.youtube.com/watch?v=B0TMLDttLBE
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-26
 - 1. Buoyant宣布:新k8s Service Mesh "Conduit" 将采用Rust和Golang开发 https://www.infoq.com/news/2018/01/conduit-service-mesh
 
