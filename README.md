@@ -1,3 +1,15 @@
+### gocn_news_2018-07-03
+- 1. Go 实现 OAuth 2.0： https://www.sohamkamani.com/blog/golang/2018-06-24-oauth-with-golang/
+
+- 2. Go 编写一个简单的 shell： https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/
+
+- 3. Go 创建一个实时动态图： https://pusher.com/tutorials/live-graph-go
+
+- 4. k8s 中配置 Prometheus  Alertmanager 告警服务： https://medium.com/@_ipeacocks/alertmanager-prometheus-notification-configuration-in-kubernetes-fcf63c3517ef
+
+- 5. MongoDB 4.0 特性： https://medium.com/@stioneq/mongodb-4-0-features-d922665da637
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-02
 - 1. 不得不知道的 golang 之 sync.Mutex 互斥锁源码分析 http://blog.51cto.com/qiangmzsx/2134786
 
