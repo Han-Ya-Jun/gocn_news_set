@@ -1,3 +1,15 @@
+### gocn_news_2018-06-19
+- 1. 限制程序中 goroutine 执行个数：https://medium.com/@zufolo/a-pattern-for-limiting-the-number-of-goroutines-in-execution-56e13b226e72
+
+- 2. 通过 AWS Lambda 和 Go 实现的爬虫： https://medium.com/@aaronvb/simple-website-text-scraping-with-go-and-aws-lambda-cd5df25f5b2b
+
+- 3. 创建自己的超级账本区块链项目：https://medium.com/@mycoralhealth/start-your-own-hyperledger-blockchain-the-easy-way-5758cb4ed2d1
+
+- 4. 神经网络学习笔记：https://medium.com/@prakhar.verma7/neural-network-learning-part-1-feed-forward-9e4c4c11a6aa
+
+- 5. k8s 集群高可用的秘密 https://itnext.io/keep-you-kubernetes-cluster-balanced-the-secret-to-high-availability-17edf60d9cb7
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-18
 - 1. SQS 消费者模式：高扩展的并发管理架构设计  https://medium.com/@questhenkart/sqs-consumer-design-achieving-high-scalability-while-managing-concurrency-in-go-d5a8504ea754
 
