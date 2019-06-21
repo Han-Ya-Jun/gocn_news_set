@@ -1,3 +1,15 @@
+### gocn_news_2018-10-03
+- 1. Go 1.11.1 is released https://groups.google.com/forum/#!topic/golang-nuts/OanfoD70o2g
+
+- 2. Go 2 Error Handling Feedback https://github.com/golang/go/wiki/Go2ErrorHandlingFeedback
+
+- 3. Kubernetes 1.12 终于来了 https://mp.weixin.qq.com/s/vi84vOY-GwGhrGB8xV86Vg
+
+- 4. 依照并发GC实现STW GC https://go-review.googlesource.com/c/go/+/134780
+
+- 5. sourcegraph开源了 https://github.com/sourcegraph/sourcegraph
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-02
 - 1. Go 实现 Python 模块 https://mp.weixin.qq.com/s/r-IoNkKW_ygGpLMQRhvdxg
 
