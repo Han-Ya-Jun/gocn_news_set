@@ -24,3 +24,15 @@
 - 5. 2019年最火热的Golang项目 https://juejin.im/post/5cfa2cfef265da1bcc19333e
 
 - - - - - 
+### gocn_news_2019-06-21
+- 1. 理解Go sync.Pool设计 https://medium.com/@blanchon.vincent/go-understand-the-design-of-sync-pool-2dde3024e277
+
+- 2. Go语言之美 https://telescope.ac/battlefield/the-beauty-of-go-1
+
+- 3. 一种新的在Go中实现DI的方式 https://medium.com/@elliotchance/a-new-simpler-way-to-do-dependency-injection-in-go-9e191bef50d5
+
+- 4. 在Go中实现高效位图索引 https://badootech.badoo.com/bitmap-indexes-in-go-unbelievable-search-speed-bb4a6b00851
+
+- 5. Klog: 受Google Stadia启发的Go云游戏引擎 https://github.com/giongto35/cloud-game
+
+- - - - - 
