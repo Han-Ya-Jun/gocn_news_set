@@ -1,3 +1,15 @@
+### gocn_news_2019-03-17
+- 1. 通过context deadline实现服务超时 https://engineering.grab.com/context-deadlines-and-how-to-set-them
+
+- 2. Golang中的行为驱动开发 https://alicegg.tech/2019/03/09/gobdd.html 
+
+- 3. 实用string操作技巧 https://yourbasic.org/golang/string-functions-reference-cheat-sheet
+
+- 4. 通过pprof修复bug https://nicholasjackson.io/2019/03/01/fixing-bugs-with-pprof
+
+- 5. 从技术演变的角度看互联网后台架构 https://mp.weixin.qq.com/s/ybQd4zXyfQlUdbvbQl0h9A
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-16
 - 1. GoLand 2019.1Beta版发布（内置堆、CPU、锁等分析器）https://blog.jetbrains.com/go/2019/03/14/goland-2019-1-goes-beta/
 
