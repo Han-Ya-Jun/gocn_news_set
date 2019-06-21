@@ -1,3 +1,15 @@
+### gocn_news_2019-03-07
+- 1. 用Hugo重写我的个人网站 https://dev.to/restoreddev/rewriting-my-personal-site-with-hugo-1708
+
+- 2. 基于WebAssembly的实验 https://dev.to/jeremylikness/gopher-meet-plasma-a-webassembly-experiment-4anl
+
+- 3. 学习写Golang代码的测试 https://dev.to/taylorsilva/learning-tests-11fe 
+
+- 4. 优雅的关闭Go webserver https://marcofranssen.nl/go-webserver-with-gracefull-shutdown/
+
+- 5. Go高级并发模式 https://blogtitle.github.io/go-advanced-concurrency-patterns-part-2-timers/
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-06
 - 1. Gopher China 2019 讲师专访 - 杜旭 https://mp.weixin.qq.com/s/LsUV4KmapJhxKBV5Sd3XDA
 
