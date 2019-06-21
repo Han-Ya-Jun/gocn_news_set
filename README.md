@@ -1,3 +1,15 @@
+### gocn_news_2018-12-17
+- 1. NSQ 与 Go https://medium.com/@jawadahmadd/nsq-with-go-77ca1b69c4ec
+
+- 2. Golang Context 是好的设计吗？https://segmentfault.com/a/1190000017394302
+
+- 3. Go 变量 http://www.golangprograms.com/go-language/variables.html
+
+- 4. beego 框架代码分析 https://juejin.im/post/5c16f65ff265da61441ff343
+
+- 5. 万亿级数据洪峰下的分布式消息引擎 https://mp.weixin.qq.com/s/FuUICaNihx1PPKfxRTN1Fg
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-16
 - 1. 深入理解 Go Slice https://gocn.vip/article/1074
 
