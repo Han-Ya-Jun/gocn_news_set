@@ -1,3 +1,15 @@
+### gocn_news_2019-03-13
+- 1. 图解Go语言内存分配 http://www.cnblogs.com/qcrao-2018/p/10520785.html
+
+- 2. 让我们用Go来写一个简单的事件处理总线 https://levelup.gitconnected.com/lets-write-a-simple-event-bus-in-go-79b9480d8997
+
+- 3. 当Go遇上了Lua https://segmentfault.com/a/1190000018482369
+
+- 4. 我应该用Go还是Node.js来开发我下一个APP https://medium.com/@faith.chikwekwe/should-i-use-golang-or-node-js-for-my-next-app-e15d9c71358e
+
+- 5. 《Go语言四十二章经》 https://github.com/ffhelicopter/Go42
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-12
 - 1. Go gRPC 简介：https://blog.lelonek.me/a-brief-introduction-to-grpc-in-go-e66e596fe244
 
