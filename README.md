@@ -1,3 +1,15 @@
+### gocn_news_2018-04-02
+- 1. 使用Golang和colly制作爬虫 http://edmundmartin.com/writing-a-web-crawler-with-golang-and-colly/    
+
+- 2. Go实现的算法合集 https://dreddsa5dies.github.io/algorithm/    
+
+- 3. 用Go编写简单Websocket服务 https://www.cnblogs.com/snowInPluto/p/8688453.html    
+
+- 4. 58到家MySQL军规 https://mp.weixin.qq.com/s/YfCORbcCX1hymXBCrZbAZg    
+
+- 5. Go实现的室内定位系统实现 https://github.com/schollz/find3
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-01
 - 1. 如何优雅的使用MQ http://www.linkedkeeper.com/detail/blog.action?bid=1105
 
