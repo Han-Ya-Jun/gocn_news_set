@@ -1,3 +1,15 @@
+### gocn_news_2019-04-26
+- 1. ChanBroker goroutine实现类似Kafka的消息队列 https://github.com/myself659/chanbroker
+
+- 2. 为 Envoy 构建控制面指南第4部分：构建的可扩展性 https://mp.weixin.qq.com/s/nPy47R2zjgVU_3YUg2pHbA
+
+- 3. php swoole 协程 与 go 的协程比较 https://studygolang.com/articles/20036
+
+- 4. Heroku上部署原生go二进制应用 https://preslav.me/2019/04/20/deploying-native-go-binary-on-heroku/
+
+- 5. sonarqube SonarGo 搭建和golang代码检视的使用教程 https://studygolang.com/articles/20028
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-25
 - 1. 深入分析Go语言之关于interface的10个问题 https://www.cnblogs.com/qcrao-2018/p/10766091.html
 
