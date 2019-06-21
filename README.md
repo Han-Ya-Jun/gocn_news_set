@@ -1,3 +1,15 @@
+### gocn_news_2017-09-22
+- 1. Go语言如何在没有实现功能的情况下写出完善的单元测试代码 http://www.jianshu.com/p/c23a397409ac
+
+- 2. golang语言编译的二进制可执行文件为什么比 C 语言大 http://www.cnxct.com/why-golang-elf-binary-file-is-large-than-c/
+
+- 3. Golang 介绍及踩坑系列之一 https://zhuanlan.zhihu.com/p/29545675
+
+- 4. Intel Go重写了container系统 https://clearlinux.org/blogs/announcing-intel%C2%AE-clear-containers-30
+
+- 5. Go 十年之路 https://commandcenter.blogspot.jp/2017/09/go-ten-years-and-climbing.html
+
+- - - - - 
 ### gocn_news_2017-09-21
 - 1. Go 和Makefile https://sohlich.github.io/post/go_makefile/
 
