@@ -1,3 +1,15 @@
+### gocn_news_2017-12-01
+- 1. Context包并非为cancel而生https://dave.cheney.net/2017/0 ... ation
+
+- 2. PromptUI:Go交互式控制台设计工具https://github.com/manifoldco/promptui
+
+- 3. Go语言中实现基于 event-loop 网络处理http://colobu.com/2017/11/29/e ... n-Go/
+
+- 4. 使用Go与redis构建有趣的应用https://mp.weixin.qq.com/s/tIHEq8wxK_av6ezo3JECWA
+
+- 5. GoLand 2017.3正式发布https://blog.jetbrains.com/go/ ... rket/
+
+- - - - - - - - - - 
 ### gocn_news_2017-11-30
 - 1. Tenta-dns完整的DNS解决方案 https://github.com/tenta-browser/tenta-dns
 
