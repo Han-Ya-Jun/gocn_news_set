@@ -132,3 +132,15 @@
 - 5. Go增删改查TCP服务器 https://medium.com/xxxvenom/go-tcp-crud-server-61fc34469640
 
 - - - - - 
+### gocn_news_2019-06-21
+- 1. Go 中 Defer, Panic 和 Recover: https://medium.com/rungo/defer-panic-and-recover-in-go-689dfa7f8802
+
+- 2. Go 错误处理：https://medium.com/rungo/error-handling-in-go-f0125de052f0 
+
+- 3. 优化 Go 程序的简单技巧：https://stephen.sh/posts/quick-go-performance-improvements
+
+- 4. Service Mesh 简介：https://medium.com/@arjunrc143/introduction-to-service-mesh-4fc2b872d4f9 
+
+- 5. 系统架构系列（一）：如何用公式定义该概念? https://www.infoq.cn/article/fwhQ-dIN2xTUH6zNLYZp
+
+- - - - - 
