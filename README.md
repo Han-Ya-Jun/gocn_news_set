@@ -1,3 +1,15 @@
+### gocn_news_2017-09-16
+- 1. Go游戏项目中使用tls HTTPS和etcd通讯 http://www.cnxct.com/use-tls-https-to-transport-with-etcd-server-in-golang-gameserver/
+
+- 2. Go里面的IO流详解 https://medium.com/learning-the-go-programming-language/streaming-io-in-go-d93507931185
+
+- 3. 微服务设计架构指南 https://medium.com/@nathankpeck/microservice-principles-smart-endpoints-and-dumb-pipes-5691d410700f
+
+- 4. Go里面的web组件 https://medium.com/@magyarvladimir/web-components-in-go-3a2488725f68
+
+- 5. 哪些大公司在用go语言 http://www.flysnow.org/2017/09/13/go-for-company.html
+
+- - - - - 
 ### gocn_news_2017-09-15
 - 1. Go sync.Map的使用和性能测试 https://medium.com/@deckarep/the-new-kid-in-town-gos-sync-map-de24a6bf7c2c
 
