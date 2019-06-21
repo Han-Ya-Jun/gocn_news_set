@@ -1,3 +1,15 @@
+### gocn_news_2018-09-02
+- 1. gobox中的consumer处理框架 http://blog.7rule.com/2018/09/01/gobox-consumer.html
+
+- 2. GraphQL API在Postgres|TimescaleDB数据库中查询实时数据 https://blog.hasura.io/using-timescaledb-with-hasura-graphql-d05f030c4b10
+
+- 3. go-i18n: 让Go程序支持国际化 https://phraseapp.com/blog/posts/internationalisation-in-go-with-go-i18n/
+
+- 4. 成为Golang贡献者 https://kev.inburke.com/slides/becoming-go-contributor/
+
+- 5. GopherCon UK 2018 https://www.youtube.com/playlist?list=PLDWZ5uzn69ewsMyuGjVsAnpQIjyud1Cv9
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-01
 - 1. 唯品会高吞吐量Access Log存储的Go实现 实现 https://mp.weixin.qq.com/s/KodXl-THn7DGq8ZYmkqBEw
 
