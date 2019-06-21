@@ -1,3 +1,15 @@
+### gocn_news_2018-03-28
+- 1. 通过转发HTTPS代理与第三方集成 https://medium.com/betalo-engineering/integrating-with-third-parties-via-a-go-forwarding-https-proxy-6f0e5575d93e
+
+- 2. 同为分布式缓存，为何Redis更胜一筹？ https://mp.weixin.qq.com/s/vJ5KKhns3eBTsrXCttvZow
+
+- 3. Go Channel 应用模式 http://colobu.com/2018/03/26/channel-patterns/
+
+- 4. 使用Go channel合并大量csv文件 https://danrl.com/blog/2018/merging-huuuge-csv-files-using-golang-channels/
+
+- 5. RWMutex分析 https://medium.com/golangspec/sync-rwmutex-ca6c6c3208a0
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-27
 - 1. 关于 Go 包版本管理的提案： https://blog.golang.org/versioning-proposal
 
