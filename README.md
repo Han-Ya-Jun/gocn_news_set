@@ -1,3 +1,15 @@
+### gocn_news_2019-05-14
+- 1. Go playground 支持第三方引用包 https://github.com/golang/go/issues/31944
+
+- 2. Go 垃圾回收: GC Traces https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
+
+- 3. Go generate and AST https://lailin.xyz/post/41140.html
+
+- 4. Go Channel 实现原理 https://segmentfault.com/a/1190000019172554
+
+- 5. 纯 Go 实现 WebRTC 库 https://github.com/pion/webrtc
+
+- - - - - - - - - - 
 ### gocn_news_2019-05-13
 - 1. Go工具之编译器：汇编语言与Go https://medium.com/martinomburajr/go-tools-the-compiler-part-1-assembly-language-and-go-ffc42cbf579d
 
