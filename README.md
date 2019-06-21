@@ -1,3 +1,15 @@
+### gocn_news_2017-09-11
+- 1. 使用Go写脚本的故事 https://gist.github.com/posener/73ffd326d88483df6b1cb66e8ed1e0bd
+
+- 2. 如何组织Go的包 https://www.youtube.com/watch?v=spKM5CyBwJA
+
+- 3. 10种常见的软件架构 https://medium.com/towards-data-science/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
+
+- 4. 常见的Go项目目录架构 https://github.com/golang-standards/project-layout
+
+- 5. 分布式系统资料集 https://caitiem.com/2017/09/07/getting-started-with-distributed-systems/
+
+- - - - - 
 ### gocn_news_2017-09-10
 - 1. Gopher广州meetup演讲稿 https://github.com/gopherchina/meetup/tree/master/Guangzhou/20170909
 
