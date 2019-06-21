@@ -1,3 +1,15 @@
+### gocn_news_2018-09-28
+- 1. Go Mock测试 http://www.joeldholmes.com/post/go-mock-testing/
+
+- 2. Red Hat推出一款kubernetes插件消除Istio中对特权容器的需求 https://mp.weixin.qq.com/s/3TWk2yLSIiR-YYghifI-rA
+
+- 3. golang实现简单区块链demo https://www.jianshu.com/p/6382faac2d79
+
+- 4. Kubernetes 1.12发布：Kubelet TLS Bootstrap与Azure虚拟机规模集（VMSS）迎来通用版本 https://mp.weixin.qq.com/s/JGZmJceY6loprTQTJdwdmA
+
+- 5. 浅谈服务治理、微服务与Service Mesh（三）： Service Mesh与Serverless https://mp.weixin.qq.com/s/cotjSl6xYflWv1P2ot4Yjw
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-26
 - 1. Goroutine如何调度的? https://mp.weixin.qq.com/s/eDpNOUR1uKUsV39jDe_w4A
 
