@@ -1,3 +1,15 @@
+### gocn_news_2018-01-23
+- 1. Golang :  Hello，中国！https://blog.golang.org/hello-china
+
+- 2. 架构部操作手册 https://mp.weixin.qq.com/s/vxJkUT_I-g1dWQFiz_XT_w
+
+- 3. 微服务最后的疯狂 http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/
+
+- 4. gRPC负载均衡-Golang仲玄 https://juejin.im/post/5a66046c51882535a47cfc8d
+
+- 5. Go 1.9.3 Released  https://groups.google.com/forum/#!msg/golang-nuts/7VWC5pzjg7A/E5McanH0AgAJ
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-22
 - 1. Steam的基于Go的构建实践分享 https://stackshare.io/stream/stream-and-go-news-feeds-for-over-300-million-end-users
 
