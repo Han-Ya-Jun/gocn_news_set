@@ -1,3 +1,15 @@
+### gocn_news_2017-06-28
+- 1. 如何做高可用架构设计 http://t.cn/RoWfVHc
+
+- 2. 了解Go 1.9的类型别名 http://colobu.com/2017/06/26/learn-go-type-aliases/
+
+- 3. 针对Go二进制的man命令工具 https://appliedgo.net/goman/
+
+- 4. 也谈Go的可移植性 http://tonybai.com/2017/06/27/an-intro-about-go-portability/
+
+- 5. Go测试辅助套件ginkgo http://www.agiratech.com/golang-testing-using-ginkgo/
+
+- - - - - 
 ### gocn_news_2017-06-27
 - 1. UDP编程的那些事 https://gocn.io/article/371
 
