@@ -1,3 +1,15 @@
+### gocn_news_2018-09-09
+- 1. Go是一门面向对象的语言吗  https://dev.to/enchanterio/is-go-an-object-oriented-language-52co
+
+- 2. 基于Go的可扩展实时消息传递基础设施 https://medium.com/koinex-crunch/pushman-the-koinex-standard-for-realtime-experience-4122d2715c92
+
+- 3. Go语言HTTP/2探险之旅  https://mp.weixin.qq.com/s/neBQ4Etx3RLhMQdM6GksVg
+
+- 4. 服务级别测试栈的实践 https://medium.com/dm03514-tech-blog/service-level-test-stacks-in-action-using-go-a77a0e808b1c
+
+- 5. 论开源项目的可持续发展 https://medium.com/@mattklein123/the-broken-economics-of-oss-5a1b31fc0182
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-08
 - 1. 你需要知道的Go-1.11 模块、WebAssembly、和主要的变化 https://medium.com/@RidhamTarpara/all-you-need-to-know-about-go-1-11-webassembly-modules-and-major-changes-df6a02108373
 
