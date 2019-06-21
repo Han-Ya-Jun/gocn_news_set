@@ -1,3 +1,15 @@
+### gocn_news_2018-05-11
+- 1. Go 内存逃逸详细分析 https://www.do1618.com/archives/1328/go-%E5%86%85%E5%AD%98%E9%80%83%E9%80%B8%E8%AF%A6%E7%BB%86%E5%88%86%E6%9E%90/
+
+- 2. 基于Go-Ethereum构建DPOS机制下的区块链 https://mp.weixin.qq.com/s/7d_d0oHufg0N_6oZLTM8Nw
+
+- 3. GridDB Golang客户端入门 https://griddb.net/en/blog/getting-started-with-griddbs-golang-client/
+
+- 4. Golang应用多媒体处理插件Goffli  https://github.com/wolfy-j/goffli
+
+- 5. Go语言集成开发环境GoLand更新至2018.1.3版本 https://www.oschina.net/news/95967/goland-2018-1-3-released
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-10
 - 1. Go开发的又一个分布式数据库 https://github.com/radondb/radon
 
