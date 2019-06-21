@@ -1,3 +1,15 @@
+### gocn_news_2019-01-19
+- 1. Go存储怎么写?深度解析etcd存储设计 https://mp.weixin.qq.com/s/qvqpUtTFI0cFf9LtTH4JfA
+
+- 2. Gccgo 2019 https://meltware.com/2019/01/16/gccgo-benchmarks-2019.html
+
+- 3. 用Go调用windows api https://medium.com/jettech/breaking-all-the-rules-using-go-to-call-windows-api-2cbfd8c79724
+
+- 4. 停止写无用的Go库 https://0x46.net/thoughts/2018/12/29/go-libraries/
+
+- 5. 保障IDC安全：分布式HIDS集群架构设计 https://tech.meituan.com/2019/01/17/distributed-hids-cluster-architecture-design.html
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-18
 - 1. 建议:Go 2 Number Literal更改https://github.com/golang/prop ... ls.md
 
