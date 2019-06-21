@@ -1,3 +1,15 @@
+### gocn_news_2018-12-07
+- 1. golang持续测试工具 https://github.com/vdemeester/ram
+
+- 2. Kubernetes 1.13发布：利用Kubeadm简化集群管理，CSI以及作为默认DNS的CoreDNS全面实现普遍可用 https://mp.weixin.qq.com/s/m0S2rNla-csKLZgNauC_vQ
+
+- 3. Serverless Jenkins 和 Jenkins X https://medium.com/@jdrawlings/serverless-jenkins-with-jenkins-x-9134cbfe6870
+
+- 4. 美团DB数据同步到数据仓库的架构与实践 https://mp.weixin.qq.com/s/MrGSWXd1Oa3jSjYX87ObSg
+
+- 5. CentOS7官方Docker发行版现重大Bug可致Kubernetes中的健康检测探针失败并影响容器交互 https://mp.weixin.qq.com/s/z2BNbXff0YnLxrtGfa3djg
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-06
 - 1. 最好用的编辑器之一：Vim-Go环境搭建 https://www.cnblogs.com/qcloud1001/p/10072325.html
 
