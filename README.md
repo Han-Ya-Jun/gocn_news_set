@@ -1,3 +1,15 @@
+### gocn_news_2018-08-25
+- 1. Go 1.11发布了 https://blog.golang.org/go1.11
+
+- 2. 舍弃Python遇见Go https://thinkfaster.co/2018/07/goodbye-python-hello-go/
+
+- 3. 从Python迁移到Go https://towardsdatascience.com/moving-to-go-from-python-9ebbd9a8aec4
+
+- 4. Go中实现的修复协议的全功能消息传递引擎 https://github.com/quickfixgo/quickfix
+
+- 5. 阿里云OSS Golang SDK处理图片功能 https://www.jianshu.com/p/46307d595a4a
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-24
 - 1. 使用Go汇编编程构建高性能的Geohash https://mmcloughlin.com/posts/geohash-assembly
 
