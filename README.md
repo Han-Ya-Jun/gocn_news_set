@@ -1,3 +1,15 @@
+### gocn_news_2018-10-01
+- 1. 使用 Go 进行异步任务共享 https://medium.com/@farissyariati/async-task-sharing-using-tcp-socket-in-golang-5cf78eb52a33
+
+- 2. NSQ 最佳实践 https://mp.weixin.qq.com/s/W_-Pj-0gHGpdqAQByym1tA
+
+- 3. 深入 Golang Channel https://medium.com/@ankur_anand/diving-deep-into-the-golang-channels-549fd4ed21a8
+
+- 4. 容器监控利器 - prometheus在生产落地过程中的思考 http://techblog.ppdai.com/2018/09/28/20180928/
+
+- 5. 在Android/iOS上运行Go https://medium.com/@AndroidAdvance/running-go-from-android-ios-tutorial-7f1d456c5b0f
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-30
 - 1. 你没听说过的 Go 语言惊人优点 https://linux.cn/article-10057-1.html
 
