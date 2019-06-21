@@ -1,3 +1,15 @@
+### gocn_news_2018-03-26
+- 1. Go 汇编简介：https://blog.hackercat.ninja/post/quick_intro_to_go_assembly
+
+- 2. strings.builder 8 点注意事项：https://medium.com/@thuc/8-notes-about-strings-builder-in-golang-65260daae6e9
+
+- 3. 用 golang 实现一个代理池：http://www.cnblogs.com/DilonWu/p/8645355.html
+
+- 4. 用 Promise 实现并发 vs Go goroutine：https://mp.weixin.qq.com/s/KdVBsgMDYM7LRdnMcbzQYQ
+
+- 5. Kubernetes StatefulSet源码分析：https://my.oschina.net/jxcdwangtao/blog/1784739
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-25
 - 1. defer函数参数求值简要分析 https://tonybai.com/2018/03/23/the-analysis-of-the-param-evaluation-of-defer-functions/
 
