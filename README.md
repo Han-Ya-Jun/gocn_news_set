@@ -1,3 +1,15 @@
+### gocn_news_2019-04-02
+- 1. 为什么 Go 程序那么大？https://science.raphael.poss.name/go-executable-size-visualization-with-d3.html
+
+- 2. Go 并发设计模式 https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/
+
+- 3. 8个月的 Go 开发体验 http://onoffswitch.net/8-months/
+
+- 4. 微服务框架 Micro 发布 1.0 https://micro.mu/blog/2019/04/01/micro-version-1-and-beyond.html
+
+- 5. 图表库 go-echarts https://github.com/chenjiandongx/go-echarts
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-01
 - 1. Go，企业开发过程的关键语言？ https://www.infoq.com/presentations/go-lang-design
 
