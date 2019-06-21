@@ -1,3 +1,15 @@
+### gocn_news_2017-07-01
+- 1. Defer的使用规则 https://chinazt.cc/2017/06/30/deferde-shi-yong-gui-ze/
+
+- 2. Go Tooling in Action https://github.com/campoy/go-tooling-workshop
+
+- 3. 为什么Go的接口设计是极好的 http://blog.teamtreehouse.com/go-interfaces-awesome
+
+- 4. Go写的TCP Proxy https://godoc.org/github.com/bradfitz/tcpproxy
+
+- 5. Docker 安全策略最佳实战 https://blog.sqreen.io/docker-security/
+
+- - - - - 
 ### gocn_news_2017-06-30
 - 1. Go代码调优利器-火焰图 http://lihaoquan.me/2017/1/1/Profiling-and-Optimizing-Go-using-go-torch.html
 
