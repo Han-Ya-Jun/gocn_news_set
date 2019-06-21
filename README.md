@@ -1,3 +1,15 @@
+### gocn_news_2018-03-25
+- 1. defer函数参数求值简要分析 https://tonybai.com/2018/03/23/the-analysis-of-the-param-evaluation-of-defer-functions/
+
+- 2. 重新认识Go的接口: https://www.ardanlabs.com/blog/2018/03/interface-values-are-valueless.html
+
+- 3. 让Go的HTTP Client 更具弹性: https://medium.com/@_jesus_rafael/making-http-client-more-resilient-in-go-d24c66a64bd1
+
+- 4. Kubernetes是否已经跨过鸿沟？http://www.infoq.com/cn/news/2018/03/kubernetes-crossed-chasm
+
+- 5. 从Paxos到区块链: http://catkang.github.io/2018/03/24/paxos-pbft-pow.html
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-24
 - 1. 2018年Hyperledger实习生项目概述 https://wiki.hyperledger.org/internship/program_overview
 
