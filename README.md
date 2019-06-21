@@ -1,3 +1,15 @@
+### gocn_news_2018-01-03
+- 1. 泛Paxos协议Go实现 https://github.com/ailidani/paxi
+
+- 2. Go微服务模板 http://alimrz.com/2018/01/02/golang-microservice-boilerplate/
+
+- 3. Go社区的2017回顾 http://mp.weixin.qq.com/s/LSxdQFmFwONvJY55f6A6Wg
+
+- 4. 分布式架构的套路 http://mp.weixin.qq.com/s/vJJWpIZ-bTzVl9E3wPLlEw
+
+- 5. 阿里搜索技术，在AI路上走了多远？http://mp.weixin.qq.com/s/g4X9VSsGPTjnbRhj4C3EVg
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-02
 - 1. 使用 GopherJS 和 React 搭建交互式前端应用 https://www.youtube.com/watch?v=Vr3SzCI8TVo&feature=youtu.be
 
