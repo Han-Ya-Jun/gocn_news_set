@@ -1,3 +1,15 @@
+### gocn_news_2018-04-01
+- 1. 如何优雅的使用MQ http://www.linkedkeeper.com/detail/blog.action?bid=1105
+
+- 2. go101:关注语法与语义的书 https://github.com/go101/go101
+
+- 3. 单片机使用go https://ziutek.github.io/2018/03/30/go_on_very_small_hardware.html
+
+- 4. 使用interface的建议 https://commandercoriander.net/blog/2018/03/30/go-interfaces/
+
+- 5. go数据与算法 https://github.com/floyernick/Data-Structures-and-Algorithms
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-31
 - 1. Golang 项目中如何对 API 进行测试？https://juejin.im/post/5ab9fb50518825557459b94d
 
