@@ -1,3 +1,15 @@
+### gocn_news_2018-02-24
+- 1. Go 中数据竞争及如何解决 https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/
+
+- 2. 基础设施管理者的生命 https://medium.com/@zombiezen/life-of-a-go-infrastructure-maintainer-cb1419308eb5
+
+- 3. Golang 整洁架构 https://medium.com/@eminetto/clean-architecture-using-golang-b63587aa5e3f
+
+- 4. 最小版本选择（vgo）https://lingchao.xin/post/vgo-mvs.html
+
+- 5. nextnet 中心节点发现工具 https://github.com/hdm/nextnet
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-23
 - 1. 生产环境上的代码迁移:重写Uber 无范式数据仓库的分片层 https://eng.uber.com/schemaless-rewrite/
 
