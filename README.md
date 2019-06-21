@@ -1,3 +1,15 @@
+### gocn_news_2019-01-14
+- 1. 用Go创建新的智能合约语言 - 词法分析器部分 https://medium.com/@14wnrkim/create-new-smartcontract-language-with-go-lexer-part-a5cdfca9b42e
+
+- 2. 使用gRPC 、异步Flutter客户端以及Go服务器构建的聊天应用教程 https://medium.com/@amsokol.com/tutorial-asynchronous-flutter-chat-client-with-go-chat-server-which-are-powered-by-grpc-simple-ce913066861c
+
+- 3. 用Go从零开发的朴素贝叶斯分类器 - 第二部分 https://medium.com/@kcatstack/naive-bayes-classifier-from-scratch-part-2-nlp-in-golang-81c2a103ee06
+
+- 4. Go并发调用的超时处理 https://juejin.im/post/5c3aeffde51d4551140d96cf
+
+- 5. 开源代码部署工具syncd https://github.com/dreamans/syncd
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-13
 - 1. dropbox是如何迁移到gRPC的 https://blogs.dropbox.com/tech/2019/01/courier-dropbox-migration-to-grpc/
 
