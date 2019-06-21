@@ -1,3 +1,15 @@
+### gocn_news_2017-12-10
+- 1. Golang1.10前瞻 https://zhuanlan.zhihu.com/p/31820378
+
+- 2. Golang垃圾回收 https://ninokop.github.io/2017/11/09/Go-%e5%9e%83%e5%9c%be%e5%9b%9e%e6%94%b6
+
+- 3. 从PHP到Go https://medium.com/@ivanjaros/moving-from-php-to-go-6f06989b3e12
+
+- 4. 从C/C++/Golang谈计算机语言的巨大进步 http://esr.ibiblio.org/?p=7724
+
+- 5. 使用kubernetes自动部署Golang程序 https://www.reddit.com/r/golang/comments/7iia5g/selfdeploying_go_apps_with_kubernetes/
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-09
 - 1. 使用Go 机器学习库来进行数据分析 http://colobu.com/2017/12/07/One-Machine-Learning-for-Go/
 
