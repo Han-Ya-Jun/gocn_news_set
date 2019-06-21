@@ -1,3 +1,15 @@
+### gocn_news_2018-09-22
+- 1. 使用Go和Docker构建REPL系统 https://medium.com/@jadr2ddude/building-a-repl-system-with-go-docker-21c76a55c49c
+
+- 2. 如何构建Go应用程序? https://github.com/katzien/talks/blob/master/how-do-you-structure-your-go-apps/londongophers-2018-09-19/slides.pdf
+
+- 3. 手工互斥锁 https://medium.com/@cheshirysh/handmade-mutex-in-28-lines-of-go-205ff5b13dbc
+
+- 4. 良好的RPC接口设计，需要注意这些方面 https://www.jianshu.com/p/dca5b00e72e4
+
+- 5. 2018年的现代后端开发人员 https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-21
 - 1. GopherCon2018 回顾 https://labs.mlssoccer.com/gophercon-2018-recap-8eac5bebbbd5
 
