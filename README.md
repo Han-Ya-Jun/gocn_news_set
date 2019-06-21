@@ -1,3 +1,15 @@
+### gocn_news_2018-02-01
+- 1. 微服务架构技术栈选型手册 https://mp.weixin.qq.com/s/zFJokAv8lSQejGFTGJTJeQ
+
+- 2. 微服务部署：蓝绿部署、滚动部署、灰度发布、金丝雀发布  https://mp.weixin.qq.com/s/E-_oOKXFiStS5k1kp1APWA
+
+- 3. 容器化RDS——计算存储分离架构下的“Split-Brain” https://mp.weixin.qq.com/s/MWTRbRPoaiPKRvXQ9KQWTw
+
+- 4. 流行的rpc框架benchmark 2018新春版 http://colobu.com/2018/01/31/benchmark-2018-spring-of-popular-rpc-frameworks/
+
+- 5. Go 函数式选项模式 https://lingchao.xin/post/functional-options-pattern-in-go.html
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-31
 - 1. 当我谈 scheduling 时我在谈什么？ https://zhuanlan.zhihu.com/p/33389178
 
