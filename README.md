@@ -1,3 +1,15 @@
+### gocn_news_2018-02-15
+- 1. 快速序列化组件MessagePack介绍 https://mp.weixin.qq.com/s/1dJmb4EMmelUI79lvx_MFg
+
+- 2. 向 Kubernetes 迁移的经验 https://mp.weixin.qq.com/s/IHNyzdjx0jNjQGlg16a2Kw
+
+- 3. 基于阿里云的金融运维自动化探索之旅 https://mp.weixin.qq.com/s/haW4Fags-AwSYAKhUr9WUw
+
+- 4. 解读eID http://eid.cn/knoweid/knowabouteid.html 
+
+- 5. 聊聊微软刚发布的区块链去中心化身份识别系统DID https://mp.weixin.qq.com/s/2j6mpmsd_vb1gCHcjosODg
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-14
 - 1. 以积极的建设性反馈来写绩效评估 https://jvns.ca/blog/2018/02/10/positive-constructive-feedback/
 
