@@ -1,3 +1,15 @@
+### gocn_news_2018-12-12
+- 1. Go分布式实时服务架构 https://mp.weixin.qq.com/s/EbXmt1I5fYSIugD7x56_WA
+
+- 2. Golang 调度剖析 https://segmentfault.com/a/1190000017333717
+
+- 3. Linux内核同步机制之:原子操作 https://mp.weixin.qq.com/s/KoRwocv_lN4LgIzf7fYzcQ
+
+- 4. K8S漏洞报告|近期bug fix解读&1.11主要bug fix汇总 https://mp.weixin.qq.com/s/Yru-nOdVs5oOj9DICoApww
+
+- 5. CNCF托管etcd https://mp.weixin.qq.com/s/QXIRpbYAAPEirjqf3bJeEQ
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-11
 - 1. Go与WebAssembly https://zhuanlan.zhihu.com/p/51335026
 
