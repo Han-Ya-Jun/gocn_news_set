@@ -1,3 +1,15 @@
+### gocn_news_2019-03-21
+- 1. Go实现的具有动态分片策略的高级HTTP反向代理器Weaver https://github.com/gojektech/weaver
+
+- 2. 回到Traefik 2.0 https://blog.containo.us/back-to-traefik-2-0-2f9aa17be305
+
+- 3. 使用Go Modules https://blog.golang.org/using-go-modules
+
+- 4. Go-Gin-React-GORM的结合使用  https://nichorivera.blog/
+
+- 5. 从PHP到Go：Arrays https://asanchez.dev/blog/from-php-to-go-arrays/
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-20
 - 1. 从python到Go https://medium.com/appsflyer/my-journey-from-python-to-go-3859783c6b3c
 
