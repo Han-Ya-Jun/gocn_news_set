@@ -1,3 +1,15 @@
+### gocn_news_2018-05-22
+- 1. 如何在 gRPC 项目中使用 OpenCensus: https://medium.com/@orijtech/opencensus-for-go-grpc-developers-7f3ee1ac3d6d
+
+- 2. 使用 ReJSON 将 Go 的结构体存储在 Redis 中： https://medium.com/@nitishmalhotra/storing-go-structs-in-redis-using-rejson-dab7f8fc0053
+
+- 3. Thanos: Prometheus 横向扩展方案 https://improbable.io/games/blog/thanos-prometheus-at-scale
+
+- 4. 如何调试复杂系统中的延迟问题？ https://medium.com/observability/want-to-debug-latency-7aa48ecbe8f7
+
+- 5. k8s 开发者容易忽略的安全要点： https://medium.com/containerum/top-security-tips-for-your-kubernetes-cluster-9b23a4e95111
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-21
 - 1. JSON APIs 就像 Web 应用一样 https://www.calhoun.io/apis-are-just-web-applications
 
