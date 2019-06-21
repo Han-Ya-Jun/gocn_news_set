@@ -1,3 +1,15 @@
+### gocn_news_2017-11-26
+- 1. Gost:一个极简且有用的GOPATH管理工具 http://www.jianshu.com/p/7abb47970641
+
+- 2. 王东:微服务下的APM全链路监控 http://mp.weixin.qq.com/s/guAWN1WgKOQ1_vC6nWmT5w
+
+- 3. 美团:即时配送的ETA问题之亿级样本特征构造实践 https://tech.meituan.com/GBDT.html
+
+- 4. Golang介绍及踩坑系列 https://zhuanlan.zhihu.com/p/31395716
+
+- 5. Golang精编100题 http://www.jianshu.com/p/f690203ff168
+
+- - - - - - - - - - 
 ### gocn_news_2017-11-25
 - 1. 【译】如何使用 Golang 中的 Go-Routines 写出高性能的代码https://juejin.im/post/5a17c0f9f265da431a42e060
 
