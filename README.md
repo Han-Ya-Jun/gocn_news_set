@@ -1,3 +1,15 @@
+### gocn_news_2017-12-03
+- 1. Go错误和异常处理的正确姿势  http://www.jianshu.com/p/f30da01eea97
+
+- 2. 关于一致性协议和分布式锁 http://mp.weixin.qq.com/s/XCPQGPhY3j8SaTXNS8tB0A
+
+- 3. motan-go:高性能、易于使用的分布式远程服务调用框架 https://github.com/weibocom/motan-go/wiki/zh_overview
+
+- 4. AWS Lambda开始支持Go https://www.reddit.com/r/golang/comments/7gogdy/aws_lambda_to_fully_support_go/
+
+- 5. Funtainer: 容器即函数之美 http://dockone.io/article/2924
+
+- - - - - - - - - - 
 
 - - - - - - - - - - - - - 
 ### gocn_news_2017-12-01
