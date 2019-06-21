@@ -1,3 +1,17 @@
+### gocn_news_2017-07-03
+- 1. 扩充Web服务：负载均衡 https://blog.vivekpanyam.com/scaling-a-web-service-load-balancing/
+
+- 2. 如何优雅地关闭Go channel http://www.jianshu.com/p/d24dfbb33781
+
+- 3. Debugging go routine leaks:  https://youtu.be/hWo0FEVr92A
+
+- 4. Go错误处理最佳实践 https://medium.com/@sebdah/go-best-practices-error-handling-2d15e1f0c5ee
+
+- 5. 上海Gopher meetup 演讲稿 https://github.com/gopherchina/meetup/tree/master/ShangHai/20170701
+
+- 6. TiDB技术交流会上海场 Tech Day 时间定在 7 月 8 日，http://tidbtechday2017.sxl.cn/
+
+- - - - 
 ### gocn_news_2017-07-02
 - 1. Go并发的一些技巧 http://udhos.github.io/golang-concurrency-tricks/
 
