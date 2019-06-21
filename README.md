@@ -1,3 +1,16 @@
+### gocn_news_2017-11-27
+- 1. Python转Go速查手册 https://www.353.solutions/py2go/index.html
+
+- 2. Rob Pike的5条编程原则
+http://blog.codonomics.com/2017/09/rob-pikes-5-rules-of-programming.html
+
+- 3. 基于模板的Go包生成工具 https://github.com/bketelsen/ngp
+
+- 4. bufio包工具介绍 https://medium.com/golangspec/introduction-to-bufio-package-in-golang-ad7d1877f762
+
+- 5. 基于Electron的Go界面库 https://github.com/asticode/go-astilectron
+
+- - - - - - - - - - 
 ### gocn_news_2017-11-26
 - 1. Gost:一个极简且有用的GOPATH管理工具 http://www.jianshu.com/p/7abb47970641
 
