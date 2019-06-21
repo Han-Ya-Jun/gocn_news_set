@@ -1,3 +1,15 @@
+### gocn_news_2018-11-26
+- 1. 设计Go持续交付流水线 https://www.admintome.com/blog/designing-a-go-continuous-delivery-pipeline/
+
+- 2. autopprof：pprof辅助工具包 https://github.com/rakyll/autopprof
+
+- 3. watermill：Go事件驱动应用库 https://threedots.tech/post/introducing-watermill/
+
+- 4. sexp：连接R语言与Go的工具包 https://overthinkdciscores.com/2018/11/20/introducing-sexp-a-package-connecting-r-and-go/
+
+- 5. srchx：一个Go实现的轻量级全文搜索工具 https://github.com/alash3al/srchx
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-25
 - 1. Golang实现OpenID认证的OAuth2服务器 https://github.com/ory/hydra
 
