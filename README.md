@@ -1,3 +1,22 @@
+### gocn_news_2017-08-11
+- 1. GOCN每日新闻(2017-08-11)
+
+- 2. 1.如何有效地报告 bug https://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html
+
+- 3. 2.使用 Tensorflow 和 Go 构建机器学习的游戏 AI  http://gopherdata.io/post/build_ml_powered_game_ai_tensorflow
+
+- 4. 3.为 Golang 程序注入编译参数  https://blog.alexellis.io/inject-build-time-vars-golang/
+
+- 5. 4.Go 编译器中使用泛型的一个场景  https://dr2chase.wordpress.com/2017/08/09/a-use-case-for-go-generics-in-a-go-compiler/
+
+- 6. 5.聊一聊 goroutine stack  https://toutiao.io/k/ru1r4v
+
+- 7. 编辑：傅小黑
+订阅新闻：http://tinyletter.com/gocn
+
+- 8. 真早
+
+- - 
 ### gocn_news_2017-08-10
 - 1. GOCN每日新闻(2017-08-10)
 
