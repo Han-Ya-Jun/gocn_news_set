@@ -1,3 +1,15 @@
+### gocn_news_2017-08-21
+- 1. Go generate 生成可选类型 http://www.markphelps.me/2017/08/20/optional-types-with-go-generate.html
+
+- 2. Golang 代码规范  https://sheepbao.github.io/post/golang_code_specification/
+
+- 3. Context isn't for cancellation  https://dave.cheney.net/2017/08/20/context-isnt-for-cancellation
+
+- 4. Go语言的实时GC——理论与实践  https://making.pusher.com/golangs-real-time-gc-in-theory-and-practice/
+
+- 5. 跨平台 Webview Wrapper  https://github.com/zserge/webview
+
+- - - - - 
 ### gocn_news_2017-08-20
 - 1. Golang之情非得已的DeepCopy http://www.jianshu.com/p/f1cdb1bc1b74
 
