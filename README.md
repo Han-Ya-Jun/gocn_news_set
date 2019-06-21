@@ -1,3 +1,13 @@
+### gocn_news_2018-10-13
+- 1. Go routine内使用context包使用提议 https://posener.github.io/goroutine-scoped-context/
+
+- 2. Go程序平滑升级 https://blog.cloudflare.com/graceful-upgrades-in-go/amp/
+
+- 3. Golang基于Gitlab CI/CD部署方案 http://www.chairis.cn/blog/article/96
+
+- 4. K8S 1.12大特性最快最深度解析：Kubernetes CSI Snapshot https://juejin.im/post/5bc07abc6fb9a05d2a1d92b3
+
+- - - - - - - - - - - 
 ### gocn_news_2018-10-12
 - 1. Go语言interface底层实现 https://juejin.im/post/5bbd6e41e51d450e6a2e5736
 
