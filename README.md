@@ -1,3 +1,15 @@
+### gocn_news_2019-01-01
+- 1. 理解 channel range 操作：https://imil.net/blog/2018/12/31/Understanding-golang-channel-range/ 
+
+- 2. 通过插图学习 Go 并发：https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3
+
+- 3. Go 函数讲解系列文章：https://pythonnotes.com/functions-in-go/
+
+- 4. 2019 年值得关注的工业技术：https://staceyoniot.com/the-industrial-tech-to-watch-in-2019/
+
+- 5. 2019 边缘计算和IoT 展望：https://www.rfidjournal.com/articles/view?18111/
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-31
 - 1. Go 入门简介：http://t.cn/EbjzeSt
 
