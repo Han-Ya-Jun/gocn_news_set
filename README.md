@@ -1,3 +1,15 @@
+### gocn_news_2017-08-15
+- 1. [译]像牛人一样改进你的Go代码 http://colobu.com/2017/06/27/Lint-your-golang-code-like-a-mad-man/
+
+- 2. Go语言第一深坑 - interface 与 nil 的比较 http://studygolang.com/articles/10635 
+
+- 3. 编译器入门 https://nicoleorchard.com/blog/compilers
+
+- 4. Go 使用组合模式和高阶函数构建音频库 https://faiface.github.io/post/how-i-built-audio-lib-composite-pattern/
+
+- 5. Go 最常用的字符串操作 http://www.golangprograms.com/golang/string-functions/
+
+- - - - - 
 ### gocn_news_2017-08-14
 - 1. 为什么 context 重要和怎么改进？https://blog.merovius.de/2017/08/14/why-context-value-matters-and-how-to-improve-it.html
 
