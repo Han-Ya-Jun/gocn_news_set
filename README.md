@@ -1,3 +1,15 @@
+### gocn_news_2018-03-14
+- 1. Go推送服务 https://github.com/appleboy/gorush
+
+- 2. cgo开发小结 http://yangxikun.com/golang/2018/03/09/golang-cgo.html
+
+- 3. 通过测试来学习go https://dev.to/quii/learn-go-by-writing-tests--m63
+
+- 4. Go即插即用机器学习模型 https://dev.to/michaeljtaylor0/plug--play-machine-learning-models-in-golang--fc0
+
+- 5. Beego框架的一条神秘日志引发的思考 https://juejin.im/post/5aa61f74f265da237b21ba59
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-13
 - 1. Go 同步队列： https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4
 
