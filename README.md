@@ -1,3 +1,19 @@
+### gocn_news_2017-08-26
+- 1. Go开启quic支持 https://mzh.io/go-quic
+
+- 2. Go 1.9 新特性 Type Alias详解 http://www.flysnow.org/2017/08/26/go-1-9-type-alias.html
+
+- 3. Go channel 可视化学习 https://www.sohamkamani.com/blog/2017/08/24/golang-channels-explained/
+
+- 4. 基于Go的类似Ruby的新语言goby https://github.com/goby-lang/goby
+
+- 5. 
+Go 通用报表API设计 https://medium.com/@sameer_74231/go-experience-report-for-generics-google-metrics-api-b019d597aaa4
+
+
+- 6. [9月9日]广州Gopher Meetup https://www.bagevent.com/event/751233
+
+- - - - 
 ### gocn_news_2017-08-25
 - 1. 在Go程序中嵌入静态文件数据 https://scene-si.org/2017/08/22/embedding-data-in-go-executables/
 
