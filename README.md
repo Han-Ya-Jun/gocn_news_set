@@ -1,3 +1,15 @@
+### gocn_news_2017-08-18
+- 1. Go 1.9 Release Party https://talks.godoc.org/github.com/davecheney/go-1.9-release-party/presentation.slide#1
+
+- 2. GoUK 大会笔记 https://hackmd.io/s/BJ_wJtbOb
+
+- 3. Docker 部署 Go 程序 https://flaviocopes.com/golang-docker/
+
+- 4. 压缩 Go 可执行文件 http://www.jianshu.com/p/cd3c766b893c
+
+- 5. Protobuf 使用注意 http://www.gophersre.com/2017/08/16/why-not-to-use-protos-in-code/
+
+- - - - - 
 ### gocn_news_2017-08-17
 - 1. Testing with GoMock  https://blog.codecentric.de/en/2017/08/gomock-tutorial/
 
