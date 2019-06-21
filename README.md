@@ -1,3 +1,18 @@
+### gocn_news_2018-01-28
+- 1. GoCN每日新闻(2018-01-28)
+
+- 2. 1.写Go代码时遇到的那些问题[第2期]  http://tonybai.com/2018/01/27/the-problems-i-encountered-when-writing-go-code-issue-2nd/
+2.并发其实更慢？https://pocketgophers.com/concurrency-slower/
+3.基于log4go的下一代日志系统  https://gocn.io/article/592
+4.使用Go 1.10中新的跟踪功能进行集成测试的调试 https://medium.com/@cep21/using-go-1-10-new-trace-features-to-debug-an-integration-test-1dc39e4e812d
+5.软件工程师需要了解的网络知识：从铜线到HTTP（一） https://lvwenhan.com/操作系统/485.html 
+
+- 3. Tips：
+
+- 4. 编辑: 卢炜豪
+订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - 
 ### gocn_news_2018-01-27
 - 1. golang的httpserver优雅重启 http://zhwen.org/?p=984
 
