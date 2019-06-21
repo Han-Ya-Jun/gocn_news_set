@@ -1,3 +1,15 @@
+### gocn_news_2019-03-04
+- 1. 基于hashicorp/raft的分布式一致性实战教学 https://zhuanlan.zhihu.com/p/58048906
+
+- 2. 再见，微服务: 从一百多个问题孩子到一个巨星 https://segment.com/blog/goodbye-microservices
+
+- 3. Go Windows编程教程 https://github.com/hallazzang/go-windows-programming
+
+- 4. 理解真实世界中Go的并发BUG https://songlh.github.io/paper/go-study.pdf
+
+- 5. derek: Go实现的Github仓库管理机器人 https://github.com/alexellis/derek
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-03
 - 1. 支持百万连接服务器的benchmark实现 https://github.com/smallnest/1m-go-tcp-server
 
