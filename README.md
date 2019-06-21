@@ -1,3 +1,15 @@
+### gocn_news_2018-03-24
+- 1. 2018年Hyperledger实习生项目概述 https://wiki.hyperledger.org/internship/program_overview
+
+- 2. go-logger 日志工具包 v1.1 发布 https://www.oschina.net/news/94502/go-logger-1-1-released
+
+- 3. 以太坊go-ethereum签名部分源码解析 http://www.cnblogs.com/gregoryli/p/8631450.html
+
+- 4. Golang 项目依赖管理 https://www.opsdev.cn/post/deps.html
+
+- 5. TiDB 2.0 RC3 Release Notes https://pingcap.com/blog/2018-03-23-2rc3/
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-23
 - 1. 使用Go和Elasticsearch构建搜索服务 https://outcrawl.com/go-elastic-search-service/
 
