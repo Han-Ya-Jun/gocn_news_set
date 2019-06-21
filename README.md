@@ -1,3 +1,15 @@
+### gocn_news_2017-10-16
+- 1. RESTFul风格的API管理后台,基于beego和layui https://github.com/george518/PPGo_ApiAdmin
+
+- 2. 阿里云基于 Go 的微服务架构分享 https://mp.weixin.qq.com/s/Ftd8pFVCrhtppvFjBNSF5Q
+
+- 3. ElasticSearch 集群监控 http://www.54tianzhisheng.cn/2017/10/15/ElasticSearch-cluster-health-metrics/
+
+- 4. 组织Go代码在一个大型repo经验之谈 https://blog.digitalocean.com/cthulhu-organizing-go-code-in-a-scalable-repo/
+
+- 5. 基于openapi文档的自动化生产代码工具 https://github.com/jbowes/oag
+
+- - - - - 
 ### gocn_news_2017-10-15
 - 1. 黑一下Go (实际上是作者不理解Go的interfaceO(∩_∩)O) https://zhuanlan.zhihu.com/p/30120861
 
