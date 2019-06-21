@@ -1,3 +1,15 @@
+### gocn_news_2017-09-14
+- 1. 用Go如何简单的构建serverless https://www.slideshare.net/yunspace/amazingly-simple-serverless-go/1
+
+- 2. kebernetes入门培训 https://www.youtube.com/watch?v=UfTg5gq2ohA
+
+- 3. 容器监控初探 http://www.jianshu.com/p/abfa502e43a6
+
+- 4. 如何使用type alias进行包隔离设计 https://medium.com/@rmars/going-total-decoupled-with-type-alias-824ffd609e36
+
+- 5. Beyond the Twelve-Factor App https://www.cdta.org/sites/default/files/awards/beyond_the_12-factor_app_pivotal.pdf
+
+- - - - - 
 ### gocn_news_2017-09-13
 - 1. Go 官方调试指南  https://tip.golang.org/doc/diagnostics.html
 
