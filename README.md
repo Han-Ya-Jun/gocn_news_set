@@ -1,3 +1,31 @@
+### gocn_news_2017-11-19
+- 1. GoCN每日新闻(2017-11-19)
+
+- 2. 1.用Go进行可扩展的操作系统分析   https://blog.kolide.com/using-go-for-scalable-operating-system-analytics-cb170d85b1c5
+
+- 3. 2.Golang使用redis protocol实现pubsub通信 https://goo.gl/vCuyHH
+
+- 4. 3.Go的建议清单 https://github.com/cristaloleg/go-advices
+
+- 5. 4.为什么我选择Go来构建区块链 https://medium.com/karachain/why-i-am-building-a-blockchain-in-go-6395a60b24dd
+
+- 6. 5.Go HTTP Client 持久连接 https://serholiu.com/go-http-client-keepalive
+
+- 7. 编辑: lwhile
+订阅新闻: http://tinyletter.com/gocn
+
+- 8. 老大,链接有一些是打不开的...
+
+- 9. go advice 里面的这个链接
+https://play.golang.org/p/MGbeDwtXN3
+我打开提示
+
+- 10. 我用的香港自己建的ss连的...
+哪位大佬能拉下这个链接的示例代码?
+
+- 11. 原文是说:
+
+- - - - 
 ### gocn_news_2017-11-18
 - 1. Golang 如何优雅关闭 channel https://blog.tanteng.me/2017/11/golang-close-channel/
 
