@@ -1,3 +1,15 @@
+### gocn_news_2017-12-07
+- 1. go pprof 采样何时进行   http://michaelyou.github.io/2017/12/06/go-pprof-%E9%87%87%E6%A0%B7%E4%BD%95%E6%97%B6%E8%BF%9B%E8%A1%8C/
+
+- 2. gkvdb v1.81 发布，Go 语言嵌入式 K/V 数据库  https://www.oschina.net/news/91250/gkvdb-1-81-released
+
+- 3. go语言死循环分析 http://michaelyou.github.io/2017/12/05/go%e8%af%ad%e8%a8%80%e6%ad%bb%e5%be%aa%e7%8e%af%e5%88%86%e6%9e%90%2f
+
+- 4. Golang 网络：核心 API 实现剖析（一） https://zhuanlan.zhihu.com/p/31644462
+
+- 5. 如何在Go中构建完整测试的Web应用程序 https://blog.gopheracademy.com/advent-2017/a-tale-of-two-rands/
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-06
 - 1. 调试Go运行时bug https://marcan.st/2017/12/debugging-an-evil-go-runtime-bug/
 
