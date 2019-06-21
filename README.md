@@ -1,3 +1,15 @@
+### gocn_news_2018-12-30
+- 1. Go并发：一招掌握无阻塞通道读写 https://segmentfault.com/a/1190000017537297
+
+- 2. 探索Go解析Byte的API https://blog.gopheracademy.com/advent-2018/exploring-byte-parsing-apis-in-go/
+
+- 3. 基于Redis协议的持久化NoSQL数据库redix https://github.com/alash3al/redix
+
+- 4. 设计弹性系统：断路器或重试 https://engineering.grab.com/designing-resilient-systems-part-1
+
+- 5. 分布式系统的基石：深入浅出共识算法 https://zhuanlan.zhihu.com/p/52617675
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-29
 - 1. 得到Go程序的汇编代码的方法 https://colobu.com/2018/12/29/get-assembly-output-for-go-programs/
 
