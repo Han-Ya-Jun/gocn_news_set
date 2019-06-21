@@ -1,3 +1,19 @@
+### gocn_news_2017-07-20
+- 1. 改进log4go的设想 http://www.cnblogs.com/ccpaging/p/7205226.html
+
+- 2. 微博大规模机器学习框架Weiflow揭秘 https://mp.weixin.qq.com/s/bXlqKTJ49MyHLkHAbBTCYw
+
+- 3. Go里面goroutine的信号和等待处理 https://open.dgraph.io/post/signal-and-wait/
+
+- 4. Go一致性hash库 https://github.com/lafikl/consistent
+
+- 5. 
+有一个RPC库nrpc https://github.com/rapidloop/nrpc
+
+
+- 6. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-19
 - 1. 程序员的七个好习惯 https://dev.to/binarforge/seven-useful-programming-habits
 
