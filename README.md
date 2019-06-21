@@ -1,3 +1,17 @@
+### gocn_news_2017-12-18
+- 1. 通过 HTTP 远程查找想要的 zip 文件 https://blog.gopheracademy.com/advent-2017/seekable-http/
+
+- 2. 超实用加密入门教程 https://cyberspy.io/articles/crypto101/
+
+- 3. 利用 csv 处理表格数据 https://appliedgo.net/spreadsheet/
+
+- 4. 如何在单元测试中 mock 当前时间 https://medium.com/@agatan/timejump-a-library-to-manipulate-the-time-for-testing-in-go-9ccfe5b1ac7d
+
+- 5. 用 Go 编写的恶意流量分析程序 https://github.com/netxfly/xsec-traffic
+
+- 6. [上海]积梦智能 https://gocn.io/article/526
+
+- - - - - - - - - 
 ### gocn_news_2017-12-17
 - 1. 进程管理工具sir https://github.com/foreversmart/sir
 
