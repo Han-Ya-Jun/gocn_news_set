@@ -1,3 +1,5 @@
+### gocn_news_2017-08-07
+- - - - - - - - - - 
 ### gocn_news_2017-08-06
 - 1. Javascript程序员转Go指南 https://github.com/pazams/go-for-javascript-developers
 
