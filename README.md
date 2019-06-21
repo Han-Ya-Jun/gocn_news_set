@@ -1,3 +1,15 @@
+### gocn_news_2017-08-14
+- 1. 为什么 context 重要和怎么改进？https://blog.merovius.de/2017/08/14/why-context-value-matters-and-how-to-improve-it.html
+
+- 2. 解释 Go 面向对象？https://flaviocopes.com/golang-is-go-object-oriented/
+
+- 3. 教学中 Go 的问题 http://www.monogrammedchalk.com/go-2-for-teaching/
+
+- 4. Go 的并发模型 http://www.jianshu.com/p/6032f2db6be5
+
+- 5. Gopher 记忆翻牌游戏 https://pairs.gopherize.me/
+
+- - - - - 
 ### gocn_news_2017-08-13
 - 1. GOCN每日新闻(2017-08-13)
 
