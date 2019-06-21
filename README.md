@@ -1,3 +1,22 @@
+### gocn_news_2017-12-28
+- 1. GoCN每日新闻(2017-12-28)
+
+- 2. 1.Go模板使用 https://blog.gopheracademy.com/advent-2017/using-go-templates/
+
+- 3. 2.Golang优秀开源项目汇总 https://www.ctolib.com/topics-2762.html
+
+- 4. 3.Go开发高负载WebSocket https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb
+
+- 5. 4.Golang构建工作池 https://geeks.uniplaces.com/building-a-worker-pool-in-golang-1e6c0fdfd78c
+
+- 6. 5.机器学习概述 https://feisky.xyz/machine-learning/basic/
+
+- 7. 编辑: 李森森
+订阅新闻: http://tinyletter.com/gocn
+
+- 8. 第一条新闻有问题吧，内容与标题严重不符合
+
+- - - - - - - 
 ### gocn_news_2017-12-27
 - 1. 使用GO编写的JIT编译器 https://medium.com/kokster/writing-a-jit-compiler-in-golang-964b61295f 
 
