@@ -1,3 +1,15 @@
+### gocn_news_2019-02-03
+- 1. Golang State:2019-02 https://speakerdeck.com/campoy/the-state-of-go-feb-2019
+
+- 2. Golang实现websocket服务 https://www.jianshu.com/p/a235665b49de
+
+- 3. brew2.0发布:支持windows和linux https://brew.sh/2019/02/02/homebrew-2.0.0/
+
+- 4. bettercap:Go实现网络军刀 https://github.com/bettercap/bettercap
+
+- 5. AresDB:uber开源基于GPU驱动的实时分析引擎 https://eng.uber.com/aresdb/
+
+- - - - - - - - - - 
 ### gocn_news_2019-02-02
 - 1. Kubernetes 调度器实现初探 https://segmentfault.com/a/1190000018084243
 
