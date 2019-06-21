@@ -1,3 +1,15 @@
+### gocn_news_2018-12-11
+- 1. Go与WebAssembly https://zhuanlan.zhihu.com/p/51335026
+
+- 2. 使用 Prometheus 监控 Go 程序 https://scot.coffee/2018/12/monitoring-go-applications-with-prometheus/
+
+- 3. 微服务核心架构梳理 https://segmentfault.com/a/1190000017323429
+
+- 4. 使用 Go 创建 WebGL 应用 https://blog.gopheracademy.com/advent-2018/go-webgl/
+
+- 5. Go 实现为 SEO 优化的服务端渲染库 https://github.com/rendora/rendora
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-10
 - 1. MongoDB官方Go驱动发布Beta1版本 https://github.com/mongodb/mongo-go-driver
 
