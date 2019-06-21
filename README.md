@@ -1,3 +1,15 @@
+### gocn_news_2018-05-17
+- 1. 算法分析入门指南 https://codeburst.io/the-ultimate-beginners-guide-to-analysis-of-algorithm-b8d32aa909c5
+
+- 2. 在Go中使用服务对象模式 https://dev.to/joncalhoun/using-the-service-object-pattern-in-go-36o8
+
+- 3. 一个用Go编写的WIP最小文本编辑器 https://github.com/felixangell/phi
+
+- 4. OpenStack云控制器管理器 https://github.com/kubernetes/cloud-provider-openstack
+
+- 5. 将Golang函数引入Kubeless https://medium.com/bitnami-perspectives/introducing-golang-functions-to-kubeless-a9a9e4f0cab1
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-16
 - 1. Go 夜读-源码阅读和开源技术分析 https://gocn.io/question/1695
 
