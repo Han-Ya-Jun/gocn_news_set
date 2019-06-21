@@ -1,3 +1,15 @@
+### gocn_news_2018-10-19
+- 1. 使用RSpec对Go应用进行黑盒测试 https://medium.freecodecamp.org/how-to-black-box-test-a-go-app-with-rspec-421e786f4103
+
+- 2. 使用Go进行声音处理 https://medium.com/@serg.dudk/lets-go-7f51fbde36e4
+
+- 3. 实践编写一个Prometheus的exporter https://blog.callr.tech/kamailio-exporter-for-prometheus/
+
+- 4. mercure:一款支持消息从服务端推送到客户端新协议 https://github.com/dunglas/mercure
+
+- 5. sha256-simd:高速sha256计算库 https://github.com/minio/sha256-simd
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-18
 - 1. Golang基于MQTT协议实现的现代化的消息平台MeQ https://github.com/mafanr/meq
 
