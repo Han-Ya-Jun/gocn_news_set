@@ -1,3 +1,15 @@
+### gocn_news_2018-08-21
+- 1. Go-HEP:  Go 在高能核物理领域使用 https://arxiv.org/abs/1808.06529
+
+- 2. runtime.Goexit  的使用 http://robreid.io/runtime-goexit/
+
+- 3. 一款简单的内存 KV 缓存 https://kasvith.github.io/kache/
+
+- 4. Go 标准库 http.FileServer 实现静态文件服务 https://segmentfault.com/a/1190000016086653
+
+- 5. 微服务的数据一致性解决方案 https://juejin.im/post/5b7a5a7f518825430d26ae7d
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-20
 - 1. Go 单元测试与接口 https://blog.andreiavram.ro/golang-unit-testing-interfaces
 
