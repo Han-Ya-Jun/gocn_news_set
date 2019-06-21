@@ -1,3 +1,19 @@
+### gocn_news_2017-07-11
+- 1. Consul实现分布式锁 https://xiequan.info/golang-%E9%80%9A%E8%BF%87-consul-%E5%AE%9E%E7%8E%B0%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81/
+
+- 2. API安全检查列表 https://github.com/shieldfy/API-Security-Checklist
+
+- 3. 大部分公司不需要微服务 https://mp.weixin.qq.com/s/ZG5dqwvtNLqEGzyhS4EKLA
+
+- 4. 最佳日志实践 https://zhuanlan.zhihu.com/p/27363484
+
+- 5. 为什么每一个Gopher都应该是数据科学家 http://divan.github.io//talks/2017/06bcn/why_every_gopher_should_be_a_data_scientist.pdf
+
+- 6. 【北京】链家 https://gocn.io/article/381
+
+- 7. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - 
 ### gocn_news_2017-07-10
 - 1. 我看绩效考核 http://coolshell.cn/articles/17972.html
 
