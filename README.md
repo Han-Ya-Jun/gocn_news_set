@@ -1,3 +1,16 @@
+### gocn_news_2018-02-17
+- 1. Go 1.10 发布了
+https://blog.golang.org/go1.10
+
+- 2. Go Elasticsearch查询示例https://www.ribice.ba/golang-elastic/
+
+- 3. Go多线程说明 https://pragmacoders.com/multithreading-go-tutorial/
+
+- 4. Go语言死锁调试库go-deadlock https://wavded.com/post/golang-deadlockish/
+
+- 5. 比特币如何使用区块链解决分布式储存带来的一致性问题  https://juejin.im/post/5a76a6205188257a74508cbd
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-16
 - 1. Kubernetes 服务部署工具 https://github.com/bdimcheff/rainbow-deploys
 
