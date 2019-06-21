@@ -1,3 +1,15 @@
+### gocn_news_2017-11-30
+- 1. Tenta-dns完整的DNS解决方案 https://github.com/tenta-browser/tenta-dns
+
+- 2. Microservices with Go研讨会 https://www.facebook.com/WizelineAcademy/videos/1726299830998775/
+
+- 3. Go编写的银河战机游戏 https://github.com/u2i/superstellar 
+
+- 4. Top15的golang学习资源网站 https://qarea.com/articles/top-15-resources-and-sites-learn-golang
+
+- 5. Go的谷歌APi客户端库 https://github.com/google/google-api-go-client
+
+- - - - - - - - - - 
 ### gocn_news_2017-11-29
 - 1. 深入理解 ElasticSearch Doc Values http://www.majiang.life/blog/deep-dive-on-elasticsearch-doc-values/
 
