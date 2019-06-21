@@ -1,3 +1,15 @@
+### gocn_news_2017-08-03
+- 1. 用不到10行代码在浏览器运行gofmt https://dmitri.shuralyov.com/blog/24
+
+- 2. Go开发百万websocket https://medium.com/@gobwas/million-websockets-and-go-cc58418460bb
+
+- 3. Golang使用pprof和qcachegrind进行性能监控 http://www.cnblogs.com/isaiah/p/7271084.html
+
+- 4. C代码迁移到Go的体验 https://blog.kowalczyk.info/article/wN9R/experience-porting-4.5k-loc-of-c-to-go-facebooks-css-flexbox-implementation-yoga.html
+
+- 5. Nginx缓存引发的跨域惨案 http://tech.lede.com/2017/07/21/rd/server/crossdomain/
+
+- - - - - 
 ### gocn_news_2017-08-02
 - 1. 七步达到100倍的性能优化 https://syslog.ravelin.com/making-something-faster-56dd6b772b83
 
