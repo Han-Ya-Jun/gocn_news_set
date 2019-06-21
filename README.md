@@ -1,3 +1,15 @@
+### gocn_news_2018-10-24
+- 1. 智能SQL优化和改写工具SORA指南 https://mp.weixin.qq.com/s/7sj2HnOQsNP_Zf_07C1FFQ
+
+- 2. 使用go mod加速docker构建 https://medium.com/@petomalina/using-go-mod-download-to-speed-up-golang-docker-builds-707591336888
+
+- 3. 五件没必要讨厌Go的事 https://www.instana.com/blog/5-things-you-can-hate-about-go-but-dont-have-to/
+
+- 4. cilium支持envoy go 扩展 https://cilium.io/blog/2018/10/23/cilium-13-envoy-go/
+
+- 5. go内外部包之争 https://medium.com/@vthallam/the-myth-about-golang-frameworks-and-external-libraries-93cb4b7da50f
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-23
 - 1. 编写可维护的 Go 程序  https://dave.cheney.net/practical-go/presentations/qcon-china.html
 
