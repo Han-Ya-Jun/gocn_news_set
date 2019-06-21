@@ -120,3 +120,15 @@
 - 5. 轻量级 go 业务框架 sniper https://github.com/bilibili/sniper
 
 - - - - - 
+### gocn_news_2019-06-21
+- 1. 曹大谈内存重排 https://mp.weixin.qq.com/s/r9yC78exkDbXs7Et2pC5PA
+
+- 2. Go语言调度器[译] https://pengrl.com/p/22729
+
+- 3. Go面向对象编程（译） https://juejin.im/post/5d065cad51882523be6a92f2
+
+- 4. 什么是缓存false sharing以及如何解决(Go示例)[译] https://juejin.im/post/5d0519e05188257a78764d5d
+
+- 5. Go增删改查TCP服务器 https://medium.com/xxxvenom/go-tcp-crud-server-61fc34469640
+
+- - - - - 
