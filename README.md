@@ -1,3 +1,15 @@
+### gocn_news_2019-04-08
+- 1. 使用 Go 手动创建容器 https://medium.com/@ssttehrani/containers-from-scratch-with-golang-5276576f9909
+
+- 2. Go 中的匿名函数和闭包 https://medium.com/@dreissenzahn/anonymous-functions-and-closures-in-go-e53ccccad352
+
+- 3. Go Struct 超详细讲解 https://juejin.im/post/5ca2f37ce51d4502a27f0539
+
+- 4. 为什么遍历 Go map 是无序的？ https://segmentfault.com/a/1190000018782278
+
+- 5. 来自 Dave Cheney 单元测试分享 https://dave.cheney.net/2019/04/03/absolute-unit-test
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-07
 - 1. Go 语言 Channel 实现原理精要 https://draveness.me/golang-channel
 
