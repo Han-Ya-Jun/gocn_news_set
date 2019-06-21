@@ -1,3 +1,19 @@
+### gocn_news_2017-07-30
+- 1. 深入了解go-fuzz https://mijailovic.net/2017/07/29/go-fuzz/
+
+- 2. Go 如何获取变量类型 http://ieevee.com/tech/2017/07/29/go-type.html
+
+- 3. 利用Go加速命令行工具 https://aadrake.com/posts/2017-05-29-faster-command-line-tools-with-go.html
+
+- 4. k8s的调度器工作原理 https://jvns.ca/blog/2017/07/27/how-does-the-kubernetes-scheduler-work/
+
+- 5. 
+从标准库角度看泛型 https://medium.com/@shixzie/generics-on-gos-stdlib-10de52fe824d
+
+
+- 6. [8月5日]杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-29
 - 1. 可水平扩展的channel https://github.com/matryer/vice
 
