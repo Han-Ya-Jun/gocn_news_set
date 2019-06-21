@@ -1,3 +1,15 @@
+### gocn_news_2017-12-04
+- 1. 如何将 defer 中的错误作为函数参数返回 https://www.calhoun.io/using-named-return-variables-to-capture-panics-in-go/
+
+- 2. 最小的完美散列函数 https://blog.gopheracademy.com/advent-2017/mphf/
+
+- 3. GopherJS 和 gRPC-Web 结合使用教程 https://blog.gopheracademy.com/advent-2017/gopherjs-grpc-web/
+
+- 4. 使用 Go 和 Grafana 搭建自己的 Dashboard https://appliedgo.net/diydashboard/ 
+
+- 5. Go 许可证和包依赖检查器 https://github.com/ribice/glice
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-03
 - 1. Go错误和异常处理的正确姿势  http://www.jianshu.com/p/f30da01eea97
 
