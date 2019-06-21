@@ -1,3 +1,15 @@
+### gocn_news_2017-10-17
+- 1. Golang 微服务在腾讯游戏用户运营领域的探索及实践 http://www.infoq.com/cn/presentations/exploration-practice-of-golang-micro-service-in-the-tencent-game-users
+
+- 2. 如何重构C++项目到Go https://medium.com/@brendanleglaunec/how-refactoring-my-c-application-into-a-go-library-made-it-better-in-every-way-b99aa15fcfdf
+
+- 3. Go并发详解 https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96
+
+- 4. Go框架、IDE和工具集介绍 https://dzone.com/articles/golang-guide-a-list-of-top-golang-frameworks-ides
+
+- 5. Go开发大型分布式系统的好与坏 https://www.youtube.com/watch?v=8IKxf98h65Y
+
+- - - - - 
 ### gocn_news_2017-10-16
 - 1. RESTFul风格的API管理后台,基于beego和layui https://github.com/george518/PPGo_ApiAdmin
 
