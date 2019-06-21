@@ -1,3 +1,15 @@
+### gocn_news_2018-07-10
+- 1. Go  工业级编程 https://peter.bourgon.org/go-for-industrial-programming/
+
+- 2. 使用 GopherJS 写 js 代码 https://medium.com/@kentquirk/how-to-use-gopherjs-to-turn-go-code-into-a-javascript-library-1e947703db7a
+
+- 3. aah 灵活快速的 Go Web 框架 https://aahframework.org/
+
+- 4. Go Training 教程 https://github.com/smileisak/go-training
+
+- 5. 网易工业级WebRTC应用实践深度解析  https://mp.weixin.qq.com/s/ytr7QLTVsEuTNnsYljsiKw
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-09
 - 1. 使用接口和依赖注入让你的设计不会过时 https://medium.com/dm03514-tech-blog/you-are-going-to-need-it-using-interfaces-and-dependency-injection-to-future-proof-your-designs-2cf6f58db192
 
