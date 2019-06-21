@@ -1,3 +1,17 @@
+### gocn_news_2017-06-26
+- 1. 北京Gopher PPT https://github.com/gopherchina/meetup/tree/master/Beijing/20170625
+
+- 2. goroutine泄露检测工具 https://github.com/fortytw2/leaktest
+
+- 3. postgres中文手册 https://github.com/postgres-cn/pgdoc-cn
+
+- 4. 架构师之路2017半年精选40篇 http://mp.weixin.qq.com/s/8RM6U8UqWTDp29DB_hiYVQ
+
+- 5. Google Cloud 的 API 设计 https://mp.weixin.qq.com/s?__biz=MzA5ODg4Mzk2OQ==&mid=2247483705&idx=1&sn=cc2ffef9ac431510c1791dbe6e774b85
+
+- 6. 上海Gopher meetup 报名地址：http://www.bagevent.com/event/569317
+
+- - - - 
 ### gocn_news_2017-06-25
 - 1. Go入门教程 http://www.golangprograms.com/
 
