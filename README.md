@@ -1,3 +1,19 @@
+### gocn_news_2017-08-31
+- 1. Go处理百万每分钟的请求 https://medium.com/smsjunk/handling-1-million-requests-per-minute-with-golang-f70ac505fcaa
+
+- 2. 11本开发者必读书籍 https://dev.to/lpasqualis/11-books-all-software-engineers-must-read
+
+- 3. 高并发性能调试经验分享 https://mp.weixin.qq.com/s/YShl8xCanvP-c6stMjz4IQ
+
+- 4. 360基于prometheus的在线服务监控实战 https://mp.weixin.qq.com/s/lcjZzjptxrUBN1999k_rXw
+
+- 5. 
+Go 在万亿级大数据平台开发中的实战 https://mp.weixin.qq.com/s/mZSF0WRMoJ1Nj4OoAXH7Pw
+
+
+- 6. [9月9日]广州Gopher Meetup https://www.bagevent.com/event/751233
+
+- - - - 
 ### gocn_news_2017-08-30
 - 1. Digg.com 走上 Gopher 之路 https://medium.com/digg-data/the-way-of-the-gopher-6693db15ae1f
 
