@@ -1,3 +1,17 @@
+### gocn_news_2017-12-30
+- 1. Go语言中的错误处理 http://ethancai.github.io/2017/12/29/Error-Handling-in-Go/
+
+- 2. 给你的 Golang 程序添加 GUI (Electron) https://studygolang.com/articles/12065
+
+- 3. 一个调度系统的开发与性能优化 https://zhuanlan.zhihu.com/p/32439765
+
+- 4. 年终盘点！2017年超有价值的Golang文章 http://colobu.com/2017/12/28/top-golang-articles-of-2017/
+
+- 5. Golang 套件管理工具 Glide https://cainmaila.github.io/2017/12/27/golang-glide/
+
+- 6. GopherChina2018来了！ https://www.bagevent.com/event/1086224
+
+- - - - - - - - - 
 ### gocn_news_2017-12-29
 - 1. 使用Go的实现工作队列 https://geeks.uniplaces.com/building-a-worker-pool-in-golang-1e6c0fdfd78c
 
