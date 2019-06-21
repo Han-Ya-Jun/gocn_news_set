@@ -1,3 +1,15 @@
+### gocn_news_2018-07-21
+- 1. TiDB 源码阅读系列文章（十四）统计信息（下）https://mp.weixin.qq.com/s/lQkwuVEeuyJJ0hVRnxKhGA
+
+- 2. Go http反向代理实现 https://hackernoon.com/writing-a-reverse-proxy-in-just-one-line-with-go-c1edfa78c84b
+
+- 3. Go 2 可变参map实现issue讨论 https://github.com/golang/go/issues/26459
+
+- 4. Go源码编译 https://carolynvanslyck.com/blog/2018/07/building-go-from-source/
+
+- 5. 手把手教你学习etcd  https://mp.weixin.qq.com/s/kGQlIpB-ToSMZ_3snzP5sw
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-20
 - 1. Golang 1.11 Beta 2, 新功能module https://golang.org/dl/#go1.11beta2
 
