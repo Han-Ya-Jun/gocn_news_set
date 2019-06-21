@@ -1,3 +1,15 @@
+### gocn_news_2018-10-17
+- 1. Google Cloud 宣布支持Go 1.11 https://blog.golang.org/appengine-go111
+
+- 2. 知乎服务端 Golang 单元测试框架 gocheck 使用介绍 https://zhuanlan.zhihu.com/p/45570168
+
+- 3. 华为云基于 K8S 构建企业级 Serverless Container 平台实践 https://mp.weixin.qq.com/s/1KVl0qM5PDIeqeTwx7evaw
+
+- 4. K8S中Deployment和StatefulSet的使用理念和区别 https://mp.weixin.qq.com/s/TyzjH0cVcJ1EcE-60WxIOA
+
+- 5. Go语言性能优化-两数之和算法性能研究 https://juejin.im/post/5bc68b8cf265da0ae92a9b46
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-16
 - 1. Golang的反射reflect深入理解和示例 https://www.jianshu.com/p/b46b1ccd2757
 
