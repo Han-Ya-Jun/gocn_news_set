@@ -1,3 +1,15 @@
+### gocn_news_2017-05-09
+- 1. 微服务 & API 网关 https://www.nginx.com/blog/microservices-api-gateways-part-1-why-an-api-gateway/
+
+- 2. Golang IO包的妙用 http://www.jianshu.com/p/8c33f7c84509
+
+- 3. 如何用Go思维设计程序 https://www.reddit.com/r/golang/comments/69u782/help_with_thinking_the_go_way/
+
+- 4. 如何不走寻常路的学习新语言 https://dev.to/sahildua2305/unconventional-way-of-learning-a-new-programming-language
+
+- 5. API设计中三个误区 https://www.programmableweb.com/news/three-common-api-design-mistakes-and-how-to-overcome-them/analysis/2017/03/10
+
+- - - - - 
 ### gocn_news_2017-05-03
 - 1. Go 实战经验分享
 
