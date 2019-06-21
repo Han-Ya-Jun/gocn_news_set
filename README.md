@@ -1,3 +1,15 @@
+### gocn_news_2019-02-04
+- 1. 當一個 goroutine 創建新的 goroutine 時，scheduler 會選誰優先執行？ https://medium.com/@genchilu/%E7%95%B6%E4%B8%80%E5%80%8B-goroutine-%E5%89%B5%E5%BB%BA%E6%96%B0%E7%9A%84-goroutine-%E6%99%82-scheduler-%E6%9C%83%E9%81%B8%E8%AA%B0-257f434ee1bf
+
+- 2. 利用Go重写API网关：AppsFlyer的体验报告  https://www.infoq.com/articles/api-gateway-clojure-golang
+
+- 3. 利用GORM HOOK清理测试数据 https://medium.com/@jarifibrahim/using-gorm-hooks-to-clean-up-test-fixtures-in-golang-99b0fcb04354
+
+- 4. Go语言实现KV数据库对比BoltDB vs Badger https://tech.townsourced.com/post/boltdb-vs-badger/
+
+- 5. Go中的光线追踪 https://github.com/hunterloftis/oneweekend/blob/master/readme.md
+
+- - - - - - - - - - 
 ### gocn_news_2019-02-03
 - 1. Golang State:2019-02 https://speakerdeck.com/campoy/the-state-of-go-feb-2019
 
