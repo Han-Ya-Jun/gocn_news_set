@@ -1,3 +1,15 @@
+### gocn_news_2018-02-25
+- 1. 通过插件的形式对Go程序做热修复: https://github.com/smallnest/glean
+
+- 2. Go语言参数传递是传值还是传引用: https://mp.weixin.qq.com/s/iKhhrIQ7zEMhJiVuegzPYg
+
+- 3. Etcd中的raft实现 http://www.opscoder.info/ectd-raft-library.html
+
+- 4. MongoDB 4.0有望支持跨文档事务 http://www.infoq.com/cn/news/2018/02/MongoDB-Transactions
+
+- 5. 大数据流处理平台的技术选型参考 https://mp.weixin.qq.com/s/ZGaMyuOjUOXmWBDReYHwhA
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-24
 - 1. Go 中数据竞争及如何解决 https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/
 
