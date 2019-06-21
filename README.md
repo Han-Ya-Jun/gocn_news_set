@@ -1,3 +1,15 @@
+### gocn_news_2017-10-10
+- 1. golang 标准库间依赖的可视化展示 http://blog.csdn.net/sinat_30800357/article/details/78178844
+
+- 2. golang——glide的使用手册 http://blog.csdn.net/lastsweetop/article/details/78185713
+
+- 3. hack CCTV视频库 https://github.com/EtixLabs/cameradar
+
+- 4. 如何使用gRPC开发CS系统 https://medium.com/pantomath/how-we-use-grpc-to-build-a-client-server-system-in-go-dd20045fa1c2
+
+- 5. Go内存调优 https://blog.fmpwizard.com/2017/09/29/memory-profiling-in-go/
+
+- - - - - 
 ### gocn_news_2017-10-09
 - 1. Go奇葩点 https://i6448038.github.io/2017/10/06/GolangDetailsTwo/
 
