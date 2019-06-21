@@ -1,3 +1,15 @@
+### gocn_news_2017-12-20
+- 1. 我与Go语言的这十年 https://mp.weixin.qq.com/s/iU7gaZNgCsU3DHaHa5PZ_Q
+
+- 2. 解读netpoll.go https://www.youtube.com/watch?v=xwlo3xigknI
+
+- 3. 系统设计的万能解法：SNAKE原则 https://mp.weixin.qq.com/s/u8NDvKcYv4ztVVRT_HaUJw
+
+- 4. 通过go/parser来理解Go程序 https://medium.com/%40francesc/funderstanding-go-programs-with-go-parser-c4e88a6edb87
+
+- 5. Go生成、执行wasm https://blog.gopheracademy.com/advent-2017/go-wasm/
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-19
 - 1. 通过解析器来理解 Go  https://medium.com/@francesc/understanding-go-programs-with-go-parser-c4e88a6edb87
 
