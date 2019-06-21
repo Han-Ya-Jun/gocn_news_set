@@ -1,3 +1,15 @@
+### gocn_news_2017-06-17
+- 1. Google工程师告诉你如何提高数据结构和算法能力 https://mp.weixin.qq.com/s/kSoDh_QG6TxhO4TjA-Z-wQ
+
+- 2. 使用 Ansible 安装部署 TiDB https://zhuanlan.zhihu.com/p/27308307
+
+- 3. Go命令行解析包 https://github.com/alecthomas/kingpin
+
+- 4. 扫描网络中的弱密码的SSH工具 https://github.com/ncsa/ssh-auditor
+
+- 5. Nginx如何做流量控制 https://www.nginx.com/blog/rate-limiting-nginx/
+
+- - - - - 
 ### gocn_news_2017-06-16
 - 1. Program FPGAs with Go https://reconfigure.io/
 
