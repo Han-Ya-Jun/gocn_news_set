@@ -1,3 +1,15 @@
+### gocn_news_2018-04-22
+- 1. Go1.12 将支持抢占式goroutine调度 https://github.com/golang/go/issues/24543
+
+- 2. Go HTTP 缓存中间件 https://github.com/victorspringer/http-cache
+
+- 3. Go 切片的一些技巧 https://medium.com/random-go-tips/some-tips-about-slices-dd649d86f65b
+
+- 4. 剑指Kubernetes 揭秘腾讯云的PaaS技术选型策略 http://www.infoq.com/cn/news/2018/03/Tencent-PaaS-Kubernetes
+
+- 5. 时序数据库技术体系 – InfluxDB TSM存储引擎之数据写入  https://mp.weixin.qq.com/s/8oxknZqRbeLi4iUlC7lQtg
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-21
 - 1. MemConn:一个内存中的网络栈 https://akutz.wordpress.com/2018/04/20/memconn
 
