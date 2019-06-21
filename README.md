@@ -1,3 +1,15 @@
+### gocn_news_2018-08-27
+- 1. GopherJS 1.11 发布： https://medium.com/gopherjs/gopherjs-1-11-1-is-released-7aad12f7e646
+
+- 2. Go WebAssembly - 编写一个计算器： https://hackernoon.com/go-webassembly-building-a-calculator-tutorial-70fff89db6a9
+
+- 3. 使用基于 Istio 的 Service Mesh 简化微服务通讯:  https://blog.kublr.com/implementing-a-service-mesh-with-istio-to-simplify-microservices-communication-d503eae81b73
+
+- 4. 深入理解 Kubernetes 指标：https://blog.freshtracks.io/a-deep-dive-into-kubernetes-metrics-b190cc97f0f6
+
+- 5. SQL 与 NoSQL 的不同 - MySQL vs MongoDB： https://medium.com/xplenty-blog/the-sql-vs-nosql-difference-mysql-vs-mongodb-32c9980e67b2
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-26
 - 1. Go 1.11及未来计划 https://docs.google.com/presentation/d/1EwuJhEHR5Trr2aXBPQajZ2Hcoh29tm_LQCpgfrCnuRk
 
