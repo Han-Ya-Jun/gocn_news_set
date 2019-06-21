@@ -1,3 +1,19 @@
+### gocn_news_2017-08-12
+- 1. GOCN每日新闻(2017-08-12)
+
+- 2. 1.为什么我们从 Python 转向 Go (I&II) http://www.gophersre.com/2017/08/10/why-i-moved-from-python-to-go-part-ii/
+2.Go 实现常见数据结构 https://flaviocopes.com/golang-data-structures/
+3.3年半，50万行 Go 代码 https://npf.io/2017/03/3.5yrs-500k-lines-of-go/
+4.Go 游戏引擎 oka https://github.com/oakmound/oak
+5.Go 是隐藏学习曲线的语言 https://www.reddit.com/r/golang/comments/6sw3i3/go_as_shallow_learning_curve_systems_language/
+
+- 3. 9月9日广州 meetup 报名
+http://www.bagevent.com/event/751233
+
+- 4. 编辑：傅小黑
+订阅新闻：http://tinyletter.com/gocn
+
+- - - - - - 
 ### gocn_news_2017-08-11
 - 1. GOCN每日新闻(2017-08-11)
 
