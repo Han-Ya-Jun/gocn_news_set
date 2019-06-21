@@ -1,3 +1,15 @@
+### gocn_news_2018-08-07
+- 1. 室内音量控制 Go+VueJS  https://itnext.io/home-volume-control-go-vuejs-r-r-151ff030ffa8
+
+- 2. 天池中间件Golang版Service Mesh思路分享 http://wangyapu.com/2018/06/12/tianchi_dubbo_mesh/
+
+- 3. 使用 runtime 包监控 Go 程序 https://scene-si.org/2018/08/06/basic-monitoring-of-go-apps-with-the-runtime-package/
+
+- 4. Go 实现 git 终端 UI https://github.com/jesseduffield/lazygit
+
+- 5. 为什么 Containerum 使用 Go https://medium.com/containerum/why-we-use-go-to-develop-containerum-platform-for-kubernetes-3a33d5bdc5ec
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-06
 - 1. 个人经验分享：从 Javascript 到 Go https://medium.com/@xkizer/from-javascript-to-go-a-personal-experience-8a4af6a55487
 
