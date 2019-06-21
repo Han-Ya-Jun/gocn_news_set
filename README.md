@@ -1,3 +1,15 @@
+### gocn_news_2018-01-13
+- 1. Go语言解析网页利器goquery简单使用 https://tomoya92.github.io/2017/06/21/golang-goquery/
+
+- 2. Etcd v3 服务注册与发现 Go代码 https://studygolang.com/articles/12165
+
+- 3. Go语言同步和异步执行多个任务封装 http://www.cnblogs.com/chenqionghe/p/8269556.html
+
+- 4. 功能即服务—OpenFaaS介绍 https://www.hashicorp.com/blog/functions-as-a-service-with-nomad
+
+- 5. Zero — Go实现轻量级的Tcp服务器 https://www.jianshu.com/p/f20cd2304aea
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-12
 - 1. Ngxfmt:基于Go语言的Ngnix配置文件格式化工具 http://fangpeishi.com/ngxfmt.html
 
