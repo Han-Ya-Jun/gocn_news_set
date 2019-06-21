@@ -1,3 +1,15 @@
+### gocn_news_2018-04-15
+- 1. GopherChina2018第一天PPT https://github.com/gopherchina/conference/tree/master/2018
+
+- 2. 为什么在Go语言中要少用interface https://juejin.im/post/5ad1c766518825555e5e4646
+
+- 3. 单片机使用Go(二) https://ziutek.github.io/2018/04/14/go_on_very_small_hardware2.html
+
+- 4. WebAssembly支持Golang https://react-etc.net/entry/webassembly-support-lands-in-go-language-golang-wasm-js
+
+- 5. 从先进走向普遍的广告和推荐系统方法之一: 在线学习 http://www.algorithmdog.com/advance-to-normal1
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-14
 - 1. Boltdb源码分析（四）----bucket结构  http://mp.weixin.qq.com/s/Cet4TTTTc6_OWWvmNgjOKA
 
