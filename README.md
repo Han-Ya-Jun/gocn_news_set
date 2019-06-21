@@ -1,3 +1,15 @@
+### gocn_news_2018-07-23
+- 1. beego 1.10.0发布，修复大量已知问题 https://gocn.vip/question/2078
+
+- 2. GraphQL与Golang的结合实践 https://www.slideshare.net/appleboy/graphql-ingo-106518012
+
+- 3. 新功能Go modules介绍 https://systemdump.io/posts/2018-07-22-go-modules
+
+- 4. 构建K8s operator系列教程 https://itnext.io/building-an-operator-for-kubernetes-with-the-sample-controller-b4204be9ad56
+
+- 5. veneur: stripe开源的分布式数据监控系统 https://github.com/stripe/veneur
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-22
 - 1. Golb:一种新的负载均衡实现 https://github.com/onestraw/golb
 
