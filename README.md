@@ -1,3 +1,15 @@
+### gocn_news_2017-09-20
+- 1. 高性能Go服务中如何高效的分配内存 https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/
+
+- 2. 分布式系统笔记 https://dev.to/shubheksha/a-note-on-distributed-systems-a-summary
+
+- 3. 深度的各种语言对比(论文学习)http://greenlab.di.uminho.pt/wp-content/uploads/2017/09/paperSLE.pdf
+
+- 4. 欧洲Go峰会视频集 https://www.youtube.com/watch?v=mLVxAU_xpEA&list=PLDWZ5uzn69eyM81omhIZLzvRhTOXvpeX9
+
+- 5. iterm2信息泄露漏洞 https://gitlab.com/gnachman/iterm2/issues/6050
+
+- - - - - 
 ### gocn_news_2017-09-19
 - 1. 20几种Go的数据结构和算法 http://www.golangprograms.com/data-structure-and-algorithms.html
 
