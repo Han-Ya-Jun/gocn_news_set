@@ -1,3 +1,15 @@
+### gocn_news_2017-12-05
+- 1. Go 微服务系列文章  https://medium.com/@marcus.eisele/microservices-with-mo-part-three-the-counter-microservice-5fa34af2dcdc
+
+- 2. 为你的 Go 应用添加 GUI  https://medium.com/@social_57971/how-to-add-a-gui-to-your-golang-app-in-5-easy-steps-c25c99d4d8e0
+
+- 3. 微服务测试  https://medium.com/@nathankpeck/microservice-testing-introduction-347d2f74095e
+
+- 4. 搭建 Go 分布式微服务系统  https://medium.com/@shijuvar/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2
+
+- 5. Prometheus 2.0 中监控功能的提升 https://medium.com/@opcitoindia/continuous-improvement-in-monitoring-with-prometheus-2-0-71e26658eb69
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-04
 - 1. 如何将 defer 中的错误作为函数参数返回 https://www.calhoun.io/using-named-return-variables-to-capture-panics-in-go/
 
