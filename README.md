@@ -1,3 +1,15 @@
+### gocn_news_2018-05-05
+- 1. Go语言中的TCP/IP网络编程 https://segmentfault.com/a/1190000014733620
+
+- 2. go并发实战: 搭配 influxdb + grafana 高性能实时日志监控系统 https://www.jianshu.com/p/f4d2b2ebafea
+
+- 3. 结构化并发的笔记，或者:Go声明被认为是有害的 https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
+
+- 4. 悟空API网关 开源版 https://github.com/eolinker/GoKu-API-Gateway
+
+- 5. k8s与监控--改造telegraf的buffer实现 https://segmentfault.com/a/1190000014701582
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-04
 - 1. 手把手教你Go程序的国际化和本土化 https://phraseapp.com/blog/posts/internationalization-i18n-go/
 
