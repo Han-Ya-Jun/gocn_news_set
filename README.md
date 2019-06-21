@@ -1,3 +1,15 @@
+### gocn_news_2018-07-20
+- 1. Golang 1.11 Beta 2, 新功能module https://golang.org/dl/#go1.11beta2
+
+- 2. 如何在Rancher 2.0上快速部署Datadog https://mp.weixin.qq.com/s/v7jjM1GEVWVF4u29Ut7bnw
+
+- 3. 深入解读Service Mesh背后的技术细节 https://mp.weixin.qq.com/s/GJLS4PQEeu4bV898rNv5jg
+
+- 4. Golang公链开发系统视频教程 https://github.com/liyuechun/blockchain_go_videos
+
+- 5. 纯Go实现的家庭mimi网络路由器 https://github.com/rtr7/router7
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-19
 - 1. 配置文件热加载的go语言实现 http://www.cnblogs.com/zingp/p/9330540.html
 
