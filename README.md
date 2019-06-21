@@ -1,3 +1,15 @@
+### gocn_news_2018-09-08
+- 1. 你需要知道的Go-1.11 模块、WebAssembly、和主要的变化 https://medium.com/@RidhamTarpara/all-you-need-to-know-about-go-1-11-webassembly-modules-and-major-changes-df6a02108373
+
+- 2. Golang定时器陷阱 https://www.jianshu.com/p/3647c1efcbf3
+
+- 3. 在纯Go X11 GUI的道路上 https://p.janouch.name/article-xgb.html
+
+- 4. 用Go编写的转到MIPS编译器 https://github.com/shivansh/gogo
+
+- 5. Golang基于Gitlab CI/CD部署方案 http://www.chairis.cn/blog/article/96
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-07
 - 1. Go1.11 Modules快速迁移攻略 https://blog.liquidbytes.net/2018/09/quick-and-easy-guide-for-migrating-to-go-1-11-modules/
 
