@@ -1,3 +1,15 @@
+### gocn_news_2017-12-23
+- 1. Mendelics公司用gopdf库替换python生成公司报表  https://blog.gopheracademy.com/advent-2017/building-medical-reports-in-go/
+
+- 2. 使用osquery-sdk执行SQL查询服务器系统信息 https://blog.gopheracademy.com/advent-2017/osquery-sdk/
+
+- 3. 远程控制工具Merlin介绍 https://medium.com/@Ne0nd0g/introducing-merlin-645da3c635a
+
+- 4. TensorFlow框架机器学习入门手册  https://www.toptal.com/machine-learning/tensorflow-machine-learning-tutorial
+
+- 5. 2017年go语言学习最佳学习书籍&课程介绍 https://reactdom.com/blog/go-books 
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-22
 - 1. 5种Go测试中的高级技巧 https://segment.com/blog/5-advanced-testing-techniques-in-go/
 
