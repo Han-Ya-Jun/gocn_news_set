@@ -1,3 +1,15 @@
+### gocn_news_2019-03-11
+- 1. 针对 Go 开发者的 GraphQL 工作台 https://graphql-go.wesovilabs.com
+
+- 2. 测试驱动开发和 Go https://medium.com/@AnwarHidayat/test-driven-development-with-golang-1a21a2f491bc
+
+- 3. Go 调度源码浅析 https://www.jianshu.com/p/3071738503ee
+
+- 4. 5分钟部署 Golang 包到 AWS Lambda https://medium.com/@daniel.woods/deploying-a-golang-package-to-aws-lambda-in-5-minutes-cd11685f576
+
+- 5. 20分钟入门 LLVM 对Go编译器实时编码 https://github.com/pwaller/go2ll-talk
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-10
 - 1. Gopher China 2019 讲师专访 - 徐成选 https://mp.weixin.qq.com/s/Jn7dV52ZnpGD9XTny6X1bQ  
 
