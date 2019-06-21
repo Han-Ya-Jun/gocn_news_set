@@ -1,3 +1,15 @@
+### gocn_news_2019-03-10
+- 1. Gopher China 2019 讲师专访 - 徐成选 https://mp.weixin.qq.com/s/Jn7dV52ZnpGD9XTny6X1bQ  
+
+- 2. 使用gRPC连接AWS Lambda https://blog.coinbase.com/grpc-to-aws-lambda-is-it-possible-4b29a9171d7f  
+
+- 3. 在树莓派上玩k8s https://medium.com/@mabrams_46032/kubernetes-on-raspberry-pi-c246c72f362f  
+
+- 4. 通过Istio指标实现k8s的自动扩展 https://medium.com/google-cloud/kubernetes-autoscaling-with-istio-metrics-76442253a45a  
+
+- 5. athena2csv: AWS Athena查询工具 https://github.com/flowerinthenight/athena2csv  
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-09
 - 1. 使用Goland调试Go程序之高级调试特性介绍 https://blog.jetbrains.com/go/2019/03/04/debugging-with-goland-advanced-debugging-features/
 
