@@ -1,3 +1,15 @@
+### gocn_news_2019-01-24
+- 1. Go 1.11.5 and Go 1.10.8 预发布版本 https://groups.google.com/forum/m/#!topic/golang-announce/mVeX35iXuSw
+
+- 2. Golang编写的XMPP服务器 https://github.com/ortuman/jackal/tree/v0.4.7
+
+- 3. GoLang实现以太坊钱包 https://gophersland.com/p/programming-ethereum-wallet-using-golang
+
+- 4. Go中的云功能 https://medium.com/yakka/cloud-functions-in-go-94c1014a6fe4
+
+- 5. 使用Golang在Kubernetes中创建自己的控制器 https://itnext.io/creating-your-own-admission-controller-in-kubernetes-using-golang-3fad3b3e0c81
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-23
 - 1. 理解 Golang 中函数调用的原理 https://draveness.me/golang-funciton-call
 
