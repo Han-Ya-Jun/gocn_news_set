@@ -1,3 +1,15 @@
+### gocn_news_2018-08-04
+- 1. 用Go实现一门解释型语言 https://github.com/gaufung/Monkey
+
+- 2. Go调试简单的内存泄漏 https://medium.com/dm03514-tech-blog/sre-debugging-simple-memory-leaks-in-go-e0a9e6d63d4d
+
+- 3. 使用Docker和热加载运行Go API https://www.zachjohnsondev.com/posts/go-docker-hot-reload-example/
+
+- 4. 使用Go来做机器学习的秘诀 https://docs.google.com/presentation/d/1BvT7mvhAR2_oKSRNKcThKuH3wGEHyEaKdYbzH7sfIlI/edit#slide=id.p
+
+- 5. Go 1.11 Beta 3 发布 http://t.cn/Res4ZeN
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-03
 - 1. Go 1.11 Modules 手册 https://github.com/golang/go/wiki/Modules
 
