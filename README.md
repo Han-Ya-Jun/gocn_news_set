@@ -1,3 +1,19 @@
+### gocn_news_2017-06-30
+- 1. Go代码调优利器-火焰图 http://lihaoquan.me/2017/1/1/Profiling-and-Optimizing-Go-using-go-torch.html
+
+- 2. Golang 互斥锁内部实现 https://zhuanlan.zhihu.com/p/27608263
+
+- 3. 有关缓存高可用性的思考 http://t.cn/RoT0mMw
+
+- 4. Tensorflow in Go https://github.com/galeone/tfgo
+
+- 5. Golang 内核之二：命名参数的好处 https://blog.minio.io/golang-internals-part-2-nice-benefits-of-named-return-values-1e95305c8687
+
+- 6. TiDB技术交流会上海场 Tech Day 时间定在 7 月 8 日，http://tidbtechday2017.sxl.cn/
+
+- 7. 上海Gopher meetup 报名地址：http://www.bagevent.com/event/569317
+
+- - - 
 ### gocn_news_2017-06-29
 - 1. Gogland EAP 10 https://blog.jetbrains.com/go/2017/06/27/gogland-eap-10-is-out-go-1-9-better-remote-debugger-and-more/
 
