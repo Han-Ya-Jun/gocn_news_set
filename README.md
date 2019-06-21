@@ -1,3 +1,25 @@
+### gocn_news_2018-04-06
+- 1. 如何写出Go团队风格的代码 https://www.youtube.com/watch?v=MzTcsI6tn-0
+
+- 2. 分布式 KV 存储系统 Cellar 演进之路 http://www.infoq.com/cn/presentations/the-path-of-evolution-of-the-distributed-kv-storage-system-cellar
+
+- 3. 分布式系统学习资源 https://github.com/rShetty/awesome-distributed-systems
+
+- 4. Linux零拷贝原理 https://mp.weixin.qq.com/s/WW2T1Fya6IHNH1iCJGERnw
+
+- 5. NFF-GO:Go语言云原生网络功能库 https://github.com/intel-go/nff-go
+
+- 6. 写Go代码时遇到的那些问题[第3期] https://tonybai.com/2018/04/06/the-problems-i-encountered-when-writing-go-code-issue-3rd
+
+- 7. 分布式SQLite用于应用程序 https://github.com/CanonicalLtd/dqlite
+
+- 8. Go实现的PHP解析器 https://github.com/z7zmey/php-parser/tree/v0.4.0
+
+- 9. 5分钟学会区块链 - 基于 Tendermint 开发一条区块链 https://zhuanlan.zhihu.com/p/33154604
+
+- 10. Golang并发编程 http://blog.lichfaker.com/2018/02/27/Golang%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B/
+
+- - - - - 
 ### gocn_news_2018-04-05
 - 1. go实现的主机入侵检测系统 https://github.com/ysrc/yulong-hids
 
