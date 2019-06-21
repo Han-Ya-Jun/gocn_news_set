@@ -1,3 +1,17 @@
+### gocn_news_2017-06-21
+- 1. 终止多个goroutine https://chilts.org/2017/06/12/cancelling-multiple-goroutines
+
+- 2. Go垃圾回收剖析 http://legendtkl.com/2017/04/28/golang-gc/
+
+- 3. 深入理解GRPC http://www.jianshu.com/p/48ad37e8b4ed
+
+- 4. Elasticsearch 可视化DashBoard https://github.com/farmerx/ElasticHD
+
+- 5. 通过二进制程序获取哪个Go版本 https://dave.cheney.net/2017/06/20/how-to-find-out-which-go-version-built-your-binary
+
+- 6. 上海Gopher meetup 报名地址：http://www.bagevent.com/event/569317
+
+- - - - 
 ### gocn_news_2017-06-20
 - 1. 服务器负载优化技巧 http://geek.csdn.net/news/detail/202676
 
