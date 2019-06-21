@@ -1,3 +1,15 @@
+### gocn_news_2017-09-30
+- 1. 《effective Go》读后记录 http://www.cnblogs.com/QG-whz/p/7613707.html
+
+- 2. Go 高级API架构的挑战 https://speakerdeck.com/timakin/challenge-to-advanced-api-architecture-in-go
+
+- 3. Go包组织提示 https://blog.learngoprogramming.com/code-organization-tips-with-packages-d30de0d11f46
+
+- 4. Go pprof 调试指南 http://mmcloughlin.com/posts/your-pprof-is-showing
+
+- 5. Go 1.8.4 and Go 1.9.1 安全更新 https://groups.google.com/forum/#!topic/golang-announce/Aqam2y8QoLA 
+
+- - - - - 
 ### gocn_news_2017-09-29
 - 1. Go接入Travis https://yuerblog.cc/2017/09/28/golang-with-travis-ci/
 
