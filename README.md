@@ -1,3 +1,15 @@
+### gocn_news_2018-06-30
+- 1. 2018.06.29 IOST测试网 Everest 0.5如约而至 https://www.jianshu.com/p/bac1bd755269
+
+- 2. Go Assembly 示例 http://colobu.com/goasm/
+
+- 3. 推荐很好用的Goroutine连接池 https://yq.aliyun.com/articles/604088
+
+- 4. OpenCensus & Go database/sql https://medium.com/@bas.vanbeek/opencensus-and-go-database-sql-322a26be5cc5
+
+- 5. kurun: 执行k8s命令工具 https://banzaicloud.github.io/blog/kurun/
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-29
 - 1. 你好WebAssembly https://blog.keyboardman.me/2018/06/28/hello-webassembly/
 
