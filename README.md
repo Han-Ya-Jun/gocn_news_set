@@ -1,3 +1,15 @@
+### gocn_news_2017-12-12
+- 1. 基于机器学习的索引 https://arxiv.org/pdf/1712.01208.pdf
+
+- 2. LiteIDE X33.1 发布 http://liteide.org/blog/LiteIDE-X33.1-Released/
+
+- 3. Goland 开发体验 https://medium.com/@andrey_cheptsov/golands-take-on-go-development-7d2611b14b99
+
+- 4. HTTP 链式路由 https://medium.com/@cashalot/how-to-chain-http-handlers-in-go-33c96396b397
+
+- 5. 分布式时序消息队列 https://github.com/celrenheit/sandglass
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-11
 - 1. 基于属性的程序测试 https://blog.gopheracademy.com/advent-2017/property-based-testing/
 
