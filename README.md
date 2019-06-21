@@ -1,3 +1,17 @@
+### gocn_news_2017-07-23
+- 1. 为什么好程序员离开大的技术公司 https://thinkgrowth.org/why-good-people-leave-large-tech-companies-af2b6fea4ee
+
+- 2. ctop 容器里面的top https://github.com/bcicen/ctop
+
+- 3. Go 空interface https://flaviocopes.com/go-empty-interface/
+
+- 4. Go应该支持泛型吗？https://dave.cheney.net/2017/07/22/should-go-2-0-support-generics
+
+- 5. Go包管理 https://about.sourcegraph.com/go/the-new-era-of-go-package-management
+
+- 6. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-22
 - 1. GRPC生产实践 https://about.sourcegraph.com/go/grpc-in-production-alan-shreve
 
