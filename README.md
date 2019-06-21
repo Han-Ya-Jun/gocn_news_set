@@ -1,3 +1,15 @@
+### gocn_news_2019-04-07
+- 1. Go 语言 Channel 实现原理精要 https://draveness.me/golang-channel
+
+- 2. 记一次go panic问题的解决过程  https://tonybai.com/2019/04/04/notes-about-fixing-a-go-panic-problem/
+
+- 3. 从 Java 迁移 50K 行代码到 Go 学到的经验 https://blog.kowalczyk.info/article/19f2fe97f06a47c3b1f118fd06851fad/lessons-learned-porting-50k-loc-from-java-to-go.html
+
+- 4. HTTP 与 TCP 连接用法分析器 bodyclose  https://github.com/timakin/bodyclose
+
+- 5. 正确性：可持续软件开发的范例 http://nonullpointers.com/posts/2019-03-27-correctness-the-paradigm-for-sustainable-software-development.html
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-06
 - 1. Go 1.12.2 和 Go 1.11.7 发布 https://groups.google.com/forum/#!msg/golang-announce/z9eTD34GEIs/Z_XmhTrVAwAJ
 
