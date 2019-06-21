@@ -1,3 +1,15 @@
+### gocn_news_2017-09-29
+- 1. Go接入Travis https://yuerblog.cc/2017/09/28/golang-with-travis-ci/
+
+- 2. 缓存更新的套路 https://coolshell.cn/articles/17416.html
+
+- 3. Go里面的pipeline设计模式 https://medium.com/@claudiofahey/pipeline-patterns-in-go-a37bb3a7e61d
+
+- 4. Go写iOS和Android应用框架 https://github.com/gomatcha/matcha
+
+- 5. 深入理解Go的http https://scene-si.org/2017/09/27/things-to-know-about-http-in-go/
+
+- - - - - 
 ### gocn_news_2017-09-28
 - 1. PingCAP为什么选择rust实现tikv https://pingcap.github.io/blog/2017/09/26/whyrust/
 
