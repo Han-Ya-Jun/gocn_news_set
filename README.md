@@ -1,3 +1,15 @@
+### gocn_news_2019-03-30
+- 1. Go语言2018调查报告发布 https://mp.weixin.qq.com/s/4GL-rCRpCFkgn7kyBusPkQ
+
+- 2. Go高性能工厂 https://dave.cheney.net/high-performance-go-workshop/dotgo-paris.html
+
+- 3. golang mod 入门 https://mp.weixin.qq.com/s/hymzPXLXmr5nR61y4m5ebA
+
+- 4. 如何集中标准化收集go log https://www.datadoghq.com/blog/go-logging/
+
+- 5. Go sync.Map 看一看 https://segmentfault.com/a/1190000018657984
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-29
 - 1. 马蜂窝搜索基于Golang并发代理的一次架构升级 http://zhuanlan.51cto.com/art/201903/594190.htm
 
