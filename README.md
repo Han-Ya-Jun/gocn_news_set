@@ -1,3 +1,15 @@
+### gocn_news_2019-03-24
+- 1. Go 1.13 规划 https://groups.google.com/forum/#!topic/golang-dev/jln8MwFpATc
+
+- 2. MySQL 连接的处理和扩展 https://mysqlserverteam.com/mysql-connection-handling-and-scaling/
+
+- 3. 描述命令行界面的声明性语言 https://github.com/celicoo/docli
+
+- 4. 如何为大型 Go 程序构建微型 Docker 镜像 https://medium.com/@valyala/stripping-dependency-bloat-in-victoriametrics-docker-image-983fb5912b0d
+
+- 5. 使用 Go 和 RabbitMQ 的工作队列 https://medium.com/@masnun/work-queue-with-go-and-rabbitmq-b8c295cde861
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-23
 - 1. 入门 Go 语言必须跨越的五个思维误区 https://www.infoq.cn/article/qzrGhlzq_HikN10xC5jC
 
