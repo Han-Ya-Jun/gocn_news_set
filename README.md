@@ -1,3 +1,15 @@
+### gocn_news_2018-06-14
+- 1. Go中的接口 https://dev.to/chuck_ha/interfaces-in-go-3onc
+
+- 2. Go实现的手机端游戏Fugo https://github.com/udhos/fugo
+
+- 3. SQL数据库的通用命令行界面 https://github.com/xo/usql
+
+- 4. Go append函数线程安全问题 https://medium.com/@cep21/gos-append-is-not-always-thread-safe-a3034db7975
+
+- 5. 通过update-golang脚本获取最新的golang发布到系统中 https://github.com/udhos/update-golang/tree/v0.15
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-13
 - 1. Go语言汇编优化 https://mp.weixin.qq.com/s/fiVVCjBG17aX_8MbBZ80jg
 
