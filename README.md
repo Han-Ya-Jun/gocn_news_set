@@ -1,3 +1,15 @@
+### gocn_news_2017-10-31
+- 1. 数据科学和机器学习的现状 https://www.kaggle.com/surveys/2017
+
+- 2. 使用go tracer优化分形图片制作的性能 https://medium.com/@francesc/using-the-go-execution-tracer-to-speed-up-fractal-rendering-c06bb3760507
+
+- 3. gRPC & Protocol Buffer 构建高性能接口实践 http://www.jianshu.com/p/3139e8dd4dd1
+
+- 4. Go如何控制CORS https://www.thepolyglotdeveloper.com/2017/10/handling-cors-golang-web-application/
+
+- 5. 不得不知道的golang知识点之nil https://gocn.io/article/478
+
+- - - - - 
 ### gocn_news_2017-10-30
 - 1. Go 终极指南：编写一个 Go 工具  http://www.jianshu.com/p/20b533c5c3f9
 
