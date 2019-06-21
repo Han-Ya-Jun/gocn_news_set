@@ -1,3 +1,15 @@
+### gocn_news_2017-09-25
+- 1. 微服务的反模式和陷井 http://www.jianshu.com/p/3986239138fe
+
+- 2. OpenTracing语义标准规范及实现 http://www.jianshu.com/p/a963ad0bbe3e
+
+- 3. 用 500 行 Golang 代码实现高性能的消息回调中间件 https://gocn.io/article/463
+
+- 4. 微服务测试 http://www.hamvocke.com/blog/testing-microservices/
+
+- 5. Go 在证券行情系统中的应用 https://mp.weixin.qq.com/s/N_mW0UG_q4Oi0VMCahhxCA
+
+- - - - - 
 ### gocn_news_2017-09-24
 - 1. 让我们的笔记本变成数据中心 https://hackernoon.com/the-day-your-laptop-became-a-micro-datacenter-97ba62c9e862
 
