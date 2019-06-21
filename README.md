@@ -1,3 +1,15 @@
+### gocn_news_2019-04-03
+- 1. 高性能 Go 服务的内存优化(译) https://www.jianshu.com/p/63404461e520
+
+- 2. 使用chi编写rest api https://www.youtube.com/watch?v=zeme_TmXyBk&feature=youtu.be
+
+- 3. Go troubleshoot工具 https://github.com/jondot/goweight
+
+- 4. 一个示例阐述 Go 应用的优雅中止 https://jingwei.link/2019/03/31/golang-graceful-ending.html
+
+- 5. 使用 Goroutines 池来处理基于任务的操作 https://mp.weixin.qq.com/s/lPB4k9npnpb7RVYn_tvsyA
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-02
 - 1. 为什么 Go 程序那么大？https://science.raphael.poss.name/go-executable-size-visualization-with-d3.html
 
