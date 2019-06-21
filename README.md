@@ -1,3 +1,15 @@
+### gocn_news_2018-01-20
+- 1. 微信亿级用户异常检测框架的设计与实践 https://mp.weixin.qq.com/s/M9DWyGQ_VeV15OnUF8W2ZA
+
+- 2. 如何使用Pact和Docker保障微服务在生产环境中的通信 http://www.infoq.com/cn/articles/microservices-consumer-driven-contracts-pact-docker
+
+- 3. Go defer 5个陷阱第三篇 https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1
+
+- 4. Go 中使用继承 https://stackoverflow.com/questions/48264882/using-inheritance-of-builders-in-go
+
+- 5. Go api调用如何避免内存泄露 https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-19
 - 1. Google新开源的分布式追踪系统 http://opencensus.io/
 
