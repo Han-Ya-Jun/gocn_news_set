@@ -1,3 +1,15 @@
+### gocn_news_2019-05-02
+- 1. GoLang中的单链表 https://medium.com/@michael.ginalick/singly-linked-lists-in-golang-5ae8c61e5e2e
+
+- 2. Go的测试 https://jimmyislive.dev/posts/testing/
+
+- 3. 一个基本的游戏模拟器，支持终端“云游戏 https://github.com/HFO4/gameboy.live
+
+- 4. Go中的string包解析 https://www.digitalocean.com/community/tutorials/an-introduction-to-the-strings-package-in-go
+
+- 5. Go的基础库，用于命令行程序的管道 https://academic.oup.com/gigascience/article/8/5/giz044/5480570
+
+- - - - - - - - - - 
 ### gocn_news_2019-05-01
 - 1. C++/Golang的数组类型异同 https://www.jianshu.com/p/12ec17408836
 
