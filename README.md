@@ -1,3 +1,15 @@
+### gocn_news_2018-09-10
+- 1. Go Webassembly 入门视频教程 https://www.youtube.com/watch?v=Fa4xoq2YQfE
+
+- 2. Go 运行时中的 String  https://boakye.yiadom.org/go/strings
+
+- 3. 图像相似度比较实践 https://colobu.com/2018/09/07/image-similarity-algorithms-in-go
+
+- 4. 任意图片转 ascii 编码的命令行工具  https://github.com/knrt10/asciiConvert
+
+- 5. Flannel 网络以及在阿里云下的实现解析 http://ylzheng.com/2018/09/07/k8s-flannel-in-alicloud
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-09
 - 1. Go是一门面向对象的语言吗  https://dev.to/enchanterio/is-go-an-object-oriented-language-52co
 
