@@ -1,3 +1,15 @@
+### gocn_news_2017-12-25
+- 1. Brigade: 基于事件的K8s脚本引擎 https://github.com/Azure/brigade
+
+- 2. 使用go trace跟踪程序执行 https://blog.gopheracademy.com/advent-2017/go-execution-tracer/
+
+- 3. flagr: 动态配置的A/B测试工具 https://github.com/checkr/flagr
+
+- 4. Go语言反射入门：根据类型创建对象 https://medium.com/kokster/go-reflection-creating-objects-from-types-part-i-primitive-types-6119e3737f5d
+
+- 5. lgo: 让Jupyter Notebook支持Go语言 https://github.com/yunabe/lgo
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-24
 - 1. 服务端I/O性能大比拼:Node、PHP、Java、Go www.iteye.com/news/32826
 
