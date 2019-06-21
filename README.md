@@ -72,3 +72,15 @@
 - 5. 在Go中实现可恢复的异常系统 https://rauhl.com/2019/06/implementing-a-resumable-exception-system-in-go/
 
 - - - - - 
+### gocn_news_2019-06-21
+- 1. 使用pprof优化http2服务 http://morsmachine.dk/http2-causalprof
+
+- 2. Go并发模型之双重检查锁定 https://turtledev.in/posts/go-concurrency-patterns-double-checked-locking/
+
+- 3. 使用go/analysis包徒手编写一个自定义的linter https://arslan.io/2019/06/13/using-go-analysis-to-write-a-custom-linter/
+
+- 4. 生成go test的时序图 https://engineering.infinityworks.com/sequence-diagrams/
+
+- 5. geziyor:一款高效的web爬虫框架 https://github.com/geziyor/geziyor
+
+- - - - - 
