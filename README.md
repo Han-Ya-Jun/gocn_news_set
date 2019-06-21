@@ -1,3 +1,15 @@
+### gocn_news_2017-11-09
+- 1. 深入理解GO语言之并发机制 https://juejin.im/post/59fff862f265da430f317c1f
+
+- 2. Prometheus 2.0发布 https://prometheus.io/blog/2017/11/08/announcing-prometheus-2-0/
+
+- 3. 目前功能最丰富性能最好的路由器 https://github.com/beego/mux
+
+- 4. 如何更“优雅”地部署Kubernetes集群 https://mp.weixin.qq.com/s/J-Cr1pFxoIs8sWz4Mk_lvQ
+
+- 5. 黄东旭：开源与基础软件创业在中国 https://zhuanlan.zhihu.com/p/30822874
+
+- - - - - 
 ### gocn_news_2017-11-08
 - 1. docker 可视化编程 https://github.com/weaveworks/scope
 
