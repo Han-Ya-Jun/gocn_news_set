@@ -1,3 +1,15 @@
+### gocn_news_2019-04-28
+- 1. Go并发编程@gopherchina2019 https://colobu.com/2019/04/28/gopher-2019-concurrent-in-action/
+
+- 2. Go Testing@gopherchina2019 https://dave.cheney.net/paste/gopherchina-2019-testing-talk.pdf
+
+- 3. Golang使用高阶函数实现依赖注入 https://www.hexiangyu.me/2019/04/28/go-dependency-injection-md/
+
+- 4. GopherChina第一天小结 https://mp.weixin.qq.com/s/nHcj2yxscD5WA2mOuTCnzw
+
+- 5. Golang中实现枚举类型 https://www.hexiangyu.me/2019/04/14/go-enums-md/
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-27
 - 1. 在 Go 中发现竞态条件 (Race Conditions) https://mp.weixin.qq.com/s/RPdtslg2L-SuhU0fdi3QQg
 
