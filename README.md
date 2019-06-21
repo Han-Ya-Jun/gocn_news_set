@@ -1,6 +1,6 @@
 
 </hr>
-### gocn_news_2019-06-21</br>
+### gocn_news_2019-06-21
 - 1. Kubernetes1.15发布：可扩展性与持续性改进 https://mp.weixin.qq.com/s/Qb8AcKE0NHnWlYo905M-SA
 
 - 2. 用Go构建一个SQL解析器 https://mp.weixin.qq.com/s/F9z5oPk-mSauliOHk3FJEA
