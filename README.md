@@ -1,3 +1,15 @@
+### gocn_news_2019-01-18
+- 1. 建议:Go 2 Number Literal更改https://github.com/golang/prop ... ls.md
+
+- 2. 如何在go中创建ssh隧道 http://elliot.land/post/how-to-create-an-ssh-tunnel-in-go
+
+- 3. 迁移到mod只需3个步骤 https://studygolang.com/articles/17780
+
+- 4. 10大工具汇总，多维度简化Kubernetes部署 https://mp.weixin.qq.com/s/pb4Tsth_c4kg2itvUU-76A 
+
+- 5. Go的快速脚本语言 https://github.com/d5/tengo
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-17
 - 1. Go channel实现原理 http://www.cnblogs.com/hlxs/p/10275303.html
 
