@@ -1,3 +1,15 @@
+### gocn_news_2018-06-28
+- 1. 使用GO测试数据库交互 https://medium.com/@romanyx90/testing-database-interactions-using-go-d9512b6bb449
+
+- 2. Go使用构建标签来存储配置 https://medium.com/@eminetto/golang-using-build-tags-to-store-configurations-d586e23c1dde
+
+- 3. 如何在Go中使用Mocks编写更好的单元测试 https://itnext.io/how-to-write-better-unit-tests-in-go-using-mocks-4dd05e867b17
+
+- 4. 如何使用TF服务将TensorFlow模型部署到生产中 https://medium.freecodecamp.org/how-to-deploy-tensorflow-models-to-production-using-tf-serving-4b4b78d41700
+
+- 5. 跟踪自然语言处理（NLP）进度的知识库 https://github.com/sebastianruder/NLP-progress
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-27
 - 1. Go 1.11 Beta 1发布 https://groups.google.com/forum/m/#!msg/golang-nuts/vpVOVVMLa08/oQQQWX3rCgAJ
 
