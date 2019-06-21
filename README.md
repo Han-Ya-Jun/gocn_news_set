@@ -1,3 +1,15 @@
+### gocn_news_2019-06-02
+- 1. Go 栈管理 https://medium.com/@blanchon.vincent/go-how-does-the-goroutine-stack-size-evolve-447fc02085e5
+
+- 2. Go 中的 TCP Keepalive https://thenotexpert.com/golang-tcp-keepalive
+
+- 3. 那些偶尔失败的测试 https://samsaffron.com/archive/2019/05/15/tests-that-sometimes-fail
+
+- 4. Go 是不是只属于 Google https://developers.slashdot.org/story/19/05/24/2349236/is-go-googles-programming-language-not-ours
+
+- 5. SSH Web 管理工具 felix https://github.com/dejavuzhou/felix
+
+- - - - - - - - - - 
 ### gocn_news_2019-06-01
 - 1. Golang Configor 配置文件工具 https://www.jianshu.com/p/f826d2cc361b
 
