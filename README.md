@@ -1,3 +1,15 @@
+### gocn_news_2017-12-08
+- 1. Go1.10 beta1 https://beta.golang.org/doc/go1.10
+
+- 2. 人工智能算法和教程汇总 https://github.com/KeKe-Li/tutorial
+
+- 3. DevOps 标准体系发布及权威 http://www.uml.org.cn/devops/201712061.asp
+
+- 4. 腾讯阿里的运维实践（附Devops58个开源工具） http://www.sohu.com/a/198439910_100038984
+
+- 5. 做好架构师，要懂微服务，汇总微服务架构落地的15种框架 http://www.sohu.com/a/201844693_100038984
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-07
 - 1. go pprof 采样何时进行   http://michaelyou.github.io/2017/12/06/go-pprof-%E9%87%87%E6%A0%B7%E4%BD%95%E6%97%B6%E8%BF%9B%E8%A1%8C/
 
