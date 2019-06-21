@@ -1,3 +1,15 @@
+### gocn_news_2018-10-30
+- 1. Go Modules 学习范例 https://github.com/go-modules-by-example/index
+
+- 2. Go 开始试验分代 GC https://go-review.googlesource.com/c/go/+/137476
+
+- 3. 使用 Go 扩展 Python 3 https://hackernoon.com/extending-python-3-in-go-78f3a69552ac
+
+- 4. 一个GO语言性能问题的发现和解决  https://my.oschina.net/u/3675312/blog/2254090
+
+- 5. Kubernetes网络模型原理  https://juejin.im/post/5bd6c14be51d455b7461cb46
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-29
 - 1. Go语言并发模式 https://blog.afoolishmanifesto.com/posts/golang-concurrency-patterns/
 
