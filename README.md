@@ -1,3 +1,15 @@
+### gocn_news_2018-05-31
+- 1. 在Go中使用OAuth2验证 https://www.youtube.com/watch?v=OdyXIi6DGYw&feature=youtu.be
+
+- 2. Golang国际化(i18n)和本地化(l10n)指南 https://dev.to/theodesp/a-step-by-step-guide-to-go-internationalization-i18n--localization-l10n-4ig2
+
+- 3. Golang gRPC拦截器 https://medium.com/@shijuvar/writing-grpc-interceptors-in-go-bf3e7671fe48
+
+- 4. Kubernetes的虚拟机管理附件KubeVirt https://github.com/kubevirt/kubevirt
+
+- 5. 如何为服务通信建立GRPC服务 https://ryanmccue.ca/how-to-setup-grpc-service-to-service-communication/ 
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-30
 - 1. Go是如何在运行时实现map(非泛型) https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics
 
