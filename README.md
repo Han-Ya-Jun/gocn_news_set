@@ -1,3 +1,15 @@
+### gocn_news_2019-04-14
+- 1. Raycasting引擎转换为Go https://www.reddit.com/r/golang/comments/bcpeyc/raycasting_engine_converted_to_go/
+
+- 2. GOLANG API中避免内存泄露 http://www.gaoxuan1989.com/2019/04/13/avoiding-memory-leak-in-golang-ap
+
+- 3. 谈谈panic和recover的原理 https://draveness.me/golang-panic-recover
+
+- 4. 分布式系统关注点—缓存背后的“毁灭种子” https://mp.weixin.qq.com/s/okI71mBjwmt85OtHYVC1Hw
+
+- 5. 你是否需要区块链：多种决策模型  https://medium.com/@sbmeunier/when-do-you-need-blockchain-decision-models-a5c40e7c9ba1
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-13
 - 1. 使用tus协议实现http断点续传文件功能 https://golangbot.com/resumable-file-uploader/
 
