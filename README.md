@@ -1,3 +1,15 @@
+### gocn_news_2019-05-04
+- 1. 如何掌握并用好defer（延迟执行） https://segmentfault.com/a/1190000019063371
+
+- 2. GO: sync.Mutex 的实现与演进 https://www.jianshu.com/p/ce1553cc5b4f
+
+- 3. Golang的map并发安全 https://www.jianshu.com/p/f2e7650da938
+
+- 4. Go中的垃圾收集：第一部分 - 语义 https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html
+
+- 5. 1万属性，100亿数据，每秒10万吞吐，架构如何设计？ https://juejin.im/post/5ccc3a1af265da03a436dfde
+
+- - - - - - - - - - 
 ### gocn_news_2019-05-03
 - 1. 使用Github+TravisCI+DockerHub实现Go项目的持续集成 https://medium.com/@kainlite_32799/go-continuous-integration-with-travis-ci-and-docker-4b26379e54b7
 
