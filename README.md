@@ -1,3 +1,15 @@
+### gocn_news_2017-09-24
+- 1. 让我们的笔记本变成数据中心 https://hackernoon.com/the-day-your-laptop-became-a-micro-datacenter-97ba62c9e862
+
+- 2. 深入理解 execution tracer https://go-talks.appspot.com/github.com/davecheney/understanding-the-execution-tracer/understanding-the-execution-tracer.slide#1
+
+- 3. GC优化的基数树 https://github.com/Kentik/patricia
+
+- 4. 基于Go的大规模代码搜索引擎 https://www.youtube.com/watch?v=-DpKaoPz8l8
+
+- 5. 基于couchbase实现Go Web应用 https://www.thepolyglotdeveloper.com/2016/08/using-couchbase-server-golang-web-application/
+
+- - - - - 
 ### gocn_news_2017-09-23
 - 1. restful API版本管理最佳实践 https://dev.to/sparkpost/restful-api-versioning-best-practices-why-v1-is-1
 
