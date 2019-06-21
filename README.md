@@ -1,3 +1,15 @@
+### gocn_news_2018-04-17
+- 1. 从测试驱动学习 Go https://quii.gitbook.io/learn-go-with-tests/
+
+- 2. Go语言中的“good code vs. bad code" https://teivah.io/blog/good-code-vs-bad-code-in-golang/
+
+- 3. 使用jupyter notebook进行go交互式编程 https://medium.com/@yunabe/interactive-go-programming-with-jupyter-93fbf089aff1
+
+- 4. Slack Notification with CloudWatch Alarms & Lambda https://medium.com/@mlabouardy/slack-notification-with-cloudwatch-alarms-lambda-6f2cc77b463a
+
+- 5. Docker容器可视化监控中心搭建 https://juejin.im/post/5ad52d3bf265da237840c0ec
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-16
 - 1. Node工程师的Go语言入门 https://medium.com/@OmisNomis/my-journey-from-node-to-go-4b657f57836e
 
