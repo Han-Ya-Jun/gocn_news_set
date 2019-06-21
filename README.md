@@ -1,3 +1,15 @@
+### gocn_news_2017-10-02
+- 1. Prometheus 如何记录请求时间 https://povilasv.me/prometheus-tracking-request-duration/
+
+- 2. 三个组件安全验证API https://medium.com/@baijum/api-end-points-with-authentication-using-negroni-gorilla-mux-and-jwt-middleware-63a6dd8275cf
+
+- 3. Go1.9中如何进行位操作 http://herman.asia/bit-manipulation-in-go-1-9
+
+- 4. 使用 Chaos 测试分布式系统线性一致性 http://www.jianshu.com/p/2e65e6f37c76
+
+- 5. 如何做一个靠谱的发号器 https://tech.youzan.com/id_generator/
+
+- - - - - 
 ### gocn_news_2017-10-01
 - 1. 《Go in action》读后记录：Go的并发与并行 http://www.cnblogs.com/QG-whz/p/7616547.html
 
