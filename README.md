@@ -1,3 +1,15 @@
+### gocn_news_2017-12-17
+- 1. 进程管理工具sir https://github.com/foreversmart/sir
+
+- 2. 基础优化-最不坏的哈希表: http://www.skywind.me/blog/archives/2006
+
+- 3. 饿了么异地多活技术实现（一）总体介绍: https://zhuanlan.zhihu.com/p/32009822
+
+- 4. 浅谈分布式存储系统数据分布方法: http://catkang.github.io/2017/12/17/data-placement.html
+
+- 5. golang汇编入门: https://lrita.github.io/2017/12/12/golang-asm/
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-16
 - 1. Go IGDB客户端 https://github.com/Henry-Sarabia/igdb
 
