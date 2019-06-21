@@ -1,3 +1,17 @@
+### gocn_news_2017-06-22
+- 1. Go实现的rsync算法 https://github.com/c4milo/gsync
+
+- 2. Golang 中使用 JSON 的小技巧 https://gocn.io/article/363
+
+- 3. 数据可视化产生生产力 http://insights.thoughtworkers.org/data-visualization-produce-productivity/
+
+- 4. 微服务架构下的安全认证与鉴权 https://mp.weixin.qq.com/s/x0CZpovseOuofTA_lw0HvA
+
+- 5. 微服务架构下如何测试 https://martinfowler.com/articles/microservice-testing/
+
+- 6. 上海Gopher meetup 报名地址：http://www.bagevent.com/event/569317
+
+- - - - 
 ### gocn_news_2017-06-21
 - 1. 终止多个goroutine https://chilts.org/2017/06/12/cancelling-multiple-goroutines
 
