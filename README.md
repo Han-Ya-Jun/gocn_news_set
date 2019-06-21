@@ -1,3 +1,19 @@
+### gocn_news_2017-07-19
+- 1. 程序员的七个好习惯 https://dev.to/binarforge/seven-useful-programming-habits
+
+- 2. Gopher-2017 演讲稿 https://github.com/gophercon/2017-talks
+
+- 3. Prometheus 初探 https://www.addops.cn/post/Prometheus-first-exploration.html
+
+- 4. 360 私有云平台 MySQL 自动化实现剖析 https://mp.weixin.qq.com/s/txt3x3iL-asBbkBIQj7g0w
+
+- 5. 
+Go面试题 https://zhuanlan.zhihu.com/p/26972862
+
+
+- 6. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-18
 - 1. systemd前世今生 http://coolshell.cn/articles/17998.html
 
