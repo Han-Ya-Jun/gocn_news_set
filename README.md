@@ -1,3 +1,13 @@
+### gocn_news_2019-05-09
+- 1. 协程初步讨论  https://segmentfault.com/a/1190000019114754
+
+- 2. go框架-beego基础 https://c.isme.pub/2019/03/25/go-beego/
+
+- 3. 在 struct 內的 pointers 跟 values 差异 https://blog.wu-boy.com/2019/05/what-is-different-between-pointer-and-value-in-golang/
+
+- 4. 从零开始搭建创业公司后台技术栈 https://mp.weixin.qq.com/s/jQ0X66DK1DDW9DFlyd9bdw
+
+- - - - - - - - - - - 
 ### gocn_news_2019-05-08
 - 1. 活动精彩回顾｜GopherChina 2019干货回顾！ https://mp.weixin.qq.com/s/C87kVwPcIGiR4bUlYxdz0A
 
