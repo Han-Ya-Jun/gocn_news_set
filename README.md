@@ -1,3 +1,19 @@
+### gocn_news_2017-08-29
+- 1. Go访问控制开源库 https://github.com/casbin/casbin
+
+- 2. Go 语言的内存、指针详解 http://www.jianshu.com/p/44b9429d7bef
+
+- 3. 通过视频深入理解type alias https://www.youtube.com/watch?feature=youtu.be&v=Vg603e9C-Vg&app=desktop
+
+- 4. Go版本的限制和突破 https://medium.com/@theckman/version-constraints-and-go-c9309be15773
+
+- 5. 
+谈谈架构 http://www.rowkey.me/blog/2017/08/24/arch/
+
+
+- 6. [9月9日]广州Gopher Meetup https://www.bagevent.com/event/751233
+
+- - - - 
 ### gocn_news_2017-08-28
 - 1. Teleport：通用、高效、灵活的 TCP Socket 框架（Golang） https://github.com/henrylee2cn/teleport
 
