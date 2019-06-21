@@ -1,7 +1,8 @@
 # [gocn_news_set](https://gocn.vip/explore/category-14)
-## [gocn_news_set_2018](gocnd_news_set_2018.md)
+在之前爬虫Go中国技术社区的的小工具上加了一个功能，自动归档到github上，方便查阅。
 ## [gocn_news_set_2017](gocnd_news_set_2017.md)
-
+## [gocn_news_set_2018](gocnd_news_set_2018.md)
+## gocn_news_2019
 ### gocn_news_2019-06-21
 - 1. Kubernetes1.15发布：可扩展性与持续性改进 https://mp.weixin.qq.com/s/Qb8AcKE0NHnWlYo905M-SA
 
