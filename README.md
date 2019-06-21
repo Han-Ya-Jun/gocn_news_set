@@ -1,3 +1,15 @@
+### gocn_news_2018-06-05
+- 1. 微软收购 github : https://www.entrepreneur.com/article/314449
+
+- 2. gitea: Go 实现的自建 Git 服务： https://github.com/go-gitea/gitea
+
+- 3. Go 在 Scratch VM 中的运用： https://syslog.ravelin.com/go-in-a-scratch-vm-a28c14e82a51
+
+- 4. Go, Kafka 以及DynamoDB 搭建微服务： https://medium.com/@self.maurya/building-a-microservice-with-golang-kafka-and-dynamodb-part-ii-4c2def48a5dc
+
+- 5. Kubehandler: k8s 任务调度工具  https://blog.gojekengineering.com/kubehandler-an-event-dispatcher-for-kube-controllers-a2195b6b329a
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-04
 - 1. 为什么在 Go 的类型系统中没有动态类型 https://blog.merovius.de/2018/06/03/why-doesnt-go-have-variance-in.html
 
