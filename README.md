@@ -1,3 +1,15 @@
+### gocn_news_2017-11-10
+- 1. 压缩各种静态文件的工具 https://github.com/tdewolff/minify
+
+- 2. Go的使用体验 http://lucapette.me/my-experience-with-go
+
+- 3. Linux 工具参考篇 http://linuxtools-rst.readthedocs.io/zh_CN/latest/tool/index.html
+
+- 4. Go 语言实现的轻量级 TCP 异步框架 https://github.com/leesper/tao
+
+- 5. 深度解析Go bufio scanner https://medium.com/golangspec/in-depth-introduction-to-bufio-scanner-in-golang-55483bb689b4
+
+- - - - - 
 ### gocn_news_2017-11-09
 - 1. 深入理解GO语言之并发机制 https://juejin.im/post/59fff862f265da430f317c1f
 
