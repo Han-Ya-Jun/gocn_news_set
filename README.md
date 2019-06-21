@@ -1,3 +1,15 @@
+### gocn_news_2018-03-23
+- 1. 使用Go和Elasticsearch构建搜索服务 https://outcrawl.com/go-elastic-search-service/
+
+- 2. 谷歌发布Skaffold，简化Kubernetes应用程序持续开发 http://www.infoq.com/cn/news/2018/03/skaffold-kubernetes
+
+- 3. 使用Go语言实现比特币交易 https://www.thepolyglotdeveloper.com/2018/03/create-sign-bitcoin-transactions-golang/
+
+- 4. 如何5个月在生产环境构建K8S？ https://www.kubernetes.org.cn/3742.html
+
+- 5. Lile:让你轻松构建gRPC服务 https://github.com/lileio/lile
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-22
 - 1. GC延迟问题解决 https://talks.golang.org/2015/go-gc.pdf
 
