@@ -1,3 +1,15 @@
+### gocn_news_2018-09-06
+- 1. Go2泛型草案的注释 http://jmoiron.net/blog/notes-on-the-go2-generics-draft/
+
+- 2. 用于MySQL数据库和查询的代码生成器 https://github.com/huangjunwen/sqlw-mysql
+
+- 3. 后Kubernetes时代的微服务 https://www.infoq.com/articles/microservices-post-kubernetes
+
+- 4. 使用Jaeger在kubernetes中实现分布式追踪 https://medium.com/@masroor.hasan/tracing-infrastructure-with-jaeger-on-kubernetes-6800132a677
+
+- 5. GopherCon 2018 - 在Go中实现网络协议 https://about.sourcegraph.com/go/gophercon-2018-implementing-a-network-protocol-in-go/
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-05
 - 1. 经典并发模式中的一些反思 https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view
 
