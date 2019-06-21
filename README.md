@@ -1,3 +1,15 @@
+### gocn_news_2017-12-22
+- 1. 5种Go测试中的高级技巧 https://segment.com/blog/5-advanced-testing-techniques-in-go/
+
+- 2. 从零开始构建分布式日志系统 http://bravenewgeek.com/building-a-distributed-log-from-scratch-part-1-storage-mechanics/
+
+- 3. defer使用的5个陷阱（2） https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-ii-cc550f6ad9aa
+
+- 4. Serverless架构入门手册 https://www.simform.com/serverless-architecture-guide/
+
+- 5. 使用fasthttp时需要注意的两个点 https://studygolang.com/articles/11966
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-21
 - 1. ServiceMesh时代的选边与站队（附PPT下载） https://mp.weixin.qq.com/s/hHzDa1T_UKPB97ttFRaDCQ
 
