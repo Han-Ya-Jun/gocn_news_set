@@ -1,4 +1,18 @@
 ### gocn_news_2019-06-21
+- 1. 浏览器中运行并分享shell https://bash.rocks/
+
+- 2. Go的技术债 https://dave.cheney.net/2017/06/18/simplicity-debt-redux
+
+- 3. 手把手教你如何监控Go程序 https://www.opsdash.com/blog/golang-app-monitoring-statsd-expvar-prometheus.html
+
+- 4. 什么是interface http://code.maiamccormick.com/blog/2017/06/17/what-are-interfaces/
+
+- 5. 通过minikube 和docker学习k8s http://johnmclaughlin.info/learn-kubernetes-using-minikube-docker-macos/
+
+- 6. 上海Gopher meetup 报名地址：http://www.bagevent.com/event/569317
+
+- - - - 
+### gocn_news_2019-06-21
 - 1. 深圳meetup 演讲稿 https://github.com/gopherchina/meetup/tree/master/ShenZhen/20170617
 
 - 2. 高负载微服务系统的诞生过程 http://www.infoq.com/cn/articles/birth-process-of-high-load-micro-service-system
