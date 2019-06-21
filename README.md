@@ -1,3 +1,15 @@
+### gocn_news_2018-02-04
+- 1. Go 1.10 State https://speakerdeck.com/campoy/the-state-of-go-1-dot-10
+
+- 2. Golang中的锁 https://zhuanlan.zhihu.com/p/33462152
+
+- 3. Golang的反射reflect深入理解和示例 https://juejin.im/post/5a75a4fb5188257a82110544
+
+- 4. Golang Networking深入解析 http://mhausenblas.info/fosdem2018-godevroom-networkingdeepdive
+
+- 5. Darch:构建引导无状态和不可变Docker镜像工具 https://godarch.com
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-03
 - 1. Prometheus原理和源码分析 http://www.infoq.com/cn/articles/Prometheus-theory-source-code
 
