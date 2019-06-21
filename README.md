@@ -1,3 +1,15 @@
+### gocn_news_2018-09-30
+- 1. 你没听说过的 Go 语言惊人优点 https://linux.cn/article-10057-1.html
+
+- 2. 写一个自己的Golang Module https://www.jtianling.com/private-module-in-golang.html
+
+- 3. 什么是好的软件架构  https://medium.com/software-engineering-problems/what-makes-up-the-software-20f607da9155
+
+- 4. C++迁移到Go之路 https://blog.phusion.nl/2018/09/18/migrating-passenger-from-cxx-to-go/
+
+- 5. 一个高性能的Goroutine pool https://github.com/panjf2000/ants
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-29
 - 1. Go系统调度Part2 https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
 
