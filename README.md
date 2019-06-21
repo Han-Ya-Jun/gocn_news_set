@@ -1,3 +1,15 @@
+### gocn_news_2018-03-13
+- 1. Go 同步队列： https://medium.com/golangspec/synchronization-queues-in-golang-554f8e3a31a4
+
+- 2. 使用 Go 快速扫描目录文件的不同方法 http://www.boyter.org/2018/03/quick-comparison-go-file-walk-implementations/
+
+- 3. Go Context 的踩坑经历 https://zhuanlan.zhihu.com/p/34417106
+
+- 4. 一个用 Go 实现的简单区块链库： https://github.com/Jeiwan/blockchain_go
+
+- 5. AI 在医疗领域发展前景展望： https://medium.com/@marketing_61843/the-future-of-healthcare-ai-ee38e5ba0991
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-12
 - 1. GopherChina 2018 大会全部议程 https://mp.weixin.qq.com/s/1_v8DsvinZWfh0-HXks88Q
 
