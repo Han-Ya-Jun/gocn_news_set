@@ -1,3 +1,15 @@
+### gocn_news_2017-10-04
+- 1. Google开源的Go实现的配置语言 https://github.com/google/skylark
+
+- 2. 老王出品的k8s完整教程 https://github.com/jolestar/kubernetes-complete-course
+
+- 3. Go实现的lua VM https://github.com/milochristiansen/lua
+
+- 4. 基于kafka和Go的微服务实现和测试 https://semaphoreci.com/community/tutorials/writing-and-testing-an-event-sourcing-microservice-with-kafka-and-go
+
+- 5. swift调用Go实例 https://medium.com/@rakyll/calling-go-from-swift-be88709942c3
+
+- - - - - 
 ### gocn_news_2017-10-03
 - 1. Go for rails https://sphereinc.com/go-for-rails-developers/
 
