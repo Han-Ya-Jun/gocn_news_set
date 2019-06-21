@@ -1,3 +1,15 @@
+### gocn_news_2019-03-31
+- 1. 浅谈Go语言select的实现原理 https://draveness.me/golang-select
+
+- 2. 优雅关闭的GoWeb服务器 https://marcofranssen.nl/go-webserver-with-gracefull-shutdown/
+
+- 3. Go调度器追踪 https://studygolang.com/articles/19396
+
+- 4. GoSocket操作笔记 https://segmentfault.com/a/1190000018715217
+
+- 5. Redis喜提新数据结构:Streams https://mp.weixin.qq.com/s/PiUku0rlnGavskCAOU9xeQ
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-30
 - 1. Go语言2018调查报告发布 https://mp.weixin.qq.com/s/4GL-rCRpCFkgn7kyBusPkQ
 
