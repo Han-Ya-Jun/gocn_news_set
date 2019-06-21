@@ -1,3 +1,15 @@
+### gocn_news_2018-10-21
+- 1. 小米开源的SQL优化工具 https://github.com/XiaoMi/soar
+
+- 2. 关于使用Go二进制包的讨论 https://groups.google.com/forum/#!msg/golang-nuts/juPzaRDVB9c/6PYP56-0CAAJ
+
+- 3. 用Go编写的TCP连接监视器库 https://github.com/gihnius/monconn
+
+- 4. 性能分析方法论 http://www.zenlife.tk/performance-analysis.md
+
+- 5. 关键路径驱动开发 https://medium.com/@rakyll/cpdd-critical-path-driven-development-6c2592fb8ea4
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-20
 - 1. gRPC客户端身份验证 https://jbrandhorst.com/post/grpc-auth/
 
