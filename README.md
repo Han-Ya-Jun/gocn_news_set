@@ -1,3 +1,15 @@
+### gocn_news_2017-12-27
+- 1. 使用GO编写的JIT编译器 https://medium.com/kokster/writing-a-jit-compiler-in-golang-964b61295f 
+
+- 2. DNS解析器，深入浅出Go语言   http://liehu.tass.com.cn/archives/1052
+
+- 3. 商用级Service Mesh服务的设计之道  https://mp.weixin.qq.com/s/2I_jXUB5RCseA9YRn0P2FA
+
+- 4. client-go的使用及源码分析  http://www.huweihuang.com/article/source-analysis/client-go-source-analysis/
+
+- 5. 缓存穿透、缓存并发、热点缓存之最佳招式 https://mp.weixin.qq.com/s/62KJ2mSTGoUTPsq0RjU7lg
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-26
 - 1. Kuberneters 中 Go 的泛型 https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301
 
