@@ -1,3 +1,15 @@
+### gocn_news_2019-02-21
+- 1. 使用Go和Kubernetes进行数据库迁移 https://dev.to/plutov/database-migrations-with-go-and-kubernetes-266a
+
+- 2. Go嵌入式队列Goblero https://medium.com/@didil/introducing-goblero-a-go-embedded-job-queue-6dfec8e24d4c
+
+- 3. 如何编写Go API https://jonnylangefeld.com/blog/how-to-write-a-go-api-part-1-webserver-with-iris
+
+- 4. 关于Go2的草案 http://jmoiron.net/blog/notes-on-the-go2-generics-draft/
+
+- 5. Go的精炼Web框架 air https://github.com/aofei/air
+
+- - - - - - - - - - 
 ### gocn_news_2019-02-20
 - 1. 变量数据结构调试利器 go-spew https://mp.weixin.qq.com/s/MYf9KXmaGpSVmx8EO2ewKw
 
