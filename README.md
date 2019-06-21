@@ -1,3 +1,19 @@
+### gocn_news_2017-06-27
+- 1. UDP编程的那些事 https://gocn.io/article/371
+
+- 2. Go 1.9 Beta 2 is released! https://golang.org/dl/
+
+- 3. C++程序员眼中的Go https://www.murrayc.com/permalink/2017/06/26/a-c-developer-looks-at-go-the-programming-language-part-1-simple-features/
+
+- 4. 七牛 Pandora 开发的通用日志收集工具 https://github.com/qiniu/logkit
+
+- 5. 我的架构感悟：从美国宪法学习架构设计原则 https://mp.weixin.qq.com/s/3yGZ0uO2BKGym9UDN4tNkQ
+
+- 6. TiDB技术交流会上海场 Tech Day 时间定在 7 月 8 日，http://tidbtechday2017.sxl.cn/
+
+- 7. 上海Gopher meetup 报名地址：http://www.bagevent.com/event/569317
+
+- - - 
 ### gocn_news_2017-06-26
 - 1. 北京Gopher PPT https://github.com/gopherchina/meetup/tree/master/Beijing/20170625
 
