@@ -1,3 +1,15 @@
+### gocn_news_2017-09-09
+- 1. Go 没有正确的内联函数 https://lemire.me/blog/2017/09/05/go-does-not-inline-functions-when-it-should/
+
+- 2. Go技巧:命名规范http://zablog.me/2017/09/08/go_tricks_and_tips_2/
+
+- 3. 基于AMQP实现的golang消息队列MaxQ https://zhuanlan.zhihu.com/p/28967866
+
+- 4. https是如何工作的 https://dev.to/ruidfigueiredo/briefish-explanation-of-how-https-works
+
+- 5. 抽象系统的存储 http://www.golangdevops.com/2017/09/05/abstracting-the-storage-layer/
+
+- - - - - 
 ### gocn_news_2017-09-08
 - 1. 如何测试HTTP(S) 服务 https://blog.dnsimple.com/2017/08/how-to-test-golang-https-services/
 
