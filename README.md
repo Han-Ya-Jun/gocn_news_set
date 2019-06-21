@@ -1,3 +1,15 @@
+### gocn_news_2018-12-31
+- 1. Go 入门简介：http://t.cn/EbjzeSt
+
+- 2. Go GraphQL 新手指南： https://tutorialedge.net/golang/go-graphql-beginners-tutorial/
+
+- 3. 你需要 Go web 框架吗：https://medium.com/@tusharsoni/do-you-need-a-web-framework-for-go-51171bb0ea8c
+
+- 4. OpenEdge：开放的边缘计算平台 https://github.com/baidu/openedge
+
+- 5. 从微服务的角度看，如何 Be Cloud Native：http://t.cn/Ebq3QlD
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-30
 - 1. Go并发：一招掌握无阻塞通道读写 https://segmentfault.com/a/1190000017537297
 
