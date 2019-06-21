@@ -1,3 +1,17 @@
+### gocn_news_2017-07-10
+- 1. 我看绩效考核 http://coolshell.cn/articles/17972.html
+
+- 2. Go入门视频教程 https://www.youtube.com/playlist?list=PLSak_q1UXfPp971Hgv7wHCU2gDOb13gBQ
+
+- 3. 从密码到token， 一个授权的故事 http://t.cn/RKAUtzJ
+
+- 4. 聊聊Service Mesh：linkerd http://dockone.io/article/2485
+
+- 5. RESTFul API的生命周期管理 https://dzone.com/refcardz/restful-api-lifecycle-management
+
+- 6. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-09
 - 1. Go handler 接口详解 https://blog.bartfokker.nl/clean-handlers/
 
