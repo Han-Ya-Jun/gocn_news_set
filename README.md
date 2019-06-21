@@ -1,3 +1,15 @@
+### gocn_news_2018-01-18
+- 1. 引入Serverless/FaaS时机到了？国外Hootsuite的Serverless架构实践 https://mp.weixin.qq.com/s/bdbWQ5YsgrNArpI6Wp81pA
+
+- 2. Hadoop跑满状态下的Yarn资源管理谈 https://mp.weixin.qq.com/s/w0ITd9JN0-nomFQZKlzjcA
+
+- 3. 从美图容器优化实践谈Kubernetes网络方案设计https://mp.weixin.qq.com/s/Bwxf575fDHyNtUr6fxOQdQ
+
+- 4. Go的web工作原理 https://juejin.im/post/5a5d5f42518825732e2f4cc1
+
+- 5. go实现西瓜视频花椒直播等平台智能答题 http://www.chairis.cn/blog/article/71
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-17
 - 1. Go通道缓冲 https://www.rapidloop.com/blog/golang-channels-tips-tricks.html
 
