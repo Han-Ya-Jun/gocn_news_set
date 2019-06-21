@@ -1,3 +1,15 @@
+### gocn_news_2018-02-10
+- 1. Go 1.10 Release Party https://github.com/golang/go/wiki/Go-1.10-Release-Party
+
+- 2. node开发者学习Go https://nemethgergely.com/learning-go-as-a-nodejs-developer/
+
+- 3. golang80行代码钉钉群机器人订阅百度新闻 https://segmentfault.com/a/1190000013241676
+
+- 4. 如何实现一个 go packages 的开源镜像站？https://hacpai.com/article/1518099877343
+
+- 5. Go 内嵌静态文件工具 packr https://gocn.io/article/612
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-09
 - 1. 让你的Go程序运行更快 https://golangnews.com/stories/3168-video-make-your-go-go-faster
 
