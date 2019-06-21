@@ -1,3 +1,15 @@
+### gocn_news_2018-10-11
+- 1. Go 高性能分词 Gse v0.20.0 发布, 优化性能 https://www.oschina.net/news/100689/gse-0-20-0-released
+
+- 2. 技术详解 | 系列一：Go语言实现Pow共识算法 http://www.huoxing24.com/newsdetail/20180929163839175223.html
+
+- 3. 使goroutine同步的方法总结 https://yq.aliyun.com/articles/649314
+
+- 4. 中国东信基于Kubernetes的容器云PaaS平台 https://mp.weixin.qq.com/s/fSOZTEIQh9c1AO8Es3LYUA
+
+- 5. 如何Docker化端到端验收测试？ https://mp.weixin.qq.com/s/mlUM6nSyRZCvPrlN9-41Lg
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-10
 - 1. Golang 官方的代码生成式依赖注入库 https://blog.golang.org/wire
 
