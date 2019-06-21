@@ -1,3 +1,15 @@
+### gocn_news_2018-05-25
+- 1. 使用CQRS模式创建Golang微服务 https://outcrawl.com/go-microservices-cqrs-docker/
+
+- 2. 使用go-swagger为golang API自动生成swagger文档 https://juejin.im/post/5b05138cf265da0ba7701a37
+
+- 3. Nginx动态路由的新姿势：使用Go取代lua https://mp.weixin.qq.com/s/q03tiPdMxU6t-p6KlitANw
+
+- 4. 基于Go的CMS系统 https://github.com/ketchuphq/ketchup
+
+- 5. GoRoutines并发实现 https://itnext.io/achieving-concurrency-in-go-golang-using-goroutines-b175430af7d8
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-24
 - 1. Goroutine调度器(一)：P、M、G关系 http://johng.cn/goroutine1-pmg/
 
