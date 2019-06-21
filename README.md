@@ -1,3 +1,15 @@
+### gocn_news_2018-07-28
+- 1. Go的工作窃取调度 https://rakyll.org/scheduler/
+
+- 2. 关于dep和vgo的回应 https://peter.bourgon.org/blog/2018/07/27/a-response-about-dep-and-vgo.html
+
+- 3. Golang安全检查程序 https://github.com/securego/gosec
+
+- 4. 我是怎么一步步用go找出压测性能瓶颈 https://cloud.tencent.com/developer/article/1160803
+
+- 5. 微服务简介 https://segmentfault.com/a/1190000015798054
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-27
 - 1. 使用Go WebAssembly将结构体直接与JS引用绑定 https://medium.zenika.com/go-webassembly-binding-structures-to-js-references-4eddd6fd4d23
 
