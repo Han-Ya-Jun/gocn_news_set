@@ -1,3 +1,19 @@
+### gocn_news_2017-06-18
+- 1. 深圳meetup 演讲稿 https://github.com/gopherchina/meetup/tree/master/ShenZhen/20170617
+
+- 2. 高负载微服务系统的诞生过程 http://www.infoq.com/cn/articles/birth-process-of-high-load-micro-service-system
+
+- 3. Go垃圾回收 https://www.youtube.com/watch?v=q1h2g84EX1M&t=15s
+
+- 4. Go1.9都有哪些新特性 http://www.infoworld.com/article/3201037/application-development/whats-new-in-googles-go-19-language.html
+
+- 5. Go设计模式 http://tmrts.com/go-patterns/
+
+- 6. 上海Gopher meetup 报名地址：http://www.bagevent.com/event/569317
+
+- 7. 北京Gopher meetup 报名地址：http://www.bagevent.com/event/569069
+
+- - - 
 ### gocn_news_2017-06-17
 - 1. Google工程师告诉你如何提高数据结构和算法能力 https://mp.weixin.qq.com/s/kSoDh_QG6TxhO4TjA-Z-wQ
 
