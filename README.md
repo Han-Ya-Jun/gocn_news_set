@@ -1,3 +1,15 @@
+### gocn_news_2017-10-14
+- 1. Go语言三驾马车 https://cloud.tencent.com/community/article/649192
+
+- 2. 反射的原理与使用详解 http://www.cnblogs.com/susufufu/p/7653579.html
+
+- 3. 从零构建一个神经网络 http://www.datadan.io/building-a-neural-net-from-scratch-in-go/
+
+- 4. glot图标库应用入门 https://medium.com/@Arafat./introducing-glot-the-plotting-library-for-golang-3133399948a1
+
+- 5. Go如何不适用CGO调用rust https://speakerdeck.com/filosottile/calling-rust-from-go-without-cgo-at-gothamgo-2017
+
+- - - - - 
 ### gocn_news_2017-10-13
 - 1. Go 实现 web 页面再响应 https://salzmann.to/2017/10/13/responsive-golang-webapp-without-javascript.html
 
