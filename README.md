@@ -1,3 +1,5 @@
+### gocn_news_2019-02-07
+- - - - - - - - - - - - - - - 
 ### gocn_news_2019-02-06
 - 1. 在2019年 Golang要做的几件事情 https://thenewstack.io/whats-coming-to-golang-in-2019-modules-generics-better-error-handling/
 
