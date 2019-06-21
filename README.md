@@ -1,3 +1,15 @@
+### gocn_news_2018-03-19
+- 1. Go的2017回顾和2018展望 https://mp.weixin.qq.com/s/4h84ffEgPMsee3AFMmyRAw
+
+- 2. GopherChina大会嘉宾专访--hyper CTO 王旭 https://mp.weixin.qq.com/s/n_ayU2z53h6I7cRSrFGPyA
+
+- 3. GopherChina大会嘉宾专访--NEO区块链架构师 丛宏雷 https://mp.weixin.qq.com/s/BO0eIz99pBzli5ygY082XA
+
+- 4. GopherChina 国外讲师William带来Go高级培训  https://mp.weixin.qq.com/s/e7pH2YtjUg7-oBdLR9tDLA
+
+- 5. Go Wednesday活动提案 https://gocn.io/question/1677
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-18
 - 1. 有赞权限系统 http://mp.weixin.qq.com/s/a57V7RZeiGmpfPE-6inkXw
 
