@@ -1,3 +1,19 @@
+### gocn_news_2017-07-17
+- 1. Idiomatic Go https://about.sourcegraph.com/go/idiomatic-go
+
+- 2. 如何给 Go 项目做贡献https://docs.google.com/presen ... Did.p
+
+- 3. 高可用和高性能 https://abdullin.com/sku-vault/2017-07-15-high-availability-and-performance/
+
+- 4. Go高级测试方式 https://about.sourcegraph.com/go/advanced-testing-in-go-mitchell-hashimoto
+
+- 5. 
+基于事件的微服务架构 https://mp.weixin.qq.com/s/HTeQNU-1P-hWloEdjl1QYg
+
+
+- 6. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-16
 - 1. Go结构体json的时间格式化解决方案 https://gocn.io/article/388
 
