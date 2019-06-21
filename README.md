@@ -1,3 +1,15 @@
+### gocn_news_2017-09-08
+- 1. 如何测试HTTP(S) 服务 https://blog.dnsimple.com/2017/08/how-to-test-golang-https-services/
+
+- 2. Go流量控制 https://medium.com/@KevinHoffman/rate-limiting-service-calls-in-go-3771c6b7c146
+
+- 3. GRPC从入门到产品 https://www.youtube.com/watch?v=7FZ6ZyzGex0
+
+- 4. redis如何分布式 http://mp.weixin.qq.com/s/3iN8ZozP6lhPnz_KAmgc-w
+
+- 5. 微服务的4个设计原则和19个解决方案 https://mp.weixin.qq.com/s?__biz=MzI5MDEzMzg5Nw==&mid=2660395901&idx=1&sn=3a2bdcd8a4034c1cbc6d320a8bac773e
+
+- - - - - 
 ### gocn_news_2017-09-07
 - 1. 微服务聚合代码生成器 https://github.com/grofers/go-codon
 
