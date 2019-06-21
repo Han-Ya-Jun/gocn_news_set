@@ -1,3 +1,15 @@
+### gocn_news_2018-08-14
+- 1. 提高 Go 程序的可观察性： https://medium.com/zendesk-engineering/how-we-improved-the-observability-of-a-go-project-11211ba46e72
+
+- 2. 写给 OOP 语言开发者的 Go 学习经验：https://medium.com/pulkit-kumar/design-in-golang-for-oop-languages-developers-630bd746ad85
+
+- 3. 蚂蚁金服开源Go语言版Service Mesh数据平面SOFAMosn性能报告： https://mp.weixin.qq.com/s/EMK6ZVmDcBQHcVilBPaSeg
+
+- 4. 分布式系统的健康检查与服务的优雅降级 https://medium.com/@copyconstruct/health-checks-in-distributed-systems-aa8a0e8c1672
+
+- 5. 持续集成（CI）入门： https://medium.com/@gwright_60924/continuous-integration-ci-e81032bb8502
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-13
 - 1. 使用 Go 进行人脸识别 https://hackernoon.com/face-recognition-with-go-676a555b8a7e 
 
