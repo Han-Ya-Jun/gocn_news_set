@@ -1,3 +1,19 @@
+### gocn_news_2017-07-05
+- 1. 搭建Go runtime metrics 环境 http://tonybai.com/2017/07/04/setup-go-runtime-metrics-for-yourself/
+
+- 2. Go里面如何免费用https https://blog.kowalczyk.info/article/Jl3G/https-for-free-in-go.html
+
+- 3. 详解微服务实践 从架构到部署 http://www.toutiao.com/i6436359163621671426/
+
+- 4. Go 1.9新特性：profiler labels https://rakyll.org/profiler-labels/
+
+- 5. HttpDns 原理是什么 http://www.linkedkeeper.com/detail/blog.action?bid=171
+
+- 6. 【北京】奇虎360 运维工程师 https://gocn.io/question/902
+
+- 7. 【北京】奇虎360 开发工程师 https://gocn.io/question/903
+
+- - - 
 ### gocn_news_2017-07-04
 - 1. Go1.9 sync.map使用及内部实现 https://zhuanlan.zhihu.com/p/27642824
 
