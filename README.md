@@ -1,3 +1,20 @@
+### gocn_news_2017-11-17
+- 1. GoCN每日新闻(2017-11-17)
+
+- 2. 1.Go 1.10 先睹为快https://tip.golang.org/doc/go1.10
+
+- 3. 2.使用Go和C++实现日均一亿五千万张的图片的处理 https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d
+
+- 4. 3.2017年排名前六的Go Web框架https://dev.to/speedwheel/top- ... 7-34i
+
+- 5. 4.DevOps发展趋势https://techbeacon.com/7-devops-trends-watch-2017
+
+- 6. 5.Go Profiler内部构造 https://stackimpact.com/blog/go-profiler-internals/
+
+- 7. 编辑：Razil
+订阅新闻：http://tinyletter.com/gocn
+
+- - - 
 ### gocn_news_2017-11-16
 - 1. 1.谷歌发布移动端深度学习框架TensorFlow Lite
 https://www.leiphone.com/news/201711/suQv6jGR9zzFHXve.html
