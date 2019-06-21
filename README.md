@@ -1,3 +1,15 @@
+### gocn_news_2018-09-07
+- 1. Go1.11 Modules快速迁移攻略 https://blog.liquidbytes.net/2018/09/quick-and-easy-guide-for-migrating-to-go-1-11-modules/
+
+- 2. 用Go开发商城系统 https://snipcart.com/blog/golang-ecommerce-ponzu-cms-demo
+
+- 3. openshift源码简析之pod网络配置 https://www.kubernetes.org.cn/4536.html
+
+- 4. compandauth:轻量级分布式session模块 https://github.com/endiangroup/compandauth
+
+- 5. migrate:数据库迁移库与命令行工具 https://github.com/golang-migrate/migrate
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-06
 - 1. Go2泛型草案的注释 http://jmoiron.net/blog/notes-on-the-go2-generics-draft/
 
