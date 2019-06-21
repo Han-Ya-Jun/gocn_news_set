@@ -1,3 +1,23 @@
+### gocn_news_2017-11-16
+- 1. 1.谷歌发布移动端深度学习框架TensorFlow Lite
+https://www.leiphone.com/news/201711/suQv6jGR9zzFHXve.html
+
+- 2. 2.编写高性能Go应用程序
+http://talks.godoc.org/github.com/davecheney/qconsf-2017/high-performance-go.slide
+
+- 3. 3.从源代码构建Caddy服务器
+https://www.calhoun.io/building-caddy-server-from-source/
+
+- 4. 4.TensorFlow 做文本情感分析
+https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow
+
+- 5. 5.Golang 机器学习库
+https://github.com/KeKe-Li/golearn/blob/master/doc/zh_CN/Home.md
+
+- 6. 编辑：李森森
+订阅新闻：http://tinyletter.com/gocn
+
+- - - - 
 ### gocn_news_2017-11-15
 - 1. 非常实用的HTTP请求库 https://github.com/imroc/req
 
