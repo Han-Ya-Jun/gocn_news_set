@@ -1,3 +1,15 @@
+### gocn_news_2019-05-16
+- 1. 高可用分布式存储etcd的实现原理 https://draveness.me/etcd-introduction
+
+- 2. Go中的HTTP请求处理概述 https://www.alexedwards.net/blog/a-recap-of-request-handling
+
+- 3. Go和TensorFlow实现的个人照片管理工具 https://dev.to/lastzero/photoprism-personal-photo-management-powered-by-go-tensorflow-vuetify-3pl4
+
+- 4. Go中类型断言的错误处理 https://golang.works-hub.com/learn/rest-api-error-handling-in-go-behavioural-type-assertion-b13f8
+
+- 5. 深入理解mysql-innodb_ruby工具 https://juejin.im/post/5cd3cbfb518825358f3e5914
+
+- - - - - - - - - - 
 ### gocn_news_2019-05-15
 - 1. ConnectLoop模型 https://alex.dzyoba.com/blog/go-connect-loop/
 
