@@ -1,3 +1,15 @@
+### gocn_news_2018-06-15
+- 1. 代码级别的Go程序监控 https://stackimpact.com/blog/code-level-golang-monitoring/
+
+- 2. GraphQL的微服务开发实践 https://outcrawl.com/go-graphql-gateway-microservices/
+
+- 3. Kubernetes-基于RBAC的授权讲解 https://www.kubernetes.org.cn/4062.html
+
+- 4. Kubernetes scheduler V2草案 https://www.kubernetes.org.cn/4146.html
+
+- 5. termtables:ASCII表格生成库 https://github.com/apcera/termtables
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-14
 - 1. Go中的接口 https://dev.to/chuck_ha/interfaces-in-go-3onc
 
