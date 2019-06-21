@@ -1,3 +1,15 @@
+### gocn_news_2018-06-01
+- 1. consul集群搭建与Golang服务发现示例 http://lihaoquan.me/2018/5/31/consul-in-action.html
+
+- 2. Go结构体的标注函数 https://medium.com/dm03514-tech-blog/go-struct-callout-functions-a1548b39fd8b
+
+- 3. NDP协议介绍与Go语言下应用 https://medium.com/@mdlayher/network-protocol-breakdown-ndp-and-go-3dc2900b1c20
+
+- 4. kunbernetes-快速入门 https://www.kubernetes.org.cn/4050.html
+
+- 5. NodeJs之父发布下一代基于Go和Typescript的Node-Deno https://github.com/ry/deno
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-31
 - 1. 在Go中使用OAuth2验证 https://www.youtube.com/watch?v=OdyXIi6DGYw&feature=youtu.be
 
