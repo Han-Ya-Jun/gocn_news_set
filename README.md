@@ -1,3 +1,15 @@
+### gocn_news_2018-06-21
+- 1. Golang中的并发 http://xargin.com/concurrency-in-go-notes/
+
+- 2. CronJob原理和源码分析 https://mp.weixin.qq.com/s/H-0qaZCq1erEDrZhjeVJuQ
+
+- 3. 盘点Kubernetes网络问题的4种解决方案  https://mp.weixin.qq.com/s/IXhVKFIQ314n-RmzGiph9w
+
+- 4. Netflix的容器管理平台Titus开源了 https://mp.weixin.qq.com/s/5jxeuh7pwtAGBYwlTo-nSQ
+
+- 5. 响应式微服务架构-分布式系统设计原则 https://mp.weixin.qq.com/s/Bftf_DXy1ZHqNugGql1u-A
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-20
 - 1. 你应该知道Go语言的几个优势 https://juejin.im/post/5b28c0c2e51d4558a57fcf34
 
