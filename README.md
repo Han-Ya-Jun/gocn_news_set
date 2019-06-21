@@ -1,3 +1,15 @@
+### gocn_news_2017-12-24
+- 1. 服务端I/O性能大比拼:Node、PHP、Java、Go www.iteye.com/news/32826
+
+- 2. 美团DDD业务实践 https://mp.weixin.qq.com/s/jMWuMuIvI1cFThC-WQGbHQ
+
+- 3. Google开发者大会回顾 http://summary.gdd.zbong.cn/universe
+
+- 4. fireworq:高性能跨语言任务队列系统 https://github.com/fireworq/fireworq
+
+- 5. Golang配置管理TOML http://www.cnblogs.com/CraryPrimitiveMan/p/7928647.html
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-23
 - 1. Mendelics公司用gopdf库替换python生成公司报表  https://blog.gopheracademy.com/advent-2017/building-medical-reports-in-go/
 
