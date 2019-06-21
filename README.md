@@ -1,3 +1,15 @@
+### gocn_news_2017-12-29
+- 1. 使用Go的实现工作队列 https://geeks.uniplaces.com/building-a-worker-pool-in-golang-1e6c0fdfd78c
+
+- 2. Reddit.com网站架构演变 https://www.infoq.com/presentations/reddit-architecture-evolution
+
+- 3. 一款Go语言开发的验证码生成利器 https://github.com/mojocn/base64Captcha
+
+- 4. 用Go语言实现数学公式计算 http://bionics.it/posts/equation-centric-dataflow-programming-in-go
+
+- 5. 深度学习算法学习指南 https://github.com/KeKe-Li/tutorial
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-28
 - 1. GoCN每日新闻(2017-12-28)
 
