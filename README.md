@@ -1,3 +1,15 @@
+### gocn_news_2019-04-10
+- 1. 用一句话描述Go语言的命令 https://juejin.im/post/5cab0e885188250b251e5152
+
+- 2. 编写一个多态引擎 https://medium.com/syscall59/writing-a-polymorphic-engine-73ec56a2353e
+
+- 3. Go编写的现代文本索引库 https://github.com/blevesearch/bleve
+
+- 4. 缓存慢数据库查询 https://medium.com/@rocketlaunchr.cloud/caching-slow-database-queries-1085d308a0c9
+
+- 5. 理解Go语言defer关键字的原理 https://draveness.me/golang-defer
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-09
 - 1. 使用 Ginkgo 写单元测试：https://medium.com/boldly-going/unit-testing-in-go-with-ginkgo-part-1-ce6ff06eb17f
 
