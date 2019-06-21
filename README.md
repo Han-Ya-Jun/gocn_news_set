@@ -1,3 +1,15 @@
+### gocn_news_2018-02-16
+- 1. Kubernetes 服务部署工具 https://github.com/bdimcheff/rainbow-deploys
+
+- 2. API版本控制实践 https://medium.com/@sjk/maintaining-api-versions-in-go-24bb4409a8a6
+
+- 3. 微服务架构技术栈选型手册 http://www.infoq.com/cn/articles/micro-service-technology-stack
+
+- 4. 在AWS平台使用Drone实战持续集成 https://blog.codecentric.de/en/2018/02/continuous-integration-drone-aws/
+
+- 5. Go现在接受来自GitHub pull请求的修补程序 https://github.com/golang/go/issues/18517#issuecomment-365099814
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-15
 - 1. 快速序列化组件MessagePack介绍 https://mp.weixin.qq.com/s/1dJmb4EMmelUI79lvx_MFg
 
