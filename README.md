@@ -1,3 +1,15 @@
+### gocn_news_2019-06-04
+- 1. Go module机制下升级major版本号的实践：https://tonybai.com/2019/06/03/the-practice-of-upgrading-major-version-under-go-module/
+
+- 2. Go 代码可视化：https://divan.dev/posts/visual_programming_go/
+
+- 3. Go 错误处理：http://blogs.remotepanda.com/error-handling-in-golang/ 
+
+- 4. 边缘计算能给银行带来什么改变？：https://www.raconteur.net/finance/edge-computing-banking 
+
+- 5. MongoDB 十分钟入门教程：https://medium.com/free-code-camp/learn-mongodb-a4ce205e7739 
+
+- - - - - - - - - - 
 ### gocn_news_2019-06-03
 - 1. TDD 基础：红绿重构模式 https://medium.com/@syukri.mullia/basic-tdd-red-green-refactor-pattern-4046381b95a6
 
