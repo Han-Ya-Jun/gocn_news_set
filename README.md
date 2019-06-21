@@ -1,3 +1,19 @@
+### gocn_news_2017-07-28
+- 1. 你不该用的六个Go小技巧 https://medium.com/@Raedwulf/6-go-tips-you-should-probably-not-use-b252dfd0a3c4
+
+- 2. 基于interface生成mock测试 https://github.com/gojuno/minimock
+
+- 3. 应用的高可用安全 https://blog.jessfraz.com/post/a-rant-on-usable-security/
+
+- 4. 研发组织该如何设计绩效体系？https://mp.weixin.qq.com/s/VvZWroN1Z34k1H2IEJsYeA
+
+- 5. 
+Go里面的科学计算库 http://talks.godoc.org/github.com/gonum/talks/2017/gonumtour.slide#1
+
+
+- 6. [8月5日]杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-27
 - 1. Go 的依赖注入设计 http://adnaan.badr.in/blog/2017/07/15/exploring-dependency-injection-in-go/
 
