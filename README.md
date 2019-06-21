@@ -1,3 +1,15 @@
+### gocn_news_2019-03-19
+- 1. Go 语言 for 和 range 的实现 https://draveness.me/golang-for-range
+
+- 2. 浅谈 Go 标准库对 JSON 的处理效率 https://jingwei.link/2019/03/16/golang-json-performance.html 
+
+- 3. 输出程序的 Go Module 版本信息到 Prometheus https://povilasv.me/exposing-go-modules-to-prometheus/
+
+- 4. 在 Golang 的 HTTP 请求中共享数据 https://huoding.com/2019/02/08/718
+
+- 5. 不要提交没有格式化的 Go 代码 https://medium.com/@corylanou/dont-commit-improperly-formatted-go-golang-code-5cea011d589d
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-18
 - 1. 从nginx热更新聊一聊Golang中的服务器热更新 https://zhuanlan.zhihu.com/p/59193526
 
