@@ -1,3 +1,15 @@
+### gocn_news_2018-02-21
+- 1. Kubernetes节点扩容规模至2500的历程 https://mp.weixin.qq.com/s/37v5TqYIRNg9pje725kewg
+
+- 2. 初识消息队列处理机框架KClient https://mp.weixin.qq.com/s/Er9XGyV6UrLVcid0M9AG-g
+
+- 3. 一张图了解微服务架构核心知识点 https://mp.weixin.qq.com/s/HK9_GfLe1Q215YouTsezvQ
+
+- 4. golang & 版本管理 https://research.swtch.com/vgo-intro
+
+- 5. Golang多级内存池设计与实现 https://liudanking.com/arch/golang-multi-level-memory-pool-design-implementation/
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-20
 - 1. Go 1.10 更新内容 https://medium.com/@thuc/whats-changes-in-golang-1-10-d3022fbade3c
 
