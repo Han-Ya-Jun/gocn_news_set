@@ -1,3 +1,15 @@
+### gocn_news_2019-01-20
+- 1. Task:go运行/构建工具 https://taskfile.org/
+
+- 2. Golang:堆排序  https://blog.bitsrc.io/reading-challenge-heap-sort-in-go-93115239accd
+
+- 3. Golang:面向对象 https://zhuanlan.zhihu.com/p/55255987
+
+- 4. 推荐系统融合排序之LR https://mp.weixin.qq.com/s/8XInV5LbIwo3kS4nvmZDDw
+
+- 5. 谷歌等推出基于机器学习的新型数据库SageDB https://www.infoq.cn/article/KgiSMf2zYYKdvRYSw*FI
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-19
 - 1. Go存储怎么写?深度解析etcd存储设计 https://mp.weixin.qq.com/s/qvqpUtTFI0cFf9LtTH4JfA
 
