@@ -1,3 +1,15 @@
+### gocn_news_2019-05-31
+- 1. 500字内让你搞明白Go的指针 https://medium.com/@hiepnguyen_2315/understand-go-pointers-in-less-than-500-words-db2d4e5ad918
+
+- 2. 理解Go的内存分配:栈和堆 https://www.youtube.com/watch?v=ZMZpH4yT7M0
+
+- 3. channel广播的新玩法 https://science.mroman.ch/gobroadcastchannels.html
+
+- 4. unioffice: office三大件操作库 https://github.com/unidoc/unioffice
+
+- 5. wasmer:最快的WebAssembly运行库 https://medium.com/wasmer/announcing-the-fastest-webassembly-runtime-for-go-wasmer-19832d77c050
+
+- - - - - - - - - - 
 ### gocn_news_2019-05-30
 - 1. Go，Google Functions和Gitlab-ci完美结合 https://dev.to/renatosuero/go-google-functions-and-gitlab-ci-a-perfect-combination-4lao
 
