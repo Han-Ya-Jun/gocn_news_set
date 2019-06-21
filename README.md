@@ -1,3 +1,15 @@
+### gocn_news_2019-03-25
+- 1. 恒温器数据收集 https://medium.com/@stevenyue/an-investigation-of-my-home-thermostat-d52c835e90eb
+
+- 2. 深入理解 Go map：赋值和扩容迁移 https://segmentfault.com/a/1190000018632347
+
+- 3. 【Go】IP地址转换：数字与字符串之间的转换 https://blog.thinkeridea.com/201903/go/ip2long.html
+
+- 4. 关于 Go 应该知晓的事 https://medium.com/@ginnyfahs/staying-in-the-know-with-go-9bf719ccc3d1
+
+- 5. 练习：Unix 系统常用基础工具 Go 实现版本 https://github.com/aporcupine/GoUnix
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-24
 - 1. Go 1.13 规划 https://groups.google.com/forum/#!topic/golang-dev/jln8MwFpATc
 
