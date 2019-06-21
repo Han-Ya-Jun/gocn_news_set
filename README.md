@@ -1,3 +1,15 @@
+### gocn_news_2017-11-08
+- 1. docker 可视化编程 https://github.com/weaveworks/scope
+
+- 2. 百万在线的美拍直播弹幕系统如何实现 https://mp.weixin.qq.com/s/yrcO8yA0Ut2RVhUxG2OSvQ
+
+- 3. 可视化学习Go并发编程 https://mp.weixin.qq.com/s/732C7Xaje_BAW5WvTZ9qPA
+
+- 4. Channel 的行為 https://neighborhood999.github.io/2017/10/31/the-behavior-of-channels/
+
+- 5. 跨机器的channel实现 https://medium.com/@matryer/introducing-vice-go-channels-across-many-machines-bcac1147d7e2
+
+- - - - - 
 ### gocn_news_2017-11-07
 - 1. 深入理解net/http/pprof http://mmcloughlin.com/posts/your-pprof-is-showing
 
