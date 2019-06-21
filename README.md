@@ -1,3 +1,15 @@
+### gocn_news_2017-08-06
+- 1. Javascript程序员转Go指南 https://github.com/pazams/go-for-javascript-developers
+
+- 2. Go 命令行初探 https://halfrost.com/go_command/
+
+- 3. csrf库详解 https://medium.com/@zarkopafilis/gorilla-csrf-explained-843c9957800d
+
+- 4. Go可视化编程库 https://github.com/divan/gotrace
+
+- 5. 微服务架构 http://www.cnblogs.com/imyalost/p/6792724.html
+
+- - - - - 
 ### gocn_news_2017-08-05
 - 1. 再谈谈获取 goroutine id 的方法 http://colobu.com/2017/08/04/talk-about-getting-goroutine-id-again/
 
