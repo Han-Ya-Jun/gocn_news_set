@@ -1,3 +1,15 @@
+### gocn_news_2019-05-08
+- 1. 活动精彩回顾｜GopherChina 2019干货回顾！ https://mp.weixin.qq.com/s/C87kVwPcIGiR4bUlYxdz0A
+
+- 2. 蚂蚁金服开源的机器学习工具 SQLFlow，有何特别之处？ https://mp.weixin.qq.com/s/O1DtzCcAj8Ior9MfRQ6WWg
+
+- 3. Go中的加密流 https://medium.com/blend-engineering/encrypting-streams-in-go-6cff6062a107
+
+- 4. 一个让业务开发效率提高10倍的golang库 https://mp.weixin.qq.com/s/rdzICm4JxpJ5MUrz9brA_w
+
+- 5. Go语言中关于断行规则的一个细节 https://mp.weixin.qq.com/s/H2isNMJ2FezZPtGT67tUNA
+
+- - - - - - - - - - 
 ### gocn_news_2019-05-07
 - 1. Go语言设计的优劣 https://zhuanlan.zhihu.com/p/64823525
 
