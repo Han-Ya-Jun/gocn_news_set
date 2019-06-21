@@ -1,3 +1,15 @@
+### gocn_news_2019-01-16
+- 1. 使用go和tensorflow进行拟合 https://medium.com/@sdeoras/poly-fit-using-tensorflow-and-go-dba53fc7c4e2
+
+- 2. 5个Go开源工具推荐 https://jaxenter.com/golang-open-source-tools-154472.html
+
+- 3. go使用X-Ray分析与调试分布式生产应用程序 https://medium.com/@kaperys/instrumenting-go-using-aws-x-ray-10952aff00cc
+
+- 4. 在kubernetes上运行istio https://medium.com/avitotech/running-istio-on-kubernetes-in-production-part-i-a8bbf7fec18e
+
+- 5. 编译go到webassembly https://www.sitepen.com/blog/compiling-go-to-webassembly/
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-15
 - 1. 阅读挑战：Go中的堆排 https://blog.bitsrc.io/reading-challenge-heap-sort-in-go-93115239accd
 
