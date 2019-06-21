@@ -1,3 +1,15 @@
+### gocn_news_2017-05-02
+- 1. Go程序的套路    http://www.jianshu.com/p/215510810c59
+
+- 2. 用 goquery 解析 HTML  http://liyangliang.me/posts/2016/03/zhihu-go-insight-parsing-html-with-goquery/
+
+- 3. 年度语言 golang 使用感受   https://zhuanlan.zhihu.com/p/24898723
+
+- 4. Go 实现 Ruby https://github.com/goruby/goruby
+
+- 5. GopherJS 的 React 绑定    https://github.com/myitcv/react/wiki
+
+- - - - - 
 ### gocn_news_2017-05-01
 - 1. Go程序如何容器化 https://www.safaribooksonline.com/library/view/how-to-containerize/9781491982310/
 
