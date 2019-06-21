@@ -1,3 +1,16 @@
+### gocn_news_2018-02-19
+- 1. httpproxy:Go代理转发服务库 https://github.com/go-httpproxy/httpproxy
+
+- 2. flagg:基于Go1.10新特性的flag处理库 https://github.com/lukechampine/flagg
+
+- 3. 生产环境中的配置管理 https://lanre.wtf/blog/2018/02/18/managing-production-configuration/
+
+- 4. golang基于redis lua封装的优先级去重队列 https://mp.weixin.qq.com/s/8mm4gfYtOtKZgJG2cgvK8Q
+
+- 5. go-server-timing
+:方便前端跟踪分布式调用时间 https://github.com/mitchellh/go-server-timing
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-18
 - 1. Go程序逆向 http://home.in.tum.de/~engelke/pubs/1709-ma.pdf
 
