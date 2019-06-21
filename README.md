@@ -1,3 +1,15 @@
+### gocn_news_2018-05-29
+- 1. 为什么要学习 Go https://ednsquare.com/publisher/view/Why-should-you-learn-Go-------NPDPbZHQ2R
+
+- 2. Go 嵌入静态资源 http://tech.townsourced.com/post/embedding-static-files-in-go/
+
+- 3. Go 各种数据结构性能测试 https://github.com/kellabyte/go-benchmarks
+
+- 4. golang在自定义的https服务器中启用pprof接口 https://sheepbao.github.io/post/golang_pprof_over_https/
+
+- 5. 【视频】从 Go 到 Clojure  https://www.youtube.com/watch?v=3y7xzH8jB8A
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-28
 - 1. 写给Node工程师的Go教程 https://medium.com/@KeithAlpichi/learning-go-for-nodejs-engineers-part-1-eaeba60212e1
 
