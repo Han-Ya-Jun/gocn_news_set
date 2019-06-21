@@ -1,3 +1,15 @@
+### gocn_news_2018-04-04
+- 1. 如何编写Go中间件 https://mp.weixin.qq.com/s/-nRWwy8SjW1TlqCglL0CAQ
+
+- 2. 对高并发流量控制的一点思考 https://mp.weixin.qq.com/s/gFr0MpOfdl4ENJxHJUCUCA
+
+- 3. Stream：我们为何要从Python转到Go语言？ https://mp.weixin.qq.com/s/sBAJMQT_JkXHgvHoOCc7lg
+
+- 4. JSON查询库 https://github.com/tomnomnom/gron
+
+- 5. Go:回顾与未来展望 https://www.youtube.com/watch?v=ZCB-g2B4Y5A
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-03
 - 1. Go 中的内存泄漏  https://lingchao.xin/post/memory-leaking.html
 
