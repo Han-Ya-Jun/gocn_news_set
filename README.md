@@ -1,3 +1,15 @@
+### gocn_news_2019-02-01
+- 1. Golang单元测试之mock http://helight.info/2019-01-31/1181/
+
+- 2. Golang Reflect 性能 https://colobu.com/2019/01/29/go-reflect-performance
+
+- 3. 学习Golang的HTTP中间件机制 https://huoding.com/2019/01/31/716
+
+- 4. Go语言协同过滤推荐系统 https://github.com/zhenghaoz/gorse
+
+- 5. 变量命名不应该出现变量类型 https://dave.cheney.net/2019/01/29/you-shouldnt-name-your-variables-after-their-types-for-the-same-reason-you-wouldnt-name-your-pets-dog-or-cat
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-31
 - 1. Golang 需要避免踩的 50 个坑（三） http://blueskykong.com/2019/01/29/go-mistakes-3/
 
