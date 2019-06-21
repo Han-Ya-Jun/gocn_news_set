@@ -1,3 +1,15 @@
+### gocn_news_2019-01-22
+- 1. 来，控制一下 goroutine 的并发数量 https://gocn.vip/article/1541
+
+- 2. Go：指针能优化性能吗？ https://segmentfault.com/a/1190000017969820
+
+- 3. 一个高效的配置管理库 https://github.com/lalamove/konfig
+
+- 4. Go 简单表达式执行库 https://github.com/antonmedv/expr
+
+- 5. Dear Go https://vernonkeenan.com/index.php/2019/01/21/dear-go-thank-you-for-teaching-me-php-was-a-waste-of-my-time/
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-21
 - 1. 如何生成和阅读Go的profile文件 https://medium.com/@wanderson.olivs/generating-and-reading-go-golang-profiles-part-1-db33905decee
 
