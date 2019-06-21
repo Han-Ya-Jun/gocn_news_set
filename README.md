@@ -1,3 +1,15 @@
+### gocn_news_2018-12-21
+- 1. 有点不安全却又一亮的 Go unsafe.Pointer https://gocn.vip/article/1077
+
+- 2. LLVM IR and Go https://blog.gopheracademy.com/advent-2018/llvm-ir-and-go/ 
+
+- 3. 数据包在 Istio 网格中的生命周期 https://mp.weixin.qq.com/s/AmuqmEYOwp4Giv-FEwGUbg
+
+- 4. 阿里云MySQL及Redis灵异断连现象：安全组静默丢包解决方法 https://mp.weixin.qq.com/s/eSkyDlmQXJ1MY9ampPTsQw
+
+- 5. 京东到家订单中心 Elasticsearch 演进历程 https://mp.weixin.qq.com/s/TrCJJtvhjB2m29fOOa3Rzg
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-20
 - 1. Go Modules in 2019  https://blog.golang.org/modules2019
 
