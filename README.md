@@ -1,3 +1,15 @@
+### gocn_news_2017-10-20
+- 1. 分布式数据库一致性原理说明 https://my.oschina.net/wangzhonnew/blog/1553841
+
+- 2. 如何使用Docker部署一个Go Web应用程序 https://yq.aliyun.com/articles/225570
+
+- 3. net/http包的使用模式和源码解析 http://www.cnblogs.com/susufufu/p/7698900.html
+
+- 4. Service Mesh：下一代微服务 https://my.oschina.net/shurenyun/blog/1553747
+
+- 5. Go Enums可视化指南 https://blog.learngoprogramming.com/golang-const-type-enums-iota-bc4befd096d3
+
+- - - - - 
 ### gocn_news_2017-10-19
 - 1. 使用Go和TensorFlow构建图片识别API https://outcrawl.com/image-recognition-api-go-tensorflow/
 
