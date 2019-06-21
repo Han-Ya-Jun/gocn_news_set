@@ -1,3 +1,15 @@
+### gocn_news_2017-12-11
+- 1. 基于属性的程序测试 https://blog.gopheracademy.com/advent-2017/property-based-testing/
+
+- 2. Go实现的GraphQL客户端 https://blog.machinebox.io/a-graphql-client-library-for-go-5bffd0455878
+
+- 3. Go语言中面向对象的一些思考 https://katcipis.github.io/blog/object-orientation-go/
+
+- 4. 利用代码生成解决Go没有范型问题 https://www.calhoun.io/using-code-generation-to-survive-without-generics-in-go/
+
+- 5. docker-slim：优化和保护Docker安全的工具 https://github.com/docker-slim/docker-slim
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-10
 - 1. Golang1.10前瞻 https://zhuanlan.zhihu.com/p/31820378
 
