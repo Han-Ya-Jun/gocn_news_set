@@ -1,3 +1,15 @@
+### gocn_news_2019-04-15
+- 1. 图解Go的channel底层原理 https://mp.weixin.qq.com/s/40uxAPdubIk0lU321LmfRg
+
+- 2. Github开源vulcanizer：一个操作ElasticSearch的工具 https://githubengineering.com/vulcanizer-a-library-for-elasticsearch/
+
+- 3. 如何在Go中实现一个Logger https://medium.com/@bnprashanth256/implementing-logger-in-go-golang-176a260b6b08
+
+- 4. dihedral：另一个编译时依赖注入框架 https://github.com/dimes/dihedral
+
+- 5. Cloud Next'19的Go语言作者访谈 https://www.youtube.com/watch?v=3yghHvvZQmA
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-14
 - 1. Raycasting引擎转换为Go https://www.reddit.com/r/golang/comments/bcpeyc/raycasting_engine_converted_to_go/
 
