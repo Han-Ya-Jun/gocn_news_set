@@ -1,3 +1,17 @@
+### gocn_news_2017-07-16
+- 1. Go结构体json的时间格式化解决方案 https://gocn.io/article/388
+
+- 2. Go优化-自己造log轮子 http://blog.cyeam.com/golang/2017/07/14/go-log
+
+- 3. Go泛型大讨论 https://www.reddit.com/r/golang/comments/6nh418/generics_specific_use_cases/
+
+- 4. channels 详解 https://speakerdeck.com/kavya719/understanding-channels
+
+- 5. 分布式系统的注意点 http://go-talks.appspot.com/github.com/mhausenblas/fallacies-of-distributed-gomputing/main.slide#1
+
+- 6. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-15
 - 1. 到底有多少Gopher？https://research.swtch.com/gophercount
 
