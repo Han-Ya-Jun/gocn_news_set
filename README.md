@@ -1,3 +1,23 @@
+### gocn_news_2018-09-11
+- 1. 
+Go 依赖注入： https://medium.com/@rakateja/dependency-injection-in-go-c5ed91552bc6
+
+
+- 2. 
+Redis 字符串内部结构源码分析： https://mp.weixin.qq.com/s/_geV5bkYgQQFuYoYq1JnHg
+
+
+- 3. 
+阿里云容器服务上集成日志服务与 Istio：https://medium.com/@Alibaba_Cloud/integrate-alibaba-cloud-log-service-into-istio-ruuning-on-alibaba-cloud-container-service-for-e8ec6d4a61d 
+
+
+- 4. 
+为什么在 k8s 上运行 Spark： https://medium.com/@rachit1arora/why-run-spark-on-kubernetes-51c0ccb39c9b
+
+
+- 5. 区块链初学者指南：https://daoone.gitbook.io/blockchain-handbook/
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-10
 - 1. Go Webassembly 入门视频教程 https://www.youtube.com/watch?v=Fa4xoq2YQfE
 
