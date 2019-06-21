@@ -1,3 +1,20 @@
+### gocn_news_2017-08-09
+- 1. GOCN每日新闻(2017-08-09)
+
+- 2. 1.函数即服务(FAAS)  https://blog.alexellis.io/introducing-functions-as-a-service
+
+- 3. 2.gRPC 和 HTTP 公用端口  https://medium.com/@drgarcia1986/listen-grpc-and-http-requests-on-the-same-port-263c40cb45ff
+
+- 4. 3.Go 与认知模型，  https://medium.com/production-ready/go-mental-models-and-side-effects-2ee60e638c5b
+
+- 5. 4.Golang官方依赖管理工具: dep  https://my.oschina.net/u/553243/blog/1504715
+
+- 6. 5.合理配置GOMAXPROCS提示一倍以上的性能  https://my.oschina.net/linker/blog/1504199
+
+- 7. 编辑：傅小黑
+订阅新闻：http://tinyletter.com/gocn
+
+- - - 
 ### gocn_news_2017-08-08
 - 1. GOCN每日新闻(2017-08-08)
 
