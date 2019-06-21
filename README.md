@@ -1,3 +1,15 @@
+### gocn_news_2018-05-08
+- 1. 基于 Go 的 NGINX 动态路由： http://relistan.com/dynamic-nginx-router-in-go/
+
+- 2. 微服务的代价： https://thenewstack.io/microservices-pricing-whats-it-all-going-to-cost/
+
+- 3. 微软发布实时 AI 项目： BrainWave： https://blogs.microsoft.com/ai/build-2018-project-brainwave/
+
+- 4. 围绕 k8s 生态的创业公司逐步增多： https://techcrunch.com/2018/05/07/as-kubernetes-grows-a-startup-ecosystem-develops-in-its-wake/
+
+- 5. Go 五分钟教学系列： https://medium.com/go-in-5-minutes
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-06
 - 1. 在Go1.11中调试延迟问题 https://medium.com/observability/debugging-latency-in-go-1-11-9f97a7910d68
 
