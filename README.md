@@ -1,3 +1,15 @@
+### gocn_news_2017-09-04
+- 1. SIDH in Go for quantum-resistant TLS 1.3 https://blog.cloudflare.com/sidh-go/
+
+- 2. 如何测试 HTTPS 服务 https://blog.dnsimple.com/2017/08/how-to-test-golang-https-services/
+
+- 3. 体验 Go 反射 https://medium.com/@houyubing24/model-to-dto-mapper-my-first-experience-with-go-reflect-6cc68ccb4354
+
+- 4. 高效日志处理库  https://sirkon.github.io/ldetool/
+
+- 5. Go AES 加密和 Java 解密  https://stackoverflow.com/questions/37210227/aes-encryption-in-golang-and-decryption-in-java
+
+- - - - - 
 ### gocn_news_2017-09-03
 - 1. RESTFul转GRPC https://improbable.io/games/blog/grpc-web-moving-past-restjson-towards-type-safe-web-apis
 
