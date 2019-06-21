@@ -1,3 +1,15 @@
+### gocn_news_2017-11-20
+- 1. Go 中任务队列的简单实现 https://www.opsdash.com/blog/job-queues-in-go.html
+
+- 2. 如何在 Go 中调用 C  https://dev.to/mattn/call-go-function-from-c-function-1n3
+
+- 3. Go 获得 2017 编程语言收入排行榜 Top 1  https://www.business2community.com/tech-gadgets/15-highest-paying-programming-languages-2017-01957668#e3gPJtRzrCVStSXm.97
+
+- 4. 给你的代码添加注释 https://npf.io/2017/11/comments
+
+- 5. 纯 Go 编写的富文本编辑器 https://github.com/as/a
+
+- - - - - - - - - - 
 ### gocn_news_2017-11-19
 - 1. GoCN每日新闻(2017-11-19)
 
