@@ -1,4 +1,16 @@
 ### gocn_news_2019-06-21
+- 1. 程序员面试宝典 https://github.com/jwasham/coding-interview-university
+
+- 2. 其他语言怎么调用Go函数 https://medium.com/learning-the-go-programming-language/calling-go-functions-from-other-languages-4c7d8bcc69bf
+
+- 3. 一张图改变你学习编码的姿势  https://medium.freecodecamp.com/this-picture-will-change-the-way-you-learn-to-code-557ac1e109bd
+
+- 4. 高性能JSON解析库  https://github.com/tidwall/gjson
+
+- 5. 为什么我从Python切换到Go https://hackernoon.com/5-reasons-why-we-switched-from-python-to-go-4414d5f42690
+
+- - - - - 
+### gocn_news_2019-06-21
 - 1. 微服务 & API 网关 https://www.nginx.com/blog/microservices-api-gateways-part-1-why-an-api-gateway/
 
 - 2. Golang IO包的妙用 http://www.jianshu.com/p/8c33f7c84509
