@@ -1,3 +1,23 @@
+### gocn_news_2017-08-07
+- 1. GOCN每日新闻(2017-08-07)
+
+- 2. 1.杭州 meetup 的slides https://github.com/gopherchina/meetup/tree/master/HangZhou
+
+- 3. 2.Go 现代 GC https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e
+
+- 4. 3.Go 中创建工作线程池 https://geeks.uniplaces.com/building-a-worker-pool-in-golang-1e6c0fdfd78c
+
+- 5. 4.Go 的依赖注入 https://speakerdeck.com/brownylin/dependency-injection-in-go
+
+- 6. 5.使用 Go 可视化本地 Git 项目 https://flaviocopes.com/go-git-contributions/
+
+- 7. 编辑：傅小黑
+
+- 8. 订阅新闻：http://tinyletter.com/gocn
+
+- 9. 杭州go开发者大会有视频链接不？？
+
+- 
 ### gocn_news_2017-08-06
 - 1. Javascript程序员转Go指南 https://github.com/pazams/go-for-javascript-developers
 
