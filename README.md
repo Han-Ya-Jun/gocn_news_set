@@ -1,3 +1,15 @@
+### gocn_news_2017-09-23
+- 1. restful API版本管理最佳实践 https://dev.to/sparkpost/restful-api-versioning-best-practices-why-v1-is-1
+
+- 2. bcc/bpf分析Go函数 http://colobu.com/2017/09/22/golang-bcc-bpf-function-tracing/
+
+- 3. Go 艺术照处理库 https://github.com/esimov/triangle
+
+- 4. Go里面init函数详解 https://medium.com/golangspec/init-functions-in-go-eac191b3860a
+
+- 5. 360内部监控系统"Wonder实践之路" https://mp.weixin.qq.com/s/hAP053HN1RERgHqC1sgkhw
+
+- - - - - 
 ### gocn_news_2017-09-22
 - 1. Go语言如何在没有实现功能的情况下写出完善的单元测试代码 http://www.jianshu.com/p/c23a397409ac
 
