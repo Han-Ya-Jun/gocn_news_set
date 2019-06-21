@@ -1,3 +1,15 @@
+### gocn_news_2018-03-08
+- 1. 为什么选择TDD开发? https://builttoadapt.io/why-tdd-489fdcdda05e
+
+- 2. 深度学习与机器学习的学习路线 https://github.com/SherlockLiao/Roadmap-of-DL-and-ML
+
+- 3. Go编写的区块链挖掘算法 https://medium.com/@mycoralhealth/code-your-own-blockchain-mining-algorithm-in-go-82c6a71aba1f
+
+- 4. 关于Go性能优化的思考 https://github.com/dgryski/go-perfbook
+
+- 5. 新的神经网络即将到来 https://hackernoon.com/the-new-neural-internet-is-coming-dda85b876adf
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-07
 - 1. 如何入门区块链  https://mp.weixin.qq.com/s/9NrDOOe1EvxHln2BehU9Ww
 
