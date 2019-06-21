@@ -1,3 +1,15 @@
+### gocn_news_2018-09-01
+- 1. 唯品会高吞吐量Access Log存储的Go实现 实现 https://mp.weixin.qq.com/s/KodXl-THn7DGq8ZYmkqBEw
+
+- 2. Go Mutex和Channel介绍 介绍 https://medium.com/@vincentbiasa6767/mutex-and-channel-c596983ad025
+
+- 3. Go单元测试高级教程级教程https://medium.com/%40elliot_f ... 3a813
+
+- 4. 微软开源 Go Modules相关项目athens ns https://open.microsoft.com/2018/08/28/announcing-project-athens-gophersource-go-community/
+
+- 5. 使用Istio实现一个Service Mesh以简化微服务间的通信模式 模式 https://mp.weixin.qq.com/s/5YSRgZtJBDr5LLVpBT7QJw
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-31
 - 1. 5个简单步骤给Golang应用添加GUI https://hackernoon.com/how-to-add-a-gui-to-your-golang-app-in-5-easy-steps-c25c99d4d8e0
 
