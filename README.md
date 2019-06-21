@@ -1,3 +1,15 @@
+### gocn_news_2018-10-31
+- 1. Go 3D源代码分析库  https://github.com/rodrigo-brito/gocity
+
+- 2. 通过子介绍For Range 循环原理 http://blog.cyeam.com/golang/2018/10/30/for-interals
+
+- 3. 如何健壮你的后端服务？https://mp.weixin.qq.com/s/CIVLJKep3qiAlPURjGolUA
+
+- 4. Go语言字符串高效拼接 https://mp.weixin.qq.com/s/kPhDVOew7QNAPP5x1LZisA
+
+- 5. 利用Kubernetes优雅地处理HTTP请求 https://mp.weixin.qq.com/s/uIseZZC9KQpYN6gQAjHnoA
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-30
 - 1. Go Modules 学习范例 https://github.com/go-modules-by-example/index
 
