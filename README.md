@@ -1,3 +1,15 @@
+### gocn_news_2017-10-28
+- 1. 使用Go gRPC 和k8s开始你的微服务之旅 https://outcrawl.com/getting-started-microservices-go-grpc-kubernetes/
+
+- 2. 大规模数据处理的演变 https://mp.weixin.qq.com/s/qVbqgssZllgJWCutMNE49A
+
+- 3. 基于事件的架构和异步API https://dev.to/fmvilas/event-driven-architectures--asyncapi-db7
+
+- 4. 高可用架构之高可用的应用和服务 https://my.oschina.net/weiweiblog/blog/1557177
+
+- 5. 微服务架构基础篇 http://www.cnblogs.com/Leo_wl/p/6260862.html
+
+- - - - - 
 ### gocn_news_2017-10-27
 - 1. Go 实现的进程管理应用(Go Hackathon产物) https://github.com/foreversmart/sir
 
