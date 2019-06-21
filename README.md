@@ -1,3 +1,15 @@
+### gocn_news_2017-08-27
+- 1. Go defer的一些坑 https://deepzz.com/post/how-to-use-defer-in-golang.html
+
+- 2. Go plugin 的bug http://colobu.com/2017/08/26/panic-on-go-plugin-Open-for-different-plugins/
+
+- 3. 如何免费的让网站启用HTTPS https://coolshell.cn/articles/18094.html
+
+- 4. 故障驱动的微服务架构设计 https://mp.weixin.qq.com/s/yr4CIgoloLt3zfjQbHEOpA
+
+- 5. Web开发中说高并发的时候，我们在说什么 https://mp.weixin.qq.com/s/iJamJbPkJ8mgBH_AEVm5sg
+
+- - - - - 
 ### gocn_news_2017-08-26
 - 1. Go开启quic支持 https://mzh.io/go-quic
 
