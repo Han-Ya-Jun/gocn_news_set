@@ -1,3 +1,15 @@
+### gocn_news_2017-12-26
+- 1. Kuberneters 中 Go 的泛型 https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301
+
+- 2. math/rand  全局锁与 goroutine https://www.myhightech.org/2017/12/22/rand-and-goroutines/
+
+- 3. 记一次 latency 问题排查：谈 Go 的公平调度的缺陷 http://www.zenlife.tk/go-scheduler-pitfall.md
+
+- 4. 初学 Go 的几个问题 https://zhuanlan.zhihu.com/p/26005856
+
+- 5. Go 开源图数据库 https://github.com/cayleygraph/cayley
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-25
 - 1. Brigade: 基于事件的K8s脚本引擎 https://github.com/Azure/brigade
 
