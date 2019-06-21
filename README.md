@@ -1,3 +1,15 @@
+### gocn_news_2017-09-18
+- 1. JSON之死 https://www.chrismoos.com/2017/09/15/death-to-json/
+
+- 2. 机械表方式的TCP服务 https://sahilm.com/tcp-servers-that-run-like-clockwork/
+
+- 3. Go写单元测试的五个技巧https://medium.com/%40matryer/ ... 90742
+
+- 4. 六年的Go成功之路 https://www.infoq.com/presentations/go-patterns
+
+- 5. 结构化日志 https://kartar.net/2015/12/structured-logging/
+
+- - - - - 
 ### gocn_news_2017-09-17
 - 1. 五个 Docker 日志最佳实践https://dzone.com/articles/5-d ... tices
 
