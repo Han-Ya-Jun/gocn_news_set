@@ -1,3 +1,15 @@
+### gocn_news_2017-09-07
+- 1. 微服务聚合代码生成器 https://github.com/grofers/go-codon
+
+- 2. LeetCode By Go http://www.jianshu.com/c/8e1c238fc4cb
+
+- 3. 如何把Go调用C的性能提升10倍 https://my.oschina.net/linker/blog/1529928
+
+- 4. Go包管理的前世今生 http://www.infoq.com/cn/articles/history-go-package-management
+
+- 5. Go框架对比 https://github.com/mingrammer/go-web-framework-stars
+
+- - - - - 
 ### gocn_news_2017-09-06
 - 1. 我怎么学习Go语言 https://dev.to/codehakase/how-i-learned-go-programming
 
