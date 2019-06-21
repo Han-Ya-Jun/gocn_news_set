@@ -1,3 +1,15 @@
+### gocn_news_2018-07-27
+- 1. 使用Go WebAssembly将结构体直接与JS引用绑定 https://medium.zenika.com/go-webassembly-binding-structures-to-js-references-4eddd6fd4d23
+
+- 2. dep v0.5.0发布 : 性能提升，增加dep check功能 https://golang.github.io/dep/blog/2018/07/25/announce-v0.5.0.html
+
+- 3. 解读 Kubernetes 新功能: CPU管理器 https://kubernetes.io/blog/2018/07/24/feature-highlight-cpu-manager/
+
+- 4. containerum: 开源k8s集群管理平台 https://github.com/containerum/containerum
+
+- 5. astroflow-go: 一款轻量高效的日志包 https://github.com/astroflow/astroflow-go
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-26
 - 1. Golang中的Error监控 https://dev.to/mostlyjason/error-monitoring-in-golang-51a8
 
