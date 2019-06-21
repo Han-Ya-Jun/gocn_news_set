@@ -1,3 +1,15 @@
+### gocn_news_2018-01-24
+- 1. golang的http cookie用法 http://www.linuxidc.com/Linux/2018-01/150518.htm
+
+- 2. 安装 Go版本Tensorflow https://juejin.im/post/5a4102ae518825128654cee2
+
+- 3. 如何让Gitaly service更快 https://about.gitlab.com/2018/01/23/how-a-fix-in-go-19-sped-up-our-gitaly-service-by-30x
+
+- 4. API与web服务 https://blogs.mulesoft.com/dev/api-dev/apis-versus-web-services/
+
+- 5. 深入了解Go和Python的并发 https://made2591.github.io/posts/go-py-benchmark
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-23
 - 1. Golang :  Hello，中国！https://blog.golang.org/hello-china
 
