@@ -1,3 +1,15 @@
+### gocn_news_2018-03-30
+- 1. 用树莓派和golang写一个比特币硬件钱包  https://www.thepolyglotdeveloper.com/2018/03/create-bitcoin-hardware-wallet-golang-raspberry-pi-zero/
+
+- 2. 分析golang定时器cpu使用率高的现象 http://xiaorui.cc/2018/03/28/%E5%88%86%E6%9E%90golang%E5%AE%9A%E6%97%B6%E5%99%A8cpu%E4%BD%BF%E7%94%A8%E7%8E%87%E9%AB%98%E7%9A%84%E7%8E%B0%E8%B1%A1/
+
+- 3. smartystreets公司go testing测试历史  https://smartystreets.com/blog/2018/03/history-of-go-testing
+
+- 4. go性能优化简介 https://stackimpact.com/docs/go-performance-tuning/
+
+- 5. Go 语法速览与实践清单 https://juejin.im/post/5abca7176fb9a028cd452c5a
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-29
 - 1. 独家首次揭秘苏宁的RPC远程服务调用框架RSF  https://mp.weixin.qq.com/s/qDw6IkUZuM7PmKklucrpLA
 
