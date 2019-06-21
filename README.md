@@ -1,3 +1,15 @@
+### gocn_news_2018-08-23
+- 1. Go中的依赖注入　https://outcrawl.com/go-dependency-injection
+
+- 2. Golang TDD工作流程 https://www.youtube.com/watch?v=i1pI1GrLFyM
+
+- 3. Go中的以太坊智能合约事件 https://blog.joincivil.com/interacting-with-ethereum-smart-contract-events-in-go-with-the-civil-events-crawler-7db484a78d5f
+
+- 4. Go内存管理 https://povilasv.me/go-memory-management/
+
+- 5. 解析术语密码学 http://www.golangprograms.com/cryptography/what-is-cryptography.html
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-22
 - 1. 有关容器的6大误区和8大正确场景 https://mp.weixin.qq.com/s/KsPAdlgyHuxyB2lpBD4Syw
 
