@@ -1,3 +1,19 @@
+### gocn_news_2017-07-06
+- 1. Go程序日志深入浅出 http://www.jianshu.com/p/a855e91c5335
+
+- 2. 从Netflix的Hystrix框架理解服务熔断和服务降级 https://mp.weixin.qq.com/s/FJCrWP1RUcrGKxMM8Bpzww
+
+- 3. IO多路复用的net库(没多少代码，值得学习) https://github.com/tidwall/shiny
+
+- 4. Go框架大对比 http://nordicapis.com/7-frameworks-to-build-a-rest-api-in-go/
+
+- 5. 微服务：误解和误用 https://medium.com/@shijuvar/microservices-overview-misinterpretations-and-misuses-56a1979edafb
+
+- 6. 【北京】逻辑思维 https://gocn.io/question/907
+
+- 7. 【北京】VMware https://gocn.io/question/906
+
+- - - 
 ### gocn_news_2017-07-05
 - 1. 搭建Go runtime metrics 环境 http://tonybai.com/2017/07/04/setup-go-runtime-metrics-for-yourself/
 
