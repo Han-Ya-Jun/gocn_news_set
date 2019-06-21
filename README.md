@@ -1,3 +1,15 @@
+### gocn_news_2019-06-17
+- 1. 又一个 MongoDB Golang 教程 https://blog.eduardohitek.com/posts/ya-mongodb-tutorial 
+
+- 2. Golang RabbitMQ 故障排查一例 https://ms2008.github.io/2019/06/16/golang-rabbitmq
+
+- 3. 造轮子 | golang | 简易 http2 拨测工具 https://www.jianshu.com/p/b61aaeecb895
+
+- 4. Go defer 会有性能损耗，尽量不要用？ https://segmentfault.com/a/1190000019490834
+
+- 5. 轻量级 go 业务框架 sniper https://github.com/bilibili/sniper
+
+- - - - - - - - - - 
 ### gocn_news_2019-06-16
 - 1. Go 代码简洁之道 https://github.com/Pungyeon/clean-go
 
