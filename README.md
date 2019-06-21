@@ -1,3 +1,15 @@
+### gocn_news_2019-03-18
+- 1. 从nginx热更新聊一聊Golang中的服务器热更新 https://zhuanlan.zhihu.com/p/59193526
+
+- 2. Golang接口和面向对象笔记 https://medium.com/@s0958334772/golang-interface-oo-note-14fb1cb76600
+
+- 3. 60秒实现Golang API微服务 https://medium.com/@tjholowaychuk/serverless-golang-apis-in-60-seconds-46e4ac36b680
+
+- 4. Go实现的通用表达式语言 https://github.com/google/cel-go
+
+- 5. 支持动态分配策略的HTTP代理 https://github.com/gojektech/weaver
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-17
 - 1. 通过context deadline实现服务超时 https://engineering.grab.com/context-deadlines-and-how-to-set-them
 
