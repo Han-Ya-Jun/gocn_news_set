@@ -1,3 +1,20 @@
+### gocn_news_2017-08-10
+- 1. GOCN每日新闻(2017-08-10)
+
+- 2. 1.Go 2 有类型的 nil  https://dave.cheney.net/2017/08/09/typed-nils-in-go-2
+
+- 3. 2.在 Go Play Space 画图  https://goplay.space/#draw
+
+- 4. 3.Go 切片的内部实现  https://zhuanlan.zhihu.com/p/28399762
+
+- 5. 4.再会 Go  https://www.churchwood.at/posts/a-farewell-to-go
+
+- 6. 5.Go 项目本地构建工具 Realize  https://github.com/tockins/realize/tree/v1.4.1
+
+- 7. 编辑：傅小黑
+订阅新闻：http://tinyletter.com/gocn
+
+- - - 
 ### gocn_news_2017-08-09
 - 1. GOCN每日新闻(2017-08-09)
 
