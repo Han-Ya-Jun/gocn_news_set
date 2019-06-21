@@ -1,3 +1,13 @@
+### gocn_news_2018-12-28
+- 1. Golang实现的存储文件树 https://github.com/dc0d/fstash
+
+- 2. 使用go运行mysql docker容器进行集成测试 https://itnext.io/mysql-docker-container-for-integration-testing-using-go-f784b70a03b
+
+- 3. Go实现的音频识别库 https://github.com/kisasexypantera94/khalzam
+
+- 4. 将curl命令转换为浏览器中的Go代码 https://github.com/mholt/curl-to-go
+
+- - - - - - - - - - - 
 ### gocn_news_2018-12-27
 - 1. Go构建Docker容器 https://www.callicoder.com/docker-golang-image-container-example/
 
