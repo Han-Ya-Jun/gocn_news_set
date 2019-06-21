@@ -1,3 +1,15 @@
+### gocn_news_2018-04-05
+- 1. go实现的主机入侵检测系统 https://github.com/ysrc/yulong-hids
+
+- 2. Alibaba开源容器技术PouchContainer 发布0.3.0（https://mp.weixin.qq.com/s/kFUqdd1VWaluTed2i30z9w）
+
+- 3. tunnel让您安全地将本地服务器公开到互联网 https://github.com/labstack/tunnel
+
+- 4. gjson库实现快速获取json值 https://github.com/tidwall/gjson
+
+- 5. 用go写Minecraft游戏 https://github.com/icexin/gocraft
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-04
 - 1. 如何编写Go中间件 https://mp.weixin.qq.com/s/-nRWwy8SjW1TlqCglL0CAQ
 
