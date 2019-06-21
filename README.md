@@ -1,3 +1,15 @@
+### gocn_news_2019-01-07
+- 1. 让Raft变快100倍 - Dragonboat的写优化 https://zhuanlan.zhihu.com/p/52620657
+
+- 2. 用Go实现一个JSON解析器 https://hackernoon.com/create-a-go-json-parser-batteries-included-9d02d09fe508
+
+- 3. 综述：微服务化解决的问题和引出的问题 https://jingwei.link/2019/01/06/summary-of-microservices-k8s.html
+
+- 4. Beaver: 一个实时消息服务端 https://github.com/Clivern/Beaver
+
+- 5. GolangExample: Go代码示例 https://golangexample.com/
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-06
 - 1. 如何做好单元测试 https://medium.com/@jens.neuse/want-to-write-good-unit-tests-in-go-dont-panic-or-should-you-ba3eb5bf4f51
 
