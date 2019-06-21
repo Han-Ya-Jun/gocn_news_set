@@ -1,3 +1,15 @@
+### gocn_news_2017-10-06
+- 1. 使用Go+gRPC打造高性能API http://www.agiratech.com/building-high-performance-apis-go-grpc/
+
+- 2. log重负载应用的内存优化 http://agniva.me/go/2017/10/03/improving-log-write.html
+
+- 3. 每个Gopher都应该值得关注的Go interface https://www.writeingo.com/blog/important-go-interfaces/
+
+- 4. 可视化调试Go程序 https://honeycomb.io/blog/2017/08/golang-observability-using-the-new-pprof-web-ui-to-debug-memory-usage/
+
+- 5. 老程序员的感慨 https://mp.weixin.qq.com/s/G4KdOwoKNyTYOW3J3Wk7qA
+
+- - - - - 
 ### gocn_news_2017-10-05
 - 1. 如何使用gonum进行数据统计 https://sbinet.github.io/posts/2017-10-04-intro-to-stats-with-gonum/
 
