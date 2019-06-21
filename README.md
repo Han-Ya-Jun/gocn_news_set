@@ -1,3 +1,15 @@
+### gocn_news_2018-10-10
+- 1. Golang 官方的代码生成式依赖注入库 https://blog.golang.org/wire
+
+- 2. int在go中有多大 https://medium.com/@tbpalsulich/how-big-is-an-int-in-go-f0e715342a32
+
+- 3. 在Golang中操纵Istio和其他自定义Kubernetes资源 https://dwmkerr.com/manipulating-istio-and-other-custom-kubernetes-resources-in-golang/
+
+- 4. Go应用中常用代码的迭代优化 https://medium.com/samsara-engineering/iterative-optimization-on-hot-paths-c89827749c20
+
+- 5. 点击率预估界的“神算子”是如何炼成的？ https://mp.weixin.qq.com/s/5ryEfgQnX-JXCvhwzKSCjA
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-09
 - 1. Go 和 NCS (Intel Movidius Neural Compute Stick) 边缘计算开发教程 http://mlexplore.org/2018/10/07/edge-computing-with-go-and-intel-movidius-neural-compute-stick
 
