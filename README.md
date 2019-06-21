@@ -1,3 +1,15 @@
+### gocn_news_2019-06-03
+- 1. TDD 基础：红绿重构模式 https://medium.com/@syukri.mullia/basic-tdd-red-green-refactor-pattern-4046381b95a6
+
+- 2. 红黑树原理详解及 Golang 实现 https://www.cnblogs.com/ailumiyana/p/10963658.html
+
+- 3. 如何在 Go 中优雅关闭子进程 http://www.songjiayang.com/posts/go-zhong-you-ya-guan-bi-zi-jin-cheng
+
+- 4. 结合自己的经历谈谈怎么更好地学习Go语言 https://juejin.im/post/5cf0cce8e51d45777b1a3d2d
+
+- 5. k8s 环境部署镜像回滚工具 https://github.com/Trendyol/easy-rollback
+
+- - - - - - - - - - 
 ### gocn_news_2019-06-02
 - 1. Go 栈管理 https://medium.com/@blanchon.vincent/go-how-does-the-goroutine-stack-size-evolve-447fc02085e5
 
