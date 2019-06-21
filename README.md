@@ -1,3 +1,15 @@
+### gocn_news_2019-04-20
+- 1. 如何客观评价 Go 语言 https://mp.weixin.qq.com/s/WOvjEQc6Tr3hcZlCu5aLkA
+
+- 2. 依赖注入的美 https://dimes.github.io/blog/the-beauty-of-di
+
+- 3. 使用GoReleaser发送Rust二进制文件 https://medium.com/@jondot/shipping-rust-binaries-with-goreleaser-d5aa42a46be0
+
+- 4. 查找Go项目过时依赖项的简便方法 https://github.com/psampaz/go-mod-outdated
+
+- 5. 高性能可扩展 HTTP 路由 httprouter https://www.flysnow.org/2019/01/07/golang-classic-libs-httprouter.html
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-19
 - 1. Uber M3存储优化实践 https://eng.uber.com/optimizing-m3/
 
