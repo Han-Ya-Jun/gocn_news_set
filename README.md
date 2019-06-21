@@ -1,3 +1,15 @@
+### gocn_news_2018-11-18
+- 1. 关于 Go1.11 module 和语义版本 http://www.zenlife.tk/go-module-semantic-version.md
+
+- 2. 在调试时替代fmt包的lib https://github.com/y0ssar1an/q
+
+- 3. 基于时间的定制分配器 http://www.zenlife.tk/time-based-allocator.md
+
+- 4. CockroachDB实习项目:将一些交错表删除率提高100亿  https://emsal.me/blog/5
+
+- 5. 重构的时机和原因 https://medium.com/@audi17.2/refactoring-when-and-why-b5262ae92fcb
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-17
 - 1. 使用Go+HTML5构建跨平台的现代桌面应用程序 https://github.com/zserge/lorca
 
