@@ -1,3 +1,15 @@
+### gocn_news_2018-03-17
+- 1. Agones:用k8s来构建一个开源的游戏服务器 https://cloudplatform.googleblog.com/2018/03/introducing-Agones-open-source-multiplayer-dedicated-game-server-hosting-built-on-Kubernetes.html
+
+- 2. Go ARM64 Map优化小记 https://mzh.io/golang-aeshash-arm64
+
+- 3. Go nil介绍 http://www.tapirgames.com/blog/golang-nil
+
+- 4. 用LLDB调试Go代码 http://colobu.com/2018/03/12/Debugging-Go-Code-with-LLDB/
+
+- 5. 基于Go和k8s搭建的区块链 https://medium.com/@DazWilkin/coral-health-blockchain-in-go-on-k8s-c7700e1670b7
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-16
 - 1. 用 Go 写一个轻量级的 ldap 测试工具 https://xiaozhuanlan.com/topic/6140389527
 
