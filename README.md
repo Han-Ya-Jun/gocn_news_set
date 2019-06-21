@@ -1,3 +1,15 @@
+### gocn_news_2018-07-30
+- 1. [译]用 Go 语言写一个简单的shell https://mp.weixin.qq.com/s/9pGt1kvoCZhXk9gUxdOhzQ
+
+- 2. 用 Go 实现 OR,AND 组合信号 https://medium.com/@hau12a1/golang-combining-signals-by-or-and-fa2c68569709
+
+- 3. 如何快速使用 Docker 运行一个可以热更新的 GO API https://medium.com/@zach_johnson/running-a-go-api-with-hot-reloading-and-docker-17de21b646d6
+
+- 4. 用 Go 编写的 WebAssembly 二进制文件解析器 https://github.com/akupila/go-wasm
+
+- 5. justforfunc 直播: 开始用 Go  使用 Tensorflow https://www.youtube.com/watch?v=skJitN1vZG0
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-29
 - 1. [译]Go HttpServer 最佳实践 http://colobu.com/2018/07/25/exposing-go-on-the-internet/
 
