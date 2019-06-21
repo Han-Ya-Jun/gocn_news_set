@@ -1,3 +1,15 @@
+### gocn_news_2017-10-13
+- 1. Go 实现 web 页面再响应 https://salzmann.to/2017/10/13/responsive-golang-webapp-without-javascript.html
+
+- 2. Goroutine 审查工具 https://github.com/linuxerwang/goroutine-inspect
+
+- 3. 为什么要学习 Go https://www.codementor.io/kevalpatel2106/why-should-you-learn-go-csiq30zfg
+
+- 4. QQ空间已在生产环境中使用QUIC协议 http://www.infoq.com/cn/news/2017/10/qzone-quic-practise
+
+- 5. CockroachDB 1.1 发布 https://www.cockroachlabs.com/blog/cockroachdb-1dot1/
+
+- - - - - 
 ### gocn_news_2017-10-12
 - 1. 使用 Go Channels 创建爬虫  https://jorin.me/use-go-channels-to-build-a-crawler
 
