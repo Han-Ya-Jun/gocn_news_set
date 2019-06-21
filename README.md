@@ -1,3 +1,16 @@
+### gocn_news_2018-10-28
+- 1. Go Web框架特性比较 http://www.cnblogs.com/joyswings/p/9864521.html
+
+- 2. TLS连接图解 https://tls.ulfheim.net
+
+- 3. 一种Golang实现的分布式KV存储 https://github.com/namreg/godown
+
+- 4. Golang实现basic编译器 https://github.com/skx/gobasic
+
+- 5. 由散列表到BitMap的概念与应用（一）
+http://blueskykong.com/2018/10/24/hash-bitmap/
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-27
 - 1. 用Go和Vue写单页面应用 https://developer.okta.com/blog/2018/10/23/build-a-single-page-app-with-go-and-vue
 
