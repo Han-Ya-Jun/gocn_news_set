@@ -1,3 +1,15 @@
+### gocn_news_2018-05-12
+- 1. 使用JWT保护API接口访问  https://scene-si.org/2018/05/08/protecting-api-access-with-jwt/
+
+- 2. 一种疯狂的Go单元测方法 https://medium.com/@andy.goldstein/a-crazy-approach-to-unit-testing-in-go-3b7160bf9199
+
+- 3. GraphQL go使用 https://www.thepolyglotdeveloper.com/2018/05/getting-started-graphql-golang/
+
+- 4. 深入分析Kubernetes Scheduler的优先级队列 https://my.oschina.net/jxcdwangtao/blog/1811164
+
+- 5. Github Go语言项目stars数排行榜 https://github.com/kaxap/arl/blob/master/README-Go.md
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-11
 - 1. Go 内存逃逸详细分析 https://www.do1618.com/archives/1328/go-%E5%86%85%E5%AD%98%E9%80%83%E9%80%B8%E8%AF%A6%E7%BB%86%E5%88%86%E6%9E%90/
 
