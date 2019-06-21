@@ -1,3 +1,15 @@
+### gocn_news_2017-10-05
+- 1. 如何使用gonum进行数据统计 https://sbinet.github.io/posts/2017-10-04-intro-to-stats-with-gonum/
+
+- 2. 深入理解channel笔记 https://blog.lab99.org/post/golang-2017-10-04-video-understanding-channels.html
+
+- 3. 使用Go写出优雅的代码 https://scene-si.org/2017/10/04/elegant-code-and-go/
+
+- 4. Java开发者的Go指南 https://dzone.com/articles/making-the-jump-to-go-a-guide-for-java-developers
+
+- 5. Go 1.8.4 和Go 1.9.1 发布 https://groups.google.com/forum/m/#!topic/golang-nuts/sHfMg4gZNps
+
+- - - - - 
 ### gocn_news_2017-10-04
 - 1. Google开源的Go实现的配置语言 https://github.com/google/skylark
 
