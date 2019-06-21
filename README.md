@@ -1,3 +1,15 @@
+### gocn_news_2018-04-26
+- 1. Logtail 从入门到精通：开启日志采集之旅 https://mp.weixin.qq.com/s/1rJrfuwzntdf9Vf6AOIhaA
+
+- 2. 唯品会 深度学习在移动端的实践和自动化测试的应用 https://mp.weixin.qq.com/s/UiwPpms8AmePcFDzKMj2jg
+
+- 3. 逐层揭秘：区块链的运作原理、存在问题以及前景 https://www.toutiao.com/a6535736571839119876
+
+- 4. 解密支付公司的迁移技术方案 https://mp.weixin.qq.com/s/KM69Xs7jZe8XiBTUD4_PrQ
+
+- 5. go sync.Map源码分析 https://juejin.im/post/5ae01447f265da0ba062d2e8
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-25
 - 1. 【漏洞分析】Go语言任意代码执行漏洞 CVE-2018-6574
 http://blog.nsfocus.net/cve-2018-6574/
