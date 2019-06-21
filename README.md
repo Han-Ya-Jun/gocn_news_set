@@ -2,7 +2,7 @@
 在之前爬虫Go中国技术社区每日新闻的的[小工具](https://github.com/Han-Ya-Jun/news_watch_notice)加了一个功能，自动归档到github上，方便查阅，每天自动更新。
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
-## gocn_news_2019
+## gocn_news_set_2019
 ### gocn_news_2019-06-21
 - 1. Kubernetes1.15发布：可扩展性与持续性改进 https://mp.weixin.qq.com/s/Qb8AcKE0NHnWlYo905M-SA
 
