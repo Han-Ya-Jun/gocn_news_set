@@ -1,3 +1,17 @@
+### gocn_news_2017-07-02
+- 1. Go并发的一些技巧 http://udhos.github.io/golang-concurrency-tricks/
+
+- 2. Go interface 实现细节 http://legendtkl.com/2017/07/01/golang-interface-implement/
+
+- 3. Laravel + go-micro + grpc 实践基于 Zipkin 的分布式链路追踪系统 https://mp.weixin.qq.com/s/JkLMNabnYbod-b4syMB3Hw
+
+- 4. MySQL双主一致性架构优化 https://mp.weixin.qq.com/s/sCjzzi9VXPk-JcWXySfHgw
+
+- 5. Elasticsearch Go 客户端https://olivere.github.io/elastic/
+
+- 6. TiDB技术交流会上海场 Tech Day 时间定在 7 月 8 日，http://tidbtechday2017.sxl.cn/
+
+- - - - 
 ### gocn_news_2017-07-01
 - 1. Defer的使用规则 https://chinazt.cc/2017/06/30/deferde-shi-yong-gui-ze/
 
