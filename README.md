@@ -1,3 +1,15 @@
+### gocn_news_2018-09-13
+- 1. 如何优雅地关闭Go channel https://yq.aliyun.com/articles/638787
+
+- 2. 使用Golang打造一款自己的手工盲注辅助工具 http://www.freebuf.com/sectool/183646.html
+
+- 3. 论服务网格的控制平面和边缘代理的重要性 https://mp.weixin.qq.com/s/6NJNEyM5muJpyZGe9dHe3w
+
+- 4. 阿里集团八年容器化演进之路 https://mp.weixin.qq.com/s/dXFfSq4XjpUike_uHIEwaA
+
+- 5. Docker容器实现原理及容器隔离性踩坑介绍  https://mp.weixin.qq.com/s/xN-UuURHz7Vyj3ItEvQ95g
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-12
 - 1. 使用Go构建分布式哈希表 https://medium.com/@arriqaaq/chord-building-a-dht-distributed-hash-table-in-golang-67c3ce17417b
 
