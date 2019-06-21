@@ -1,3 +1,10 @@
+### gocn_news_2017-12-02
+- 1. GoCN每日新闻(2017-12-2)
+
+- 2. 编辑：马怀博
+订阅新闻：http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - 
 ### gocn_news_2017-12-01
 - 1. Context包并非为cancel而生https://dave.cheney.net/2017/0 ... ation
 
