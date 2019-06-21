@@ -1,3 +1,15 @@
+### gocn_news_2019-06-14
+- 1. 使用pprof优化http2服务 http://morsmachine.dk/http2-causalprof
+
+- 2. Go并发模型之双重检查锁定 https://turtledev.in/posts/go-concurrency-patterns-double-checked-locking/
+
+- 3. 使用go/analysis包徒手编写一个自定义的linter https://arslan.io/2019/06/13/using-go-analysis-to-write-a-custom-linter/
+
+- 4. 生成go test的时序图 https://engineering.infinityworks.com/sequence-diagrams/
+
+- 5. geziyor:一款高效的web爬虫框架 https://github.com/geziyor/geziyor
+
+- - - - - - - - - - 
 ### gocn_news_2019-06-13
 - 1. Go Unsafe包解析 https://medium.com/@blanchon.vincent/go-what-is-the-unsafe-package-d2443da36350
 
