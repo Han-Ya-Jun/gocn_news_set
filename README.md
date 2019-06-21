@@ -1,3 +1,15 @@
+### gocn_news_2018-02-18
+- 1. Go程序逆向 http://home.in.tum.de/~engelke/pubs/1709-ma.pdf
+
+- 2. DERO:加密协议+智能合约 https://www.reddit.com/r/golang/comments/7y9vjw/dero_cryptonote_protocol_smart_contracts_using/
+
+- 3. Go1.10更有效操作字符串 http://yourbasic.org/golang/build-append-concatenate-strings-efficiently/
+
+- 4. 函数式编程简介 http://lambeta.com/2018/02/17/The-Simple-Summary-of-FP
+
+- 5. 陈天奇等人提出TVM https://mp.weixin.qq.com/s/irvBbPKENiZX9G_6wh5c-Q
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-17
 - 1. Go 1.10 发布了
 https://blog.golang.org/go1.10
