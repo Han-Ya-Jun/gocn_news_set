@@ -1,3 +1,15 @@
+### gocn_news_2018-04-03
+- 1. Go 中的内存泄漏  https://lingchao.xin/post/memory-leaking.html
+
+- 2. 微服务化的不同阶段 Kubernetes 的不同玩法  https://segmentfault.com/a/1190000014139386
+
+- 3. 你所不熟悉的 Go 的优点 https://medium.freecodecamp.org/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a
+
+- 4. TiKV 在饿了么的大规模应用实践 https://mp.weixin.qq.com/s/g2Qax8lK6IRyQzTD-G5yQg
+
+- 5. 现代网络负载均衡和代理 https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-02
 - 1. 使用Golang和colly制作爬虫 http://edmundmartin.com/writing-a-web-crawler-with-golang-and-colly/    
 
