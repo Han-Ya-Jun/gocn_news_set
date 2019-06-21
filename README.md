@@ -1,3 +1,15 @@
+### gocn_news_2018-07-12
+- 1. Go依赖注入 https://medium.com/@pafortin/simple-go-dependency-injection-part-1-96fd9ba1b7a7
+
+- 2. 通过编写测试来学习Go的反射 https://dev.to/quii/learn-go-by-writing-tests-reflection-103g
+
+- 3. Gomacro交互式Go解释器和调试器 https://github.com/cosmos72/gomacro
+
+- 4. Go数据流编程库 https://github.com/trustmaster/goflow
+
+- 5. 使用Golang，chi和MySQL构建RESTful Web API服务 https://medium.com/@shaonshaonty/building-restful-web-api-service-using-golang-chi-mysql-d85f427dee54
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-11
 - 1. Go-application 完全监控及可视化 https://www.dynatrace.com/news/blog/full-code-level-visibility-now-available-for-go-application-monitoring/
 
