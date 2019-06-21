@@ -1,3 +1,15 @@
+### gocn_news_2019-01-31
+- 1. Golang 需要避免踩的 50 个坑（三） http://blueskykong.com/2019/01/29/go-mistakes-3/
+
+- 2. golang如何使用sarama访问kafka  https://studygolang.com/articles/18013
+
+- 3. 无符号Golang程序逆向方法解析 https://www.anquanke.com/post/id/170332
+
+- 4. 得到App的容器及Kubernetes实践 https://mp.weixin.qq.com/s/9c6M7B_sI2HlB1ifwLNDeg
+
+- 5. 如何将ffmpeg封装golang/cgo库 https://studygolang.com/articles/17855
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-30
 - 1. 如何在两个最流行的语言go和JAVA中选择 https://blog.spiralscout.com/when-to-use-go-vs-java-one-programmers-take-on-two-top-languages-59617f30be5e
 
