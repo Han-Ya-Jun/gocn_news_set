@@ -1,3 +1,15 @@
+### gocn_news_2018-11-27
+- 1. Go 使用小内存上传大文件 https://medium.com/@owlwalks/sending-big-file-with-minimal-memory-in-golang-8f3fc280d2c
+
+- 2. Titan 分布式 Redis 兼容 NoSQL 数据库 https://medium.com/@shafreeck/titan-a-distributed-redis-protocol-compatible-nosql-database-4379a1307661
+
+- 3. 微服务的接入层设计与动静资源隔离 https://segmentfault.com/a/1190000017147575
+
+- 4. Kubernetes在上汽集团云平台及AI方面的应用 https://segmentfault.com/a/1190000017150455
+
+- 5. Docker 的简单实现 dock https://github.com/philchia/dock
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-26
 - 1. 设计Go持续交付流水线 https://www.admintome.com/blog/designing-a-go-continuous-delivery-pipeline/
 
