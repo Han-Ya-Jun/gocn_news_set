@@ -1,3 +1,22 @@
+### gocn_news_2017-08-08
+- 1. GOCN每日新闻(2017-08-08)
+
+- 2. 1.Go 测试进阶  https://about.sourcegraph.com/go/advanced-testing-in-go-mitchell-hashimoto
+
+- 3. 2.Go 2 应该舍弃 Context  https://faiface.github.io/post/context-should-go-away-go2/
+
+- 4. 3.Go Channel 源码剖析  http://legendtkl.com/2017/08/06/golang-channel-implement/
+
+- 5. 4.Go 内存安全 https://cryptolosophy.io/memory-security-go/
+
+- 6. 5.TiDB RC4 发布  https://pingcap.github.io/blog/2017/08/04/rc4/
+
+- 7. 6.Go 1.9 RC2 发布 https://golang.org/dl/#go1.9rc2
+
+- 8. 编辑：傅小黑
+订阅新闻：http://tinyletter.com/gocn
+
+- - 
 ### gocn_news_2017-08-07
 - 1. GOCN每日新闻(2017-08-07)
 
