@@ -1,3 +1,15 @@
+### gocn_news_2018-11-09
+- 1. 使用expvar测试go代码性能 https://sysdig.com/blog/golang-expvar-custom-metrics/
+
+- 2. GO源代码三维可视化城市模型 https://go-city.github.io/
+
+- 3. MAC beats开发环境搭建 https://www.jianshu.com/p/396e3902ed9b
+
+- 4. 在浏览器中WASM中使用go模块Otto运行JavaScript https://github.com/donatj/gojs
+
+- 5. 参加2018年Go用户调查 https://blog.golang.org/survey2018
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-08
 - 1. Go语言字符串高效拼接（一）  https://juejin.im/post/5be23a01518825697344f05e
 
