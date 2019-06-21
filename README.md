@@ -1,3 +1,15 @@
+### gocn_news_2018-10-14
+- 1. Golang生产级可靠UDP库 https://github.com/xtaci/kcp-go
+
+- 2. Golang与TensorFlow实现照片管理 https://photoprism.org
+
+- 3. 通过Testify改进golang Test与Mock https://tutorialedge.net/golang/improving-your-tests-with-testify-go/
+
+- 4. 深拷贝的终极探索 https://yanhaijing.com/javascript/2018/10/10/clone-deep
+
+- 5. Nginx限流的两种方式 https://chenyongjun.vip/articles/81
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-13
 - 1. Go routine内使用context包使用提议 https://posener.github.io/goroutine-scoped-context/
 
