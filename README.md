@@ -1,3 +1,15 @@
+### gocn_news_2019-01-10
+- 1. 优雅的重新启动Golang web 服务 https://tomaz.lovrec.eu/posts/graceful-server-restart/
+
+- 2. Go实现的小型的服务检查仪表盘 https://github.com/mtojek/greenwall
+
+- 3. Golang跨平台自动化系统 https://github.com/go-vgo/robotgo
+
+- 4. Golang实现的人脸检测库 https://github.com/esimov/pigo
+
+- 5. 一个可以编写Excel文件的Golang库 https://dev.to/xuri/go-library-for-reading-and-writing-microsoft-excel-xlsx-files-57hi
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-09
 - 1. Go:开发前你应该知道的几个tips https://medium.com/@alexmaisiura/tips-that-you-should-know-before-start-writing-on-go-d30e681e2dd7
 
