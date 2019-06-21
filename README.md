@@ -1,3 +1,15 @@
+### gocn_news_2018-01-26
+- 1. Buoyant宣布:新k8s Service Mesh "Conduit" 将采用Rust和Golang开发 https://www.infoq.com/news/2018/01/conduit-service-mesh
+
+- 2. GoAPI服务内存泄漏修复心得 https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8
+
+- 3. Go应用性能优化实战: http://yangxikun.com/golang/2017/12/24/golang-profiling-optimizing.html
+
+- 4. Go 更灵活地编解码 thrift 消息 https://zhuanlan.zhihu.com/p/33282040
+
+- 5. Flogo:基于Go语言的IoT框架 https://github.com/TIBCOSoftware/flogo
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-25
 - 1. GoCN每日新闻(2018-01-25)
 
