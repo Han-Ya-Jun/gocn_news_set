@@ -1,3 +1,15 @@
+### gocn_news_2018-05-26
+- 1. kubeadm源码分析 https://segmentfault.com/a/1190000015029997
+
+- 2. 全新的Go lint https://github.com/golangci/golangci-lint
+
+- 3. 如何用Go构建一个搜索微服务 https://ryanmccue.ca/how-to-create-a-search-microservice/
+
+- 4. Go2设计规划讨论wiki https://github.com/golang/go/wiki/Go2 
+
+- 5. 微服务设计手册 https://opensource.com/article/18/4/guide-design-microservices
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-25
 - 1. 使用CQRS模式创建Golang微服务 https://outcrawl.com/go-microservices-cqrs-docker/
 
