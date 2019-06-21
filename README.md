@@ -1,3 +1,17 @@
+### gocn_news_2018-01-01
+- 1. Go 的设计哲学 https://www.infoq.com/presentations/go-concurrency-gc
+
+- 2. 使用 Go 扩展 Python3 https://hackernoon.com/extending-python-3-in-go-78f3a69552ac
+
+- 3. 使用 TCP 和 Kafka 搭建简易消息框架 https://blog.gopheracademy.com/advent-2017/messaging-framework/
+
+- 4. Golang 实现 MapReduce 单进程版本 http://vinllen.com/golangshi-xian-mapreducedan-jin-cheng-ban-ben
+
+- 5. Go 依赖自升级方案 https://github.com/rhysd/go-github-selfupdate
+
+- 6. GopherChina2018来了！ https://www.bagevent.com/event/1086224
+
+- - - - - - - - - 
 ### gocn_news_2017-12-31
 - 1. 分布式系统下的Go channels https://medium.com/@matryer/introducing-vice-go-channels-across-many-machines-bcac1147d7e2
 
