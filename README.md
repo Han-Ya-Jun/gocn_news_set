@@ -1,3 +1,17 @@
+### gocn_news_2018-05-28
+- 1. 写给Node工程师的Go教程 https://medium.com/@KeithAlpichi/learning-go-for-nodejs-engineers-part-1-eaeba60212e1
+
+- 2. 用Go实现树莓派控制交通灯功能 https://medium.com/@simon_prickett/raspberry-pi-coding-in-go-traffic-lights-559bc761fa07
+
+- 3. Go 语言实现物联网CoAP协议机器间通讯 https://medium.com/@farissyariati/understanding-coap-for-m2m-message-event-communication-fdcb778faccc
+
+- 4. Go实现的K-MEANS算法库 https://github.com/muesli/kmeans
+
+- 5. qframe: Go语言实现的类Pandas数据分析库 https://github.com/tobgu/qframe
+
+- 6. Go 语言实现物联网CoAP协议机器间通讯 
+
+- - - - - - - - - 
 ### gocn_news_2018-05-27
 - 1. Go构建可扩展web服务 https://medium.com/myntra-engineering/my-journey-with-golang-web-services-4d922a8c9897
 
