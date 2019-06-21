@@ -1,3 +1,15 @@
+### gocn_news_2018-02-08
+- 1. (译)在 Golang 中针对 int64 类型优化 abs()  https://wuyin.io/2018/02/07/optimized-abs-func-for-int64-in-Go/
+
+- 2. Go语言并不简单 http://www.techug.com/post/go-is-not-very-simple-folks-3e84220e73c7.html
+
+- 3. 微服务之web客户端 https://ewanvalentine.io/microservices-in-golang-part-6/
+
+- 4. 把SQL作为API  https://scene-si.org/2018/02/07/sql-as-an-api/
+
+- 5. Doing More With Docker Images http://training.play-with-docker.com/ops-s1-images/
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-07
 - 1. GoCN每日新闻(2018-02-07)
 
