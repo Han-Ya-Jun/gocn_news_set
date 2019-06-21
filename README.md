@@ -1,3 +1,15 @@
+### gocn_news_2017-10-22
+- 1. 墙内安装 golang.org 中的包 https://blog.kasora.moe/2017/10/21/%E5%A2%99%E5%86%85%E5%AE%89%E8%A3%85golang-org%E4%B8%AD%E7%9A%84%E5%8C%85/
+
+- 2. 可视化Prometheus数据 https://github.com/nghialv/promviz
+
+- 3. Netflix的Go caching https://golangnews.com/stories/1580
+
+- 4. 新的serverless的超级英雄 https://www.iguazio.com/nuclio-new-serverless-superhero/
+
+- 5. 怎么去除GOPATH https://vimeo.com/200469720
+
+- - - - - 
 ### gocn_news_2017-10-21
 - 1. 分布式系统扩展中的不确定性和容错性 https://www.slideshare.net/helenaedelson/uncertainty-tolerance-in-distributed-systems-at-scale
 
