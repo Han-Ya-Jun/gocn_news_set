@@ -1,3 +1,19 @@
+### gocn_news_2017-07-27
+- 1. Go 的依赖注入设计 http://adnaan.badr.in/blog/2017/07/15/exploring-dependency-injection-in-go/
+
+- 2. golang的gzip优化 https://gocn.io/article/400
+
+- 3. 记一次资源泄露之路 https://medium.com/square-corner-blog/always-be-closing-3d5fda0e00da
+
+- 4. Go读取股票历史 https://yushuangqi.com/blog/2017/go-du-qu-tong-da-xin-li-shi-ri-xian-shu-ju.html
+
+- 5. 
+Go make和new的区别 http://sanyuesha.com/2017/07/26/go-make-and-new/
+
+
+- 6. [8月5日]杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-26
 - 1. Go 1.9 RC1 is out https://groups.google.com/forum/#!topic/golang-announce/Zwkj1khBMdI
 
