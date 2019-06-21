@@ -1,3 +1,15 @@
+### gocn_news_2018-09-17
+- 1. Gophercon2018演讲视频 https://www.youtube.com/watch?v=zPd0Cxzsslk&list=PL2ntRZ1ySWBdatAqf-2_125H4sGzaWngM
+
+- 2. 2018 Go语言GUI编程现状 https://acrophobic.me/post/2018-09-09-state-of-gui-dev-with-go-2018/
+
+- 3. Go的整洁架构 https://medium.com/@hatajoe/clean-architecture-in-go-4030f11ec1b1
+
+- 4. 使用Go gRPC构建微服务系列教程 https://medium.com/@amsokol.com/tutorial-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-kubernetes-daebb36a97e9
+
+- 5. Golang 大杀器之性能剖析 PProf https://github.com/EDDYCJY/blog/blob/master/golang/2018-09-15-Golang%20%E5%A4%A7%E6%9D%80%E5%99%A8%E4%B9%8B%E6%80%A7%E8%83%BD%E5%89%96%E6%9E%90%20PProf.md
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-16
 - 1. Securing Cookies in Go https://www.calhoun.io/securing-cookies-in-go/
 
