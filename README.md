@@ -1,3 +1,15 @@
+### gocn_news_2018-07-25
+- 1. Go-Cloud：Go团队推出的混合云平台开发框架 https://blog.golang.org/go-cloud
+
+- 2. 如何让代码更简洁 https://www.bartfokker.nl/posts/decorators/
+
+- 3. 记一次Docker/Kubernetes上无法解释的连接超时原因探寻之旅 https://mp.weixin.qq.com/s/4YHiXkEJPRY4rnuafjH7ng
+
+- 4. 使用Nginx Ingress Controller导入外部流量到k8s集群内部 https://imroc.io/posts/kubernetes/use-nginx-ingress-controller-to-expose-service/
+
+- 5. 如何理解日志系统 https://mp.weixin.qq.com/s/pv5w8Jnz4kTda8IuXkK2IA
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-24
 - 1. Golang 代码质量持续检测 https://github.com/developer-learning/night-reading-go/blob/master/articles/sonarqube-for-golang/sonarqube-for-golang.md
 
