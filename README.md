@@ -1,3 +1,15 @@
+### gocn_news_2018-04-29
+- 1. GCC8提供Go1.10.1用户包的完整实现 https://gcc.gnu.org/gcc-8/changes.html#go
+
+- 2. Go高性能分词Gsev0.10.0发布 https://gocn.io/question/1848
+
+- 3. Go边界检查消除 https://www.ardanlabs.com/blog/2018/04/bounds-check-elimination-in-go.html
+
+- 4. 通过测试学习Go https://quii.gitbook.io/learn-go-with-tests/standard-lib-essentials/http-server
+
+- 5. WebSocket浅析 https://mp.weixin.qq.com/s/7aXMdnajINt0C5dcJy2USg
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-28
 - 1. Golang中多大的对象算是大对象，多小的对象算是小对象？ https://gocn.io/question/1845
 
