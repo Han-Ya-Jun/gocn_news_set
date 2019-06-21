@@ -1,3 +1,15 @@
+### gocn_news_2017-12-21
+- 1. ServiceMesh时代的选边与站队（附PPT下载） https://mp.weixin.qq.com/s/hHzDa1T_UKPB97ttFRaDCQ
+
+- 2. Golang一种全节点比特币实现 https://github.com/btcsuite/btcd
+
+- 3. Golang数据科学简介 https://www.cheatography.com/chewxy/cheat-sheets/data-science-in-go-a/
+
+- 4. Golang深度学习 http://gopherdata.io/post/deeplearning_in_go_part_1/
+
+- 5. Golang如何不用容器做依赖注入 https://medium.com/@nvcnvn/how-difficult-for-handle-dependency-injection-in-go-without-the-help-with-container-a3f570a23d62
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-20
 - 1. 我与Go语言的这十年 https://mp.weixin.qq.com/s/iU7gaZNgCsU3DHaHa5PZ_Q
 
