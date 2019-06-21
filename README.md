@@ -1,3 +1,15 @@
+### gocn_news_2018-03-21
+- 1. 迁移项目到Kubernetes的5个小窍门 https://blog.alexellis.io/move-your-project-to-kubernetes/
+
+- 2. 提案:添加版本控制模块到Go工具链 https://github.com/golang/proposal/blob/master/design/24301-versioned-go.md
+
+- 3. 解析分布式锁之redis实现 https://mp.weixin.qq.com/s/vAb9TVAyiCYsmLNPQLDxpw
+
+- 4. 基于K8S的分布式Tensorflow系统 http://url.cn/5qSvj97
+
+- 5. 如何实现Go middleware https://kev.inburke.com/kevin/how-to-write-go-middleware
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-20
 - 1. Nginx 正式支持 gRPC https://www.nginx.com/blog/nginx-1-13-10-grpc/ 
 
