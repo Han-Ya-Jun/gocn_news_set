@@ -1,3 +1,15 @@
+### gocn_news_2019-05-12
+- 1. 浅谈 Golang 中数据的并发同步问题（三）https://jingwei.link/2019/05/12/golang-concurrency-03-map.html
+
+- 2. API设计最佳实践的思考 https://mp.weixin.qq.com/s/qWrSyzJ54YEw8sLCxAEKlA
+
+- 3. 引入Go风格的C版并发库 http://libmill.org
+
+- 4. 《Go 101》发布 https://github.com/go101/go101/releases/tag/v1.12.c
+
+- 5. 一个真实的现网mySql死锁问题处理 https://mp.weixin.qq.com/s/rLdHuwEb7gKjgpbsh1ioSA
+
+- - - - - - - - - - 
 ### gocn_news_2019-05-11
 - 1. 从并发模型看 Go 的语言设计 https://mp.weixin.qq.com/s/vBUBkecD6TxSHhZja9Ww7g
 
