@@ -1,3 +1,15 @@
+### gocn_news_2018-05-19
+- 1. Goland支持vgo了 https://blog.jetbrains.com/go/2018/05/18/vgo-integration-support/
+
+- 2. 如何把Go程序制作成Mac的应用 https://medium.com/@mattholt/packaging-a-go-application-for-macos-f7084b00f6b5
+
+- 3. 使用golang 实现JSON-RPC2.0 https://yeqown.github.io/2018/05/18/%E4%BD%BF%E7%94%A8golang-%E5%AE%9E%E7%8E%B0JSON-RPC2-0/
+
+- 4. 深入解析 Go 中 Slice 底层实现 https://halfrost.com/go_slice/
+
+- 5. 构建第一个Go微服务 https://segmentfault.com/a/1190000014895034
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-18
 - 1. ARM 64平台之上的Go工具链实现剖析 https://mp.weixin.qq.com/s/xgHKpg1hXdb8WovOo18yhg
 
