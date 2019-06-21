@@ -1,3 +1,15 @@
+### gocn_news_2017-09-19
+- 1. 20几种Go的数据结构和算法 http://www.golangprograms.com/data-structure-and-algorithms.html
+
+- 2. 纯Go实现的代码高亮库(支持几十种语言) https://github.com/alecthomas/chroma
+
+- 3. Go实现的智能ping工具，支持报警 https://github.com/gy-games/smartping
+
+- 4. 正确的记录日志让你的生活充满光明 https://dev.to/grhegde09/logging-done-right-makes-your-life-bright
+
+- 5. 深入理解tracing https://www.oreilly.com/ideas/understanding-tracing
+
+- - - - - 
 ### gocn_news_2017-09-18
 - 1. JSON之死 https://www.chrismoos.com/2017/09/15/death-to-json/
 
