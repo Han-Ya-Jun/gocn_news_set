@@ -1,3 +1,17 @@
+### gocn_news_2017-12-31
+- 1. 分布式系统下的Go channels https://medium.com/@matryer/introducing-vice-go-channels-across-many-machines-bcac1147d7e2
+
+- 2. Go Socket编程之teleport框架是怎样炼成的   https://www.jianshu.com/p/7120b8378681
+
+- 3. 时序数据库技术体系－时序数据存储模型设计 http://hbasefly.com/2017/11/19/timeseries-database-2/
+
+- 4. RocksDB PhysicalCoreID 慢问题排查 https://www.jianshu.com/p/81a2975f9d7a
+
+- 5. 追求极简：Docker镜像构建演化史 http://tonybai.com/2017/12/21/the-concise-history-of-docker-image-building/
+
+- 6. GopherChina2018来了！ https://www.bagevent.com/event/1086224
+
+- - - - - - - - - 
 ### gocn_news_2017-12-30
 - 1. Go语言中的错误处理 http://ethancai.github.io/2017/12/29/Error-Handling-in-Go/
 
