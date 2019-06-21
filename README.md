@@ -1,3 +1,15 @@
+### gocn_news_2018-08-05
+- 1. golang内存分配剖析 https://speakerdeck.com/andrestc/understanding-go-memory-allocation-gophercon-uk
+
+- 2. golang插件化方案 http://kuanshijiao.com/2018/08/04/goplugin/
+
+- 3. mutagen:一种远程开发文件同步工具 https://mutagen.io
+
+- 4. golang使用验证库进行防御编程 https://medium.com/@storozhuk.b.m/clear-defensive-programming-with-go-using-verifier-library-6f648810b453
+
+- 5. 腾讯安全《2018上半年区块链安全报告》 https://slab.qq.com/news/authority/1754.html
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-04
 - 1. 用Go实现一门解释型语言 https://github.com/gaufung/Monkey
 
