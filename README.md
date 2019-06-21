@@ -1,3 +1,15 @@
+### gocn_news_2019-01-05
+- 1. 开源一个千万级多组Raft库-Dragonboat https://zhuanlan.zhihu.com/p/52487803
+
+- 2. Golang并发：除了channel，你还有其他选择 https://segmentfault.com/a/1190000017770416
+
+- 3. 从微服务治理的角度看RSocket、Envoy和Istio http://t.cn/EGf3lei
+
+- 4. 50+ 顶级开源 Kubernetes 工具列表 https://www.infoq.cn/article/RPA-wswoEyjuRZfTMcut
+
+- 5. 再谈 Go 语言在前端的应用前景 https://mp.weixin.qq.com/s/v0-d-qPQFlV0CxttFpzC5w
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-04
 - 1. GO语言主流框架排名分析 https://redmonk.com/fryan/2018/02/07/language-framework-popularity-a-look-at-go/
 
