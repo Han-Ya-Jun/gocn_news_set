@@ -1,3 +1,20 @@
+### gocn_news_2018-03-18
+- 1. 有赞权限系统 http://mp.weixin.qq.com/s/a57V7RZeiGmpfPE-6inkXw
+
+- 2. Go配置文件热加载 http://www.cnblogs.com/zhaof/p/8593204.html
+
+- 3. Golang下的MySQL坑 http://blog.kazaff.me/2018/03/17/golang%e4%b8%8b%e7%9a%84mysql%e5%9d%91%2f
+
+- 4. 用vgo重复性构建 https://talks.bjk.fyi/bketelsen/gcru18-vgo
+
+- 5. 
+大XML文件流式解析 http://bionics.it/posts/parsing-drugbank-xml-or-any-large-xml-file-in-streaming-mode-in-go
+
+Tip: Go语言知识图谱 https://mp.weixin.qq.com/s/SmKxLsa2grc7kYj7eYyidQ
+
+
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-17
 - 1. Agones:用k8s来构建一个开源的游戏服务器 https://cloudplatform.googleblog.com/2018/03/introducing-Agones-open-source-multiplayer-dedicated-game-server-hosting-built-on-Kubernetes.html
 
