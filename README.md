@@ -1,3 +1,15 @@
+### gocn_news_2018-06-24
+- 1. Go系列文章之定时器 http://xargin.com/go-timer
+
+- 2. 通过插图学习Go的并发 http://szpzs.oschina.io/2018/06/23/learning-gos-concurrency-through-illustrations/
+
+- 3. Golang数据结构:图 https://wuyin.io/2018/06/22/golang-data-structure-graph
+
+- 4. WASM与Go:前景一览 https://brianketelsen.com/web-assembly-and-go-a-look-to-the-future/
+
+- 5. 浅显易懂的分布式TensorFlow入门教程 https://mp.weixin.qq.com/s/mibROQsKrBCQDmXxT2sCGQ
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-23
 - 1. 内存分配（三）3.2 大对象-Go学习笔记 https://mp.weixin.qq.com/s/kUmPckrgxJOw8PCjH2fkeA
 
