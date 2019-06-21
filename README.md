@@ -1,3 +1,15 @@
+### gocn_news_2018-07-06
+- 1. go语言之行--golang核武器goroutine调度原理、channel详解 http://www.cnblogs.com/wdliu/p/9272220.html
+
+- 2. Go Config 插件化配置框架 https://github.com/micro/go-config
+
+- 3. 深入理解 Flutter 的编译原理与优化 https://mp.weixin.qq.com/s/yPvaB7sLuJoGfsjj7x7wcg
+
+- 4. 知乎十万级容器规模的分布式镜像仓库实践 https://zhuanlan.zhihu.com/p/39004143
+
+- 5. 以太坊又一次大拥堵何去何从？深度对话美图以太坊DPoS算法实现团队 https://mp.weixin.qq.com/s/QpHW5TCKJLT2fiMtADZh9A
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-05
 - 1. 蚂蚁金服大规模微服务架构下的Service Mesh探索之路 https://mp.weixin.qq.com/s/JQ0PPAsO6qiAW-q-rI-Bsg
 
