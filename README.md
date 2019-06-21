@@ -1,3 +1,15 @@
+### gocn_news_2018-04-14
+- 1. Boltdb源码分析（四）----bucket结构  http://mp.weixin.qq.com/s/Cet4TTTTc6_OWWvmNgjOKA
+
+- 2. 探索Prometheus监控go客户端 https://povilasv.me/prometheus-go-metrics/
+
+- 3. TiDB 源码阅读系列文章（七）基于规则的优化 http://mp.weixin.qq.com/s/nC2ZWAzIXIpKUFpa84hf4A
+
+- 4. Go语言实现的二进制文本编辑器 https://github.com/itchyny/bed
+
+- 5. Nginx unit released版1.0发布（nginx动态web服务器，支持go语言）https://www.nginx.com/blog/nginx-unit-1-0-released
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-13
 - 1. 用Golang处理每分钟100万份请求 https://medium.com/percolate-engineering/introducing-charlatan-df9b5d3d3107
 
