@@ -1,3 +1,15 @@
+### gocn_news_2017-09-12
+- 1. 图解 TCMalloc https://zhuanlan.zhihu.com/p/29216091
+
+- 2. 精通 io.Pipes https://www.youtube.com/watch?v=LHZ2CAZE6Gs&list=PL64wiCrrxh4Jisi7OcCJIUpguV_f5jGnZ
+
+- 3. Go体验报告 https://blog.chewxy.com/2017/09/11/tensor-refactor/
+
+- 4. [译] 如何使用 Go 构建开发高负载 WebSocket 服务器 https://mp.weixin.qq.com/s/RyQD0UFqn0v2M6ec-d855g
+
+- 5. 使用 pprof 和火焰图调试 golang 应用 http://cizixs.com/2017/09/11/profiling-golang-program
+
+- - - - - 
 ### gocn_news_2017-09-11
 - 1. 使用Go写脚本的故事 https://gist.github.com/posener/73ffd326d88483df6b1cb66e8ed1e0bd
 
