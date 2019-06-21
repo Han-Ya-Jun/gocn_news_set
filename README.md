@@ -1,3 +1,15 @@
+### gocn_news_2019-04-06
+- 1. Go 1.12.2 和 Go 1.11.7 发布 https://groups.google.com/forum/#!msg/golang-announce/z9eTD34GEIs/Z_XmhTrVAwAJ
+
+- 2. Golang的分代GC(Garbage Collection) https://www.jianshu.com/p/2383743edb7b
+
+- 3. 结构化日志:当事情出错时你想要的最好的朋友 https://engineering.grab.com/structured-logging
+
+- 4. Ghost Bridge: React Native 与 Go直接通讯 https://medium.com/interplanetary-social-network/ghost-bridge-react-native-to-go-19a69473f8e
+
+- 5. 我们是如何管理一个 1w+ stars 的开源仓库的 https://juejin.im/post/5ca2d01651882544136e923b
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-05
 - 1. Netramesh:轻量级的ServiceMesh https://medium.com/avitotech/introducing-netramesh-lightweight-service-mesh-13f60162feb6  
 
