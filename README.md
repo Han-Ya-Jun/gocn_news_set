@@ -1,3 +1,15 @@
+### gocn_news_2018-03-29
+- 1. 独家首次揭秘苏宁的RPC远程服务调用框架RSF  https://mp.weixin.qq.com/s/qDw6IkUZuM7PmKklucrpLA
+
+- 2. 通过双十一等项目实践看架构技术  https://mp.weixin.qq.com/s/gAm3gtGJgeu-hjvvrkE1-A
+
+- 3. 微服务开发中的数据架构设计 https://mp.weixin.qq.com/s/K_JtHQW8sMV2GEHZB7aW8Q
+
+- 4. 核心代码从Python换成Go语言，提速30倍！ http://www.techug.com/post/go-fast-than-python.html
+
+- 5. 关于高可用负载均衡的探索 https://mp.weixin.qq.com/s/SWYWbFw3Ym0SPqAFhenFYg
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-28
 - 1. 通过转发HTTPS代理与第三方集成 https://medium.com/betalo-engineering/integrating-with-third-parties-via-a-go-forwarding-https-proxy-6f0e5575d93e
 
