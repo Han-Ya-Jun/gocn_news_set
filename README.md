@@ -1,3 +1,15 @@
+### gocn_news_2017-08-04
+- 1. 深入理解SQL事务隔离 https://begriffs.com/posts/2017-08-01-practical-guide-sql-isolation.html
+
+- 2. 如何向6岁的孩子解释编程？https://dev.to/tkaczanowski/explaining-programming-to-6-years-old-kids
+
+- 3. Go程序员的syscalls指南 https://www.youtube.com/watch?v=01w7viEZzXQ&index=20&list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9
+
+- 4. Go构建工作池 https://geeks.uniplaces.com/building-a-worker-pool-in-golang-1e6c0fdfd78c
+
+- 5. Go高级测试应用 https://www.youtube.com/watch?v=8hQG7QlcLBk&list=PL2ntRZ1ySWBdD9bru6IR-_WXUgJqvrtx9&index=13
+
+- - - - - 
 ### gocn_news_2017-08-03
 - 1. 用不到10行代码在浏览器运行gofmt https://dmitri.shuralyov.com/blog/24
 
