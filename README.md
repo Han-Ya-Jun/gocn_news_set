@@ -1,3 +1,15 @@
+### gocn_news_2019-03-03
+- 1. 支持百万连接服务器的benchmark实现 https://github.com/smallnest/1m-go-tcp-server
+
+- 2. Go环境变量指南 https://endaphelan.me/guides/golang/a-no-nonsense-guide-to-environment-variables-in-go/
+
+- 3. Go 1.12中值得关注的几个变化 https://tonybai.com/2019/03/02/some-changes-in-go-1-12
+
+- 4. TCP拥塞控制算法简介 https://mp.weixin.qq.com/s/v8dBxRSOwJaQWxuKVyLv2A
+
+- 5. 一致性Hash算法的实际应用 https://crossoverjie.top/2019/03/01/algorithm/consistent-hash/
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-02
 - 1. Golang操作GraphQL：从基础到高级的深度探索 https://medium.freecodecamp.org/deep-dive-into-graphql-with-golang-d3e02a429ac3
 
