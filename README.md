@@ -1,3 +1,15 @@
+### gocn_news_2018-08-15
+- 1. 在Go中我从来都不用的特性 https://www.youtube.com/watch?v=5DVV36uqQ4E
+
+- 2. 使用事件驱动和命令查询职责分离构建微服务 https://medium.com/@shijuvar/building-microservices-with-event-sourcing-cqrs-in-go-using-grpc-nats-streaming-and-cockroachdb-983f650452aa
+
+- 3. Go底层数据结构 http://leanote.com/blog/post/5b6d5373ab64410afd001e31
+
+- 4. 从Go高性能日志库zap看如何实现高性能Go组件 https://mp.weixin.qq.com/s/i0bMh_gLLrdnhAEWlF-xDw
+
+- 5. 分布式事务的实现原理 https://draveness.me/distributed-transaction-principle
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-14
 - 1. 提高 Go 程序的可观察性： https://medium.com/zendesk-engineering/how-we-improved-the-observability-of-a-go-project-11211ba46e72
 
