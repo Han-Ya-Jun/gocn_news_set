@@ -1,3 +1,15 @@
+### gocn_news_2017-09-10
+- 1. Gopher广州meetup演讲稿 https://github.com/gopherchina/meetup/tree/master/Guangzhou/20170909
+
+- 2. 时序数据库InfluxDB使用详解 http://www.jianshu.com/p/a1344ca86e9b
+
+- 3. 代码质量管控的四个阶段 https://zhuanlan.zhihu.com/p/29086959
+
+- 4. 基于GORM的类型安全代码生成库 https://github.com/jirfag/go-queryset
+
+- 5. 如何划分微服务 https://builttoadapt.io/whats-your-decomposition-strategy-e19b8e72ac8f
+
+- - - - - 
 ### gocn_news_2017-09-09
 - 1. Go 没有正确的内联函数 https://lemire.me/blog/2017/09/05/go-does-not-inline-functions-when-it-should/
 
