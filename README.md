@@ -1,3 +1,15 @@
+### gocn_news_2018-09-24
+- 1. Go 反序列化 JSON 日期格式 https://hackernoon.com/today-i-learned-dealing-with-json-datetime-when-unmarshal-in-golang-4b281444fb67
+
+- 2. Go 开发小技巧 https://go101.org/article/tips.html
+
+- 3. 使用 Chroma 实现 Markdown Go 语法高亮 https://zupzup.org/go-markdown-syntax-highlight-chroma/
+
+- 4. 用 Go 开发的基于浏览器的 Go IDE https://github.com/thestrukture/IDE
+
+- 5. 分享一个 docker/docker-compose DNS 帮助库 https://github.com/Oppodelldog/docker-dns
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-23
 - 1. 在Go中使用Parser Combinator https://medium.com/@pavelpopov/parallel-processing-pattern-in-go-8b4a17a52ab4 
 
