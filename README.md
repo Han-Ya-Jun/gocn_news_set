@@ -1,3 +1,15 @@
+### gocn_news_2018-08-22
+- 1. 有关容器的6大误区和8大正确场景 https://mp.weixin.qq.com/s/KsPAdlgyHuxyB2lpBD4Syw
+
+- 2. Golang在阿里集团调度&集群管理系统Sigma中的实践 https://mp.weixin.qq.com/s/MITVLv-61HTOvFlcU12YMw
+
+- 3. traefik 的安装使用 https://mp.weixin.qq.com/s/SCoeZWuPzM-i4mLr9IAqDA
+
+- 4. 深度解读：如何实现生产级别 K8S 全方位部署 https://mp.weixin.qq.com/s/Ewni6_bMtwvl7Mtze8HqRw
+
+- 5. water 一个简单好用的TUN/TAP库 https://github.com/songgao/water
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-21
 - 1. Go-HEP:  Go 在高能核物理领域使用 https://arxiv.org/abs/1808.06529
 
