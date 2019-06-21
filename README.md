@@ -1,3 +1,15 @@
+### gocn_news_2018-09-04
+- 1. PushMan：Go 实时应用开发实践 https://medium.com/koinex-crunch/pushman-the-koinex-standard-for-realtime-experience-4122d2715c92
+
+- 2. Godoc 介绍以及 Golang 注释规范 http://blog.cyeam.com/golang/2018/09/03/godoc
+
+- 3. golang 网络框架之 设计原则篇 https://zhuanlan.zhihu.com/p/43600745
+
+- 4. Google Cloud Functions for Go  https://medium.com/google-cloud/google-cloud-functions-for-go-57e4af9b10da
+
+- 5. 用 Go 描述二叉树 https://about.sourcegraph.com/go/gophercon-2018-binary-search-tree-algorithms/
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-03
 - 1. 使用Golang处理MySQL binlog https://medium.com/@infinity.jacksparrow/how-to-deal-with-mysql-binlog-using-golang-with-examples-49c36124b105
 
