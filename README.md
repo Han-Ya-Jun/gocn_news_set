@@ -1,3 +1,15 @@
+### gocn_news_2017-09-21
+- 1. Go 和Makefile https://sohlich.github.io/post/go_makefile/
+
+- 2. Go 的优缺点对比 https://medium.com/im-learning-go-golang/about-go-language-an-overview-f0bee143597c
+
+- 3. 我是如何学习区块链的 https://keeganlee.me/post/full-stack/20170915
+
+- 4. Go 写区块链系列 https://jeiwan.cc/posts/building-blockchain-in-go-part-1/
+
+- 5. 如何快速的学习任何东西 https://www.entrepreneur.com/article/246118
+
+- - - - - 
 ### gocn_news_2017-09-20
 - 1. 高性能Go服务中如何高效的分配内存 https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/
 
