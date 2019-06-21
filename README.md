@@ -1,3 +1,15 @@
+### gocn_news_2019-03-06
+- 1. Gopher China 2019 讲师专访 - 杜旭 https://mp.weixin.qq.com/s/LsUV4KmapJhxKBV5Sd3XDA
+
+- 2. 使用Plugin的方式开发Go Web服务应用 https://medium.com/quick-code/write-a-web-service-with-go-plug-ins-c0472e0645e6
+
+- 3. 基于Mixin Network的Go语言比特币开发 https://segmentfault.com/a/1190000018398339
+
+- 4. go-kit微服务：服务熔断 https://juejin.im/post/5c7e564651882546c846c101
+
+- 5. 声明式渗透测试框架 https://github.com/stevenaldinger/decker
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-05
 - 1. 微服务中的 GraphQL https://itnext.io/graphql-in-a-microservices-architecture-d17922b886eb
 
