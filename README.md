@@ -1,3 +1,15 @@
+### gocn_news_2018-06-29
+- 1. 你好WebAssembly https://blog.keyboardman.me/2018/06/28/hello-webassembly/
+
+- 2. 使用Istio Service Mesh保护Kubernetes中的服务  https://servicemesher.github.io/blog/istio-is-not-just-for-microservices/
+
+- 3. 根据自定义时序情况实现K8S部署的水平自动扩展 https://banzaicloud.com/blog/k8s-horizontal-pod-autoscaler/
+
+- 4. 通过UI管理Docker http://www.cnblogs.com/sparkdev/p/9238796.html
+
+- 5. jstream:流式Json解析库 https://github.com/bcicen/jstream
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-28
 - 1. 使用GO测试数据库交互 https://medium.com/@romanyx90/testing-database-interactions-using-go-d9512b6bb449
 
