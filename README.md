@@ -1,3 +1,15 @@
+### gocn_news_2018-09-25
+- 1. Go 应用性能再优化：https://boyter.org/posts/sloc-cloc-code-performance/
+
+- 2. Go 与 C# 的比较：https://medium.com/@alexyakunin/go-vs-c-part-1-goroutines-vs-async-await-ac909c651c11
+
+- 3. 理解 Istio Service Mesh 中 Envoy 代理 Sidecar 注入及流量劫持: https://jimmysong.io/posts/envoy-sidecar-injection-in-istio-service-mesh-deep-dive/
+
+- 4. 什么是去中心化应用（DApp）？： https://towardsdatascience.com/what-is-a-dapp-a455ac5f7def
+
+- 5. IoT 区块链的机遇和挑战：https://www.i-scoop.eu/blockchain-distributed-ledger-technology/blockchain-iot/
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-24
 - 1. Go 反序列化 JSON 日期格式 https://hackernoon.com/today-i-learned-dealing-with-json-datetime-when-unmarshal-in-golang-4b281444fb67
 
