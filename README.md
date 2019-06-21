@@ -1,3 +1,15 @@
+### gocn_news_2017-09-26
+- 1. 30个常用strings函数范例 http://www.golangprograms.com/golang/string-functions/
+
+- 2. Go实现tcp双向copy https://zhuanlan.zhihu.com/p/29657180
+
+- 3. logkit 进阶玩法 http://mp.weixin.qq.com/s/CbscK6Kac4unXyufem8uRg
+
+- 4. devops演进过程 https://mp.weixin.qq.com/s/-wRB4NdV_Ht2kBxrpNc4Fw
+
+- 5. 分布式追踪系统 https://github.com/jaegertracing/jaeger
+
+- - - - - 
 ### gocn_news_2017-09-25
 - 1. 微服务的反模式和陷井 http://www.jianshu.com/p/3986239138fe
 
