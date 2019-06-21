@@ -1,3 +1,15 @@
+### gocn_news_2018-09-03
+- 1. 使用Golang处理MySQL binlog https://medium.com/@infinity.jacksparrow/how-to-deal-with-mysql-binlog-using-golang-with-examples-49c36124b105
+
+- 2. Braid：一种可编译为Go代码的函数式语言 https://github.com/joshsharp/braid
+
+- 3. 断路器与重试模式 https://medium.com/@trongdan_tran/circuit-breaker-and-retry-64830e71d0f6
+
+- 4. SOFAMesh 的通用协议扩展 https://zhuanlan.zhihu.com/p/43159888
+
+- 5. [观点]Go2.0泛型讨论 https://emilymaier.net/words/getting-specific-about-generics/
+
+- - - - - - - - - - 
 ### gocn_news_2018-09-02
 - 1. gobox中的consumer处理框架 http://blog.7rule.com/2018/09/01/gobox-consumer.html
 
