@@ -1,3 +1,15 @@
+### gocn_news_2018-04-30
+- 1. gago：Go实现的遗传算法库 https://github.com/MaxHalford/gago
+
+- 2. 使用Kafka和MongoDB实现Go的异步处理 https://www.melvinvivas.com/developing-microservices-using-kafka-and-mongodb/
+
+- 3. 区块链2.0以太坊漫谈 https://blog.csdn.net/itcastcpp/article/details/80138937
+
+- 4. jhop：用Go实现的前端API Mock客户端 https://github.com/cooldrip/jhop
+
+- 5. fuzzy：Go实现的模糊匹配编辑器插件 https://github.com/sahilm/fuzzy
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-29
 - 1. GCC8提供Go1.10.1用户包的完整实现 https://gcc.gnu.org/gcc-8/changes.html#go
 
