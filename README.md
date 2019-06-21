@@ -1,3 +1,15 @@
+### gocn_news_2018-10-04
+- 1. Golang中使用TTL正确使用方式 https://dev.to/irlndts/simple-golang-jobber-with-ttl-455h
+
+- 2. Golang通过在客户端和服务端中使用UDP协议 https://dev.to/cirowrc/a-udp-server-and-client-in-go-3g8n
+
+- 3. Golang在MACOS上检索进程的完整路径 https://dev.to/cirowrc/retrieving-the-full-path-of-a-process-on-macos-and-exploring-procfs-7gi
+
+- 4. Golang做的2d游戏框架 https://github.com/felixangell/strife
+
+- 5. 在个人的项目中使用Kubernetes http://www.doxsey.net/blog/kubernetes--the-surprisingly-affordable-platform-for-personal-projects
+
+- - - - - - - - - - 
 ### gocn_news_2018-10-03
 - 1. Go 1.11.1 is released https://groups.google.com/forum/#!topic/golang-nuts/OanfoD70o2g
 
