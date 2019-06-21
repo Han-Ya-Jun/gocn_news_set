@@ -1,3 +1,15 @@
+### gocn_news_2017-11-01
+- 1. Profiling Go http://www.integralist.co.uk/posts/profiling-go/
+
+- 2. Go 设计模式 https://github.com/tmrts/go-patterns
+
+- 3. gRPC服务最佳实践by coreOS https://golangnews.com/stories/2863
+
+- 4. Go 正则设计背后的优雅 https://docs.google.com/presentation/d/1CwgyzSoz5lVFrgTWb67_ar5kkidW2crOItBOnxRH9uI/mobilepresent?slide=id.gcb9a0b074_1_0
+
+- 5. 机器学习算法：那个才适合你的问题 https://dzone.com/articles/machine-learning-algorithms-which-one-to-choose-fo
+
+- - - - - 
 ### gocn_news_2017-10-31
 - 1. 数据科学和机器学习的现状 https://www.kaggle.com/surveys/2017
 
