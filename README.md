@@ -1,3 +1,21 @@
+### gocn_news_2017-07-31
+- 1. 理解Golang并发编程 https://gocn.io/article/404
+
+- 2. Go中time.After释放的问题 https://gocn.io/article/403
+
+- 3. 深入理解Go channel http://legendtkl.com/2017/07/30/understanding-golang-channel/
+
+- 4. 可选interface的麻烦 https://blog.merovius.de/2017/07/30/the-trouble-with-optional-interfaces.html
+
+- 5. 
+做一个优秀的程序员到底难在哪里？https://www.zhihu.com/question/63152623
+
+
+- 6. [8月5日]杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- 7. [9月9日]广州Gopher Meetup 筹划中，有兴趣的讲师请联系我
+
+- - - 
 ### gocn_news_2017-07-30
 - 1. 深入了解go-fuzz https://mijailovic.net/2017/07/29/go-fuzz/
 
