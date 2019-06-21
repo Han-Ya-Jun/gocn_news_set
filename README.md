@@ -1,3 +1,15 @@
+### gocn_news_2019-04-17
+- 1. 结构化日志提高生产力 https://www.youtube.com/watch?v=YlrwDN7_vHw
+
+- 2. Go 快速测试 https://itnext.io/quickcheck-testing-in-golang-772e820f0bd5?sk=6673487a1583d2b1ae4ea6c4522190bb
+
+- 3. Golang 之 Context 的迷思 https://mp.weixin.qq.com/s/MV7aPBgU0WayK-is78AFdg
+
+- 4. 如何使用Go和go-kit做微服务开发 https://dev.to/napolux/how-to-write-a-microservice-in-go-with-go-kit-a66
+
+- 5. 我在系统设计上犯过的 14 个错 https://mp.weixin.qq.com/s/f0jvsyjHkcGNoncszNKfkg
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-16
 - 1. Micro 构建微服务 https://github.com/micro-in-cn/tutorials/tree/master/microservice-in-micro
 
