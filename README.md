@@ -1,3 +1,15 @@
+### gocn_news_2018-05-03
+- 1. 机器学习 https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/37024aa7-8550-44d9-aa5e-e80aa82ec436/Ng_MLY03.pdf
+
+- 2. Golang中的反射:通过类型创建对象 https://medium.com/kokster/go-reflection-creating-objects-from-types-part-i-primitive-types-6119e3737f5d
+
+- 3. Golang动态口令库 https://github.com/xlzd/gotp?from=groupmessage
+
+- 4. 构建Kubernetes应用程序SDK https://github.com/operator-framework/operator-sdk
+
+- 5. Google 发布gVisor容器沙箱 https://github.com/google/gvisor
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-02
 - 1. Go 1.10.2 and 1.9.6 发布 https://groups.google.com/forum/#!topic/golang-announce/
 
