@@ -1,3 +1,15 @@
+### gocn_news_2019-05-25
+- 1. 近期一个Golang项目的测试实践全记录 https://mp.weixin.qq.com/s/3Sngh1Y_HPpttp64Pxm6uw
+
+- 2. 理解Go中的布尔类型 https://www.digitalocean.com/community/tutorials/understanding-boolean-logic-in-go
+
+- 3. 开源代码protoactor-go源码分析-async schedule https://mp.weixin.qq.com/s/aHJScjcrrJyYlIDcA00P0g
+
+- 4. 深入理解Go中panic和recover http://t.cn/E9d04Bm
+
+- 5. Go字符串格式教程 https://medium.com/rungo/string-formatting-in-go-dd752ff7f60
+
+- - - - - - - - - - 
 ### gocn_news_2019-05-24
 - 1. Go正朝着成为下一种企业编程语言的方向发展 https://hackernoon.com/go-is-on-a-trajectory-to-become-the-next-enterprise-programming-language-3b75d70544e
 
