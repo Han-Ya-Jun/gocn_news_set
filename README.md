@@ -1,3 +1,15 @@
+### gocn_news_2017-08-01
+- 1. Linux 内核揭秘 https://xinqiu.gitbooks.io/linux-insides-cn/
+
+- 2. Go 静态分析工具 https://github.com/dominikh/go-tools
+
+- 3. Go初学者成长之路 http://www.jianshu.com/p/5ee783bbdcac
+
+- 4. 采用可选参数替代链式操作 https://www.calhoun.io/using-functional-options-instead-of-method-chaining-in-go/
+
+- 5. Go开发中总结的15个心得 https://blog.thesparktree.com/15-lessons-in-golang
+
+- - - - - 
 ### gocn_news_2017-07-31
 - 1. 理解Golang并发编程 https://gocn.io/article/404
 
