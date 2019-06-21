@@ -1,3 +1,15 @@
+### gocn_news_2017-10-19
+- 1. 使用Go和TensorFlow构建图片识别API https://outcrawl.com/image-recognition-api-go-tensorflow/
+
+- 2. Golang C++11 中的原子操作对比 http://pp-qq.github.io/2017/10/18/go-c-atomic/
+
+- 3. Docker 镜像优化与最佳实践 http://www.jianshu.com/p/0124da759a9c
+
+- 4. 微服务7篇介绍 https://www.nginx.com/blog/introduction-to-microservices/
+
+- 5. gogland eap 16 发布 https://blog.jetbrains.com/go/2017/10/18/gogland-eap-16-file-watcher-tons-of-new-inspections-smarter-navigate-to-test-and-more/
+
+- - - - - 
 ### gocn_news_2017-10-18
 - 1. 在Google Go team工作体验 https://medium.com/@ljrudberg/working-on-the-go-team-at-google-917b2c8d35ff
 
