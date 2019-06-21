@@ -1,3 +1,15 @@
+### gocn_news_2018-08-31
+- 1. 5个简单步骤给Golang应用添加GUI https://hackernoon.com/how-to-add-a-gui-to-your-golang-app-in-5-easy-steps-c25c99d4d8e0
+
+- 2. 实施DevOps的8个步骤 https://mp.weixin.qq.com/s/LXczV7ceBj7ekkvaiDb-SA
+
+- 3. Kubernetes容器调度策略 https://mp.weixin.qq.com/s/2PJ8GR32893qgLRnPUMrcg 
+
+- 4. Go中错误处理方式改进 https://medium.com/@phlatphrog/handling-more-than-just-errors-in-go-f97c5aa2eac4
+
+- 5. 玩转Go module代理 https://roberto.selbach.ca/go-proxies/
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-30
 - 1. 比Python还好用的Go语言要出2.0了，你想怎么设计？ https://www.jiqizhixin.com/articles/2018-08-29-3
 2.跳出Go module的泥潭  https://colobu.com/2018/08/27/learn-go-module/
