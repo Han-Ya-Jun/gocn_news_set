@@ -1,3 +1,17 @@
+### gocn_news_2017-06-24
+- 1. 一个内部Go API系统的性能优化 https://zhuanlan.zhihu.com/p/27211445
+
+- 2. 如何用ginkgo和gomega写出优雅的测试 https://lanreadelowo.com/blog/2017/06/23/expressive-testing-go/
+
+- 3. 也谈goroutine调度器 http://tonybai.com/2017/06/23/an-intro-about-goroutine-scheduler/
+
+- 4. Go struct模拟假数据 https://github.com/bxcodec/faker
+
+- 5. 企业API网关设计 https://mp.weixin.qq.com/s/RuN5RfQfksQZRPACloqHEg
+
+- 6. 上海Gopher meetup 报名地址：http://www.bagevent.com/event/569317
+
+- - - - 
 ### gocn_news_2017-06-23
 - 1. 在Go程序中如何不用httprouter http://blog.merovius.de/2017/06/18/how-not-to-use-an-http-router.html
 
