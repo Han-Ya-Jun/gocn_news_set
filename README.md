@@ -1,3 +1,15 @@
+### gocn_news_2017-11-05
+- 1. vim-go的过去与未来 https://speakerdeck.com/farslan/the-past-and-future-of-vim-go
+
+- 2. 一个命令迁移MySQL数据到postgres http://pgloader.io/
+
+- 3. gops - Go语言程序查看和诊断工具 http://www.cnblogs.com/snowInPluto/p/7785651.html
+
+- 4. cmd/go 的编译、测试等加速改进 https://groups.google.com/forum/#!msg/golang-dev/qfa3mHN4ZPA/X2UzjNV1BAAJ
+
+- 5. Go在digitalocean的应用 https://speakerdeck.com/farslan/go-at-digitalocean
+
+- - - - - 
 ### gocn_news_2017-11-04
 - 1. go语言作用域踩坑 http://michaelyou.github.io/2017/11/03/go-scope/
 
