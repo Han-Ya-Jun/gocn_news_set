@@ -1,3 +1,15 @@
+### gocn_news_2018-05-27
+- 1. Go构建可扩展web服务 https://medium.com/myntra-engineering/my-journey-with-golang-web-services-4d922a8c9897
+
+- 2. Vgo失败模式分析 https://sdboyer.io/vgo/failure-modes/
+
+- 3. 基于Golang设计一套微服务架构 https://lattecake.com/post/2011
+
+- 4. pprof增加readline支持 https://go-review.googlesource.com/c/go/+/112436
+
+- 5. wasm添加支持native Go函数  https://www.reddit.com/r/golang/comments/8m8yl3/wasm_gointerpreterwagon_wasmmodules_with_native/
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-26
 - 1. kubeadm源码分析 https://segmentfault.com/a/1190000015029997
 
