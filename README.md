@@ -1,3 +1,16 @@
+### gocn_news_2017-11-22
+- 1. GoCN每日新闻(2017-11-22)
+
+- 2. 1.Slice和Map的比较 https://boltandnuts.wordpress.com/2017/11/20/go-slice-vs-maps/
+2.Go分布式ID生成服务 https://yuerblog.cc/2017/11/21/golang-id-alloc
+3.使用go来写微服务 https://ewanvalentine.io/microservices-in-golang-part-1
+4.Go编程建议清单 https://github.com/cristaloleg/go-advices
+5.计算机视觉简介 https://mp.weixin.qq.com/s/If1GdkPuxHXLU4pr0UDaHA
+
+- 3. 编辑:周云轩
+订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - 
 ### gocn_news_2017-11-21
 - 1. 用Go实现你自己的2048游戏 https://github.com/xwjdsh/2048-ai
 
