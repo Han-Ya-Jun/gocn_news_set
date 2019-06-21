@@ -1,3 +1,15 @@
+### gocn_news_2018-04-08
+- 1. 使用Zipkin构建Go应用程序 https://medium.com/@jcchavezs/b79cc858ac3e
+
+- 2. Java VS Go:为Freshdesk的微服务系统选择一门开发语言 https://blog.freshworks.com/java-vs-golang/
+
+- 3. Gos实现的lisp环境 https://github.com/kode4food/sputter
+
+- 4. 超级账本搭建流程(全): https://segmentfault.com/a/1190000014221967
+
+- 5. DHT 分布式哈希表 http://colobu.com/2018/03/26/distributed-hash-table/
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-07
 - 1. 写Go代码时遇到的那些问题[第3期] https://tonybai.com/2018/04/06/the-problems-i-encountered-when-writing-go-code-issue-3rd
 
