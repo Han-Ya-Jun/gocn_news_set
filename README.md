@@ -1,3 +1,15 @@
+### gocn_news_2018-07-11
+- 1. Go-application 完全监控及可视化 https://www.dynatrace.com/news/blog/full-code-level-visibility-now-available-for-go-application-monitoring/
+
+- 2. 我在使用channel的时候出现了什么问题 https://www.reddit.com/r/golang/comments/8xre51/what_is_wrong_with_my_use_of_channels/
+
+- 3. Golang LLVM后端 https://go.googlesource.com/gollvm
+
+- 4. 全链路跟踪中间件探索之路 https://mp.weixin.qq.com/s/kjxFhqgZ0kdPpnEyNYgcxQ
+
+- 5. 使用Go实现的去中心化P2P网络协议 https://medium.com/perlin-network/noise-an-opinionated-p2p-networking-stack-for-decentralized-protocols-in-go-bfc6fecf157d
+
+- - - - - - - - - - 
 ### gocn_news_2018-07-10
 - 1. Go  工业级编程 https://peter.bourgon.org/go-for-industrial-programming/
 
