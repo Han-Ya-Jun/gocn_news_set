@@ -1,3 +1,15 @@
+### gocn_news_2018-03-11
+- 1. Go编写的现代 IRC 服务 https://github.com/oragono/oragono
+
+- 2. 通过写测试学习Go https://github.com/quii/learn-go-with-tests/tree/master/hello-world
+
+- 3. 区块链与函数式编程 https://zhuanlan.zhihu.com/p/34287276
+
+- 4. 设计一套良好 REST API https://zhuanlan.zhihu.com/p/34289466
+
+- 5. 使用机器生成代码的5个好处 https://medium.com/@dgryski/five-nice-things-for-machine-generated-code-5335e67c1e36
+
+- - - - - - - - - - 
 ### gocn_news_2018-03-10
 - 1. Golang 2D游戏库 https://github.com/hajimehoshi/ebiten
 
