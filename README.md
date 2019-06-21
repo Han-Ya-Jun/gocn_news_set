@@ -1,3 +1,15 @@
+### gocn_news_2017-12-19
+- 1. 通过解析器来理解 Go  https://medium.com/@francesc/understanding-go-programs-with-go-parser-c4e88a6edb87
+
+- 2. Go 面向对象编程  https://icyapril.com/go/programming/2017/12/17/object-orientation-in-go.html
+
+- 3. 使用 Gin 框架创建 API 服务  https://ryanmccue.ca/creating-an-api-with-golang-gin-framework/
+
+- 4. Unsafe 包以及系统调用的相关讲解  https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/
+
+- 5. 手把手教你写 K8s 服务 https://blog.gopheracademy.com/advent-2017/kubernetes-ready-service/
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-18
 - 1. 通过 HTTP 远程查找想要的 zip 文件 https://blog.gopheracademy.com/advent-2017/seekable-http/
 
