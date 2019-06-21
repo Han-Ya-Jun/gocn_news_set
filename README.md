@@ -1,3 +1,15 @@
+### gocn_news_2017-08-02
+- 1. 七步达到100倍的性能优化 https://syslog.ravelin.com/making-something-faster-56dd6b772b83
+
+- 2. Go编码风格指南 https://github.com/bahlo/go-styleguide
+
+- 3. 优化性能必备的6种架构 http://www.jianshu.com/p/bf431f8159bd
+
+- 4. RESTful API 设计与工程实践 http://blog.m31271n.com/2017/03/02/RESTful-API-设计与工程实践/
+
+- 5. 亚马逊高效研发的秘密 https://mp.weixin.qq.com/s/bd8ODr2FdhL3TOrmyhGIOw
+
+- - - - - 
 ### gocn_news_2017-08-01
 - 1. Linux 内核揭秘 https://xinqiu.gitbooks.io/linux-insides-cn/
 
