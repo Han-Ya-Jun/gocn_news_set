@@ -1,3 +1,15 @@
+### gocn_news_2018-11-06
+- 1. goroutine 剖析： https://medium.com/rungo/anatomy-of-goroutines-in-go-concurrency-in-go-a4cb9272ff88
+
+- 2. uAdmin - Go web 框架：https://medium.com/@twistedhardware/uadmin-the-golang-web-framework-a666651479af
+
+- 3. 基于 k8s 和 Helm 构建 CI/CD: https://medium.com/@vashgaurav/ci-cd-with-kubernetes-and-helm-79379d017d75
+
+- 4. 边缘计算运用于物联网的六个关键点：https://internetofthingsagenda.techtarget.com/feature/6-significant-issues-that-edge-computing-in-IoT-solves
+
+- 5. 使用 IPFS 安全地共享区块链上的文件：https://medium.com/@mycoralhealth/learn-to-securely-share-files-on-the-blockchain-with-ipfs-219ee47df54c
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-05
 - 1. 使用 scratch Docker 镜像部署 Go 应用 https://weberc2.bitbucket.io/posts/golang-docker-scratch-app.html
 
