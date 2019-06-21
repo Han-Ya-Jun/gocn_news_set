@@ -1,3 +1,15 @@
+### gocn_news_2019-03-08
+- 1. Go Channels完全指南 https://go101.org/article/channel.html
+
+- 2. Go 缓存实现的最新水平 https://blog.dgraph.io/post/caching-in-go/  
+
+- 3. Uber开源了P2P镜像仓库Kraken https://eng.uber.com/introducing-kraken/  
+
+- 4. go-tflite:TensorFlow Lite的Go语言链接库 https://github.com/mattn/go-tflite
+
+- 5. pipe-to-me:使用curl实现流式交互 https://github.com/jpschroeder/pipe-to-me
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-07
 - 1. 用Hugo重写我的个人网站 https://dev.to/restoreddev/rewriting-my-personal-site-with-hugo-1708
 
