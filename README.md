@@ -96,3 +96,15 @@
 - 5. 服务端高并发分布式架构演进之路 https://segmentfault.com/a/1190000018626163
 
 - - - - - 
+### gocn_news_2019-06-21
+- 1. Go 代码简洁之道 https://github.com/Pungyeon/clean-go
+
+- 2. Go 流处理库 https://github.com/reugn/go-streams
+
+- 3. 基于 Envoy、Cilium 和 eBPF 实现透明的混沌测试 https://arthurchiao.github.io/blog/transparent-chaos-testing-with-envoy-cilium-ebpf-zh/
+
+- 4. Go 对象健美操 https://dev.to/eminetto/object-calisthenics-in-golang-1h75
+
+- 5. 类型系统的数学之美 https://mp.weixin.qq.com/s/ieEewizkN7H-11z-PexkGw
+
+- - - - - 
