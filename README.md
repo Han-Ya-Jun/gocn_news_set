@@ -1,3 +1,15 @@
+### gocn_news_2018-01-16
+- 1. Aws lambda 服务支持Go语言了 : https://github.com/aws/aws-lambda-go
+
+- 2. Json 转为 Go 结构体的小工具： https://transform.now.sh/json-to-go/
+
+- 3. 为什么 channel 的默认值为 nil？：https://medium.com/justforfunc/why-are-there-nil-channels-in-go-9877cc0b2308
+
+- 4. 基于k8s 构建现代大数据管道： http://www.infoq.com/cn/news/2018/01/big-data-pipelines-kubernetes
+
+- 5. 基于 Go 机器学习的网页语义分析：http://www.jamesbowman.me/post/semantic-analysis-of-webpages-with-machine-learning-in-go
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-15
 - 1. 2017 最火的 5 个 justforfunc 视频 https://medium.com/@francesc/justforfunc-a-year-in-review-af4003d56179
 
