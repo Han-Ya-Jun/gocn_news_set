@@ -1,3 +1,15 @@
+### gocn_news_2018-01-09
+- 1. Go’s hidden #pragmas https://dave.cheney.net/2018/01/08/gos-hidden-pragmas
+
+- 2. Go 语言高级编程 https://github.com/chai2010/advanced-go-programming-book
+
+- 3. 依赖注入不是Java的专利，Golang也有 https://zhuanlan.zhihu.com/p/32689810
+
+- 4. B站日志系统的前世今生 https://mp.weixin.qq.com/s/onrBwQ0vyLJYWD_FRnNjEg
+
+- 5. Go 的 Git 实现 https://github.com/src-d/go-git
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-08
 - 1. httplive: Go语言实现的Postman开源替代 https://github.com/gencebay/httplive
 
