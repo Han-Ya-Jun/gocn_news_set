@@ -1,3 +1,15 @@
+### gocn_news_2018-06-09
+- 1. Go学习笔记（雨痕学堂）下卷 初始化 https://mp.weixin.qq.com/s/_PbNrKkL3Wr3TEiPjX-X6g
+
+- 2. TiDB 源码阅读系列文章 Hash Join https://my.oschina.net/zhaiyuan/blog/1825744
+
+- 3. GO语言学习笔记-缓冲区Channels和线程池 https://juejin.im/entry/5b1a239de51d45067a72955e
+
+- 4. 如何写出完美无暇的Go代码 https://medium.freecodecamp.org/how-to-write-bulletproof-code-in-go-a-workflow-for-servers-that-cant-fail-10a14a765f22
+
+- 5. 深度学习在美团搜索广告排序的应用实践 https://tech.meituan.com/searchads_dnn.html
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-08
 - 1. Go 1.10.3和1.9.7发布 https://groups.google.com/forum/m/#!topic/golang-announce/_S9YQriFKuU
 
