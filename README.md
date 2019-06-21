@@ -1,3 +1,17 @@
+### gocn_news_2017-06-20
+- 1. 服务器负载优化技巧 http://geek.csdn.net/news/detail/202676
+
+- 2. REST的7大技巧 http://blog.restcase.com/7-rules-for-rest-api-uri-design/
+
+- 3. Go不是Python http://www.seanhelvey.com/go-is-not-python/
+
+- 4. 通过流量控制来扩展API https://stripe.com/blog/rate-limiters
+
+- 5. severless 新时代的VB http://highscalability.com/blog/2017/5/15/is-serverless-the-new-visual-basic.html
+
+- 6. 上海Gopher meetup 报名地址：http://www.bagevent.com/event/569317
+
+- - - - 
 ### gocn_news_2017-06-19
 - 1. 浏览器中运行并分享shell https://bash.rocks/
 
