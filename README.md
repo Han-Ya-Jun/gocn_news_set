@@ -1,3 +1,17 @@
+### gocn_news_2017-07-21
+- 1. Go怎么写一个网络客户端 https://www.slideshare.net/nats_io/writing-networking-clients-in-go-gophercon-2017-talk
+
+- 2. Grumpy入门 https://speakerdeck.com/m157q/20170718-gtg25-introduction-to-grumpy-1
+
+- 3. Go面试题答案与解析 https://yushuangqi.com/blog/2017/golang-mian-shi-ti-da-an-yujie-xi.html
+
+- 4. pprof简单教程 https://gocn.io/article/394
+
+- 5. 使用ELK构建分布式日志分析系统 http://www.jianshu.com/p/69ce51cfcb3d
+
+- 6. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-20
 - 1. 改进log4go的设想 http://www.cnblogs.com/ccpaging/p/7205226.html
 
