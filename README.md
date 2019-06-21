@@ -1,3 +1,15 @@
+### gocn_news_2017-12-16
+- 1. Go IGDB客户端 https://github.com/Henry-Sarabia/igdb
+
+- 2. GopherChina 2018 即将到 https://twitter.com/astaxie/status/941672327015628800
+
+- 3. 深入理解unsafe.Pointer和System calls https://blog.gopheracademy.com/advent-2017/unsafe-pointer-and-system-calls/
+
+- 4. 谈谈Linux平均负载 http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html
+
+- 5. 全球AI创业公司前100强 https://mp.weixin.qq.com/s/-UpwJR54nD__Yw7v1Bb3VA
+
+- - - - - - - - - - 
 ### gocn_news_2017-12-15
 - 1. 单元测试的艺术 https://www.youtube.com/watch?v=EOpj9aZ8KfoGoCN
 
