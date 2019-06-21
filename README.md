@@ -1,3 +1,15 @@
+### gocn_news_2017-10-09
+- 1. Go奇葩点 https://i6448038.github.io/2017/10/06/GolangDetailsTwo/
+
+- 2. gRPC和RESTFul API性能对比 https://dev.to/plutov/benchmarking-grpc-and-rest-in-go-565
+
+- 3. graphql的概述 https://dzone.com/refcardz/an-overview-of-graphql
+
+- 4. 2017年学习Go的视频和书籍集合 https://reactdom.com/blog/go-books
+
+- 5. 《微服务：从设计到部署》https://github.com/oopsguy/microservices-from-design-to-deployment-chinese
+
+- - - - - 
 ### gocn_news_2017-10-08
 - 1. 基于openfaas的serverless服务 https://blog.alexellis.io/serverless-golang-with-openfaas/
 
