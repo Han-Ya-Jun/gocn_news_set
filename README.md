@@ -1,3 +1,15 @@
+### gocn_news_2018-05-10
+- 1. Go开发的又一个分布式数据库 https://github.com/radondb/radon
+
+- 2. 七年开发之后的Go HTTP server 最佳实践  https://medium.com/@matryer/how-i-write-go-http-services-after-seven-years-37c208122831
+
+- 3. 网上银行区块链项目需求分析最佳实践 http://www.talkwithtrend.com/Article/220463
+
+- 4. Go 语言中下划线的用法分析总结  https://github.com/gopher-offline/gopher-offline-shenzhen/blob/master/other/2018-05-08-anlayze-underscore-in-go.md
+
+- 5. 贝壳找房权限服务的探索和实践 https://mp.weixin.qq.com/s/xRKMvjEpS58kpikNTkbp1Q
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-09
 - 1. VS Code插件：将代码大纲添加到文件管理器中 https://marketplace.visualstudio.com/items?itemName=766b.go-outliner
 
