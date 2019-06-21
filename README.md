@@ -1,3 +1,20 @@
+### gocn_news_2018-02-07
+- 1. GoCN每日新闻(2018-02-07)
+
+- 2. 1.配置sql.DB更好的性能 http://www.alexedwards.net/blog/configuring-sqldb
+2.表单验证集合 http://www.alexedwards.net/blog/validation-snippets-for-go
+3.在树莓派上运行Go程序 https://dev.to/plutov/video-series-running-go-programs-on-raspberry-pi-543o
+4.Go使用OpenCV和MachineBox进行人脸检测 https://dev.to/plutov/face-detection-in-go-using-opencv-and-machinebox-4ph2
+5.Tensorflow 项目实践案例 https://github.com/Mrgemy95/Tensorflow-Project-Template
+
+- 3. Tips:
+
+- 4. 编辑: 李森森
+订阅新闻: http://tinyletter.com/gocn
+
+- 5. 格式有点乱了
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-05
 - 1. 谈谈2018年技术趋势和架构规划 http://www.infoq.com/cn/news/2018/02/2018-architect-trend
 
