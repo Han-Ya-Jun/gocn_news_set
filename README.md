@@ -1,3 +1,15 @@
+### gocn_news_2018-11-25
+- 1. Golang实现OpenID认证的OAuth2服务器 https://github.com/ory/hydra
+
+- 2. Golang编码技巧 https://juejin.im/post/5bf9610e6fb9a04a027a040d
+
+- 3. Dromara:高性能异步响应Gateway https://github.com/Dromara/soul
+
+- 4. OS性能之殇系列 https://lvwenhan.com/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/492.html 
+
+- 5. 中台是什么 https://insights.thoughtworks.cn/what-is-zhongtai/
+
+- - - - - - - - - - 
 ### gocn_news_2018-11-24
 - 1. 五种语言五个故事 https://medium.com/@kari.marttila/five-languages-five-stories-1afd7b0b583f
 
