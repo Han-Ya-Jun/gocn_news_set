@@ -1,3 +1,15 @@
+### gocn_news_2018-08-16
+- 1. 迁移到Serverless之前应该想清楚的几件事 https://mp.weixin.qq.com/s/P1fKZwPaIsOQKvmQXqj2yg
+
+- 2. 使用 Istio 控制 Ingress 流量 https://mp.weixin.qq.com/s/X9CGrOZs4n0ZSsrXXkrAWQ
+
+- 3. 滴滴弹性云Kubernetes实践 https://mp.weixin.qq.com/s/Fnsoo1ifGsu9kunHi_UzvA
+
+- 4. Istio Service Mesh命令行工具Istioctl完全使用指南  https://mp.weixin.qq.com/s/00m9WVxBQ_j4c7YR9c-zJQ
+
+- 5. 会比Kubernetes和无服务器更有前途的是Istio https://mp.weixin.qq.com/s/Tt5NyN9WnT2-TdfPvz4fiQ
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-15
 - 1. 在Go中我从来都不用的特性 https://www.youtube.com/watch?v=5DVV36uqQ4E
 
