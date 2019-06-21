@@ -1,3 +1,15 @@
+### gocn_news_2019-04-04
+- 1. 使用Drone和GoReleaser自动化发布到Github https://dev.to/mstrsobserver/painless-github-releases-with-drone-and-goreleaser-45b7
+
+- 2. Golang中使用sql.Rows错误的诊断来帮助发现错误 https://github.com/gostaticanalysis/sqlrows
+
+- 3. 企业级持续交付和DevOps自动化开源平台 https://github.com/ovh/cds
+
+- 4. 使用chrome和docker从HTML页面创建PDF https://github.com/FireFart/gochro
+
+- 5. Golang中的方法 https://go101.org/article/method.html
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-03
 - 1. 高性能 Go 服务的内存优化(译) https://www.jianshu.com/p/63404461e520
 
