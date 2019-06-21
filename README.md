@@ -1,3 +1,15 @@
+### gocn_news_2019-02-12
+- 1. Go 即时通讯服务：https://github.com/tinode/chat
+
+- 2. Go 切片讲解：https://blog.gojekengineering.com/grab-a-slice-on-the-go-c606344186c1
+
+- 3. Go 2D 游戏引擎：https://github.com/faiface/pixel
+
+- 4. MongoDB 十分钟入门：https://medium.freecodecamp.org/learn-mongodb-a4ce205e7739
+
+- 5. 2019年物联网九大趋势及预测：http://www.qianjia.com/html/2019-02/01_323385.html
+
+- - - - - - - - - - 
 ### gocn_news_2019-02-11
 - 1. 使用 AWS Lambda 将图像转化为 Ascii 图像 https://cantasaurus.github.io/post/goimagetoascii
 
