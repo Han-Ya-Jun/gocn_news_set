@@ -1,3 +1,15 @@
+### gocn_news_2018-04-19
+- 1. 在Tensorflow中使用Deep Learning构建图像标题生成器 https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f
+
+- 2. 微服务实践之旅  https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917
+
+- 3. 在现实世界中的Go并发 https://www.infoq.com/presentations/go-concurrency-demo
+
+- 4. 开发人员和工程师的区别是什么？ https://hackernoon.com/whats-the-difference-between-a-developer-and-an-engineer-1e7a97fc1bd
+
+- 5. 为什么你可以拥有数百万个Goroutines，但只有数千个Java线程 https://rcoh.me/posts/why-you-can-have-a-million-go-routines-but-only-1000-java-threads/
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-18
 - 1. 谷歌开源容器镜像归档工具 https://github.com/GoogleContainerTools/kaniko
 
