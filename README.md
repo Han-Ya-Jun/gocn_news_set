@@ -1,3 +1,15 @@
+### gocn_news_2017-10-27
+- 1. Go 实现的进程管理应用(Go Hackathon产物) https://github.com/foreversmart/sir
+
+- 2. gogland发布新版本 https://blog.jetbrains.com/go/2017/10/26/gogland-eap-17-type-hierarchy-call-hierarchy-parameter-hints-vendor-scope-and-more/
+
+- 3. Channels的行为 https://www.goinggo.net/2017/10/the-behavior-of-channels.html
+
+- 4. 压力测试工具hey https://dev.to/saantoryuu/load-testing-using-hey-c84
+
+- 5. Go中如何错误处理 https://golangbot.com/error-handling/
+
+- - - - - 
 ### gocn_news_2017-10-26
 - 1. 在Golang进化的代理模式 http://www.jianshu.com/p/2b11163f35a3
 
