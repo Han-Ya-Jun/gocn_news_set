@@ -1,3 +1,15 @@
+### gocn_news_2018-12-05
+- 1. golang本地存储 https://blog.gopheracademy.com/advent-2018/disk-datastores/ 
+
+- 2. 实时的机器学习 https://blog.zen.ly/real-time-machine-learning-in-go-at-zenly-5fece526b2ac 
+
+- 3. 触手可及的负载均衡器 https://medium.com/@owlwalks/load-balancer-at-your-fingertips-golang-ea23d7aaee82 
+
+- 4. slice内部是怎么工作的 https://medium.com/@riteeksrivastava/how-slices-internally-work-in-golang-a47fcb5d42ce 
+
+- 5. golang后台服务设计 http://litang.me/post/golang-server-design 
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-04
 - 1. 使用 Delve 对 Go 程序进行调试： https://blog.gopheracademy.com/advent-2018/postmortem-debugging-delve/
 
