@@ -1,3 +1,15 @@
+### gocn_news_2017-09-27
+- 1. Imgproxy 图片resize工具 https://evilmartians.com/chronicles/introducing-imgproxy
+
+- 2. code review技巧 https://youtu.be/SWKuYLqouIY
+
+- 3. Go实现的一个简单的恶意ip库 https://zhuanlan.zhihu.com/p/29684557
+
+- 4. 基于Go实现的银行系统 https://speakerdeck.com/mattheath/banking-on-go-gosf-meetup-sep-2017
+
+- 5. Prose 是一款用于Go 语言的文本处理库 https://github.com/jdkato/prose
+
+- - - - - 
 ### gocn_news_2017-09-26
 - 1. 30个常用strings函数范例 http://www.golangprograms.com/golang/string-functions/
 
