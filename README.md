@@ -60,3 +60,15 @@
 - 5. [译] Go语言使用TCP keepalive https://www.pengrl.com/p/62417/
 
 - - - - - 
+### gocn_news_2019-06-21
+- 1. Go Unsafe包解析 https://medium.com/@blanchon.vincent/go-what-is-the-unsafe-package-d2443da36350
+
+- 2. Go 结构体中指针的使用 https://medium.com/@blanchon.vincent/go-should-i-use-a-pointer-instead-of-a-copy-of-my-struct-44b43b104963
+
+- 3. Go 1.12.6 和 Go 1.11.11 发布了 https://groups.google.com/forum/#!topic/golang-nuts/Rp1RUOu330Q
+
+- 4. 构建Go代码的三种方法 https://www.perimeterx.com/blog/ok-lets-go/
+
+- 5. 在Go中实现可恢复的异常系统 https://rauhl.com/2019/06/implementing-a-resumable-exception-system-in-go/
+
+- - - - - 
