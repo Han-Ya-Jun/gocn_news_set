@@ -1,3 +1,15 @@
+### gocn_news_2017-11-29
+- 1. 深入理解 ElasticSearch Doc Values http://www.majiang.life/blog/deep-dive-on-elasticsearch-doc-values/
+
+- 2. Gotorch - 多机定时任务管理系统 http://www.cnblogs.com/zhenbianshu/p/7905678.html
+
+- 3. 从微服务演进过程中获得的十条经验 https://thenewstack.io/airbnbs-10-takeaways-moving-microservices/
+
+- 4. 给了数据库和机器,为啥也扩不了容 http://url.cn/5RWR4VZ
+
+- 5. Go TCP Socket的实现 https://medium.com/@ggiovani/tcp-socket-implementation-on-golang-c38b67c5d8b
+
+- - - - - - - - - - 
 ### gocn_news_2017-11-28
 - 1. Go defer 可视化简介 https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff
 
