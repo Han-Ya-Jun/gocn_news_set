@@ -1,3 +1,15 @@
+### gocn_news_2019-01-02
+- 1. Go语言slice的本质-SliceHeader：https://juejin.im/post/5c2a1e446fb9a049df242997
+
+- 2. Golang中的数据库迁移：https://lanre.wtf/blog/2019/01/02/database-migration-golang/
+
+- 3. TiDB-Tools golang 开发实践：https://mp.weixin.qq.com/s/idHQbI9_3-euHFEzKvlJlg
+
+- 4. Kubernetes的未来在于虚拟机而非容器：https://mp.weixin.qq.com/s/304qQoZfUiyZBTvyCVFYow
+
+- 5. 5G下的微服务架构：拥抱NFV，Istio 1.1将支持多网络平面：https://mp.weixin.qq.com/s/Rn2MdrrV3YahtdnWrfReYA
+
+- - - - - - - - - - 
 ### gocn_news_2019-01-01
 - 1. 理解 channel range 操作：https://imil.net/blog/2018/12/31/Understanding-golang-channel-range/ 
 
