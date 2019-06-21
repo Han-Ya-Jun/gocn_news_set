@@ -1,3 +1,19 @@
+### gocn_news_2017-09-06
+- 1. 我怎么学习Go语言 https://dev.to/codehakase/how-i-learned-go-programming
+
+- 2. Gopher面试中的Coding http://www.jianshu.com/p/268068e786b8
+
+- 3. Go 中map和slice的传递 http://www.cnblogs.com/snowInPluto/p/7477365.html
+
+- 4. Go语言那些坑 https://i6448038.github.io/2017/07/28/Go%E8%AF%AD%E8%A8%80%E7%9A%84%E9%82%A3%E4%BA%9B%E5%9D%91/
+
+- 5. 
+无限容量数据库架构设计 https://mp.weixin.qq.com/s/ad4tpM6cdi9r6vgfbaTzxg
+
+
+- 6. [9月9日]广州Gopher Meetup https://www.bagevent.com/event/751233
+
+- - - - 
 ### gocn_news_2017-09-05
 - 1. 给你的编辑器装上docker的翅膀 https://nickjanetakis.com/blog/configuring-your-code-editor-for-docker
 
