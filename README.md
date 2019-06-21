@@ -1,3 +1,15 @@
+### gocn_news_2018-02-05
+- 1. 谈谈2018年技术趋势和架构规划 http://www.infoq.com/cn/news/2018/02/2018-architect-trend
+
+- 2. 使用Prometheus监控Go服务 http://alex.dzyoba.com/blog/go-prometheus-service/
+
+- 3. FOSDEM 2018大会视频 https://www.youtube.com/watch?v=JctBMLQ_IdA&list=PL_QKjHDgmNzpckLNciogFQ79csbL4JtzN
+
+- 4. Go实现的SSH蜜罐 https://github.com/mkishere/sshsyrup
+
+- 5. Go 获取 Goroutine ID（goid） https://zhuanlan.zhihu.com/p/33567726
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-04
 - 1. Go 1.10 State https://speakerdeck.com/campoy/the-state-of-go-1-dot-10
 
