@@ -1,3 +1,15 @@
+### gocn_news_2018-12-02
+- 1. Hello, Go module proxy https://tonybai.com/2018/11/26/hello-go-module-proxy/
+
+- 2. Go 2 泛型: 接口不是类型约束的正确模型 https://utcc.utoronto.ca/~cks/space/blog/programming/Go2GenericsNotWithInterfaces
+
+- 3. 从xx语言到Go文章合集 https://github.com/golang/go/wiki/FromXToGo
+
+- 4. raft协议作者:软件设计的哲学 https://www.youtube.com/watch?v=bmSAYlu0NcY
+
+- 5. 我为什么关掉了超线程 https://mp.weixin.qq.com/s/GvPxLXLF2bNuVTXaPVM3Ww
+
+- - - - - - - - - - 
 ### gocn_news_2018-12-01
 - 1. Go 2 提上日程，官方团队呼吁社区给新特性提案提交反馈 https://www.infoq.cn/article/hi*VJ3POswCiQc7dUZXM
 
