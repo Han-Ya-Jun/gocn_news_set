@@ -1,3 +1,17 @@
+### gocn_news_2017-07-08
+- 1. TIOBE Go 排名进入前十 https://www.tiobe.com/tiobe-index/
+
+- 2. Go中select和switch的对比 http://colobu.com/2017/07/07/select-vs-switch-in-golang/
+
+- 3. Gearman的Go实现 https://github.com/appscode/g2
+
+- 4. Go 调试诊断的wiki https://github.com/golang/go/wiki/diagnostics
+
+- 5. Go里面如何进行编码 http://technosophos.com/2016/03/09/go-quickly-converting-character-encodings.html
+
+- 6. 杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-07
 - 1. Go二进制文件发布系统 https://github.com/goreleaser/goreleaser
 
