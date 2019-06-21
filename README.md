@@ -1,3 +1,15 @@
+### gocn_news_2018-01-10
+- 1. 三种常见的API设计错误以及如何避免他们 https://blogs.mulesoft.com/dev/api-dev/overcome-three-common-api-mistakes/
+
+- 2. k8s实践笔记 https://jimmysong.io/
+
+- 3. 高效定时器的实现 https://jiachuhuang.github.io/2017/12/25/%E9%AB%98%E6%95%88%E5%AE%9A%E6%97%B6%E5%99%A8%E7%9A%84%E5%AE%9E%E7%8E%B0/
+
+- 4. 使用html5,Go和Facebox 在网站上实现面部识别 https://blog.machinebox.io/introducing-web-face-id-how-to-use-html5-go-and-facebox-to-verify-your-face-b75cf2aee5e8
+
+- 5. 以交易系统为例，看分布式事务架构的五大演进 http://dbaplus.cn/news-141-1175-1.html
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-09
 - 1. Go’s hidden #pragmas https://dave.cheney.net/2018/01/08/gos-hidden-pragmas
 
