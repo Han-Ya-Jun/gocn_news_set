@@ -1,3 +1,15 @@
+### gocn_news_2018-05-02
+- 1. Go 1.10.2 and 1.9.6 发布 https://groups.google.com/forum/#!topic/golang-announce/
+
+- 2. 关于range的一个知识点 https://gocn.io/question/1862
+
+- 3. 喜忧参半的 Kubernetes 生产之路 https://mp.weixin.qq.com/s/tM1BnnFGhLUuQZo_7ZeEiA
+
+- 4. 一个高性能的系统日志解析库 https://github.com/influxdata/go-syslog
+
+- 5. Kubernetes 状态管理与扩展 https://mp.weixin.qq.com/s/eHt61H1tAQsPmfSlrnMsjA
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-01
 - 1. TiDB 2.0 发布 https://pingcap.com/blog/tidb-2-0-announcement/
 
