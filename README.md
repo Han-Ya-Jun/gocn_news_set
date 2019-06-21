@@ -1,3 +1,15 @@
+### gocn_news_2018-02-20
+- 1. Go 1.10 更新内容 https://medium.com/@thuc/whats-changes-in-golang-1-10-d3022fbade3c
+
+- 2. Jenkins 构建 Go 的 CI 系统 https://medium.com/@zarkopafilis/building-a-ci-system-for-go-with-jenkins-4ab04d4bacd0
+
+- 3. Docker 的多阶段构建 https://zhuanlan.zhihu.com/p/33795821
+
+- 4. Go 竞争检查和修复 https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/
+
+- 5. 有趣也有用的现代类型系统 https://juejin.im/post/5a8a7755f265da4e7832a60e
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-19
 - 1. httpproxy:Go代理转发服务库 https://github.com/go-httpproxy/httpproxy
 
