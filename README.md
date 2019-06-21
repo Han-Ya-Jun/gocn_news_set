@@ -1,3 +1,15 @@
+### gocn_news_2018-04-20
+- 1. 苹果宣布开源FoundationDB https://www.foundationdb.org/blog/foundationdb-is-open-source/
+
+- 2. 阿里巴巴 Sigma 调度和集群管理系统架构详解 https://mp.weixin.qq.com/s/mNzS_uaXoaWL5z6KrKnoNQ
+
+- 3. Hyperleger Fabric 架构与部署实例解析 http://www.infoq.com/cn/articles/ibm-hyperleger-fabric-achitecture-deployment
+
+- 4. 为Go语言代码编写CI/CD工具的Makefile http://le-gall.bzh/post/makefile-based-ci-chain-for-go
+
+- 5. dnsperbench: DNS服务性能测试工具 https://github.com/turbobytes/dnsperfbench
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-19
 - 1. 在Tensorflow中使用Deep Learning构建图像标题生成器 https://medium.freecodecamp.org/building-an-image-caption-generator-with-deep-learning-in-tensorflow-a142722e9b1f
 
