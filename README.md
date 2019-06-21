@@ -1,3 +1,25 @@
+### gocn_news_2017-07-14
+- 1. 浅谈 MVC、MVP 和 MVVM 架构模式 http://draveness.me/mvx.html
+
+- 2. 软件架构模式 https://segmentfault.com/a/1190000009652120
+
+- 3. 朝着 Go2 前进 https://blog.golang.org/toward-go2
+
+- 4. 微服务设计模式 https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/
+
+- 5. DropBox Go实战 https://about.sourcegraph.com/go/go-reliability-and-durability-at-dropbox-tammy-butow
+
+- 6. 黄庆兵 《可视化学习 Go 并发编程》网易
+
+- 7. 陈超 《基于Go的大数据平台》七牛
+
+- 8. 张磊《 Kubernetes语境下的基于Golang的编程范式》Kubernetes官方ProjectManager
+
+- 9. 黄励博《基于 mesos 的容器调度框架》又拍云
+
+- 10. 谢孟军《Go使用grpc+http打造高性能微服务》GoCN
+
+
 ### gocn_news_2017-07-13
 - 1. 神经网络入门 http://www.ruanyifeng.com/blog/2017/07/neural-network.html
 
