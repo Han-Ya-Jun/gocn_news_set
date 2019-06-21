@@ -1,3 +1,15 @@
+### gocn_news_2017-10-07
+- 1. Go概述 https://blog.learngoprogramming.com/about-go-language-an-overview-f0bee143597c
+
+- 2. Go之美 https://hackernoon.com/the-beauty-of-go-98057e3f0a7d
+
+- 3. k8s很酷的原因 https://jvns.ca/blog/2017/10/05/reasons-kubernetes-is-cool/
+
+- 4. Go实现的FaaS https://github.com/fnproject/fn
+
+- 5. 快速开发基于pg的API原型工具 https://github.com/dhax/go-base
+
+- - - - - 
 ### gocn_news_2017-10-06
 - 1. 使用Go+gRPC打造高性能API http://www.agiratech.com/building-high-performance-apis-go-grpc/
 
