@@ -1,3 +1,15 @@
+### gocn_news_2017-09-05
+- 1. 给你的编辑器装上docker的翅膀 https://nickjanetakis.com/blog/configuring-your-code-editor-for-docker
+
+- 2. (译) Go 语言中没有引用传递 http://www.jianshu.com/p/d28db9b2acd5
+
+- 3. Gogland EAP 13 新版本发布https://blog.jetbrains.com/go/ ... more/
+
+- 4. OAuth2 Server https://github.com/ory/hydra
+
+- 5. Go Assembly 学习笔记 https://segmentfault.com/a/1190000010984538
+
+- - - - - 
 ### gocn_news_2017-09-04
 - 1. SIDH in Go for quantum-resistant TLS 1.3 https://blog.cloudflare.com/sidh-go/
 
