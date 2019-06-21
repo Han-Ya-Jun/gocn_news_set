@@ -1,3 +1,15 @@
+### gocn_news_2018-05-01
+- 1. TiDB 2.0 发布 https://pingcap.com/blog/tidb-2-0-announcement/
+
+- 2. Go 的 channels 的行为 https://segmentfault.com/a/1190000014524388
+
+- 3. 包命名的必要性 https://blog.chewxy.com/2018/05/01/go-dot-import-gotchas/
+
+- 4. GC有问题但很容易优化 https://syslog.ravelin.com/gc-is-bad-and-you-should-feel-bad-e9bdd9324f0
+
+- 5. Goland  2018.1.2 发布 https://blog.jetbrains.com/go/2018/04/27/goland-2018-1-2-is-out/
+
+- - - - - - - - - - 
 ### gocn_news_2018-04-30
 - 1. gago：Go实现的遗传算法库 https://github.com/MaxHalford/gago
 
