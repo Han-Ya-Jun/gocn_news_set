@@ -1,3 +1,15 @@
+### gocn_news_2019-04-24
+- 1. bilibili开源的微服务框架kratos https://github.com/bilibili/kratos
+
+- 2. Golang 1.x版本泛型编程 https://mp.weixin.qq.com/s/omh3CmItJiOQ7i-dE0dUxA
+
+- 3. 从goim定制, 浅谈 golang 的 interface 解耦合与gRPC https://juejin.im/post/5cbd380c5188250a97133649
+
+- 4. 命令行界面的Wireshark https://github.com/gcla/termshark
+
+- 5. 并发编程导论 https://juejin.im/post/5cbd7e6a5188250a7c4c8b0d
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-23
 - 1. Go Module: 项目配置不再需要 GOPATH  https://blog.francium.tech/go-modules-go-project-set-up-without-gopath-1ae601a4e868
 
