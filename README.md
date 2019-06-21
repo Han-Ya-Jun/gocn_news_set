@@ -1,3 +1,15 @@
+### gocn_news_2018-06-12
+- 1. Go 代码重构获得 23x 性能提升 https://medium.com/@val_deleplace/go-code-refactoring-the-23x-performance-hunt-156746b522f7
+
+- 2. GraphQL 入门  https://blog.graphql.guide/
+
+- 3. Golang: 详解container/heap https://ieevee.com/tech/2018/01/29/go-heap.html
+
+- 4. Golang 速查表 https://github.com/a8m/go-lang-cheat-sheet
+
+- 5. Windows 的 Go 环境管理工具 rungo https://adamlamar.github.io/2018-06-11-rungo-on-windows/ 
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-11
 - 1. Go中的依赖注入设计 https://medium.com/@boltmick1/dependency-injection-in-go-99b09e2cc480
 
