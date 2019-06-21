@@ -1,3 +1,15 @@
+### gocn_news_2019-02-19
+- 1. Gopher China 2019 大会讲师及议题揭晓 https://mp.weixin.qq.com/s/RZRx-1aUmqnpzCMRLq-fTA
+
+- 2. Go 的泛型还未准备好 https://drewdevault.com/2019/02/18/Generics-arent-ready-for-Go.html
+
+- 3. Go 协程池设计 https://segmentfault.com/a/1190000018193161
+
+- 4. TiDB 在摩拜单车的深度实践及应用 https://mp.weixin.qq.com/s/tXlli0-egrzXiX1__GuMPA
+
+- 5. 使用 Drone 搭建本地 CI/CD 服务 https://itnext.io/setting-up-simple-self-hosted-fast-ci-cd-solution-with-drone-ca0fbb176925
+
+- - - - - - - - - - 
 ### gocn_news_2019-02-18
 - 1. Go高级性能测试指南 https://blogtitle.github.io/go-advanced-benchmarking/
 
