@@ -1,3 +1,15 @@
+### gocn_news_2018-06-16
+- 1. Go语言中的组合 https://www.ardanlabs.com/blog/2015/09/composition-with-go.html
+
+- 2. GO 的链式调用写一个转码库 https://juejin.im/post/5b21364651882513ad323290
+
+- 3. GopherJS vs WebAssembly for Go https://dev.to/hajimehoshi/gopherjs-vs-webassembly-for-go-148m
+
+- 4. 一个用GO实现的实验性语言Fo https://github.com/albrow/fo
+
+- 5. 构建小型容器（Kubernetes最佳实践）https://www.youtube.com/watch?v=wGz_cbtCiEA
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-15
 - 1. 代码级别的Go程序监控 https://stackimpact.com/blog/code-level-golang-monitoring/
 
