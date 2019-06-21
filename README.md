@@ -1,3 +1,15 @@
+### gocn_news_2018-01-17
+- 1. Go通道缓冲 https://www.rapidloop.com/blog/golang-channels-tips-tricks.html
+
+- 2. Go for语句完全指南 https://sheepbao.github.io/post/golang_for_range_complete_guide/
+
+- 3. 高性能平台设计—美团旅行结算平台实践 https://tech.meituan.com/23%E6%9C%9F%E5%BC%A0%E5%AD%90%E9%91%AB%E6%B2%99%E9%BE%99%E9%80%9F%E8%AE%B0.html
+
+- 4. Go实现游戏答题助手 https://github.com/silenceper/qanswer
+
+- 5. 今日头条推荐算法原理全文详解 https://36kr.com/p/5114077.html
+
+- - - - - - - - - - 
 ### gocn_news_2018-01-16
 - 1. Aws lambda 服务支持Go语言了 : https://github.com/aws/aws-lambda-go
 
