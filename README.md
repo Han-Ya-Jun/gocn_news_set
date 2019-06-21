@@ -1,3 +1,15 @@
+### gocn_news_2018-06-20
+- 1. 你应该知道Go语言的几个优势 https://juejin.im/post/5b28c0c2e51d4558a57fcf34
+
+- 2. 用go和wasm创建网页组件 https://matthewphillips.info/programming/wasm-golang-ce.html
+
+- 3. 用go和自然语言处理分析日文 https://medium.com/@enocom/analyzing-japanese-with-natural-language-processing-and-go-64b26cb2436
+
+- 4. 蚂蚁金服Service Mesh演进 https://mp.weixin.qq.com/s/jfRPsNPQRV7GVsk_glqMYA
+
+- 5. 十问 TiDB ：关于架构设计的一些思考 https://mp.weixin.qq.com/s/m2_Mf0-x_KpPHbnOawyy2A
+
+- - - - - - - - - - 
 ### gocn_news_2018-06-19
 - 1. 限制程序中 goroutine 执行个数：https://medium.com/@zufolo/a-pattern-for-limiting-the-number-of-goroutines-in-execution-56e13b226e72
 
