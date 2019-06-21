@@ -1,3 +1,15 @@
+### gocn_news_2019-05-26
+- 1. 搞定Go单元测试(一)——基础原理 https://juejin.im/post/5ce93447e51d45775746b8b0
+
+- 2. Golang 读写锁RWMutex 互斥锁Mutex 源码详解 https://www.cnblogs.com/linkstar/p/10913502.html
+
+- 3. Go语言中使用切片(slice)实现一个Vector容器 https://www.cnblogs.com/aiandbigdata/p/10913336.html
+
+- 4. gopl 反射2 https://blog.51cto.com/steed/2398744
+
+- 5. 知乎千万级高性能长连接网关揭秘 https://mp.weixin.qq.com/s/DVsH9rNQS4DQHuXoRixalQ
+
+- - - - - - - - - - 
 ### gocn_news_2019-05-25
 - 1. 近期一个Golang项目的测试实践全记录 https://mp.weixin.qq.com/s/3Sngh1Y_HPpttp64Pxm6uw
 
