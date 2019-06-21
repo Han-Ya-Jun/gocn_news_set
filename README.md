@@ -1,3 +1,15 @@
+### gocn_news_2018-02-27
+- 1. Android 系统中运行 Go：http://rafalgolarz.com/blog/2017/01/15/running_golang_on_android/
+
+- 2. Go 中 Tag 的应用： https://medium.com/golangspec/tags-in-golang-3e5db0b8ef3e
+
+- 3. Go 中包导入声明：  https://medium.com/golangspec/import-declarations-in-go-8de0fd3ae8ff
+
+- 4. 为什么你应该关注量子链：https://medium.com/coingape/why-you-should-keep-qtum-cryptocurrency-on-your-radar-in-2018-918feb54a501 
+
+- 5. 深度学习在医学MR影像上的应用： https://medium.com/stanford-ai-for-healthcare/its-a-no-brainer-deep-learning-for-brain-mr-images-f60116397472
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-26
 - 1. [译] BoltDB：一个纯粹的 Go key/value 数据库 https://mp.weixin.qq.com/s/5y7q2DU9_ZWsZ7jzpkqiKQ
 
