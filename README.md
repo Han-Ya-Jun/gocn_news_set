@@ -1,3 +1,15 @@
+### gocn_news_2017-09-17
+- 1. 五个 Docker 日志最佳实践https://dzone.com/articles/5-d ... tices
+
+- 2. Golang动手写一个Http Proxy http://yangxikun.github.io/http/2017/09/16/http-proxy.html
+
+- 3. 选Rust还是Go https://matthias-endler.de/2017/go-vs-rust/
+
+- 4. Go 数据科学 https://www.oreilly.com/ideas/data-science-gophers
+
+- 5. 程序员方法论中文版 http://wiki.jikexueyuan.com/project/how-to-be-a-programmer/
+
+- - - - - 
 ### gocn_news_2017-09-16
 - 1. Go游戏项目中使用tls HTTPS和etcd通讯 http://www.cnxct.com/use-tls-https-to-transport-with-etcd-server-in-golang-gameserver/
 
