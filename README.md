@@ -1,3 +1,15 @@
+### gocn_news_2018-08-20
+- 1. Go 单元测试与接口 https://blog.andreiavram.ro/golang-unit-testing-interfaces
+
+- 2. 使用开源技术构建有赞分布式 KV 存储服务 https://mp.weixin.qq.com/s/G_lSbHqIdEvGYoz1sS9oUQ
+
+- 3. 基于io.Writer的日志rolling库 https://github.com/arthurkiller/rollingWriter
+
+- 4. jago：实验性的JVM实现 https://github.com/chaoyangnz/jago
+
+- 5. Wag: Go实现的wasm编译器 https://github.com/tsavola/wag
+
+- - - - - - - - - - 
 ### gocn_news_2018-08-19
 - 1. 用Go创建一款跨平台桌面游戏 https://sausheong.github.io/posts/cross-platform-games-with-go/
 
