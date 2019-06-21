@@ -1,3 +1,19 @@
+### gocn_news_2017-07-26
+- 1. Go 1.9 RC1 is out https://groups.google.com/forum/#!topic/golang-announce/Zwkj1khBMdI
+
+- 2. Go泛型辩论 http://bravenewgeek.com/are-we-there-yet-the-go-generics-debate/
+
+- 3. 微服务与API 网关（上）: 为什么需要API网关？https://mp.weixin.qq.com/s/XTzRr0eR6ybpNFGJ57cVkA
+
+- 4. 是否设置多个gopath？https://gocn.io/question/968
+
+- 5. 
+文件管理工具，可单独用也可以当库用 https://github.com/hacdias/filemanager
+
+
+- 6. [8月5日]杭州Gopher meetup http://www.bagevent.com/event/668296
+
+- - - - 
 ### gocn_news_2017-07-25
 - 1. Dropbox公司的Go语言探索之路 http://t.cn/R9PQkRw
 
