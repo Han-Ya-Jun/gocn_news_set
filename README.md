@@ -1,3 +1,15 @@
+### gocn_news_2018-02-03
+- 1. Prometheus原理和源码分析 http://www.infoq.com/cn/articles/Prometheus-theory-source-code
+
+- 2. Go写太空飞机大战游戏  https://sausheong.github.io/posts/space-invaders-with-go/
+
+- 3. Go开发的git仓库可视化工具grv https://github.com/rgburke/grv
+
+- 4. 数字货币可不只是区块链的全部，聪明人已经把它用到了业务中 http://www.infoq.com/cn/news/2018/01/blockchain-freewheel-architectur
+
+- 5. 宅男福音deepfakes开源了（利用人工智能视频换脸） https://juejin.im/post/5a71b6d151882573351aa05e
+
+- - - - - - - - - - 
 ### gocn_news_2018-02-02
 - 1. eBay的Elasticsearch性能调优实践 http://mp.weixin.qq.com/s/Xvc7f0nBaNVa7_DnzjCUiw
 
