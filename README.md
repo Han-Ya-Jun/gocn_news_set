@@ -1,3 +1,15 @@
+### gocn_news_2019-04-23
+- 1. Go Module: 项目配置不再需要 GOPATH  https://blog.francium.tech/go-modules-go-project-set-up-without-gopath-1ae601a4e868
+
+- 2. Go REST API 单元测试：https://codeburst.io/unit-testing-for-rest-apis-in-go-86c70dada52d
+
+- 3. 深入理解 Go channel：https://itnext.io/diving-into-golang-channels-e9e610d586e8
+
+- 4. 深入理解 Go 语言 defer https://mp.weixin.qq.com/s/e2t3CMUqtIcEq-OhbWy5Hw 
+
+- 5. StackOverflow 2019 程序员调查：https://coolshell.cn/articles/19307.html
+
+- - - - - - - - - - 
 ### gocn_news_2019-04-22
 - 1. 如何在应用实例中实现数据同步 https://medium.com/@Mnwa/how-to-syncing-data-between-application-instances-easy-fbe929f131e2
 
