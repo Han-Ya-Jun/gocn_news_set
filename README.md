@@ -1,3 +1,15 @@
+### gocn_news_2019-06-11
+- 1. Go 的常量 https://dave.cheney.net/2019/06/10/constant-time
+
+- 2. Go2错误处理提案：try还是check？ https://mp.weixin.qq.com/s/fpTM4zXCmGe2c03LhNbFRw
+
+- 3. Go 配置文件热加载 https://segmentfault.com/a/1190000019436438
+
+- 4. Rabbit 轻量级 Go 编译平台 https://github.com/Clivern/Rabbit
+
+- 5. Go 操作 CSV 数据 https://medium.com/@barunthapa/working-with-csv-in-go-50a4f540e623
+
+- - - - - - - - - - 
 ### gocn_news_2019-06-10
 - 1. 理解Go sync.Pool设计 https://medium.com/@blanchon.vincent/go-understand-the-design-of-sync-pool-2dde3024e277
 
