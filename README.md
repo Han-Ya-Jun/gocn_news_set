@@ -1,3 +1,15 @@
+### gocn_news_2018-05-18
+- 1. ARM 64平台之上的Go工具链实现剖析 https://mp.weixin.qq.com/s/xgHKpg1hXdb8WovOo18yhg
+
+- 2. Go上实现依赖注入 https://blog.drewolson.org/dependency-injection-in-go/
+
+- 3. AWS IoT Analytics服务正式发布 http://www.infoq.com/cn/news/2018/05/aws-iot-analytics
+
+- 4. boltBrowser: BoltDB网页图形化浏览工具 https://github.com/ShoshinNikita/boltBrowser
+
+- 5. Terratest：一个用于自动化基础设施测试的开源Go库 http://www.infoq.com/cn/news/2018/05/terratest-infra-testing
+
+- - - - - - - - - - 
 ### gocn_news_2018-05-17
 - 1. 算法分析入门指南 https://codeburst.io/the-ultimate-beginners-guide-to-analysis-of-algorithm-b8d32aa909c5
 
