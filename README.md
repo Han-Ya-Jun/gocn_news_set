@@ -1,3 +1,15 @@
+### gocn_news_2019-03-23
+- 1. 入门 Go 语言必须跨越的五个思维误区 https://www.infoq.cn/article/qzrGhlzq_HikN10xC5jC
+
+- 2. Golang 多goroutine异步通知error的一种方法 https://www.jianshu.com/p/5e7ce22d9831
+
+- 3. 使用Go模块获取私有依赖项 https://medium.com/@tim_raymond/fetching-private-dependencies-with-go-modules-1d65afe47c62
+
+- 4. CRFS：容器注册表文件系统 https://github.com/google/crfs
+
+- 5. 在Go中构建现代桌面应用程序 https://www.youtube.com/watch?v=uLijmr6ZoGs
+
+- - - - - - - - - - 
 ### gocn_news_2019-03-22
 - 1. 从 dep 迁移到 mod http://elliot.land/post/migrating-projects-from-dep-to-go-modules
 
