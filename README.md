@@ -1,3 +1,16 @@
+### gocn_news_2017-08-13
+- 1. GOCN每日新闻(2017-08-13)
+
+- 2. 1.Golangcode 代码贴士  https://golangcode.com
+2.不希望 Go 2 有什么？  https://www.reddit.com/r/golang/comments/6t5b67/what_wont_be_in_go_20/
+3.GoWorld 热更新分布式游戏服务器  https://github.com/xiaonanln/goworld
+4.Golang 与系统调用  https://segmentfault.com/a/1190000010630859
+5.从Haskell、JavaScript、Go看函数式编程  https://segmentfault.com/a/1190000010632526
+
+- 3. 编辑：傅小黑
+订阅新闻：http://tinyletter.com/gocn
+
+- - - - - - - 
 ### gocn_news_2017-08-12
 - 1. GOCN每日新闻(2017-08-12)
 
