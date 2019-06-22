@@ -3,7 +3,21 @@
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-06-22
+- 1. 内存屏障介绍 https://github.com/cch123/golang-notes/blob/master/memory_barrier.md
+
+- 2. 使用树莓派和Golang开发实时地图 https://developer.here.com/blog/real-time-maps-with-a-raspberry-pi-golang-and-here-xyz
+
+- 3. 编写更干净的Go代码 https://github.com/Pungyeon/clean-go-article
+
+- 4. Go Web 新手教程 https://juejin.im/post/5d0bb02ae51d455070226fb2
+
+- 5. 编译和部署Go程序到k8s https://github.com/google/ko
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-06-21
 - 1. Kubernetes1.15发布：可扩展性与持续性改进 https://mp.weixin.qq.com/s/Qb8AcKE0NHnWlYo905M-SA
 
