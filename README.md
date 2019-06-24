@@ -3,7 +3,21 @@
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-06-24
+- 1. Go与Python/R语言通讯 https://opendatagroup.github.io/development/2019/06/13/go-ffi.html
+
+- 2. 利用Go实现gRPC拦截器 https://davidsbond.github.io/2019/06/14/creating-grpc-interceptors-in-go.html
+
+- 3. circl: Cloudflare开源的加密库 https://blog.cloudflare.com/introducing-circl/
+
+- 4. go-xmpp: Go实现的XMPP库 https://github.com/FluuxIO/go-xmpp
+
+- 5. 如果在Go中使用context.Context https://medium.com/the-polyglot-programmer/how-to-use-the-context-context-package-with-the-go-language-7114878bbed9
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-06-23
 - 1. Golang手把手实现tcp内网穿透代理 https://www.jianshu.com/p/e79fe205f3e0
 
