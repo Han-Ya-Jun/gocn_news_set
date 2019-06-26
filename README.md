@@ -5,7 +5,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-06-26
+- 1. Go AES加解密性能测试 https://medium.com/@gerritjvv/aes-golang-encryption-performance-benchmarks-473e54ba304
+
+- 2. 使用unsafe包操作结构体中的私有成员 https://itnext.io/manipulating-private-fields-in-go-4da4ca525717
+
+- 3. 使用binary包进行数据编码 https://medium.com/learning-the-go-programming-language/encoding-data-with-the-go-binary-package-42c7c0eb3e73
+
+- 4. 带你理解Go结构体 https://medium.com/@victorsteven/understanding-data-structures-in-golang-f55205afdcaa
+
+- 5. bettercap:一款强大的网络抓包器 https://github.com/bettercap/bettercap
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-06-25
 - 1. 理解 Go 的 Array 和 Slice https://www.sohamkamani.com/blog/golang/arrays-vs-slices/
 
