@@ -6,7 +6,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-06-27
+- 1. 走向Go 2的下一步 https://blog.golang.org/go2-next-steps
+
+- 2. 使用Go构建数据库密集型应用程序的终极指南 http://t.cn/AipRdZir
+
+- 3. 关于在gRPC中使用TLS的 http://gophersre.com/2019/06/21/grpc-dont-supply-a-client-cert/
+
+- 4. 经典并发模式 https://www.youtube.com/watch?v=5zXAHh5tJqQ
+
+- 5. 内存泄漏优化 https://segmentfault.com/a/1190000019591222
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-06-26
 - 1. Go AES加解密性能测试 https://medium.com/@gerritjvv/aes-golang-encryption-performance-benchmarks-473e54ba304
 
