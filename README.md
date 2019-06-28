@@ -7,7 +7,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-06-28
+- 1. 关于内置catch函数捕获错误的讨论 https://github.com/golang/go/issues/32811
+
+- 2. Go单元测试 https://levelup.gitconnected.com/unit-testing-in-go-205ada2b9d7c
+
+- 3. Go defer 会有性能损耗，尽量不要用？https://github.com/EDDYCJY/blog/blob/master/golang/pkg/2019-06-16-Go-defer-loss.md
+
+- 4. 如何快速提升 Go 程序性能？ https://mp.weixin.qq.com/s/rta0Prdc5xq7Zd7mLzvcWA
+
+- 5. Go Modules踩坑总结 https://mp.weixin.qq.com/s/2v8kGm8T9BQFmpLfQE7-wg
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-06-27
 - 1. 走向Go 2的下一步 https://blog.golang.org/go2-next-steps
 
