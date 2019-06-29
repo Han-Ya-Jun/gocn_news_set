@@ -8,7 +8,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-06-29
+- 1. 提案：内置的Go错误检查 https://go.googlesource.com/proposal/+/master/design/32437-try-builtin.md
+
+- 2. Go Modules 语义版本控制的问题 https://blog.dgraph.io/post/serialization-versioning
+
+- 3. 尝试更严格的gofmt https://www.reddit.com/r/golang/comments/c66cz2/experimenting_with_a_stricter_gofmt
+
+- 4. 减少类型层次 https://www.ardanlabs.com/blog/2016/10/reducing-type-hierarchies.html
+
+- 5. 分布式时序数据库 LinDB https://zhuanlan.zhihu.com/p/35998778
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-06-28
 - 1. 关于内置catch函数捕获错误的讨论 https://github.com/golang/go/issues/32811
 
