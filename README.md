@@ -9,7 +9,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-06-30
+- 1. 关于改进 "if err != nil" 的讨论 https://github.com/golang/go/issues/32825
+
+- 2. 为 Go 开发者准备的 Makefiles 教程 https://www.youtube.com/watch?v=QztvWSCbQLU
+
+- 3. gRPC+gRPC Gateway 能不能不用证书？https://github.com/EDDYCJY/blog/blob/master/golang/2019-06-22-grpc-gateway-tls.md
+
+- 4. 还原 panic 时的函数信息 https://lekstu.ga/posts/pclntab-function-recovery/
+
+- 5. 性能持续测试工具 performabot https://github.com/saschagrunert/performabot
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-06-29
 - 1. 提案：内置的Go错误检查 https://go.googlesource.com/proposal/+/master/design/32437-try-builtin.md
 
