@@ -11,7 +11,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-02
+- 1. Go 实现的广告拦截工具：https://github.com/kaepora/resilience 
+
+- 2. Go 压缩/解压缩文件: https://github.com/mholt/archiver
+
+- 3. Go vs Python: 选择适合你的语言 https://medium.com/swlh/python-vs-golang-select-the-best-one-to-level-up-your-business-1a6d0fb32991
+
+- 4. 企业构建 Serverless 团队的五个建议：https://thenewstack.io/five-tips-building-serverless-teams-enterprise
+
+- 5. 使用 AWS Lambda 构建 PDF 生成器：https://medium.com/@_rich/richard-keller-61d9cb0f430 
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-01
 - 1. 微服务系列(一)：Go Rpc 源码解读 https://juejin.im/post/5d1760455188255cfc1a019f
 
