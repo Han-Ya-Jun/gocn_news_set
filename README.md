@@ -12,7 +12,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-03
+- 1. Go并发编程与同步原语 https://draveness.me/golang-sync-primitives.html
+
+- 2. Go Modules踩坑总结 https://juejin.im/post/5d1ae1b2f265da1b8466fecb
+
+- 3. 彻底弄懂return和defer的微妙关系 https://juejin.im/post/5d173ce16fb9a07ea803df75
+
+- 4. net/http输出context引起的map panic http://xiaorui.cc/?p=5919
+
+- 5. []byte和string类型相互转换时的性能分析和优化 https://www.pengrl.com/p/31544/
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-02
 - 1. Go 实现的广告拦截工具：https://github.com/kaepora/resilience 
 
