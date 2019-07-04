@@ -13,7 +13,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-04
+- 1. 基于gin构建企业级golang web脚手架 https://github.com/e421083458/gin_scaffold
+
+- 2. Istio多集群管理方案详解 https://mp.weixin.qq.com/s/Hwp62XMBvMT0NAk3RM928w
+
+- 3. 使用Elasticsearch Operator 快速部署Elasticsearch集群 https://mp.weixin.qq.com/s/Zmxdvv_zkTnSY3lP7CtzoQ
+
+- 4. 向GO内部编译器添加新语句 https://eli.thegreenplace.net/2019/go-compiler-internals-adding-a-new-statement-to-go-part-1/
+
+- 5. 专注于web应用的Golang模板引擎 https://github.com/gobuffalo/plush 
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-03
 - 1. Go并发编程与同步原语 https://draveness.me/golang-sync-primitives.html
 
