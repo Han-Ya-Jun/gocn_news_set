@@ -14,7 +14,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-05
+- 1. 关于 Go 'Try' 的一封公开信：https://www.ardanlabs.com/blog/2019/07/an-open-letter-to-the-go-team-about-try.html 
+
+- 2. 使在 Go 编写类似 shell 的脚本: https://github.com/bitfield/script
+
+- 3. Go Map 常见操作: http://www.golangprograms.com/go-language/golang-maps.html 
+
+- 4. 微服务架构和设计模式：https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a 
+
+- 5. 你真的需要微服务吗：https://itnext.io/do-you-really-need-microservices-e85d7711c78b
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-04
 - 1. 基于gin构建企业级golang web脚手架 https://github.com/e421083458/gin_scaffold
 
