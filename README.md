@@ -15,7 +15,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-06
+- 1. Go 程序是怎样跑起来的 https://juejin.im/post/5d1c087af265da1bb5651356
+
+- 2. Go Slices are Fat Pointers https://nullprogram.com/blog/2019/06/30/
+
+- 3. Golang轻量级RBAC鉴权库 https://juejin.im/post/5d1daa34f265da1b7e105514
+
+- 4. 通过例子了解Go Map设计 https://medium.com/@blanchon.vincent/go-map-design-by-example-part-i-3f78a064a352
+
+- 5. Go Subtests使用介绍 https://gochronicles.dev/posts/datastructures/list/singlylinkedlist/part-ii/
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-05
 - 1. 关于 Go 'Try' 的一封公开信：https://www.ardanlabs.com/blog/2019/07/an-open-letter-to-the-go-team-about-try.html 
 
