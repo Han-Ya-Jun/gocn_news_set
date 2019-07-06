@@ -16,7 +16,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-07
+- 1. 打造最快的go模板引擎gorazor2.0 https://zhuanlan.zhihu.com/p/72522371
+
+- 2. 一个commit引发的思考 https://www.cnblogs.com/apocelipes/p/11143899.html
+
+- 3. cache2go源码阅读 https://segmentfault.com/a/1190000019682392
+
+- 4. MySQL锁机制之表锁 https://www.jianshu.com/p/4688719c2dcd
+
+- 5. RedisRDB持久化详解 https://mp.weixin.qq.com/s/NpUV-7bvXTD3iu0_2aRssQ
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-06
 - 1. Go 程序是怎样跑起来的 https://juejin.im/post/5d1c087af265da1bb5651356
 
