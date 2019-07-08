@@ -17,7 +17,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-08
+- 1. Go测试包不为人知的功能 https://medium.com/@blanchon.vincent/go-unknown-parts-of-the-test-package-df8988b2ef7f
+
+- 2. 在Go中实现链式调用方式 https://preslav.me/2019/07/07/implementing-a-functional-style-builder-in-go/、
+
+- 3. goebpf：Go语言eBPF开发库 https://github.com/dropbox/goebpf
+
+- 4. 使用GraphQL和dataloader查询数据库 https://medium.com/@mikaelino/querying-a-database-with-graphql-and-dataloader-an-introduction-in-go-d8d2609bc635 
+
+- 5. 利用TinyGo将你的WebAssembly体积缩减72% https://dev.to/sendilkumarn/reduce-your-webassembly-binaries-72-from-56kb-to-26kb-to-16kb-40mi
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-07
 - 1. 打造最快的go模板引擎gorazor2.0 https://zhuanlan.zhihu.com/p/72522371
 
