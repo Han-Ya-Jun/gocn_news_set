@@ -18,7 +18,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-09
+- 1. Go内存分配那些事，就这么简单！https://mp.weixin.qq.com/s/3gGbJaeuvx4klqcv34hmmw
+
+- 2. Golang rate无法延迟重排的BUG http://xiaorui.cc/2019/06/28/golang-rate%E6%97%A0%E6%B3%95%E5%BB%B6%E8%BF%9F%E9%87%8D%E6%8E%92%E7%9A%84bug/
+
+- 3. Go 编程:交叉编译 vs 条件编译  https://www.gitdig.com/go-compatible/
+
+- 4. Golang解决TCP粘包拆包问题 https://juejin.im/post/5d220f7b6fb9a07ec7553da4
+
+- 5. 调研: GoMobile SDK 在 iOS 与 Android 上的集成与边界 https://juejin.im/post/5d233abae51d45772a49adbf
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-08
 - 1. Go测试包不为人知的功能 https://medium.com/@blanchon.vincent/go-unknown-parts-of-the-test-package-df8988b2ef7f
 
