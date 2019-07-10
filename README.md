@@ -19,7 +19,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-10
+- 1. Dave Cheney: 清晰比聪明更重要 https://dave.cheney.net/2019/07/09/clear-is-better-than-clever
+
+- 2. istio 最佳实践: Service Mesh 性能测试 https://istio.io/blog/2019/performance-best-practices/
+
+- 3. GO语言变量逃逸分析 https://www.jianshu.com/p/7571d3d0c12d
+
+- 4. 使用Go和TLS 加密链接GRPC https://medium.com/@nleiva/practical-guide-to-securing-grpc-connections-with-go-and-tls-part-1-f63058e9d6d1
+
+- 5. [译] Go语言如何使用条件编译 https://pengrl.com/p/41852/
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-09
 - 1. Go内存分配那些事，就这么简单！https://mp.weixin.qq.com/s/3gGbJaeuvx4klqcv34hmmw
 
