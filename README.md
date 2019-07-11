@@ -20,7 +20,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-11
+- 1. Go Modules讲解 https://www.youtube.com/watch?v=UbP0CFMKIJM
+
+- 2. 为WASM编译的Go编译器，在浏览器中运行 https://github.com/ccbrown/wasm-go-playground
+
+- 3. Uprobes 和 BPF https://wat.io/posts/uprobes-and-bpf/
+
+- 4. Go实现的用于验证Kubernetes配置的命令行工具ccheck https://github.com/brendanjryan/ccheck
+
+- 5. GO语言的基本LDAP功能 https://github.com/go-ldap/ldap
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-10
 - 1. Dave Cheney: 清晰比聪明更重要 https://dave.cheney.net/2019/07/09/clear-is-better-than-clever
 
