@@ -21,7 +21,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-12
+- 1. Golang 大杀器之跟踪剖析 trace https://juejin.im/post/5d27400151882530af139a85
+
+- 2. Go语言的微服务开发工具 https://www.bugsnag.com/blog/microservice-developer-tools-for-gophers
+
+- 3. [译]思考实践:用Go实现Flutter https://juejin.im/post/5d215b8df265da1b7b31ac8f
+
+- 4. Goch:Go语言编写的在线聊天服务 https://github.com/ribice/goch
+
+- 5. orbital:一个端对端测试框架 https://github.com/segmentio/orbital
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-11
 - 1. Go Modules讲解 https://www.youtube.com/watch?v=UbP0CFMKIJM
 
