@@ -22,7 +22,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-13
+- 1. Go 1.13 中 Modules 的标准特性 https://mp.weixin.qq.com/s/SGGV3tWEg5AAJ7I_FcK0cg
+
+- 2. Golang 并发编程与定时器 https://draveness.me/golang/concurrency/golang-timer.html
+
+- 3. Golang语言defer特性详解 https://www.jianshu.com/p/57acdbc8b30a
+
+- 4. Golang time.After内存泄露问题分析 https://www.cnblogs.com/luoming1224/p/11174927.html
+
+- 5. Go 编程：图解反射 https://www.gitdig.com/go-reflect
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-12
 - 1. Golang 大杀器之跟踪剖析 trace https://juejin.im/post/5d27400151882530af139a85
 
