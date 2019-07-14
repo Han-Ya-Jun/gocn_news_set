@@ -23,7 +23,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-14
+- 1. 如何使用 try https://faiface.github.io/post/how-to-use-try/
+
+- 2. Go程序是怎样跑起来的 https://mp.weixin.qq.com/s/Rewl0DKnq6CY53m5D3G2qw
+
+- 3. 可编程的HTTP/S代理工具martian https://github.com/google/martian
+
+- 4. cockroachdb出品的errors库 https://github.com/cockroachdb/errors
+
+- 5. Go可视化调用工具gocyto https://github.com/protolambda/gocyto
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-13
 - 1. Go 1.13 中 Modules 的标准特性 https://mp.weixin.qq.com/s/SGGV3tWEg5AAJ7I_FcK0cg
 
