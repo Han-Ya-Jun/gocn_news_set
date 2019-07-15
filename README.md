@@ -24,7 +24,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-15
+- 1. Go 逃逸分析 https://github.com/WilburXu/blog/blob/master/Golang/Go%20%E9%80%83%E9%80%B8%E5%88%86%E6%9E%90.md
+
+- 2. Go 编程：图解反射 https://www.gitdig.com/go-reflect
+
+- 3. Go Micro Register 源码分析 https://segmentfault.com/a/1190000019758939
+
+- 4. 文件分享中继服务器 https://github.com/schollz/hostyoself
+
+- 5. 为微服务开发者打造的开发工具 https://github.com/eko/monday
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-14
 - 1. 如何使用 try https://faiface.github.io/post/how-to-use-try/
 
