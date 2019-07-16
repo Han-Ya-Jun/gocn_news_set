@@ -25,7 +25,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-16
+- 1. Go 并发算法：http://www.golangprograms.com/go-language/concurrency.html
+
+- 2. Go websocket 框架：https://github.com/kataras/neffos
+
+- 3. Go 医学图像解析器: https://github.com/suyashkumar/dicom
+
+- 4. 使用服务网格简化微服务安全性问题：https://www.cncf.io/blog/2019/04/25/simplifying-microservices-security-with-a-service-mesh/
+
+- 5. MongoDB 4.2 特性预览：https://www.mongodb.com/blog/post/mongodb-42-previewed-at-mongodb-world 
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-15
 - 1. Go 逃逸分析 https://github.com/WilburXu/blog/blob/master/Golang/Go%20%E9%80%83%E9%80%B8%E5%88%86%E6%9E%90.md
 
