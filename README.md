@@ -26,7 +26,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-17
+- 1. Go try 提议被拒 https://github.com/golang/go/issues/32437#issuecomment-512035919
+
+- 2. Go 编程：那些隐晦的操作符 https://www.gitdig.com/go-operators/
+
+- 3. [译] 使用 Gomobile 和 Gopherjs 的动态二维码数据传输 https://juejin.im/post/5d2bfccef265da1bb77699e8
+
+- 4. Go中句法糖的成本 https://medium.com/@asilvr/the-cost-of-syntactic-sugar-in-go-5aa9dc307fe0
+
+- 5. Go编写的高性能、自我托管的通讯及邮件列表管理器 https://github.com/knadh/listmonk
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-16
 - 1. Go 并发算法：http://www.golangprograms.com/go-language/concurrency.html
 
