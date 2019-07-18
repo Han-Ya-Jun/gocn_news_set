@@ -27,7 +27,19 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-18
+- 1. Golang Modules学习  http://www.huamo.online/2019/07/08/Golang-Modules%E5%AD%A6%E4%B9%A0/
+
+- 2. Go Channel  https://taigacute.github.io/2019/07/14/Go-Channel/
+
+- 3. Go的Sync包  https://taigacute.github.io/2019/07/12/Go%E7%9A%84Sync%E5%8C%85/
+
+- 4. 深入研究goroutine栈  http://www.huamo.online/2019/06/25/%E6%B7%B1%E5%85%A5%E7%A0%94%E7%A9%B6goroutine%E6%A0%88/
+
+- - - - - - - - - - - 
+
 ### gocn_news_2019-07-17
 - 1. Go try 提议被拒 https://github.com/golang/go/issues/32437#issuecomment-512035919
 
