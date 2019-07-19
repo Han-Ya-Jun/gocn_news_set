@@ -28,7 +28,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-19
+- 1. Golang 中的垃圾回收（三）https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html
+
+- 2. golang中defer的执行过程是怎样的？https://juejin.im/post/5d303506f265da1b925412b9
+
+- 3. Vugu：Go + WebAssembly的现代UI库 https://www.vugu.org/
+
+- 4. 针对NAS设备的Go语言勒索软件已被破解 https://www.secrss.com/articles/12159
+
+- 5. TLS示例开发-golang版本 https://www.cnblogs.com/dust90/p/11207219.html
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-18
 - 1. Golang Modules学习  http://www.huamo.online/2019/07/08/Golang-Modules%E5%AD%A6%E4%B9%A0/
 
