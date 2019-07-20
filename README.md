@@ -29,7 +29,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-20
+- 1. Go程序内存分配优化 https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2
+
+- 2. Go代码最常见的10个错误 https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65
+
+- 3. Golang中interface底层分析 https://juejin.im/post/5d31884af265da1baa1eae79
+
+- 4. Go语言入门[翻译] https://juejin.im/post/5d316b69f265da1bb9701720
+
+- 5. Go程序平滑重启 https://github.com/cloudflare/tableflip
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-19
 - 1. Golang 中的垃圾回收（三）https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html
 
