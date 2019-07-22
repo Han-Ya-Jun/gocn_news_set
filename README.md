@@ -31,7 +31,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-22
+- 1. Go中的ORM和Query Builder https://andrewpillar.com/programming/2019/07/13/orms-and-query-building-in-go
+
+- 2. ignite: 基于Firecracker实现微内核工具 https://github.com/weaveworks/ignite
+
+- 3. Monday工具如何使用Go的经验分享 https://vincent.composieux.fr/article/how-does-monday-use-go-and-how-does-it-work
+
+- 4. pike: Go实现的类varnish服务 https://github.com/vicanso/pike
+
+- 5. Go学习资料整理 https://barbra.io/collection/36cc5e8a-c094-47da-b8f7-8e01a2dc12aa
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-21
 - 1. Go语言调度(一):系统调度 https://www.jianshu.com/p/db0aea4d60ed
 
