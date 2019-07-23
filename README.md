@@ -32,7 +32,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-23
+- 1. 深度解密Go语言之channel https://segmentfault.com/a/1190000019839546
+
+- 2. Go: Finalizers https://medium.com/@blanchon.vincent/go-finalizers-786df8e17687
+
+- 3. Go 结构体持久化库 https://golang.objectbox.io/
+
+- 4. 使用 Supervisor 运行 Go 程序 https://medium.com/@monirz/deploy-golang-app-in-5-minutes-ff354954fa8e
+
+- 5. Go 的 QML 绑定库 https://github.com/RadhiFadlillah/qamel
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-22
 - 1. Go中的ORM和Query Builder https://andrewpillar.com/programming/2019/07/13/orms-and-query-building-in-go
 
