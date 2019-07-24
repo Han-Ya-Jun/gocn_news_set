@@ -33,7 +33,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-24
+- 1. 在Go中编写令人愉快的HTTP中间件 https://doordash.engineering/2019/07/22/writing-delightful-http-middlewares-in-go/
+
+- 2. 进一步了解go的append函数 https://dev.to/andyhaskell/a-closer-look-at-go-s-slice-append-function-3bhb
+
+- 3. Go实现的HTTP缓存服务器 https://github.com/vicanso/pike
+
+- 4. 通过在Golang中构建一个简单的RPC框架来学习RPC https://github.com/ankur-anand/simple-go-rpc
+
+- 5. Go中的Vanity导入路径 https://sagikazarmark.hu/blog/vanity-import-paths-in-go/
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-23
 - 1. 深度解密Go语言之channel https://segmentfault.com/a/1190000019839546
 
