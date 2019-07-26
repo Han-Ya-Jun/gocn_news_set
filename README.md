@@ -35,7 +35,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-26
+- 1. GopherCon2019 - 大步迈向Go2 https://about.sourcegraph.com/go/gophercon-2019-on-the-road-to-go-2
+
+- 2. GopherCon2019 - Go在Uber的成长故事 https://about.sourcegraph.com/go/gophercon-2019-how-uber-go-es
+
+- 3. GopherCon2019 - 简单,轻便,高效的Go图形接口 https://about.sourcegraph.com/go/gophercon-2019-simple-portable-efficient-graphical-interfaces-in-go
+
+- 4. GopherCon2019 - 设计一个大伙喜欢的命令行工具 https://about.sourcegraph.com/go/gophercon-2019-design-command-line-tools-people-love
+
+- 5. GopherCon2019 - 着手开始WebAssembly https://about.sourcegraph.com/go/gophercon-2019-get-going-with-webassembly
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-25
 - 1. Go 语言十年而立，Go2 蓄势待发 https://mp.weixin.qq.com/s/wE_z7MxDJjIVDN16578tDw
 
