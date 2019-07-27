@@ -36,7 +36,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-27
+- 1. 在内存中存储敏感信息的安全的软件包 https://github.com/awnumar/memguard
+
+- 2. Pigo人脸检测库的全面概述 http://esimov.com/2019/07/pigo-face-detection-library
+
+- 3. casbin访问控制框架在GO中的基本使用方法 https://segmentfault.com/a/1190000019890975
+
+- 4. 8年后我如何编写HTTP Web服务 https://www.youtube.com/watch?v=8TLiGHJTlig
+
+- 5. Go 编程：tcpserver & graceful shutdown https://www.gitdig.com/go-tcpserver-graceful-shutdown/
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-26
 - 1. GopherCon2019 - 大步迈向Go2 https://about.sourcegraph.com/go/gophercon-2019-on-the-road-to-go-2
 
