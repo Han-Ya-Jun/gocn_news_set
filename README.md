@@ -37,7 +37,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-28
+- 1. Go2新特性建议之Contracts https://go.googlesource.com/proposal/+/4a54a00950b56dd0096482d0edae46969d7432a6/design/go2draft-contracts.md
+
+- 2. 我是如何在Go中嵌入资源文件 https://levelup.gitconnected.com/how-i-embedded-resources-in-go-514b72f6ef0a
+
+- 3. GopherCon2019 - Go的泛型 https://about.sourcegraph.com/go/gophercon-2019-generics-in-go
+
+- 4. 深挖Go Map的迭代器,range返回真的是随机的吗? https://medium.com/@i0exception/map-iteration-in-go-275abb76f721
+
+- 5. goptuna:用于黑盒函数的贝叶斯优化框架 https://github.com/c-bata/goptuna
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-27
 - 1. 在内存中存储敏感信息的安全的软件包 https://github.com/awnumar/memguard
 
