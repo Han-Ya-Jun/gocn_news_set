@@ -38,7 +38,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-29
+- 1. 为什么值得学习 Golang https://medium.com/@leoneperdigao/why-it-is-worth-learning-golang-3a686e4448cf
+
+- 2. 永远不要使用 (M**e) 作为密码 https://medium.com/@billatnapier/never-use-m-e-for-ciphers-a33a9bfb648e
+
+- 3. Golang依赖注入框架wire全攻略 https://juejin.im/post/5ce574696fb9a07ef90c7121
+
+- 4. 基于gRPC+consul实现服务发现及RPC https://github.com/GrassInWind2019/gRPCwithConsul
+
+- 5. 一个功能齐全，配置简单的 Go 版本 SFTP 服务器 https://github.com/drakkan/sftpgo
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-28
 - 1. Go2新特性建议之Contracts https://go.googlesource.com/proposal/+/4a54a00950b56dd0096482d0edae46969d7432a6/design/go2draft-contracts.md
 
