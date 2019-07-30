@@ -39,7 +39,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-30
+- 1. Go vs Rust：https://www.bizety.com/2019/04/03/summary-of-rust-vs-go/
+
+- 2. Go 实现哈希算法：https://hub.packtpub.com/implementing-hashing-algorithms-in-golang-tutorial/ 
+
+- 3. Go 和 Rust 等语言的泛型和元编程的模型: http://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/
+
+- 4. 不可忽视云原生计算的三个原因：https://thenewstack.io/3-reasons-why-you-cant-afford-to-ignore-cloud-native-computing/
+
+- 5. 混合云企业部署模式：https://medium.com/solutions-architecture-patterns/multi-cloud-enterprise-deployment-pattern-19571604e64b
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-29
 - 1. 为什么值得学习 Golang https://medium.com/@leoneperdigao/why-it-is-worth-learning-golang-3a686e4448cf
 
