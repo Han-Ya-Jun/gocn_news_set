@@ -40,7 +40,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-07-31
+- 1. 探索Go中字节解析 API https://mp.weixin.qq.com/s/g_-jIwCC2dAXmr3Ai3x4dA
+
+- 2. fasthttp中运用哪些Go优化技巧？ https://mp.weixin.qq.com/s/7zNw3nEWozArJLFVmTjn0A
+
+- 3. Go HTTP api接口实现方法 https://medium.com/@govinda.attal/an-approach-to-simplify-http-api-implementation-in-go-c742923351af
+
+- 4. Go GraphQL教程 https://juejin.im/post/5d4051985188255d803f8234
+
+- 5. Go gRPC Hello World https://juejin.im/post/5d3fa19c5188255d4d368ed1
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-07-30
 - 1. Go vs Rust：https://www.bizety.com/2019/04/03/summary-of-rust-vs-go/
 
