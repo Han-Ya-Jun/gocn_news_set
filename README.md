@@ -42,7 +42,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-02
+- 1. Golang为什么需要泛型 https://blog.golang.org/why-generics
+
+- 2. Go实现ORM及构建查询 https://mp.weixin.qq.com/s/XbtSamp7I6HwvRO_OweqJg
+
+- 3. 链表-删除排序链表中的重复元素，你能想到几种解法？https://mp.weixin.qq.com/s/K4nQOvv0LKkgny-nIk6RNQ
+
+- 4. Golang：数据库ORM框架GoMybatis详解 https://studygolang.com/topics/9755
+
+- 5. 一文理解微服务高可用的常用手段 https://mp.weixin.qq.com/s/oky8g1Nisdr2T4kYG-DFhg
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-01
 - 1. Go 语言面向对象编程系列教程（八） —— 接口篇：接口和类型查询及转化  https://laravelacademy.org/post/19858.html
 2.使用Elasticsearch(附Golang代码) https://strconv.com/posts/use-elastic/
