@@ -4,7 +4,21 @@
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-10
+- 1. SOLID Go Design https://dave.cheney.net/2016/08/20/solid-go-design
+
+- 2. Go-Spring : Another Go Style！ https://mp.weixin.qq.com/s/xW6-pkty0aygQN87i6rX_w
+
+- 3. 使用golang每分钟处理百万请求 http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang
+
+- 4. 使用WebRTC流式传输远程屏幕 https://viscarra.dev/post/webrtc-remote-screen
+
+- 5. 简单易用灵活可配置的p2p框架 https://github.com/v-braun/go2p
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-09
 - 1. Go提案处理流程：清晰&透明  https://research.swtch.com/proposals-clarity
 
