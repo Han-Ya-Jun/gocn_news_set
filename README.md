@@ -8,7 +8,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-14
+- 1. 1.12.8和1.11.13版本发布 https://groups.google.com/forum/#!topic/golang-nuts/fCQWxqxP8aA
+
+- 2. ECC加密解密入门  https://medium.com/asecuritysite-when-bob-met-alice/the-wizardry-of-elliptic-curve-cryptography-70fe4396aec2
+
+- 3. 借Go语言database/sql包谈数据库驱动和连接池设计 https://mp.weixin.qq.com/s/vSZpF55u4O343B4e0_TOvw
+
+- 4. 记一次golang程序CPU高的排查过程 https://juejin.im/post/5d5189446fb9a06b1a567e93
+
+- 5. golang将数据库转换为gorm结构 https://mlog.club/topic/236
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-13
 - 1. Go GC 算法真的比 Java 领先吗：https://mp.weixin.qq.com/s/eDd212DhjIRGpytBkgfzAg 
 
