@@ -10,7 +10,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-16
+- 1. Go 资源大全中文版 https://mlog.club/topic/239
+
+- 2. Go提案流程:大变化 https://research.swtch.com/proposals-large
+
+- 3. goroutine并发实践(协程池+超时+错误快返回) https://juejin.im/post/5d54fbeef265da03af19cc5c
+
+- 4. Go Http包解析：为什么需要response.Body.Close() https://segmentfault.com/a/1190000020086816
+
+- 5. 深入理解Go-垃圾回收机制 https://segmentfault.com/a/1190000020086769
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-15
 - 1. Go 语言错误及异常处理篇（三）：panic 和 recover  https://laravelacademy.org/post/19878.html
 
