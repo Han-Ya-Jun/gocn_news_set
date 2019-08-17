@@ -11,7 +11,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-17
+- 1. Go 1.12.9 发布 https://groups.google.com/forum/#!msg/golang-announce/oeMaeUnkvVE/a49yvTLqAAAJ
+
+- 2. zap日志包是如何高性能优化 https://medium.com/@blanchon.vincent/go-how-zap-package-is-optimized-dbf72ef48f2d
+
+- 3. Go终极学习指导手册 https://github.com/hoanhan101/ultimate-go
+
+- 4. 开源的Go解释器项目Yaegi  https://blog.containo.us/announcing-yaegi-263a1e2d070a
+
+- 5. Go测试题考察 https://golangbot.com/june-2019-quiz-results/
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-16
 - 1. Go 资源大全中文版 https://mlog.club/topic/239
 
