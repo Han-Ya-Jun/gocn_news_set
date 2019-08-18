@@ -12,7 +12,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-18
+- 1. Golang译文之竞态检测器race https://juejin.im/post/5d5851aee51d4561c6784079
+
+- 2. Golang踩坑分析 https://segmentfault.com/a/1190000020103403
+
+- 3. Go调度器介绍和容易忽视的问题 https://www.cnblogs.com/CodeWithTxT/p/11370215.html
+
+- 4. 仔细研究Go类型系统 https://mp.weixin.qq.com/s/2Q6dN5mvW4y0drkZ8ptCJQ
+
+- 5. 零基础学Flink：状态与容错 https://toutiao.io/k/xcbtmgt
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-17
 - 1. Go 1.12.9 发布 https://groups.google.com/forum/#!msg/golang-announce/oeMaeUnkvVE/a49yvTLqAAAJ
 
