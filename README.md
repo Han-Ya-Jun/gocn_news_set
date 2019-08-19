@@ -13,7 +13,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-19
+- 1. zap库优化方案解析 https://medium.com/@blanchon.vincent/go-how-zap-package-is-optimized-dbf72ef48f2d
+
+- 2. Go中重现不稳定重现测试 https://www.influxdata.com/blog/reproducing-a-flaky-test-in-go/
+
+- 3. 现代垃圾回收：Go GC策略 https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e
+
+- 4. 为什么说Go非常适合DevOps https://www.freecodecamp.org/news/using-go-for-devops/
+
+- 5. trivy: 容器安全性检测工具 https://github.com/knqyf263/trivy
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-18
 - 1. Golang译文之竞态检测器race https://juejin.im/post/5d5851aee51d4561c6784079
 
