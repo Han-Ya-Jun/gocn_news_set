@@ -14,7 +14,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-20
+- 1. 用 GODEBUG 看调度跟踪 https://github.com/EDDYCJY/blog/blob/master/tools/godebug-sched.md
+
+- 2. 为 Docker 和 CI 加速 Go Modules https://evilmartians.com/chronicles/speeding-up-go-modules-for-docker-and-ci
+
+- 3. 为 iOS 编写 Go 程序 https://github.com/mtojek/go-build-for-ios
+
+- 4. Tigo 一款 Go 开发的 Web 应用框架 https://github.com/karldoenitz/Tigo
+
+- 5. 为 Go 程序自动支持 HTTPS https://github.com/mholt/certmagic
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-19
 - 1. zap库优化方案解析 https://medium.com/@blanchon.vincent/go-how-zap-package-is-optimized-dbf72ef48f2d
 
