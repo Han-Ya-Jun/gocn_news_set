@@ -15,7 +15,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-21
+- 1. Go 编译器内联函数 https://dave.cheney.net/2019/08/20/go-compiler-intrinsics
+
+- 2. Goroutine 泄漏 — 被遗弃的接收者 https://www.ardanlabs.com/blog/2018/12/goroutine-leaks-the-abandoned-receivers.html
+
+- 3. 基于go pprof 内存分析及优化的实践 https://juejin.im/post/5d5be347f265da03b94ff66b
+
+- 4. Golang中使用断路器 http://yangxikun.com/golang/2019/08/10/golang-circuit.html
+
+- 5. Golang如何才能写出值得阅读的代码 https://mp.weixin.qq.com/s/R1T33rjW6ZUsYomiSvZ-ww
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-20
 - 1. 用 GODEBUG 看调度跟踪 https://github.com/EDDYCJY/blog/blob/master/tools/godebug-sched.md
 
