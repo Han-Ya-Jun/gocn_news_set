@@ -16,7 +16,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-22
+- 1. Go 1.13rc版发布 https://golang.org/dl/#go1.13rc1
+
+- 2. 从Python到Go的简单面部检测实用程序 https://blog.owulveryck.info/2019/08/16/a-simple-face-detection-utility-from-python-to-go.html
+
+- 3. 迁移到Go Modules https://blog.golang.org/migrating-to-go-modules
+
+- 4. 用于构建与redis协议兼容的TCP服务器/服务的高性能框架 https://github.com/bsm/redeo
+
+- 5. 在Go中编写Web服务的入门代码 https://github.com/ardanlabs/service
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-21
 - 1. Go 编译器内联函数 https://dave.cheney.net/2019/08/20/go-compiler-intrinsics
 
