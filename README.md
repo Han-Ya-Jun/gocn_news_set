@@ -17,7 +17,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-23
+- 1. Go提案流程的思考:拓展讨论 https://research.swtch.com/proposals-discuss
+
+- 2. 从写一个命令行工具开始学Go https://medium.com/xebia-engineering/learn-go-by-building-a-command-line-app-bedf32980c0b
+
+- 3. Github Action已支持Go语言PR的检查 https://gist.github.com/ledongthuc/9f3c23018ceca9e993d7ef891b1571e8
+
+- 4. Go 编程实战：如何组织代码、编写测试？ https://www.infoq.cn/article/4TAWp8YNYcVD4t046EGd
+
+- 5. 使用interface来加强代码的可测试性 https://medium.com/swlh/using-go-interfaces-for-testable-code-d2e11b02dea
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-22
 - 1. Go 1.13rc版发布 https://golang.org/dl/#go1.13rc1
 
