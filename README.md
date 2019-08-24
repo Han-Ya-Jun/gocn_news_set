@@ -18,7 +18,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-24
+- 1. 猜猜看go是不是面向对象语言？能不能面向对象编程？ https://mp.weixin.qq.com/s/l-nqzYjcre2g__BrVptR9A
+
+- 2. go 学习笔记之详细说一说封装是怎么回事 https://mp.weixin.qq.com/s/fXIKWsPqi6m2IEV--8lBsg
+
+- 3. Go - http.Client源码分析 https://juejin.im/post/5d5f6c0d5188255b2131f518
+
+- 4. Golang 隐藏技能 -- 访问私有成员 https://www.jianshu.com/p/7b3638b47845
+
+- 5. 深入理解Go之generate https://juejin.im/post/5d5ff2f45188256dad113236
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-23
 - 1. Go提案流程的思考:拓展讨论 https://research.swtch.com/proposals-discuss
 
