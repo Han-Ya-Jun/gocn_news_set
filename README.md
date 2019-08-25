@@ -19,7 +19,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-25
+- 1. 使用多年的go pprof检查内存泄漏的方法居然是错的? https://colobu.com/2019/08/20/use-pprof-to-compare-go-memory-usage/
+
+- 2. 我是如何组织Go项目的 https://developer20.com/how-i-organize-packages-in-go/
+
+- 3. 如何编写go package https://www.digitalocean.com/community/tutorials/how-to-write-packages-in-go
+
+- 4. 原来Go web框架中的中间件都是这样实现的 https://colobu.com/2019/08/21/decorator-pattern-pipeline-pattern-and-go-web-middlewares/
+
+- 5. Go数据库迁移库 migrator  https://github.com/lopezator/migrator
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-24
 - 1. 猜猜看go是不是面向对象语言？能不能面向对象编程？ https://mp.weixin.qq.com/s/l-nqzYjcre2g__BrVptR9A
 
