@@ -20,7 +20,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-26
+- 1. Go 编写的 Lisp 环境：https://www.ale-lang.org
+
+- 2. Go 静态位向量结构体：https://github.com/teivah/bitvector
+
+- 3. Go 类型转换与检查：https://www.golangprograms.com/go-language/integer-float-string-boolean.html
+
+- 4. 微服务设计模式：https://docs.microsoft.com/en-us/azure/architecture/microservices/design/patterns 
+
+- 5. 实现微服务体系结构的三种策略：https://about.gitlab.com/2019/06/17/strategies-microservices-architecture/
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-25
 - 1. 使用多年的go pprof检查内存泄漏的方法居然是错的? https://colobu.com/2019/08/20/use-pprof-to-compare-go-memory-usage/
 
