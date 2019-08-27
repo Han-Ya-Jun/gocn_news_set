@@ -21,7 +21,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-27
+- 1. POPPER 的设计和优化：https://mp.weixin.qq.com/s/XUb8Gu1jjOvlXOju6g9erw
+
+- 2. Go 编写的终端提示工具 go-prompt：https://github.com/c-bata/go-prompt 
+
+- 3. Go 迷你编译器 TinyGo：https://github.com/tinygo-org/drivers 
+
+- 4. Pinterest Kubernetes 平台搭建：https://medium.com/pinterest-engineering/building-a-kubernetes-platform-at-pinterest-fb3d9571c948
+
+- 5. k8s 让我们都成了分布式系统开发者：https://devclass.com/2019/08/16/pivotal-cto-kubernetes-means-were-all-distributed-systems-programmers-now/
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-26
 - 1. Go 编写的 Lisp 环境：https://www.ale-lang.org
 
