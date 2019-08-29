@@ -23,7 +23,19 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-29
+- 1. go语言中关于字符串使用的总结 https://www.yangyanxing.com/article/string_use_in_go.html
+2.Go内存泄漏？不是那么简单!  https://colobu.com/2019/08/28/go-memory-leak-i-dont-think-so/
+
+- 2. GCTT 出品 | Go 的调度器追踪   http://mp.weixin.qq.com/s?__biz=MzI3MjU4Njk3Ng==&mid=2247484253&idx=2&sn=3b640a7a4b3b9f10ed7400be740fcf5a
+
+- 3. Golang实现单机百万长连接服务 - 美图的三年优化经验 https://mp.weixin.qq.com/s/xavjsa4NzRiVRxyMhifCDg
+5.大规模微服务场景下的性能问题定位与优化 https://mp.weixin.qq.com/s/RmK3E_qDzHPWSPkHD5y6YA
+
+- - - - - - - - - - - - 
+
 ### gocn_news_2019-08-28
 - 1. GopherCon 2019演讲视频 http://www.bilibili.com/video/av65679861 
 
