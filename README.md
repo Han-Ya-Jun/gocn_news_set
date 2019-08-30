@@ -24,7 +24,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-30
+- 1. golang goroutine and thread https://www.jianshu.com/p/588c6dceb5cf
+
+- 2. golang微服务框架go-micro 入门笔记2.3 micro工具之消息订阅和发布 https://www.jianshu.com/p/cd2e80de45e7
+
+- 3. Knative Serving 进阶: Knative Serving SDK 开发实践 https://www.cnblogs.com/bigdataZJ/p/go-filter.html
+
+- 4. Go进阶：如何开发多彩动感的终端UI应用 https://mp.weixin.qq.com/s/DQzlfQXt4dV9PYwoVdomaw
+
+- 5. Go语言学习——如何实现一个过滤器 https://www.cnblogs.com/bigdataZJ/p/go-filter.html 
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-29
 - 1. go语言中关于字符串使用的总结 https://www.yangyanxing.com/article/string_use_in_go.html
 2.Go内存泄漏？不是那么简单!  https://colobu.com/2019/08/28/go-memory-leak-i-dont-think-so/
