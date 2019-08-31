@@ -25,7 +25,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-08-31
+- 1. Go 1.13 Module Mirror和Checksum Database Launched功能上线 https://blog.golang.org/module-mirror-launch
+
+- 2. 使用GitHub Actions对Go项目持续集成 https://onepage.nopub.io/p/Using-GitHub-Actions-with-Go-2ca9744b531f4f21bdae9976d1ccbb58
+
+- 3. 使用Radare2和Python对Go执行文件逆向工程 https://carvesystems.com/news/reverse-engineering-go-binaries-using-radare-2-and-python/
+
+- 4. Go学习笔记之面向接口编程 https://mp.weixin.qq.com/s/Y2ZfdFUO2QMgWQY5jP0VaA
+
+- 5. 嵌入式系统中Go开发 https://dev.to/jimutt/how-to-write-go-code-and-make-it-run-on-adafruit-feather-or-arduino-m3c
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-08-30
 - 1. golang goroutine and thread https://www.jianshu.com/p/588c6dceb5cf
 
