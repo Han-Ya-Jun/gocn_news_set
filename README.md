@@ -27,7 +27,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-02
+- 1. GopherCon 2019：Dave Cheney - 两个Go程序，三种不同的分析技术 https://golangnews.com/stories/4093
+
+- 2. 计算机主题的自传：出生，死亡和重生 https://medium.com/@onlyliuxin/im-a-thread-c6fb4788babb
+
+- 3. Go1.13 带来的新特性: https://docs.google.com/presentation/d/1RiZmupILuIQQ1Y-psDb1SzXNjCWh-I_-wagthdcwlq8/edit#slide=id.p
+
+- 4. Go JSON中带有的注释框架jsonc https://github.com/muhammadmuzzammil1998/jsonc
+
+- 5. 我如何使用Go在30分钟内建立微服务 https://www.youtube.com/watch?v=bM6N-vgPlyQ
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-01
 - 1. Go结构体中属性顺序影响结构体的大小 https://www.pengrl.com/p/16608
 
