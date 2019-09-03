@@ -28,7 +28,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-03
+- 1. Go 实现交互式终端资源管理器 https://github.com/keylo99/pkgtop
+
+- 2. 在线 Go 小测试 https://golangme.com/quiz/
+
+- 3. 深度解密Go语言之scheduler https://mp.weixin.qq.com/s/rpCf5vm9xYFXjmR98vanfQ
+
+- 4. 如何测试你的 Go 代码 https://juejin.im/post/5d6d462ef265da03e5234f57
+
+- 5. Go调用浏览访问url链接 https://segmentfault.com/a/1190000020271815
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-02
 - 1. GopherCon 2019：Dave Cheney - 两个Go程序，三种不同的分析技术 https://golangnews.com/stories/4093
 
