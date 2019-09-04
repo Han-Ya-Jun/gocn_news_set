@@ -29,7 +29,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-04
+- 1. Go 1.13 Released https://golang.org/doc/go1.13
+
+- 2. Bad Go:轻浮的Sprintf https://philpearl.github.io/post/bad_go_sprintf/
+
+- 3. 用 GODEBUG 看 GC https://segmentfault.com/a/1190000020255157
+
+- 4. Go语言之指针 https://mp.weixin.qq.com/s/qXi-_e_nuVDnaiPfm2HIHQ
+
+- 5. 优雅关闭的 Go Web 服务器 https://mp.weixin.qq.com/s/rA_oh472ZhfcAsAkWyyXFA
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-03
 - 1. Go 实现交互式终端资源管理器 https://github.com/keylo99/pkgtop
 
