@@ -30,7 +30,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-05
+- 1. 千难万险-goroutine 从生到死（六） https://mp.weixin.qq.com/s/kwKqrT4BoeheM9MvSh-rLw
+
+- 2. Go 1.13虽迟但到，goproxy.cn 为中国开发者量身提供模块代理 https://mp.weixin.qq.com/s/45DTGk90CQzvqN1-y4WvVw
+
+- 3. 如何在Golang项目中使用Github Actions https://github.com/mvdan/github-actions-golang
+
+- 4. Go语言回顾：从1.0到1.13 https://medium.com/@blanchon.vincent/go-retrospective-b9723352e9b0
+
+- 5. v8go: 在Go中使用v8引擎 https://github.com/rogchap/v8go
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-04
 - 1. Go 1.13 Released https://golang.org/doc/go1.13
 
