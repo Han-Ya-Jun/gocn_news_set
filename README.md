@@ -31,7 +31,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-06
+- 1. 不要为你的API调用者进行强制分配 https://dave.cheney.net/2019/09/05/dont-force-allocations-on-the-callers-of-your-api  
+
+- 2. Go context包的语义 https://www.ardanlabs.com/blog/2019/09/context-package-semantics-in-go.html 
+
+- 3. 让Go程序打印HTTP请求详情 https://onepage.nopub.io/p/Logging-HTTP-requests-in-Go-233de7fe59a747078b35b82a1b035d36  
+
+- 4. Go schedule的轮回 https://mp.weixin.qq.com/s/QFmh0wq50H9-4ZrtEknpCQ  
+
+- 5. Go scheduler开始调度循环 https://mp.weixin.qq.com/s/pRCWOKlI48soY0deOWoSEw  
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-05
 - 1. 千难万险-goroutine 从生到死（六） https://mp.weixin.qq.com/s/kwKqrT4BoeheM9MvSh-rLw
 
