@@ -32,7 +32,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-07
+- 1. Go 1.13虽迟但到，goproxy.cn 为中国开发者量身提供模块代理 https://mp.weixin.qq.com/s/45DTGk90CQzvqN1-y4WvVw
+
+- 2. Go语言(golang)新发布的1.13中的Error Wrapping深度分析 https://www.flysnow.org/2019/09/06/go1.13-error-wrapping.html
+
+- 3. Go 语言的并发性 http://minaandrawos.com/2015/12/06/concurrency-in-golang
+
+- 4. Go并发之channel篇 https://mp.weixin.qq.com/s/PIb-gGBootc6581pHhi5ew
+
+- 5. 锲而不舍 —— M 是怎样找工作的？https://qcrao.com/2019/09/06/go-scheduler-m-finds-work/
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-06
 - 1. 不要为你的API调用者进行强制分配 https://dave.cheney.net/2019/09/05/dont-force-allocations-on-the-callers-of-your-api  
 
