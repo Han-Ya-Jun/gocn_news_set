@@ -33,7 +33,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-08
+- 1. Go 语言回顾: 从 Go 1.0 到 Go 1.13 https://tonybai.com/2019/09/07/go-retrospective/
+
+- 2. Go 1.13 defer 的性能是如何提高的？  https://mp.weixin.qq.com/s/lwBLVjdZCkwTEZzXhpwKJg
+
+- 3. 两个 Go 程序，三种不同的 pprof 技术 https://www.youtube.com/watch?v=nok0aYiGiYA
+
+- 4. Go:编译器概述 https://medium.com/a-journey-with-go/go-overview-of-the-compiler-4e5a153ca889
+
+- 5. 软件工程的多重意义 https://medium.com/@solidi/the-many-senses-of-software-engineering-aba9f289498c
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-07
 - 1. Go 1.13虽迟但到，goproxy.cn 为中国开发者量身提供模块代理 https://mp.weixin.qq.com/s/45DTGk90CQzvqN1-y4WvVw
 
