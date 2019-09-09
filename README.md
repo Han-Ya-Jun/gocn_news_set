@@ -34,7 +34,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-09
+- 1. 只需三步构建最小的 Go Docker 镜像 https://medium.com/@dlugos.ivan/go-build-a-minimal-docker-image-in-just-three-steps-237a7ab0a105
+
+- 2. Golang 的 WebAssembly 已经准备好了吗 https://medium.com/@KevinHoffman/golang-are-we-webassembly-yet-e0a2e180fc98
+
+- 3. 深入理解 Go-runtime.SetFinalizer 原理剖析 https://segmentfault.com/a/1190000020323654
+
+- 4. golang 基于 mysql 到内存 map 的缓存库 https://studygolang.com/articles/23355
+
+- 5. Google Cloud Spanner 的 Schema 管理工具 https://github.com/mercari/wrench
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-08
 - 1. Go 语言回顾: 从 Go 1.0 到 Go 1.13 https://tonybai.com/2019/09/07/go-retrospective/
 
