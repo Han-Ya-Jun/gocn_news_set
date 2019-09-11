@@ -36,7 +36,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-11
+- 1. Go Modules 不完全教程  https://mp.weixin.qq.com/s/v-NdYEJBgKbiKsdoQaRsQg
+
+- 2. 调试Go的代码生成 https://mp.weixin.qq.com/s/mlkpqz5TRCiGrRs35WUNRQ
+
+- 3. 用Go高效检测有效的IPv4 https://medium.com/@sergio.anguita/detecting-a-valid-ipv4-in-go-like-a-boss-32eda9bf422f
+
+- 4. 优雅的处理errors https://juejin.im/post/5d772620e51d4561c83e7cd2
+
+- 5. 写在Go1.13中的错误常量 https://medium.com/@smyrman/writing-constant-errors-with-go-1-13-10c4191617
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-10
 - 1. 使用 Go 和 React Native 为窗口应用或游戏创建一个 OTP 锁 https://medium.com/@abhinavdabral/making-games-application-lock-using-go-and-react-native-71090d0af65c
 
