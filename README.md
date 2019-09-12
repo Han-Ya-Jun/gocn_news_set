@@ -37,7 +37,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-12
+- 1. Go Web 应用的优势和劣势   https://www.brsoftech.com/blog/advantages-and-disadvantages-of-golang-web-application/
+
+- 2. 深入Go的错误处理机制使用 http://www.cnblogs.com/sy270321/p/11508797.html
+
+- 3. go-gin-api 路由中间件 - 捕获异常（四） https://segmentfault.com/a/1190000020358030
+
+- 4. Go http request 引起的 goroutine 泄漏 http://sanyuesha.com/2019/09/10/go-http-request-goroutine-leak/
+
+- 5. 微服务架构在Kubernetes上的实现 https://mp.weixin.qq.com/s/YjInujvKHJSU6az9TEOmpw
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-11
 - 1. Go Modules 不完全教程  https://mp.weixin.qq.com/s/v-NdYEJBgKbiKsdoQaRsQg
 
