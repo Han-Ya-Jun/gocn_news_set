@@ -38,7 +38,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-13
+- 1. 弄懂goroutine调度原理 https://bingjian-zhu.github.io/2019/09/12/弄懂goroutine调度原理/
+
+- 2. 聊一聊Go的那些处理命令行参数和配置文件的库 https://segmentfault.com/a/1190000020377098
+
+- 3. Kong 开源的的服务网格Kuma爬过了K8S这座大山 https://mp.weixin.qq.com/s/7FlaDCsmOTOgSm-2IWZWiQ
+
+- 4. 理解 Golang 中 slice 的底层设计 https://juejin.im/post/5d79eddbe51d4561e53539df
+
+- 5. Cadence一个分布式，可扩展，持久且高度可用的编排引擎 https://github.com/uber/cadence
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-12
 - 1. Go Web 应用的优势和劣势   https://www.brsoftech.com/blog/advantages-and-disadvantages-of-golang-web-application/
 
