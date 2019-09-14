@@ -39,7 +39,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-14
+- 1. 构建更好的Go链接器 https://docs.google.com/document/d/1D13QhciikbdLtaI67U6Ble5d_1nsI4befEd6_k1z91U/view
+
+- 2. 在Go中创建自定义错误 https://www.digitalocean.com/community/tutorials/creating-custom-errors-in-go
+
+- 3. Go Serverless Fn介绍 https://fnproject.io/tutorials/Introduction/
+
+- 4. Go是如何实现protobuf的编解码的(2)：源码 https://segmentfault.com/a/1190000020338411
+
+- 5. 我们如何在Go中构建一个Lucene启发的解析器 https://www.mailgun.com/blog/how-we-built-a-lucene-inspired-parser-in-go
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-13
 - 1. 弄懂goroutine调度原理 https://bingjian-zhu.github.io/2019/09/12/弄懂goroutine调度原理/
 
