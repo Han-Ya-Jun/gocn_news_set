@@ -40,7 +40,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-15
+- 1. Go语言测试进阶版建议与技巧 https://pengrl.com/p/32101/
+
+- 2. 图数据库爱好者的聚会在谈论什么？ https://zhuanlan.zhihu.com/p/82300640
+
+- 3. Go中slice的In功能实现探索 https://juejin.im/post/5d7cc0aae51d4557ca7fddd4
+
+- 4. 美团集群调度系统HULK技术演进 https://mp.weixin.qq.com/s/AuCQn3jdJURUi9tZLt0dlw
+
+- 5. 你需要的是一款合适且强大的OLAP数据库 https://segmentfault.com/a/1190000020385432
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-14
 - 1. 构建更好的Go链接器 https://docs.google.com/document/d/1D13QhciikbdLtaI67U6Ble5d_1nsI4befEd6_k1z91U/view
 
