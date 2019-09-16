@@ -41,7 +41,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-16
+- 1. 响应式规划与Go中的妥协 https://gianarb.it/blog/reactive-planning-and-reconciliation-in-go  
+
+- 2. 在 Go 中使用服务对象 https://mp.weixin.qq.com/s/i0onQKFOkO7XBLpjMgVqqA   
+
+- 3. 在Go中构建不可变变量 https://levelup.gitconnected.com/building-immutable-data-structures-in-go-56a1068c76b2   
+
+- 4. NATS多种连接Golang实践 https://mp.weixin.qq.com/s/oE7Q-9wPrngHfr02gbBlLw  
+
+- 5. TurboCookedRabbit: 一款用户友好的RabbitMQ库 https://github.com/houseofcat/turbocookedrabbit  
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-15
 - 1. Go语言测试进阶版建议与技巧 https://pengrl.com/p/32101/
 
