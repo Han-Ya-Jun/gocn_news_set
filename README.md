@@ -42,7 +42,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-17
+- 1. 【图示】控制 Goroutine 的并发数量的方式 https://jingwei.link/2019/09/13/conotrol-goroutines-count.html
+
+- 2. 聊一聊Go的那些处理命令行参数和配置文件的库 https://segmentfault.com/a/1190000020377098
+
+- 3. go 学习笔记之学习函数式编程前不要忘了函数基础 https://mp.weixin.qq.com/s/dprkCOvPZHr6fi_qC91dVw
+
+- 4. Go 设计模式思想 https://github.com/sevenelevenlee/go-patterns
+
+- 5. Go 连接 NATS https://mp.weixin.qq.com/s/oE7Q-9wPrngHfr02gbBlLw
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-16
 - 1. 响应式规划与Go中的妥协 https://gianarb.it/blog/reactive-planning-and-reconciliation-in-go  
 
