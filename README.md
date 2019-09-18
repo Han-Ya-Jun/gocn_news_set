@@ -43,7 +43,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-18
+- 1. 看看这篇拯救发际线的干货吧--警惕 Go 编程陷阱 https://mp.weixin.qq.com/s/0bJOzNxoQhdVjFOunhmVKQ
+
+- 2. Google -- 如何去做code review https://juejin.im/post/5d80c27cf265da03e61b45c7
+
+- 3. Go 内存管理 https://povilasv.me/go-memory-management-part-3/
+
+- 4. Goroutine 原理 https://draveness.me/golang/concurrency/golang-goroutine.html
+
+- 5. gnet: 轻量级且高性能的 Golang 网络库 https://segmentfault.com/a/1190000020399873
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-17
 - 1. 【图示】控制 Goroutine 的并发数量的方式 https://jingwei.link/2019/09/13/conotrol-goroutines-count.html
 
