@@ -44,7 +44,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-19
+- 1. 踏出使用Go的第一步 https://dev.to/heroku/first-steps-with-go-4ggl
+
+- 2. golang优雅的错误处理 https://segmentfault.com/a/1190000020420692
+
+- 3. go基于ip地址的速率限制http请求 https://dev.to/plutov/rate-limiting-http-requests-in-go-based-on-ip-address-542g
+
+- 4. 基于中间件的轻量级golang web框架 https://goa-go.github.io/zh/
+
+- 5. 构建Go mod项目的Docker镜像只需三步 https://dev.to/ivan/go-build-a-minimal-docker-image-in-just-three-steps-514i
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-18
 - 1. 看看这篇拯救发际线的干货吧--警惕 Go 编程陷阱 https://mp.weixin.qq.com/s/0bJOzNxoQhdVjFOunhmVKQ
 
