@@ -45,7 +45,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-20
+- 1. 一文悟透备受争议的 Go 语言错误处理 http://developer.51cto.com/art/201909/603177.htm   
+
+- 2. 把我的Go项目从travis迁移到github actions https://www.markphelps.me/2019/09/migrating-from-travis-to-github-actions/    
+
+- 3. Serverless微服务实践 https://ewanvalentine.io/how-im-writing-serverless-services-in-golang-these-days/    
+
+- 4. Go Vet 命令：超出预期的强大 https://studygolang.com/articles/23498  
+
+- 5. gojtp: 动态json校验库 https://github.com/ankur-anand/gojtp  
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-19
 - 1. 踏出使用Go的第一步 https://dev.to/heroku/first-steps-with-go-4ggl
 
