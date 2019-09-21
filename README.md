@@ -46,7 +46,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-21
+- 1. 为什么是Go而不是Rust https://kristoff.it/blog/why-go-and-not-rust
+
+- 2. Go语言包管理简史 https://tonybai.com/2019/09/21/brief-history-of-go-package-management
+
+- 3. Go Modules 和 Go Proxy https://segmentfault.com/a/1190000020450159
+
+- 4. 如何用Go语言打造一个高性能MySQL Proxy https://segmentfault.com/a/1190000003101056
+
+- 5. Go微服务全链路跟踪详解 https://segmentfault.com/a/1190000020450845
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-20
 - 1. 一文悟透备受争议的 Go 语言错误处理 http://developer.51cto.com/art/201909/603177.htm   
 
