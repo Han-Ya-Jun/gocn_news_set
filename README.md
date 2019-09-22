@@ -47,7 +47,21 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-22
+- 1. Go 中的测试  https://ieftimov.com/post/testing-in-go-fixtures/
+
+- 2. 纯 Go 编写的高性能网络库 gnet  https://github.com/panjf2000/gnet
+
+- 3. Go 包管理 https://deepsource.io/blog/go-modules/
+
+- 4. 如何使用 Go 中的可变参数函数 https://www.digitalocean.com/community/tutorials/how-to-use-variadic-functions-in-go
+
+- 5. 捕获闭包中的循环变量 https://eli.thegreenplace.net/2019/go-internals-capturing-loop-variables-in-closures/
+
+- - - - - - - - - - 
+
 ### gocn_news_2019-09-21
 - 1. 为什么是Go而不是Rust https://kristoff.it/blog/why-go-and-not-rust
 
