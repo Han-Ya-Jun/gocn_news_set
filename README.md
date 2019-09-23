@@ -2,55 +2,14 @@
 在之前爬虫Go中国技术社区每日新闻的的[小工具](https://github.com/Han-Ya-Jun/news_watch_notice)加了一个功能，自动归档到github上，方便查阅，每天自动更新。
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## gocn_news_set_2019
 ### gocn_news_2019-09-23
+- 1. 查看 Go 的代码优化过程 http://xargin.com/go-compiler-opt
+- 2. go 学习笔记之仅仅需要一个示例就能讲清楚什么闭包 https://segmentfault.com/a/1190000020461487
+- 3. 使用 pprof和go-torch排查golang 的性能问题 https://www.felix021.com/blog/read.php?2210
+- 4. 为什么 Go 模块在下游服务抖动恢复后，CPU 占用无法恢复 http://xargin.com/cpu-idle-cannot-recover-after-peak-load
+- 5. 一个分析算法大O时间复杂度的库 https://github.com/Oppodelldog/bigo
+
 - - - - - - - - - - - - - - - 
 
 ### gocn_news_2019-09-22
