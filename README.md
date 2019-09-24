@@ -2,7 +2,15 @@
 在之前爬虫Go中国技术社区每日新闻的的[小工具](https://github.com/Han-Ya-Jun/news_watch_notice)加了一个功能，自动归档到github上，方便查阅，每天自动更新。
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-24
+- 1. 1. Go 搭建的高效网页爬虫：https://creekorful.me/building-fast-modern-web-crawler/ 2. Go 时区处理：https://medium.com/@kamal.g.namdeo/handling-timezone-in-go-723b1e38639c 3. Go io.Reader/io.Writer 处理流数据：https://dasio.hashnode.dev/using-of-ioreaderiowriter-in-go-to-stream-data-ck0v22mvg0005xes1gp13f5pg 
+
+- 2. 4.Docker 安全入门：风险及最佳实践 https://www.stackrox.com/post/2019/09/docker-security-101/ 5. 使用 Jenkins，Nexus，k8s 构建 CI/CD 流：https://kublr.com/blog/cicd-pipeline-with-jenkins-nexus-kubernetes/* 据说混迹在广深的 Go 开发团队，水都很深（文末专属福利）https://mp.weixin.qq.com/s/64aQgrkJfuyupJAclkTLOQ- 编辑: 薛锦- 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - 
+
 ### gocn_news_2019-09-23
 - 1. 查看 Go 的代码优化过程 http://xargin.com/go-compiler-opt
 - 2. go 学习笔记之仅仅需要一个示例就能讲清楚什么闭包 https://segmentfault.com/a/1190000020461487
