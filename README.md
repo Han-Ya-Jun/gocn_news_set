@@ -5,7 +5,11 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-27
+- - - - - - - - - - - - - - - 
+
 ### gocn_news_2019-09-26
 - 1. GoCN每日新闻(2019-09-26)1. go-gin-api 路由中间件：Jaeger 链路追踪（六）https://mp.weixin.qq.com/s/Ea28475_UTNaM9RNfgPqJA2. golang interface 要怎么用？http://www.leyafo.com/post/2019-09-24-how-to-use-golang-interface/3. Go 程序占用大量内存问题分析 http://team.jiunile.com/blog/2019/09/go-debug-memory.html4. Go 业务基础库之 Error https://mp.weixin.qq.com/s/PLzA22yfSV_byckTTezl5Q5. Prometheus架构与实践分享 https://mp.weixin.qq.com/s/beusaP2f3mOMIlEETBhtjg* 据说混迹在广深的 Go 开发团队，水都很深（文末专属福利）https://mp.weixin.qq.com/s/64aQgrkJfuyupJAclkTLOQ编辑: 崔广章订阅新闻: http://tinyletter.com/gocn
 
