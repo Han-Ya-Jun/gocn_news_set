@@ -3,28 +3,37 @@
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
-
-
-
 ## gocn_news_set_2019
 ### gocn_news_2019-09-27
 - - - - - - - - - - - - - - - 
+- 1. Golang新版本发布:Go 1.13.1和Go 1.12.10 https://golang.org/dl/
+- 2. 如何在Golang中使用Websockets：最佳工具和步骤指南 https://yalantis.com/blog/how-to-build-websockets-in-go/
+- 3. 详解varint编码原理 https://segmentfault.com/a/1190000020500985
+- 4. Rabin-Karp算法在go的实现 https://sjatsh.com/golang/2019/09/26/rabin-karp/
+- 5. Go微服务容错与韧性(Service Resilience) https://segmentfault.com/a/1190000020503704
 
 ### gocn_news_2019-09-26
-- 1. GoCN每日新闻(2019-09-26)1. go-gin-api 路由中间件：Jaeger 链路追踪（六）https://mp.weixin.qq.com/s/Ea28475_UTNaM9RNfgPqJA2. golang interface 要怎么用？http://www.leyafo.com/post/2019-09-24-how-to-use-golang-interface/3. Go 程序占用大量内存问题分析 http://team.jiunile.com/blog/2019/09/go-debug-memory.html4. Go 业务基础库之 Error https://mp.weixin.qq.com/s/PLzA22yfSV_byckTTezl5Q5. Prometheus架构与实践分享 https://mp.weixin.qq.com/s/beusaP2f3mOMIlEETBhtjg* 据说混迹在广深的 Go 开发团队，水都很深（文末专属福利）https://mp.weixin.qq.com/s/64aQgrkJfuyupJAclkTLOQ编辑: 崔广章订阅新闻: http://tinyletter.com/gocn
-
+- 1. go-gin-api 路由中间件：Jaeger 链路追踪（六）https://mp.weixin.qq.com/s/Ea28475_UTNaM9RNfgPqJA
+- 2. golang interface 要怎么用？http://www.leyafo.com/post/2019-09-24-how-to-use-golang-interface/
+- 3. Go 程序占用大量内存问题分析 http://team.jiunile.com/blog/2019/09/go-debug-memory.html
+- 4. Go 业务基础库之 Error https://mp.weixin.qq.com/s/PLzA22yfSV_byckTTezl5Q
+- 5. Prometheus架构与实践分享 https://mp.weixin.qq.com/s/beusaP2f3mOMIlEETBhtjg
 - - - - - - - - - - - - - - 
 
 ### gocn_news_2019-09-25
-- 1. GoCN每日新闻(2019-09-25)1. Go module 再回顾 https://colobu.com/2019/09/23/review-go-module-again/2. 如何灵活地进行Go版本管理 https://juejin.im/post/5d848b66f265da03a7160e893. Go RESTful 服务挂了怎么能第一时间知晓？分享一个超实用的健康检查方法 https://mp.weixin.qq.com/s/tpWAYN18cSW9lRXGumsEbw4. 原来这才是 Go Interface https://juejin.im/post/5d8877f1f265da03986c311c5. Go中处理可选参数 https://medium.com/@petomalina/dealing-with-optional-parameters-in-go-9780f9bfbd1d* 据说混迹在广深的 Go 开发团队，水都很深（文末专属福利）https://mp.weixin.qq.com/s/64aQgrkJfuyupJAclkTLOQ* 编辑: 周云轩* 订阅新闻: http://tinyletter.com/gocn
-
+- 1. Go module 再回顾 https://colobu.com/2019/09/23/review-go-module-again/
+- 2. 如何灵活地进行Go版本管理 https://juejin.im/post/5d848b66f265da03a7160e89
+- 3. Go RESTful 服务挂了怎么能第一时间知晓？分享一个超实用的健康检查方法 https://mp.weixin.qq.com/s/tpWAYN18cSW9lRXGumsEbw
+- 4. 原来这才是 Go Interface https://juejin.im/post/5d8877f1f265da03986c311c
+- 5. Go中处理可选参数 https://medium.com/@petomalina/dealing-with-optional-parameters-in-go-9780f9bfbd1d*
 - - - - - - - - - - - - - - 
 
 ### gocn_news_2019-09-24
-- 1. 1. Go 搭建的高效网页爬虫：https://creekorful.me/building-fast-modern-web-crawler/ 2. Go 时区处理：https://medium.com/@kamal.g.namdeo/handling-timezone-in-go-723b1e38639c 3. Go io.Reader/io.Writer 处理流数据：https://dasio.hashnode.dev/using-of-ioreaderiowriter-in-go-to-stream-data-ck0v22mvg0005xes1gp13f5pg 
-
-- 2. 4.Docker 安全入门：风险及最佳实践 https://www.stackrox.com/post/2019/09/docker-security-101/ 5. 使用 Jenkins，Nexus，k8s 构建 CI/CD 流：https://kublr.com/blog/cicd-pipeline-with-jenkins-nexus-kubernetes/* 据说混迹在广深的 Go 开发团队，水都很深（文末专属福利）https://mp.weixin.qq.com/s/64aQgrkJfuyupJAclkTLOQ- 编辑: 薛锦- 订阅新闻: http://tinyletter.com/gocn
-
+- 1. Go 搭建的高效网页爬虫：https://creekorful.me/building-fast-modern-web-crawler/ 
+- 2. Go 时区处理：https://medium.com/@kamal.g.namdeo/handling-timezone-in-go-723b1e38639c 
+- 3. Go io.Reader/io.Writer 处理流数据：https://dasio.hashnode.dev/using-of-ioreaderiowriter-in-go-to-stream-data-ck0v22mvg0005xes1gp13f5pg  
+- 4.Docker 安全入门：风险及最佳实践 https://www.stackrox.com/post/2019/09/docker-security-101/ 
+- 5. 使用 Jenkins，Nexus，k8s 构建 CI/CD 流：https://kublr.com/blog/cicd-pipeline-with-jenkins-nexus-kubernetes/* 
 - - - - - - - - - - - - - 
 
 ### gocn_news_2019-09-23
