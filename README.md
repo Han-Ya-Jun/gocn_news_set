@@ -3,7 +3,13 @@
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-28
+- 1. 1. 可视化Go程序的调用图 https://truefurby.github.io/go-callvis/2. Go modules编写和发布官方教程 https://blog.golang.org/publishing-go-modules3. 使用Go代替bash编写脚本 https://presstige.io/p/Using-Go-instead-of-bash-for-scripts-6b51885c1f6940aeb40476000d0eb0fc4. 理解Golang中slice的底层设计 https://segmentfault.com/a/11900000205182375. Go学习笔记之学习函数式编程前不要忘了函数基础 https://my.oschina.net/snowdreams1006/blog/3106370* 据说混迹在广深的 Go 开发团队，水都很深（文末专属福利）https://mp.weixin.qq.com/s/64aQgrkJfuyupJAclkTLOQ编辑: samurai 订阅新闻: http://tinyletter.com/gocn 
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-09-27
 - - - - - - - - - - - - - - - 
 - 1. Golang新版本发布:Go 1.13.1和Go 1.12.10 https://golang.org/dl/
