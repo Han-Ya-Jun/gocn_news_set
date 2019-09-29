@@ -4,7 +4,55 @@
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-29
+- 1. 1. 干货满满的Go Modules和goproxy.cn https://juejin.im/post/5d8ee2db6fb9a04e0b0d9c8b
+
+- 2. 2. gnet: 一个轻量级且高性能的 Golang 网络库  https://taohuawu.club/go-event-loop-networking-library-gnet
+
+- 3. 3. go-gin-api 路由中间件 - Jaeger 链路追踪 https://www.cnblogs.com/xinliangcoder/p/11604880.html
+
+- 4. 4. golang-middleware设计模式 https://yuerblog.cc/2019/09/29/golang-middleware%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/
+
+- 5. 5. YouTube召回模型设计 http://www.broadview.com.cn/article/419572
+
+- 6. * 据说混迹在广深的 Go 开发团队，水都很深（文末专属福利）https://mp.weixin.qq.com/s/64aQgrkJfuyupJAclkTLOQ
+
+- 7. 编辑: 罗发宣
+
+- 8. 订阅新闻: http://tinyletter.com/gocn  
+
+- 9. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 10. GoCN归档：https://gocn.vip/question
+
+- - - - - 
+
 ### gocn_news_2019-09-28
 - 1. 1. 可视化Go程序的调用图 https://truefurby.github.io/go-callvis/2. Go modules编写和发布官方教程 https://blog.golang.org/publishing-go-modules3. 使用Go代替bash编写脚本 https://presstige.io/p/Using-Go-instead-of-bash-for-scripts-6b51885c1f6940aeb40476000d0eb0fc4. 理解Golang中slice的底层设计 https://segmentfault.com/a/11900000205182375. Go学习笔记之学习函数式编程前不要忘了函数基础 https://my.oschina.net/snowdreams1006/blog/3106370* 据说混迹在广深的 Go 开发团队，水都很深（文末专属福利）https://mp.weixin.qq.com/s/64aQgrkJfuyupJAclkTLOQ编辑: samurai 订阅新闻: http://tinyletter.com/gocn 
 
