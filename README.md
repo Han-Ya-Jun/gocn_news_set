@@ -19,37 +19,6 @@
 
 - 6. * 据说混迹在广深的 Go 开发团队，水都很深（文末专属福利）https://mp.weixin.qq.com/s/64aQgrkJfuyupJAclkTLOQ
 
-- 7. 编辑: 罗发宣
-
-- 8. 订阅新闻: http://tinyletter.com/gocn  
-
-- 9. 
-
-
-
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
-span.s1 {color: #000000}
-span.s2 {color: #118eff}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 10. GoCN归档：https://gocn.vip/question
 
 - - - - - 
 
