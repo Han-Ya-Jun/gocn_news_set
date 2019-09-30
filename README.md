@@ -5,7 +5,29 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-09-30
+- 1. 1. 使用Sqlmock测试数据库 https://medium.com/ralali-engineering/testing-database-using-sqlmock-for-big-agent-b1d4fc486802
+
+- 2. 2. Golang逃逸分析：重现GC压力 https://medium.com/@sakthishanmugam02/golang-escape-analysis-reduce-pressure-on-gc-6bde1891d625
+
+- 3. 3. 如何处理返回错误 https://www.efekarakus.com/golang/2019/09/26/when-to-wrap-errors.html
+
+- 4. 4. Go中实现顺序并发的归并排序 https://medium.com/@giopap/sequential-and-parallel-merge-sort-in-go-74881e92a609
+
+- 5. 5. 如何编写Event feed库 https://rauljordan.com/2019/09/23/how-to-write-an-event-feed-library.html
+
+- 6. * 据说混迹在广深的 Go 开发团队，水都很深（文末专属福利）https://mp.weixin.qq.com/s/64aQgrkJfuyupJAclkTLOQ
+
+- 7. 编辑: 李俱顺Kevin
+
+- 8. 订阅新闻: http://tinyletter.com/gocn
+
+- 9. GoCN归档：https://gocn.vip/question/6053
+
+- - - - - - 
+
 ### gocn_news_2019-09-29
 - 1. 1. 干货满满的Go Modules和goproxy.cn https://juejin.im/post/5d8ee2db6fb9a04e0b0d9c8b
 
