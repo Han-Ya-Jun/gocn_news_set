@@ -7,7 +7,13 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-02
+- 1. GoCN每日新闻(2019-10-02)1. Golang中基于Gin和Casbin的web使用方式 https://dev.to/maxwellhertz/tutorial-integrate-gin-with-cabsin-56m02. Go语言中的TCP/IP网络编程 https://segmentfault.com/a/11900000147336203. Go实现的PDF生成器 https://github.com/jung-kurt/gofpdf4. Go编写的高性能，轻量级，无阻塞和事件循环网络库  https://github.com/panjf2000/gnet5. 学习使用Minikube部署Kubernetes https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd编辑: 李森森订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-10-01
 - 1. GoCN每日新闻(2019-10-01)
 
