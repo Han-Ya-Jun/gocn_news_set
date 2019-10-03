@@ -8,7 +8,53 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-03
+- 1. 国庆专辑：GopherChina祝大家国庆节快乐
+
+- 2. GoCN每日新闻(2019-10-03)
+
+- 3. 1. 垃圾回收器如何监控你的应用程序 https://medium.com/a-journey-with-go/go-how-does-the-garbage-collector-watch-your-application-dbef99be2c35
+
+- 4. 2. go ctx超时导致资源释放失败 https://segmentfault.com/a/1190000020549820
+
+- 5. 3. Go channel 实现原理分析 https://www.jianshu.com/p/d841f251d3bc
+
+- 6. 4. 通过内存逃逸分析讨论GC的压力 https://www.jianshu.com/p/10e83dc6cd64
+
+- 7. 5. 关于 Liveness/Readiness Probe 的实践与思考 https://srcco.de/posts/kubernetes-liveness-probes-are-dangerous.html
+
+- 8. 编辑: yulibaozi
+
+- 9. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 10. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - 
+
 ### gocn_news_2019-10-02
 - 1. GoCN每日新闻(2019-10-02)1. Golang中基于Gin和Casbin的web使用方式 https://dev.to/maxwellhertz/tutorial-integrate-gin-with-cabsin-56m02. Go语言中的TCP/IP网络编程 https://segmentfault.com/a/11900000147336203. Go实现的PDF生成器 https://github.com/jung-kurt/gofpdf4. Go编写的高性能，轻量级，无阻塞和事件循环网络库  https://github.com/panjf2000/gnet5. 学习使用Minikube部署Kubernetes https://dev.to/azure/kubernetes-from-the-beginning-part-i-4ifd编辑: 李森森订阅新闻: http://tinyletter.com/gocn
 
