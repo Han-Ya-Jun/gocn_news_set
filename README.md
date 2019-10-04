@@ -9,7 +9,29 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-04
+- 1. 国庆专辑：GopherChina祝大家国庆节快乐
+
+- 2. GoCN每日新闻(2019-10-04)
+
+- 3. 1. Go提议流程:代表 https://research.swtch.com/proposals-representation  
+
+- 4. 2. 使用内存池解决性能热点问题 https://dzone.com/articles/memory-pooling-in-go-where-why-and-how  
+
+- 5. 3. 解决Google Cloud Run单任务运行时间限制的一种方法 https://blog.doit-intl.com/hacking-google-cloud-run-to-run-long-background-tasks-6eb410259a81  
+
+- 6. 4. ent:一个基于schema的ORM框架 https://github.com/facebookincubator/ent  
+
+- 7. 5. BigSlice: 一个Go语言编写的集群化数据计算系统 https://github.com/grailbio/bigslice  
+
+- 8. 编辑: Razil  
+
+- 9. 订阅新闻: http://tinyletter.com/gocn  
+
+- - - - - - 
+
 ### gocn_news_2019-10-03
 - 1. 国庆专辑：GopherChina祝大家国庆节快乐
 
