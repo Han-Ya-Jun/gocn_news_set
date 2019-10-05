@@ -10,7 +10,13 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-05
+- 1. 国庆专辑：GopherChina祝大家国庆节快乐GoCN每日新闻(2019-10-05)1. Gophercon UK 2019 https://www.bilibili.com/video/av701273562. Golang 接口与反射知识要点 https://www.cnblogs.com/guangze/p/11621277.html3. Gophers的安全性 https://changelog.com/gotime/1014. 龙芯 & Golang https://mzh.io/loongson-go5. 通过实例快速掌握k8s（Kubernetes）核心概念 https://segmentfault.com/a/1190000020595811编辑: 马怀博 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-10-04
 - 1. 国庆专辑：GopherChina祝大家国庆节快乐
 
