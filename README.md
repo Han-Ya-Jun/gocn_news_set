@@ -5,16 +5,14 @@
 
 
 
-
-
-
-
-
-
-
-
 ## gocn_news_set_2019
 ### gocn_news_2019-10-07
+- 1. Go 不好的点：JSON 解析的探究 https://medium.com/@philpearl/bad-go-adventures-with-json-marshalling-1f7a73b80a59
+- 2. Hyperledger Fabric v1.4 中的私有和公有数据 https://medium.com/@taseen.junaid/private-public-data-at-hyperledger-fabric-v1-4-ff9f303f4bc1
+- 3. 以太坊 golang-event 简单使用 https://www.jianshu.com/p/ab5451b9f4e6
+- 4. 使用 Go 读写请求 https://juejin.im/post/5d99d606518825582078374d
+- 5. 多个 pprof 文件合并到一个文件的小工具 https://github.com/rakyll/pprof-merge
+
 - - - - - - - - - - - - - - - 
 
 ### gocn_news_2019-10-06
@@ -31,10 +29,6 @@
 - 6. 4. 使用 Go 和 Kafka 实现有状态的流处理 https://mux.com/blog/stateful-stream-processing-with-kafka-and-go/
 
 - 7. 5. 提供无逃逸 Read 和 Write 的库 noescape https://github.com/lukechampine/noescape
-
-- 8. * 编辑: lwhile
-
-- 9. * 订阅新闻: http://tinyletter.com/gocn
 
 - - - - - - 
 
