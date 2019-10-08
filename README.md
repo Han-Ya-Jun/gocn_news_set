@@ -5,7 +5,13 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-08
+- 1. GoCN每日新闻(2019-10-08)1. Go 构建高性能数据库中间件: https://mp.weixin.qq.com/s/gzjFt9zi4trMzFi92WqF-A1. Go 编写的代码计数器： https://github.com/boyter/scc/ 2. Go 闭包理解：https://mp.weixin.qq.com/s/GJnvPgW7IONK9LVw-i34hQ4. AWS Lambda 使用简介：https://www.rosie.dev/post/hello-lambda/5. 单例设计模式：https://segmentfault.com/a/1190000020608216编辑: 薛锦订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-10-07
 - 1. Go 不好的点：JSON 解析的探究 https://medium.com/@philpearl/bad-go-adventures-with-json-marshalling-1f7a73b80a59
 - 2. Hyperledger Fabric v1.4 中的私有和公有数据 https://medium.com/@taseen.junaid/private-public-data-at-hyperledger-fabric-v1-4-ff9f303f4bc1
