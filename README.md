@@ -2,19 +2,22 @@
 在之前爬虫Go中国技术社区每日新闻的的[小工具](https://github.com/Han-Ya-Jun/news_watch_notice)加了一个功能，自动归档到github上，方便查阅，每天自动更新。
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
-
-
-
-
-
 ## gocn_news_set_2019
 ### gocn_news_2019-10-09
-- 1. GoCN每日新闻(2019-10-09)1. 我们如何将服务延迟减少了98% https://blog.gojekengineering.com/the-need-for-speed-how-we-reduced-service-latency-by-98-5c45d1acdc812. Go RPC实践 https://mp.weixin.qq.com/s/ScsB0VH8tvlaNK_d6a6AMQ3. Go中使用Seed得到重复随机数的问题 https://juejin.im/post/5d9c7c736fb9a04df57de0744. 高效生成JSON串 https://juejin.im/post/5d9c96ff518825095c3c5f795. Istio熔断器解析 https://mp.weixin.qq.com/s/95DVrg6oeaGFZi64r7LSLQ编辑: 周云轩订阅新闻: http://tinyletter.com/gocn
+- 1. 我们如何将服务延迟减少了98% https://blog.gojekengineering.com/the-need-for-speed-how-we-reduced-service-latency-by-98-5c45d1acdc81
+- 2. Go RPC实践 https://mp.weixin.qq.com/s/ScsB0VH8tvlaNK_d6a6AMQ
+- 3. Go中使用Seed得到重复随机数的问题 https://juejin.im/post/5d9c7c736fb9a04df57de074
+- 4. 高效生成JSON串 https://juejin.im/post/5d9c96ff518825095c3c5f79
+- 5. Istio熔断器解析 https://mp.weixin.qq.com/s/95DVrg6oeaGFZi64r7LSLQ
 
 - - - - - - - - - - - - - - 
 
 ### gocn_news_2019-10-08
-- 1. GoCN每日新闻(2019-10-08)1. Go 构建高性能数据库中间件: https://mp.weixin.qq.com/s/gzjFt9zi4trMzFi92WqF-A1. Go 编写的代码计数器： https://github.com/boyter/scc/ 2. Go 闭包理解：https://mp.weixin.qq.com/s/GJnvPgW7IONK9LVw-i34hQ4. AWS Lambda 使用简介：https://www.rosie.dev/post/hello-lambda/5. 单例设计模式：https://segmentfault.com/a/1190000020608216编辑: 薛锦订阅新闻: http://tinyletter.com/gocn
+- 1. Go 构建高性能数据库中间件: https://mp.weixin.qq.com/s/gzjFt9zi4trMzFi92WqF-A
+- 2. Go 编写的代码计数器： https://github.com/boyter/scc/ 
+- 3. Go 闭包理解：https://mp.weixin.qq.com/s/GJnvPgW7IONK9LVw-i34hQ
+- 4. AWS Lambda 使用简介：https://www.rosie.dev/post/hello-lambda/
+- 5. 单例设计模式：https://segmentfault.com/a/1190000020608216
 
 - - - - - - - - - - - - - - 
 
