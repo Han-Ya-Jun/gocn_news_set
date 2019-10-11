@@ -6,6 +6,11 @@
 
 ## gocn_news_set_2019
 ### gocn_news_2019-10-11
+- 1. golang 将数据库转换为gorm结构 https://studygolang.com/articles/23878
+- 2. 关于Go的10个你可能不知道的事情 https://talks.golang.org/2012/10things.slide#1
+- 3. Go gRPC 系列五：基于 CA 的 TLS 证书校验 https://juejin.im/post/5d9ffc24f265da5b8a516112
+- 4. Go和Android集成实战 http://www.songjiayang.com/posts/go-he-andji-shi-li
+- 5. 超大规模商用 K8s 场景下，阿里巴巴如何动态解决容器资源的按需分配问题？
 - - - - - - - - - - - - - - - 
 
 ### gocn_news_2019-10-10
