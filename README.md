@@ -3,7 +3,11 @@
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-11
+- - - - - - - - - - - - - - - 
+
 ### gocn_news_2019-10-10
 - 1. GoCN每日新闻(2019-10-10)
 
