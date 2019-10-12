@@ -7,7 +7,11 @@
 
 ## gocn_news_set_2019
 ### gocn_news_2019-10-12
-- 1. 1. Go 1.13中sync.Pool是如何优化的 https://colobu.com/2019/10/08/how-is-sync-Pool-improved-in-Go-1-13/2. Uber Go编程规范 https://github.com/uber-go/guide/blob/master/style.md3. Go高级编程：指针和内存分配详解 https://mp.weixin.qq.com/s/46T6hO9Ht4fN5jD8kXuCSQ4. 如何用GVM管理Go项目 https://juejin.im/post/5da0900d5188254c4e6a94b75. etcd性能测试与调优 https://mp.weixin.qq.com/s/tEaRGXGCeCJxwU_SU7ZBOQ编辑: samurai 订阅新闻: http://tinyletter.com/gocn 
+- 1. 1. Go 1.13中sync.Pool是如何优化的 https://colobu.com/2019/10/08/how-is-sync-Pool-improved-in-Go-1-13/
+- 2. Uber Go编程规范 https://github.com/uber-go/guide/blob/master/style.md
+- 3. Go高级编程：指针和内存分配详解 https://mp.weixin.qq.com/s/46T6hO9Ht4fN5jD8kXuCSQ
+- 4. 如何用GVM管理Go项目 https://juejin.im/post/5da0900d5188254c4e6a94b7
+- 5. etcd性能测试与调优 https://mp.weixin.qq.com/s/tEaRGXGCeCJxwU_SU7ZBOQ
 
 - - - - - - - - - - - - - - 
 
