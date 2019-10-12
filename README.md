@@ -153,32 +153,6 @@
 
 - 6. 5. Go对接ElasticSearch的单元测试 https://mp.weixin.qq.com/s/ze7Ws567SgaFQ7OVDyyWEg
 
-- 7. 编辑: 傅小黑
-
-- 8. 
-
-
-
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
-span.s1 {color: #000000}
-span.s2 {color: #118eff}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-- 9. 订阅新闻: http://tinyletter.com/gocn
 
 - - - - - - 
 
