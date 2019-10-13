@@ -8,7 +8,11 @@
 
 ## gocn_news_set_2019
 ### gocn_news_2019-10-13
-- 1. 1. 通过测试学习Go语言 https://mp.weixin.qq.com/s/MGT_yoP_NdWVGpwlAJFK4A2. go panic recover源码解析 https://segmentfault.com/a/11900000206673263. go map底层实现 http://yangxikun.com/2019/10/07/golang-map.html4. 基于Apache Flink和规则引擎的实时风控解决方案 https://mp.weixin.qq.com/s/RnUnMtlm4M6nPvjvmo8HWw5. Kafka重平衡机制 https://mp.weixin.qq.com/s/4DFup_NziFJ1xdc4bZnVcg- 编辑: 罗发宣- 订阅新闻: http://tinyletter.com/gocn- GoCN归档：https://gocn.vip/question/
+- 1. 1. 通过测试学习Go语言 https://mp.weixin.qq.com/s/MGT_yoP_NdWVGpwlAJFK4A
+- 2. go panic recover源码解析 https://segmentfault.com/a/1190000020667326
+- 3. go map底层实现 http://yangxikun.com/2019/10/07/golang-map.html
+- 4. 基于Apache Flink和规则引擎的实时风控解决方案 https://mp.weixin.qq.com/s/RnUnMtlm4M6nPvjvmo8HWw
+- 5. Kafka重平衡机制 https://mp.weixin.qq.com/s/4DFup_NziFJ1xdc4bZnVcg
 
 - - - - - - - - - - - - - - 
 
