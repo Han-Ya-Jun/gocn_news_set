@@ -6,7 +6,55 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-14
+- 1. 1. 基于 Go 开源项目 MIMIO 的对象存储方案在探探的实践 https://mp.weixin.qq.com/s/YIKB_qAqqy6ydtFT_a_Ieg
+
+- 2. 2. [译]Uber Go 语言代码风格指南 https://mp.weixin.qq.com/s/cu6IZl_BhWokJxMXYmSytg
+
+- 3. 3. 实现Go语言解释器 http://notes.eatonphil.com/interpreting-go.html
+
+- 4. 4. dt：Go缺失的日期时间包 https://medium.com/@ribice/dt-gos-missing-datetime-package-b9c5041398d0
+
+- 5. 5. 学术论文： 大规模Go语言单元测试 https://www.academia.edu/40301628/Large_Scale_Unit_Testing_for_Go_Programming_Language_Packages
+
+- 6. * 活动推荐：GoHack 2019 火热招募中！ http://gohack2019.sxl.cn/
+
+- 7. 编辑: 李俱顺Kevin
+
+- 8. 订阅新闻: http://tinyletter.com/gocn
+
+- 9. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- 10. GoCN归档：https://gocn.vip/question/6427
+
+- - - - - 
+
 ### gocn_news_2019-10-13
 - 1. 1. 通过测试学习Go语言 https://mp.weixin.qq.com/s/MGT_yoP_NdWVGpwlAJFK4A
 - 2. go panic recover源码解析 https://segmentfault.com/a/1190000020667326
