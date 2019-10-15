@@ -22,34 +22,6 @@
 
 - 6. 5. 高性能 Go 网络库 gnet 发布 v1 版 https://segmentfault.com/a/1190000020689928
 
-- 7. 编辑: 傅小黑
-
-- 8. 订阅新闻: http://tinyletter.com/gocn
-
-- 9. 
-
-
-
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
-p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
-p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
-span.s1 {color: #000000}
-span.s2 {color: #118eff}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 - - - - - - 
 
 ### gocn_news_2019-10-14
