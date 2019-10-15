@@ -7,7 +7,51 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-15
+- 1. GoCN每日新闻(2019-10-15)
+
+- 2. 1. Go Module 存在的意义与解决的问题 https://www.ardanlabs.com/blog/2019/10/modules-01-why-and-what.html
+
+- 3. 2. 理解 Go 指针 https://www.digitalocean.com/community/conceptual_articles/understanding-pointers-in-go
+
+- 4. 3. Dave Cheney 的 Go 实践总结图示 https://skarlso.github.io/2019/10/10/practical-go-summary/
+
+- 5. 4. Go有GC就不需要掌握内存堆栈知识了吗？Go 堆栈的理解 https://mp.weixin.qq.com/s/SGbiWLW6pLfd32TKIil10A
+
+- 6. 5. 高性能 Go 网络库 gnet 发布 v1 版 https://segmentfault.com/a/1190000020689928
+
+- 7. 编辑: 傅小黑
+
+- 8. 订阅新闻: http://tinyletter.com/gocn
+
+- 9. 
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000}
+p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #000000; min-height: 15.0px}
+p.p3 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 13.0px 'Helvetica Neue'; color: #118eff}
+span.s1 {color: #000000}
+span.s2 {color: #118eff}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- - - - - - 
+
 ### gocn_news_2019-10-14
 - 1. 1. 基于 Go 开源项目 MIMIO 的对象存储方案在探探的实践 https://mp.weixin.qq.com/s/YIKB_qAqqy6ydtFT_a_Ieg
 
