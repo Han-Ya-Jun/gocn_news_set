@@ -8,7 +8,27 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-16
+- 1. GoCN每日新闻(2019-10-16)
+
+- 2. 1. 持续的性能分析与优化 https://medium.com/@tvii/continuous-profiling-and-go-6c0ab4d2504b
+
+- 3. 2. 理解Go 中的 defer https://www.digitalocean.com/community/tutorials/understanding-defer-in-go
+
+- 4. 3. Go 语言反射的实现原理 https://draveness.me/golang/basic/golang-reflect.html
+
+- 5. 4. 如何构建一个云原生框架 https://medium.com/@yannick.b/how-should-be-built-the-ideal-cloud-native-framework-part-2-2fcfa38c9de7
+
+- 6. 5. pigo - 人脸识别库 https://www.reddit.com/r/golang/comments/di3n1k/the_pigo_face_detection_library_now_is_capable/
+
+- 7. 编辑: yulibaozi
+
+- 8. 订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - 
+
 ### gocn_news_2019-10-15
 - 1. GoCN每日新闻(2019-10-15)
 
