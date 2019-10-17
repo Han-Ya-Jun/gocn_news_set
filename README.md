@@ -9,7 +9,13 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-17
+- 1. GoCN每日新闻(2019-10-17)1. 通过go module管理go tool https://marcofranssen.nl/manage-go-tools-via-go-modules/2. 使用go的并发性进行图形计算 https://blog.owulveryck.info/2019/10/14/think-like-a-vertex-using-gos-concurrency-for-graph-computation.html3. 使用HTTP2 Server Push创建快速且惯用的客户端驱动的REST API https://github.com/dunglas/vulcain4. 用Go实现狄克斯特拉算法 https://deployeveryday.com/2019/10/16/dijkstra-algorithm-golang.html5. go中使用嵌入式结构的装饰器 https://fabianlindfors.se/blog/decorators-in-go-using-embedded-structs/编辑: 李森森订阅新闻: http://tinyletter.com/gocn
+
+- - - - - - - - - - - - - - 
+
 ### gocn_news_2019-10-16
 - 1. GoCN每日新闻(2019-10-16)
 
