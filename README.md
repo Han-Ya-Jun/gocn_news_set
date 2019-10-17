@@ -3,16 +3,14 @@
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
-
-
-
-
-
-
-
 ## gocn_news_set_2019
 ### gocn_news_2019-10-17
-- 1. GoCN每日新闻(2019-10-17)1. 通过go module管理go tool https://marcofranssen.nl/manage-go-tools-via-go-modules/2. 使用go的并发性进行图形计算 https://blog.owulveryck.info/2019/10/14/think-like-a-vertex-using-gos-concurrency-for-graph-computation.html3. 使用HTTP2 Server Push创建快速且惯用的客户端驱动的REST API https://github.com/dunglas/vulcain4. 用Go实现狄克斯特拉算法 https://deployeveryday.com/2019/10/16/dijkstra-algorithm-golang.html5. go中使用嵌入式结构的装饰器 https://fabianlindfors.se/blog/decorators-in-go-using-embedded-structs/编辑: 李森森订阅新闻: http://tinyletter.com/gocn
+- 1. GoCN每日新闻(2019-10-17)1. 通过go module管理go tool https://marcofranssen.nl/manage-go-tools-via-go-modules/
+- 2. 使用go的并发性进行图形计算 https://blog.owulveryck.info/2019/10/14/think-like-a-vertex-using-gos-concurrency-for-graph-computation.html
+- 3. 使用HTTP2 Server Push创建快速且惯用的客户端驱动的REST API https://github.com/dunglas/vulcain
+- 4. 用Go实现狄克斯特拉算法 https://deployeveryday.com/2019/10/16/dijkstra-algorithm-golang.html
+- 5. go中使用嵌入式结构的装饰器 https://fabianlindfors.se/blog/decorators-in-go-using-embedded-structs/
+
 
 - - - - - - - - - - - - - - 
 
@@ -28,10 +26,6 @@
 - 5. 4. 如何构建一个云原生框架 https://medium.com/@yannick.b/how-should-be-built-the-ideal-cloud-native-framework-part-2-2fcfa38c9de7
 
 - 6. 5. pigo - 人脸识别库 https://www.reddit.com/r/golang/comments/di3n1k/the_pigo_face_detection_library_now_is_capable/
-
-- 7. 编辑: yulibaozi
-
-- 8. 订阅新闻: http://tinyletter.com/gocn
 
 - - - - - - - 
 
@@ -3409,134 +3403,4 @@ https://www.infoq.cn/article/96KL3BQwqz-IzxYi2wUO
 ### gocn_news_2019-01-11
 - 1. GoCN每日新闻(2019-01-11)
 
-- 2. 1.使用Goreplay回放与测试Https请求 https://medium.com/a-layman/software-testing-design-a-dark-traffic-system-to-test-https-requests-with-goreplay-8d143ebc5497
-2.通过OPA实现Kubernetes的鉴权 https://medium.com/@sbueringer/kubernetes-authorization-via-open-policy-agent-a9455d9d5ceb
-3.FoxySim:Go实现的电流仿真库 https://github.com/Dreamy16101976/FoxySim
-4.gosh: Go实现的小型shell https://github.com/cezarmathe/gosh
-5.go-ycsb:数据库性能测试框架 https://github.com/pingcap/go-ycsb    
-
-- 3. GopherChina 2019@北京，早鸟票已开售 https://gopherchina.org/  
-
-- 4. 编辑: Razil  
-
-- - - - - - - - - - - 
-### gocn_news_2019-01-10
-- 1. 优雅的重新启动Golang web 服务 https://tomaz.lovrec.eu/posts/graceful-server-restart/
-
-- 2. Go实现的小型的服务检查仪表盘 https://github.com/mtojek/greenwall
-
-- 3. Golang跨平台自动化系统 https://github.com/go-vgo/robotgo
-
-- 4. Golang实现的人脸检测库 https://github.com/esimov/pigo
-
-- 5. 一个可以编写Excel文件的Golang库 https://dev.to/xuri/go-library-for-reading-and-writing-microsoft-excel-xlsx-files-57hi
-
-- - - - - - - - - - 
-### gocn_news_2019-01-09
-- 1. Go:开发前你应该知道的几个tips https://medium.com/@alexmaisiura/tips-that-you-should-know-before-start-writing-on-go-d30e681e2dd7
-
-- 2. Go经典库使用分析:高性能可扩展HTTP路由httprouter  https://mp.weixin.qq.com/s/Q2-60p_KU0AgbvtPu7CMRw
-
-- 3. 反射之reflect.Type方法查找和调用 https://blog.csdn.net/breaksoftware/article/details/86068788
-
-- 4. 编写自定义K8s调度器 https://banzaicloud.com/blog/k8s-custom-scheduler/
-
-- 5. Gloo——记一次失败的实验 https://mp.weixin.qq.com/s/WPmog5TgZr_W4QRVz4Dyhw
-
-- - - - - - - - - - 
-### gocn_news_2019-01-08
-- 1. Github 支持免费创建私有仓库 https://blog.github.com/2019-01-07-new-year-new-github/
-
-- 2. Go语言(golang)的错误(error)处理的推荐方案 https://www.flysnow.org/2019/01/01/golang-error-handle-suggestion.html
-
-- 3. 使用 pprof 提升 Prometheus 的启动速度 https://www.robustperception.io/optimising-startup-time-of-prometheus-2-6-0-with-pprof
-
-- 4. 《经济学人》使用 Go 搭建微服务 https://www.infoq.com/articles/golang-the-economist
-
-- 5. Go 使用 Docker 进行实时开发更新 https://threedots.tech/post/go-docker-dev-environment-with-go-modules-and-live-code-reloading/
-
-- - - - - - - - - - 
-### gocn_news_2019-01-07
-- 1. 让Raft变快100倍 - Dragonboat的写优化 https://zhuanlan.zhihu.com/p/52620657
-
-- 2. 用Go实现一个JSON解析器 https://hackernoon.com/create-a-go-json-parser-batteries-included-9d02d09fe508
-
-- 3. 综述：微服务化解决的问题和引出的问题 https://jingwei.link/2019/01/06/summary-of-microservices-k8s.html
-
-- 4. Beaver: 一个实时消息服务端 https://github.com/Clivern/Beaver
-
-- 5. GolangExample: Go代码示例 https://golangexample.com/
-
-- - - - - - - - - - 
-### gocn_news_2019-01-06
-- 1. 如何做好单元测试 https://medium.com/@jens.neuse/want-to-write-good-unit-tests-in-go-dont-panic-or-should-you-ba3eb5bf4f51
-
-- 2. Go语言Base58实现 https://github.com/mr-tron/base58
-
-- 3. Go语言链表实现 http://blog.51cto.com/steed/2339367
-
-- 4. 游戏服务器缓存库举例 https://www.jianshu.com/p/aeb505ef55cd
-
-- 5. http.DefaultTransport原生支持SOCKS5代理 https://www.reddit.com/r/golang/comments/acqhxu/fun_fact_httpdefaulttransport_natively_supports/
-
-- - - - - - - - - - 
-### gocn_news_2019-01-05
-- 1. 开源一个千万级多组Raft库-Dragonboat https://zhuanlan.zhihu.com/p/52487803
-
-- 2. Golang并发：除了channel，你还有其他选择 https://segmentfault.com/a/1190000017770416
-
-- 3. 从微服务治理的角度看RSocket、Envoy和Istio http://t.cn/EGf3lei
-
-- 4. 50+ 顶级开源 Kubernetes 工具列表 https://www.infoq.cn/article/RPA-wswoEyjuRZfTMcut
-
-- 5. 再谈 Go 语言在前端的应用前景 https://mp.weixin.qq.com/s/v0-d-qPQFlV0CxttFpzC5w
-
-- - - - - - - - - - 
-### gocn_news_2019-01-04
-- 1. GO语言主流框架排名分析 https://redmonk.com/fryan/2018/02/07/language-framework-popularity-a-look-at-go/
-
-- 2. 七年后我如何编写Go HTTP服务 https://medium.com/statuscode/how-i-write-go-http-services-after-seven-years-37c208122831 
-
-- 3. 使用mget提取网页元数据 https://medium.com/@mremond/extracting-web-page-metadata-with-mget-9ce1aefc6579
-
-- 4. 测试Kubernetes Go应用程序  https://itnext.io/testing-kubernetes-go-applications-f1f87502b6ef
-
-- 5. Go Docker开发环境使用Go Modules和实时代码实现重载    https://threedots.tech/post/go-docker-dev-environment-with-go-modules-and-live-code-reloading/
-
-- - - - - - - - - - 
-### gocn_news_2019-01-03
-- 1. 为什么goroutine存在泄露，如何避免？ https://medium.com/jexia/why-goroutines-leaks-exist-and-how-to-avoid-these-dfc572bdad08
-
-- 2. Go静态错误分析工具 https://staticcheck.io/
-
-- 3. 基于Raft的分布式Mysql binlog存储系统 https://github.com/flike/kingbus
-
-- 4. go中的array和slice https://medium.com/@marty.stepien/arrays-vs-slices-bonanza-in-golang-fa8d32cd2b7c
-
-- 5. 2019年值得关注的23个开发者博客 https://zhuanlan.zhihu.com/p/53729304
-
-- - - - - - - - - - 
-### gocn_news_2019-01-02
-- 1. Go语言slice的本质-SliceHeader：https://juejin.im/post/5c2a1e446fb9a049df242997
-
-- 2. Golang中的数据库迁移：https://lanre.wtf/blog/2019/01/02/database-migration-golang/
-
-- 3. TiDB-Tools golang 开发实践：https://mp.weixin.qq.com/s/idHQbI9_3-euHFEzKvlJlg
-
-- 4. Kubernetes的未来在于虚拟机而非容器：https://mp.weixin.qq.com/s/304qQoZfUiyZBTvyCVFYow
-
-- 5. 5G下的微服务架构：拥抱NFV，Istio 1.1将支持多网络平面：https://mp.weixin.qq.com/s/Rn2MdrrV3YahtdnWrfReYA
-
-- - - - - - - - - - 
-### gocn_news_2019-01-01
-- 1. 理解 channel range 操作：https://imil.net/blog/2018/12/31/Understanding-golang-channel-range/ 
-
-- 2. 通过插图学习 Go 并发：https://medium.com/@trevor4e/learning-gos-concurrency-through-illustrations-8c4aff603b3
-
-- 3. Go 函数讲解系列文章：https://pythonnotes.com/functions-in-go/
-
-- 4. 2019 年值得关注的工业技术：https://staceyoniot.com/the-industrial-tech-to-watch-in-2019/
-
-- 5. 2019 边缘计算和IoT 展望：https://www.rfidjournal.com/articles/view?18111/
-
-- - - - - - - - - - 
+- 2. 1.使用Goreplay回放与测试Https请求 https://medium.com/a-lay
