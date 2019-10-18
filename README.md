@@ -5,7 +5,12 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-18
+- 1. 在Go1.13使用Errors https://blog.golang.org/go1.13-errors  2. Go的扁平化应用结构 https://www.calhoun.io/flat-application-structure/   3. Go新特性抢先看:动态unsafe pointer检查 https://groups.google.com/forum/#!topic/golang-dev/SzwDoqoRVJA/discussion  4. 使用Go编写nushell的插件 https://vsoch.github.io//2019/nushell-plugin-golang/  5. onnx-go:ONNX库链接包 https://github.com/owulveryck/onnx-go  
+
+
 ### gocn_news_2019-10-17
 - 1. 通过go module管理go tool https://marcofranssen.nl/manage-go-tools-via-go-modules/
 - 2. 使用go的并发性进行图形计算 https://blog.owulveryck.info/2019/10/14/think-like-a-vertex-using-gos-concurrency-for-graph-computation.html
