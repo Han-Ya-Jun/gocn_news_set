@@ -3,7 +3,16 @@
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-21
+- 1. 使用 Golang, RabbitMQ和 Protobuf 构建高效的微服务 https://medium.com/rahasak/reactive-microservices-with-golang-rabbitmq-and-protobuf-af025f4ec27
+- 2. Golang 中的比较函数对比 — 最好自己实现  https://medium.com/@ktrilaksono/comparing-simple-comparison-functions-in-golang-it-is-better-to-implement-it-yourself-73a3a31b9bc
+- 3. go modules 的一些细节https://juejin.im/post/5dac45ae6fb9a04e1043a837
+- 4. 给 Go 库作者的建议 https://juejin.im/post/5dac18895188256ab73dd4a9
+- 5. 用 Go 编写的 git 简易托管方案 https://github.com/belak/go-git-dir* 第二季go hack黑客马拉松来啦！ http://gohack2019.sxl.cn/
+
+
 ### gocn_news_2019-10-20
 - 1. slakc是如何构建共享频道的 https://slack.engineering/how-slack-built-shared-channels-8d42c895b19f
 
