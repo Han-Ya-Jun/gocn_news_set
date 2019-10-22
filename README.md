@@ -2,8 +2,8 @@
 在之前爬虫Go中国技术社区每日新闻的的[小工具](https://github.com/Han-Ya-Jun/news_watch_notice)加了一个功能，自动归档到github上，方便查阅，每天自动更新。
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
-### gocn_news_2019-10-22
 ## gocn_news_set_2019
+### gocn_news_2019-10-22
 - 1. Go 集成测试：https://www.ardanlabs.com/blog/2019/10/integration-testing-in-go-set-up-and-writing-tests.html
 - 2. Go 错误处理：https://blog.logrocket.com/error-handling-in-golang/
 - 3. 使用'internal'包减少 API 的暴露范围：https://dave.cheney.net/2019/10/06/use-internal-packages-to-reduce-your-public-api-surface
