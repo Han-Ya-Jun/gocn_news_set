@@ -2,9 +2,14 @@
 在之前爬虫Go中国技术社区每日新闻的的[小工具](https://github.com/Han-Ya-Jun/news_watch_notice)加了一个功能，自动归档到github上，方便查阅，每天自动更新。
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
-
-
+### gocn_news_2019-10-22
 ## gocn_news_set_2019
+- 1. Go 集成测试：https://www.ardanlabs.com/blog/2019/10/integration-testing-in-go-set-up-and-writing-tests.html
+- 2. Go 错误处理：https://blog.logrocket.com/error-handling-in-golang/
+- 3. 使用'internal'包减少 API 的暴露范围：https://dave.cheney.net/2019/10/06/use-internal-packages-to-reduce-your-public-api-surface
+- 4. HTTP的前世今生: https://coolshell.cn/articles/19840.html
+- 5. Ubuntu 18.04 Server上部署Kubernetes集群: https://tonybai.com/2019/10/21/how-to-deploy-a-kubernetes-cluster-with-ubuntu-server-18-04/
+
 ### gocn_news_2019-10-21
 - 1. 使用 Golang, RabbitMQ和 Protobuf 构建高效的微服务 https://medium.com/rahasak/reactive-microservices-with-golang-rabbitmq-and-protobuf-af025f4ec27
 - 2. Golang 中的比较函数对比 — 最好自己实现  https://medium.com/@ktrilaksono/comparing-simple-comparison-functions-in-golang-it-is-better-to-implement-it-yourself-73a3a31b9bc
