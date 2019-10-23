@@ -2,7 +2,16 @@
 在之前爬虫Go中国技术社区每日新闻的的[小工具](https://github.com/Han-Ya-Jun/news_watch_notice)加了一个功能，自动归档到github上，方便查阅，每天自动更新。
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-23
+- 1.从0开始，用Go实现Lexer和Parserhttps://mp.weixin.qq.com/s/cFGJX2IeGZOifqaLh5YYYA
+- 2.在grpc中使用pprofhttps://medium.com/@gurasis/profiling-a-golang-grpc-server-using-pprof-b6de1371fdd
+- 3.Go依赖关系https://medium.com/@2hamed/dependency-isolation-in-go-afab00b5e4c9
+- 4.Go使用信号来处理Unix命令https://medium.com/better-programming/using-signals-to-handle-unix-commands-in-golang-f09e9efb7769
+- 5.Go使用httpshttps://juejin.im/post/5daeb504f265da5b7e2406a4第二季gohack黑客马拉松来啦！http://gohack2019.sxl.cn/
+
+
 ### gocn_news_2019-10-22
 - 1. Go 集成测试：https://www.ardanlabs.com/blog/2019/10/integration-testing-in-go-set-up-and-writing-tests.html
 - 2. Go 错误处理：https://blog.logrocket.com/error-handling-in-golang/
