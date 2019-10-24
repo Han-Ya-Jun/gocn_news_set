@@ -3,7 +3,16 @@
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-24
+- 1.学习Golang之服务器框架编写–CS网络通信http://1t.click/aJag
+- 2.如何实现GoModule依赖关系的可视化https://juejin.im/post/5dafe742e51d45249465cd9a
+- 3.GogRPC系列七：让服务同时提供HTTP接口https://juejin.im/post/5dafedd8f265da5b86014357
+- 4.如何写出优雅的Golang代码https://juejin.im/entry/5db018c3f265da4d4a30569e
+- 5.[译]用Golang编写一个简易聊天室https://juejin.im/post/5dafb4435188256290692f05第二季gohack黑客马拉松来啦！http://gohack2019.sxl.cn/
+
+
 ### gocn_news_2019-10-23
 - 1.从0开始，用Go实现Lexer和Parserhttps://mp.weixin.qq.com/s/cFGJX2IeGZOifqaLh5YYYA
 - 2.在grpc中使用pprofhttps://medium.com/@gurasis/profiling-a-golang-grpc-server-using-pprof-b6de1371fdd
