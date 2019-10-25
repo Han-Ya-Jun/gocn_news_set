@@ -4,7 +4,16 @@
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-25
+- 1. [译]Golang应付百万级请求/分钟 https://juejin.im/post/5db1464b6fb9a0202a261ca9
+- 2. [译][Part1]使用Go gRPC微服务构建HTTP/REST服务，中间件，Kubernetes部署等等 https://juejin.im/post/5daffe9ae51d4524c118083b
+- 3. Go gRPC 客户端服务保障如何做？负载均衡、重试、健康检查 http://yangxikun.com/golang/2019/10/19/golang-grpc-client-side-lb.html
+- 4. 微服务如何保证不会出现连锁反应？Go实现的断路器了解下 https://mp.weixin.qq.com/s/Q1a0TVpjG4EyNzi0EKJn0A
+- 5. 一文让你了解Kubernetes架构 https://mp.weixin.qq.com/s/hgN1xmwb0yOWep71CHdBtQ第二季go hack黑客马拉松来啦！ http://gohack2019.sxl.cn/
+
+
 ### gocn_news_2019-10-24
 - 1.学习Golang之服务器框架编写–CS网络通信http://1t.click/aJag
 - 2.如何实现GoModule依赖关系的可视化https://juejin.im/post/5dafe742e51d45249465cd9a
