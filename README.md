@@ -5,7 +5,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-26
+- 1.GateKeeper：滴滴开源的使用Go编写的不依赖分布式数据库的API网关https://mp.weixin.qq.com/s/gpQSPJ-uRpI-k1j97K1waw
+- 2.Gopanic处理https://www.digitalocean.com/community/tutorials/handling-panics-in-go
+- 3.Go实现TCP扫描器https://developer20.com/tcp-scanner-in-go/
+- 4.两分钟让你明白Go中如何继承https://segmentfault.com/a/1190000020800285
+- 5.花椒服务端Kubernetes技术实践https://mp.weixin.qq.com/s/zviiMElp54HyxI8GsKfBjg
+
+
 ### gocn_news_2019-10-25
 - 1. [译]Golang应付百万级请求/分钟 https://juejin.im/post/5db1464b6fb9a0202a261ca9
 - 2. [译][Part1]使用Go gRPC微服务构建HTTP/REST服务，中间件，Kubernetes部署等等 https://juejin.im/post/5daffe9ae51d4524c118083b
