@@ -6,7 +6,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-27
+- 1.Golab(意大利GopherCon)2019见闻http://fedepaol.github.io/blog/2019/10/23/golab-2019/
+- 2.pkg/errors迁移到go1.13error处理https://mycodesmells.com/post/migrating-pkg-errors-to-go-113-errors
+- 3.Golang慎用Update函数https://www.jianshu.com/p/1380b004e789
+- 4.effective-go之map、fmt、appendhttps://jingwei.link/2019/10/26/effectivego-map-fmt-append.html
+- 5.gin-api路由中间件-签名验证https://www.cnblogs.com/xinliangcoder/p/11743815.html-
+
+
 ### gocn_news_2019-10-26
 - 1.GateKeeper：滴滴开源的使用Go编写的不依赖分布式数据库的API网关https://mp.weixin.qq.com/s/gpQSPJ-uRpI-k1j97K1waw
 - 2.Gopanic处理https://www.digitalocean.com/community/tutorials/handling-panics-in-go
