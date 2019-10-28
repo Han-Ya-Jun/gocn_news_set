@@ -7,7 +7,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-28
+- 1.理解和攻击GoDSA验证漏洞https://paul.querna.org/articles/2019/10/24/dsa-verify-poc/
+- 2.Go中进行Fuzz测试https://medium.com/a-journey-with-go/go-fuzz-testing-in-go-deb36abc971f
+- 3.用Go克隆Memcachedhttps://healeycodes.com/go/tutorial/beginners/showdev/2019/10/21/cloning-memcached-with-go.html
+- 4.Go实现的scrapyd替代品https://github.com/alash3al/scrapyd-go
+- 5.TamaGo：为ARMSoC提供的Gohttps://github.com/inversepath/tamago
+
+
 ### gocn_news_2019-10-27
 - 1.Golab(意大利GopherCon)2019见闻http://fedepaol.github.io/blog/2019/10/23/golab-2019/
 - 2.pkg/errors迁移到go1.13error处理https://mycodesmells.com/post/migrating-pkg-errors-to-go-113-errors
