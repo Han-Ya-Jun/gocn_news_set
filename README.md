@@ -8,7 +8,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-29
+- 1.Go的发展传奇https://spf1
+- 3.com/presentation/the-legacy-of-go/
+- 2.Go操作Linux网络层https://tomdnetto.net/post/linux_networking_from_go_nftables3.GolangAST语法树使用教程及示例https://juejin.im/post/5db7195df265da4d104b7fb7
+- 4.使用Makefile管理Go项目https://segmentfault.com/a/1190000020842140
+- 5.Go是新的Rubyhttps://00f.net/2019/10/28/go-is-the-new-ruby/
+
+
 ### gocn_news_2019-10-28
 - 1.理解和攻击GoDSA验证漏洞https://paul.querna.org/articles/2019/10/24/dsa-verify-poc/
 - 2.Go中进行Fuzz测试https://medium.com/a-journey-with-go/go-fuzz-testing-in-go-deb36abc971f
