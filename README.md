@@ -9,7 +9,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-30
+- 1.AstaXie:玩转Go语言，从beego开始https://mp.weixin.qq.com/s/Iof1hA1JUJg9S_gfI6kGQQ
+- 2.[译]UberGo语言代码风格指南http://fivezh.github.io/2019/10/17/uber-go-style-guide
+- 3.何处安放我们的Go代码https://liujiacai.net/blog/2019/10/24/go-modules
+- 4.[译]Go使用封装返回模式回收被goroutines占用的内存https://juejin.im/post/5db7c1a4e51d452a1340f36f
+- 5.Sqreen:Go语言应用程序安全管理组件https://github.com/sqreen/go-agent
+
+
 ### gocn_news_2019-10-29
 - 1.Go的发展传奇https://spf1
 - 3.com/presentation/the-legacy-of-go/
