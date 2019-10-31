@@ -10,7 +10,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-10-31
+- 1.Go语言继承的其他语言的优秀之处https://spf1
+- 3.com/presentation/the-legacy-of-go/
+- 2.Golang图灵机库https://madeddu.xyz/posts/golang-turing-machine/3.Go中的反射https://medium.com/better-programming/understand-reflect-in-go-24a68fcf1011
+- 4.给Go程序加入编译版本时间等信息https://pengrl.com/p/37397/
+- 5.BigCache如何避免GC周期并加速Go中的并发访问https://dev.to/douglasmakey/how-bigcache-avoids-expensive-gc-cycles-and-speeds-up-concurrent-access-in-go-12bb
+
+
 ### gocn_news_2019-10-30
 - 1.AstaXie:玩转Go语言，从beego开始https://mp.weixin.qq.com/s/Iof1hA1JUJg9S_gfI6kGQQ
 - 2.[译]UberGo语言代码风格指南http://fivezh.github.io/2019/10/17/uber-go-style-guide
