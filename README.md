@@ -11,7 +11,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-01
+- 1.RobPike认为Go成功的5个因素https://changelog.com/posts/5-things-rob-pike-attributes-to-gos-success
+- 2.提案:扩展Go内存分页机制https://go.googlesource.com/proposal/+/refs/changes/57/202857/2/design/35112-scaling-the-page-allocator.md#proposal_scaling-the-go-page-allocator
+- 3.Podcast:关于缓存的一切https://changelog.com/gotime/103
+- 4.GoTCP库gevhttps://github.com/Allenxuxu/gev
+- 5.ldflags使用教程https://www.digitalocean.com/community/tutorials/using-ldflags-to-set-version-information-for-go-applications
+
+
 ### gocn_news_2019-10-31
 - 1.Go语言继承的其他语言的优秀之处https://spf1
 - 3.com/presentation/the-legacy-of-go/
