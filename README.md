@@ -3,23 +3,13 @@
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
-
-
-
-
-
-
-
-
-
-
 ## gocn_news_set_2019
 ### gocn_news_2019-11-02
-- 1.Go1.1
-- 3.4andGo1.1
-- 2.13arereleasedhttps://groups.google.com/forum/#!msg/golang-announce/YVXawNxmEBw/pju_oNyaAQAJ2.Gomap数据结构和源码详解https://www.cnblogs.com/JoZSM/p/11784037.html3.理解Go的空接口https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72
-- 4.Golang限流器time/rate使用介绍https://www.cyhone.com/articles/usage-of-golang-rate
-- 5.为GolangAPI设置Swagger文档https://towardsdatascience.com/setting-up-swagger-docs-for-golang-api-8d0442263641
+- 1. Go 1.13.4 and Go 1.12.13 are released https://groups.google.com/forum/#!msg/golang-announce/YVXawNxmEBw/pju_oNyaAQAJ
+- 2. Go map数据结构和源码详解 https://www.cnblogs.com/JoZSM/p/11784037.html
+- 3. 理解 Go 的空接口 https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72
+- 4. Golang限流器time/rate使用介绍 https://www.cyhone.com/articles/usage-of-golang-rate
+- 5. 为Golang API设置Swagger文档 https://towardsdatascience.com/setting-up-swagger-docs-for-golang-api-8d0442263641
 
 
 ### gocn_news_2019-11-01
