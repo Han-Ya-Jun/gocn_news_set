@@ -12,7 +12,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-02
+- 1.Go1.1
+- 3.4andGo1.1
+- 2.13arereleasedhttps://groups.google.com/forum/#!msg/golang-announce/YVXawNxmEBw/pju_oNyaAQAJ2.Gomap数据结构和源码详解https://www.cnblogs.com/JoZSM/p/11784037.html3.理解Go的空接口https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72
+- 4.Golang限流器time/rate使用介绍https://www.cyhone.com/articles/usage-of-golang-rate
+- 5.为GolangAPI设置Swagger文档https://towardsdatascience.com/setting-up-swagger-docs-for-golang-api-8d0442263641
+
+
 ### gocn_news_2019-11-01
 - 1.RobPike认为Go成功的5个因素https://changelog.com/posts/5-things-rob-pike-attributes-to-gos-success
 - 2.提案:扩展Go内存分页机制https://go.googlesource.com/proposal/+/refs/changes/57/202857/2/design/35112-scaling-the-page-allocator.md#proposal_scaling-the-go-page-allocator
