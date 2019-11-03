@@ -3,7 +3,16 @@
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-03
+- 1. Go的内存管理与分配 https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d430f44  
+- 2. 我将把pkg移到外部 https://travisjeffery.com/b/2019/11/i-ll-take-pkg-over-internal/   
+- 3. 使用缓存加速Github Action中的Go项目构建 https://www.markphelps.me/2019/11/speed-up-your-go-builds-with-actions-cache/  
+- 4. 详解panic和recover机制 https://go101.org/article/panic-and-recover-more.html    
+- 5. 实战gorgonia:iris数据集的多变量的线性衰退分析 https://gorgonia.org/tutorials/iris/    
+
+
 ### gocn_news_2019-11-02
 - 1. Go 1.13.4 and Go 1.12.13 are released https://groups.google.com/forum/#!msg/golang-announce/YVXawNxmEBw/pju_oNyaAQAJ
 - 2. Go map数据结构和源码详解 https://www.cnblogs.com/JoZSM/p/11784037.html
