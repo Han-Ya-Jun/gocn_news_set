@@ -4,7 +4,16 @@
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-04
+- 1. Go中垃圾收集器是如何标记内存的 https://medium.com/a-journey-with-go/go-how-does-the-garbage-collector-mark-the-memory-72cfc12c6976
+- 2. 自动删除未使用的中间层 docker 镜像 https://medium.com/@cikupin/removing-unused-intermediate-docker-images-automatically-25e453c514ea
+- 3. ElasticSearch 客户端学习案例 https://medium.com/a-journey-with-go/go-elasticsearch-clients-study-case-dbaee1e02c7
+- 4. 从词法分析角度看 Go 代码的组成 https://juejin.im/post/5dbebb3d6fb9a0204e659077
+- 5. 用 Go 编写的快速的 HTTP (L7) 和 TCP (L4) 隧道 https://github.com/inlets/inletsctl-
+
+
 ### gocn_news_2019-11-03
 - 1. Go的内存管理与分配 https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d430f44  
 - 2. 我将把pkg移到外部 https://travisjeffery.com/b/2019/11/i-ll-take-pkg-over-internal/   
