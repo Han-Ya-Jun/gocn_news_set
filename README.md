@@ -5,7 +5,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-05
+- 1.Protobuf终极教程https://colobu.com/2019/10/03/protobuf-ultimate-tutorial-in-go/
+- 2.何处安放我们的Go代码https://liujiacai.net/blog/2019/10/24/go-modules/
+- 3.为什么使用通信来共享内存？https://draveness.me/whys-the-design-communication-shared-memory
+- 4.Go结构体定义https://www.digitalocean.com/community/tutorials/defining-structs-in-go
+- 5.UNIX50年：KENTHOMPSON的密码https://coolshell.cn/articles/19996.html-
+
+
 ### gocn_news_2019-11-04
 - 1. Go中垃圾收集器是如何标记内存的 https://medium.com/a-journey-with-go/go-how-does-the-garbage-collector-mark-the-memory-72cfc12c6976
 - 2. 自动删除未使用的中间层 docker 镜像 https://medium.com/@cikupin/removing-unused-intermediate-docker-images-automatically-25e453c514ea
