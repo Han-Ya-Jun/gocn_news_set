@@ -6,7 +6,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-06
+- 1.使用构建标签分离你的测试文件https://mickey.dev/posts/go-build-tags-testing/
+- 2.使用Go添加Nginx代理https://juejin.im/post/5dc0c3905188255faf60b3c5
+- 3.为什么要使用goroutines取代threadshttps://juejin.im/post/5dc144c05188255f695be5f8
+- 4.Go语言教程之工程管理https://mp.weixin.qq.com/s/yMcX5yWlBr8azg1-TEjG_g
+- 5.让数据库运行在浏览器里？TiDB+WebAssembly告诉你答案https://mp.weixin.qq.com/s/EhKw2mEMZ69sU4Zn4_JhZw【活动】北京meetuphttps://www.bagevent.com/event/6150831【活动】杭州meetuphttps://www.bagevent.com/event/6129212
+
+
 ### gocn_news_2019-11-05
 - 1.Protobuf终极教程https://colobu.com/2019/10/03/protobuf-ultimate-tutorial-in-go/
 - 2.何处安放我们的Go代码https://liujiacai.net/blog/2019/10/24/go-modules/
