@@ -3,18 +3,19 @@
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
-
-
-
-
-
 ## gocn_news_set_2019
 ### gocn_news_2019-11-07
-- 1. [译]排序运行时间能否做到O(n)？让Go语言来告诉你 https://mp.weixin.qq.com/s/dHp-OJ0v9yNTazdYSsEKGw  
-- 2. go语言学习（十一）package简介 http://www.cnblogs.com/wangshuyang/p/1180745
-- 4.html
-- 3. [译]Golangtemplate小抄 https://colobu.com/2019/11/05/Golang-Templates-Cheatsheet/4.  理解Go的reflect https://juejin.im/post/5dc03c466fb9a04a9a08655e 
-- 5. 通过深入对比Arrays和Slices学习GO  【活动】北京meetuphttps://www.bagevent.com/event/6150831【活动】杭州meetuphttps://www.bagevent.com/event/6129212
+- 1. [译] 排序运行时间能否做到 O(n)？让 Go 语言来告诉你 https://mp.weixin.qq.com/s/dHp-OJ0v9yNTazdYSsEKGw  
+
+- 2. go语言学习（十一）package简介 http://www.cnblogs.com/wangshuyang/p/11807454.html
+
+- 3. [译]Golang template 小抄 https://colobu.com/2019/11/05/Golang-Templates-Cheatsheet/
+
+- 4. 理解Go的reflect https://juejin.im/post/5dc03c466fb9a04a9a08655e 
+
+- 5.  通过 深入对比 Arrays 和 Slices 学习GO  
+【活动】北京meetup https://www.bagevent.com/event/6150831
+【活动】杭州meetup https://www.bagevent.com/event/6129212
 
 
 ### gocn_news_2019-11-06
