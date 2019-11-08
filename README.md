@@ -3,7 +3,16 @@
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-08
+- 1. Go Modules: v2及更高版本使用 https://blog.golang.org/v2-go-modules
+- 2. 根据拓扑图理解golang的sync.Map工作原理 https://segmentfault.com/a/1190000020946989
+- 3. 如何写高大上的 godoc（Go 文档）https://cloud.tencent.com/developer/article/1526609
+- 4. Go 语言 time 包常用用法笔记 https://cloud.tencent.com/developer/article/1456484
+- 5. 蚂蚁金服 Service Mesh 深度实践 https://mp.weixin.qq.com/s/XjbmCxdJLKVcFlEUiM7Pig【活动】北京meetup https://www.bagevent.com/event/6150831【活动】杭州meetup https://www.bagevent.com/event/6129212
+
+
 ### gocn_news_2019-11-07
 - 1. [译] 排序运行时间能否做到 O(n)？让 Go 语言来告诉你 https://mp.weixin.qq.com/s/dHp-OJ0v9yNTazdYSsEKGw  
 
