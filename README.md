@@ -4,7 +4,16 @@
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-09
+- 1.Go语言发行10周年庆祝https://blog.golang.org/10years
+- 2.容器中某Go服务GC停顿经常超过100ms排查https://mp.weixin.qq.com/s/Lk1EbiT7WprVOyX_dXYMyg
+- 3.详细介绍Go中如何实现bitsethttps://juejin.im/post/5dc409b2f265da4cfd296635
+- 4.Go项目安全评估https://blog.trailofbits.com/2019/11/07/attacking-go-vr-ttps/
+- 5.几种部署GokuAPIGateway的方式https://segmentfault.com/a/1190000020948193【活动】北京meetuphttps://www.bagevent.com/event/6150831【活动】杭州meetuphttps://www.bagevent.com/event/6129212
+
+
 ### gocn_news_2019-11-08
 - 1. Go Modules: v2及更高版本使用 https://blog.golang.org/v2-go-modules
 - 2. 根据拓扑图理解golang的sync.Map工作原理 https://segmentfault.com/a/1190000020946989
