@@ -5,7 +5,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-10
+- 1.GoNetpollI/O多路复用构建原生网络模型之源码深度解析https://taohuawu.club/go-netpoll-io-multiplexing-reactor
+- 2.Go垃圾回收：第三部分-GC的步调https://studygolang.com/articles/24562
+- 3.Go语言协程池模型－图数据库(Neo4j)写入https://www.jianshu.com/p/d27504514c17
+- 4.使用Go创建一个简单的LoadBalancerhttps://kasvith.github.io/posts/lets-create-a-simple-lb-go/
+- 5.Golang单元测试入门实践总结https://www.jianshu.com/p/331c432dc036-
+
+
 ### gocn_news_2019-11-09
 - 1.Go语言发行10周年庆祝https://blog.golang.org/10years
 - 2.容器中某Go服务GC停顿经常超过100ms排查https://mp.weixin.qq.com/s/Lk1EbiT7WprVOyX_dXYMyg
