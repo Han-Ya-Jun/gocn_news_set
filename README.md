@@ -7,7 +7,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-12
+- 1.JEB反编译Go二进制文件https://www.pnfsoftware.com/blog/analyzing-golang-executables/
+- 2.k8s边缘计算平台kubeedge源码分析系列之整体架构https://juejin.im/post/5dc92c66f265da4d513359ab
+- 3.goplsv0.2.0发布https://github.com/golang/go/issues/33030
+- 4.Golang限流器time/rate使用介绍https://www.cyhone.com/articles/usage-of-golang-rate/
+- 5.你不知道的Gounsafe.Pointeruintptr原理和玩法https://www.cnblogs.com/sunsky303/p/11820500.html
+
+
 ### gocn_news_2019-11-11
 - 1.Go的内存管理与回收 https://medium.com/a-journey-with-go/go-memory-management-and-memory-sweep-cc71b484de05
 - 2.protoc-gen-struct-transformer：帮助将gRPC生成模型与编写的数据模型进行关联的工具 https://speakerdeck.com/ekhabarov/protoc-gen-struct-transformer
