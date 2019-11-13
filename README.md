@@ -8,7 +8,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-13
+- 1.SystemDesign分享https://www.youtube.com/watch?v=mhUQe4BKZXs&list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV
+- 2.Go实现简单TCP扫描器https://mp.weixin.qq.com/s/OhS_RQZojJbkenOSS_tEng
+- 3.闪电网络——BTC小额支付解决方案https://mp.weixin.qq.com/s/_xVnljUbz7GMGS0pPIlwpA
+- 4.斗鱼基于Golang在高并发场景下的日志系统实践http://100000p.com/article/2c9f60ef6e5884e0016e58875e4e0000
+- 5.我的Promtheus到底啥时候报警？https://aleiwu.com/post/prometheus-alert-why/?from=singlemessage&isappinstalled=0
+
+
 ### gocn_news_2019-11-12
 - 1.JEB反编译Go二进制文件https://www.pnfsoftware.com/blog/analyzing-golang-executables/
 - 2.k8s边缘计算平台kubeedge源码分析系列之整体架构https://juejin.im/post/5dc92c66f265da4d513359ab
