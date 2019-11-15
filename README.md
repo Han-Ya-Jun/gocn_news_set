@@ -10,7 +10,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-15
+- 1.go.dev新的Go开发门户网站上线啦https://www.i-programmer.info/news/98-languages/13250-go-dev-portal-now-online.html
+- 2.kubeedge源码分析系列之edgecore（一)https://juejin.im/post/5dcd374ee51d45080d2bdd36 
+- 3.用Go语言实现pdf的合成https://xdg.me/blog/go-as-glue-json-xml-png-pdf/  
+- 4.musig:像shazam那样实现音乐识别https://github.com/sfluor/musig  
+- 5.Dcron:基于redis与一致性哈希算法的分布式定时任务库https://github.com/LibiChai/dcron  *【活动】北京meetup https://www.bagevent.com/event/6150831*【活动】杭州meetup https://www.bagevent.com/event/6129212
+
+
 ### gocn_news_2019-11-14
 - 1.sourcegraph的Go代码风格指南https://about.sourcegraph.com/handbook/engineering/go_style_guide
 - 2.减少内存分配开销https://www.markphelps.me/2019/11/profiling-to-reduce-memory-allocations/
