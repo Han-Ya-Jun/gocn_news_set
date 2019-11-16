@@ -11,7 +11,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-16
+- 1.Go的text/template源码解析https://bigpigeon.org/post/go-text-template
+- 2.Go中的数据结构字典-maphttps://www.cnblogs.com/33debug/p/1185158
+- 5.html
+- 3.UberGo语言编码规范https://segmentfault.com/a/1190000021011649
+- 4.Golangrabbitmq的使用（一）https://segmentfault.com/a/11900000210180465.fastzip：快速创建和读取zip的库https://github.com/saracen/fastzip
+
+
 ### gocn_news_2019-11-15
 - 1.go.dev新的Go开发门户网站上线啦https://www.i-programmer.info/news/98-languages/13250-go-dev-portal-now-online.html
 - 2.kubeedge源码分析系列之edgecore（一)https://juejin.im/post/5dcd374ee51d45080d2bdd36 
