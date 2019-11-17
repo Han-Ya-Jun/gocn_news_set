@@ -12,7 +12,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-17
+- 1.解决增量并发的问题https://medium.com/@claudiojm92/solving-increment-concurrency-problems-a788f75ae68d
+- 2.如何有选择得导出包内的标识符https://engineering.kablamo.com.au/posts/2019/export-test
+- 3.为什么说代码质量是一个很主观的评判https://medium.com/the-developers-journey/code-quality-not-required-707520627efb
+- 4.适用于测试的内存SQL引擎ramsqlhttps://github.com/proullon/ramsql
+- 5.流事件处理框架firebolthttps://github.com/digitalocean/firebolt
+
+
 ### gocn_news_2019-11-16
 - 1.Go的text/template源码解析https://bigpigeon.org/post/go-text-template
 - 2.Go中的数据结构字典-maphttps://www.cnblogs.com/33debug/p/1185158
