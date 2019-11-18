@@ -13,7 +13,16 @@
 
 
 
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-18
+- 1.借助OpenFaaS和Golang实现Serverlesshttps://towardsdatascience.com/going-serverless-with-openfaas-and-golang-the-ultimate-setup-and-workflow-52a4a85a7951 
+- 2.我在C#中实现了Goroutines和Channelshttps://medium.com/@nolanmudge/i-implemented-goroutines-and-channels-in-c-why-dbd4a269bfbe
+- 3.深入理解Golang之httpserverhttps://juejin.im/post/5dd11baff265da0c0c1fe813
+- 4.谷歌软件工程师：我为什么喜欢用Go语言？https://news.51cto.com/art/201911/606121.htm
+- 5.用Go编写的UNIXed(lineeditor)克隆版本https://github.com/prologic/ed
+
+
 ### gocn_news_2019-11-17
 - 1.解决增量并发的问题https://medium.com/@claudiojm92/solving-increment-concurrency-problems-a788f75ae68d
 - 2.如何有选择得导出包内的标识符https://engineering.kablamo.com.au/posts/2019/export-test
