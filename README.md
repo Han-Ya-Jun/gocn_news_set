@@ -2,18 +2,6 @@
 在之前爬虫Go中国技术社区每日新闻的的[小工具](https://github.com/Han-Ya-Jun/news_watch_notice)加了一个功能，自动归档到github上，方便查阅，每天自动更新。
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
-
-
-
-
-
-
-
-
-
-
-
-
 ## gocn_news_set_2019
 ### gocn_news_2019-11-18
 - 1.借助OpenFaaS和Golang实现Serverlesshttps://towardsdatascience.com/going-serverless-with-openfaas-and-golang-the-ultimate-setup-and-workflow-52a4a85a7951 
@@ -32,11 +20,11 @@
 
 
 ### gocn_news_2019-11-16
-- 1.Go的text/template源码解析https://bigpigeon.org/post/go-text-template
-- 2.Go中的数据结构字典-maphttps://www.cnblogs.com/33debug/p/1185158
-- 5.html
-- 3.UberGo语言编码规范https://segmentfault.com/a/1190000021011649
-- 4.Golangrabbitmq的使用（一）https://segmentfault.com/a/11900000210180465.fastzip：快速创建和读取zip的库https://github.com/saracen/fastzip
+- 1.Go的text/template源码解析 https://bigpigeon.org/post/go-text-template
+- 2.Go中的数据结构字典-map https://www.cnblogs.com/33debug/p/11851585.html
+- 3.Uber Go 语言编码规范 https://segmentfault.com/a/1190000021011649
+- 4.Golang rabbitmq的使用（一） https://segmentfault.com/a/1190000021018046
+- 5.fastzip：快速创建和读取zip的库 https://github.com/saracen/fastzip
 
 
 ### gocn_news_2019-11-15
