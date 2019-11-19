@@ -2,7 +2,16 @@
 在之前爬虫Go中国技术社区每日新闻的的[小工具](https://github.com/Han-Ya-Jun/news_watch_notice)加了一个功能，自动归档到github上，方便查阅，每天自动更新。
 ## [gocn_news_set_2017](gocn_news_set_2017.md)
 ## [gocn_news_set_2018](gocn_news_set_2018.md)
+
 ## gocn_news_set_2019
+### gocn_news_2019-11-19
+- 1.Golang容器部署:https://segmentfault.com/a/1190000021051021
+- 2.走进Golang之编译器原理:https://mp.weixin.qq.com/s/VtRIEpUHn1vavT_FYkL86w
+- 3.Golangworkerpool实现：https://github.com/gammazero/workerpool
+- 4.混沌工程落地的六个阶段https://mp.weixin.qq.com/s/UXiDerl6I3RrEoTlXpGwpg
+- 5.为什么HTTPS比HTTP安全：https://juejin.im/post/5dd23e556fb9a020350a88f6-
+
+
 ### gocn_news_2019-11-18
 - 1.借助OpenFaaS和Golang实现Serverlesshttps://towardsdatascience.com/going-serverless-with-openfaas-and-golang-the-ultimate-setup-and-workflow-52a4a85a7951 
 - 2.我在C#中实现了Goroutines和Channelshttps://medium.com/@nolanmudge/i-implemented-goroutines-and-channels-in-c-why-dbd4a269bfbe
