@@ -3,22 +3,6 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
-## gocn_news_2019-11-20
-- 1. 测试驱动开发中百分百测试覆盖的命令行应用 https://itnext.io/how-to-tdd-a-console-application-to-achieve-100-coverage-starting-from-main-test-go-934a617b080f
-- 2. Go学习笔记之咬文嚼字带你弄清楚defer延迟函数 https://mp.weixin.qq.com/s/t5tmqsjZ4y4Z_n6u4c9bMw
-- 3. 比较用Java、Swift和Go编写的后端框架 https://medium.com/comsystoreply/https-medium-com-max-comsysto-comparing-backend-frameworks-written-in-java-swift-and-go-70acd07d3a8a
-- 4. 利用强大的interface来模拟和测试外部接口 https://medium.com/@victorsteven/utilizing-the-power-of-interfaces-when-mocking-and-testing-external-apis-in-golang-1178b0db5a32
-- 5. Go开发过程中总是要停下来编译：用它解决你的烦恼，快乐编程 https://mp.weixin.qq.com/s/4xwswOB17A-wup3Gqdlndw
-
-
-## gocn_news_2019-11-20
-- 1. 测试驱动开发中百分百测试覆盖的命令行应用 https://itnext.io/how-to-tdd-a-console-application-to-achieve-100-coverage-starting-from-main-test-go-934a617b080f
-- 2. Go学习笔记之咬文嚼字带你弄清楚defer延迟函数 https://mp.weixin.qq.com/s/t5tmqsjZ4y4Z_n6u4c9bMw
-- 3. 比较用Java、Swift和Go编写的后端框架 https://medium.com/comsystoreply/https-medium-com-max-comsysto-comparing-backend-frameworks-written-in-java-swift-and-go-70acd07d3a8a
-- 4. 利用强大的interface来模拟和测试外部接口 https://medium.com/@victorsteven/utilizing-the-power-of-interfaces-when-mocking-and-testing-external-apis-in-golang-1178b0db5a32
-- 5. Go开发过程中总是要停下来编译：用它解决你的烦恼，快乐编程 https://mp.weixin.qq.com/s/4xwswOB17A-wup3Gqdlndw
-
-
 ## go语言中文网(每日资讯)_2019-11-19
 ### 一、Golang来啦
 - 1.[Go面试每天一篇（第78天）](https://mp.weixin.qq.com/s/hIavH1k_wvE6LZ7X37dfGA)
