@@ -3,6 +3,43 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-11-21
+### 一、Go语言中文网
+
+1.[一起攻克面试难关：Go 面试每天一篇（第 62 天）](https://mp.weixin.qq.com/s/MyMpDalLQ4dD_9WwkgpJBw)
+
+2.[由一个简单程序图解Go语言内存分配和管理](https://mp.weixin.qq.com/s/Slf7J6ZP4Uz9ukRc-JORyg)
+
+3.[Gin框架系列 - 你是如何组织项目目录的？](https://mp.weixin.qq.com/s/EQYJVRZuAGW964ZyXyxd5A)
+
+4.[Rob Pike 写在 Go 开源十周年：计算重现性 — 一些挑战](https://mp.weixin.qq.com/s/TLyXFnERmm8F8R4Ln_nLkA)
+
+5.[别样学习：Go初始化变量的招式](https://mp.weixin.qq.com/s/UfJQi7w2NflA_68sbH0Fzg)
+
+### 二、Golang来啦
+
+1.[Go 面试每天一篇（第 80 天）](https://mp.weixin.qq.com/s/MfjhHXNhQVHliyzTQh3C_g)
+
+### 三、我的小碗汤
+
+1.[备战CKA每日一题——第4天](https://mp.weixin.qq.com/s/V9Q7yewpE2Cm7jGiCmL1HA)
+
+### 四、容器时代
+
+1.[拐点已至，云原生引领数字化转型升级](https://mp.weixin.qq.com/s/6cWzSeQJ2QoeczYk7H4rAg)
+
+2.[Cortex：Prometheus 针对多个客户端状态的监控](https://mp.weixin.qq.com/s/cakDmQ-8D__sO-AWgRWLaA)
+
+### 五、微服务架构体系的深度治理
+
+1.[📎微服务架构体系的深度治理.pdf](https://www.yuque.com/attachments/yuque/0/2019/pdf/203993/1574336723604-835846e8-d376-4f19-8636-41e553d2262e.pdf)
+
+### 六、Go语言高薪进阶公开课
+
+1.[Go语言高薪进阶公开课直播地址](https://appolhfk6r26639.h5.xiaoeknow.com/content_page/eyJ0eXBlIjoxMiwicmVzb3VyY2VfdHlwZSI6NCwicmVzb3VyY2VfaWQiOiJsXzVkZDUwYjMyNzFkZGFfZ2wyMUV6ejUiLCJwcm9kdWN0X2lkIjoiIiwiYXBwX2lkIjoiYXBwT2xoRms2cjI2NjM5IiwiZXh0cmFfZGF0YSI6MH0?entry=1&entry_type=l_5dd50b3271dda_gl21Ezz5&state=2819f90ef3b31a1c10e27a25e2813a9f_CAwpcl&app_id=appOlhFk6r26639)
+
+2.[📎Go内存详解.pdf](https://www.yuque.com/attachments/yuque/0/2019/pdf/203993/1574336649654-02e1d5ea-f694-48d6-afff-28323e9e0e62.pdf)
+
 ## gocn_news_2019-11-21
 - 1. kubeedge源码分析系列之edgecore（三）https://juejin.im/post/5dd3cdfd5188254eed5b2859
 - 2. Restful风格和Go实践  https://mp.weixin.qq.com/s/zGcGl0H_gZaFJ4XbwayoaA
