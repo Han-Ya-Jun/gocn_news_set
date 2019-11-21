@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-11-21
+- 1. kubeedge源码分析系列之edgecore（三）https://juejin.im/post/5dd3cdfd5188254eed5b2859
+- 2. Restful风格和Go实践  https://mp.weixin.qq.com/s/zGcGl0H_gZaFJ4XbwayoaA
+- 3. go中的关键字-select http://www.cnblogs.com/33debug/p/1189115
+- 4.html4. 用 Go 重构 C 语言系统，这个抗住春晚红包的百度转发引擎承接了万亿流量  https://mp.weixin.qq.com/s/kQb3pHOU7_SdeAKfkptRYw
+- 5. 容器中某Go服务GC停顿经常超过100ms排查 https://mp.weixin.qq.com/s/H34xmtDIomaVSmZQO1JK-g
+
+
 ## go语言中文网(每日资讯)_2019-11-20
 ### 一、Golang来啦
 
