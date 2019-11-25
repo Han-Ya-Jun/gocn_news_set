@@ -3,6 +3,52 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-11-25
+### 一、Go语言中文网
+
+1.[一起攻克面试难关：Go 面试每天一篇（第 65 天）](https://mp.weixin.qq.com/s/GR1RQMQeCYG8zQRqvHKrkA)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 66 天）](https://mp.weixin.qq.com/s/hpvyIE4lBmUyngCOJXC5Qw)
+
+3.[go 学习笔记之咬文嚼字带你弄清楚 defer 延迟函数](https://mp.weixin.qq.com/s/Cjtp1DK_8MP83WuTOoVERw)
+
+4.[Go 简单性的价值：来自对 Go 倍加青睐的谷歌软件工程师的自述](https://mp.weixin.qq.com/s/8NGwJ4YUmFBQwjg3NOOQlQ)
+
+5.[深度长文：深入Go Runtime，你能做到浅出吗?](https://mp.weixin.qq.com/s/ivO-USpxiyrL-9BzgE8Vcg)
+
+6.[Go语言爱好者周刊：第 18 期](https://mp.weixin.qq.com/s/8NWUvijD1ctCJH9SWPUq-Q)
+
+7.[MySQL 的索引设计你了解吗？](https://mp.weixin.qq.com/s/PyAMgR2W2-oh3DNc8pG8sQ)
+
+### 二、Golang来啦
+
+1.[Go 面试每天一篇（第 83 天）](https://mp.weixin.qq.com/s/mtNehmfJEuuZii9rfg1SJA)
+
+2.[Go 面试每天一篇（第 84 天）](https://mp.weixin.qq.com/s/McvQpdaXTKV5xMJbiKKPZA)
+
+### 三、码途漫漫
+
+1.[Go 命令行解析 flag 包之扩展新类型](https://mp.weixin.qq.com/s/99auJJpHfE-PLpEqxMVQ5Q)
+
+2.[容器技术的本质之 NameSpace](https://mp.weixin.qq.com/s/u-HDuBaUNkxn3yeRVPHZpw)
+
+### 四、我的小碗汤
+
+1.[备战CKA每日一题——第6天](https://mp.weixin.qq.com/s/_3LvxG8Qv9ub5MrjloKz4Q)
+
+### 五、我的网课
+
+1.[新技术研究讨论汇总20191123](https://mp.weixin.qq.com/s/eTMcTsAewBFUuqrwAjkoXw)
+
+### 六、Go夜读
+
+1.[《Go 夜读》第 68 期网络知识十全大补丸视频 && QA](https://mp.weixin.qq.com/s/4Q_SqkYdJ1EVD-13urE5bg)
+
+### 七、 学院君的后花园
+
+1.[Go 语言网络编程系列（十）—— JSON 处理篇：未知结构数据解码及流式读写处理](https://mp.weixin.qq.com/s/Hg-vDa0fWkLTAuQVGGpPxg)
+
+
 ## gocn_news_2019-11-25
 - 1. golang 避坑指南(1)interface 之坑多多 https://mp.weixin.qq.com/s/bWsg-ZDBTp3Fp_3Lik83oA
 - 2. 利用Go开发布隆过滤器 https://medium.com/@meeusdylan/creating-a-bloom-filter-with-go-7d4e8d944cfa
