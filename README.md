@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-11-25
+- 1. golang 避坑指南(1)interface 之坑多多 https://mp.weixin.qq.com/s/bWsg-ZDBTp3Fp_3Lik83oA
+- 2. 利用Go开发布隆过滤器 https://medium.com/@meeusdylan/creating-a-bloom-filter-with-go-7d4e8d944cfa
+- 3. arachne：Go实现的丢包检测系统 https://github.com/uber/arachne
+- 4. Goroutine、系统线程和CPU管理 https://medium.com/a-journey-with-go/go-goroutine-os-thread-and-cpu-management-2f5a5eaf518a
+- 5. NATS：过去，现在和未来 https://www.youtube.com/watch?v=lHQXEqyH57U【活动】北京meetup https://www.bagevent.com/event/6150831【活动】上海meetup https://www.bagevent.com/event/6197112
+
+
 
 ## go语言中文网(每日资讯)_2019-11-24
 ### 一、Gin官方
