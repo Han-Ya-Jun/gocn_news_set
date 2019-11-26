@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-11-26
+- 1. 深入浅出 Go runtime https://mp.weixin.qq.com/s/ivO-USpxiyrL-9BzgE8Vcg
+- 2. 给 K8s API “做减法”：阿里巴巴云原生应用管理的挑战和实践 https://yq.aliyun.com/articles/727914
+- 3. 使用 Go AST 重构代码 https://xdg.me/blog/rewriting-go-with-ast-transformation/
+- 4. Go 命令行解析 flag 包之快速上手 https://juejin.im/post/5dd8f61cf265da7dde7687cb
+- 5. Go 命令行解析 flag 包之扩展新类型 https://juejin.im/post/5ddb74d951882573461819f5【活动】北京meetup https://www.bagevent.com/event/6150831【活动】上海meetup https://www.bagevent.com/event/6197112
+
+
 ## go语言中文网(每日资讯)_2019-11-25
 ### 一、Go语言中文网
 
