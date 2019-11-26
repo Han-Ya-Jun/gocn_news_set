@@ -3,6 +3,39 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-11-26
+### 一、Golang来啦
+
+1.[Go面试每天一篇（第85天）](https://mp.weixin.qq.com/s/WB29HPkZ9k8XfZSSjTy7Ig)
+
+### 二、Go语言中文网
+
+1.[Go 特意模糊堆和栈之后，你对 Goroutine 栈了解多少？](https://mp.weixin.qq.com/s/Q-gXt33lAG49MjpaZujvfQ)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 67 天）](https://mp.weixin.qq.com/s/eGmhwezu30cnURYHwDpJzQ)
+
+3.[编程书说的“Go程序员应该让聚合类型的零值也具有意义”是在讲什么](https://mp.weixin.qq.com/s/Ap7W6KqoJEvBJi4Z21h1Fw)
+
+4.[浅入浅出 MySQL 和 InnoDB：你做到“浅”了吗？](https://mp.weixin.qq.com/s/lhqiKa20dF-bjAJoThlotg)
+
+### 三、容器时代
+
+1.[简化Kubernetes的应用程序（上）](https://mp.weixin.qq.com/s/I1bk4VgjnoXdgKyIVS1hig)
+
+### 四、我的小碗汤
+
+1.[备战CKA每日一题——第7天](https://mp.weixin.qq.com/s/y0L0emG28x6VW45MxvXSpQ)
+
+### 五、无闻是个码痴
+
+1.[Go 语言 Web 应用开发 第 04 课：高级模板用法](https://mp.weixin.qq.com/s/wwFBzGlVYLQ9sqxcLA6uAw)
+
+### 六、码途漫漫
+
+1.[你真的不需要再设置 GOROOT](https://mp.weixin.qq.com/s/8APTpaXRgTSGBkzYqEL5-w)
+
+2.[Go 特意模糊堆和栈之后，你对 Goroutine 栈了解多少？](https://mp.weixin.qq.com/s/CYaH0KcCcw5x1IDQiCkbLQ)
+
 ## gocn_news_2019-11-26
 - 1. 深入浅出 Go runtime https://mp.weixin.qq.com/s/ivO-USpxiyrL-9BzgE8Vcg
 - 2. 给 K8s API “做减法”：阿里巴巴云原生应用管理的挑战和实践 https://yq.aliyun.com/articles/727914
