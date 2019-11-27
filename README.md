@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-11-27
+- 1. 走进Golang之运行与Plan9汇编 https://mp.weixin.qq.com/s/5x7OV47dfOwwVvQCPkvFKg
+- 2. 带你领略Go源码的魅力----Go内存原理详解 https://juejin.im/post/5ddcf31751882572d8212481
+- 3. [译]Go：内存管理与内存分配 https://juejin.im/post/5ddcdc5df265da05c33fcad2
+- 4. Go创建对象时，如何优雅的传递初始化参数 https://pengrl.com/p/60015/
+- 5. k8s v1.17 新特性预告: 拓扑感知服务路由 https://mp.weixin.qq.com/s/B5W25DIn0o8V5XhDwbengg【活动】北京meetup https://www.bagevent.com/event/6150831【活动】上海meetup https://www.bagevent.com/event/6197112
+
+
 ## go语言中文网(每日资讯)_2019-11-26
 ### 一、Golang来啦
 
