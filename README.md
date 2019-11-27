@@ -3,6 +3,38 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-11-27
+### 一、Golang来啦
+
+1.[Go面试每天一篇（第86天）](https://mp.weixin.qq.com/s/28eSaqgrWei0lP-JfEFJ-A)
+
+### 二、Go语言中文网
+
+1.[带你领略Go源码的魅力 — Go内存原理详解](https://mp.weixin.qq.com/s/z3q1A-Apky53Z8OHzNBvEw)
+
+2.[实战：使用 Go 打造另一款简单实用的 ORM](https://mp.weixin.qq.com/s/L8b82xN6qB9yfvgyX3tYQA)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 68 天）](https://mp.weixin.qq.com/s/lmNu8dIIXOBjk1po4G0poA)
+
+4.[每天都在调用函数，Go 中函数调用的原理你知道吗？](https://mp.weixin.qq.com/s/E7iOmQZDxBUI7YuY13QiSA)
+
+5.[值得收藏调度器系列：忠于职守 — sysmon 线程到底做了什么？（九）](https://mp.weixin.qq.com/s/IoqzqfSK1x2AE1xuVeO4Bw)
+
+### 三、容器时代
+
+1.[k8s v1.17 新特性预告: 拓扑感知服务路由](https://mp.weixin.qq.com/s/B5W25DIn0o8V5XhDwbengg)
+
+### 四、我的小碗汤
+
+1.[备战CKA每日一题——第8天](https://mp.weixin.qq.com/s/W7zlVC9OiNMtgOyFL3QyKQ)
+
+### 五、Go夜读
+
+1.[第 69 期 Go 夜读预告-基于 Go 语言打造的教育行业技术中台](https://mp.weixin.qq.com/s/RPHaH_qPTGGUQYzWEu32qA)
+
+2.[深入浅出 Golang Runtime](https://mp.weixin.qq.com/s/TqQb_yEwPLZ0ukgLjxPbZg)
+
+
 ## gocn_news_2019-11-27
 - 1. 走进Golang之运行与Plan9汇编 https://mp.weixin.qq.com/s/5x7OV47dfOwwVvQCPkvFKg
 - 2. 带你领略Go源码的魅力----Go内存原理详解 https://juejin.im/post/5ddcf31751882572d8212481
