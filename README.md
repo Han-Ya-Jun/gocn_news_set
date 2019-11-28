@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-11-28
+- 1. 基于gtop和vtop的基于终端的图形活动监视器 https://github.com/cjbassi/gotop
+- 2. 在Go中编写Qt应用程序,部署更加容易 https://github.com/therecipe/qt
+- 3. 详细解析Go的sync包 https://medium.com/better-programming/a-closer-look-at-go-sync-package-9f4e4a28c35a
+- 4. 在Go中重新实现Unix watch命令 https://github.com/antonmedv/watch
+- 5. Golang实现的分布式限流滑动窗口算法 https://github.com/RussellLuo/slidingwindow*【活动】北京meetup https://www.bagevent.com/event/6150831*【活动】上海meetup https://www.bagevent.com/event/6197112
+
+
 ## go语言中文网(每日资讯)_2019-11-27
 ### 一、Golang来啦
 
