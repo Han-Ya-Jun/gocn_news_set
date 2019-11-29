@@ -3,6 +3,23 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-11-29
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 88 天）](https://mp.weixin.qq.com/s/ZiqP2pyHzN4RUuE-cANUDg)
+
+### 二、Go语言中文网
+
+1.[sync.Pool 一定会提升性能吗？建议你先学习一下它的设计](https://mp.weixin.qq.com/s/uAjcH7raKnlkJ29iX1q8cw)
+
+2.[Gin 框架系列 — 路由中间件：日志记录](https://mp.weixin.qq.com/s/OuMCtPGEDD425wCnheA_ew)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 70 天）](https://mp.weixin.qq.com/s/cdVVYoH3UZHWZl9s1JMdgg)
+
+4.[图文并茂讲解分布式事务的实现原理](https://mp.weixin.qq.com/s/yxtytnJri2Lfw_ejY8Pk7A)
+
+
+
 ## gocn_news_2019-11-29
 - 1. 停止信任你的依赖包 https://itnext.io/golang-stop-trusting-your-dependencies-a4c916533b04
 - 2. 你应该知道的Go漏洞之Top5 https://resources.whitesourcesoftware.com/blog-whitesource/top-5-go-vulnerabilities 
