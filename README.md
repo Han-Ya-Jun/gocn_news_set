@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-11-29
+- 1. 停止信任你的依赖包 https://itnext.io/golang-stop-trusting-your-dependencies-a4c916533b04
+- 2. 你应该知道的Go漏洞之Top5 https://resources.whitesourcesoftware.com/blog-whitesource/top-5-go-vulnerabilities 
+- 3. Go的组合与继承 http://jim-mcbeath.blogspot.com/2019/11/go-composition-vs-inheritance.html    
+- 4. 蚂蚁金服 Service Mesh 大规模落地系列 - RPC 篇 https://mp.weixin.qq.com/s/E_CjNP90kFf2xrcGOE6Efg    
+- 5. reflow:字符串自动换行库 https://github.com/muesli/reflow    
+
+
 ## go语言中文网(每日资讯)_2019-11-28
 ### 一、Golang来啦
 
