@@ -3,6 +3,33 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-11-30
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 89 天)](https://mp.weixin.qq.com/s/ZybzKhxm1R9yAe7wkdUA5w)
+
+### 二、Go语言中文网
+
+1.[Go 如何处理 HTTP 请求？掌握这两点即可](https://mp.weixin.qq.com/s/iGS4ue-_JSRv7XrfIRaqpg)
+
+2.[用了这么久的 Go，你知道 Go 语言是怎么编译的吗？](https://mp.weixin.qq.com/s/4VC1AXaYxdCPexp7OEAOiw)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 70 天）](https://mp.weixin.qq.com/s/vwKnTTRfWVwBSkR7pfnZ6g)
+
+4.[Go 刷 LeetCode 系列：动态规划（1）最长回文子串](https://mp.weixin.qq.com/s/zHGyz0vWprlozJn1thgS7g)
+
+5.[值得收藏调度器系列：意犹未尽 — GPM 的状态流转（十）](https://mp.weixin.qq.com/s/AZvPIo4PVxv1Wjrk4tt4PQ)
+
+### 三、容器时代
+
+1.[阿里巴巴大规模神龙裸金属 Kubernetes 集群运维实践](https://mp.weixin.qq.com/s/p2xKo-4Uco-H0A5vUCbQ_w)
+
+2.[📎不一样的 双11 技术，阿里巴巴经济体云原生实践.pdf](https://www.yuque.com/attachments/yuque/0/2019/pdf/203993/1575117596573-2c738127-dc9f-491f-9986-0ea68fda57b9.pdf)
+
+### 四、我的小碗汤
+
+[1.备战CKA每日一题——第9天](
+
 ## gocn_news_2019-11-30
 - 1. Go 号称几行代码开启一个 HTTP Server，底层都做了什么？ https://mp.weixin.qq.com/s/n7mSUB6pxoYmr5u575Nqqg
 - 2. 《Go in Action》第6章Concurrency https://www.jianshu.com/p/a0daafc4eb57
