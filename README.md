@@ -3,6 +3,51 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-01
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 90 天)](https://mp.weixin.qq.com/s/A63p297hlYfD2kDgxdsY4w)
+
+### 二、Go语言中文网
+
+1.[Go语言爱好者周刊：第 19 期](https://mp.weixin.qq.com/s/8PH1rc1PspV0zJvVaVwW3Q)
+
+2.[一直谈你眼中的 Go 语言，换个角度看问题：解析器眼中的 Go 语言是怎样的？](https://mp.weixin.qq.com/s/cK0guzTig9LY49uCrTCkig)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 71 天）](https://mp.weixin.qq.com/s/UJ016uHuUvjPMTZP-dAhwQ)
+
+4.[Gin 框架系列 — 路由中间件 - 捕获异常](https://mp.weixin.qq.com/s/dxmh4lHxOfYHeOUteea2WA)
+
+5.[Go 刷 LeetCode 系列：动态规划（2）最长公共子串（子序列）](https://mp.weixin.qq.com/s/fWjpRf5X72uAVA3yAOeCrQ)
+
+### 三、容器时代
+
+1.[从零开始入门 | Kubernetes 中的服务发现与负载均衡](https://mp.weixin.qq.com/s/-AJgyZLlInUQxF0mlcQ74w)
+
+### 四、我的网课
+
+1.[istio 的目标是取代中心式网关？](https://mp.weixin.qq.com/s/aEez7cKR8PvW0JvlE7odNw)
+
+2.[蚂蚁金服大规模 ServiceMesh 落地思路和实践经验的 5 篇分享总结](https://www.lijiaocn.com/方法/2019/11/29/alipay-svc-mesh-note.html)
+
+### 五、码途漫漫
+
+1.[Go 命令行解析 flag 包之通过子命令实现看 go 命令源码](https://mp.weixin.qq.com/s/JTjueDUts_zCP-FShT4Ovw)
+
+### 六、北京Gopher Meetup文档分享
+
+1.[📎探探长链接项目的Go语言实践.pdf](https://www.yuque.com/attachments/yuque/0/2019/pdf/203993/1575200032948-923e593b-a1bf-48c2-b47c-b9c3d52f5d79.pdf)
+
+2.[📎探探微服务架构演进之路 .pdf](https://www.yuque.com/attachments/yuque/0/2019/pdf/203993/1575199228667-dab835a6-db9f-41d3-81c7-d4d042318144.pdf)
+
+3.[📎美团构建部署平台解析与Go 的实践 .pdf](https://www.yuque.com/attachments/yuque/0/2019/pdf/203993/1575199328805-e1385a7e-e2b4-4c1f-a83c-7b9134d08df1.pdf)
+
+4.[📎深度剖析Mosn.pdf](https://www.yuque.com/attachments/yuque/0/2019/pdf/203993/1575200396244-239cede0-680e-4339-9ce8-347038138cf5.pdf)
+
+5.[📎Go语言电子表格文档格式标准实践.pdf](https://www.yuque.com/attachments/yuque/0/2019/pdf/203993/1575200626795-71bfd46a-aed7-483c-83ed-aaa884ea5583.pdf)
+
+
+
 ## gocn_news_2019-12-01
 - 1. Go开发者2019调查 https://google.qualtrics.com/jfe/form/SV_b1xqnBCMpZAhJZ3
 - 2. 使用 OpenFaaS 和 Go 开启 Serverless 之旅 https://towardsdatascience.com/going-serverless-with-openfaas-and-golang-building-optimized-templates-730991084443 
