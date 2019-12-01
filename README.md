@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-01
+- 1. Go开发者2019调查 https://google.qualtrics.com/jfe/form/SV_b1xqnBCMpZAhJZ3
+- 2. 使用 OpenFaaS 和 Go 开启 Serverless 之旅 https://towardsdatascience.com/going-serverless-with-openfaas-and-golang-building-optimized-templates-730991084443 
+- 3. 元数据集群管理器 orbiter https://github.com/caos/orbiter
+- 4. error 检查优化工具 errwrap https://github.com/fatih/errwrap
+- 5. Go 语言简单性的价值 https://benjamincongdon.me/blog/2019/11/11/The-Value-in-Gos-Simplicity/* 【活动】上海meetup https://www.bagevent.com/event/6197112
+
+
 ## go语言中文网(每日资讯)_2019-11-30
 ### 一、Golang来啦
 
