@@ -3,6 +3,31 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-02
+### 一、Golang来啦
+
+1.[Go面试每天一篇（第88天）](https://mp.weixin.qq.com/s/zW7U-4zpAh2e8y1i_5hJtw)
+
+### 二、Go语言中文网
+
+1.[Go 创建对象时，如何优雅的传递初始化参数](https://mp.weixin.qq.com/s/hwuDB5Awx4ifuD9V7XW9pg)
+
+2.[Go 命令行解析 flag 包之通过子命令实现看 go 命令源码](https://mp.weixin.qq.com/s/qfo2g0-pDbRqU4qXpDO7lw)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 72 天）](https://mp.weixin.qq.com/s/tRiIAGzGaK2oq0TRK2XNmQ)
+
+4.[现代程序员必须掌握的：Dockerfile 与 Compose 环境搭建学习笔记（一）](https://mp.weixin.qq.com/s/76ctJ-mXFnrGYGP_ooWT0g)
+
+5.[golang刷leetcode动态规划（3）动态规划总结分类](https://mp.weixin.qq.com/s/bsSsDB_LQozKbCjFwGT1-A)
+
+### 三、互联网技术窝
+
+1.[图解redis五种数据结构底层实现(动图哦)](https://mp.weixin.qq.com/s/-NFlyGcaFY4bsCFI7oIvIg)
+
+### 四、我的小碗汤
+1.[备战CKA每日一题——第10天 | 面试常问：允许A访问B，不允许C访问B，怎么做？](https://mp.weixin.qq.com/s/M1q30FI61JD7GmKxwo-Jqg)
+
+
 ## gocn_news_2019-12-02
 - 1. Go 语言中避免类型推断 https://medium.com/@ClayShentrup/avoiding-type-assertions-in-go-6feaa8762c27
 - 2. Go 命令行解析 flag 包之通过子命令实现看 go 命令源码 https://juejin.im/post/5de3699ef265da05ce3b7350
