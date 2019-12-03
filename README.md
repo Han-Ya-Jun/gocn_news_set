@@ -3,6 +3,29 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-03
+### 一、Golang来啦
+
+1.[Go面试每天一篇（第92天）](https://mp.weixin.qq.com/s/JkyeShcK1Umbq5meSsmmiQ)
+
+2.[Go项目开发中10个最常见的错误](https://mp.weixin.qq.com/s/PJ6yhpwTfdIzlDWPjPy8Tw)
+
+### 二、Go语言中文网
+
+1.[发布订阅模式：使用 Go 实现简单的事件总线](https://mp.weixin.qq.com/s/cRab8ttjqgrZUN0Zoqc-XA)
+
+2.一[起攻克面试难关：Go 面试每天一篇（第 73 天）](https://mp.weixin.qq.com/s/9G3KQwXqQf56b8IQ7Tyysw)
+
+3.[谈谈 Golang 中的 Data Race](https://mp.weixin.qq.com/s/y8_TJYP2O2McrRXrMtd7TA)
+
+4.[Go 刷 LeetCode 系列：动态规划（4）分割等和子集（0,1背包问题）](https://mp.weixin.qq.com/s/iSO5fBcGQ_7BWplbhz5oEg)
+
+### 三、我的小碗汤
+
+1.[备战CKA每日一题——第11天 | 权限控制怎么做？](https://mp.weixin.qq.com/s/WEjSttOmRTknoxz25oVmZw)
+
+
+
 ## gocn_news_2019-12-03
 - 1. Go 编写友好的命令行应用程序: https://blog.gopheracademy.com/advent-2019/cmdline/
 - 2. Go 项目终极设置：https://dev.to/martinheinz/ultimate-setup-for-your-next-golang-project-5dae
