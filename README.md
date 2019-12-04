@@ -3,6 +3,33 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-04
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 93 天）](https://mp.weixin.qq.com/s/eOwmtVttlppzmCuE8yviqg)
+
+### 二、Go语言中文网
+
+1.[培训大师 William 图解 Go 中的 GC 系列：第一部分 - 基础](https://mp.weixin.qq.com/s/mYp3QbdWR4HEZimFUw9bAA)
+
+2.[现代程序员必须掌握的：Dockerfile 与 Compose 环境搭建学习笔记（二）](https://mp.weixin.qq.com/s/3_uM88gsY7LoNe4JtEAfww)
+
+3.[这个点你有想过吗？Go 语言如何进行类型检查](https://mp.weixin.qq.com/s/d4MC7i2HtrDbkhfIr3dkqQ)
+
+4.[一起攻克面试难关：Go 面试每天一篇（第 74 天）](https://mp.weixin.qq.com/s/g0c00X674Bayc89AZu1bvA)
+
+5.[谈谈 Golang 中的 Data Race（续）](https://mp.weixin.qq.com/s/kYPczjOnOUgGpg1KJ9NXGw)
+
+### 三、容器时代
+
+1.[Kubernetes 网络如何进行工作（第二部分）](https://mp.weixin.qq.com/s/GXTLpyrrITM0QGSy10iQsA)
+
+### 四、我的小碗汤
+
+1.[备战CKA每日一题——第12天 | 史上最全常用kubectl命令解析与示例，附CKA真题演练](https://mp.weixin.qq.com/s/feEIBy-Jb4h9zR-ZY6Cd9g)
+
+
+
 ## go语言中文网(每日资讯)_2019-12-03
 ### 一、Golang来啦
 
