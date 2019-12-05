@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-05
+- 1.   Go Module探索第二部分: 工程、依赖与gopls https://www.ardanlabs.com/blog/2019/12/modules-02-projects-dependencies-gopls.html 
+- 2.  [译] Go语言的协程，系统线程以及CPU管理  http://www.pengrl.com/p/29953/
+- 3. Go中的版本控制原则 https://research.swtch.com/vgo-principles
+- 4. 万字长文带你深入浅出 Golang Runtime   http://1t.click/bvjg
+- 5. kubeedge源码分析系列之edgecore（四） https://juejin.im/post/5de0d5136fb9a071ac1a0b27* 【活动】上海meetup https://www.bagevent.com/event/6197112 
+
+
 ## gocn_news_2019-12-04
 - 1. Go切片内存应用技巧 https://juejin.im/post/5de63b35f265da33df77d206 
 - 2. Go不需要泛型 https://medium.com/@meeusdylan/go-doesnt-need-generics-6cb9cf0da9c 
