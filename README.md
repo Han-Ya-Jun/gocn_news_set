@@ -3,6 +3,23 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-05
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 94 天）](https://mp.weixin.qq.com/s/PPDxVDQh8q6Y_TBpR1pfAQ)
+
+### 二、Go语言中文网
+
+1.[培训大师 William 图解 Go 中的 GC 系列：第二部分 - GC 追踪](https://mp.weixin.qq.com/s/0r8R1elPd32ayFpURt2Arw)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 75 天）](https://mp.weixin.qq.com/s/bG36pbEbmTyp18diyd0wAQ)
+
+3.[判断你是不是高手：详解 Golang 中间代码生成](https://mp.weixin.qq.com/s/7WBuhO8nC4eOcG7IEw6BFg)
+
+4.[Go 刷 LeetCode 系列：动态规划（5）lis 最长递增子序列](https://mp.weixin.qq.com/s/tzXbnqdfXq8JKdc8Wm8SNw)
+
+
+
 ## gocn_news_2019-12-05
 - 1.   Go Module探索第二部分: 工程、依赖与gopls https://www.ardanlabs.com/blog/2019/12/modules-02-projects-dependencies-gopls.html 
 - 2.  [译] Go语言的协程，系统线程以及CPU管理  http://www.pengrl.com/p/29953/
