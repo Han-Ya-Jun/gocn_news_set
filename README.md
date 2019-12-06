@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-06
+- 1. 安全使用unsafe.Pointer https://blog.gopheracademy.com/advent-2019/safe-use-of-unsafe-pointer/
+- 2. go 性能监控神器 https://www.jianshu.com/p/9b18289b1fda
+- 3. [译]Go：垃圾回收器是如何监控你的应用的？ https://juejin.im/post/5de778d4e51d4557fe59343e
+- 4. 用图说话：Go语言的协程，系统线程以及CPU管理 https://mp.weixin.qq.com/s/neLVacrxrvhb2gbEP_g5dA
+- 5. 把阿里巴巴的核心系统搬到云上，架构上的挑战与演进是什么？https://mp.weixin.qq.com/s/Y2NnoSO0v0zcFnONeosdrA* 【活动】上海meetup https://www.bagevent.com/event/6197112 
+
+
 ## go语言中文网(每日资讯)_2019-12-06
 一、Golang来啦
 
