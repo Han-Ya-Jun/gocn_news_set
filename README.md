@@ -3,6 +3,21 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-06
+一、Golang来啦
+
+1. [Go面试每天一篇（第95天）](https://mp.weixin.qq.com/s/F0QTzwa25e38vxPAuq0xVA)
+
+二、Go语言中文网
+
+1. [50 条争论的文章发生了啥：Go 标准库 encoding/json 真的慢吗？](https://mp.weixin.qq.com/s/U3QcbqOaRAABd-ESkzpI1Q)
+2. [线上真实场景：实战 Goroutine 泄露排查](https://mp.weixin.qq.com/s/EXMP9lV-YQeAvLShd7Ee4w)
+3. [一起攻克面试难关：Go 面试每天一篇（第 76 天）](https://mp.weixin.qq.com/s/MunnkrMgNbxe_wLWJfGgEw)
+4. [用图说话：Go语言的协程，系统线程以及CPU管理](https://mp.weixin.qq.com/s/neLVacrxrvhb2gbEP_g5dA)
+5. [Gin 框架系列：路由中间件 - Jaeger 链路追踪](https://mp.weixin.qq.com/s/R-YWQLBbP-6yxj9l3X_0hA)
+
+三、Go1.13.5 和 Go1.12.14 发布了，主要修复一些 bug，下载：https://studygolang.com/dl
+
 ## go语言中文网(每日资讯)_2019-12-05
 ### 一、Golang来啦
 
