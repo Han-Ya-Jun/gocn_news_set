@@ -3,6 +3,35 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-07
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 96 天）](https://mp.weixin.qq.com/s/ziFd726hdTgYetfms-Q97A)
+
+### 二、Go语言中文网
+
+1.[Go 标准库源码学习（一）详解短小精悍的 Once](https://mp.weixin.qq.com/s/Lsm-BMdKCKNQjRndNCLwLw)
+
+2.[进阶必学：指令集架构、机器码与 Go 语言](https://mp.weixin.qq.com/s/NUzWW9RZKyc5V4RMi0n7DA)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 77 天）](https://mp.weixin.qq.com/s/i0e5_Lsa8euNCkJh42klFg)
+
+4.[面试必考：MySQL InnoDB 引擎锁的总结](https://mp.weixin.qq.com/s/Bq73b9a1fUNvsuiE7fbZ9w)
+
+5.[Go 刷 LeetCode 系列：二叉树的遍历](https://mp.weixin.qq.com/s/2cyLKll2xlTLUUqsHqHKLw)
+
+### 三、容器时代
+
+1.[Kubernetes 网络如何进行工作（第三部分](https://mp.weixin.qq.com/s/5C9MQP3zPqz3i8H8NdYUBA)
+
+### 四、我的小碗汤
+
+1.[备战CKA每日一题——第13天](https://mp.weixin.qq.com/s/s-KlAf_SOb9X8E2abLcMog)
+
+### 五、Go夜读
+
+1.[第 70 期 Go 中不常注意的各种细节集锦视频（点开即可观看）](https://mp.weixin.qq.com/s/92E_xmRCCSW6_laO7o48sQ)
+
 ## gocn_news_2019-12-07
 - 1. [译]Go语言的协程，系统线程以及CPU管理 https://pengrl.com/p/29953/
 
