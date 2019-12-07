@@ -3,6 +3,23 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-07
+- 1. [译]Go语言的协程，系统线程以及CPU管理 https://pengrl.com/p/29953/
+
+- 2. 为什么golang没有volatile https://mp.weixin.qq.com/s/4ZNHxpY3UvDescLO3swQMg
+
+- 3. Gotty源码分析 https://qiankunli.github.io/2019/11/01/gotty_source.html
+
+- 4. Go程序中嵌入静态资源方案选择 https://tech.townsourced.com/post/embedding-static-files-in-go/
+
+- 5. 一文详解微服务架构 https://mp.weixin.qq.com/s/4sqarEWkqz4bi_Hj4ujR8Q
+
+【活动】上海meetup https://www.bagevent.com/event/6197112
+【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+
+
+
 ## gocn_news_2019-12-06
 - 1. 安全使用unsafe.Pointer https://blog.gopheracademy.com/advent-2019/safe-use-of-unsafe-pointer/
 - 2. go 性能监控神器 https://www.jianshu.com/p/9b18289b1fda
