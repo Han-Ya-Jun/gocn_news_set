@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-08
+- 1. GoAdvent2019:使用标准库中的flag包 https://blog.gopheracademy.com/advent-2019/flags/
+- 2. 在Go中使用Socket.IO https://www.jianshu.com/p/566a0e2456a9
+- 3. Bazel构建Golang项目 https://www.qtmuniao.com/2019/12/07/bazel-build-golang
+- 4. Golang在runtime中的一些骚东西 https://purewhite.io/2019/11/28/runtime-hacking-translate/
+- 5. Go项目的GitlabCI缓存 https://imil.net/blog/2019/12/07/Gitlab-CI-caching-for-Go-projects/- 
+
+
 ## go语言中文网(每日资讯)_2019-12-07
 ### 一、Golang来啦
 
