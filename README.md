@@ -3,6 +3,35 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-08
+一、Golang来啦
+
+1.[Go 面试每天一篇（第 97 天）](https://mp.weixin.qq.com/s/D5BWQ9IkYIEIY5c_yI4FeQ)
+
+二、Go语言中文网
+
+1.[Go语言爱好者周刊：第 20 期](https://mp.weixin.qq.com/s/xJN9EU5PrCYS42B64tTBDg)
+
+2.[小米大佬讲解 Go 之编译器原理](https://mp.weixin.qq.com/s/M-gDOGY6oFfBRD8B3fU14w)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 78 天）](https://mp.weixin.qq.com/s/iQotO1lJAYke6YOccJyfow)
+
+4.[线上问题排查实战：Golang RabbitMQ 故障排查一例](https://mp.weixin.qq.com/s/vJ64Ut2PHA3sILrxoTDf5g)
+
+5.[Go 刷 LeetCode 系列：二叉树的最大路径和](https://mp.weixin.qq.com/s/cFRRW9P8hTcyGy4dMxxZqQ)
+
+三、容器时代
+
+1.[Kubernetes 中的事件处理机制](https://mp.weixin.qq.com/s/6hZ_3wZfpiPCsmy6b6dGOA)
+
+2.[从零开始入门 K8s | 深入剖析 Linux 容器](https://mp.weixin.qq.com/s/igF3VQg2c-4ckZgi-K2WwQ)
+
+四、周末推荐
+
+1.[架构师之路](https://www.w3cschool.cn/architectroad/)
+
+
+
 ## gocn_news_2019-12-08
 - 1. GoAdvent2019:使用标准库中的flag包 https://blog.gopheracademy.com/advent-2019/flags/
 - 2. 在Go中使用Socket.IO https://www.jianshu.com/p/566a0e2456a9
