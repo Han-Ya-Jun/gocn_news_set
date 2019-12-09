@@ -3,36 +3,6 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
-## go语言中文网(每日资讯)_2019-12-09
-一、Golang来啦
-
-1.[Go面试每天一篇（第98天）](https://mp.weixin.qq.com/s/1Uq5SJySXtrP9xagvta5eQ)
-
-二、Go语言中文网
-
-1.[培训大师 William 图解 Go 中的 GC 系列：第三部 - GCPacing](https://mp.weixin.qq.com/s/aeIf0YqS0W-sbf5LbfBmKw)
-
-2.[小米大佬讲解 Go 之运行与Plan9汇编](https://mp.weixin.qq.com/s/WLISnJ1J7_iKlwCed0uxYQ)
-
-3.[一起攻克面试难关：Go 面试每天一篇（第 79 天）](https://mp.weixin.qq.com/s/a3uCvQyWgvs0zkh_4Db0rw)
-
-4.[Go 1.12 起关于内存释放的一个改进](https://mp.weixin.qq.com/s/YOGgW_2cd3s2QYHZBXkCnQ)
-
-5.[Go 刷 LeetCode 系列：动态规划（6）正则表达式](https://mp.weixin.qq.com/s/ywXkblknnuvzU8SCdAit2Q)
-
-三、MoeLove
-
-1.[K8S 生态周报| containerd v1.3.2 发布](https://mp.weixin.qq.com/s/SfIxTBKFikuVKOWHl6k7JA)
-
-四、容器时代
-
-1.[Deployment 和 StatefulSet 的K8s持久卷](https://mp.weixin.qq.com/s/IZp2gUSKk1IMCFkX6bn1tw)
-
-五、学院君
-
-1.[微服务实战](https://xueyuanjun.com/books/microservices)
-
-
 ## go语言中文网(每日资讯)_2019-12-08
 一、Golang来啦
 
