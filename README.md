@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-09
+- 1.使用Go，QUIC和Micro建立全球服务网络 https://blog.gopheracademy.com/advent-2019/building-a-microservices-network/
+- 2.Go运行时调度程序处理系统调用的巧妙方法 https://utcc.utoronto.ca/~cks/space/blog/programming/GoSchedulerAndSyscalls
+- 3.Go动态作用域变量 https://dave.cheney.net/2019/12/08/dynamically-scoped-variables-in-go
+- 4.Cap’n Proto: Protobuf作者新开发的多语言通用数据交换格式 https://capnproto.org
+- 5.NATS内置持久化方案JetStream进入TP阶段 https://github.com/nats-io/nats-server/blob/jetstream/jetstream/README.md
+
+
 ## go语言中文网(每日资讯)_2019-12-08
 一、Golang来啦
 
