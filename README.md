@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-10
+- 1. Go 项目结构最佳实践 https://tutorialedge.net/golang/go-project-structure-best-practices/
+- 2. Go 性能测试惊奇 https://blog.gopheracademy.com/advent-2019/benchmark-magic/
+- 3. Go 生成数据库结构体 https://scene-si.org/2019/12/09/database-first-struct-generation/
+- 4. Go 打造 Flutter 多版本管理工具：fvm https://blog.befovy.com/2019/12/fvm-using-go/
+- 5. go中defer的一个隐藏功能 https://segmentfault.com/a/1190000021239576【活动】上海meetup https://www.bagevent.com/event/6197112【活动】深圳meetup https://www.bagevent.com/event/6218960- 
+
+
 ## go语言中文网(每日资讯)_2019-12-10
 ### 一、Golang来啦
 
