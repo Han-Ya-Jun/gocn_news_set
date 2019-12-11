@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-11
+- 1. Go语言国际电子表格文档格式标准实践 https://mp.weixin.qq.com/s/oJfDxpWkJCO5nV3phGLn_w
+- 2. 使用Go解析180亿条JSON行 https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2
+- 3. Go 标准库 encoding/json 真的慢吗？ https://mp.weixin.qq.com/s/U3QcbqOaRAABd-ESkzpI1Q
+- 4. 译|并发不是并行 https://cyningsun.github.io/12-09-2019/concurrency-is-not-parallelism.html
+- 5. 800字彻底理解Go指针 https://developer.51cto.com/art/201912/607512.htm【活动】上海meetup https://www.bagevent.com/event/6197112【活动】深圳meetup https://www.bagevent.com/event/6218960- 
+
+
 ## go语言中文网(每日资讯)_2019-12-10
 ### 一、Golang来啦
 
