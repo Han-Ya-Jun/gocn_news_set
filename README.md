@@ -3,6 +3,33 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-11
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 100 天）](https://mp.weixin.qq.com/s/CcH8huZszsG5Dd_K6GLAVQ)
+
+### 二、Go语言中文网
+
+1.[Go 不建议使用的 unsafe 包有什么用处？](https://mp.weixin.qq.com/s/z5xZ6y32K6VLRd_2EF-2CQ)
+
+2.[像 Awesome-Go 一样提升企业 Go 项目代码质量](https://mp.weixin.qq.com/s/i0Xx10PxRT9q8ms8NrR_nw)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 81 天）](https://mp.weixin.qq.com/s/Qvcb-v0dJ7bLNj0D2oj_gw)
+
+4.[Gin 框架系列：路由中间件 - Jaeger 链路追踪（实战篇）](https://mp.weixin.qq.com/s/CEnspOqKSIYB6xE4BPUT_w)
+
+5.[也许你不知道的 Go 中 defer 的一个隐藏功能](https://mp.weixin.qq.com/s/VqltwKHsg3TZ8NE2KNo9iA)
+
+### 三、容器时代
+
+1.[为Kubernetes引入卷快照Alpha](https://mp.weixin.qq.com/s/p93eQ_Wy1p-I4_jraH_5Xg)
+
+### 四、学院君的后花园
+
+1.[Go 语言 Web 编程系列（二）—— HTTP 请求处理的底层运行机制](https://mp.weixin.qq.com/s/ChxuZqzr9l-o15ABPqq99g)
+
+
+
 ## gocn_news_2019-12-11
 - 1. Go语言国际电子表格文档格式标准实践 https://mp.weixin.qq.com/s/oJfDxpWkJCO5nV3phGLn_w
 - 2. 使用Go解析180亿条JSON行 https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2
