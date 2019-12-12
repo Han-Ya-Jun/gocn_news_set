@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-12
+- 1. 在Go中利用多线程更快地读取大文件 https://hackernoon.com/leveraging-multithreading-to-read-large-files-faster-in-go-lmn32t7
+- 2. Go实现不发出信号的情况下连接两个WebRTC服务 https://github.com/pion/offline-browser-communication
+- 3. Go 生成数据库架构文档 https://scene-si.org/2019/12/10/generating-database-schema-documentation/
+- 4. Go的最小日志记录库 https://github.com/cdr/slog
+- 5. GOMAXPROCS和实时更新 https://medium.com/a-journey-with-go/go-gomaxprocs-live-updates-407ad08624e1* 【活动】上海meetup https://www.bagevent.com/event/6197112* 【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+
 ## go语言中文网(每日资讯)_2019-12-11
 ### 一、Golang来啦
 
