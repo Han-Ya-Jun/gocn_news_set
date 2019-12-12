@@ -3,6 +3,27 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-12
+一、Golang来啦
+
+1.[Go 面试每天一篇（第 101 天）](https://mp.weixin.qq.com/s/jOfaNHumzMuai_5xFnabCg)
+
+
+二、Go语言中文网
+
+1.[明白了，原来 Go Web 框架中的中间件都是这样实现的](https://mp.weixin.qq.com/s/KcjXEH7C4GhREg7c0Z_fuA)
+
+2.[Gin 框架系列：路由中间件 - 签名验证](https://mp.weixin.qq.com/s/stSSkaXUBZX-pTMfPpHfGQ)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 82 天）](https://mp.weixin.qq.com/s/BVmT7e40JM0l1cLEDz6amw)
+
+4.[Go 程序员为什么要用 Redis](https://mp.weixin.qq.com/s/jCcwTXr3OUYf7LxUM_BRJA)
+
+
+三、我的网课
+
+1.[旌旗招展，向网格而行！](https://mp.weixin.qq.com/s/lnF6s9z1YjmbqgrXnjZnkA)
+
 ## gocn_news_2019-12-12
 - 1. 在Go中利用多线程更快地读取大文件 https://hackernoon.com/leveraging-multithreading-to-read-large-files-faster-in-go-lmn32t7
 - 2. Go实现不发出信号的情况下连接两个WebRTC服务 https://github.com/pion/offline-browser-communication
