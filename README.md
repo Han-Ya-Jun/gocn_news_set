@@ -3,6 +3,38 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-13
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 102 天）](https://mp.weixin.qq.com/s/rCtw72c7RgN-F8AGh5E7Vw)
+
+### 二、Go语言中文网
+
+1.[一起攻克面试难关：Go 面试每天一篇（第 83 天）](https://mp.weixin.qq.com/s/2J5Yiw5DlShRtxOMz7gH6A)
+
+2.[你应该掌握的 Go 高级并发模式：计时器](https://mp.weixin.qq.com/s/Sk8SmDFdaOSxg_bQlQBHLg)
+
+3.[Go 实战：Twitter 的分布式 ID 生成算法 snowflake 的 Go 语言实现](https://mp.weixin.qq.com/s/a_g6wy4DzkAmc-i1Wen3XA)
+
+4.[如何在 Linux & MacOS 上优雅的发布 Go 程序](https://mp.weixin.qq.com/s/FZ-dw_nYRKacu_iLQDLeVQ)
+
+5.[Go 刷 Leetcode 系列：恢复二叉搜索树](https://mp.weixin.qq.com/s/wHRcOXkpkDcVJ58MeK7PSA)
+
+### 三、我的小碗汤
+
+1.[5分钟搞定在k8s上部署jenkins，并提供域名访问](https://mp.weixin.qq.com/s/uwj8mKgjyYBeKJ00KnEp1A)
+
+2.[手把手带你理解 etcd 核心设计思想](https://mp.weixin.qq.com/s/uOlR35t7BCzE0Msz9qWrig)
+
+### 四、容器时代
+
+1.[Kubernetes 中的 eBPF](https://mp.weixin.qq.com/s/ENNnXqbeVuviK1kBnl6XIg)
+
+### 五、学而思网校技术团队
+
+1.[【Golang源码系列】三：Channel实现原理分析](https://mp.weixin.qq.com/s/xh8UcESXc-eVkWEWOV-ONA)
+
+
 ## gocn_news_2019-12-13
 - 1. 通过TCP_NODELAY控制数据包流 https://blog.gopheracademy.com/advent-2019/control-packetflow-tcp-nodelay/    
 - 2. 构建docker镜像时也需要考虑安全性 https://scene-si.org/2019/12/12/docker-images-and-security/  
