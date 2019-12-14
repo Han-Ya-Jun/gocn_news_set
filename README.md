@@ -3,6 +3,31 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-14
+一、Golang来啦
+
+1.[Go 面试每天一篇（第 103 天）](https://mp.weixin.qq.com/s/MBbw3rpCnGLSO92eyqbDaA)
+
+二、Go语言中文网
+
+1.[Go1.13 标准库的 http 包爆出重大 bug，你的项目中招了吗？](https://mp.weixin.qq.com/s/xJN9EU5PrCYS42B64tTBDg)
+
+2.[Go 长连接服务线上一次大量 CLOSE_WAIT 复盘](https://mp.weixin.qq.com/s/FuXLwe7l2qUB76w2K3OYDw)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 84 天）](https://mp.weixin.qq.com/s/TSJuELp5UnjcU0H6RwviNA)
+
+4.[一分钟系列： Go 编程之实现管道 pipe 功能](https://mp.weixin.qq.com/s/b2ydnlaXbSLwLy94iPE1qw)
+
+三、容器时代
+
+1.[etcd 性能测试与调优](https://mp.weixin.qq.com/s/jXtVFH5jC9RCf_VdIULpqw)
+
+四、我的小碗汤
+
+1.[手把手教你在CentOS上搭建Kubernetes集群](https://mp.weixin.qq.com/s/602WeU_WiaNSmISiOgRcvg)
+
+
+
 ## gocn_news_2019-12-14
 - 1. Array和Slice https://golangbot.com/arrays-and-slices
 - 2. golang mail 实现ssl发送邮件 https://blog.51cto.com/860143/2458285
