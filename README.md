@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-14
+- 1. Array和Slice https://golangbot.com/arrays-and-slices
+- 2. golang mail 实现ssl发送邮件 https://blog.51cto.com/860143/2458285
+- 3. Golang和生产就绪型解决方案：第2部分 https://medium.com/@hippik80/golang-production-ready-solution-part-2-4a3d02ca645e
+- 4.【go语言系统调用】通用IO模型 https://segmentfault.com/a/1190000021285015
+- 5. kubernetes 网络分析之四 开源网络组件 https://juejin.im/post/5df353b46fb9a0161d742cb3* 【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+
 ## go语言中文网(每日资讯)_2019-12-13
 ### 一、Golang来啦
 
