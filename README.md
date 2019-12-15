@@ -3,6 +3,33 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-15
+一、Golang来啦
+
+1.[Go 面试每天一篇（第 104 天）](https://mp.weixin.qq.com/s/c7e8bw85CCXnp9aaETHMCA)
+
+二、Go语言中文网
+
+1.[Go语言爱好者周刊：第 21 期](https://mp.weixin.qq.com/s/Tg_amsOsFPu4qmOgnu7wAg)
+
+2.[什么是内存对齐？Go 是否有必要内存对齐？](https://mp.weixin.qq.com/s/Wd2PKMKrRcF7brjX4N_L9w)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 85 天）](https://mp.weixin.qq.com/s/958_SeaTee0OSxGF-PbtqA)
+
+4.[Go 语言：别再问我什么是反射](https://mp.weixin.qq.com/s/qJVfEWngSDg3It3UytPuxA)
+
+5.[Go 刷 LeetCode 系列：动态规划（7）通配符](https://mp.weixin.qq.com/s/2MjqA7p0CdxINTeB0V-H-A)
+
+三、容器时代
+
+1.[从零开始入门 K8s | 手把手带你理解 etcd](https://mp.weixin.qq.com/s/wOvf7ePsI7v__gfLnOLaqg)
+
+四、我的小碗汤
+
+1.[5分钟教你在kubernetes集群上安装Helm，并部署应用](https://mp.weixin.qq.com/s/MfTjrlX0ylPdocJI_nrg0w)
+
+2.[分享几个超级实用的插件和工具，轻松提高工作效率](https://mp.weixin.qq.com/s/sPLE67icL81n0EQ0eiDsIg)
+
 ## gocn_news_2019-12-15
 - 1. Go 并发 3 个常见的陷阱和得到的教训 https://medium.com/modenetworks/exercising-concurrency-in-go-3-common-pitfalls-and-lessons-learned-2cca9e629620
 - 2. defer 常见陷阱 https://medium.com/i0exception/some-common-traps-while-using-defer-205ebbdc0a3b
