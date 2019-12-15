@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-15
+- 1. Go 并发 3 个常见的陷阱和得到的教训 https://medium.com/modenetworks/exercising-concurrency-in-go-3-common-pitfalls-and-lessons-learned-2cca9e629620
+- 2. defer 常见陷阱 https://medium.com/i0exception/some-common-traps-while-using-defer-205ebbdc0a3b
+- 3. 实现一个 Go 微服务 https://scene-si.org/2019/12/13/implementing-our-service/
+- 4. 跨平台地区检查库 go-locale https://github.com/Xuanwo/go-locale
+- 5. Go 硬件检查/发现库 ghw https://github.com/jaypipes/ghw 【活动】深圳meetup https://www.bagevent.com/event/6218960- 
+
+
 ## go语言中文网(每日资讯)_2019-12-14
 一、Golang来啦
 
