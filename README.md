@@ -3,6 +3,36 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-16
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 105 天）](https://mp.weixin.qq.com/s/QZqXtgA3n7IZJGTZDn0msA)
+
+### 二、Go语言中文网
+
+1.[用 70 行 Go 代码击败 C 语言](https://mp.weixin.qq.com/s/4HCh55eFu-JF9TBbhdsuZg)
+
+2.[理解 Golang 哈希表 Map 的原理](https://mp.weixin.qq.com/s/Bt4KFkt1JinfkJe6Rx91iw)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 86 天）](https://mp.weixin.qq.com/s/nn1VQ7ZubpA2--KBBYv-YA)
+
+4.[聊聊 Go 语言中的字符表示与字符串遍历](https://mp.weixin.qq.com/s/ganVVI2kGMuXIsw6tpSo1A)
+
+### 三、容器时代
+
+1.[Kubernetes基础组件](https://mp.weixin.qq.com/s/KC1k8ukB_qW7NIHNQSrmmw)
+
+### 四、我的小碗汤
+
+1.[这是我看过最详细的k8s中部署Jenkins教程](https://mp.weixin.qq.com/s/uwj8mKgjyYBeKJ00KnEp1A)
+
+2.[100个容器周边项目，点亮你的容器集群技能树](https://mp.weixin.qq.com/s/uK8r7_EUUyklKRO8G22YaA)
+
+
+### 五、Go夜读
+
+1.[第 71 期 go-ini 配置库评析 by 无闻视频回顾](https://mp.weixin.qq.com/s/e__21QUSWsu2tBlo4sXF-g)
+
 ## go语言中文网(每日资讯)_2019-12-15
 一、Golang来啦
 
