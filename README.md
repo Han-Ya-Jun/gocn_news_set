@@ -3,6 +3,37 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-17
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 106 天）](https://mp.weixin.qq.com/s/e-BsveGxkWbL0d3HgvQuLQ)
+
+### 二、Go语言中文网
+
+1.[12 月 15 日 Go 语言中文网深圳 Meetup 总结暨有偿自愿者招募](https://mp.weixin.qq.com/s/NyIXjAgadCbi6wq2HJkkmQ)
+
+2.[由一道 Go 运算题引出：深入浅出 原码、反码与补码](https://mp.weixin.qq.com/s/3eKrDfe85-cw4_nmHBG2OA)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 87 天）](https://mp.weixin.qq.com/s/hC4o-yrvJdnV8-swQl-G2g)
+
+4.[字符串那么常见，你知道 Go 内部是怎么样表示的吗？](https://mp.weixin.qq.com/s/vNP8Z93G3KDckrUXZ5wJQw)
+
+### 三、容器时代
+
+1.[Kubernetes 疑难杂症排查分享: 诡异的 No route to host](https://mp.weixin.qq.com/s/iEBKyIxkFTcQ2HIpr27zEA)
+
+### 四、我的小碗汤
+
+1.[整天谈容器，你知道两大容器管理平台Kubernetes与OpenShift有什么区别？](https://mp.weixin.qq.com/s/9dYfxnz3ssbxrDFxVrbY_g)
+
+### 五、Go夜读
+
+1.[第 72 期 Go-Micro 编写微服务实战 by 舒先](https://mp.weixin.qq.com/s/KBCeaHmw-5I8eHQjaCyIXQ)
+
+### 六、Go语言充电站
+
+1.[Fabric 1.4源码解读 8：Orderer和Peer的交互](http://lessisbetter.site/2019/12/17/fabric-blocks-from-orderer-to-peer/)
+
 ## gocn_news_2019-12-17
 - 1. Go 服务开发平滑升级之优雅重启: https://mp.weixin.qq.com/s/T6Z0jmQxX10mRm5eQTvexg
 - 2. Go Gin 实战系列: https://www.flysnow.org/2019/12/15/golang-gin-query-parameters-source-code-analysis.html
