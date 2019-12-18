@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-18
+- 1. Go1.14beta1发布 https://groups.google.com/forum/#!msg/golang-announce/ocSS1fQHBCk/oIsy2EJXBgAJ
+- 2. 基于Go语言开发 Serverless 云原生应用 https://mp.weixin.qq.com/s/MmjaP94p-O8LhNCyOqDS8A
+- 3. Go远程执行程序 https://dev.to/dandyvica/a-remote-program-execution-in-go-pec
+- 4. Go中尾递归 https://medium.com/@meeusdylan/tail-recursion-in-go-fb5cf69a0f26
+- 5. 使用redis和grpc构建微服务 https://medium.com/@felipe.infantino.moreno/microservice-in-golang-using-redis-and-grpc-865587aa260c【活动】深圳 Meetup https://www.bagevent.com/event/6218960
+
+
 ## go语言中文网(每日资讯)_2019-12-17
 ### 一、Golang来啦
 
