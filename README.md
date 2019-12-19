@@ -3,6 +3,34 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-19
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 108 天）](https://mp.weixin.qq.com/s/aEWGK_kiBy9RaFtLWsuE8g)
+
+### 二、Go语言中文网
+
+1.[你应该知道的 Go 调度器知识：Go 核心原理 — 协程调度时机](https://mp.weixin.qq.com/s/aoZn1JoND252swkwIdOy-Q)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 89 天）](https://mp.weixin.qq.com/s/gOrimvf0MbD-aEvF_L3ekQ)
+
+3.[架构系列：高并发架构的CDN知识介绍](https://mp.weixin.qq.com/s/yNUSo_lx_yR0tffqOgXMkQ)
+
+4.[Go 语言设计：for 和 range 是如何实现的](https://mp.weixin.qq.com/s/B6qS1UxQoHvqQJG3peug8w)
+
+### 三、学院君的后花园
+
+1.[Go 语言 Web 编程系列（三）—— 基于官方标准库自定义路由处理器](https://mp.weixin.qq.com/s/BsB8MAi4N5MsJFrEWNiYWQ)
+
+### 四、容器时代
+
+1.[大规模场景下 kubernetes 集群的性能优化](https://mp.weixin.qq.com/s/WrJ8aLeesT4mKVNmRR-NPg)
+
+### 五、我的小碗汤
+
+1.[你在搞云计算，居然还不懂OpenShift？](https://mp.weixin.qq.com/s/xCFW_I6SuyDys_wa9zOY3Q)
+
+
 ## gocn_news_2019-12-19
 - 1. Go 开发关键技术指南 | 为什么你要选择 Go？(内含超全知识大图） https://mp.weixin.qq.com/s/tXL_vXqIvHqafuwyGMofVw
 - 2. go语言浅析二叉树  https://segmentfault.com/a/1190000021326471
