@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-20
+- 1. 图解golang里面的读写锁实现与核心原理分析了解编程语言背后设计 https://segmentfault.com/a/1190000021349180
+- 2. go类型检查之typecheck https://juejin.im/post/5dfb16b9f265da339260c012
+- 3. Go Web 编程之请求 https://juejin.im/post/5dfa2cf6518825122671c79c
+- 4. 使用Gin+WebSocket在HTML中无插件播放RTSP https://juejin.im/post/5dfaeb026fb9a01661390623
+- 5. 深入理解Golang之channel https://juejin.im/post/5decff136fb9a016544bce67  【活动】深圳 Meetup https://www.bagevent.com/event/6218960- 
+
+
 ## go语言中文网(每日资讯)_2019-12-20
 ### 一、Golang来啦
 
