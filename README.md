@@ -3,6 +3,31 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-20
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 109 天）](https://mp.weixin.qq.com/s/7YvxNQUkiZvUGmZ2CnJ8Fw)
+
+### 二、Go语言中文网
+
+1.[Go内存泄漏？不是那么简单!](https://mp.weixin.qq.com/s/IA14BSTt4FaIIVpg8v5rkg)
+
+2.[Go 语言使用 TCP_NODELAY 控制发包流量](https://mp.weixin.qq.com/s/xOrfd4e_6UR2C3tX-KoYhw)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 90 天）](https://mp.weixin.qq.com/s/U6N4upsRrDyHobWyFyPW2Q)
+
+4.[关于 etcd 的一些谣言](https://mp.weixin.qq.com/s/10SoYws35Lry7OedCTFt3g)
+
+5.[Go 刷 LeetCode 系列：螺旋矩阵](https://mp.weixin.qq.com/s/1D5VctkQc0B_lWEPCKhdOQ)
+
+### 三、学院君的后花园
+
+1.[Go 语言 Web 编程系列（四）—— 基于 gorilla/mux 包实现路由定义：基本使用篇](https://mp.weixin.qq.com/s/VDBE559NSCBeAu3uISRY_Q)
+
+### 四、我的小碗汤
+
+1.[如何探测虚拟环境是物理机、虚拟机还是容器？](https://mp.weixin.qq.com/s/3D5SmGxqZTqREgFtruS2yQ)
+
 ## go语言中文网(每日资讯)_2019-12-19
 ### 一、Golang来啦
 
