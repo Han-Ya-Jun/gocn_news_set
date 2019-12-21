@@ -3,6 +3,22 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-21
+- 1. Go Serverless Functions https://blog.alexellis.io/faas-containerd-serverless-without-kubernetes/
+
+- 2. Golang实现并发聊天室 https://studygolang.com/articles/25502
+
+- 3. 私有代码仓库持续集成中使用go modules https://dev.to/7d1/using-go-modules-from-private-repositories-in-azure-devops-pipelines-44dk
+
+- 4. Go语言程序设计读书笔记(二）函数 https://segmentfault.com/a/1190000021349530
+
+- 5. Thanos简介和实践 https://mp.weixin.qq.com/s/m3IvMvoPMkN0DzqlUlmqaQ
+
+【活动】深圳 Meetup https://www.bagevent.com/event/6218960
+
+
+
+
 ## gocn_news_2019-12-20
 - 1. 图解golang里面的读写锁实现与核心原理分析了解编程语言背后设计 https://segmentfault.com/a/1190000021349180
 - 2. go类型检查之typecheck https://juejin.im/post/5dfb16b9f265da339260c012
