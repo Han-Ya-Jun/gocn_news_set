@@ -3,6 +3,25 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-21
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 110 天）](https://mp.weixin.qq.com/s/8MulJUFuITCZd5rh32frkA)
+
+### 二、Go语言中文网
+
+1.[深入 Go 内存分配超级棒的文章：Go 内存分配器可视化指南](https://mp.weixin.qq.com/s/RYtc5oZ4CmQZouLIcsloDw)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 91 天）](https://mp.weixin.qq.com/s/IA-lmgKY1GBn_MMCx60cqg)
+
+3.[Go 开发关键技术指南 | 为什么你要选择 Go？(内含超全知识大图）](https://mp.weixin.qq.com/s/FFVm0f_QQu1tJASzs0Oofw)
+
+4.[能避开很多坑的mysql面试题，你知道吗？](https://mp.weixin.qq.com/s/k5wbCoUJJGhDpmSy4gbNkQ)
+
+### 三、程序IT圈
+
+1.[史上最全Redis总结，干货满满！](https://mp.weixin.qq.com/s/EaDr7QUUVwj5ozdcYOMYXA)
+
 ## gocn_news_2019-12-21
 - 1. Go Serverless Functions https://blog.alexellis.io/faas-containerd-serverless-without-kubernetes/
 
