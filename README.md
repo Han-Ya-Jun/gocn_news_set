@@ -3,6 +3,31 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-22
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 111 天)](https://mp.weixin.qq.com/s/z1qX6UET0zA_NRlU5DmlKg)
+
+### 二、Go语言中文网
+
+1.[Go语言爱好者周刊：第 22 期](https://mp.weixin.qq.com/s/bUCqTWjfOgwxVlKYVN4E0A)
+
+2.[大神是如何学习 Go 语言之 Channel 实现原理精要](https://mp.weixin.qq.com/s/ElzD2dXWeldYkJmVVY6Djw)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 92 天）](https://mp.weixin.qq.com/s/toae0V30NbZSaqknNOCtlg)
+
+4.[Go 语言面向对象教程 —— 类的定义、初始化和成员方法](https://mp.weixin.qq.com/s/-QBWw5_IVY8MgAt24qtoqw)
+
+5.[Go 刷 LeetCode 系列：前序＋中序／中序＋后序构造二叉树](https://mp.weixin.qq.com/s/U7ZOUc6vXPdVeg9h-cUuRA)
+
+### 三、我的网课
+
+1.[怎样掌握 Linux 的 cgroup？资源限制机制 cgroup 学习指引与概念辨析](https://mp.weixin.qq.com/s/if1Q0GvWe_wouNONvcKvWg)
+
+### 四、猿方
+
+1.[网关 Apache APISIX 在 360 基础运维平台项目中的实践](https://mp.weixin.qq.com/s/Sjy_cutfaUhurQxd_9BVVw)
+
 ## gocn_news_2019-12-22
 - 1. 可汗学院尝试用Go构建后端服务 https://engineering.khanacademy.org/posts/goliath.htm 
 
