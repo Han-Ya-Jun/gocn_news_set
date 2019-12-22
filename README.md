@@ -3,6 +3,22 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-22
+- 1. 可汗学院尝试用Go构建后端服务 https://engineering.khanacademy.org/posts/goliath.htm 
+
+- 2. Go实战布谷过滤器 https://medium.com/@meeusdylan/implementing-a-cuckoo-filter-in-go-147a5f1f7a9  
+
+- 3. Go 触发Panic与崩溃的情况 https://github.com/go101/go101/wiki/Panic-and-crash-cases    
+
+- 4. Go modules：最小版本选择  https://tonybai.com/2019/12/21/go-modules-minimal-version-selection
+
+- 5. harmony:基于WebRTC的开源语音文字聊天室 https://man.sr.ht/~tslocum/harmony/HOSTING.md    
+
+* 【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+
+
+
 ## go语言中文网(每日资讯)_2019-12-21
 ### 一、Golang来啦
 
