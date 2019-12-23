@@ -3,6 +3,37 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-23
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 112 天）](https://mp.weixin.qq.com/s/Hz_vcsSPJOHhP01D1HzCqw)
+
+### 二、Go语言中文网
+
+1.[Go：我应该用指针替代结构体的副本吗？](https://mp.weixin.qq.com/s/11wxINd_RA40YD0bL2Zbqg)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 93 天）](https://mp.weixin.qq.com/s/cvtO25Pf2bqeOutcgHSkQg)
+
+3.[大神是如何学习 Go 语言之浅谈 select 的实现原理](https://mp.weixin.qq.com/s/9-eLJqYZrOpNLoiTGpBrKA)
+
+4.[Go 刷 LeetCode 系列：找出第 k 小](https://mp.weixin.qq.com/s/cvZgCdHGDwoH46XYmFxJ2Q)
+
+### 三、我的小碗汤
+
+1.[如何利用curl命令访问Kubernetes API server](https://mp.weixin.qq.com/s/51KZoHW-ijCqCES9lDnxnQ)
+
+### 四、Go夜读
+
+1. [第 72 期 Go-Micro 编写微服务实战（二） by 舒先](https://mp.weixin.qq.com/s/6PkRxRXqCmkmKaOQqX4fzg)
+
+### 五、MoeLove
+
+1.[K8S 生态周报| TUF 正式从 CNCF 毕业](https://mp.weixin.qq.com/s/tjUla_VlpgedPj31NAL6ww)
+
+### 六、我的网课
+
+1.[在用户态观测 Linux 内核函数的调用情况（调用次数、入参回值、时长等）](https://mp.weixin.qq.com/s/ytf7GcrOkjFKh43r8w2F3A)
+
 ## gocn_news_2019-12-23
 - 1. 如何调试K8s中的DNS问题 https://cilium.io/blog/2019/12/18/how-to-debug-dns-issues-in-k8s/
 - 2. 在Go中实现简洁架构 https://medium.com/manato/clean-architecture-with-go-bce409427d31
