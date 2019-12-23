@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-23
+- 1. 如何调试K8s中的DNS问题 https://cilium.io/blog/2019/12/18/how-to-debug-dns-issues-in-k8s/
+- 2. 在Go中实现简洁架构 https://medium.com/manato/clean-architecture-with-go-bce409427d31
+- 3. buf：一种新的Protobuf处理库 https://github.com/bufbuild/buf
+- 4. 在Go中高效处理JSON https://medium.com/tourradar/working-efficiently-with-json-in-go-cb80dcca0466
+- 5. Panic和崩溃例子集合 https://github.com/go101/go101/wiki/Panic-and-crash-cases* 
+
+
 ## go语言中文网(每日资讯)_2019-12-22
 ### 一、Golang来啦
 
