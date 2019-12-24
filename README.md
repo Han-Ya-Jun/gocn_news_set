@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-24
+- 1. 基于 Go 的协同系统深度实践 https://mp.weixin.qq.com/s/Mvqr7ieIRTl58pQpmApoPA
+- 2. 迁移 REST APIs 到 GraphQL https://blog.spaceuptech.com/posts/migrating-existing-rest-apis-to-graphql/
+- 3. Go 读写锁与源码实现 http://www.sreguide.com/2019/12/20/go/sync_reader_writer/
+- 4. 图解 Go 互斥锁 mutex 核心实现源码 http://www.sreguide.com/2019/12/23/go/sync_mutex/
+- 5. GORM 之 ErrRecordNotFound 采坑记录 https://juejin.im/post/5dff33c7518825126131ce30* 【活动】深圳meetup https://www.bagevent.com/event/6218960- 
+
+
 ## go语言中文网(每日资讯)_2019-12-23
 ### 一、Golang来啦
 
