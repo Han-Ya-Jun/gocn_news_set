@@ -3,6 +3,29 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-24
+1.[Go 面试每天一篇（第 113 天）](https://mp.weixin.qq.com/s/ER1OMleSpIOjOJKeJ_l5aQ)
+
+### 二、Go语言中文网
+
+1.[使用多年的 go pprof 检查内存泄漏的方法居然是错的?!](https://mp.weixin.qq.com/s/qC5iZ2gq_0EvSmnKCwB9og)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 94 天）](https://mp.weixin.qq.com/s/Xy6w1FAWFCDmId5JL8xFFw)
+
+3.[大神是如何学习 Go 语言之 panic 和 recover 的原理](https://mp.weixin.qq.com/s/iRdKLWt0FTHoQyOQSwtHYg)
+
+4.[微服务实战之 Go gRPC 调试工具](https://mp.weixin.qq.com/s/s6aY4meCMXH5M7YQ-k9P8g)
+
+### 三、我的小碗汤
+
+1.[最全教程 | Kubernetes + Jenkins + Helm + Springboot 实践](https://mp.weixin.qq.com/s/qN4hdG-nWFGDNT22KbtyxQ)
+
+### 四、21天大棚
+
+1.[图解Go里面的互斥锁mutex了解编程语言核心实现源码](https://mp.weixin.qq.com/s/OzwV23dVBNk-rDyoN61baw)
+
+2.[图解golang里面的读写锁实现与核心原理分析了解编程语言背后设计](https://mp.weixin.qq.com/s/cvszEMmxfkOiYewEjEa9tA)
+
 ## gocn_news_2019-12-24
 - 1. 基于 Go 的协同系统深度实践 https://mp.weixin.qq.com/s/Mvqr7ieIRTl58pQpmApoPA
 - 2. 迁移 REST APIs 到 GraphQL https://blog.spaceuptech.com/posts/migrating-existing-rest-apis-to-graphql/
