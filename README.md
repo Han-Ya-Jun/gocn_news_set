@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-25
+- 1. [译] Go反射的三个原则 https://sevenyu.top/2019/12/21/laws-of-reflection.html
+- 2. 你应该掌握的 Go 高级并发模式：计时器 https://developer.51cto.com/art/201912/608341.htm
+- 3. 别告诉我这是真的？goroutine 可能使程序变慢 https://mp.weixin.qq.com/s/PkuspIWKQpL7awtpCg-rOA
+- 4. Go 内存分配器可视化指南 https://mp.weixin.qq.com/s/RYtc5oZ4CmQZouLIcsloDw
+- 5. Coca: 系统重构和系统分析工具箱 https://github.com/phodal/coca* 【活动】深圳meetup https://www.bagevent.com/event/6218960- 
+
+
 ## go语言中文网(每日资讯)_2019-12-24
 1.[Go 面试每天一篇（第 113 天）](https://mp.weixin.qq.com/s/ER1OMleSpIOjOJKeJ_l5aQ)
 
