@@ -3,6 +3,35 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-25
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 114 天）](https://mp.weixin.qq.com/s/qe540In6Xav29_iYp9po1A)
+
+### 二、Go语言中文网
+
+1.[大神是如何学习 Go 语言之 make 和 new](https://mp.weixin.qq.com/s/zpVVzCknQ3nmdf2qIWeCvw)
+
+2.[Go编程： 那些隐晦的操作符](https://mp.weixin.qq.com/s/iKhQsRYOtE8W7o1CQEMq8g)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 95 天）](https://mp.weixin.qq.com/s/Eh-9P-yOoQ1Gbe_XC-olfg)
+
+4.[Go 语言面向对象教程 — 为基本类型添加成员方法](https://mp.weixin.qq.com/s/HqdX9vm8LhwOb4hLoX13iQ)
+
+5.[别告诉我这是真的？goroutine 可能使程序变慢](https://mp.weixin.qq.com/s/PkuspIWKQpL7awtpCg-rOA)
+
+### 三、我的小碗汤
+
+1.[一次 HTTP 请求到底经历了什么？](https://mp.weixin.qq.com/s/gdLhSqAd2JESnb3XeGKpIA)
+
+### 四、学院君的后花园
+
+1.[Go 语言 Web 编程系列（五）—— 基于 gorilla/mux 包实现路由匹配：进阶使用篇](https://mp.weixin.qq.com/s/zuDr2S4XwzoHgkz3xqNisA)
+
+### 五、容器时代
+
+1.[从零开始入门 K8s | Kubernetes 调度和资源管理](https://mp.weixin.qq.com/s/YDyYQ50BhUXlO4PXnovzWQ)
+
 ## gocn_news_2019-12-25
 - 1. [译] Go反射的三个原则 https://sevenyu.top/2019/12/21/laws-of-reflection.html
 - 2. 你应该掌握的 Go 高级并发模式：计时器 https://developer.51cto.com/art/201912/608341.htm
