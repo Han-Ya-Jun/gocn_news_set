@@ -3,6 +3,36 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-26
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 115 天）](https://mp.weixin.qq.com/s/O3vUC-TlkH2fl17nyncbUQ)
+
+### 二、Go语言中文网
+
+1.[我是如何在大型代码库上使用 pprof 探索 Go 中的内存泄漏](https://mp.weixin.qq.com/s/2VI8xO7v3JKq2D071bgqfw)
+
+2.[100 行左右有效 Go 代码实现 tcp server & graceful shutdown](https://mp.weixin.qq.com/s/P8xh9FQNKQevGWuejVr83w)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 96 天）](https://mp.weixin.qq.com/s/XW7TTr941fUDf9D2HyKwgw)
+
+4.[Go 语言面向对象教程 — 通过组合实现类的继承](https://mp.weixin.qq.com/s/-6gOVw3Ws4kIuIQa22dr6g)
+
+5.[Go 刷 LeetCode 系列：二叉树链表相互转换](https://mp.weixin.qq.com/s/Y5m7R7_S5z_O4N79H5_J_A)
+
+### 三、21天大棚
+
+1.[图解Go里面的WaitGroup了解编程语言核心实现源码](https://mp.weixin.qq.com/s/wZWyuj6SrA_AjmQBHW3Yvw)
+
+### 四、Go夜读
+
+1.[第 73 期趣头条在长连接方面的实践 - qrpc](https://mp.weixin.qq.com/s/1A8Y_1ZinCqda9A6YD0j3A)
+
+### 五、阿里巴巴云原生
+
+1.[Go 开发关键技术指南 | Go 面向失败编程 (内含超全知识大图）](https://mp.weixin.qq.com/s/aMKhU9rG_Al-sA5DAFji_g)
+
+
 ## gocn_news_2019-12-26
 - 1. Java JIT vs Java AOT vs Go适用于短期的小型进程 http://macias.info/entry/201912201300_graal_aot.md
 - 2. LBADD：一个实验性的分布式SQL数据库 https://github.com/tomarrell/lbadd
