@@ -3,6 +3,29 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-27
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 116 天）](https://mp.weixin.qq.com/s/gBuiDHWB2Nz9tKxzEdZPbw)
+
+### 二、Go语言中文网
+
+1.[使用 CGO 和 GoReleaser 进行跨平台编译](https://mp.weixin.qq.com/s/Ino1fBNEu2ANuwksZtCXbg)
+
+2.[大神是如何学习 Go 语言之浅入浅出接口的原理](https://mp.weixin.qq.com/s/62F6bd4UXiqWC8f8i7GBGQ)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 97 天）](https://mp.weixin.qq.com/s/fZN_0GuOhfZQt5_JMD-C5w)
+
+4.[既然有了 Docker，为什么还要 Kubernetes？](https://mp.weixin.qq.com/s/GljmVl3kElXWX-7_ePC6kA)
+
+### 三、容器时代
+
+1.[基于IPVS的集群内负载均衡的深入理解](https://mp.weixin.qq.com/s/uyLO9oKaLkIbg1nsM5Me0Q)
+
+### 四、51CTO技术栈
+
+1.[为什么我们放弃Zabbix采用Prometheus？](https://mp.weixin.qq.com/s/Ul5f4xcHvTShOF9smHHUjQ)
+
 ## gocn_news_2019-12-27
 - 1. Go 开发关键技术指南 | Go 面向失败编程 https://mp.weixin.qq.com/s/1zWdSV8FmwkduX4Hfbztgw 
 - 2. Go 正则表达式入门指南 https://medium.com/@arindamroy/guide-to-using-regular-expressions-in-golang-18a821ba1c16  
