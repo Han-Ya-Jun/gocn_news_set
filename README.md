@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-27
+- 1. Go 开发关键技术指南 | Go 面向失败编程 https://mp.weixin.qq.com/s/1zWdSV8FmwkduX4Hfbztgw 
+- 2. Go 正则表达式入门指南 https://medium.com/@arindamroy/guide-to-using-regular-expressions-in-golang-18a821ba1c16  
+- 3. Golang 错误处理最佳实践 https://medium.com/@dche423/golang-error-handling-best-practice-cn-42982bd72672    
+- 4. go-term-markdown: Go Markdown终端渲染库  https://github.com/MichaelMure/go-term-markdown
+- 5. 无需CGO的Go SQLite连接库 https://godoc.org/modernc.org/sqlite    * 【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+
 ## go语言中文网(每日资讯)_2019-12-26
 ### 一、Golang来啦
 
