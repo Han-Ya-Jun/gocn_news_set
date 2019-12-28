@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-28
+- 1. 如何正确的开始用 Go 编程 https://segmentfault.com/a/1190000021426712
+- 2. Golang内存分配 https://www.cnblogs.com/33debug/p/12068699.html
+- 3. GOMAXPROCS 与容器的相处之道 http://gaocegege.com/Blog/maxprocs-cpu
+- 4. 使用多阶段构建的精益Golang Docker镜像 https://medium.com/tourradar/lean-golang-docker-images-using-multi-stage-builds-1015a6b4d1d1
+- 5. 您需要了解的有关Kubernetes服务质量（QoS） https://segmentfault.com/a/1190000021428126* 【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+
 ## go语言中文网(每日资讯)_2019-12-27
 ### 一、Golang来啦
 
