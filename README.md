@@ -3,6 +3,29 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-28
+一、Golang来啦
+
+1.[Go 面试每天一篇（第 117天）](https://mp.weixin.qq.com/s/kXrCCAmbL_jT1XDWTE3yOQ)
+
+二、Go语言中文网
+
+1.[大神是如何学习 Go 语言之写出优雅的 Go 代码](https://mp.weixin.qq.com/s/g412oBwHXO_B5Axncn34Aw)
+
+2.[利用 CPU cache 特性优化 Go 程序](https://mp.weixin.qq.com/s/kMlB5RbEUucNp_IiRhryBw)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 98 天）](https://mp.weixin.qq.com/s/NEibXSUYZxrg2y5Iblf44A)
+
+4.[阿里云高级技术专家探讨 Go 的错误处理](https://mp.weixin.qq.com/s/K4XXf9AmorO4IyDGXmhn9A)
+
+三、新亮笔记
+
+1.[Go - 如何解析 JSON 数据？](https://mp.weixin.qq.com/s/Uxle4PATTL3xT4grJR0Xcw)
+
+四、Go夜读
+
+1.[趣头条在长链接方面的实践-qrpcPPT分享](
+
 ## gocn_news_2019-12-28
 - 1. 如何正确的开始用 Go 编程 https://segmentfault.com/a/1190000021426712
 - 2. Golang内存分配 https://www.cnblogs.com/33debug/p/12068699.html
