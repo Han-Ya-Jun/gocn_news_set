@@ -3,6 +3,31 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-29
+一、Golang来啦
+
+1.[Go 面试每天一篇（第 118天）](https://mp.weixin.qq.com/s/AyhtjQz8W8yRTNNJ-7bPuA)
+
+二、Go语言中文网
+
+1.[Go语言爱好者周刊：第 23 期](https://mp.weixin.qq.com/s/9iDpm07ilGa3Kot3A8RpTQ)
+
+2.[Go 项目开发中 10 个最常见的错误](https://mp.weixin.qq.com/s/wqvXAQook-C95vzjxmPH-w)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 99 天）](https://mp.weixin.qq.com/s/iv_SriGRGwxeEHGWbhZmeg)
+
+4.[Go 编程: 快速生成自签名证书与双向认证(mTLS)](https://mp.weixin.qq.com/s/EvUEwybO2OgEz0Pz9c07qQ)
+
+5.[Go 语言面向对象教程 — 类属性和方法的可见性](https://mp.weixin.qq.com/s/TfGjQf_FGW-7604iClHI1Q)
+
+三、容器时代
+
+1.[使用 kind 部署单机版 kubernetes 集群](https://mp.weixin.qq.com/s/F1vzRFepX6ZbrdtHDH9uZw)
+
+四、prometheus专题
+
+1.[prometheus专题](https://www.yuque.com/wegoer/set/topic-prometheus)
+
 ## gocn_news_2019-12-29
 - 1. Go依赖注入工具 wire 与 dig 对比 https://medium.com/@hippik80/go-%D1%81omparing-dependency-injection-approaches-23cb9772a016
 - 2. 为 ARM Socs 打造的裸金属框架 tamago https://www.youtube.com/watch?v=4QircrJjEtQ 
