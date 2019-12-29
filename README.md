@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-29
+- 1. Go依赖注入工具 wire 与 dig 对比 https://medium.com/@hippik80/go-%D1%81omparing-dependency-injection-approaches-23cb9772a016
+- 2. 为 ARM Socs 打造的裸金属框架 tamago https://www.youtube.com/watch?v=4QircrJjEtQ 
+- 3. 为 Prometheus 准备的 sql.DBStates 收集库 sqlstats https://github.com/dlmiddlecote/sqlstats
+- 4. 断路器模式介绍 https://medium.com/@mssr/the-circuit-breaker-pattern-85e28c8e01b7
+- 5. Goroutine 与抢占 https://medium.com/a-journey-with-go/go-goroutine-and-preemption-d6bc2aa2f4b7【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+
 ## go语言中文网(每日资讯)_2019-12-28
 一、Golang来啦
 
