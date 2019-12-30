@@ -3,6 +3,21 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-30
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 119 天）](https://mp.weixin.qq.com/s/6YXBoPiOTSQzwf9B6b3TLA)
+
+### 二、Go语言中文网
+
+1.[谁拔了我的网线？Go 网络异常对程序行为的影响](https://mp.weixin.qq.com/s/xXTsroriaub61Sjx8LuHKA)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 100 天）](https://mp.weixin.qq.com/s/F4eBRyggKoKFzgbl5dOuZA)
+
+3.[Go 编程：写一个程序友好的命令行工具包](https://mp.weixin.qq.com/s/uJ3KZ3gw2pCIdHQhNxKRjg)
+
+4.[如何正确的开始用Go编程](https://mp.weixin.qq.com/s/cxAdWg0jqnNovE47YGWjUA)
+
 ## go语言中文网(每日资讯)_2019-12-29
 一、Golang来啦
 
