@@ -3,6 +3,33 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2019-12-31
+### 一、Golang来啦
+
+1.[Go 面试每天一篇（第 120 天）](https://mp.weixin.qq.com/s/FuqUhWXQtHfFa7Mce_AGVA)
+
+### 二、Go语言中文网
+
+1.[Go 不通过标准 C 库进行系统调用的一些原因](https://mp.weixin.qq.com/s/Ry1-ke62GXWNoN-4dUjKeQ)
+
+2.[再谈如何处理 Go 语言中的错误](https://mp.weixin.qq.com/s/LOFoR9QUgnBss_zLNhzphw)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 101 天）](https://mp.weixin.qq.com/s/uMqR--NZ46n9gkH7lNBTXQ)
+
+4.[创业公司更适合用 Go 语言，那大公司呢？](https://mp.weixin.qq.com/s/Pd4No6XVd2UNMoTfG9gUyg)
+
+5.[Go 刷 LeetCode 系列：滑动窗口（1）](https://mp.weixin.qq.com/s/ZfHa7gpmmYdkvgkDOBF0ig)
+
+### 三、Go夜读
+
+1.[第 74 期 Go time.Timer 源码分析 (Go 1.14)](https://mp.weixin.qq.com/s/nWIBgCKc1J5a2dCrLJIPJA)
+
+### 四、火丁笔记
+
+1.[Go需要依赖注入吗？如何像 Java 一样方便的实现依赖注入？](https://mp.weixin.qq.com/s/bMIs-wWpImBDRSPcbbhpwg)
+
+2.[Go语言爱好者周刊：第 23 期](https://mp.weixin.qq.com/s/b5FbXQRUBjkocNqvgjnoUQ)
+
 ## go语言中文网(每日资讯)_2019-12-30
 ### 一、Golang来啦
 
