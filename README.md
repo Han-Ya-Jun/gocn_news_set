@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2019-12-31
+- 1. Go 系列教程：https://dev.to/digitalocean/how-to-code-in-go-32p0
+- 2. Go modules：最小版本选择 https://tonybai.com/2019/12/21/go-modules-minimal-version-selection/
+- 3. 部署服务到 Heroku：https://dev.to/cishiv/deploying-to-heroku-docker-go-and-react-38hh
+- 4. 为什么 MongoDB 使用 B 树: https://draveness.me/whys-the-design-mongodb-b-tree
+- 5. Vugu 框架简介   https://blog.gopheracademy.com/advent-2019/writing-go-user-interfaces-with-vugu/【活动】深圳meetup https://www.bagevent.com/event/6218960- 
+
+
 ## go语言中文网(每日资讯)_2019-12-31
 ### 一、Golang来啦
 
