@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2020-01-01
+- 1. Go中Linux管道 https://dev.to/napicella/linux-pipes-in-golang-2e8j
+- 2. 使用 Go 优化我们的接口 https://juejin.im/post/5e09e2d16fb9a016536ed0e5
+- 3. 图解Go里面的sync.Map了解编程语言核心实现源码 https://juejin.im/post/5e08df67f265da33f11ae9e0
+- 4. Go1.13错误处理 https://medium.com/gett-engineering/error-handling-in-go-1-13-5ee6d1e0a55c
+- 5. 【译】Go 语言实践：编写可维护的程序的建议 https://juejin.im/post/5e0ab70ef265da5d0f098988【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+
 ## gocn_news_2019-12-31
 - 1. Go 系列教程：https://dev.to/digitalocean/how-to-code-in-go-32p0
 - 2. Go modules：最小版本选择 https://tonybai.com/2019/12/21/go-modules-minimal-version-selection/
