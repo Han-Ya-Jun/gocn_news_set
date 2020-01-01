@@ -3,6 +3,31 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2020-01-01
+### 一、Go语言中文网
+
+1.[Go 语言中文网 2019 年终总结暨 2020 年展望](https://mp.weixin.qq.com/s/QzbQH0X04B8pa4e34XSISA)
+
+2.[你有一份 2019 年 GitHub 年度报告待领取](https://mp.weixin.qq.com/s/n9l4JhAMMrRuGGycq56vAA)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 102 天）](https://mp.weixin.qq.com/s/GL1xEvpC2fCl0dxZsTZYuA)
+
+4.[Go 1.13 私有代理服务的构建](https://mp.weixin.qq.com/s/ZUAxozQuaFlKnitNmL-uhw)
+
+5.[Go 语言面向对象教程 — 接口篇：接口定义与实现](https://mp.weixin.qq.com/s/M5GoIJbGBqkYk3Hw6TLBKg)
+
+### 二、容器时代
+
+1.[使用"用户扮演"来实现Kubernetes里的最小权限](https://mp.weixin.qq.com/s/G7vdKwndNoG8JYuqLoNQTQ)
+
+### 三、新亮笔记
+
+1.[送别 2019，期待 2020！](https://mp.weixin.qq.com/s/xdQ9r6VHsdyIXnZleN7jtQ)
+
+### 四、网管叨bi叨 
+
+1.[《Go 语言程序设计》读书笔记 (五) 协程与通道](https://mp.weixin.qq.com/s/NRpmweKYxwkBZV-yoAUe3Q)
+
 ## gocn_news_2020-01-01
 - 1. Go中Linux管道 https://dev.to/napicella/linux-pipes-in-golang-2e8j
 - 2. 使用 Go 优化我们的接口 https://juejin.im/post/5e09e2d16fb9a016536ed0e5
