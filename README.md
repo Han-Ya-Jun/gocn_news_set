@@ -3,6 +3,34 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## go语言中文网(每日资讯)_2020-01-02
+### 一、Go语言中文网
+
+1.[大神是如何学习 Go 之并发编程与 Context](https://mp.weixin.qq.com/s/fRb4G74LW-es87jxWkiByw)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 103 天）](https://mp.weixin.qq.com/s/nIe9bAwCuKq1cfmt7aC09g)
+
+3.[Docker 制作一键安装的本地无污染 DNS 域名服务](https://mp.weixin.qq.com/s/LFhg8XBviuSBvHN1JBGejA)
+
+4.[Go 语言面向对象教程 — 接口篇：接口赋值](https://mp.weixin.qq.com/s/5nj0bLoFf8Px9mPSbw76XA)
+
+### 二、我的网课
+
+1.[新年献礼：Go语言深度入门手册](https://mp.weixin.qq.com/s/WGYV3H9c09nkyJazh7zrqw)
+
+### 三、MoeLove
+
+1.[2019 小回顾](https://mp.weixin.qq.com/s/Mc4dh9LsKDYqPfZF9PJ6LQ)
+
+### 四、阿里巴巴中间件
+
+1.[eBay邓明：dubbo-go 中 metrics 的设计](https://mp.weixin.qq.com/s/3AHW0wK8WnfY2ll76iNqHw)
+
+### 五、PingCAP
+
+1.[Chaos Mesh —— 让应用跟混沌在 Kubernetes 上共舞](https://mp.weixin.qq.com/s/LkxKJmpqOdEsOuHNxeR0KA) [Github](https://github.com/pingcap/chaos-mesh)https://mp.weixin.qq.com/s/NRpmweKYxwkBZV-yoAUe3Q)
+
+
 ## gocn_news_2020-01-02
 - 1. 我们为什么用GO语言来做区块链？ https://www.8btc.com/article/541146
 - 2.  golang实现依赖注入 https://www.cnblogs.com/yjf512/p/1212134
