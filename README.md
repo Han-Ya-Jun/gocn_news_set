@@ -3,6 +3,14 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # gocn_news_set_2019
+## gocn_news_2020-01-02
+- 1. 我们为什么用GO语言来做区块链？ https://www.8btc.com/article/541146
+- 2.  golang实现依赖注入 https://www.cnblogs.com/yjf512/p/1212134
+- 5.html
+- 3.  Gos: GO MODULE解决方案   https://juejin.im/post/5ce3f6ede51d455cd73b9fef  
+- 4.  理解 Golang 中函数调用的原理   https://www.infoq.cn/article/2iHjv1aTY2mcBulkAHRh  5.  微服务架构的 10个 最佳实践 ！https://mp.weixin.qq.com/s/-N_PC6t1iMAu3OgEKGOg1g【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+
 ## go语言中文网(每日资讯)_2020-01-01
 ### 一、Go语言中文网
 
