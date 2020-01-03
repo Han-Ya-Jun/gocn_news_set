@@ -4,6 +4,39 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-03
+### 一、Go语言中文网
+
+1.[为什么 Go 适合微服务](https://mp.weixin.qq.com/s/ypR0CM32I2Z1unVwrFZ2hQ)
+
+2.[微服务注册中心注册表与hashcode实现 Go 版](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI3MDM1OTgxMQ==&scene=161#wechat_redirect)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 104 天）](https://mp.weixin.qq.com/s/HgxEP_0ZVSrYXBmZ08PkOw)
+
+4.[Go 编程：记一次函数定义的争论](https://mp.weixin.qq.com/s/Mo2fhKqJFRP7Mi6l_xbtQg)
+
+5.[Go 语言面向对象教程 — 接口篇：接口和类型查询及转化](https://mp.weixin.qq.com/s/FO4wxol38PNIfQJNq64j_A)
+
+### 二、容器时代
+
+1.[kube-on-kube-operator 开发(一)](https://mp.weixin.qq.com/s/jvL-tfr_S0XK-i-6cBE_Aw)
+
+### 三、我的小碗汤
+
+1.[Linux这些工具堪称神器！](https://mp.weixin.qq.com/s/1rzeyeusfTrCoPXet8aQvg)
+
+### 四、Go夜读
+
+1.[【Go 夜读】#74 time.Timer 源码分析（Go1.14）](https://v.qq.com/x/page/s3045q159wp.html)
+
+### 五、Golang来啦
+
+1.[短暂的停留，是为了走的更远！](https://mp.weixin.qq.com/s/taMRyYLrNkRZQgIOXjFCfA)
+
+### 六、阿里巴巴云原生
+
+1.[Go 开发关键技术指南 | 带着服务器编程金刚经走进 2020 年(内含超全知识大图）](https://mp.weixin.qq.com/s/IUHmESSojeHl5I-o7d_hAw)
+
 ## gocn_news_2020-01-03
 - 1. 一起goroutine泄漏问题的排查 https://mp.weixin.qq.com/s/Udt7nO6F4hoGgOYfjcembg
 - 2. 为什么go的可执行文件这么大？ https://www.cockroachlabs.com/blog/go-file-size
