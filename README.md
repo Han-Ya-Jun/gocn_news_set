@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-03
+- 1. 一起goroutine泄漏问题的排查 https://mp.weixin.qq.com/s/Udt7nO6F4hoGgOYfjcembg
+- 2. 为什么go的可执行文件这么大？ https://www.cockroachlabs.com/blog/go-file-size
+- 3. Go语言使用TCP_NODELAY控制发包流量[译] https://pengrl.com/p/20191217/
+- 4. Golang context机制 https://segmentfault.com/a/1190000021471215
+- 5. 100 行写一个go的协程池(任务池) https://segmentfault.com/a/1190000021468353【活动】深圳meetup https://www.bagevent.com/event/6218960
+
+
 ## go语言中文网(每日资讯)_2020-01-02
 ### 一、Go语言中文网
 
