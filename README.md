@@ -4,6 +4,33 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-04
+### 一、Go语言中文网
+
+1.[小改动，大提升：最近 Go 标准库的一次优化](https://mp.weixin.qq.com/s/ipVRZOEJwaUXt2HE8kx2Lg)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 105 天）](https://mp.weixin.qq.com/s/yHQPIK2vfFS2x9ed6cnZYw)
+
+3.[Go 语言面向对象教程 — 接口篇：接口组合](https://mp.weixin.qq.com/s/h0zLgop7aqYZLgzFZxKbmg)
+
+4.[Go 刷 LeetCode 系列：滑动窗口（2）K 个不同整数的子数组](https://mp.weixin.qq.com/s/GB6kJs4i3Ic8Na_j4jEgOA)
+
+### 二、网管叨bi叨
+
+1.[《go 语言程序设计》读书笔记（六）Goroutine与系统线程的区别](https://mp.weixin.qq.com/s/houLdiQQ4yez-zHiKldjjA)
+
+### 三、才云Caicloud
+
+1.[微服务之服务治理：Envoy 全局 gRPC 限速服务 lyft/ratelimit 详解](https://mp.weixin.qq.com/s/2gR0md3IEhEnQFZ4Qu4ZEA)
+
+### 四、腾讯技术工程
+
+1.[一起 goroutine 泄漏问题的排查](https://mp.weixin.qq.com/s/Udt7nO6F4hoGgOYfjcembg)
+
+### 五、架构之美
+
+1.[混沌工程](https://mp.weixin.qq.com/s/uNmrWTYGd0MMJs8PY9EWjg)
+
 ## gocn_news_2020-01-04
 - 1. 《Go语言程序设计》读书笔记(六) 基于共享变量的并发 https://segmentfault.com/a/1190000021486059
 - 2. 清晰架构（Clean Architecture）的Go微服务: 日志管理 https://segmentfault.com/a/1190000021479989
