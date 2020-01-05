@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-05
+- 1. Go语言学习Sync.Pool https://juejin.im/post/5e103018e51d45416063f69b
+- 2. Go之for-range排坑指南 https://mp.weixin.qq.com/s/klJBAi5LvdJOGvma2Ir0OA
+- 3. Go在MacOS创建一个自定义的命令行工具 https://idoubi.cc/posts/create-a-cli-tool-in-macos/
+- 4. 复杂分布式架构下的计算治理之路 https://mp.weixin.qq.com/s/unl8_LccNgzX6Nk4ijF5Ew
+- 5. Kafka集群在马蜂窝大数据平台的优化与应用扩展 https://mp.weixin.qq.com/s/yCn1HQ_R9QazznP1AyMmjg- 
+
+
 ## go语言中文网(每日资讯)_2020-01-04
 ### 一、Go语言中文网
 
