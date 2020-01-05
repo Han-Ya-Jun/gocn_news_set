@@ -4,6 +4,38 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-05
+
+
+### 一、Go语言中文网
+
+1.[Go语言爱好者周刊：第 24 期](https://mp.weixin.qq.com/s/g9IbfeQe2PGzOWIJS3V8lw)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 106 天）](https://mp.weixin.qq.com/s/v9ks6TP2yp4ZqNu1JugA8A)
+
+3.[大神是如何学习 Go 之并发编程与同步原语](https://mp.weixin.qq.com/s/BYCGD0oANr_hl3CyGYbIHQ)
+
+4.[写了一个 kubectl 多配置管理工具](https://mp.weixin.qq.com/s/O8zQ_u33GbxhKYCSruidNg)
+
+5.[Go 语言面向对象教程 — 接口篇：空接口及使用场景](https://mp.weixin.qq.com/s/Ru1HLrrhQfOmXEH3oH9ZgQ)
+
+### 二、网管叨bi叨
+
+1.[《go 语言程序设计》读书笔记（六）Goroutine与系统线程的区别](https://mp.weixin.qq.com/s/houLdiQQ4yez-zHiKldjjA)
+
+### 三、HHF技术博客
+
+1.[Redigo Pool 源码解析](https://mp.weixin.qq.com/s/LxaSbwMwMnO-ZvtdmdPBrQ)
+
+### 四、容器时代
+
+1.[使用 code-generator 为 CustomResources 生成代码](https://mp.weixin.qq.com/s/LAOA-WQhL4-xj_eyhY5SqQ)
+
+### 五、滴滴技术
+
+1.[高频 golang 服务接口超时排查&性能调优](https://mp.weixin.qq.com/s/rDjTqqR0q4VTSQrYFzbR7w)
+
+
 ## gocn_news_2020-01-05
 - 1. Go语言学习Sync.Pool https://juejin.im/post/5e103018e51d45416063f69b
 - 2. Go之for-range排坑指南 https://mp.weixin.qq.com/s/klJBAi5LvdJOGvma2Ir0OA
