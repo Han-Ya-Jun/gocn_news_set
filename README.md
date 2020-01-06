@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-06
+- 1. 高频 golang 服务接口超时排查&性能调优 https://mp.weixin.qq.com/s/rDjTqqR0q4VTSQrYFzbR7w
+- 2. Golang IO 手册 https://github.com/jesseduffield/notes/wiki/Golang-IO-Cookbook
+- 3. Go GC 20 问 https://mp.weixin.qq.com/s/o2oMMh0PF5ZSoYD0XOBY2Q
+- 4. 分析并解决遗留应用迁移至Kubernetes后延迟增加的问题 https://mp.weixin.qq.com/s/EsPHxO7c550kkcDqdmmRNQ
+- 5. 图解Event Sourcing https://arkwright.github.io/event-sourcing.html* 
+
+
 ## go语言中文网(每日资讯)_2020-01-05
 
 
