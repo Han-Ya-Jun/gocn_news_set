@@ -4,6 +4,23 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-07
+### 一、Go语言中文网
+
+1.[Go并发设计模式之 Active Object](https://mp.weixin.qq.com/s/D-3-Bpl5UZ_w_tnUHh6UaA)
+
+2.[由区块连看分布式一致性与共识算法](https://mp.weixin.qq.com/s/ttqgvipxoGg9XaoqcG6iVg)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 108 天）](https://mp.weixin.qq.com/s/pglSbMAK469FbGrJmdY4Pg)
+
+4.[图解Go里面的互斥锁mutex了解编程语言核心实现源码](https://mp.weixin.qq.com/s/z339qcv3rQSSsfZlhpITFA)
+
+5.[Go 编程: 从 K8S 资源定义到 YAML 配置框架的实现](https://mp.weixin.qq.com/s/p_0rMFqRd-GsvHzoYBn-ew)
+
+### 二、容器时代
+
+1.[kube-on-kube-operator 开发(二)](https://mp.weixin.qq.com/s/b-tQaVgY74yTK5c67Tqdig)
+
 ## go语言中文网(每日资讯)_2020-01-06
 一、Go语言中文网
 
