@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-07
+- 1. Go 开发关键技术指南 https://developer.aliyun.com/article/739836
+- 2. 我喜欢 Goroutine 和 Channel https://www.justindfuller.com/2020/01/go-things-i-love-channels-and-goroutines/
+- 3. rqlite, Go 实现分布式 SQLite http://www.philipotoole.com/rqlite-5-0-0-released/
+- 4. Go 的内存对齐和指针运算详解和实践 https://learnku.com/articles/39255 
+- 5. eBay邓明：dubbo-go 中 metrics 的设计 https://segmentfault.com/a/1190000021510904- 
+
+
 ## go语言中文网(每日资讯)_2020-01-07
 ### 一、Go语言中文网
 
