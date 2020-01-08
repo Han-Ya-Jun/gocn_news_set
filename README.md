@@ -4,6 +4,21 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-08
+### 一、Go语言中文网
+
+1.[必会技能：简明的 Go Protocol Buffer 教程](https://mp.weixin.qq.com/s/s_6H68RQ9JDiA6TGmiZyOQ)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 109 天）](https://mp.weixin.qq.com/s/8f9MO3CmiMaySLrjP4QJ6g)
+
+3.[Go 语言并发编程系列（一）— 多进程、多线程与协程的引入](https://mp.weixin.qq.com/s/MtWcxo_o9J-NFijZ6i_ZGw)
+
+4.[Go编程：对不起，你的 CPU 泄露了](https://mp.weixin.qq.com/s/DCZuN0EiGKaVaQnu6TFiog)
+
+### 二、互联网技术窝
+
+1.[秒懂innodb的锁](https://mp.weixin.qq.com/s/pY7t2E7rL7brL7T6zjM6JA)
+
 ## gocn_news_2020-01-08
 - 1. Go 编程: 对不起，你的 CPU 泄露了 https://www.gitdig.com/cpu-leak/
 - 2. 小改动，大提升：Go 标准库的一次优化 https://colobu.com/2019/12/31/small-changes-big-improvement/
