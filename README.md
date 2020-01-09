@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-09
+### 一、Go语言中文网
+
+1.[Go并发设计模式之 Half-Sync/Half-Async](https://mp.weixin.qq.com/s/-dRJtoRI5Qg8C_cMQaruUw)
+
+2.[大神浅谈数据库并发控制 - 锁和 MVCC](https://mp.weixin.qq.com/s/16HI-6vaRJ-l-sF9vTUDxw)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 110 天）](https://mp.weixin.qq.com/s/zN68KRPHB7RWGVjPHUh3dQ)
+
+4.[Go 语言并发编程系列（二）— Go 协程实现原理和使用示例](https://mp.weixin.qq.com/s/bNoSymMAbksS7bkQIuh4qw)
+
+5.[Go 刷 LeetCode 系列：滑动窗口（4）滑动窗口中位数](https://mp.weixin.qq.com/s/-Km79nPLTDiV0dl_Vpk_uQ)
+
+### 二、容器时代
+
+1.[浅析 kubernetes 的认证与鉴权机制](https://mp.weixin.qq.com/s/us5xAGythff2JBXxqoFEEA)
+
+### 三、我的小碗汤
+
+1.[2020年DevOps的七大发展趋势](https://mp.weixin.qq.com/s/zK10bpx0dvDC-geP30nP2g)
+
+### 四、QCon
+
+1.[入 Go 必读：大型Go工程的项目结构及实战思考](https://mp.weixin.qq.com/s/N4SV3JiGZJeMgcaomHqF4w)
+
+### 五、阿里巴巴云原生
+
+1.[Go 开发关键技术指南 | 敢问路在何方？(内含超全知识大图）](https://mp.weixin.qq.com/s/s4t2PD-3bRV92MpGqGfq9w)
+
 ## gocn_news_2020-01-09
 - 1. 使用Profefe在Go中进行连续分析 https://gianarb.it/blog/go-continuous-profiling-profefe
 - 2. 自动缓存：使用成员列表进行对等注册的组缓存 https://github.com/pomerium/autocache
