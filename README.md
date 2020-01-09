@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-09
+- 1. 使用Profefe在Go中进行连续分析 https://gianarb.it/blog/go-continuous-profiling-profefe
+- 2. 自动缓存：使用成员列表进行对等注册的组缓存 https://github.com/pomerium/autocache
+- 3. 如何在Go测试中进行mock模拟 https://medium.com/@ankur_anand/how-to-mock-in-your-go-golang-tests-b9eee7d7c266
+- 4. 用Go语言实现的JSON查询处理器 https://github.com/cube2222/jql
+- 5. Go编程语言规范 https://moego.me/golang_spec.html#id256
+
+
 ## go语言中文网(每日资讯)_2020-01-08
 ### 一、Go语言中文网
 
