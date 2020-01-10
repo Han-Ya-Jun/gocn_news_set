@@ -4,6 +4,20 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-10
+- 1. Go1.1
+- 3.6与1.1
+- 2.15版本发布! https://groups.google.com/forum/#!topic/golang-announce/RLFrcJ_FZZs
+2. Go并发模型实践 https://www.elastic.co/cn/blog/a-tour-of-go-concurrency-patterns-via-the-new-heartbeat-scheduler?blade=tw&hulk=social
+3. Go实践事件驱动框架 https://medium.com/@hippik80/golang-event-driven-architecture-5dadc6587a29
+
+- 4. Go编译器确定性研究 https://medium.com/samsara-engineering/a-chapter-in-the-life-of-gos-compiler-c89b9db74617
+
+- 5. ditty: 基于终端的音频播放器 https://git.sr.ht/~tslocum/ditty
+
+
+
+
 ## go语言中文网(每日资讯)_2020-01-09
 ### 一、Go语言中文网
 
