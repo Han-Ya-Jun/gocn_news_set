@@ -4,6 +4,32 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-10
+一、Go语言中文网
+
+1.[在 Go 中的 ORM 和查询构建](https://mp.weixin.qq.com/s/s_6H68RQ9JDiA6TGmiZyOQ)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 111天）](https://mp.weixin.qq.com/s/GZaESVerz1X41T0KAsgOYg)
+
+3.[Go 语言并发编程系列（三）— 协程通信实现之共享内存篇](https://mp.weixin.qq.com/s/DLofOCOLuYQqoP4mtF1mnw)
+
+二、互联网技术窝
+
+1.[Mysql执行计划explain图解](https://mp.weixin.qq.com/s/OYvCOSOMK2VmzDrAXbj2xQ)
+
+三、学院君的后花园
+
+1.[Go 语言 Web 编程系列（七）—— 基于 gorilla/mux 包实现路由匹配：处理静态资源响应](https://mp.weixin.qq.com/s/2BXqMgGkMrsTyYAYbiASkw)
+
+四、51CTO
+
+1.[PromQL：拆解CPU利用率](https://mp.weixin.qq.com/s/uAm8TP1Y82KzUWt6OQBwWg)
+
+五、高德技术
+
+1.[高德技术年刊下载 | 6大方向 40篇+好文，日活过亿背后技术详解](https://mp.weixin.qq.com/s/mKfs9_gYMKd9fyW_h_4lrA)
+
+
 ## gocn_news_2020-01-10
 - 1. Go1.1
 - 3.6与1.1
