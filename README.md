@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-11
+- 1. Reflect-Go一分钟快速入门 https://studygolang.com/articles/25982
+- 2. Channel的使用及源码解析 https://studygolang.com/articles/25971
+- 3. 探探长链接项目的 Go 语言实践 https://mp.weixin.qq.com/s/XW1QHbKVGHAfX-iY8rnB5A
+- 4. Golang从零开发BitTorrent客户端 https://blog.jse.li/posts/torrent
+- 5. Go Get My/Vulnerabilities:深入分析Go语言运行时及其引入的新漏洞 https://www.youtube.com/watch?v=GGQcv7fK0JY
+
+
 ## go语言中文网(每日资讯)_2020-01-10
 一、Go语言中文网
 
