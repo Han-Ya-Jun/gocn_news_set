@@ -4,6 +4,33 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-11
+一、Go语言中文网
+
+1.[Go 切片是胖指针？](https://mp.weixin.qq.com/s/cTc4Q-MtWhRLpjA0C06RAQ)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 112天）](https://mp.weixin.qq.com/s/lCc2FuhWMj4nMeuE8HMVFA)
+
+3.[大神是如何学习 Go 语言之调度器与 Goroutine](https://mp.weixin.qq.com/s/mjn1jMca7NGLs3oCe3B8vA)
+
+4.[Go 刷 LeetCode 系列：链表（1）交换旋转](https://mp.weixin.qq.com/s/rXk2kkkmC3xx8hh1tDbXKQ)
+
+二、互联网技术窝
+
+1.[图解HTTP缓存](https://mp.weixin.qq.com/s/0f4WXOaojJg5PdW0xZespw)
+
+三、容器时代
+
+1.[kube-on-kube-operator 开发(三)](https://mp.weixin.qq.com/s/2cqiFFGIvhvFGRHNW0J0GA)
+
+四、ClickHouse的秘密基地
+
+1.[ClickHouse为何如此之快？](https://mp.weixin.qq.com/s/A0-LjP5psiPtQ0zqA24PpA)
+
+五、Docker
+
+1.[什么是Service Mesh](https://mp.weixin.qq.com/s/7q2WfRPwL0YmWoQRusyjwQ)
+
 ## gocn_news_2020-01-11
 - 1. Reflect-Go一分钟快速入门 https://studygolang.com/articles/25982
 - 2. Channel的使用及源码解析 https://studygolang.com/articles/25971
