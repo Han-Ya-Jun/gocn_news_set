@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-12
+- 1. 为什么我们使用 Go 而不是 Python 开发机器学习基础设施 https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76
+- 2. 在 Go 中多路复用 channel https://katcipis.github.io/blog/mux-channels-go/
+- 3. Go 是如何回收 Goroutine 的 https://medium.com/a-journey-with-go/go-how-does-go-recycle-goroutines-f047a79ab352
+- 4. 6 个 Go 安全方面的最佳实践 https://blog.sqreen.com/top-6-security-best-practices-for-go/
+- 5. Go time 包的测试友好型替代方案 timex https://github.com/cabify/timex
+
+
 ## go语言中文网(每日资讯)_2020-01-11
 一、Go语言中文网
 
