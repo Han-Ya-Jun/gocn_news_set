@@ -4,6 +4,44 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-12
+一、Go语言中文网
+
+1.[Go语言爱好者周刊：第 25 期](https://mp.weixin.qq.com/s/Z775sif1iU4esaGJBm6cjw)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 113天）](https://mp.weixin.qq.com/s/ayvWKEEFoYzuAOSYTkjgaQ)
+
+3.[Go 刷 LeetCode 系列：滑动窗口（5）无重复字符的最长子串](https://mp.weixin.qq.com/s/t12FJRrvVNjn5IdU76E8WQ)
+
+4.[Go 语言并发编程系列（四）— 协程通信实现之消息传递篇](https://mp.weixin.qq.com/s/I7TAgsmLjVLqnBKo7HtAtQ)
+
+二、非常程序员
+
+1.[老弟在吗，我怀疑Go标准库中的二分查找有bug！](https://mp.weixin.qq.com/s/LxkHgenQS9l0i3-OWetFuQ)
+
+三、云时代架构
+
+1.[真.架构实践宝典 - 一文囊括中国各大互联网技术架构演进（收藏版）](https://mp.weixin.qq.com/s/qFZ1Dy-0JmrffEJFoBSgkw)
+
+四、明哥的江湖
+
+1.[职场007：怎样阅读代码](https://mp.weixin.qq.com/s/SnLoYQ184967EHIb9xcrZQ)
+
+五、Go语言爱好者周刊精选
+
+1.[Goroutine leak detector](https://github.com/uber-go/goleak)
+
+2.[Go的内存对齐和指针运算详解和实践](https://mp.weixin.qq.com/s/1yAmMHvbX-jbsvANRwsA_A)
+
+3.[channel的使用及源码解析](https://studygolang.com/articles/25971)
+
+4.[Reflect-Go一分钟快速入门](https://studygolang.com/articles/25982)
+
+5.[Kubernetes 相关优秀工具列表](https://docs.google.com/spreadsheets/d/1WPHt0gsb7adVzY3eviMK2W8LejV0I5m_Zpc8tMzl_2w/edit#gid=0)
+
+
+
+
 ## gocn_news_2020-01-12
 - 1. 为什么我们使用 Go 而不是 Python 开发机器学习基础设施 https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76
 - 2. 在 Go 中多路复用 channel https://katcipis.github.io/blog/mux-channels-go/
