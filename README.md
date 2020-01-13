@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-13
+- 1. 如何使用Go工具优化我们的DNS服务器 https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709
+- 2. 在 Go 中的 ORM 和查询构建 https://mp.weixin.qq.com/s/RQJZUqcFvrNoqPerfRnr7A
+- 3. 【Golang 源码包分析】01 net/http包 https://mp.weixin.qq.com/s/EuucDt5yVjnXHXmmfhT_vQ
+- 4. Go 和 resumablejs 的集成 https://medium.com/@kariukidennisde/resumeable-uploads-in-go-lang-469c5c3590f5
+- 5. 理解 Golang 子进程测试 https://juejin.im/post/5e19309c5188254c45778617GopherChina 2020 讲师申请：https://wj.qq.com/s2/4339920/9b5e
+
+
 ## go语言中文网(每日资讯)_2020-01-12
 一、Go语言中文网
 
