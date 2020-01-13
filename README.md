@@ -4,6 +4,21 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-13
+### 一、Go语言中文网
+
+1.[大神是如何学习 Go 语言之反射的实现原理](https://mp.weixin.qq.com/s/5vlm0mAstKrC8786g23gkg)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 114 天）](https://mp.weixin.qq.com/s/kcCdqUP6bBv4py0qA2_w4g)
+
+3.[Go 语言并发编程系列（五）— 通道类型篇：基本语法和缓冲通道](https://mp.weixin.qq.com/s/NfKT8bLjd0z_Wkf1MkgXMQ)
+
+4.[Go 刷 LeetCode 系列：滑动窗口（6）替换后的最长重复字符](https://mp.weixin.qq.com/s/Ui9CUDTsG8YRO44o3-wWwQ)
+
+### 二、MoeLove
+
+1.[K8S 生态周报| Istio v1.4.3 发布](https://mp.weixin.qq.com/s/oEF4Hv-ke1KIqIBzn1MStw)
+
 ## gocn_news_2020-01-13
 - 1. 如何使用Go工具优化我们的DNS服务器 https://medium.com/@arash.cordi/how-we-optimized-our-dns-server-using-go-tools-d753e1a5e709
 - 2. 在 Go 中的 ORM 和查询构建 https://mp.weixin.qq.com/s/RQJZUqcFvrNoqPerfRnr7A
