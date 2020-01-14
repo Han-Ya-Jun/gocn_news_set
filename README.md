@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-14
+- 1. 编写 Go API Client 最佳实践: https://blog.gopheracademy.com/advent-2019/api-clients-humans/
+- 2. 如何用 Go 和 React.js 开发 macOS 应用：https://dev.to/koddr/how-to-create-a-native-macos-app-on-go-golang-and-react-js-with-full-code-protection-part-1-463k
+- 3. Go 编写的 shell 工具：https://github.com/sqshq/sampler
+- 4. 2020年编程语言的发展方向: https://www.oreilly.com/radar/where-programming-languages-are-headed-in-2020/ 
+- 5. 2019年 Go 读者点击最多的十篇文章: https://colobu.com/2020/01/07/Top-Go-Links-of-2019/* GopherChina 2020 讲师申请：https://wj.qq.com/s2/4339920/9b5e* 
+
+
 ## go语言中文网(每日资讯)_2020-01-13
 ### 一、Go语言中文网
 
