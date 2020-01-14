@@ -4,6 +4,39 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-14
+一、Go语言中文网
+
+1.[使用 Go 和 ReactJS 构建聊天系统（前言）](https://mp.weixin.qq.com/s/qg-hrRTDCw5hxaXY3OoFtw)
+
+2.[使用 Go 和 ReactJS 构建聊天系统（一）：初始化项目](https://mp.weixin.qq.com/s/yA7hbOohgJzaWvMFsRAMBQ)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 115天）](https://mp.weixin.qq.com/s/Y25uXQd4No68Sk5-8DNTcQ)
+
+3.[Go 语言并发编程系列（六）— 通道类型篇：单向通道及其使用](https://mp.weixin.qq.com/s/N7kN2fyOrwd01ASPqTPWNA)
+
+4.[Go modules：版本是如何选择的？](https://mp.weixin.qq.com/s/zX5KLxsRPox_64DJ7KApWg)
+
+二、互联网技术窝
+
+1.[图解Golang的GC算法](https://mp.weixin.qq.com/s/veSsyIpBME9H67gBpQUw_Q)
+
+三、容器时代
+
+1.[从零开始入门 K8s | 调度器的调度流程和算法介绍](https://mp.weixin.qq.com/s/gTvRIhaR9OMypzbVZdkaig)
+
+四、21天大棚
+
+1.[图解kubernetes调度器SchedulerCache核心源码实现](https://mp.weixin.qq.com/s/wYFQ9OHcWpNWEO8eyis8cg)
+
+五、我的小碗汤
+
+1.[我们为什么会删除不了集群的 Namespace？让我们一起一步步排查根因](https://mp.weixin.qq.com/s/wFSWFzzC6qX3D5QY-EuBMA)
+
+六、极客日常
+
+1.[Kubernetres 疑难杂症排查分享：神秘的溢出与丢包](https://mp.weixin.qq.com/s/I5Y8TbCSUS2A-5C2NZwSnw)
+
 ## gocn_news_2020-01-14
 - 1. 编写 Go API Client 最佳实践: https://blog.gopheracademy.com/advent-2019/api-clients-humans/
 - 2. 如何用 Go 和 React.js 开发 macOS 应用：https://dev.to/koddr/how-to-create-a-native-macos-app-on-go-golang-and-react-js-with-full-code-protection-part-1-463k
