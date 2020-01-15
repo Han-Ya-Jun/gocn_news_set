@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-15
+### 一、Go语言中文网
+
+1.[使用 Go 和 ReactJS 构建聊天系统（二）：gorilla/websocket 包提供的 WebSockets](https://mp.weixin.qq.com/s/lRhq4BLz8zXarC06OcBFzQ)
+
+2.[为什么 Redis 选择单线程模型](https://mp.weixin.qq.com/s/sa3aBfqmXlp8ta546E7lBw)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第116 天）](https://mp.weixin.qq.com/s/FWG1XTzBJXngSvQDVBfhZA)
+
+4.[Go 语言并发编程系列（七）— 通道类型篇：select 语句及其使用](https://mp.weixin.qq.com/s/JZ3cxa64-QkHbUlZUWtCtw)
+
+5.[Go 刷 LeetCode 系列：滑动窗口（7）最小覆盖子串](https://mp.weixin.qq.com/s/I0nk1yGxqAwZLwE4_U08iw)
+
+### 二、容器时代
+
+1.[从零开始入门 K8s | GPU 管理和 Device Plugin 工作机制](https://mp.weixin.qq.com/s/kuUEylLLzFz1TnL1LWImPg)
+
+### 三、火丁笔记
+
+1.[Go语言爱好者周刊：第 25 期](https://mp.weixin.qq.com/s/TwWypva41cAer-ELsw9svA)
+
+### 四、21天大棚
+
+1.[图解kubernetes调度器ScheduleAlgorithm核心实现学习框架设计](https://mp.weixin.qq.com/s/DwZEufHmfiAA2zAS1DYSig)
+
+### 五、互联网技术窝
+
+1.[图解Go的channel底层原理](https://mp.weixin.qq.com/s/gdyYcUpHCTqkyCEx2HLrJg)
+
 ## gocn_news_2020-01-15
 - 1. 理解并设计一个基础的日志系统 https://medium.com/@adeshinaHH/understanding-and-designing-logging-system-in-go-application-c85a28bb8526
 - 2. 使用Docker Compose搭建一个全堆栈开发环境 https://medium.com/better-programming/get-a-full-stack-development-environment-ready-with-docker-compose-b88d4a56a7f2
