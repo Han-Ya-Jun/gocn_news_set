@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-15
+- 1. 理解并设计一个基础的日志系统 https://medium.com/@adeshinaHH/understanding-and-designing-logging-system-in-go-application-c85a28bb8526
+- 2. 使用Docker Compose搭建一个全堆栈开发环境 https://medium.com/better-programming/get-a-full-stack-development-environment-ready-with-docker-compose-b88d4a56a7f2
+- 3. net/http上制作一个中间件 https://dev.to/human/to-the-point-http-middleware-in-go-with-net-http-part-1-5b3l
+- 4. Go 中锁的那些姿势，估计你不知道 https://learnku.com/articles/39577
+- 5. Go之灵活的slice https://mp.weixin.qq.com/s/r3ZJVdq0dTkA1xHinIVLUAGopherChina 2020 讲师申请：https://wj.qq.com/s2/4339920/9b5e
+
+
 ## go语言中文网(每日资讯)_2020-01-14
 一、Go语言中文网
 
