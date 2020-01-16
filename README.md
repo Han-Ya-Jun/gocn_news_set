@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-16
+### 一、Go语言中文网
+
+1.[使用 Go 和 ReactJS 构建聊天系统（三）：前端实现](https://mp.weixin.qq.com/s/-RW8chP_1lef4miA6GxWnw)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 117 天）](https://mp.weixin.qq.com/s/8DA5Tfm-tt1ShQUmWv1_PA)
+
+3.[大神是如何学习 Go 语言之为什么使用通信来共享内存](https://mp.weixin.qq.com/s/C7MzcJFzSvuJJXx_y-_0jw)
+
+4.[Go 语言并发编程系列（八）— 通道类型篇：错误和异常处理](https://mp.weixin.qq.com/s/GEtwFnyXH5o1FZj4WRjbug)
+
+### 二、学院君的后花园
+
+1.[Laravel 6.11 版本发布，优化了 Redis 多频道广播逻辑](https://mp.weixin.qq.com/s/wFJll3hSPkOo8mYgkDWZwQ)
+
+### 三、火丁笔记
+
+1.[关于 OpenResty Cosocket 的 socket busy 报错](https://mp.weixin.qq.com/s/Gssv7OFoL9epBAmSgfGZ2g)
+
+2.[花椒服务端4个 Go 开源项目介绍](https://mp.weixin.qq.com/s/IcBbLCmGXMQtktUVs0jY4g)
+
+### 四、互联网技术窝
+
+1.[图解Go select语句原理](https://mp.weixin.qq.com/s/3ydfo6bscMQTmKUYUI8apg)
+
 ## go语言中文网(每日资讯)_2020-01-15
 ### 一、Go语言中文网
 
