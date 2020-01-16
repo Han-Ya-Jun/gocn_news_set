@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-16
+- 1. 探究sync.Mutex代码流程细节 https://juejin.im/post/5e1d8723f265da3e0535ef0c
+- 2. Go如何暂停世界 https://medium.com/a-journey-with-go/go-how-does-go-stop-the-world-1ffab8bc8846
+- 3. 图解kubernetes调度器ScheduleAlgorithm核心实现学习框架设计 https://juejin.im/post/5e1e7d75f265da3e3b5c5417
+- 4. 我怀疑Go标准库中的二分查找有bug！ https://pengrl.com/p/20011
+- 5. for的所有形式 https://medium.com/golangspec/for-statement-and-its-all-faces-in-golang-abcbdc011f81GopherChina 2020 讲师申请：https://wj.qq.com/s2/4339920/9b5e
+
+
 ## go语言中文网(每日资讯)_2020-01-16
 ### 一、Go语言中文网
 
