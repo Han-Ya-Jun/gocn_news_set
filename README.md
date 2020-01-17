@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-17
+### 一、Go语言中文网
+
+1.[使用 Go 和 ReactJS 构建聊天系统（四）：处理多客户端](https://mp.weixin.qq.com/s/tiQ4WlC_Z0ywyaFabKaxpQ)
+
+2.[为什么 TCP 建立连接需要三次握手](https://mp.weixin.qq.com/s/ICd34oKgxIFzcSwIHvsCQQ)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 118 天）](https://mp.weixin.qq.com/s/muYr7RvhCXS5bqMVud1hOw)
+
+4.[Go 语言并发编程系列（九）— 利用多核 CPU 实现并行计算](https://mp.weixin.qq.com/s/XGr6bxW7Ydavr3_5D6EPLQ)
+
+5.[Go 刷 LeetCode 系列：滑动窗口（8）滑动窗口最大值](https://mp.weixin.qq.com/s/le22DDZbOxo3gMExLPMZyA)
+
+### 二、21天大棚
+
+1.[图解kubernetes调度器预选设计实现学习](https://mp.weixin.qq.com/s/hdYXE1U0fxRfvZAnPN8fLA)
+
+### 三、互联网技术窝
+
+1.[图解各路分布式ID生成算法](https://mp.weixin.qq.com/s/s1JUDwD50PZ34e7UsVdGWA)
+
+### 四、FreeBuf
+
+1.[Go语言代码安全审计分享](https://mp.weixin.qq.com/s/8Ju05hYCYk6bOgkvjtP11A)
+
 ## gocn_news_2020-01-16
 - 1. 探究sync.Mutex代码流程细节 https://juejin.im/post/5e1d8723f265da3e0535ef0c
 - 2. Go如何暂停世界 https://medium.com/a-journey-with-go/go-how-does-go-stop-the-world-1ffab8bc8846
