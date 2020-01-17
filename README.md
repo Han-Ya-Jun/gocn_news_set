@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-17
+- 1.  消息队列rabbitmq的五种工作模式（go语言版本）https://www.cnblogs.com/-wenli/p/1220320
+- 2.html2.  Golang最强大的访问控制框架casbin全解析 https://www.cnblogs.com/yjf512/p/12200206.html
+- 3.  Go 每日一库之 go-ini https://juejin.im/post/5e1f9953e51d450209730323
+- 4.  图解kubernetes调度器预选设计实现学习 https://juejin.im/post/5e2033ee6fb9a02fc31de120
+- 5.  从零开始入门 K8s | GPU 管理和 Device Plugin 工作机制 https://mp.weixin.qq.com/s/kuUEylLLzFz1TnL1LWImPgGopherChina 2020 讲师申请：https://wj.qq.com/s2/4339920/9b5e
+
+
 ## go语言中文网(每日资讯)_2020-01-17
 ### 一、Go语言中文网
 
