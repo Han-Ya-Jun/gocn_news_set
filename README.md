@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-18
+- 1. Golang异步并发模式 https://madeddu.xyz/posts/go-async-await/
+- 2. 使用go channels实现发布订阅 https://eli.thegreenplace.net/2020/pubsub-using-channels-in-go/
+- 3. Go net.DialContext()如何停止退出 https://utcc.utoronto.ca/~cks/space/blog/programming/GoDialCancellationHow
+- 4. Golang官方工具mock接口 https://segmentfault.com/a/1190000021613786
+- 5. Go语言程序设计读书笔记-反射 https://segmentfault.com/a/1190000021611575* GopherChina 2020 讲师申请：https://wj.qq.com/s2/4339920/9b5e
+
+
 ## gocn_news_2020-01-17
 - 1.  消息队列rabbitmq的五种工作模式（go语言版本）https://www.cnblogs.com/-wenli/p/1220320
 - 2.html2.  Golang最强大的访问控制框架casbin全解析 https://www.cnblogs.com/yjf512/p/12200206.html
