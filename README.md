@@ -4,6 +4,33 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-18
+### 一、Go语言中文网
+
+1.[使用 Go 和 ReactJS 构建聊天系统（五）：优化前端](https://mp.weixin.qq.com/s/aqubuzDVKQMENiM7lTnh3A)
+
+2.[值得收藏系列之通过问题学习 Go GC](https://mp.weixin.qq.com/s/Po8CeR6x6IBQh9XD7jE31w)
+
+3.[一起攻克面试难关：Go 面试每天一篇（第 119 天）](https://mp.weixin.qq.com/s/1uj2Dux2YpJiRQ-iPeUSHA)
+
+4.[Go 语言并发编程系列（十）— sync 包系列：互斥锁和读写锁](https://mp.weixin.qq.com/s/0p1IyoDrCV2Po0x4uWjuPg)
+
+### 二、21天大棚
+
+1.[图解kubernetes服务打散算法的实现源码](https://mp.weixin.qq.com/s/nzebFxoQrN4-PoNhiF0ALg)
+
+### 三、互联网技术窝
+
+1.[Go错题册(一)](https://mp.weixin.qq.com/s/4cmcM9YrUQfrdCxCjFEOqg)
+
+### 四、非常程序员
+
+1.[聊聊base64编码](https://mp.weixin.qq.com/s/1G9v0ysUBK0VLAFzYMIp3A)
+
+### 五、GoUpUp
+
+1.[Go 每日一库之 go-flags](https://mp.weixin.qq.com/s/8vS_7kl_R9buMxxgqBMOHg)
+
 ## gocn_news_2020-01-18
 - 1. Golang异步并发模式 https://madeddu.xyz/posts/go-async-await/
 - 2. 使用go channels实现发布订阅 https://eli.thegreenplace.net/2020/pubsub-using-channels-in-go/
