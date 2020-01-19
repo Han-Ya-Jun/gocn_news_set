@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-19
+一、Go语言中文网
+
+1.[Go语言爱好者周刊：第 26 期](https://mp.weixin.qq.com/s/5iH19f1WpkzuOuTxIvumyg)
+
+2.[为什么你应该使用 Git 进行版本控制](https://mp.weixin.qq.com/s/c51pfbkJfbf1bf_2sSKCHw)
+
+2.[一起攻克面试难关：Go 面试每天一篇（第 120天）](https://mp.weixin.qq.com/s/0DSJovhpSLaB6y5aWTnSvg)
+
+3.[Go 语言并发编程系列（十一）— sync 包系列：条件变量](https://mp.weixin.qq.com/s/8C04Y8S_PwP-sArW9zIxOA)
+
+4.[Go 刷 LeetCode 系列：链表（1）交换旋转](https://mp.weixin.qq.com/s/5j-_m7AEYNrlLMMASEBmiw)
+
+二、互联网技术窝
+
+1.[Go错题册(二)](https://mp.weixin.qq.com/s/0XzQ6UlV30e0ShkWI2uNvA)
+
+三、Golang来啦
+
+1.[再见 2019，你好 2020](https://mp.weixin.qq.com/s/1tdCcDzSE5fH7dx4t5Sf8A)
+
+四、QCon 软件开发大会
+
+1.[饿了么监控体系的演进](https://myslide.cn/slides/21832)
+
+五、GoUpUp
+
+1.[Go 每日一库之 go-homedir](https://mp.weixin.qq.com/s/S4Kx5huRQIykDojMiAldDg)
+
 ## gocn_news_2020-01-19
 - 1. gout:Golang流式http client https://github.com/guonaihong/gout
 - 2. goroutine与并发模型 https://segmentfault.com/a/1190000021616327
