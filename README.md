@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-19
+- 1. gout:Golang流式http client https://github.com/guonaihong/gout
+- 2. goroutine与并发模型 https://segmentfault.com/a/1190000021616327
+- 3. 使用GoChannel及Goroutine時機 https://blog.wu-boy.com/2020/01/when-to-use-go-channel-and-goroutine
+- 4. 生产环境动态输出日志级别、文件 https://mp.weixin.qq.com/s/-5XKM7Cq7xhGY4d50QywIg
+- 5. 深入剖析Kafka https://mp.weixin.qq.com/s/CMPlIDl5RIIBVsvpKw_w9Q
+
+
 ## go语言中文网(每日资讯)_2020-01-18
 ### 一、Go语言中文网
 
