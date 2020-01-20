@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-20
+- 1. Go语言代码安全审计分享 https://mp.weixin.qq.com/s/8Ju05hYCYk6bOgkvjtP11A
+- 2. 详解 Samaritan——饿了么最新开源的透明代理 https://mp.weixin.qq.com/s/k_u84L5-Ws7v8RY8aIrlQw
+- 3. 一个调试Goroutine泄漏调试的例子 https://medium.com/@alenkacz/an-example-of-a-goroutine-leak-and-how-to-debug-one-a0697cf677a3
+- 4. gimu：一个Go的新UI框架 https://github.com/AllenDang/gimu
+- 5. Go教程合集 https://github.com/TutorialEdge/go* 
+
+
 ## go语言中文网(每日资讯)_2020-01-20
 一、GoUpUp
 
