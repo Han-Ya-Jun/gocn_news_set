@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-21
+- 1. Go与算法在线教程 https://algorithmswithgo.com/
+- 2. 如果成为优秀的软件架构师 https://github.com/justinamiller/SoftwareArchitect
+- 3. Go项目中使用环境变量 https://towardsdatascience.com/use-environment-variable-in-your-next-golang-project-39e17c3aaa66
+- 4. 编写高性能Go微服务的7个技巧 https://medium.com/@jake0malay3/7-tips-on-how-to-write-kick-ass-high-performance-golang-microservices-9f71d4c67a0a
+- 5. 类Express的Go Web框架 fiber https://github.com/gofiber/fiber- 
+
+
 ## gocn_news_2020-01-20
 - 1. Go语言代码安全审计分享 https://mp.weixin.qq.com/s/8Ju05hYCYk6bOgkvjtP11A
 - 2. 详解 Samaritan——饿了么最新开源的透明代理 https://mp.weixin.qq.com/s/k_u84L5-Ws7v8RY8aIrlQw
