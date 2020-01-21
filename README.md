@@ -4,6 +4,29 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-21
+一、GoUpUp
+
+1.[Go 每日一库之 cobra](https://mp.weixin.qq.com/s/lSJp0m2y0drNNcQfMHONmg)
+
+二、互联网技术窝
+
+1.[动图了解I/O多路复用](https://mp.weixin.qq.com/s/5ieJa_BqhDLehlrMoBOQtg)
+
+三、CSDN
+
+1.[如何排查 Kubernetes 的内存增长问题？](https://mp.weixin.qq.com/s/EY8wJJe_07y_SxOzX-zCgw)
+
+四、InfoQ
+
+1.[Service Mesh 浅析：从概念、产品到实践](https://mp.weixin.qq.com/s/DDz0gbB_PRrmHHDpBTmR-A)
+
+五、架构算法
+
+1.[OKR还是集权制？750亿美金字节跳动的成长秘密](https://mp.weixin.qq.com/s/l27JvsMM9jFK3apdotXgqg)
+
+
+
 ## gocn_news_2020-01-21
 - 1. Go与算法在线教程 https://algorithmswithgo.com/
 - 2. 如果成为优秀的软件架构师 https://github.com/justinamiller/SoftwareArchitect
