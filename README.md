@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-22
+一、Go语言中文网
+
+1.[使用 Go 和 ReactJS 构建聊天系统（六）：Docker 部署](https://mp.weixin.qq.com/s/OCMCOUcIFIPFTVbXJVRuXg)
+
+2.[图解Go里面的WaitGroup了解编程语言核心实现源码](https://mp.weixin.qq.com/s/HUqTC6i7aSUBVq0bsqfQXw)
+
+3.[Go 语言并发编程系列（十二）— sync 包系列：原子操作](https://mp.weixin.qq.com/s/H37OE01OfG0787OBaOBzSA)
+
+4.[花椒服务端4个开源项目介绍](https://mp.weixin.qq.com/s/QszRNbD6NdJRTnvQ1Vaq2g)
+
+5.[Golang 最强大的访问控制框架 casbin 全解析](https://mp.weixin.qq.com/s/Bkrx5mpCukUBpCfsBzQuXA)
+
+二、非常程序员
+
+1.[聊聊c语言的flexible array member](https://mp.weixin.qq.com/s/Lo2QNrb9PNxemz9bCMLWxQ)
+
+三、GoUpUp
+
+1.[Go 每日一库之 viper](https://mp.weixin.qq.com/s/aJXfnxi4X0kiUoTbWNLr3A)
+
+
+
+
 ## gocn_news_2020-01-22
 - 1. Go 语言标准库中 atomic.Value 的前世今生 https://blog.betacat.io/post/golang-atomic-value-exploration/
 - 2. 一个智能、高效、开箱即用、可定制，适用于Gin和net/http的gzip中间件 https://github.com/nanmu42/gzip
