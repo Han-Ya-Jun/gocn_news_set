@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-22
+- 1. Go 语言标准库中 atomic.Value 的前世今生 https://blog.betacat.io/post/golang-atomic-value-exploration/
+- 2. 一个智能、高效、开箱即用、可定制，适用于Gin和net/http的gzip中间件 https://github.com/nanmu42/gzip
+- 3. 使用Go，QUIC和Micro建立全球服务网络 https://micro.mu/blog/2019/12/05/building-a-microservices-network.html
+- 4. 从Golang源或目录生成PlantUML图 https://github.com/bykof/go-plantuml
+- 5. 用于golang的类型安全的Prometheus指标构建器库 https://github.com/cabify/gotoprom
+
+
 ## go语言中文网(每日资讯)_2020-01-21
 一、GoUpUp
 
