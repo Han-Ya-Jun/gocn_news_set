@@ -4,6 +4,37 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-23
+一、Go语言中文网
+
+1.[2020 新春流行的RPC框架性能大比拼](https://mp.weixin.qq.com/s/OogBBA8MPGhyhe2ny2WfLw)
+
+2.[漫画：排序数组删除重复元素（leetcode 26）](https://mp.weixin.qq.com/s/T254utw4efpux2Qu2IIRhg)
+
+3.[Go 语言并发编程系列（十三）— sync 包系列：sync.WaitGroup 和 sync.Once](https://mp.weixin.qq.com/s/TuWl1R56DyQSeIHgOT1w5w)
+
+4.[图解Go里面的sync.Map了解编程语言核心实现源码](https://mp.weixin.qq.com/s/lZjU7Yon3o3CiHD5TB3gJw)
+
+5.[送分的SQL题很多人却做不出来？](https://mp.weixin.qq.com/s/87C2z0QODbxEEP8-hI8kQw)
+
+二、互联网技术窝
+
+1.[Golang非CSP并发模型外的其他并行方法总结](https://mp.weixin.qq.com/s/mJ81RdwejDfOfSlHRmnWdg)
+
+三、GoUpUp
+
+1.[Go 每日一库之 fsnotify](https://mp.weixin.qq.com/s/ohsjyeCRG0yUkx4ZN9zBDQ)
+
+四、Docker
+
+1.[京东API网关实践之路](https://mp.weixin.qq.com/s/TBgFS0e5GVEpwkje3qlOjQ)
+
+五、阿里巴巴云原生
+
+1.[最全的微服务知识科普](https://mp.weixin.qq.com/s/V-5IW3uZc4FwUyvQOIuLHQ)
+
+
+
 ## gocn_news_2020-01-23
 - 1. Go 中内联延迟 https://rakyll.org/inlined-defers/
 - 2. 为什么我喜欢Go的类型推断 https://utcc.utoronto.ca/~cks/space/blog/programming/GoLimitedTypeInferenceLike
