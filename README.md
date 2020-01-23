@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-23
+- 1. Go 中内联延迟 https://rakyll.org/inlined-defers/
+- 2. 为什么我喜欢Go的类型推断 https://utcc.utoronto.ca/~cks/space/blog/programming/GoLimitedTypeInferenceLike
+- 3. Go 语言学习教程 https://github.com/shaipe/Go-Tutorial
+- 4. Go中的Goroutine负载平衡 https://itnext.io/load-balancing-goroutines-in-go-57e0896c7f86
+- 5. go-systemd 重载配置指令 https://github.com/coreos/go-systemd- 
+
+
 ## go语言中文网(每日资讯)_2020-01-22
 一、Go语言中文网
 
