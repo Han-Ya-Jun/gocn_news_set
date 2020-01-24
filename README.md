@@ -4,6 +4,27 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-24
+一、Go语言中文网
+
+1.[有趣实验: hack go interface](https://mp.weixin.qq.com/s/_Th5plNZa5LwINExKrMcCw)
+
+2.[漫画：删除链表倒数第N个节点](https://mp.weixin.qq.com/s/2Dkya-ero86I4RTSN2xpqA)
+
+3.[Go 语言并发编程系列（十四）—— 通过 context 包实现多协程之间的协作](https://mp.weixin.qq.com/s/lU1Zell62BDbEPl46DI9UQ)
+
+4.[《Go 语言程序设计》读书笔记 （一）基础类型和复合类型](https://mp.weixin.qq.com/s/aBKGGEolImVi7NTHm55Idw)
+
+5.[LVS 工作原理图文讲解，非常详细！](https://mp.weixin.qq.com/s/cUtYJrxCSNWx0D12LyVDRA)
+
+二、互联网技术窝
+
+1.[图解redis五种数据结构底层实现(动图哦)](https://mp.weixin.qq.com/s/eNGpPgP_l5GvsyUaa7ZKpg)
+
+三、架构真经
+
+1.[17 个方面，综合对比 Kafka、RabbitMQ、RocketMQ、ActiveMQ 四个分布式消息队列](https://mp.weixin.qq.com/s/uv7BDFNjMXDdhrS4CEHTfw)
+
 ## gocn_news_2020-01-24
 - 1. gomobile现已支持Go modules https://github.com/golang/go/issues/27234#issuecomment-577481562
 - 2. Go HTTP请求timeout入门讲解 https://itnext.io/http-request-timeouts-in-go-for-beginners-fe6445137c90
