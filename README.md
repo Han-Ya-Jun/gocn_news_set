@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-24
+- 1. gomobile现已支持Go modules https://github.com/golang/go/issues/27234#issuecomment-577481562
+- 2. Go HTTP请求timeout入门讲解 https://itnext.io/http-request-timeouts-in-go-for-beginners-fe6445137c90
+- 3. Go 图像处理 https://medium.com/mop-developers/image-processing-in-go-5ba9a9043bc2
+- 4. Go 高级测试之Mocks https://medium.com/@tiago.queiroz/advanced-testing-in-golang-part-1-mocks-a2521591f599
+- 5. termenv: 终端高级ANSI样式和颜色支持库 https://github.com/muesli/termenv
+
+
 ## go语言中文网(每日资讯)_2020-01-23
 一、Go语言中文网
 
