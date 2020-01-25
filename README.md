@@ -4,6 +4,23 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-25
+一、Go语言中文网
+
+1.[新年快乐，文末送红包祝福 | Go 实现百万 WebSocket 连接](https://mp.weixin.qq.com/s/nukISdSBwnaCKeQSxep8dg)
+
+2.[为什么 DNS 使用 UDP 协议](https://mp.weixin.qq.com/s/x_lE2zhvD8pZjmHdWEZXEQ)
+
+3.[图解Go语言的context了解编程语言核心实现源码](https://mp.weixin.qq.com/s/UjZDR4MKj_gZfYzNjj4-mQ)
+
+4.[Go 刷 LeetCode 系列：链表(2) 删除重复元素](https://mp.weixin.qq.com/s/zr9mYdqedC7oOBfnVqnVeQ)
+
+5.[Go 语言并发编程系列（十五）— sync 包系列：sync.Pool](https://mp.weixin.qq.com/s/nMF5qGQ-JDs5kmDzYuDPgg)
+
+二、互联网技术窝
+
+1.[图解字符编码](https://mp.weixin.qq.com/s/cuCw07An8GqTdunGxBRUJw)
+
 ## gocn_news_2020-01-25
 - 1. 新Golang开发人员的陷阱、常见错误 http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang
 - 2. Go知识至上之战 https://go-battle.net/battle/disastrous-wombat-3-ef29
