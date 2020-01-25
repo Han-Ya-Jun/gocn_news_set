@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-25
+- 1. 新Golang开发人员的陷阱、常见错误 http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang
+- 2. Go知识至上之战 https://go-battle.net/battle/disastrous-wombat-3-ef29
+- 3. 用一个生产与消费例子学习go语言中goroutine，channel，select，time https://studygolang.com/articles/26266
+- 4. x/vgo：go.mod格式不应采用定制语法 https://github.com/golang/go/issues/23966
+- 5. Squzy是一个用Golang编写的高性能开源监控系统 https://github.com/squzy/squzy
+
+
 ## go语言中文网(每日资讯)_2020-01-24
 一、Go语言中文网
 
