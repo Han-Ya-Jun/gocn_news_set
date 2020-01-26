@@ -4,6 +4,23 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-26
+一、Go语言中文网
+
+1.[Go语言爱好者周刊：第 27 期](https://mp.weixin.qq.com/s/Mb-8quXiBWaXQauHyOPdjw)
+
+2.[为什么使用 MD5 存储密码非常危险](https://mp.weixin.qq.com/s/ojyqb7y8399lHnRDhBSB2Q)
+
+3.[Go 语言网络编程系列（一）— Socket 编程入门：Dial 函数及其使用](https://mp.weixin.qq.com/s/IDpxV3aQRmpr1DcAa9a6Mw)
+
+4.[图解 kubernetes scheduler 源码设计系列-初步了解](https://mp.weixin.qq.com/s/LijwxVKGAnfyN5do3TE1vA)
+
+5.[Go 刷 LeetCode 系列：链表(3)反转链表](https://mp.weixin.qq.com/s/1Hn4b7yFU3GTWKfDHjWZEg)
+
+二、分布式实验室
+
+1.[构建生产就绪的Kubernetes集群的16点清单](https://mp.weixin.qq.com/s/nwRh4lP_Zy-Tag1Ufdx3qA)
+
 ## go语言中文网(每日资讯)_2020-01-25
 一、Go语言中文网
 
