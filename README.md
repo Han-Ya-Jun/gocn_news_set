@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-26
+- 1. Go 算法入门 https://algorithmswithgo.com/
+- 2. 我们如何在Rockset上实时分析和可视化Kubernetes事件 https://segmentfault.com/a/1190000021648145
+- 3. 清晰架构（Clean Architecture）的Go微服务: 事物管理 https://segmentfault.com/a/1190000021638990
+- 4. 容器漏洞静态检测器 https://github.com/quay/clair
+- 5. 一些ops实战经验 https://www.netmeister.org/blog/ops-lessons.html- 
+
+
 ## go语言中文网(每日资讯)_2020-01-26
 一、Go语言中文网
 
