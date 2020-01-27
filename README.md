@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-27
+- 1. 使用 IPFS Cluster 构建 Twitter 机器人 https://medium.com/coinmonks/building-a-twitter-bot-using-ipfs-cluster-9f630dd3858a
+- 2. Golang 服务大量 CLOSE_WAIT 故障排查 https://www.cnblogs.com/wangiqngpei557/p/1223411
+- 5.html
+- 3. Go 程序性能分析 101 https://juejin.im/post/5e2c45d65188254db85f0657
+- 4. asynq：一个由 Go 开发的轻量级的异步定时任务系统 https://juejin.im/post/5e2d02c15188252c6d368f525. 一个用于运行不可信代码的沙箱 https://github.com/hobochild/sandy- 
+
+
 ## gocn_news_2020-01-26
 - 1. Go 算法入门 https://algorithmswithgo.com/
 - 2. 我们如何在Rockset上实时分析和可视化Kubernetes事件 https://segmentfault.com/a/1190000021648145
