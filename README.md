@@ -4,6 +4,29 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-27
+一、Go语言中文网
+
+1.[Go 语言 <-time.After() 在计时器过期前不会被垃圾回收](https://mp.weixin.qq.com/s/bJhVPEF0Ek7khYFUw6PSSQ)
+
+2.[喜欢写文章的推荐阅读：技术文章配图指南](https://mp.weixin.qq.com/s/bNJV2ywFgfuG7NXD_dycVw)
+
+3.[漫画：删除链表倒数第N个节点（修改版）](https://mp.weixin.qq.com/s/WGiAD3df74k6LSUVmieitA)
+
+4.[Go 语言网络编程系列（二）— Socket 编程入门：Dial 函数底层实现及超时处理](https://mp.weixin.qq.com/s/uf96y7sMMQw6FGCPBqohIA)
+
+5.[介绍一个超好用的orm库gorm](https://mp.weixin.qq.com/s/u2rZ5Jxk2jXSQoluUjYicg)
+
+二、MoeLove
+
+1.[K8S 生态周报| runc v1.0.0-rc10 正式发布](https://mp.weixin.qq.com/s/Wo3GQOczsLeX2o1YBJBrDQ)
+
+三、分布式实验室
+
+1.[一文看懂分布式事务](https://mp.weixin.qq.com/s/s80-8k5t9GoscVU5wiqr1g)
+
+
+
 ## gocn_news_2020-01-27
 - 1. 使用 IPFS Cluster 构建 Twitter 机器人 https://medium.com/coinmonks/building-a-twitter-bot-using-ipfs-cluster-9f630dd3858a
 - 2. Golang 服务大量 CLOSE_WAIT 故障排查 https://www.cnblogs.com/wangiqngpei557/p/1223411
