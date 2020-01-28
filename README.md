@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-28
+一、Go语言中文网
+
+1.[Go: 通过例子学习 Map 的设计 — Part I](https://mp.weixin.qq.com/s/IkMVgGelL3h_wyO8jmFywg)
+
+2.[为什么基础服务不应该高可用](https://mp.weixin.qq.com/s/fdKHo_aubNe0falTWf170w)
+
+3.[图解kubernetes调度器SchedulingQueue核心源码实现](https://mp.weixin.qq.com/s/RtUG_UjdHQS7xDdM_WDNrQ)
+
+4.[Go 语言网络编程系列（三）— HTTP 编程篇：客户端如何发起请求dw](https://mp.weixin.qq.com/s/8qhJEqsMJ-B_VuIvIloQwQ)
+
+5.[漫画：买卖股票系列第一讲](https://mp.weixin.qq.com/s/ipmabzZ2tZXmcmlIhROnFA)
+
+二、深入Go语言
+
+1.[Golang package sync 剖析(一)： sync.Once](https://mp.weixin.qq.com/s/_rp2KAvDeezR7VvQJhXmUg)
+
+2.[Golang package sync 剖析(二)： sync.WaitGroup](https://mp.weixin.qq.com/s/B2xxsPMXylatERFlBV3e1w)
+
+三、PingCAP
+
+1.[PingCAP 的 5 年远程办公实践](https://mp.weixin.qq.com/s/alygC64BnIKbuuxBBZAOxA)
+
+
+
 ## gocn_news_2020-01-28
 - 1. eris: 处理、跟踪和记录Go中错误的更好的办法 https://github.com/rotisserie/eris
 - 2. Brad Fitzpatrick离职谷歌，告别Go语言团队： https://mp.weixin.qq.com/s/NDVHYgj6wenFSZlQvjOoSQ
