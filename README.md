@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-28
+- 1. eris: 处理、跟踪和记录Go中错误的更好的办法 https://github.com/rotisserie/eris
+- 2. Brad Fitzpatrick离职谷歌，告别Go语言团队： https://mp.weixin.qq.com/s/NDVHYgj6wenFSZlQvjOoSQ
+- 3. GNU-Readline 类库的实现：https://github.com/chzyer/readline
+- 4. 为什么数据库会丢失数据：https://draveness.me/whys-the-database->
+- 5. 2020 新春流行的RPC框架性能大比拼 https://colobu.com/2020/01/21/benchmark-2019-spring-of-popular-rpc-frameworks/* 
+
+
 ## go语言中文网(每日资讯)_2020-01-27
 一、Go语言中文网
 
