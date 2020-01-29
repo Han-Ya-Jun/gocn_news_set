@@ -4,6 +4,27 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-29
+一、Go语言中文网
+
+1.[Go: 通过代码学习 Map 的设计 — Part II](https://mp.weixin.qq.com/s/VtQFqEgbKzop08eLtVh4yA)
+
+2.[Docker 核心技术与实现原理](https://mp.weixin.qq.com/s/up3eg4rt7Zxg-mazzkrssw)
+
+3.[漫画：最长公共前缀题解](https://mp.weixin.qq.com/s/bv3ywd__TIO3-iBQBkpHIA)
+
+4.[深入学习用Go编写HTTP服务器](https://mp.weixin.qq.com/s/rvWMt8DHy8o8kZEKratc1Q)
+
+5.[图解kubernetes调度器SchedulerCache核心源码实现](https://mp.weixin.qq.com/s/cPxWAm-Ug1r1GKWb71Aemw)
+
+二、杨建荣的学习笔记
+
+1.[趣头条基于ClickHouse玩转每天1000亿数据量](https://mp.weixin.qq.com/s/6ordV5QMKbzgxF9fxyW5kg)
+
+三、阿里巴巴云原生
+
+1.[合集| 21 篇技术文章，带你从零入门 K8s](https://mp.weixin.qq.com/s/6pS4GesPuRfFw1ly9GUL6Q)
+
 ## gocn_news_2020-01-29
 - 1. sqlc:将SQL查询编译成编译成类型安全的Go代码 https://conroy.org/introducing-sqlc
 - 2. 使用Go扩展python https://dev.to/astagi/extending-python-with-go-1deb
