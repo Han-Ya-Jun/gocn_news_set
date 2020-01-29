@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-29
+- 1. sqlc:将SQL查询编译成编译成类型安全的Go代码 https://conroy.org/introducing-sqlc
+- 2. 使用Go扩展python https://dev.to/astagi/extending-python-with-go-1deb
+- 3. 什么时候使用Go指针 https://medium.com/@kent.rancourt/go-pointers-when-to-use-pointers-4f29256ddff3
+- 4. Go实现百万WebSocket连接 https://mp.weixin.qq.com/s/nukISdSBwnaCKeQSxep8dg
+- 5. 为什么你下一个项目应该选择用Go https://medium.com/softkraft/why-choose-go-for-your-next-project-b4165ef5bef8
+
+
 ## go语言中文网(每日资讯)_2020-01-28
 一、Go语言中文网
 
