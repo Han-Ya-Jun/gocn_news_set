@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-30
+一、Go语言中文网
+
+1.[Go: 并发访问 Map — Part III](https://mp.weixin.qq.com/s/GZ9gnp1UTzSXOiV3-ksj7g)
+
+2.[身份证上的 ID 能保证唯一性么？](https://mp.weixin.qq.com/s/DbJL-dnZAp_w-dNapgAlbg)
+
+3.[漫画：三次反转旋转数组](https://mp.weixin.qq.com/s/PNSb33Bsk0RQqj5Vyj9P3w)
+
+4.[Go 语言网络编程系列（四）— HTTP 编程篇：http.Client 底层实现剖析](https://mp.weixin.qq.com/s/ADvgFNV6sEM0XmJvOgpC3g)
+
+5.[图解kubernetes调度器ScheduleAlgorithm核心实现学习框架设计](https://mp.weixin.qq.com/s/Mw0LEKnwiCfKQDIkg5JpkA)
+
+二、The Go Blog
+
+1.[Proposals for Go 1.15](https://blog.golang.org/go1.15-proposals)
+
+三、IT大咖说
+
+1.[Redis集群的5种使用方式，及各自优缺点对比分析](https://mp.weixin.qq.com/s/mEfsUG2kYG9YoYYXvG0TUw)
+
+四、2020 程序员找工作指南
+
+1.[2020 程序员找工作指南](https://www.yuque.com/docs/share/6c5e7a8c-58a5-49f4-85ba-40ae8507d66c)
+
 ## gocn_news_2020-01-30
 - 1. 内存管理玩法汇总汇 http://qiankunli.github.io/2020/01/28/memory_management.html
 - 2. 解放数据库查询, 写一个 go 的查询构造器 https://www.jianshu.com/p/a5e9c0d16ed8
