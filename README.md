@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-30
+- 1. 内存管理玩法汇总汇 http://qiankunli.github.io/2020/01/28/memory_management.html
+- 2. 解放数据库查询, 写一个 go 的查询构造器 https://www.jianshu.com/p/a5e9c0d16ed8
+- 3. 为什么 Go 语言没有泛型  https://draveness.me/whys-the-design-go-generics
+- 4. go语言并发原理和机制【一】 https://www.jianshu.com/p/18dd9ece6358
+- 5. 饿了么“短平快”创新项目的架构取舍之道 https://mp.weixin.qq.com/s/87SA7FtWfV3XQkOTYQQkww
+
+
 ## go语言中文网(每日资讯)_2020-01-29
 一、Go语言中文网
 
