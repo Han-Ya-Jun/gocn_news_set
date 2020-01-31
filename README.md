@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-01-31
+- 1. go语言并发原理和机制【二】 https://www.jianshu.com/p/c5e892a66929
+- 2. DDD分层架构的三种模式 https://mp.weixin.qq.com/s/BAK4AjupwNW05nPUHRPILw
+- 3. （译）浅谈 Kubernetes 中的服务发现 https://mp.weixin.qq.com/s/hCzfoYVaWq8ux6_1UoRfDw
+- 4. 合集| 21 篇技术文章，带你从零入门 K8s https://mp.weixin.qq.com/s/6pS4GesPuRfFw1ly9GUL6Q
+- 5. 五分钟用Docker快速搭建Go开发环境 https://mp.weixin.qq.com/s/weT6kIQCLPGzHWLyKS7ZVw
+
+
 ## go语言中文网(每日资讯)_2020-01-31
 一、Go语言中文网
 
