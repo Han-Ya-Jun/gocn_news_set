@@ -4,6 +4,27 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-01-31
+一、Go语言中文网
+
+1.[我们应该怎么样编写 Go 语言库，有哪些标准可以参考？](https://mp.weixin.qq.com/s/rWk6zd3vXKaCfyEHyLB0GA)
+
+2.[为什么 MySQL 使用 B+ 树](https://mp.weixin.qq.com/s/s3N_H2NwOJ3FErkIHqUzgA)
+
+3.[漫画：如何合并两个有序链表](https://mp.weixin.qq.com/s/8hsX7DENUd85B-AJkaB1Xg)
+
+4.[Go 语言网络编程系列（五）— HTTP 编程篇：HTTP/HTTPS 请求处理](https://mp.weixin.qq.com/s/lBKCULw1r8FfKrkQ_Fch6A)
+
+5.[五分钟用Docker快速搭建Go开发环境](https://mp.weixin.qq.com/s/weT6kIQCLPGzHWLyKS7ZVw)
+
+二、CoolShell
+
+1.[MEGAEASE的远程工作文化](https://coolshell.cn/articles/20765.html)
+
+三、分布式实验室
+
+1.[DDD分层架构的三种模式](https://mp.weixin.qq.com/s/BAK4AjupwNW05nPUHRPILw)
+
 ## go语言中文网(每日资讯)_2020-01-30
 一、Go语言中文网
 
