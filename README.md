@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-01
+- 1. Go1.15提案 https://blog.golang.org/go1.15-proposals
+- 2. Go sync.Cond剖析 https://segmentfault.com/a/1190000021667053
+- 3. 使用serverless框架更好的部署go服务 https://dev.to/mthenw/a-better-way-of-deploying-go-services-with-serverless-framework-41c4
+- 4. Golang入门-Golang包管理 https://juejin.im/post/5e34e29d5188254df564d3b3
+- 5. 五分钟用Docker快速搭建Go开发环境 https://juejin.im/post/5e324caf6fb9a02fc5575b86
+
+
 ## gocn_news_2020-01-31
 - 1. go语言并发原理和机制【二】 https://www.jianshu.com/p/c5e892a66929
 - 2. DDD分层架构的三种模式 https://mp.weixin.qq.com/s/BAK4AjupwNW05nPUHRPILw
