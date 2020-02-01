@@ -4,6 +4,27 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-01
+一、Go语言中文网
+
+1.[Go 核心团队成员 Brad Fitzpatrick 离开了 Google](https://mp.weixin.qq.com/s/w_wnnIuqRHYOZsre1Kzzeg)
+
+2.[好文值得收藏：GraphQL 在微服务架构中的实践](https://mp.weixin.qq.com/s/ScK8adkw1AjD8WBnQ-s0qA)
+
+3.[漫画：最简单的面试高频题 “加1”](https://mp.weixin.qq.com/s/QGcrCPIxN_c2NDZukepoHw)
+
+4.[图解kubernetes调度器预选设计实现学习](https://mp.weixin.qq.com/s/zDW4YNM0OSYxRvgKBWO72Q)
+
+5.[Go 语言网络编程系列（六）— RPC 编程篇：服务端与客户端 RPC 调用实现](https://mp.weixin.qq.com/s/8rPa1_oq0JdmJFJi9t7Gig)
+
+二、深入Go语言
+
+1.[Golang package sync 剖析(三)：sync.Cond](https://mp.weixin.qq.com/s/aRVHYQkCyHRsjaIWlBJGFw)
+
+三、The Go Blog
+
+1.[Next steps for pkg.go.dev](https://blog.golang.org/pkg.go.dev-2020)
+
 ## gocn_news_2020-02-01
 - 1. Go1.15提案 https://blog.golang.org/go1.15-proposals
 - 2. Go sync.Cond剖析 https://segmentfault.com/a/1190000021667053
