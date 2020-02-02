@@ -4,6 +4,29 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-02
+一、Go语言中文网
+
+1.[Go语言爱好者周刊：第 28 期](https://mp.weixin.qq.com/s/5duV8kNERLTbL6CbysjL8Q)
+
+2.[用Go写算法：求最小可用自然数](https://mp.weixin.qq.com/s/vrQTxLJe-p1IJO_tmGlSQA)
+
+3.[GitLab持续集成在商用项目中的应用实践](https://mp.weixin.qq.com/s/R53eVjQ1KOxL3_gVZFHxtg)
+
+4.[Redis 的快照为什么不会阻塞其他请求？](https://mp.weixin.qq.com/s/UF9PtkmlmqKN-hSQil74oQ)
+
+5.[图解kubernetes基于map/reduce模式实现优选计算](https://mp.weixin.qq.com/s/BkJjx07DW8e3TPUGCPKHEg)
+
+二、真没什么逻辑
+
+1.[调度系统设计精要](https://mp.weixin.qq.com/s/R3BZpYJrBPBI0DwbJYB0YA)
+
+三、图解源码
+
+1.[图解kubernetes调度器SchedulerExtender扩展](https://mp.weixin.qq.com/s/3PBhTrwObLbfbtelEWL4iw)
+
+
+
 ## gocn_news_2020-02-02
 - 1. 调度系统设计精要 https://mp.weixin.qq.com/s/jI2ruzGLZRJmf9H49z3ojA
 - 2. golang实现流量控制操作 https://studygolang.com/articles/26383
