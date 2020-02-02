@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-02
+- 1. 调度系统设计精要 https://mp.weixin.qq.com/s/jI2ruzGLZRJmf9H49z3ojA
+- 2. golang实现流量控制操作 https://studygolang.com/articles/26383
+- 3. GoLang-逃逸分析 https://www.jianshu.com/p/ad9dbc81a0aa
+- 4. 初识Go语言 https://mp.weixin.qq.com/s?__biz=MzI1MzYzMTI2Ng==&mid=2247484335&idx=1&sn=b8cd98f057e59f632875ce6b8230fdca
+- 5. [译]一切系统都是分布式的 https://arthurchiao.github.io/blog/everything-is-distributed-zh- 
+
+
 ## go语言中文网(每日资讯)_2020-02-01
 一、Go语言中文网
 
