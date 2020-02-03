@@ -4,6 +4,25 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-03
+一、Go语言中文网
+
+1.[Go1.14 都还没发布，官方已经准备 Go 1.15 了：它有哪些新东西？](https://mp.weixin.qq.com/s/BWFpV9bkw1wgkP9OEqRMaA)
+
+2.[Go 语言网络编程系列（七）—— RPC 编程篇：默认编解码工具 Gob](https://mp.weixin.qq.com/s/F5Q9mgVs2iELYNYyAV3DXQ)
+
+3.[漫画：LeetCode 题解 — 两数之和](https://mp.weixin.qq.com/s/lmOB693VtANyC4B5sCuq2g)
+
+4.[如何控制Go编码JSON数据时的行为](https://mp.weixin.qq.com/s/0dyYfbce7TkUzzM3pQAgbA)
+
+二、非常程序员
+
+1.[为什么要内存对齐](https://mp.weixin.qq.com/s/zq8eRmEvi1ehNBrx90vjjA)
+
+三、 ServiceMesher
+
+1.[回归单体 —— Istio的自我救赎？](https://mp.weixin.qq.com/s/G7a0b_nqgBbvmmc4RHzOYw)
+
 ## gocn_news_2020-02-03
 - 1. Go 2020: 自Go 1.12版本以来的更新 https://speakerdeck.com/campoy/the-state-of-go-2020
 - 2. gopls发布0.
