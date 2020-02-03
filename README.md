@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-03
+- 1. Go 2020: 自Go 1.12版本以来的更新 https://speakerdeck.com/campoy/the-state-of-go-2020
+- 2. gopls发布0.
+- 3.0版本，已实现基本IDE功能 https://github.com/golang/go/issues/33030#issuecomment-5808279973. 使用eBPF监测用户态应用 https://sematext.com/blog/ebpf-userland-apps/
+- 4. Go是如何将循环翻译成汇编的 https://medium.com/a-journey-with-go/go-how-are-loops-translated-to-assembly-835b985309b3
+- 5. 微服务框架Micro发布2.0版本 https://medium.com/microhq/micro-v2-0-0-release-is-out-2950f5a82054* 
+
+
 ## go语言中文网(每日资讯)_2020-02-02
 一、Go语言中文网
 
