@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-04
+一、Go语言中文网
+
+1.[学习 Go 编程的十大在线资源及新手如何学习 Go 语言](https://mp.weixin.qq.com/s/5thVaXXcT_GKiEtfZQ-ERg)
+
+2.[使用testify和mockery库简化单元测试](https://mp.weixin.qq.com/s/cKJTemN1tBx5QaRNYpJhmw)
+
+3.[漫画：LeetCode 题解 — 反转字符串](https://mp.weixin.qq.com/s/hwOyw6vdZlIoSBzhPlndXg)
+
+4.[Go 语言网络编程系列（八）—— RPC 编程篇：使用 JSON 对传输数据进行编解码](https://mp.weixin.qq.com/s/5KiRVw5VANwn3CQUzf0fxw)
+
+5.[Bigtable 和 LevelDB 的设计与实现](https://mp.weixin.qq.com/s/2bh5lmAvWM3OuWYWjoNfaQ)
+
+二、 新亮笔记
+
+1.[一个人被提拔，不仅仅是能力，而是信任](https://mp.weixin.qq.com/s/1TDQwSHS72iV75e-BXTdbw)
+
+2.[一线技术管理者究竟在管什么事？](https://mp.weixin.qq.com/s/kuKQjTLp1isftJC6WZ6Qaw)
+
+三、GoUpUp
+
+1.[Go 每日一库之 cast](https://mp.weixin.qq.com/s/ON42se-QSjrv9mNyN-BDYw)
+
+四、图解源码
+
+1.[kubernetes调度器核心原理大揭秘](https://mp.weixin.qq.com/s/2bh5lmAvWM3OuWYWjoNfaQ)
+
+2.[kubernetes调度器核心数据结构与算法学习](https://www.yuque.com/baxiaoshi/tyado3/)
+
 ## gocn_news_2020-02-04
 - 1. [译]pkg.go.dev的未来规划 https://mp.weixin.qq.com/s/XQLsfBwy14XLQU9D4s4gGg
 - 2. GraphQL Go 基于Golang实践 https://juejin.im/post/5e381dfee51d4526d87c5ddb
