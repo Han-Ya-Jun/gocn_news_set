@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-04
+- 1. [译]pkg.go.dev的未来规划 https://mp.weixin.qq.com/s/XQLsfBwy14XLQU9D4s4gGg
+- 2. GraphQL Go 基于Golang实践 https://juejin.im/post/5e381dfee51d4526d87c5ddb
+- 3. Go 语言设计与实现 https://draveness.me/golang/
+- 4. Go 创建 Web 服务 https://www.gophersumit.com/series/web-server/
+- 5. golang结构体指针解析 https://segmentfault.com/a/1190000021680265- 
+
+
 ## go语言中文网(每日资讯)_2020-02-03
 一、Go语言中文网
 
