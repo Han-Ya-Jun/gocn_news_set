@@ -4,6 +4,28 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-05
+一、Go语言中文网
+
+1.[Goroutine + Channel 是 Go 的招牌，但必须留意被遗弃的 Channel](https://mp.weixin.qq.com/s/Y1EQb-pYxXzSkTTh92CTrw)
+
+2.[漫画：Go 讲解动态规划系列 第一讲](https://mp.weixin.qq.com/s/cMzZw9Py3xwwH3JM-NoF7g)
+
+3.[图解kubernetes服务打散算法的实现源码](https://mp.weixin.qq.com/s/Exv4TJ7d0G_XVliNalrznw)
+
+4.[Go 语言网络编程系列（九）— JSON 处理篇：JSON 编解码基本使用入门](https://mp.weixin.qq.com/s/TJXdxh6C0aidyq4Fn0PKXQ)
+
+5.[Bigtable 和 LevelDB 的设计与实现](https://mp.weixin.qq.com/s/2bh5lmAvWM3OuWYWjoNfaQ)
+
+二、 MoeLove
+
+1.[使用 Kind 在离线环境创建 K8S 集群](https://mp.weixin.qq.com/s/8LcYAxVmvtAvJV5rOuEhPw)
+
+三、 金融级分布式架构
+
+1.[蚂蚁金服 Service Mesh 大规模落地系列 - 质量篇](https://mp.weixin.qq.com/s/1LECYzRuIDZDUVtlPPZD5A)
+2.[SOFA 公开文章](https://www.yuque.com/huarou/gd4szw)
+
 ## gocn_news_2020-02-05
 - 1. Go 语言 Channel 实现原理精要 https://www.lbbniu.com/8256.html
 - 2. Go1.14为time.Timer定时器带来巨幅性能提升 https://www.pengrl.com/p/20021
