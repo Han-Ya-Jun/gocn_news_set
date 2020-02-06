@@ -4,6 +4,23 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-06
+一、Go语言中文网
+
+1.[TIOBE 公布了 2020 年 2 月编程语言排行榜，Go 的排名你还满意吗？](https://mp.weixin.qq.com/s/AkQj_Z_ba2l1p_XVNXooCw)
+
+2.[高效生成JSON串——json-gen](https://mp.weixin.qq.com/s/a8mpLmy_IxuGb36XtEq54g)
+
+3.[Go 语言网络编程系列（十）— JSON 处理篇：未知结构数据解码及流式读写处理](https://mp.weixin.qq.com/s/Rk99jQ2sSHljjfOl-TqpoA)
+
+4.[漫画：Go 讲解动态规划系列 第二讲](https://mp.weixin.qq.com/s/N50FMPL1NBXmE4ZrMpRO7g)
+
+5.[武汉疫情、国难面前竟有人骗捐款，我花了40个小时揪出这个畜生](https://mp.weixin.qq.com/s/NrRKsz13KuYmSdoLFX8-FQ)
+
+二、 图解源码
+
+1.[分布式负载均衡算法之亲和性轮询](https://mp.weixin.qq.com/s/6mx6Lq8NGawFR9cUVhl7lw)
+
 ## gocn_news_2020-02-06
 - 1. Go 1.14 rc版本发布 https://tip.golang.org/doc/go1.14
 - 2. Golang致命错误：并发写入map https://ashish.one/blogs/fatal-error-concurrent-map-writes
