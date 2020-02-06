@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-06
+- 1. Go 1.14 rc版本发布 https://tip.golang.org/doc/go1.14
+- 2. Golang致命错误：并发写入map https://ashish.one/blogs/fatal-error-concurrent-map-writes
+- 3. Go实现的安全类型转换cast库 https://github.com/spf13/cast
+- 4. 用Go实现的贪吃蛇游戏 https://github.com/tristangoossens/snake-go
+- 5. 在Kubernetes中分析连续运行的Go应用程序 https://gianarb.it/blog/continuous-profiling-go-apps-in-kubernetes
+
+
 ## go语言中文网(每日资讯)_2020-02-05
 一、Go语言中文网
 
