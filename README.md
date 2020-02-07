@@ -4,6 +4,20 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-07
+- 1. Golang之禅 https://the-zen-of-go.netlify.com/
+
+- 2. gorilla sessions中间件实践  https://jimmyislive.dev/posts/rememberme/  
+
+- 3. 宜信微服务任务调度平台建设实践 https://www.infoq.cn/article/daqWGuVqySK65A6bEX2E
+
+- 4. grabana: 用Go代码快速创建grafana dashboards https://github.com/K-Phoen/grabana
+
+- 5. rose: 实现在HTML中嵌入和运行Go代码 https://gitlab.com/DevelopmentDuck/rose
+
+
+
+
 ## go语言中文网(每日资讯)_2020-02-06
 一、Go语言中文网
 
