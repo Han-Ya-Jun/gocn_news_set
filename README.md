@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-08
+一、Go语言中文网
+
+1.[Go 之禅：Dave Cheney 大神告诉你编写简单、可读、可维护 Go 代码的十个工程经验](https://mp.weixin.qq.com/s/jYmjgAobyVfaOpb8mh8cNg)
+
+2.[Go 语言简单的 == 号：所有的内容都在这里了](https://mp.weixin.qq.com/s/6doZiLTxBpTZKJ0zO-RBjQ)
+
+3.[漫画：Go 讲解动态规划系列 第三讲](https://mp.weixin.qq.com/s/5Va1HBowXmr_-0IuJy8E2g)
+
+4.[图解kubernetes调度器抢占流程与算法设计](https://mp.weixin.qq.com/s/qukU6eYwQY2PYmhpmx27qg)
+
+5.[Go 语言 Web 编程系列（二）— HTTP 请求处理的底层运行机制](https://mp.weixin.qq.com/s/9ytB0GQabgaPEES8LJZvtQ)
+
+二、TGO鲲鹏会
+
+1.[PingCAP CTO 黄东旭：远程办公 5 年，分布式解决所有问题](https://mp.weixin.qq.com/s/7sf8yojMF4nqKq4J9ju28g)
+
+三、GoUpUp
+
+1.[Go 每日一库之 logrus](https://mp.weixin.qq.com/s/lO4hAjtwqY_YG3Q3Mz7qww)
+
+四、分布式实验室
+
+1.[滴滴从KV存储到NewSQL实战](https://mp.weixin.qq.com/s/7sf8yojMF4nqKq4J9ju28g)
+
 ## gocn_news_2020-02-08
 - 1. Go代码的高级调试技术 https://www.bilibili.com/video/av87482478/
 
