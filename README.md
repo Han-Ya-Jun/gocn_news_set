@@ -4,6 +4,22 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-08
+- 1. Go代码的高级调试技术 https://www.bilibili.com/video/av87482478/
+
+
+
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 1
+- 3.0px 'Helvetica Neue'; color: #118eff}
+
+
+
+
+- 2. Go中必须谈论的四个迷点 https://segmentfault.com/a/11900000216993413. Go 每日一库之 log https://mp.weixin.qq.com/s/MivVpGY1RJWf0ZFt7HjcFg
+- 4. Golang还是Python？哪种语言更适合AI？https://developer.51cto.com/art/202002/610136.htm
+- 5. golang 操作redis5大数据类型 https://segmentfault.com/a/1190000021702953
+
+
 ## go语言中文网(每日资讯)_2020-02-07
 一、Go语言中文网
 
