@@ -4,6 +4,27 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-09
+一、Go语言中文网
+
+1.[Go语言爱好者周刊：第 29 期](https://mp.weixin.qq.com/s/1RaoIgRfYtvvd_UT6Dtl8A)
+
+2.[Golang 还是 Python？哪门语言更适合 AI？](https://mp.weixin.qq.com/s/7m5h7_xNaBzMI8RcqpcaZw)
+
+3.[漫画：Go 讲解动态规划系列 第四讲](https://mp.weixin.qq.com/s/40vQNi-gHnJAQyRBtQXKkw)
+
+4.[图解kubernetes调度器SchedulerExtender扩展](https://mp.weixin.qq.com/s/a3XkzKkQryAndTX9sR48nQ)
+
+5.[Go 语言 Web 编程系列（三）— 基于官方标准库自定义路由处理器](https://mp.weixin.qq.com/s/hEroa_2wBSBInCrFXK910A)
+
+二、深入Go语言
+
+1.[Golang package sync 剖析(四)：sync.Map](https://mp.weixin.qq.com/s/alCp-nzot4zf5IeFc4z-dQ)
+
+三、 一艘慢船
+
+1.[Go 编程: 错误的诞生与死亡，包装、检查与处理](https://mp.weixin.qq.com/s/QpGS2dnudNyHPvY-r8zVeQ)
+
 ## gocn_news_2020-02-09
 - 1. Go 并发与调度器的关系 https://medium.com/a-journey-with-go/go-concurrency-scheduler-affinity-3b678f490488
 - 2. 对 Jaeger 追踪数据做分析 https://www.arp242.net/wasm-cli.html
