@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-11
+一、Go语言中文网
+
+1.[更懂 module 的包资源中心：关于 pkg.go.dev 的前世今生和未来](https://mp.weixin.qq.com/s/Mtv0U__JzxMpHZFCWiyG1Q)
+
+2.[多 Goroutine 的并发程序如何保证按序输出？channel 的使用是关键](https://mp.weixin.qq.com/s/wL-Cy6DScmPIpQAma6_3Qw)
+
+3.[http.Dir("") 是什么意思？Go 服务静态文件你应该掌握的知识都在这里](https://mp.weixin.qq.com/s/QCtrFaDh8sNnVLB3lAfSEw)
+
+4.[图解kubernetes调度器framework核心数据结构](https://mp.weixin.qq.com/s/WyiT6hh-uUJ0qlTCIsWUKg)
+
+5.[你真的了解 base64 编码吗？](https://mp.weixin.qq.com/s/9Wtu9YOTK7YSJOPQXD82Hg)
+
+二、非常程序员
+
+1.[redis源码阅读之底层数据结构intset整型集合](https://mp.weixin.qq.com/s/hATEtb-oRagRMFqiTFwylg)
+
+三、图解源码
+
+1.[图解kubernetes容器探活机制核心实现](https://mp.weixin.qq.com/s/XXfmwNAIDLlgALPognP4qg)
+
+四、网管叨bi叨
+
+1.[Go语言之父带你重新认识字符串、字节、rune和字符](https://mp.weixin.qq.com/s/c3IaF83-rfrsfvPxlbP3LA)
+
+五、ServiceMesher
+
+1.[使用了 Service Mesh 后我还需要 API 网关吗？](https://mp.weixin.qq.com/s/XX4qSBwRBAX-4pYXtd4Q8A)
+
 ## gocn_news_2020-02-11
 - 1. Go 语言网络轮询器的实现原理：https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-netpoller/ 
 - 2. Go Http 负载测试工具：https://medium.com/threefold-digital/writing-an-impressively-fast-http-load-testing-tool-in-golang-for-fun-and-learning-9043b164bd99
