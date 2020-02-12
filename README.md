@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-12
+一、Go语言中文网
+
+1.[go test 不为人知的一面](https://mp.weixin.qq.com/s/Mtv0U__JzxMpHZFCWiyG1Q)
+
+2.[--version 类似这样的长选项怎么支持？go-flags 给你答案](https://mp.weixin.qq.com/s/rNSoGtcDoHtCy00Q0IhKDw)
+
+3.[Go 语言 Web 编程系列（五）— 基于 gorilla/mux 包实现路由匹配：进阶使用篇](https://mp.weixin.qq.com/s/fyancD9sTkb-RZhDkUFIoQ)
+
+4.[Go 刷 LeetCode 系列：链表(4)复制带随机指针的链表](https://mp.weixin.qq.com/s/kCtshSpUd_gh0rVxwrJt_g)
+
+5.[关于Go1.14，你一定想知道的性能提升与新特性](https://studygolang.com/articles/26529#reply0)
+
+二、 IT大咖说
+
+1.[分布式服务链路追踪技术分析及对比](https://mp.weixin.qq.com/s/pkKp-G0K--8aZCeAjIs5mA)
+
+三、图解源码
+
+1.[图解kubernetes容器探活机制核心实现状态管理](https://mp.weixin.qq.com/s/zFcxkhrtHQEFArtDNcx9Sg)
+
+四、ServiceMesher
+
+1.[MOSN 源码浅析](https://mp.weixin.qq.com/s/yN77VRgAQnykEdU5t7lGEQ)
+
 ## go语言中文网(每日资讯)_2020-02-11
 一、Go语言中文网
 
