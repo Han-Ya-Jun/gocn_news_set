@@ -4,6 +4,27 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-13
+一、Go语言中文网
+
+1. [关于Go1.14，你一定想知道的性能提升与新特性](https://mp.weixin.qq.com/s/ESf4-h1S9WeQNH2Z-kVIKw)
+2. [Gopher 应该掌握一定的 Shell 编程技能：说说Shell在代码重构中的应用](https://mp.weixin.qq.com/s/0Ek8tdUF8G6MeHTgDI16eg)
+3. [Go1.14 巨大的性能是怎么实现的？主要关注 time.Timer 和 内联 defer](https://mp.weixin.qq.com/s/KukoOpnj6tCV360ENbIb-A)
+4. [你见过哪些坑爹的 Go 代码？实力坑爹！这些让人崩溃的代码，你写过几个！]()
+5. [Go 刷 LeetCode 系列：链表(5)环形链表](https://mp.weixin.qq.com/s/lGC24YW3z220nwiwdp_cXQ)
+
+二、阿里巴巴云原生
+
+1. [五分钟学会使用 go modules（含在家办公使用技巧）](https://mp.weixin.qq.com/s/AnSJUnvBFZeR75hLwRkWMg)
+
+三、图解源码
+
+1. [图解kubernetes容器状态同步机制核心实现](https://mp.weixin.qq.com/s/kB1gtAc2W77HHwUjbxdNqQ)
+
+四、ServiceMesher
+
+1. [Go 每日一库之 godotenv](https://mp.weixin.qq.com/s/595TIIlbhQlhSEkEkUILTw)
+
 ## go语言中文网(每日资讯)_2020-02-12
 一、Go语言中文网
 
