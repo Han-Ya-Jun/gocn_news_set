@@ -59,11 +59,11 @@
 1.[MOSN 源码浅析](https://mp.weixin.qq.com/s/yN77VRgAQnykEdU5t7lGEQ)
 
 ## gocn_news_2020-02-12
-1.GoCN 社区发布新版了 https://mp.weixin.qq.com/s/e9KxNziiHgAYMIffdzv3uA
-2.关于Go1.14，你一定想知道的性能提升与新特性 https://gocn.vip/topics/9611
-3.单元测试时模拟数据库 https://dev.to/pieohpah/mocking-database-in-go-55bo
-4.Go1.14将内联defer提高性能 https://pengrl.com/p/20023
-5.动手做Go并发：生产消费模式 https://medium.com/@mottakin/hands-on-go-concurrency-the-producer-consumer-pattern-c42aab4e3bd2
+- 1.GoCN 社区发布新版了 https://mp.weixin.qq.com/s/e9KxNziiHgAYMIffdzv3uA
+- 2.关于Go1.14，你一定想知道的性能提升与新特性 https://gocn.vip/topics/9611
+- 3.单元测试时模拟数据库 https://dev.to/pieohpah/mocking-database-in-go-55bo
+- 4.Go1.14将内联defer提高性能 https://pengrl.com/p/20023
+- 5.动手做Go并发：生产消费模式 https://medium.com/@mottakin/hands-on-go-concurrency-the-producer-consumer-pattern-c42aab4e3bd2
 
 ## go语言中文网(每日资讯)_2020-02-11
 一、Go语言中文网
