@@ -36,15 +36,15 @@
 ## go语言中文网(每日资讯)_2020-02-12
 一、Go语言中文网
 
-1.[go test 不为人知的一面](https://mp.weixin.qq.com/s/Mtv0U__JzxMpHZFCWiyG1Q)
+- 1.[go test 不为人知的一面](https://mp.weixin.qq.com/s/Mtv0U__JzxMpHZFCWiyG1Q)
 
-2.[--version 类似这样的长选项怎么支持？go-flags 给你答案](https://mp.weixin.qq.com/s/rNSoGtcDoHtCy00Q0IhKDw)
+- 2.[--version 类似这样的长选项怎么支持？go-flags 给你答案](https://mp.weixin.qq.com/s/rNSoGtcDoHtCy00Q0IhKDw)
 
-3.[Go 语言 Web 编程系列（五）— 基于 gorilla/mux 包实现路由匹配：进阶使用篇](https://mp.weixin.qq.com/s/fyancD9sTkb-RZhDkUFIoQ)
+- 3.[Go 语言 Web 编程系列（五）— 基于 gorilla/mux 包实现路由匹配：进阶使用篇](https://mp.weixin.qq.com/s/fyancD9sTkb-RZhDkUFIoQ)
 
-4.[Go 刷 LeetCode 系列：链表(4)复制带随机指针的链表](https://mp.weixin.qq.com/s/kCtshSpUd_gh0rVxwrJt_g)
+- 4.[Go 刷 LeetCode 系列：链表(4)复制带随机指针的链表](https://mp.weixin.qq.com/s/kCtshSpUd_gh0rVxwrJt_g)
 
-5.[关于Go1.14，你一定想知道的性能提升与新特性](https://studygolang.com/articles/26529#reply0)
+- 5.[关于Go1.14，你一定想知道的性能提升与新特性](https://studygolang.com/articles/26529#reply0)
 
 二、 IT大咖说
 
