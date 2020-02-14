@@ -25,6 +25,14 @@
 
 1. [Go 每日一库之 godotenv](https://mp.weixin.qq.com/s/595TIIlbhQlhSEkEkUILTw)
 
+## gocn_news_2020-02-13
+- 1. Go 每日一库之 godotenv https://segmentfault.com/a/1190000021735360
+- 2.五分钟学会使用 go modules（含在家办公使用技巧）https://mp.weixin.qq.com/s/AnSJUnvBFZeR75hLwRkWMg
+- 3.gRPC in ASP.NET Core 3.x -- Protocol Buffer, Go语言的例子（上） https://mp.weixin.qq.com/s/QBIYwA8ecgGcdHaa2Js0eQ
+- 4.第一个Go Micro程序 https://zhuanlan.zhihu.com/p/104728408
+- 5.一文看懂分布式系统的基本盘 https://mp.weixin.qq.com/s/4Q8IXZPy2lCQQjFrHPHjqg
+
+
 ## go语言中文网(每日资讯)_2020-02-12
 一、Go语言中文网
 
@@ -49,6 +57,13 @@
 四、ServiceMesher
 
 1.[MOSN 源码浅析](https://mp.weixin.qq.com/s/yN77VRgAQnykEdU5t7lGEQ)
+
+## gocn_news_2020-02-12
+1.GoCN 社区发布新版了 https://mp.weixin.qq.com/s/e9KxNziiHgAYMIffdzv3uA
+2.关于Go1.14，你一定想知道的性能提升与新特性 https://gocn.vip/topics/9611
+3.单元测试时模拟数据库 https://dev.to/pieohpah/mocking-database-in-go-55bo
+4.Go1.14将内联defer提高性能 https://pengrl.com/p/20023
+5.动手做Go并发：生产消费模式 https://medium.com/@mottakin/hands-on-go-concurrency-the-producer-consumer-pattern-c42aab4e3bd2
 
 ## go语言中文网(每日资讯)_2020-02-11
 一、Go语言中文网
@@ -172,19 +187,15 @@
 1.[滴滴从KV存储到NewSQL实战](https://mp.weixin.qq.com/s/7sf8yojMF4nqKq4J9ju28g)
 
 ## gocn_news_2020-02-08
-- 1. Go代码的高级调试技术 https://www.bilibili.com/video/av87482478/
+- 1.Go代码的高级调试技术 https://www.bilibili.com/video/av87482478/
 
+- 2.Go中必须谈论的四个迷点 https://segmentfault.com/a/1190000021699341
 
+- 3.Go 每日一库之 log https://mp.weixin.qq.com/s/MivVpGY1RJWf0ZFt7HjcFg
 
-p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 19.0px; font: 1
-- 3.0px 'Helvetica Neue'; color: #118eff}
+- 4.Golang还是Python？哪种语言更适合AI？https://developer.51cto.com/art/202002/610136.htm
 
-
-
-
-- 2. Go中必须谈论的四个迷点 https://segmentfault.com/a/11900000216993413. Go 每日一库之 log https://mp.weixin.qq.com/s/MivVpGY1RJWf0ZFt7HjcFg
-- 4. Golang还是Python？哪种语言更适合AI？https://developer.51cto.com/art/202002/610136.htm
-- 5. golang 操作redis5大数据类型 https://segmentfault.com/a/1190000021702953
+- 5.golang 操作redis5大数据类型 https://segmentfault.com/a/1190000021702953
 
 
 ## go语言中文网(每日资讯)_2020-02-07
