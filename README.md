@@ -4,6 +4,34 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-14
+一、Go语言中文网
+
+1. [依赖的第三方接口太慢影响自己的Go服务：掌握context的使用问题不再](https://mp.weixin.qq.com/s/nsEJsjkGMobRkQnIATpPow)
+
+2. [2020 重新学 Go 系列：01. 开发环境的搭建（Goland 含破解 & VS Code）](https://mp.weixin.qq.com/s/8umPhTSrEnRo3l0hufXcuQ)
+
+3. [Go 语言 Web 编程系列（六）— 基于 gorilla/mux 包实现路由匹配：路由中间件](https://mp.weixin.qq.com/s/Q0YCCjdEJrNyzdVP5dNgag)
+
+4. [Go 刷 LeetCode 系列：二叉树（1）不同二叉搜索树](https://mp.weixin.qq.com/s/WcwlzXbNTt-qQNl58NevQA)
+
+
+二、容器时代
+
+1. [KubeEdge 1.2发布：全面升级云边协同传输的可靠性！](https://mp.weixin.qq.com/s/Qk53TIsuVdB-WKFciQE0bQ)
+
+三、非常程序员
+
+1. [linux系统调用追踪工具strace](https://mp.weixin.qq.com/s/7gS4en2U0Dinp8d9ep6P8g)
+
+四、Go夜读
+
+1. [第 75 期 2020 年 Go 的一些发展计划（Go 1.14 && Go 1.15）](https://mp.weixin.qq.com/s/0sbbXXhcMjVs5HBSWFvXRg)
+
+五、MoeLove
+
+1. [K8S周报视频版](https://mp.weixin.qq.com/s/QkEXR_BZMEMyHqMrXxp-ow)
+
 ## gocn_news_2020-02-14
 - 1.golang高并发模型 https://www.yangyanxing.com/article/golang-concurrency.html
 
