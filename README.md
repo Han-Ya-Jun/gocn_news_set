@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-15
+一、Go语言中文网
+
+1. [重磅！免费获得官方赠送GoLand，还有专属T恤：只要免费试用最新2020.1版](https://mp.weixin.qq.com/s/NHYplW-2FNABDQTpnV-Mzw)
+2. [Go1.13.8 和 Go1.12.7 发布，Go1.14 Delay 13 天，还有些 bug 没解决](https://mp.weixin.qq.com/s/02flTahklppxBe7WSyRcjA)
+3. [020 重新学 Go 系列：02. 掌握变量创建的六种方式](https://mp.weixin.qq.com/s/LZ3WhOaZ8wtMyM9nAhcl0A)
+4. [redis 源码阅读之底层数据结构 intset 整型集合](https://mp.weixin.qq.com/s/L2PzZ-mKfCr_5GdO0ruN_w)
+5. [kubernetes 调度器核心原理大揭秘：坚持看完你就赢了](https://mp.weixin.qq.com/s/Kl_IQD44MmA65J6q4O9lIQ)
+
+二、容器时代
+
+1. [Kubernetres 疑难杂症排查分享：神秘的溢出与丢包](https://mp.weixin.qq.com/s/iIqJXSat-EbAyEKxUnTq9A)
+
+三、分布式实验室
+
+1. [Git commit message规范](https://mp.weixin.qq.com/s/mAUqTPCqcYjoNDqAxktyfA)
+
+四、菜鸟Miao
+
+1. [Dig101:Go之聊聊struct的内存对齐](https://mp.weixin.qq.com/s/qPILuArUBnNrJ15COpBziQ)
+
+五、GoUpUp
+
+1. [Go 每日一库之 carbon](https://mp.weixin.qq.com/s/vK_1YX5WHjcxaC3kSPah_A)
+
 ## gocn_news_2020-02-15
 - 1.Go写测试必学的三个库：Ginkgo、testify和GoMock https://mp.weixin.qq.com/s/K8dfxCzZ1l_Kh-79nlc4EA
 
