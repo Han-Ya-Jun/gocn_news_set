@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-15
+- 1.Go写测试必学的三个库：Ginkgo、testify和GoMock https://mp.weixin.qq.com/s/K8dfxCzZ1l_Kh-79nlc4EA
+
+- 2.Go跨平台UI库fyne https://gocn.vip/topics/9762
+
+- 3.Dmitry Vyukov分享的Go的调度器 https://gocn.vip/topics/9765
+
+- 4.Go trace工具介绍  https://medium.com/a-journey-with-go/go-discovery-of-the-trace-package-e5a821743c3c
+
+- 5.Go在云生态的介绍 https://rakyll.org/go-cloud/
+
+
+
 ## go语言中文网(每日资讯)_2020-02-14
 一、Go语言中文网
 
