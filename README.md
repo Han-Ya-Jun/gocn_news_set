@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-16
+- 1.goz开源库，在Go中快速发起HTTP请求 https://idoubi.cc/posts/goz-request-in-go/
+
+- 2.GoWeb编程--应用ORM https://segmentfault.com/a/1190000021759000
+
+- 3.图解go反射实现原理 https://i6448038.github.io/2020/02/15/golang-reflection/
+
+- 4.sync.WaitGroup底层实现https://yangxikun.com/golang/2020/02/15/golang-sync-waitgroup.html
+
+- 5.堆栈里的秘密行动：劫持执行流 https://mp.weixin.qq.com/s/IRRcME_Otd9Cje0BgiJkLQ
+
+
+
 ## go语言中文网(每日资讯)_2020-02-15
 一、Go语言中文网
 
