@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-16
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 30 期](https://mp.weixin.qq.com/s/EeEEoQEE1F7hKyIvEcfyag)
+2. [面试题实战：给一个数 n，使用 Go 打印交替顺序零与奇偶数](https://mp.weixin.qq.com/s/WJJL-3pkeA8qBF75QTt9Ag)
+3. [如何获取用户主目录？os/user 就可以了，为什么要 go-homedir](https://mp.weixin.qq.com/s/joOIAjBR5kZNtUoG5Zc1CQ)
+4. [使用gorilla/mux增强Go HTTP服务器的路由能力](https://mp.weixin.qq.com/s/L2PzZ-mKfCr_5GdO0ruN_w)
+5. [职场如何升职：一个人被提拔，不仅仅是能力，而是信任](https://mp.weixin.qq.com/s/nL3mXH-XWObGpcTIrtBncw)
+
+二、新亮笔记
+
+1. [API 接口设计规范](https://mp.weixin.qq.com/s/JrnKjj3kgEq8UDBp-VJQgg)
+
+三、好未来学而思网校
+
+1. [📎好未来学而思2019网校技术合辑.pdf](https://www.yuque.com/attachments/yuque/0/2020/pdf/203993/1581851581462-3a2c592d-b687-4dc7-bfe0-4d8ef85097e2.pdf)
+
+四、京医通
+
+1. [「在家办公」出现的健康问题，4个动作教你缓解！](https://mp.weixin.qq.com/s/GYZkWiNG7Hqjjnp5vZJATA)
+
+五、GoUpUp
+
+1. [Go 每日一库之 email](https://mp.weixin.qq.com/s/yyvsc7IKc7TFJ47LoXI2aw)
+
 ## gocn_news_2020-02-16
 - 1.goz开源库，在Go中快速发起HTTP请求 https://idoubi.cc/posts/goz-request-in-go/
 
