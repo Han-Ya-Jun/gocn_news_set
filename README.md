@@ -4,6 +4,27 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-17
+一、Go语言中文网
+
+1. [Go 程序员的演变，最后的 “Rob Pike” 这个梗看懂了吗？](https://mp.weixin.qq.com/s/SA9dCjOQEtxvPEcYc4zCnw)
+2. [漫画：Go 讲解动态规划系列 第六讲 — 打家劫舍](https://mp.weixin.qq.com/s/M3ojZ2yKjpSw7sHuwdYo4w)
+3. [2020 重学 Go 系列：03. 详解数据类型：整形与浮点型](https://mp.weixin.qq.com/s/ZaFQR4CA7-Ylld8GOh_5tQ)
+4. [Go 程序员应该掌握 linux 系统调用追踪工具：strace](https://mp.weixin.qq.com/s/szHwGSqCDcSR-KwMs2igyg)
+5. [一再强调需要掌握的：五分钟学会使用 go modules](https://mp.weixin.qq.com/s/5c0-9Kx7ne6m50m8Yi02TQ)
+
+二、图解源码
+
+1. [图解kubernetes资源扩展机制实现(上)](https://mp.weixin.qq.com/s/lJGXXM10ZHrFNzaI553xsg)
+
+三、分布式实验室
+
+1. [万字带你入门 ZooKeeper](https://mp.weixin.qq.com/s/_-giKRxf361YFTYCdnhf8g)
+
+四、容器时代
+
+1. [kubelet 中垃圾回收机制的设计与实现](https://mp.weixin.qq.com/s/NBhWziocdzs_Oidfk2a2BA)
+
 ## gocn_news_2020-02-17
 - 1.图解 Go 反射实现原理 https://mp.weixin.qq.com/s/8R96lK5f18aATQmpPk5iBg
 
