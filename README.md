@@ -4,6 +4,36 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-18
+
+一、Go语言中文网
+
+1. [你期待泛型吗？为什么 Go 语言没有泛型？何时会有？](https://mp.weixin.qq.com/s/kRdnRNpwJYuYiebDZKRM0Q)
+
+2. [这样的包该怎么命名？避免诸如 base、util、common 之类的包名](https://mp.weixin.qq.com/s/2t7lRjcVFztpUxqV1fIDWA)
+
+3. [2020 重学 Go 系列：04. 详解数据类型：byte、rune与string](https://mp.weixin.qq.com/s/5wF4wBJyIROXdgo-4emRRA)
+
+4. [如何读取环境变量值？Go 每日一库之 godotenv](https://mp.weixin.qq.com/s/3Yn6QPfaGe12UabGRtb6mg)
+
+5. [K8S 中分布式负载均衡算法之亲和性轮询](https://mp.weixin.qq.com/s/vJaX0kFgpBWzRZQZNhh_OQ)
+
+二、图解源码
+
+1. [图解kubernetes资源扩展机制实现(下)](https://mp.weixin.qq.com/s/WnP8e7wRQhKHpAL9EuJe9A)
+
+三、51Roboot运维开发
+
+1. [清晰架构（Clean Architecture）的Go微服务: 日志管理](https://mp.weixin.qq.com/s/UaVePYd4OrY2mnXUNaej8w)
+
+四、阿里巴巴云原生
+
+1. [语雀：如何打造 Serverless JavaScript 全栈商业级应用？](https://mp.weixin.qq.com/s/sKlobLN35-wajUmzpZHnww)
+
+五、雨痕笔记
+
+1. [Go 1.14 runtime](https://www.yuque.com/books/share/07d0e9c6-3489-480b-8931-d8905a88b541)
+
 ## gocn_news_2020-02-18
 - 1.7 天用 Go 动手写/从零实现分布式缓存 GeeCache https://segmentfault.com/a/1190000021771865
 
