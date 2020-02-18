@@ -4,6 +4,22 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-18
+- 1.7 天用 Go 动手写/从零实现分布式缓存 GeeCache https://segmentfault.com/a/1190000021771865
+
+- 2.图解 Go 内存管理 https://deepu.tech/memory-management-in-golang/
+
+- 3.Micro 微服务框架系列教程 https://itnext.io/micro-in-action-getting-started-a79916ae3cac
+
+- 4.国密算法库 https://pkg.go.dev/mod/github.com/tjfoc/gmsm
+
+- 5.pkg.go.dev 将会开源 https://groups.google.com/forum/#! msg/golang-dev/mfiPCtJ1BGU/OZ9cU3SgBgAJ
+
+- 6.编辑: 傅小黑
+- 7.订阅新闻: http://tinyletter.com/gocn
+
+
+
 ## go语言中文网(每日资讯)_2020-02-17
 一、Go语言中文网
 
