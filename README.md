@@ -4,6 +4,39 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-19
+一、Go语言中文网
+
+1. [只在我计算机上能跑的代码：select-case-default 忘记让出 CPU 的坑](https://mp.weixin.qq.com/s/zMZXd8DLtjhm06Q0lm1pcg)
+
+2. [深挖 Go 之 for-range 排坑指南](https://mp.weixin.qq.com/s/rfbZ79TmZ61lx_JBnwDJMQ)
+
+3. [2020 重学 Go 系列：05. 详解数据类型：数组与切片](https://mp.weixin.qq.com/s/huhK2vmgYD5TsT6_WIpRJQ)
+
+4. [漫画：不一样的链表成环检测，Go 语言实现](https://mp.weixin.qq.com/s/GrwY1TDqbR8I1cDa7Hbghg)
+
+5. [kubernetes用户态TCP代理实现原理](https://mp.weixin.qq.com/s/iZFuQs8bixqCb-2UlyxEaw)
+
+二、图解源码
+
+1. [图解kubernetes资源QOS机制实现原理](https://mp.weixin.qq.com/s/e2oTBEFVRdUZG1F-pe_oDQ)
+
+三、新亮笔记
+
+1. [Git 分支设计规范](https://mp.weixin.qq.com/s/mlWuigUL2dQYwIHisec_7w)
+
+四、菜鸟Miao
+
+1. [Tips:如何自动化Word表格转Excel](https://mp.weixin.qq.com/s/C_Ui-eO3hQMqu41hpt2_Cg)
+
+五、非常程序员
+
+1. [[译] Go语言inline内联的策略与限制](https://mp.weixin.qq.com/s/IQ59MQH4sC-5zoyVWCPYjQ)
+
+六、Go夜读
+
+1. [第 76 期 Kubernetes Scheduler 设计与实现](https://mp.weixin.qq.com/s/_gk_ZjadMtBuD4Kv5lk7jQ)
+
 ## gocn_news_2020-02-19
 - 1.使用 t.Cleanup 做测试收尾 https://ieftimov.com/post/testing-in-go-clean-tests-using-t-cleanup/
 
