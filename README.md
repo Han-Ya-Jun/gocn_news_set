@@ -4,6 +4,22 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-19
+- 1.使用 t.Cleanup 做测试收尾 https://ieftimov.com/post/testing-in-go-clean-tests-using-t-cleanup/
+
+- 2.Go 编程语言规范【译】https://moego.me/golang_spec.html
+
+- 3.select-case-default 忘记让出 CPU 的坑 https://mp.weixin.qq.com/s/zMZXd8DLtjhm06Q0lm1pcg
+
+- 4.斗鱼配置管理中心 Minerva 的设计与实现 https://gocn.vip/topics/9794
+
+- 5.Go 语言是如何运行的-链接器 https://mp.weixin.qq.com/s/_2y7oLfYftRxH8YTEm0qMw
+
+- 6.编辑: yulibaozi
+- 7.订阅新闻: http://tinyletter.com/gocn
+
+
+
 ## go语言中文网(每日资讯)_2020-02-18
 
 一、Go语言中文网
