@@ -4,6 +4,22 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-20
+- 1.Golang 中切片与数组的不同 https://blog.golang.org/slices
+
+- 2.使用 Go 模拟 SSL 中断 https://medium.com/@noamt/simulating-ssl-outages-with-go-8f14e5ef0621
+
+- 3.Go 高级并发函数 https://encore.dev/blog/advanced-go-concurrency
+
+- 4.Go 中基于 Unicode 字符的前缀树的实现 Gotri https://github.com/monirz/gotri
+
+- 5.我如何在 2020 年应用 Go https://dev.to/j4ng5y/how-i-do-go-application-configuration-in-2020-336b
+
+- 6.编辑: 李森森
+- 7.订阅新闻: http://tinyletter.com/gocn
+
+
+
 ## go语言中文网(每日资讯)_2020-02-19
 一、Go语言中文网
 
