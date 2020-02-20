@@ -4,6 +4,22 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-20
+一、Go语言中文网
+
+1. [一天增长几千星星的 Go 项目：GitHub 的（CLI）命令行工具](https://mp.weixin.qq.com/s/OXtS88K_belZu7lbVUwm8w)
+2. [2020 重学 Go 系列：06. 详解数据类型：字典与布尔类型](https://mp.weixin.qq.com/s/DY9BSxDzb0A4BbtV2jxjwg)
+3. [漫画：Go 讲解二叉树系列 第一讲（最大深度与DFS）](https://mp.weixin.qq.com/s/P8OdJyirfbbJqJEHCsDGSw)
+4. [图解kubernetes容器运行时状态缓存数据结构](https://mp.weixin.qq.com/s/n4kU0127HthT-rEBjicSvg)
+
+二、容器时代
+
+1. [我们为什么会删除不了集群的 Namespace？](https://mp.weixin.qq.com/s/jlzD1BqTlIua1WWuOHWAKA)
+
+三、网管叨bi叨  
+
+1. [Go 语言之父详述切片与其他编程语言数组的不同](https://mp.weixin.qq.com/s/860ZFEc4CnY8Ou2EJ7_SVQ)
+
 ## gocn_news_2020-02-20
 - 1.Golang 中切片与数组的不同 https://blog.golang.org/slices
 
