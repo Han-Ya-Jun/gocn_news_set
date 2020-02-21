@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-21
+- 1.MIT 经典课程 “分布式系统” 视频版上线！ https://gocn.vip/topics/9821
+
+- 2.图解 Go 内存分配器  https://tonybai.com/2020/02/20/a-visual-guide-to-golang-memory-allocator-from-ground-up/
+
+- 3.如何优雅的使用 GDB 调试 Go https://gocn.vip/topics/9826
+
+- 4.浅谈 Kubernetes Ingress 控制器的技术选型 https://juejin.im/post/5e4684306fb9a07cd74f4b1b
+
+- 5.vectorsql: 一款类 ClickHouse 的 OLAP 型数据库 https://github.com/vectorengine/vectorsql
+
+
+
 ## go语言中文网(每日资讯)_2020-02-20
 一、Go语言中文网
 
