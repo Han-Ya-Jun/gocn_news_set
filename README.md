@@ -4,6 +4,33 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-21
+
+一、Go语言中文网
+
+1. [2020 年为什么要选择 Go 并放弃 Python](https://mp.weixin.qq.com/s/rDypsB9yAua9uX2aC9_y1A)
+2. [好消息：Go 语言新的代码文档中心 pkg.go.dev 不久将开源](https://mp.weixin.qq.com/s/9S_4iusZbYlTglBlQMrDJQ)
+3. [2020 重学 Go 系列：07. 详解数据类型：指针](https://mp.weixin.qq.com/s/Ugs40rtur5JInmDqkkZpNg)
+4. [觉得 time.Time 太弱怎么办？Go 每日一库之 carbon](https://mp.weixin.qq.com/s/UyZKBzLhsePXWs6vn9uRgg)
+5. [图解kubernetes容器探活机制核心实现](https://mp.weixin.qq.com/s/G8IvQZYw71bYDxjXCuKepQ)
+
+二、JetBrains
+
+1. [GoLand IDE 的 25 大特色编辑功能 – 第 3 部分](https://mp.weixin.qq.com/s/7fvaChA9cHWVXN3SczJSYA)
+
+三、阿里巴巴中间件
+
+1. [Service Mesh · Istio · 以实践入门](https://mp.weixin.qq.com/s/RoXaP6oRANTleT_g-A5TWg)
+
+四、图解源码
+
+1. [图解kubernetes Pod生命周期事件生成器](https://mp.weixin.qq.com/s/X3VAoBskn6ifAwKAIanz6g)
+
+五、Advanced Go Concurrency
+
+1. [Advanced Go Concurrency](https://encore.dev/blog/advanced-go-concurrency)
+2. [微软翻译参考](https://www.translatetheweb.com/?from=auto&to=zh-CHS&r=true&a=https%3A%2F%2Fencore.dev%2Fblog%2Fadvanced-go-concurrency)
+
 ## gocn_news_2020-02-21
 - 1.MIT 经典课程 “分布式系统” 视频版上线！ https://gocn.vip/topics/9821
 
