@@ -4,6 +4,27 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-24
+一、Go语言中文网
+
+1. [整洁架构（Clean Architecture）的Go微服务: 程序结构 ](https://mp.weixin.qq.com/s/hwHWMiU-nMrmdc_BpBl4vQ)
+
+二、容器时代
+
+1. [从零开始入门 K8s | Kubernetes API 编程范式](https://mp.weixin.qq.com/s/ww9GEbl_pnnT3n9GQDlxVw)
+
+三、分布式实验室
+
+1. [为什么所有人都想要使用Kubernetes？](https://mp.weixin.qq.com/s/beWWhwdOWDY5sqwBF5LXpw)
+
+四、菜鸟Miao
+
+1. [闲聊下认知的提升](https://mp.weixin.qq.com/s/LJy1Qrb0Hrv4Jm35UAtU5A)
+
+五、田飞雨
+
+1. [kube-apiserver 的设计与实现](https://mp.weixin.qq.com/s/MLHF-9LNBRfbhgHxpEpEnw)
+
 ## gocn_news_2020-02-24
 - 1.goim 中的 watchOps 在监听什么?  https://juejin.im/post/5e51834451882549554863e2
 
