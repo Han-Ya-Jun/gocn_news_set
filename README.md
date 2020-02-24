@@ -4,6 +4,24 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-24
+- 1.goim 中的 watchOps 在监听什么?  https://juejin.im/post/5e51834451882549554863e2
+
+- 2.「译文」如何使用 Go 1.13 里的错误处理 https://gocn.vip/topics/9858
+
+- 3.如何"优雅"地发布自己的 go module 模块到 pkg.go.dev https://gocn.vip/topics/9829
+
+- 4.「开源发布」阿里开源的流量控制组件 Sentinel Golang 首个版本发布 https://gocn.vip/topics/9862
+
+- 5.一个易于与后端集成的 Go KV 存储的抽象层开源库  https://github.com/alash3al/goukv
+
+- 6.编辑: 宋佳洋
+- 7.订阅新闻: http://tinyletter.com/gocn
+
+- 8.
+- 9.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-02-23
 一、Go语言中文网
 
