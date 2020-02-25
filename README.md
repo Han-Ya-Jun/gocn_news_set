@@ -4,6 +4,21 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-25
+- 1.Go 语言之禅：https://dave.cheney.net/2020/02/23/the-zen-of-go 
+- 2.Go 1.14 中 Cleanup 方法简介://www.gopherguides.com/articles/test-cleanup-in-go-1-14
+
+- 3.Go 测试技巧: https://kinbiko.com/go/testing/beginners/
+
+- 4.为什么流媒体直播的延迟很高? https://draveness.me/whys-the-design-live-streaming-latency 
+- 5.如何减小 docker image 大小：https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html 
+- 6.编辑: 薛锦 
+- 7.订阅新闻: http://tinyletter.com/gocn
+
+- 8.
+- 9.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-02-24
 一、Go语言中文网
 
