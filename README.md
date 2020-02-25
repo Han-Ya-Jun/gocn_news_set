@@ -4,6 +4,26 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-25
+一、Go语言中文网
+
+1. [整洁架构（Clean Architecture）的Go微服务: 程序设计 ](https://mp.weixin.qq.com/s/iwSU53EREZvQHReUyq3mMw)
+2. [【每日一库】parallel: Go 语言并行处理库](https://mp.weixin.qq.com/s/lQZhafgQMK5zUNzXbilqpg)
+3. [如何在 Go 项目中输出版本信息？](https://mp.weixin.qq.com/s/chq40Cijdz_8IGdpk4yZew)
+4. [从零开始入门 K8s | Kubernetes API 编程范式](https://mp.weixin.qq.com/s/aB08JHDqN6txNvkwogXuVA)
+
+二、GoUpUp
+
+1. [Go 每日一库之 gojsonq](https://mp.weixin.qq.com/s/nj0qXrdAOOjLAl4WJ-OFwA)
+
+三、图解源码
+
+1. [图解kubernetes Kubelet驱逐管理关键实现 ](https://mp.weixin.qq.com/s/9cIEqlG1ppAo1R5UOHSLlw)
+
+四、TonyBai
+
+1. [Go语言之禅](https://tonybai.com/2020/02/24/the-zen-of-go/)
+
 ## gocn_news_2020-02-25
 - 1.Go 语言之禅：https://dave.cheney.net/2020/02/23/the-zen-of-go 
 - 2.Go 1.14 中 Cleanup 方法简介://www.gopherguides.com/articles/test-cleanup-in-go-1-14
