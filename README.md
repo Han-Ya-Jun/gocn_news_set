@@ -4,6 +4,17 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-26
+- 1.Go1.14 正式发布 https://mp.weixin.qq.com/s/XJ_bLY-joSkwE28bjo53rw
+
+- 2.Go1.14 基于信号的抢占式调度实现原理 https://gocn.vip/topics/9884
+
+- 3.Go 高级并发 https://gocn.vip/topics/9883
+
+- 4.从零开始入门 K8s https://gocn.vip/topics/9873
+
+- 5.使用 gojsonq 来查询 JSON 字段 https://juejin.im/post/5e53e2efe51d4527196d5352
+
 ## go语言中文网(每日资讯)_2020-02-25
 一、Go语言中文网
 
