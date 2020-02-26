@@ -4,6 +4,39 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-26
+一、Go语言中文网
+
+1. [【每日一库】类似 database/sql 的抽象层，但用于 Key-Value 存储 ](https://mp.weixin.qq.com/s/nkQyiVYFe1jQL1G0DkI1RA)
+
+2. [整洁架构（Clean Architecture）的Go微服务: 设计原则](https://mp.weixin.qq.com/s/C3e983HvRWtHi9MYaS7Dvw)
+
+3. [从零开始入门 K8s | Kubernetes API 编程利器：Operator 和 Operator Framework](https://mp.weixin.qq.com/s/6gHI7dfcwSg7XLL1DfTeZA)
+
+4. [Prometheus与Grafana -- 监控报警系统中的银弹](https://mp.weixin.qq.com/s/Q3ZuDGoP4uki_ngYAjeoZw)
+
+二、Go夜读
+
+1. [Go 1.14 正式发布啦！！！](https://mp.weixin.qq.com/s/l_rj7sHyaHn14nZlZdMh_Q)
+
+三、技术人技术事
+
+1. [Go1.14发布了，快来围观新的特性啦](https://mp.weixin.qq.com/s/Wxo0D9fCs1fhc6uUcqpnyw)
+
+四、Go Blog 
+
+1. [Go 1.14 Release Notes](https://golang.org/doc/go1.14)
+
+五、峰云就她了
+
+1. [go1.14基于netpoll优化timer定时器实现原理](http://xiaorui.cc/2020/02/11/go1-14基于netpoll优化timer定时器实现原理/)
+
+2. [go1.14基于信号的抢占式调度实现原理](http://xiaorui.cc/2020/02/14/go1-14基于信号的抢占式调度实现原理/)
+
+3. [go1.14实现defer性能大幅度提升原理](http://xiaorui.cc/2020/02/23/go1-14实现defer性能大幅度提升原理/)
+
+
+
 ## gocn_news_2020-02-26
 - 1.Go1.14 正式发布 https://mp.weixin.qq.com/s/XJ_bLY-joSkwE28bjo53rw
 
