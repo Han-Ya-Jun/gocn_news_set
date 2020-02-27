@@ -5,16 +5,15 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 ## gocn_news_2020-02-27
-- 1.Go 为什么这么 “快” http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649745513&idx=1&sn=083a6a39a2a98b408a27b9be57ffbdc0
+- 1.Gong 服务实现平滑重启分析 https://www.cnblogs.com/zhucheer/p/12368301.html
 
-- 2.Go 语言基础之结构体 (面向对象编程上) http://www.cnblogs.com/dabric/p/12361979.html
+- 2.Go 为什么这么 “快” http://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649745513&idx=1&sn=083a6a39a2a98b408a27b9be57ffbdc0
 
-- 3.微服务核心架构梳理 https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg
+- 3.Go 语言基础之结构体 (面向对象编程上) http://www.cnblogs.com/dabric/p/12361979.html
 
-- 4.Golang channel 源码深度剖析 https://toutiao.io/k/3b8lqdg
+- 4.微服务核心架构梳理 https://mp.weixin.qq.com/s/i8NzgVHarXYzVbPkqAc3Vg
 
-- 5.
-- 6.加微信实战群请加微信(注明:实战群)：gocnio
+- 5.Golang channel 源码深度剖析 https://toutiao.io/k/3b8lqdg
 
 
 ## go语言中文网(每日资讯)_2020-02-26
