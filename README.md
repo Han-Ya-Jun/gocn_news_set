@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-27
+一、Go语言中文网
+
+1. [如何正确看待 Google 宣布 Fuchsia 操作系统没有选 Go 作为终端开发语言 ](https://mp.weixin.qq.com/s/E1UeZHgHKmd28ww938muig)
+2. [Actor 还是 CSP？Go 中的并发模式还能讲这么细致](https://mp.weixin.qq.com/s/yehR1e0HO400aiUzI4KwZw)
+3. [【每日一库】让你的 json 可以 grep：gron](https://mp.weixin.qq.com/s/0n7cXicUs14TjFyUlhDcxA)
+4. [介绍一款Go项目热编译工具-gowatch](https://mp.weixin.qq.com/s/LWAcbEVvtDZebf58CEsdqA)
+5. [从零开始入门 K8s | 有状态应用编排 - StatefulSet](https://mp.weixin.qq.com/s/yZckUN82MVDftgwIDDMCaA)
+
+二、Go夜读 
+
+1. [第 76 期 Kubernetes Scheduler 设计与实现【点开即可观看】](https://mp.weixin.qq.com/s/jmjmSMU0WYvrG8PnnHRzsA)
+
+三、GoUpUp
+
+1. [Go 每日一库之 message-bus](https://mp.weixin.qq.com/s/HgPtHzkZN2DQtXvNhfOJow)
+
+四、Go Blog 
+
+1. [Go Modules 终极入门](https://mp.weixin.qq.com/s/fNMXfpBhBC3UWTbYCnwIMg)
+
+五、薯条的自我修养 
+
+1. [工程师应该怎么学习](https://mp.weixin.qq.com/s/RY8TfExhVKZaVHoPCwPaiw)
 ## gocn_news_2020-02-27
 - 1.Gong 服务实现平滑重启分析 https://www.cnblogs.com/zhucheer/p/12368301.html
 
