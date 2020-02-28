@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-28
+一、Go语言中文网
+
+1. [Gopher 学习效率低怎么办？曹大谈工程师应该怎么学习 ](https://mp.weixin.qq.com/s/EyD5uFbYtSIc0iHtNW2bww)
+2. [Go的http包中默认路由匹配规则](https://mp.weixin.qq.com/s/_OiabfwAoW6az45fV5-m2Q)
+3. [【每日一库】Web 表单验证利器：go-playground/validator](https://mp.weixin.qq.com/s/hh7WaUaSUe4yCVJQZKj_mA)
+5. [从零开始入门 K8s | Kubernetes 存储架构及插件使用](https://mp.weixin.qq.com/s/RWENw3EG5BZJMeV4hOeeLA)
+
+二、图解源码
+
+1. [图解kubernetes Pod创建流程大揭秘](https://mp.weixin.qq.com/s/5hPKz6YgTURr_CErhKQFrg)
+
+三、 新亮笔记
+
+1. [究竟什么样的开发流程是规范的？](https://mp.weixin.qq.com/s/eaBmnadTw2XJvX9_MW_aiA)
+
+四、阿里云大学
+
+1. [阿里云&CNCF云原生技术公开课](https://edu.aliyun.com/roadmap/cloudnative?from=timeline)
+
+五、学而思网校技术团队
+
+1. [【Golang源码系列】五：锁的实现原理分析](https://mp.weixin.qq.com/s/FhTw-3Kk59dWhkpdLmIPtg)
+
 ## go语言中文网(每日资讯)_2020-02-27
 一、Go语言中文网
 
