@@ -4,9 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-02-29
+- 1.Go Modules 终极入门 https://mp.weixin.qq.com/s/zo7zmEVXvxgr80n6H_49Mg
+- 2.Golang 连接池的几种实现案例 https://juejin.im/post/5e58e3b7f265da57537eb7ed
+- 3.Go 开发的安全漏洞扫描工具 vuls https://github.com/future-architect/vuls
+- 4.MIT 6.824 分布式系统课程第一课：介绍笔记https://gocn.vip/topics/9910
+- 5.如何设计一个可扩展的限流算法 https://mp.weixin.qq.com/s/Knx1dQ8L6cBx4HRUJ-EAUQ
+
 ## go语言中文网(每日资讯)_2020-02-28
 一、Go语言中文网
-
 1. [Gopher 学习效率低怎么办？曹大谈工程师应该怎么学习 ](https://mp.weixin.qq.com/s/EyD5uFbYtSIc0iHtNW2bww)
 2. [Go的http包中默认路由匹配规则](https://mp.weixin.qq.com/s/_OiabfwAoW6az45fV5-m2Q)
 3. [【每日一库】Web 表单验证利器：go-playground/validator](https://mp.weixin.qq.com/s/hh7WaUaSUe4yCVJQZKj_mA)
