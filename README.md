@@ -4,6 +4,25 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-02-29
+一、Go语言中文网
+
+1. [全新的、专为 Go 打造的编辑器 Chime：使用体验报告 ](https://mp.weixin.qq.com/s/kngi5Ze3eUUA6HzNg70f_w)
+2. [整洁架构（Clean Architecture）的Go微服务: 日志管理](https://mp.weixin.qq.com/s/voQjDRJJQp-FIqX2ILXs3g)
+
+二、菜鸟Miao
+
+1. [Dig101: Go之interface调用的一个优化点](https://mp.weixin.qq.com/s/-IBUYuhPTQrIKV8dayneVA)
+
+三、 分布式实验室
+
+1. [微服务下数据一致性的几种实现方式](https://mp.weixin.qq.com/s/7AGxzyy05PBT857_NNdr-Q)
+
+四、架构之美
+
+1. [这么流行的ZooKeeper，原来是这样设计的！](https://mp.weixin.qq.com/s/l0xCZZkNcFfwZhEckBb-qA)
+2. [如此火爆的ZooKeeper，到底如何选主？](https://mp.weixin.qq.com/s/6Lai6Gw9h2YAinS4QqNOLA)
+
 ## gocn_news_2020-02-29
 - 1.Go Modules 终极入门 https://mp.weixin.qq.com/s/zo7zmEVXvxgr80n6H_49Mg
 - 2.Golang 连接池的几种实现案例 https://juejin.im/post/5e58e3b7f265da57537eb7ed
