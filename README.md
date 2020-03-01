@@ -4,6 +4,24 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-01
+- 1.Go 正则表达式使用 https://juejin.im/post/5e5a400df265da57297890e1
+
+- 2.Go 的 sync.WaitGroup 实现逻辑和源码解析 https://juejin.im/post/5e5b62f86fb9a07cb1578fda
+
+- 3.Go 每日一库之 watermill https://segmentfault.com/a/1190000021881252
+
+- 4.Go 中字典的 Comma Ok 是如何实现的 https://gocn.vip/topics/9919
+
+- 5.理解 Go 1.13 中 sync.Pool 的设计与实现 https://gocn.vip/topics/9921
+
+- 6.Go 中国开发者调查报告 https://wj.qq.com/s2/5461562/144e/
+- 7.编辑: 罗发宣 
+- 8.订阅新闻: http://tinyletter.com/gocn
+- 9.
+- 10.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-02-29
 一、Go语言中文网
 
