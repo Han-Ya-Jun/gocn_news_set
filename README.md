@@ -4,6 +4,27 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-01
+1. [Go语言爱好者周刊：第 32 期 ](https://mp.weixin.qq.com/s/X9vIMcKw5ymSPMZxJ8jdjw)
+2. [Go 1.14发版说明（Release Notes）](https://mp.weixin.qq.com/s/UCvCsS_T89MKnhNTEolZ0A)
+3. [好未来Golang源码系列一：Map实现原理分析](https://mp.weixin.qq.com/s/BGjJt86MhpbSNPgh2CLRKw)
+4. [Go语言操作mongoDB](https://mp.weixin.qq.com/s/RTvRPyLUOVzfbiGj4pShGg)
+
+二、小浩算法
+
+1. [小浩漫画算法目录汇总（20200301版）](https://mp.weixin.qq.com/s/sJ4ksVBsGIZOelVCpZyQaw)
+
+三、GoUpUp
+
+1. [Go 每日一库之 watermill](https://mp.weixin.qq.com/s/Bx0BTdBH9RObQEsI1yyImw)
+
+四、网管叨bi叨
+
+1. [Golang连接池的几种实现案例](https://mp.weixin.qq.com/s/qWfci0XCfuNCeAVBoCDW7A)
+
+2. [深入理解Golang之Context](https://mp.weixin.qq.com/s/G6Zujf5sIHvxBKPXBsgvIQ)
+
+
 ## gocn_news_2020-03-01
 - 1.Go 正则表达式使用 https://juejin.im/post/5e5a400df265da57297890e1
 
