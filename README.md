@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-02
+一、Go语言中文网
+
+1. [获得了“官方自己都会踩的”坑认证：slice 类型内存泄露的逻辑 ](https://mp.weixin.qq.com/s/ZJ0-RTOYKfJySPdpDmGGkQ)
+2. [【每日一库】用 Go 绘制图表：go-chart](https://mp.weixin.qq.com/s/l4GVrMCan2pj0801SPjvCw)
+3. [好未来 Golang 源码系列二：Slice实现原理分析](https://mp.weixin.qq.com/s/Hl6qExD0PSA29ZoaD4WitA)
+4. [整洁架构（Clean Architecture）的Go微服务: 程序容器（Application Container）](https://mp.weixin.qq.com/s/qJSUeuK36WYIY69po0Ji_g)
+
+二、 分布式实验室
+
+1. [Kubernetes在喜马拉雅的实践：测试环境稳定性](https://mp.weixin.qq.com/s/_l1bhfkqo38ssJgbiv91dA)
+
+三、阿里巴巴云原生
+
+1. [从零开始入门 K8s | Kubernetes 网络模型进阶](https://mp.weixin.qq.com/s/Jm8VynGd506wN5-yiLHzdg)
+
+四、有赞Coder
+
+1. [【干货】2019年有赞技术大礼包](https://mp.weixin.qq.com/s/LcRH7QVMSdyvhHFiO8T8tg)
+
+五、图解源码
+
+1. [图解kubernetes中的api多版本机制实现](https://mp.weixin.qq.com/s/WRAAZlmWXtSUQQji73nzCw)
+
 ## go语言中文网(每日资讯)_2020-03-01
 1. [Go语言爱好者周刊：第 32 期 ](https://mp.weixin.qq.com/s/X9vIMcKw5ymSPMZxJ8jdjw)
 2. [Go 1.14发版说明（Release Notes）](https://mp.weixin.qq.com/s/UCvCsS_T89MKnhNTEolZ0A)
