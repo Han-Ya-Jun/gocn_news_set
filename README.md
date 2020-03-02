@@ -28,6 +28,18 @@
 
 1. [图解kubernetes中的api多版本机制实现](https://mp.weixin.qq.com/s/WRAAZlmWXtSUQQji73nzCw)
 
+## gocn_news_2020-03-02
+
+- 1.【译文】Go 高级并发 https://mp.weixin.qq.com/s/lSBIPbMXcjoWgrqMVoDanA
+
+- 2.[译] 使用 VSCode 调试 Golang https://gocn.vip/topics/9922
+
+- 3.Goroutine 切换详解 https://medium.com/a-journey-with-go/go-what-does-a-goroutine-switch-actually-involve-394c202dddb7
+
+- 4.大切片一定比小切片代价高吗？ https://dave.cheney.net/2020/03/01/are-large-slices-more-expensive-than-smaller-ones
+
+- 5.优化一个 Go 服务以降低 40%CPU 占用 https://coralogix.com/log-analytics-blog/optimizing-a-golang-service-to-reduce-over-40-cpu/
+
 ## go语言中文网(每日资讯)_2020-03-01
 1. [Go语言爱好者周刊：第 32 期 ](https://mp.weixin.qq.com/s/X9vIMcKw5ymSPMZxJ8jdjw)
 2. [Go 1.14发版说明（Release Notes）](https://mp.weixin.qq.com/s/UCvCsS_T89MKnhNTEolZ0A)
