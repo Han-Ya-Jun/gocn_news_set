@@ -4,6 +4,24 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-03
+- 1.我要远离 Go https://fasterthanli.me/blog/2020/i-want-off-mr-golangs-wild-ride
+
+- 2.Go 1.14 使用 AVX 指令集不兼容老款 Mac 设备 https://github.com/golang/go/issues/37459
+
+- 3.Protocol Buffers 的新 Go API https://blog.golang.org/a-new-go-api-for-protocol-buffers
+
+- 4.Go 测试 HTTP 服务 https://ieftimov.com/post/testing-in-go-testing-http-servers/
+
+- 5.可以运行 WASM 的 Go 库 https://github.com/wasmerio/go-ext-wasm
+
+- 6.Go 中国开发者调查报告 https://wj.qq.com/s2/5461562/144e/
+- 7.编辑: 傅小黑
+- 8.订阅新闻: http://tinyletter.com/gocn
+- 9.
+- 10.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-02
 一、Go语言中文网
 
