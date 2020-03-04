@@ -4,6 +4,27 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-04
+一、Go语言中文网
+
+1. [Go 官宣：新版 Protobuf API ](https://mp.weixin.qq.com/s/7w6BM23CXrXGx4HD8ZnzMg)
+2. [【每日一库】又一个Go绘图和可视化库：plot](https://mp.weixin.qq.com/s/1ajT4l0F3UZF7BsmN1SFjw)
+3. [好未来Golang源码系列四：Interface实现原理分析](https://mp.weixin.qq.com/s/hMbCN13RWnq_f3t4-Me2xA)
+4. [Golang WaitGroup实现原理和源码解析](https://mp.weixin.qq.com/s/Bho_Q5_EwHDyT6yWPOdG8w)
+5. [从零开始入门 K8s | GPU 管理和 Device Plugin 工作机制](https://mp.weixin.qq.com/s/tQrEDKqXuPrgIcmuZ3Xb2Q)
+
+二、 Go夜读
+
+1. [第 77 期阅读 Go 源码带来的收益](https://mp.weixin.qq.com/s/613FIQn0fRhsmSxDJ1KGaQ)
+
+三、网管叨bi叨 
+
+  1. [Go Web 编程--超详细的模板库应用指南](https://mp.weixin.qq.com/s/SWdzuyAuki9qu1LT8fR6Lg)
+
+四、图解源码
+
+1. [图解kubernetes中的api聚合机制设计](https://mp.weixin.qq.com/s/YisTIGfsj3-KuyPZs_jHcw)
+
 ## gocn_news_2020-03-04
 - 1.Go Web 编程: 模板库应用指南 https://segmentfault.com/a/1190000021908290
 
