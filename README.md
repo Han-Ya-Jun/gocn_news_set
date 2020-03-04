@@ -4,6 +4,24 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-04
+- 1.Go Web 编程: 模板库应用指南 https://segmentfault.com/a/1190000021908290
+
+- 2.Go 项目推荐结构 https://github.com/golang-standards/project-layout
+
+- 3.Golang 开发调试入门 https://gocn.vip/topics/9936
+
+- 4.Kubernetes 网络模型进阶 https://gocn.vip/topics/9932
+
+- 5.plot 一个绘图和数据可视化库 https://github.com/gonum/plot
+
+- 6.Go 中国开发者调查报告 https://wj.qq.com/s2/5461562/144e/
+- 7.编辑: yulibaozi
+- 8.订阅新闻: http://tinyletter.com/gocn
+- 9.
+- 10.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-03
 
 一、Go语言中文网
