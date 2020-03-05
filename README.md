@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-05
+一、Go语言中文网
+
+1. [Go：大切片一定比小切片代价大吗？ ](https://mp.weixin.qq.com/s/RlTVM0c20qnrC2Hu6sO7Tg)
+2. [【每日一库】解析和提交 HTML 表单的库：gosubmit](https://mp.weixin.qq.com/s/HzPXUtPZ1ADzpGmReOyHyg)
+3. [【Golang源码系列】五：锁的实现原理分析](https://mp.weixin.qq.com/s/MntwgIJ2ynOAdwnypWUjZw)
+4. [6 个 K8s 日志系统建设中的典型问题，你遇到过几个？](https://mp.weixin.qq.com/s/xIlqBD4UhrXUiPoeLiHgSQ)
+
+二、 容器时代
+
+1. [[译] 使用 VSCode 调试 Golang](https://mp.weixin.qq.com/s/KhcVonNEBL9xHEsEwSfPqw)
+
+三、PingCAP
+
+  1. [今夜讨论：一位 Rust 开发者的 Go 初体验](https://mp.weixin.qq.com/s/UDw0Me_heGaJcUt1MLjDuA)
+
+四、图解源码
+
+1. [图解kubernetes中etcd增删改查的工业实现](https://mp.weixin.qq.com/s/BZVQJ2gEnEfST2IogGhF-w)
+
+五、顶级架构师
+
+1. [微服务核心架构梳理](https://mp.weixin.qq.com/s/KJwTeDd2YilyvwwrfzY7XA)
+
 ## go语言中文网(每日资讯)_2020-03-04
 一、Go语言中文网
 
