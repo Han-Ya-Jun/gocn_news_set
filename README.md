@@ -27,6 +27,17 @@
 五、顶级架构师
 
 1. [微服务核心架构梳理](https://mp.weixin.qq.com/s/KJwTeDd2YilyvwwrfzY7XA)
+## gocn_news_2020-03-05
+- 1.Goroutine 调度都涉及到哪些 https://medium.com/a-journey-with-go/go-what-does-a-goroutine-switch-actually-involve-394c202dddb7
+
+- 2.Go 中检测 module 中更新操作库  https://github.com/rvflash/goup
+
+- 3.Go 之 interface 调用的一个优化点 https://gocn.vip/topics/9946
+
+- 4.构建 Golang docker 镜像 https://bitfieldconsulting.com/blog/building-a-golang-docker-image
+
+- 5.Go 实现的一种用于安全高效地构建，更改和版本控制基础设施 Terraform https://github.com/hashicorp/terraform
+
 
 ## go语言中文网(每日资讯)_2020-03-04
 一、Go语言中文网
