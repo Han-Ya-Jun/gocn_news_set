@@ -4,6 +4,29 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-06
+一、Go语言中文网
+
+1. [据说这个引战了：一位 Rust 开发者的 Go 初体验 ](https://mp.weixin.qq.com/s/E8OUaGqR_furgYsdey34bg)
+2. [【每日一库】超赞的 Go 语言 INI 文件操作](https://mp.weixin.qq.com/s/YOWsxUIrYITSUsf_iU6XkA)
+3. [好未来源码分析：Golang内存分配](https://mp.weixin.qq.com/s/CL5ygUhD6UdDCE0H1IfBeA)
+
+二、 Go夜读
+
+1. [第 77 期阅读 Go 源码带来的收益【点开即可观看】](https://mp.weixin.qq.com/s/en1_DKGkn0U79h0XoWkmkQ)
+
+三、 学而思网校团队
+
+1. [【Golang源码系列】六：对象池的实现原理分析](https://mp.weixin.qq.com/s/rxylLucVkzzJT9c2RAudeQ)
+
+四、 阿里云云栖号
+
+1. [dubbo-go 中如何实现远程配置管理](https://mp.weixin.qq.com/s/4Yh3HdXP5sJILw-OdK7-AQ)
+
+五、有赞coder
+
+  1. [有赞全链路追踪实践](https://mp.weixin.qq.com/s/TAiQjfkxJd_uDkDHNE_Sjg)
+
 ## go语言中文网(每日资讯)_2020-03-05
 一、Go语言中文网
 
