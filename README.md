@@ -27,6 +27,17 @@
 
   1. [有赞全链路追踪实践](https://mp.weixin.qq.com/s/TAiQjfkxJd_uDkDHNE_Sjg)
 
+## gocn_news_2020-03-06
+- 1.TIOBE 3 月榜单：Go 挤进前十 https://gocn.vip/topics/9950
+
+- 2.Go 的方法集详解 https://mp.weixin.qq.com/s/sWDrVL0EsHzCDNDpGtpT-A
+
+- 3.Go 内存安全之边界检查 https://medium.com/a-journey-with-go/go-memory-safety-with-bounds-check-1397bef748b5
+
+- 4.通过 kubeedge 点亮树莓派的 LED 灯 https://github.com/kubeedge/examples/tree/master/led-raspberrypi
+
+- 5.plik: 一款开源的临时文件上传系统 https://github.com/root-gg/plik
+
 ## go语言中文网(每日资讯)_2020-03-05
 一、Go语言中文网
 
