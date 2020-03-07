@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-07
+
+一、Go语言中文网
+
+1. [除了标准库 sync 包外，这个官方包(golang.org/x下的)你应该了解 ](https://mp.weixin.qq.com/s/WSwFbeSoedAtQCPD3andvQ)
+2. [TIOBE 发布 2020 年 3 月编程语言排行榜，Go 语言的表现令人惊叹！](https://mp.weixin.qq.com/s/_N0pEy7uUO8jvSc3OalsGQ)
+3. [好未来Golang源码系列六：对象池的实现原理分析](https://mp.weixin.qq.com/s/pMooZiba5VzbILr4OYlYzA)
+4. [一文看懂 K8s 日志系统设计和实践](https://mp.weixin.qq.com/s/n4iuPa9H7VYj0zdsoPm5zg)
+
+二、 图解源码
+
+1. [图解kubernetes中基于etcd的watch关键设计](https://mp.weixin.qq.com/s/XzfTcTRf2i52pmfU2lnSwQ)
+
+三、 菜鸟Miao
+
+1. [《数学通识50讲》复盘：数学给了我什么启示？](https://mp.weixin.qq.com/s/XsiEr4u6Os40i7alQFWcZw)
+
+四、 Go语言充电站
+
+1. [从因果关系谈个人能力建设和面试](http://lessisbetter.site/2020/03/01/causal-relationship-and-personal-ability/)
+
+五、面向信仰编程
+
+1. [为什么 TCP 协议有粘包问题 · Why's THE Design?](https://draveness.me/whys-the-design-tcp-message-frame)
+
 ## gocn_news_2020-03-07
 - 1.用 Go STL 查询 DB 引发的内存泄露 https://gocn.vip/topics/9963
 
