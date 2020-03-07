@@ -4,6 +4,23 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-07
+- 1.用 Go STL 查询 DB 引发的内存泄露 https://gocn.vip/topics/9963
+
+- 2.Golang 调度器 GMP 原理与调度全分析 https://www.jianshu.com/p/fa696563c38a
+
+- 3.Go 之读懂 interface 的底层设计 https://mp.weixin.qq.com/s/81mLETTbbNmA86qKHCGOZQ
+
+- 4.Go Modules 处理私有 GIT Repository 流程 https://blog.wu-boy.com/2020/03/read-private-module-in-golang
+
+- 5.RPC 和线程 https://qtmuniao.com/2020/03/06/6-824-video-notes-2
+
+- 6.Go 中国开发者调查报告 https://wj.qq.com/s2/5461562/144e/
+
+- 7.
+- 8.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-06
 一、Go语言中文网
 
