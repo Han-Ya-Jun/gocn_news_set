@@ -4,6 +4,23 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-08
+- 1.分析 kubernetes 中的事件机制 https://gocn.vip/topics/9965 
+- 2.Micro 实战之分布式定时任务 https://itnext.io/micro-in-action-coda-distributed-cron-job-a2b577885b24
+
+- 3.在 Go 中对 cli 程序进行单元测试 https://medium.com/swlh/unit-testing-cli-programs-in-go-6275c85af2e7
+
+- 4.Go 语言 inline 内联的策略与限制 https://pengrl.com/p/20028/
+
+- 5.如何在调试期间找到 Goroutines https://blog.jetbrains.com/go/2020/03/03/how-to-find-goroutines-during-debugging/
+
+- 6.Go 中国开发者调查报告 https://wj.qq.com/s2/5461562/144e/
+- 7.编辑: lwhile
+- 8.订阅新闻: http://tinyletter.com/gocn
+- 9.
+- 10.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-07
 
 一、Go语言中文网
