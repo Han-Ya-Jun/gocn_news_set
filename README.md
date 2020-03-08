@@ -4,6 +4,26 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-08
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 33 期 ](https://mp.weixin.qq.com/s/QjeLmMqu5CTtVSVx0DsI5Q)
+2. [Go Modules 处理私有 Git Repository 的流程](https://mp.weixin.qq.com/s/MFE1mmS1jz8jM_ufL_HptQ)
+3. [9 个技巧，解决 K8s 中的日志输出问题](https://mp.weixin.qq.com/s/5Nc2M1ZayTMoP2ExgI9E5Q)
+
+二、 分布式实验室
+
+1. [爱奇艺微服务平台 API 网关实战](https://mp.weixin.qq.com/s/rIjzhsOMSMqS6yTUnaFJqQ)
+
+三、面向信仰编程
+
+1. [为什么 HTTPS 需要 7 次握手以及 9 倍时延 · Why's THE Design?](https://draveness.me/whys-the-design-https-latency)
+2. [为什么 TCP/IP 协议会拆分数据 · Why's THE Design?](https://draveness.me/whys-the-design-tcp-segment-ip-packet)
+3. [为什么 TCP 协议有性能问题 · Why's THE Design?](https://draveness.me/whys-the-design-tcp-performance)
+4. [为什么 UDP 头只有 8 个字节 · Why's THE Design?](https://draveness.me/whys-the-design-udp-minimum-header)
+5. [为什么 TCP 建立连接需要三次握手 · Why's THE Design?](https://draveness.me/whys-the-design-tcp-three-way-handshake)
+
 ## gocn_news_2020-03-08
 - 1.分析 kubernetes 中的事件机制 https://gocn.vip/topics/9965 
 - 2.Micro 实战之分布式定时任务 https://itnext.io/micro-in-action-coda-distributed-cron-job-a2b577885b24
