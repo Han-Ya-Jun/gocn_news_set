@@ -4,6 +4,24 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-09
+- 1.Go 1.14 中值得关注的几个变化 https://tonybai.com/2020/03/08/some-changes-in-go-1-14
+
+- 2.go-mir v2.0.0 发布，用 Go 结构体标签定义 handler 路由信息的辅助库 https://www.oschina.net/news/113908/go-mir-2-0-released
+
+- 3.Go 防缓存击穿——singleflight https://segmentfault.com/a/1190000021949846
+
+- 4.Go Web 编程--如何确保 Cookie 数据的安全传输 https://segmentfault.com/a/1190000021949077
+
+- 5.TCP&UDP 端口扫描器开源项目 https://github.com/R4yGM/netscanner
+
+- 6.Go 中国开发者调查报告 https://wj.qq.com/s2/5461562/144e/
+- 7.编辑: 宋佳洋 
+- 8.订阅新闻: http://tinyletter.com/gocn 
+- 9.
+- 10.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-08
 
 一、Go语言中文网
