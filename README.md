@@ -4,6 +4,22 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-09
+一、Go语言中文网
+
+1. [太优秀了！竟然直播分布式写书：TiDB In Action 48小时写完了 ](https://mp.weixin.qq.com/s/hrXyd5qS2S4UtflxDuXHqg)  [tidb-in-action](https://github.com/pingcap-incubator/tidb-in-action/blob/master/SUMMARY.md)
+2. [换个角度看：Go里的unsafe包是什么？](https://mp.weixin.qq.com/s/pb9TNEE4Jp2mdrJcKyzhEg)
+3. [从零开始入门 K8s | 调度器的调度流程和算法介绍](https://mp.weixin.qq.com/s/oHfB0NGKLD0tX6Pn0c4fgQ)
+
+二、 分布式实验室
+
+1. [挖财的 Kubernetes 容器化之路](https://mp.weixin.qq.com/s/4nFAIxiabWtn3ZaRDhO3UQ)
+
+三、Go夜读
+
+1. [【加餐】第 78 期 Go Scheduler 源码分析](https://mp.weixin.qq.com/s/N0rNuXvWYOvSH9cGTz9wQg)
+2. [预习资料](https://github.com/developer-learning/night-reading-go/issues/463)
+
 ## gocn_news_2020-03-09
 - 1.Go 1.14 中值得关注的几个变化 https://tonybai.com/2020/03/08/some-changes-in-go-1-14
 
