@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-10
+- 1.可视化 Go 内存管理: https://tonybai.com/2020/03/10/visualizing-memory-management-in-golang/ 
+- 2.Go signal 详解：https://medium.com/a-journey-with-go/go-gsignal-master-of-signals-329f7ff39391
+
+- 3.历时 48 小时，开源电子书第一版完成！https://mp.weixin.qq.com/s/GGGbouw7soZDFc56MR7BcA
+
+- 4.为什么 TCP 协议有粘包问题: https://draveness.me/whys-the-design-tcp-message-frame 
+- 5.与程序员相关的 CPU 缓存知识: https://coolshell.cn/articles/20793.html 
+- 6.Go 中国开发者调查报告 https://wj.qq.com/s2/5461562/144e/
 ## go语言中文网(每日资讯)_2020-03-09
 一、Go语言中文网
 
