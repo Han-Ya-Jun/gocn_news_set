@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-10
+一、Go语言中文网
+
+1. [一文掌握 Go 语言 Select 的四大用法 ](https://mp.weixin.qq.com/s/-i-PoCTPuhRpd4cAKpNwuw)  
+2. [Go 如何防止缓存穿透](https://mp.weixin.qq.com/s/s8i2wQXHaP9EDJ0uXIR54A)
+3. [从零开始入门 K8s | 理解 CNI 和 CNI 插件](https://mp.weixin.qq.com/s/g3QECjZOgbEZ8FG9R3b9iw)
+
+二、轩脉刃的刀光剑影
+
+1. [Vscode-Go插件的这些用法，你真的知道么？](https://mp.weixin.qq.com/s/-urPXiNGbpQbyl51HtxU5g)
+
+三、Go夜读
+
+1. [【【本周四预告】第 79 期 Go-Micro 运行时工具集](https://mp.weixin.qq.com/s/UgvtmLd-9bJogYlUkHq8_w)
+2. [预习资料](https://github.com/developer-learning/night-reading-go/issues/534)
+
+四、 360云计算
+
+  1. [Go实现Raft第一篇：介绍](https://mp.weixin.qq.com/s/5GJIGx7aeHpDdPCs4jyE2Q)
+
+五、云原生实验室
+
+1. [iTerm2 都不会用，还敢自称老司机？（上）](https://mp.weixin.qq.com/s/zxT0N_X2pnXtD3inDFWedg)
+
 ## gocn_news_2020-03-10
 - 1.可视化 Go 内存管理: https://tonybai.com/2020/03/10/visualizing-memory-management-in-golang/ 
 - 2.Go signal 详解：https://medium.com/a-journey-with-go/go-gsignal-master-of-signals-329f7ff39391
