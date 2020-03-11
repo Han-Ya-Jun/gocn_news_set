@@ -4,6 +4,24 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-11
+- 1.搞懂 Go 垃圾回收 https://gocn.vip/topics/9986
+
+- 2.Go 实现 Raft 第一篇：介绍 https://mp.weixin.qq.com/s/5GJIGx7aeHpDdPCs4jyE2Q
+
+- 3.从零开始入门 K8s| 理解 CNI 和 CNI 插件 https://gocn.vip/topics/9984
+
+- 4.如何使用自动检测改进代码质量 https://medium.com/better-programming/how-to-improve-code-quality-with-an-automatic-check-in-go-d18a5eb85f09
+
+- 5.API 网关和服务网格的区别 https://mp.weixin.qq.com/s/cdRjQdgaA6Z9x8UZgGTN2Q
+
+- 6.编辑: 周云轩
+- 7.订阅新闻: http://tinyletter.com/gocn
+
+- 8.
+- 9.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-10
 一、Go语言中文网
 
