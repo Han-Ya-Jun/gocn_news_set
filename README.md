@@ -4,6 +4,22 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-11
+一、Go语言中文网
+
+1. [Micro In Action（一）：入门 ](https://mp.weixin.qq.com/s/LKNJyMx1gz6qrGlVpR0Mbg)  
+2. [【每日一库】一个零 GC 的缓存库：freecache](https://mp.weixin.qq.com/s/Wm1Hb51n0BCTSIP_VFVcxQ)
+3. [“网红” WebAssembly 与 K8s 如何实现双剑合璧？](https://mp.weixin.qq.com/s/TWt9-All1U_m_5RlGPOg3Q)
+
+二、分布式实验室
+
+1. [如何在10分钟内用Prometheus和Grafana监控Django应用](https://mp.weixin.qq.com/s/EHlXhdVAVw_IBl8rhnP0tg)
+
+三、TonyBai
+
+1. [可视化Go内存管理](https://mp.weixin.qq.com/s/f4yTnwJG8iFkUHpnfVcHfw)
+2. [小心go.mod中的go directive](https://mp.weixin.qq.com/s/cX2TBw7vqFc3zQMuQSVP4g)
+
 ## gocn_news_2020-03-11
 - 1.搞懂 Go 垃圾回收 https://gocn.vip/topics/9986
 
