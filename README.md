@@ -4,6 +4,26 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-12
+一、Go语言中文网
+
+1. [官方博文：使用 Go Cloud 的 Wire 进行编译时依赖注入 ](https://mp.weixin.qq.com/s/e8NeYNXS0ju5h6dnbZleDA)  
+2. [神奇了！这个 Go 项目让前端构建快了近 100 倍](https://mp.weixin.qq.com/s/Ky5yfEWZx98Hxah9j7R2mQ)
+3. [VS Code 1.43发布：远程开发、同步设置等新特性](https://mp.weixin.qq.com/s/XTUr9OZSb8UeBcGiYS5y1g)
+4. [3 种发布策略，解决 K8s 中快速交付应用的难题](https://mp.weixin.qq.com/s/wSl6Gso3cTCpDnR7urS2fQ )
+
+二、 HHF技术博客
+
+1. [一次错误使用 go-cache 导致出现的线上问题](https://mp.weixin.qq.com/s/tcsSgCRj-tBDD7qyq53IAw)
+
+三、51CTO技术栈
+
+1. [为什么我们要从MySQL迁移到TiDB？](https://mp.weixin.qq.com/s/8d7aUr32tOWCCMihpIqZ-A)
+
+四、GoUpUp
+
+1. [Go 每日一库之 mergo](https://mp.weixin.qq.com/s/SqdQSnk2SzXRAv16X0qkBQ)
+
 ## gocn_news_2020-03-12
 
 - 1.go 结构体继承组合和匿名字段  http://www.cnblogs.com/biningooginind/p/12467384.html
