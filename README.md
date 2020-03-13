@@ -4,6 +4,24 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-13
+- 1.全球首发特性，goproxy.io 支持海外私有库代理了 https://gocn.vip/topics/10016
+
+- 2.直击痛点，详解 K8s 日志采集最佳实践 https://gocn.vip/topics/10019
+
+- 3.map 并发崩溃一例：顺便吐槽 Go 打印堆栈不友好 https://mp.weixin.qq.com/s/DJeyxJhHD8IC0V-l7Ogwww
+
+- 4.Go：一文读懂 Wire https://medium.com/@dche423/master-wire-cn-d57de86caa1b
+
+- 5.Go 为什么这么 “快” https://gocn.vip/topics/10015
+
+- 6.Go 中国开发者调查报告 https://wj.qq.com/s2/5461562/144e/
+- 7.编辑: 何小云
+- 8.订阅新闻: http://tinyletter.com/gocn
+- 9.
+- 10.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-12
 一、Go语言中文网
 
