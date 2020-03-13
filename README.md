@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-13
+一、Go语言中文网
+
+1. [map 并发崩溃一例：顺便吐槽 Go 打印堆栈不友好 ](https://mp.weixin.qq.com/s/DJeyxJhHD8IC0V-l7Ogwww)  
+2. [一文读懂 Go官方的 Wire](https://mp.weixin.qq.com/s/ZQKi9O7DRJ3qGWhDL9aTVg)
+3. [知道 Postman 和 Postwoman 吗？今天又来了一个开源项目 Protoman](https://mp.weixin.qq.com/s/l5TaGGjU4qg2ABkZzu2TXw)
+4. [直击痛点，详解 K8s 日志采集最佳实践](https://mp.weixin.qq.com/s/hvDaEaokxcekXCxREcEX1A )
+
+二、 架构之家
+
+1. [架构解析：C4分层架构模型](https://mp.weixin.qq.com/s/ibGqfdOwRGqvIBSYE7_gZQ)
+
+三、 findyi
+
+1. [2020最硬核书单](https://mp.weixin.qq.com/s/zmbnoA04gCHJ3nzbN0sV7Q)
+
+四、GoUpUp
+
+1. [Go 每日一库之 copier](https://mp.weixin.qq.com/s/KXRqSxvZAulWp2vHNQNKfw)
+
+五、图解源码
+
+1. [图解kubernetes控制器Node生命周期管理](https://mp.weixin.qq.com/s/UtK5x-tl_OLpbUwWCtE_iQ)
+
 ## gocn_news_2020-03-13
 - 1.全球首发特性，goproxy.io 支持海外私有库代理了 https://gocn.vip/topics/10016
 
