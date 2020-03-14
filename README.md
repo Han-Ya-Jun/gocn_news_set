@@ -4,6 +4,21 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-14
+- 1.Golang 处理大数据时使用高效的 Pipeline 执行模型 https://segmentfault.com/a/1190000014788594
+
+- 2.在 Scratch 上用 go 写个 SQL 数据库  http://notes.eatonphil.com/database-basics.html
+
+- 3.Prometheus 收集 Go 程序 metrics 接口监控数据 https://dev.to/codenation/using-prometheus-to-collect-metrics-from-golang-applications-35gc
+
+- 4.如何测试 Go cobra 程序https://gianarb.it/blog/golang-mockmania-cli-command-with-cobra
+
+- 5.美团云原生之容器安全实践 https://tech.meituan.com/2020/03/12/cloud-native-security.html
+
+- 6.
+- 7.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-13
 一、Go语言中文网
 
