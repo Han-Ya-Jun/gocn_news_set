@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-15
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 34 期 ](https://mp.weixin.qq.com/s/0bzeHqdGgZi0OsBVDe00wg)  
+2. [深入浅出Golang的协程池设计](https://mp.weixin.qq.com/s/BdqqURZeDuV_z9sol9lmmw)
+3. [Micro In Action(三)：调用服务](https://mp.weixin.qq.com/s/Oj2ji3rgRs2cSGewh_RElQ)
+4. [从零开始入门 K8s | etcd 性能优化实践](https://mp.weixin.qq.com/s/pwUaWWPob5YwZq745K0DDA)
+
+二、菜鸟Miao
+
+1. [如何优雅的使用opa进行开发](https://mp.weixin.qq.com/s/Mtkkv6LJi8hsspgiGXU0yA)
+
+三、GoUpUp
+
+1. [Go 每日一库之 jennifer](https://mp.weixin.qq.com/s/tXEM0u8syZf6Hx2qMyjjiw)
+
+四、互联网技术窝
+
+1. [图解Go的unsafe.Pointer](https://mp.weixin.qq.com/s/1Bl5smc1KE4WuusTKZj8zw)
+
+五、 ArchSummit全球架构师峰会
+
+1. [美团点评研发过程度量平台建设实践](https://mp.weixin.qq.com/s/FYBOf1khJv1dnVCiKDBjLA)
+
 ## gocn_news_2020-03-15
 - 1.gormt mysql 数据库转换工具 https://gocn.vip/topics/10029
 - 2.go 中的引用类型 https://juejin.im/post/5e6d8d9e6fb9a07cc97db58c
