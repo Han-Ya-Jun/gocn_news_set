@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-15
+- 1.gormt mysql 数据库转换工具 https://gocn.vip/topics/10029
+- 2.go 中的引用类型 https://juejin.im/post/5e6d8d9e6fb9a07cc97db58c
+- 3.golang.org/x 下的你还应该了解  https://mp.weixin.qq.com/s/WSwFbeSoedAtQCPD3andvQ
+- 4.go-cache 源码分析 https://www.cnblogs.com/Moon-Light-Dream/p/12494683.html
+- 5.来自真实世界的编写可维护 Go 代码建议 https://gocn.vip/topics/10033
+- 6.
+- 7.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-14
 一、Go语言中文网
 
