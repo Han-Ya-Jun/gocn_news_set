@@ -4,6 +4,34 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-16
+一、Go语言中文网
+
+1. [Go1.14 的这个改进让 Gopher 生活更美好 ](https://mp.weixin.qq.com/s/nTMVVgc9tozLJJud3FeuLg)
+2. [一次 golang fasthttp 踩坑经验](https://mp.weixin.qq.com/s/xreXM3mU47Qzj16bK1vxXA)
+3. [一款将 mysql 数据库转 struct 的工具 gormt](https://mp.weixin.qq.com/s/hpjz2Ak46lDYadqtNSLnag)
+4. [从零开始入门 K8s | 手把手带你理解 etcd](https://mp.weixin.qq.com/s/tmC0xntvuzXcf37WailnXQ )
+
+二、高可用架构
+
+1. [Go语言如何实现stop the world？](https://mp.weixin.qq.com/s/gNAani93Xrb02oDsgDc1fQ)
+
+三、非常程序员
+
+1. [[译] malloc中的系统调用brk和mmap](https://mp.weixin.qq.com/s/4iV74g3OIp0FKXyAkv6jWw)
+
+四、分布式实验室
+
+1. [Kubernetes生态体系落地过程中的选型和踩坑]( https://mp.weixin.qq.com/s/TkeFaIUW7p8G2hnqiMvrCg)
+
+五、腾讯技术工程
+
+1. [深入理解 MySQL 索引底层原理](https://mp.weixin.qq.com/s/qHJiTjpvDikFcdl9SRL97Q)
+
+六、 MoeLove
+
+1. [K8S 生态周报| Helm v3.1.2 发布](https://mp.weixin.qq.com/s/WhxuNlpmWli70gOpYtJFiw)
+
 ## gocn_news_2020-03-16
 - 1.重新学习 Slice https://kilabit.info/journal/2020/re-learning_slice/
 
