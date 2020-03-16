@@ -4,6 +4,28 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-16
+- 1.重新学习 Slice https://kilabit.info/journal/2020/re-learning_slice/
+
+- 2.编写简洁接口的最佳时间 https://qvault.io/2020/03/15/best-practices-for-writing-clean-interfaces-in-go/
+
+- 3.Go-Micro 运行时工具集（三） https://gocn.vip/topics/10032
+
+- 4.理解 Go 接口的实际应用 https://colobu.com/2020/03/15/understanding-Real-World-interface-design-in-go/
+
+- 5.最佳的 K8s 教程推荐 https://www.magalix.com/blog/the-best-kubernetes-tutorials
+
+- 6.[深圳] 九九互动科技招聘 Golang 工程师 https://gocn.vip/topics/10027
+
+- 7.[上海][拼多多] 高可用架构小组招聘 https://gocn.vip/topics/10017
+- 8.编辑: 李俱顺 Kevin
+- 9.订阅新闻: http://tinyletter.com/gocn
+- 10.招聘专区: https://gocn.vip/jobs
+- 11.GoCN 归档: https://gocn.vip/topics/10043
+- 12.
+- 13.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-15
 一、Go语言中文网
 
