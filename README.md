@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-17
+一、Go语言中文网
+
+1. [官方不推荐使用 Goroutine ID，但它自己却使用了：原来是这么做的 ](https://mp.weixin.qq.com/s/K9HXoqSw3vIfSrsLcNBJEg)
+2. [2020重学Go系列：10. Go语言流程控制：if-else 条件语句](https://mp.weixin.qq.com/s/LN_EGtBK_6fMjal0vOzkww)
+3. [Go 每日一库之 email](https://mp.weixin.qq.com/s/nxLZ3VEKV_6ory7n8feS9w)
+4. [Golang实现一种生存UUID唯一标识的方法](https://mp.weixin.qq.com/s/3QiTEdi9h5N1bjc88xGvpQ)
+
+二、Go夜读
+
+1. [【本周四预告】第 81 期 GORM 简介](https://mp.weixin.qq.com/s/jwwqKK5UwqmmpfOq34rWSA)
+2. [预习材料](https://github.com/developer-learning/night-reading-go/issues/511)
+
+三、非常程序员
+
+1. [Go进程的HeapReleased上升，但是RSS不下降造成内存泄漏？](https://mp.weixin.qq.com/s/BSuuSTWprpLjA8JL22gh1w)
+
+四、一艘慢船
+
+1. [Go编程：级别日志 glog 的使用陷阱与改造](https://mp.weixin.qq.com/s/dak0ascH8e1VQiCOxV3_OQ)
+
+五、分布式实验室
+
+1. [微服务时代的DDD：实现领域模型](https://mp.weixin.qq.com/s/mXSiDqWhYkYDM-c8x1LYsg)
+
 ## go语言中文网(每日资讯)_2020-03-16
 一、Go语言中文网
 
