@@ -29,6 +29,17 @@
 
 1. [微服务时代的DDD：实现领域模型](https://mp.weixin.qq.com/s/mXSiDqWhYkYDM-c8x1LYsg)
 
+## gocn_news_2020-03-16
+- 1.用 Golang 实现基于 Redis 的安全高效 RPC 通信 https://juejin.im/post/5e6eece16fb9a07cd614edcf
+
+- 2.使用 Go 语言创建 WebSocket 服务 https://juejin.im/post/5e6f42f8e51d4526ca15e89b
+
+- 3.Go 内存分配器原理 https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-memory-allocator/
+
+- 4.理解 Golang 的 unsafe https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang
+
+- 5.GolangCI.com 即将关闭 https://medium.com/golangci/golangci-com-is-closing-d1fc1bd30e0e
+
 ## go语言中文网(每日资讯)_2020-03-16
 一、Go语言中文网
 
