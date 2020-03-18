@@ -4,6 +4,28 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-18
+一、Go语言中文网
+
+1. [用 Go 编写能存数百万条记录仍非常快的缓存服务 ](https://mp.weixin.qq.com/s/5OlvWwp6EXPntwayd5xtTQ)
+2. [曹春晖：谈一谈 Go 和 Syscall](https://mp.weixin.qq.com/s/YPiYNPa3xVD9Il1HeB5pTw)
+3. [Micro In Action(四)：Pub/Sub](https://mp.weixin.qq.com/s/r7XfwNSfGkhd0e4G8nxvWw)
+4. [2020重学Go系列：11. Go语言流程控制：switch-case 选择语句](https://mp.weixin.qq.com/s/vBQIBxEwtpVjLS0vL6hb7Q)
+5. [这个系列我还是想发：Go 1.14中值得关注的几个变化](https://mp.weixin.qq.com/s/KlWOzlCsSm8GnKwCzo3Cbg)
+
+二、Go夜读
+
+1. [【马上开始】第 80 期带你提前玩 Go 2 新特性：泛型](https://mp.weixin.qq.com/s/rQ3suV7QO6XpHTRFuUdixA)
+2. [预习材料](https://github.com/developer-learning/night-reading-go/issues/573)
+
+三、容器时代
+
+1. [使用GUI工具Portainer.io管控Docker容器](https://mp.weixin.qq.com/s/ru4P8KaTtfTByjBQCjd4ng)
+
+四、分布式实验室
+
+1. [RabbitMQ和Kafka的比较](https://mp.weixin.qq.com/s/_FBTtOSxUA_ghli46g0Z7w)
+
 ## go语言中文网(每日资讯)_2020-03-17
 一、Go语言中文网
 
