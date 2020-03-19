@@ -45,6 +45,17 @@
 
 1. [RabbitMQ和Kafka的比较](https://mp.weixin.qq.com/s/_FBTtOSxUA_ghli46g0Z7w)
 
+## gocn_news_2020-03-18
+- 1.CPU 性能、内存分析调试方法汇总 https://gocn.vip/topics/10054
+
+- 2.深入理解 Go 语言的垃圾回收 https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-garbage-collector/
+
+- 3.Go 调用原生 epoll 引起 event loop 阻塞问题 http://xiaorui.cc/archives/6758
+
+- 4.[译] Serverless 可观察性的最佳实践 https://mp.weixin.qq.com/s/rDuE1Q8BfG-fayEy7fd33A
+
+- 5.K8s 安全之访问控制 https://gocn.vip/topics/10051
+
 ## go语言中文网(每日资讯)_2020-03-17
 一、Go语言中文网
 
@@ -70,7 +81,7 @@
 
 1. [微服务时代的DDD：实现领域模型](https://mp.weixin.qq.com/s/mXSiDqWhYkYDM-c8x1LYsg)
 
-## gocn_news_2020-03-16
+## gocn_news_2020-03-17
 - 1.用 Golang 实现基于 Redis 的安全高效 RPC 通信 https://juejin.im/post/5e6eece16fb9a07cd614edcf
 
 - 2.使用 Go 语言创建 WebSocket 服务 https://juejin.im/post/5e6f42f8e51d4526ca15e89b
