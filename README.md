@@ -4,6 +4,24 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-19
+一、Go语言中文网
+
+1. [鹅厂工程师告诉你 Go 为什么这么“快” ](https://mp.weixin.qq.com/s/enjlUh9ldfpLUdU1VQFkRA)
+2. [Micro In Action(五)：Message Broker](https://mp.weixin.qq.com/s/S1-s0hQNWV35iBBT06GlEA)
+3. [Go Web编程—深入学习解析HTTP请求](https://mp.weixin.qq.com/s/eewXxLEDa3lujKbcePdTfw)
+4. [2020重学Go系列：12. Go语言流程控制：for 循环语句](https://mp.weixin.qq.com/s/u4via2y73hLwF_roQvA3rQ)
+
+二、学院君的后花园
+
+1. [Go 语言 Web 编程系列（十）—— 基于 gorilla/mux 包实现路由匹配：健康检查与接口测试](https://mp.weixin.qq.com/s/aEotE1v8XQtAr9VAWcglEg)
+2. [Go 语言 Web 编程系列（九）—— 基于 gorilla/mux 包实现路由匹配：通过 CORS 处理跨域请求](https://mp.weixin.qq.com/s/m15pF4brdkFyBj7K1IZyOg)
+3. [Go 语言 Web 编程系列（八）—— 基于 gorilla/mux 包实现路由匹配：服务 SPA 应用](https://mp.weixin.qq.com/s/6npxP2ZPXrrfzvZkTrB-tg)
+
+三、分布式实验室
+
+1. [微服务设计模式](https://mp.weixin.qq.com/s/mHHPaYEvon4zFHHDNP8A9A)
+
 ## gocn_news_2020-03-19
 - 1.使用 DynamoDB 在 Go 中构建无服务器 CRUD 服务 https://dev.to/wingkwong/building-serverless-crud-services-in-go-with-dynamodb-part-6-bonus-129i
 
