@@ -4,6 +4,25 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-19
+- 1.使用 DynamoDB 在 Go 中构建无服务器 CRUD 服务 https://dev.to/wingkwong/building-serverless-crud-services-in-go-with-dynamodb-part-6-bonus-129i
+
+- 2.Golang 安全性方面 https://dev.to/pavanbelagatti/security-aspects-in-golang-and-more-12c
+
+- 3.在 OperationCode 上重构 Kubernetes 基础架构 https://itnext.io/refactoring-the-kubernetes-infrastructure-at-operationcode-229e391e3ad9
+
+- 4.Golang 实现的即时通讯服务 https://github.com/tinode/chat
+
+- 5.Go 的 BDD 测试框架 https://github.com/onsi/ginkgo
+
+- 6.[新加坡] Shopee 招聘 SRE 和 Go 工程师 https://gocn.vip/topics/9971
+
+- 7.[杭州] 字节跳动基础架构招 Go/云原生/K8S 工程师https://gocn.vip/topics/10064
+
+- 8.
+- 9.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-18
 一、Go语言中文网
 
