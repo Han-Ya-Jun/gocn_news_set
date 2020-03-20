@@ -4,6 +4,21 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-20
+- 1.Go 1.14.1 和 Go 1.13.9 新版本发布 https://gocn.vip/topics/10075
+
+- 2.带你提前玩 Go 2 新特性：泛型 https://gocn.vip/topics/10071
+
+- 3.Go 实现 Raft 第二篇：选举 https://mp.weixin.qq.com/s/zgLcBWuVzFsKkNngKW85Zw
+
+- 4.图示 Go Runtime 调度器 https://medium.com/@ankur_anand/illustrated-tales-of-go-runtime-scheduler-74809ef6d19b
+
+- 5.Kong 入口控制器和服务网格：Kubernetes 设置入口到 Istio https://mp.weixin.qq.com/s/C3gaDJ6YQYTR3SifpPrqNw
+
+- 6.
+- 7.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-19
 一、Go语言中文网
 
