@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-20
+一、Go语言中文网
+
+1. [滴滴Go实战：高频服务接口超时排查&性能调优 ](https://mp.weixin.qq.com/s/8l2Qf2vozhCcb9AvvJSBYA)
+2. [虽然不推荐，但万一你想要呢？如何使用go module导入本地包](https://mp.weixin.qq.com/s/9RKEe8k_BCRnXnzUWLKFsg)
+3. [Go 每日一库之 Uber 的依赖注入库 dig](https://mp.weixin.qq.com/s/4O1yph7pcXT9oTMUyHK4mw)
+4. [2020重学Go系列：13. Go语言流程控制：goto 无条件跳转](https://mp.weixin.qq.com/s/haTQ0RRMKqtGTJE1-X2Z2g)
+
+二、学院君的后花园
+
+1. [Go 语言 Web 编程系列（十一）—— 仿照 Laravel 框架对 Go 路由代码进行拆分](https://mp.weixin.qq.com/s/MEvJBNCkTAmUCKhTbmknAQ)
+
+三、360云计算
+
+1. [Go实现Raft第二篇：选举](https://mp.weixin.qq.com/s/zgLcBWuVzFsKkNngKW85Zw)
+
+四、Go夜读
+
+1. [第 80 期带你提前玩 Go 2 新特性：泛型【点开即可观看】](https://mp.weixin.qq.com/s/ULw4sWXk6xzH-kyQcLRcpw)
+
+五、有赞Coder
+
+1. [有赞 GO 项目单测、集成、增量覆盖率统计与分析](https://mp.weixin.qq.com/s/mNGkMggkkuRSuflHw3vIyA)
+
 ## gocn_news_2020-03-20
 - 1.Go 1.14.1 和 Go 1.13.9 新版本发布 https://gocn.vip/topics/10075
 
