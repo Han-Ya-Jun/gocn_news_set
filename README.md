@@ -4,6 +4,26 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-21
+一、Go语言中文网
+
+1. [众多的 Goroutine 如何在调试过程中方便快速找到](https://mp.weixin.qq.com/s/ANNUlYvWshNikNwCw6qSHw)
+2. [30+张图讲解：Golang调度器GMP原理与调度全分析](https://mp.weixin.qq.com/s/SEPP56sr16bep4C_S0TLgA)
+3. [Go 每日一库之 gojsonq](https://mp.weixin.qq.com/s/ZfaH6ROWiVX9IsoxJ04oXw)
+4. [2020重学Go系列：14. Go语言流程控制：defer 延迟调用](https://mp.weixin.qq.com/s/e8MurkZyOAsbE5c_6pATZQ)
+
+二、阿里巴巴云原生
+
+1. [下周直播预告 | 如何成长为一名合格的架构师？](https://mp.weixin.qq.com/s/AELJGZjvCvUPSAMCBMQ_7w)
+
+三、GoUpUp
+
+1. [Go 每日一库之 go-cmp](https://mp.weixin.qq.com/s/og-wLjVpotMCJh0VhNhKoQ)
+
+四、Go夜读
+
+1. [『Go 夜读』两周年了！](https://mp.weixin.qq.com/s/CiTNEcXCCjGDjPyrRZDxHQ)
+
 ## gocn_news_2020-03-21
 - 1.golang 快速入门 [5.3]-go 语言是如何运行的-内存分配 https://gocn.vip/topics/10078 
 - 2.gorm 介绍与展望 https://gocn.vip/topics/10074
