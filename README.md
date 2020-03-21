@@ -4,6 +4,24 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-21
+- 1.golang 快速入门 [5.3]-go 语言是如何运行的-内存分配 https://gocn.vip/topics/10078 
+- 2.gorm 介绍与展望 https://gocn.vip/topics/10074
+
+- 3.OPA 重新定义规则引擎-入门篇 https://gocn.vip/topics/10055
+
+- 4.十分钟学会用 Go 编写 Web 中间件 https://mp.weixin.qq.com/s/3DwHTa-9Bjxei9woi1qeCw
+
+- 5.Golang 连接池的几种实现案例 https://mp.weixin.qq.com/s/qWfci0XCfuNCeAVBoCDW7A
+
+- 6.『Go 中国开发者调研』https://wj.qq.com/s2/5461562/144e/
+
+- 7.『Go 夜读』两周年了！https://mp.weixin.qq.com/s/CiTNEcXCCjGDjPyrRZDxHQ
+
+- 8.
+- 9.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-20
 一、Go语言中文网
 
