@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-22
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 35 期](https://mp.weixin.qq.com/s/GlQUgPSS-wCxlwfIMqFDZg)
+2. [所谓高性能框架是怎么做到的？详解 Gin 的路由算法](https://mp.weixin.qq.com/s/3aTTKxF8pHeBhQTLHnpsdg)
+3. [Go 编程: 错误的诞生与死亡，包装、检查与处理](https://mp.weixin.qq.com/s/zsh__VPbuXkCx4iMOmfceA)
+4. [2020重学Go：15. 面向对象编程：接口与多态](https://mp.weixin.qq.com/s/Sy0pfvVI7ebG-rB8HeXmVQ)
+
+二、MoeLove
+
+1. [「K8S 生态周报」一周年了！](https://mp.weixin.qq.com/s/ISCeumh9bxUs4y3X_vPVIg)
+2. [Docker 双栈日志](https://mp.weixin.qq.com/s/oZ5xbCbO_1lsgEa3QKBxoQ)
+
+三、GoUpUp
+
+1. [Go 每日一库之 buntdb](https://mp.weixin.qq.com/s/4jqmF6sffkPnF2ufy0W9Xw)
+
+四、Go夜读
+
+1. [第 78 期 Go Scheduler 源码分析【点开即可观看】](https://mp.weixin.qq.com/s/Yr4L2pt-__CK7Q7JVz_guw)
+
+五、TonyBai
+
+1. [图解Go运行时调度器 ]( https://mp.weixin.qq.com/s/mI03sUUaUvZhl7Xb2JPSDg )
+
 ## go语言中文网(每日资讯)_2020-03-21
 一、Go语言中文网
 
