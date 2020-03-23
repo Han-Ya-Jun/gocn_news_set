@@ -4,6 +4,25 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-23
+- 1.使用 Go 基准测试解决旅行商问题的精确算法 https://medium.com/@damien.leroux.pro/benchmark-an-exact-algorithm-solving-the-traveling-salesman-problem-with-go-e502b0ca3d0e
+
+- 2.关于收集，标准化和集中化处理 Golang 日志的一些建议 https://segmentfault.com/a/1190000022106356
+
+- 3.Golang 三种方式实现超时退出 https://juejin.im/post/5e774a73e51d4526c70fd0a4
+
+- 4.Go 进程的 HeapReleased 上升，但是 RSS 不下降造成内存泄漏？ https://pengrl.com/p/20033
+
+- 5.分享一个 微信 Golang SDK https://gocn.vip/topics/10094
+
+- 6.[杭州] 字节跳动基础架构招 Go/云原生/K8S 工程师 https://gocn.vip/topics/10064
+
+- 7.[深圳] AfterShip 正在招聘优秀的高级 Golang 工程师 https://gocn.vip/topics/10093
+
+- 8.
+- 9.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-22
 一、Go语言中文网
 
