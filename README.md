@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-24
+一、Go语言中文网
+
+1. [对 Go GC 所谓的突破提出质疑？看现代垃圾收集策略](https://mp.weixin.qq.com/s/zFxlbUE1FhwjtBPgeJ8o-Q)
+2. [使用 zap 接收 gin 框架默认的日志并配置日志切割](https://mp.weixin.qq.com/s/2BmmoL7km3PY_G5NxWwb6g)
+3. [不到100行代码做并发控制：防缓存击穿的 singleflight 使用及原理](https://mp.weixin.qq.com/s/Fp9ueMRo-y8gTyxifJ84CQ)
+4. [2020重学Go系列：17. 一篇文章理解 Go 里的语句块与作用域](https://mp.weixin.qq.com/s/POrW8aDm7WA_-maCmwfYJQ)
+
+二、真没什么逻辑
+
+1. [Go 语言垃圾收集器的原理](https://mp.weixin.qq.com/s/KuWAO5Mh8pESS1eeZnIxPA)
+
+三、Go夜读
+
+1. [【本周四预告】第 83 期对 Go 程序进行可靠的性能测试](https://mp.weixin.qq.com/s/HawdkI0Mvq26yQoJVTXnJQ)
+
+四、 轩脉刃的刀光剑影
+
+1. [你还在用官方的error库么，那就弱爆了](https://mp.weixin.qq.com/s/eNez-yJPWDyEUW1E7homeQ)
+
+五、分布式实验室
+
+1. [设计模式在美团外卖营销业务中的实践](https://mp.weixin.qq.com/s/EWdReOO677-Il5fTo5rxdg)
+
 ## gocn_news_2020-03-24
 - 1.xorm 发布 1.0 版本: https://gitea.com/xorm/xorm/src/tag/v1.0.0
 
