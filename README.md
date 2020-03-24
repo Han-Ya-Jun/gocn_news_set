@@ -4,6 +4,25 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-24
+- 1.xorm 发布 1.0 版本: https://gitea.com/xorm/xorm/src/tag/v1.0.0
+
+- 2.如何写出优雅的 Go 语言代码: https://mp.weixin.qq.com/s/yiU18PzHDxeCXc5YR5x9Ow
+
+- 3.图解 Go 运行时调度器: https://tonybai.com/2020/03/21/illustrated-tales-of-go-runtime-scheduler/ 
+- 4.gossip/epidemic 协议介绍: https://medium.com/@satrobit/introduction-to-gossip-epidemic-protocol-and-memberlist-5424352cdce0
+
+- 5.Go 开发的 hosts 文件管理工具 https://github.com/guumaster/hostctl
+
+- 6.[杭州] 字节跳动基础架构招 Go/云原生/K8S 工程师 https://gocn.vip/topics/10064
+
+- 7.[深圳] AfterShip 正在招聘优秀的高级 Golang 工程师 https://gocn.vip/topics/10093
+- 8.编辑: 薛锦
+- 9.订阅新闻: http://tinyletter.com/gocn
+- 10.
+- 11.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-23
 一、Go语言中文网
 
