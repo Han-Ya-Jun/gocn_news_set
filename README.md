@@ -4,6 +4,17 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-25
+- 1.分享 vivo 大规模特征存储实践 https://gocn.vip/topics/10104
+
+- 2.Golang 中的 Defer 必掌握的 7 知识点 https://gocn.vip/topics/10096
+
+- 3.用 Go 写一个 Mysql 代理 https://medium.com/@alexanderravikovich/quarantine-journey-writing-mysql-proxy-in-go-for-self-learning-part-1-tcp-proxy-39810479b7e9
+
+- 4.用 Go 实现一元 grpc API https://dev.to/techschoolguru/implement-unary-grpc-api-in-go-4cdj
+
+- 5.源码解读 Golang 的 sync.Map 实现原理 https://juejin.im/post/5e784321518825493c7b7d8d
+
 ## go语言中文网(每日资讯)_2020-03-24
 一、Go语言中文网
 
