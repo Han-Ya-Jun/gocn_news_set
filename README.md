@@ -4,6 +4,29 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-25
+一、Go语言中文网
+1. [分析标准库和优秀项目的接口：Go中接口应该这么定义](https://mp.weixin.qq.com/s/hj9sJov2XBBtq-HIPSWiHQ)
+2. [揭开Gin的神秘面纱：数据是如何流转的](https://mp.weixin.qq.com/s/Ej9IVyPxTxUUFsJBavFymg)
+3. [异步消息解决方案：Go 每日一库之 watermill](https://mp.weixin.qq.com/s/JXrKL4Gvivu7KNKxYRgKTA)
+4. [2020重学Go系列：18. 学习 Go 协程：goroutine](https://mp.weixin.qq.com/s/plyA9bfrs0uj3pI3pnVvkg)
+
+二、学院君的后花园
+
+1. [基于 Go 语言编写在线论坛（一）：整体设计与数据模型](https://mp.weixin.qq.com/s/7C0k7gAkI-CQQKbWGGfdRQ)
+
+三、容器时代
+
+1. [从零开始入门 K8s | 理解容器运行时接口 CRI](https://mp.weixin.qq.com/s/WtZ3NV1dtfDI8NLMg8_Psg)
+2. [开源爱好者月刊：第 1 期（202001）](https://mp.weixin.qq.com/s/qzZqNCNaM5ib5Q-WyK1-gw)
+
+四、一艘慢船
+
+1. [Go 编程: 证书自动化与几大邮件运营商的(接收/投递)安全漏洞](https://mp.weixin.qq.com/s/7A_zOJutgPAcaAyE8YLbnQ)
+
+五、GoUpUp
+
+1. [Go 每日一库之 gjson](https://mp.weixin.qq.com/s/iQ8H9T8yzR96a19xv0i4_g)
 ## gocn_news_2020-03-25
 - 1.分享 vivo 大规模特征存储实践 https://gocn.vip/topics/10104
 
