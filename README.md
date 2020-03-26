@@ -4,6 +4,23 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-26
+- 1. 结构体转 map https://www.liwenzhou.com/posts/Go/struct2map/
+
+- 2. Go 每日一库之 sjson  https://segmentfault.com/a/1190000022148617
+
+- 3. 用面向对象设计原则理解 Go 中 interface  https://mp.weixin.qq.com/s/MqQ6b-Z_wvYe9YpNI5LDeA
+
+- 4.Go 项目简单接入 travis ci  https://juejin.im/post/5e7592c0518825494a3fadd9
+
+- 5. 微服务设计模式  https://mp.weixin.qq.com/s/mHHPaYEvon4zFHHDNP8A9A
+
+- 6.[深圳] 腾讯 PCG 技术运营部招聘 Go 后台开发 https://gocn.vip/topics/10108
+
+- 7.
+- 8.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-25
 一、Go语言中文网
 1. [分析标准库和优秀项目的接口：Go中接口应该这么定义](https://mp.weixin.qq.com/s/hj9sJov2XBBtq-HIPSWiHQ)
