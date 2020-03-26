@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-26
+一、Go语言中文网
+
+1. [用Go构建不可变的数据结构](https://mp.weixin.qq.com/s/bCzAmt8LnOJgd46LNHZtTg)
+2. [在 Gin 框架中使用 JWT 认证](https://mp.weixin.qq.com/s/9hNAQsa8_nvVku72ofpZCg)
+3. [Go 每日一库之 mergo：方便结构体和 map 赋值](https://mp.weixin.qq.com/s/5h4i3hXsPLWJpHBd8TOtUg)
+4. [2020重学Go系列：19. 学习 Go 协程：详解信道/通道](https://mp.weixin.qq.com/s/WtdUrfZvAMr5fiwQ-Bw0JQ)
+
+二、码农桃花源
+
+1. [defer 的前世今生](https://mp.weixin.qq.com/s/jYVbA3kIp85J06BB1vT_iA)
+
+三、MoeLove
+
+1. [Kubernetes v1.18 正式发布！抢先一览](https://mp.weixin.qq.com/s/ILL-eZ1SQOrVdSSBoc785A)
+
+四、分布式实验室
+
+1. [Kubernetes 1.18：代表精确度与完成度的版本](https://mp.weixin.qq.com/s/lXYu17ApbpcJPCjuGHUNCA)
+
+五、GoUpUp
+
+1. [Go 每日一库之 sjson](https://mp.weixin.qq.com/s/p5rMWAyqoBxzCD3HcHHV9g)
+
 ## gocn_news_2020-03-26
 - 1. 结构体转 map https://www.liwenzhou.com/posts/Go/struct2map/
 
