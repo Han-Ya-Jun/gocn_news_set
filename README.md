@@ -4,6 +4,24 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-27
+- 1.dubbogo v1.4 新特性 https://gocn.vip/topics/10119
+
+- 2.golang 快速入门 [7.2]-北冥神功—go module 绝技 https://gocn.vip/topics/10118
+
+- 3.Go 每日一库之 jj https://segmentfault.com/a/1190000022163724
+
+- 4.Go 官方的限流器 time/rate 如何使用 https://mp.weixin.qq.com/s/QMbZOh8_LGIUdIdEBQ2-yA
+
+- 5.分布式从 ACID、CAP、BASE 的理论推进 https://gocn.vip/topics/10121
+
+- 6.[深圳]  [广州珠江新城 i2 国际私塾] 招聘 Go 开发组长 https://gocn.vip/topics/10116
+- 7.编辑: 何小云
+- 8.订阅新闻: http://tinyletter.com/gocn
+- 9.
+- 10.加微信实战群请加微信(注明:实战群)：gocnio
+
+
 ## go语言中文网(每日资讯)_2020-03-26
 一、Go语言中文网
 
