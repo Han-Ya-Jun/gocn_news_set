@@ -4,6 +4,36 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-27
+一、Go语言中文网
+
+1. [Go 常量学习-可视化指南](https://mp.weixin.qq.com/s/L6ysPUCyYhAwL6PsKXykhQ)
+2. [前方有坑：小心 go.mod 中的 go directive](https://mp.weixin.qq.com/s/xaRkmmbtnCTfLaXOZhEtRQ)
+3. [Go官方的限流器 time/rate 如何使用](https://mp.weixin.qq.com/s/QMbZOh8_LGIUdIdEBQ2-yA)
+4. [优雅地关闭或重启 go web 项目](https://mp.weixin.qq.com/s/OpsuM5SkjdQv8QGcLwndRA)
+5. [2020重学Go系列：20. 几个信道死锁经典错误案例详解](https://mp.weixin.qq.com/s/yKOJvNFKGt5_e2D6l2xdGA)
+
+二、容器时代
+
+1. [如何写出优雅的 Go 语言代码](https://mp.weixin.qq.com/s/AQGEeC5s00slOFMdsQtzKw)
+2. [开源爱好者月刊：第 2 期（202002）](https://mp.weixin.qq.com/s/ss9CP75lM9KT2gRPZQsieQ)
+
+三、学院君的后花园
+
+1. [基于 Go 语言开发在线论坛（二）：通过模型类与MySQL数据库交互](https://mp.weixin.qq.com/s/kOksiQsQfKjuZHf-qvLsmA)
+
+四、高可用架构
+
+1. [dubbo-go 1.4.0 版本发布，支持 K8s 注册中心、rest 协议](https://mp.weixin.qq.com/s/4SVR_h0PozTzkkqYAfakqg)
+
+五、GoUpUp
+
+1. [Go 每日一库之 jj](https://mp.weixin.qq.com/s/_EI6szBDYb1p_QuqSa6a7g)
+
+六、 ServiceMesher
+
+1. [云原生网络代理 MOSN 多协议机制解析](https://mp.weixin.qq.com/s/7jlsRsbqEViOHYCv7t_xSQ)
+
 ## gocn_news_2020-03-27
 - 1.dubbogo v1.4 新特性 https://gocn.vip/topics/10119
 
