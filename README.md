@@ -4,6 +4,23 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-28
+一、Go语言中文网
+
+1. [首发特性：goproxy.cn 现已推出首个 Go 模块代理统计数据 API](https://mp.weixin.qq.com/s/ZtQJE-Vv_Ke8SjhrzBoGcw)
+2. [gorm 作者出品：Go 每日一库之 copier](https://mp.weixin.qq.com/s/TBH9SPSsewTnk_EdgDMJnQ)
+3. [Golang限流器time/rate实现剖析](https://mp.weixin.qq.com/s/8tMlb9TqqnYBGFbYiJ0zNQ)
+4. [2020重学Go系列：21. 学习 Go 协程：WaitGroup](https://mp.weixin.qq.com/s/L0lQ-CCEle5Y4dt1kOZ08A)
+5. [编写 Dockerfile 的最佳实践](https://mp.weixin.qq.com/s/smwErhlAT3heD8X1W72IKQ)
+
+二、容器时代
+
+1. [谁说docker-compose不能水平扩展容器、服务多实例？](https://mp.weixin.qq.com/s/Z71t3b14hnO7P1GZH0943w)
+
+三、分布式实验室
+
+1. [滴滴开源夜莺Nightingale：企业级监控解决方案](https://mp.weixin.qq.com/s/kOksiQsQfKjuZHf-qvLsmA)
+
 ## go语言中文网(每日资讯)_2020-03-27
 一、Go语言中文网
 
