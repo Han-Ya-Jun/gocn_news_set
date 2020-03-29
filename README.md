@@ -4,6 +4,23 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-29
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 36 期](https://mp.weixin.qq.com/s/xYMpXkCp02bwFkNEvto6Wg)
+2. [来自 Uber 的漏桶限流器实战与原理分析](https://mp.weixin.qq.com/s/qNlqL1lZAK9hnyTsIrtR3g)
+3. [可视化讲解 Go 内存管理](https://mp.weixin.qq.com/s/E0B6LPeSEvDxmjqQY35luA)
+4. [Micro In Action(六)：服务发现](https://mp.weixin.qq.com/s/gfOEIl75i1oNGFTGz-9Kyw)
+5. [2020重学Go系列：22. 学习 Go 协程：互斥锁和读写锁](https://mp.weixin.qq.com/s/R3wjB4KpKmXD4NQi-oiqUQ)
+
+二、图解源码
+
+1. [图解kubernetes控制器StatefulSet核心实现原理](https://mp.weixin.qq.com/s/tgyXQlJtiDdkT9uowOnjuA)
+
+三、分布式实验室
+
+1. [现状调查：Kubernetes开发人员体验一瞥](https://mp.weixin.qq.com/s/Rk9riXW4JBl-t2FjKVQgjA)
+
 ## gopherDaily_2020-03-29
 - 1.编写Go logging middleware指南 - https://blog.questionable.services/article/guide-logging-middleware-go/
 - 2.5天构建Go mock框架 - https://kinbiko.com/go/mokku/
