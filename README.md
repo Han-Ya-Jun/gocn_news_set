@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-29
+- 1.Go 编译器指南 https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/
+
+- 2.从 gRPC 的重试策略说起 https://gocn.vip/topics/10135
+
+- 3.Go 实现 LeetCode 全集 https://github.com/austingebauer/go-leetcode
+
+- 4.分布式从 ACID、CAP、BASE 的理论推进 https://gocn.vip/topics/10121
+
+- 5.dubbogo 1.4 最新特性 https://gocn.vip/topics/10119
+
+
+
 ## gopherDaily_2020-03-29
 - 1.编写Go logging middleware指南 - https://blog.questionable.services/article/guide-logging-middleware-go/
 - 2.5天构建Go mock框架 - https://kinbiko.com/go/mokku/
