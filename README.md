@@ -4,108 +4,6 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
-## gopherDaily_2020-03-29
-- 1.编写Go logging middleware指南 - https://blog.questionable.services/article/guide-logging-middleware-go/
-- 2.5天构建Go mock框架 - https://kinbiko.com/go/mokku/
-- 3.理解unsafe包 - https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang
-- 4.Hakrawler: hacker专用命令行爬虫 - https://hakin9.org/hakrawler-a-fast-cli-web-crawler-for-hackers/
-- 5.gnark: 零知识证明协议的Go实现 - https://github.com/ConsenSys/gnark
-
-
-## gocn_news_2020-03-29
-- 1.Go 编译器指南 https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/
-
-- 2.从 gRPC 的重试策略说起 https://gocn.vip/topics/10135
-
-- 3.Go 实现 LeetCode 全集 https://github.com/austingebauer/go-leetcode
-
-- 4.分布式从 ACID、CAP、BASE 的理论推进 https://gocn.vip/topics/10121
-
-- 5.dubbogo 1.4 最新特性 https://gocn.vip/topics/10119
-
-
-
-## gopherDaily_2020-03-29
-- 1.编写Go logging middleware指南 - https://blog.questionable.services/article/guide-logging-middleware-go/
-- 2.5天构建Go mock框架 - https://kinbiko.com/go/mokku/
-- 3.理解unsafe包 - https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang
-- 4.Hakrawler: hacker专用命令行爬虫 - https://hakin9.org/hakrawler-a-fast-cli-web-crawler-for-hackers/
-- 5.gnark: 零知识证明协议的Go实现 - https://github.com/ConsenSys/gnark
-
-
-## gocn_news_2020-03-29
-- 1.Go 编译器指南 https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/
-
-- 2.从 gRPC 的重试策略说起 https://gocn.vip/topics/10135
-
-- 3.Go 实现 LeetCode 全集 https://github.com/austingebauer/go-leetcode
-
-- 4.分布式从 ACID、CAP、BASE 的理论推进 https://gocn.vip/topics/10121
-
-- 5.dubbogo 1.4 最新特性 https://gocn.vip/topics/10119
-
-
-
-## gopherDaily_2020-03-29
-- 1.编写Go logging middleware指南 - https://blog.questionable.services/article/guide-logging-middleware-go/
-</br>- 2.5天构建Go mock框架 - https://kinbiko.com/go/mokku/
-</br>- 3.理解unsafe包 - https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang
-</br>- 4.Hakrawler: hacker专用命令行爬虫 - https://hakin9.org/hakrawler-a-fast-cli-web-crawler-for-hackers/
-</br>- 5.gnark: 零知识证明协议的Go实现 - https://github.com/ConsenSys/gnark
-</br>
-
-## gocn_news_2020-03-29
-- 1.Go 编译器指南 https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/
-
-- 2.从 gRPC 的重试策略说起 https://gocn.vip/topics/10135
-
-- 3.Go 实现 LeetCode 全集 https://github.com/austingebauer/go-leetcode
-
-- 4.分布式从 ACID、CAP、BASE 的理论推进 https://gocn.vip/topics/10121
-
-- 5.dubbogo 1.4 最新特性 https://gocn.vip/topics/10119
-
-
-
-##gopherDaily_2020-03-29
-1.编写Go logging middleware指南 - https://blog.questionable.services/article/guide-logging-middleware-go/
-</br>2.5天构建Go mock框架 - https://kinbiko.com/go/mokku/
-</br>3.理解unsafe包 - https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang
-</br>4.Hakrawler: hacker专用命令行爬虫 - https://hakin9.org/hakrawler-a-fast-cli-web-crawler-for-hackers/
-</br>5.gnark: 零知识证明协议的Go实现 - https://github.com/ConsenSys/gnark
-</br>
-
-##gocn_news_2020-03-29
-- 1.Go 编译器指南 https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/
-
-- 2.从 gRPC 的重试策略说起 https://gocn.vip/topics/10135
-
-- 3.Go 实现 LeetCode 全集 https://github.com/austingebauer/go-leetcode
-
-- 4.分布式从 ACID、CAP、BASE 的理论推进 https://gocn.vip/topics/10121
-
-- 5.dubbogo 1.4 最新特性 https://gocn.vip/topics/10119
-
-
-
-## gocn_news_2020-03-29
-- 1.Go 编译器指南 https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/
-
-- 2.从 gRPC 的重试策略说起 https://gocn.vip/topics/10135
-
-- 3.Go 实现 LeetCode 全集 https://github.com/austingebauer/go-leetcode
-
-- 4.分布式从 ACID、CAP、BASE 的理论推进 https://gocn.vip/topics/10121
-
-- 5.dubbogo 1.4 最新特性 https://gocn.vip/topics/10119
-
-- 6.编辑: astaxie
-- 7.订阅新闻: http://tinyletter.com/gocn
-
-- 8.
-- 9.加微信实战群请加微信(注明:实战群)：gocnio
-
-
 ## go语言中文网(每日资讯)_2020-03-28
 一、Go语言中文网
 
@@ -120,8 +18,18 @@
 1. [谁说docker-compose不能水平扩展容器、服务多实例？](https://mp.weixin.qq.com/s/Z71t3b14hnO7P1GZH0943w)
 
 三、分布式实验室
-
 1. [滴滴开源夜莺Nightingale：企业级监控解决方案](https://mp.weixin.qq.com/s/kOksiQsQfKjuZHf-qvLsmA)
+
+## gocn_news_2020-03-28
+- 1.冠状病毒下 GO 语言和社区的计划 https://blog.golang.org/pandemic
+
+- 2.自定义 Go Json 的序列化方法 https://colobu.com/2020/03/19/Custom-JSON-Marshalling-in-Go/
+
+- 3.Go 语言如何实现 stop the world？ https://mp.weixin.qq.com/s/gNAani93Xrb02oDsgDc1fQ
+
+- 4.深入解析 Go 的信号处理---gsignal(译文) https://gocn.vip/topics/10028
+
+- 5.Go Web 编程--给自己写的服务器添加错误和访问日志 https://segmentfault.com/a/1190000022178732
 
 ## go语言中文网(每日资讯)_2020-03-27
 一、Go语言中文网
