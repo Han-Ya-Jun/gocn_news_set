@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-03-29
+- 1.编写Go logging middleware指南 - https://blog.questionable.services/article/guide-logging-middleware-go/
+</br>- 2.5天构建Go mock框架 - https://kinbiko.com/go/mokku/
+</br>- 3.理解unsafe包 - https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang
+</br>- 4.Hakrawler: hacker专用命令行爬虫 - https://hakin9.org/hakrawler-a-fast-cli-web-crawler-for-hackers/
+</br>- 5.gnark: 零知识证明协议的Go实现 - https://github.com/ConsenSys/gnark
+</br>
+
 ## gocn_news_2020-03-29
 - 1.Go 编译器指南 https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/
 
