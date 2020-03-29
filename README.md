@@ -25,27 +25,6 @@
 
 
 
-## gopherDaily_2020-03-29
-- 1.编写Go logging middleware指南 - https://blog.questionable.services/article/guide-logging-middleware-go/
-- 2.5天构建Go mock框架 - https://kinbiko.com/go/mokku/
-- 3.理解unsafe包 - https://www.pixelstech.net/article/1584241521-Understand-unsafe-in-GoLang
-- 4.Hakrawler: hacker专用命令行爬虫 - https://hakin9.org/hakrawler-a-fast-cli-web-crawler-for-hackers/
-- 5.gnark: 零知识证明协议的Go实现 - https://github.com/ConsenSys/gnark
-
-
-## gocn_news_2020-03-29
-- 1.Go 编译器指南 https://www.caffeinatedwonders.com/2019/12/26/tour-of-go-compilers/
-
-- 2.从 gRPC 的重试策略说起 https://gocn.vip/topics/10135
-
-- 3.Go 实现 LeetCode 全集 https://github.com/austingebauer/go-leetcode
-
-- 4.分布式从 ACID、CAP、BASE 的理论推进 https://gocn.vip/topics/10121
-
-- 5.dubbogo 1.4 最新特性 https://gocn.vip/topics/10119
-
-
-
 ## go语言中文网(每日资讯)_2020-03-28
 一、Go语言中文网
 
