@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-03-30
+- 1.Go 实现 LeetCode 全集 https://gocn.vip/topics/10141
+
+- 2.编写可测试 Go 代码的一种模式 https://blog.betacat.io/post/2020/03/a-pattern-for-writing-testable-go-code/
+
+- 3.如何在 Go 中拆分代码库 https://qvault.io/2020/03/29/how-to-separate-library-packages-in-go/
+
+- 4.如何在 5 天内编写一个 Go Mock 库 https://kinbiko.com/go/mokku/
+
+- 5.Molecule：高效 Protobuf 处理库 https://github.com/richardartoul/molecule
 ## gopherDaily_2020-03-30
 - 1.Hello，WireGuard - https://tonybai.com/2020/03/29/hello-wireguard/
 - 2.Go的“怪癖” - https://blog.sbstp.ca/go-quirks/
