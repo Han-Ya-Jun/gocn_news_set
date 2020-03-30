@@ -4,6 +4,33 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-30
+一、Go语言中文网
+
+1. [Go语言 CPU 性能、内存分析调试方法大汇总：你要的都在这](https://mp.weixin.qq.com/s/-HojlxCZZIcWWwprQaVkzw)
+2. [学习 Go Modules 这一篇就够：终极入门](https://mp.weixin.qq.com/s/nd8ic1Qk812ZqmHKSFITUQ)
+3. [Micro In Action(七)：熔断与限流](https://mp.weixin.qq.com/s/K1GVISTjVLMiFBCDKbQOMQ)
+4. [defer 链如何被遍历执行](https://mp.weixin.qq.com/s/okj_BH93pCvP2hj20pfr2A)
+5. [2020重学Go系列：23. Go 里的异常处理：panic 和 recover](https://mp.weixin.qq.com/s/d9UFqCPoDBEEgLTkFtko1g)
+
+二、Go夜读
+
+1. [第 83 期对 Go 程序进行可靠的性能测试](https://mp.weixin.qq.com/s/0ThaAq_zIbqGonI_Tiy5KQ)
+2. [【本周四预告】第 84 期图解 Go 之内存对齐](https://mp.weixin.qq.com/s/7CHojzjTgGwxAburfPoChw) 
+3. [预习资料](https://github.com/developer-learning/night-reading-go/issues/588)
+
+三、学院君的后花园
+
+1. [基于 Go 语言开发在线论坛（三）：访问论坛首页](https://mp.weixin.qq.com/s/7CTY3dGP9V1Iun6jRwrCLA)
+
+四、MoeLove
+
+1. [K8S 生态周报| K8S 移除对 basic auth的支持](https://mp.weixin.qq.com/s/yRk0eJE6ub5ehytCf9XdZQ)
+
+五、分布式实验室
+
+1. [Kubernetes在边缘计算领域的发展](https://mp.weixin.qq.com/s/titmRZy2tuL2GS77H471BA)
+
 ## gocn_news_2020-03-30
 - 1.Go 实现 LeetCode 全集 https://gocn.vip/topics/10141
 
