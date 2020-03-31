@@ -29,6 +29,17 @@
 
 1. [圣杯与银弹 · 没用的设计模式](https://mp.weixin.qq.com/s/3TbunRkouM7PtCQrC52brQ)
 
+## gocn_news_2020-03-31
+- 1.Go 处理 DataFrames https://mungingdata.com/go/dataframes-gota-qframe/
+
+- 2.选择 Rust 还是 Go ？https://dmv.myhatchpad.com/insight/choosing-between-rust-or-go/
+
+- 3.使用 Go 和 K8s 构建 todo api https://medium.com/@alexellisuk/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029
+
+- 4.使用 GoAdmin 极速搭建 golang 应用管理后台 https://segmentfault.com/a/1190000022215579
+
+- 5.Golang HTTP 服务平滑重启及升级 https://mp.weixin.qq.com/s/F-bmQcRwJEFcRhpWYEm-wg
+
 ## gopherDaily_2020-03-31
 - 1.Rust还是Go？- https://dmv.myhatchpad.com/insight/choosing-between-rust-or-go/
 - 2.OpenTelemetry正式发布beta版 - https://medium.com/opentelemetry/opentelemetry-is-officially-in-beta-352fa859db10
