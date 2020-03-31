@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-03-31
+一、Go语言中文网
+
+1. [Golang vs Python：选哪个？](https://mp.weixin.qq.com/s/ICKpsE76dxjNeS2DF-QWJQ)
+2. [最流行的 Web 框架 Gin 源码阅读](https://mp.weixin.qq.com/s/69Ob4Qaq5byEYBqUVvLVJQ)
+3. [ElasticSearch 栈中 Go 实现的新成员 Filebeat 实现剖析](https://mp.weixin.qq.com/s/RJed7ZBzvHdH0hFkWZekBw)
+4. [Micro In Action(尾声): 分布式计划任务](https://mp.weixin.qq.com/s/W6fTv0v7trhw1jnHG41Z6A)
+5. [2020重学Go系列：24. 超详细解读 Go Modules 前世今生及入门使用](https://mp.weixin.qq.com/s/U2teH_ZCSMW6qNH404t6yw)
+
+二、图解源码
+
+1. [图解kubernetes批处理Job控制器的关键设计](https://mp.weixin.qq.com/s/AOMnGNTsfxjTLJwV1vjW9A)
+
+三、HHF技术博客
+
+1. [golang 面向对象分析](https://mp.weixin.qq.com/s/s79Q-pbFHWAN3yBhHMLjxQ)
+
+四、新亮笔记
+
+1. [对 int 类型的数据加密，有哪些好的方案？](https://mp.weixin.qq.com/s/gm_g52RM-O8eyt-0fbQ8qA)
+
+五、真没什么逻辑
+
+1. [圣杯与银弹 · 没用的设计模式](https://mp.weixin.qq.com/s/3TbunRkouM7PtCQrC52brQ)
+
 ## gopherDaily_2020-03-31
 - 1.Rust还是Go？- https://dmv.myhatchpad.com/insight/choosing-between-rust-or-go/
 - 2.OpenTelemetry正式发布beta版 - https://medium.com/opentelemetry/opentelemetry-is-officially-in-beta-352fa859db10
