@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-03-31
+- 1.Rust还是Go？- https://dmv.myhatchpad.com/insight/choosing-between-rust-or-go/
+- 2.OpenTelemetry正式发布beta版 - https://medium.com/opentelemetry/opentelemetry-is-officially-in-beta-352fa859db10
+- 3.基于kubernetes和go构建一个todo api - https://medium.com/@alexellisuk/building-a-todo-api-in-golang-with-kubernetes-1ec593f85029
+- 4.dero: 又一款go实现的区块链平台，160w行代码 - https://github.com/deroproject/derosuite
+- 5.goro: 高级go机器学习库(基于gorgonia) - https://github.com/aunum/goro
+
+
 ## go语言中文网(每日资讯)_2020-03-30
 一、Go语言中文网
 
