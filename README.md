@@ -4,6 +4,18 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## gopherDaily_2020-04-01
+- 1.基于tikv模型构建分布式key-value服务的课程 - https://github.com/pingcap-incubator/tinykv
+
+- 2.使用Go操作DataFrame - https://mungingdata.com/go/dataframes-gota-qframe/
+
+- 3.服务网格平台探索指南 - https://thenewstack.io/an-exploratory-guide-to-the-service-mesh-platforms/
+
+- 5.反方观点：我正在从Go切换到JS - https://blogtitle.github.io/i-am-switching-to-js/
+
+- 6.kpt: 谷歌开源的kubernetes配置清单标准打包工具 - https://googlecontainertools.github.io/kpt/
+
 ## go语言中文网(每日资讯)_2020-03-31
 一、Go语言中文网
 
