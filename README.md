@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-01
+- 1.[译] Go 发布新版 Protobuf API https://juejin.im/post/5e83e1176fb9a03c80278e6d
+
+- 2.关于如何收集，标准化和集中化处理 Golang 日志的一些建议 https://mp.weixin.qq.com/s/linxYO3N5oOhiVcS8-jpvw
+
+- 3.Concurrency 阅读笔记 https://chanjarster.github.io/post/go/scheduling-in-go-part-3
+
+- 4.Go 实现 Raft 第三篇：命令和日志复制 https://mp.weixin.qq.com/s/FdAQlSsXCYOiBHKbgsGepQ
+
+- 5.使用 Apline 作为基础镜像时可能会遇到的常见问题的解决方法 https://mozillazg.com/2020/03/use-alpine-image-common-issues.rst.html
+
+
+
 
 ## gopherDaily_2020-04-01
 - 1.基于tikv模型构建分布式key-value服务的课程 - https://github.com/pingcap-incubator/tinykv
