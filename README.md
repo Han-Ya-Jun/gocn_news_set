@@ -4,6 +4,32 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-01
+一、Go语言中文网
+
+1. [滴滴实战分享：通过 profiling 定位 golang 性能问题 - 内存篇](https://mp.weixin.qq.com/s/wXzGZlvF6fCXjcGFzG74Xw)
+2. [更通俗方式讲解 Go 运行时调度器](https://mp.weixin.qq.com/s/BpwUAVjy__1FEIHaKq5O7g)
+3. [我所理解的 Sync Pool](https://mp.weixin.qq.com/s/oPkzwqWQL3IJCs14tRbO4g)
+4. [Go 每日一库之 jennifer](https://mp.weixin.qq.com/s/p2s4zatJAGWvNd8Adqp_TQ)
+5. [2020重学Go系列：25. Go 语言中关于包导入必学的 8 个知识点](https://mp.weixin.qq.com/s/JPWOiGnlWriUNp3RUt2jqg)
+
+二、轩脉刃的刀光剑影
+
+1. [golang实现服务端浏览器截屏](https://mp.weixin.qq.com/s/uxDbNATcoUkzdmVWOxnJ1g)
+
+三、容器时代
+
+1. [开源爱好者月刊：第 3 期（202003）](https://mp.weixin.qq.com/s/6E8TmTYtk9k_zAZHCMCEww)
+2. [使用Helm在Kubernetes多集群上部署应用](https://mp.weixin.qq.com/s/UOmfLs7NodfUnF6FK1o5Mw)
+
+四、学院君的后花园
+
+1. [基于 Go 语言开发在线论坛（四）：通过 Cookie + Session 实现用户认证](https://mp.weixin.qq.com/s/ablLxAyGKsfrHMYH1y1JYw)
+
+五、360云计算
+
+1. [Go实现Raft第三篇：命令和日志复制 ](https://mp.weixin.qq.com/s/FdAQlSsXCYOiBHKbgsGepQ)
+
 ## gocn_news_2020-04-01
 - 1.[译] Go 发布新版 Protobuf API https://juejin.im/post/5e83e1176fb9a03c80278e6d
 
