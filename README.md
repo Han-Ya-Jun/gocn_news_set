@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-02
+一、Go语言中文网
+
+1. [关于 Go 语言优秀命令行库 Cobra 的探索](https://mp.weixin.qq.com/s/PR7DBtBidBf-SAI7-n6-3w)
+2. [golang range 与 iteration 之间的关系](https://mp.weixin.qq.com/s/1RPUxD5TP_nrWlHVqax0Yw)
+3. [FileBeat-Log 相关配置介绍](https://mp.weixin.qq.com/s/5elm5DRwIgQ-OpsuZBZ8jA)
+4. [2020重学Go系列：26. 如何开源自己写的模块给别人用？](https://mp.weixin.qq.com/s/cK7fUert7KuE6sKG3Fm77g)
+
+二、图解源码
+
+1. [图解kubernetes控制器Deployment核心机制](https://mp.weixin.qq.com/s/PdEhhkORqKJHgvYE_VLj7Q)
+
+三、容器时代
+
+1. [打造云原生大型分布式监控系统(一): 大规模场景下 Prometheus 的优化手段](https://mp.weixin.qq.com/s/v9SRBmliSYgVUKJpCgDN4Q)
+
+四、 潘建锋 
+
+1. [最快的 Go 网络框架 gnet 来啦！](https://mp.weixin.qq.com/s/ciLedMBAkmNon2e5jY97nw)
+
+五、GoUpUp
+
+1. [Go 每日一库之 govaluate](https://mp.weixin.qq.com/s/fY1ffJjFwjc2U36fXKp6Hw)
+
 ## gocn_news_2020-04-02
 - 1.Go 的 web 框架 Fiber https://dev.to/koddr/are-sure-what-your-lovely-web-framework-running-so-fast-2jl1
 
