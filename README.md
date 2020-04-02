@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-02
+- 1.Go 的 web 框架 Fiber https://dev.to/koddr/are-sure-what-your-lovely-web-framework-running-so-fast-2jl1
+
+- 2.轻松搭建基于 Serverless 的 Go 应用 https://segmentfault.com/a/1190000022232683
+
+- 3.Go 操作 mysql 的笔记 https://dev.to/alchermd/heroku-go-with-mysql-notes-1221
+
+- 4.Go 常量学习-可视化指南 https://mp.weixin.qq.com/s/L6ysPUCyYhAwL6PsKXykhQ
+
+- 5.浅谈图数据库 https://gocn.vip/topics/10164
+
+
+
 ## gopherDaily_2020-04-02
 - 1.使用tinygo和WebAssembly在浏览器中运行Go程序 - https://marianogappa.github.io/software/2020/04/01/webassembly-tinygo-cheesse/
 
