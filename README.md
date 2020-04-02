@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-02
+- 1.使用tinygo和WebAssembly在浏览器中运行Go程序 - https://marianogappa.github.io/software/2020/04/01/webassembly-tinygo-cheesse/
+
+- 2.使用Go实现一个简单的pow区块链(vs. Rust实现) - https://lalot.ai/simple-blockchain-written-in-go
+
+- 3.经典旧文回顾：高性能Go服务的内存分配效率 - https://segment.com/blog/allocation-efficiency-in-high-performance-go-services/
+
+- 4.细说Go module伪版本号 - https://jfrog.com/blog/go-big-with-pseudo-versions-and-gocenter
+
+- 5.sidekick: minio开源的运行于边车容器中的loadbalancer - https://blog.min.io/introducing-sidekick-a-high-performance-load-balancer/
+
+- 6.gotestsum: 使test输出结果更人性化 - https://github.com/gotestyourself/gotestsum
+
 ## go语言中文网(每日资讯)_2020-04-01
 一、Go语言中文网
 
