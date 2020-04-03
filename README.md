@@ -4,6 +4,27 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-03
+一、Go语言中文网
+
+1. [LeetCode Go 并发题详解：交替打印字符串](https://mp.weixin.qq.com/s/K032xlARjiyS8ecJrqZXaA)
+2. [Go语言的更新也将难逃疫情影响：顺带学习科技英语词汇](https://mp.weixin.qq.com/s/SnQ2ooZDJNYVUpfio7SAwA)
+3. [Go 中对 int 类型的数据加密，有哪些好的方案？](https://mp.weixin.qq.com/s/b3a2_jIeGK0QK5ikqiz8yw)
+4. [Go 每日一库之 go-cmp](https://mp.weixin.qq.com/s/GI_DtV63NYRz8y3N7Zc2Zg)
+5. [2020重学Go系列：27. 说说 Go 语言中的类型断言](https://mp.weixin.qq.com/s/tXV6mRnyhMXB1WyLAgw40g)
+
+二、分布式实验室
+
+1. [基于Prometheus构建MySQL可视化监控平台](https://mp.weixin.qq.com/s/fYgKedgYtauD3CA4cQaLEg)
+
+三、容器时代
+
+1. [从零开始入门 K8s | Kata Containers 创始人带你入门安全容器技术](https://mp.weixin.qq.com/s/fneT8T3eC2l1RqD-FdZ3lw)
+
+四、码农桃花源
+
+1. [聊聊 g0](https://mp.weixin.qq.com/s/Ie8niOb_0C9z2kACNvWCtg)
+
 ## gocn_news_2020-04-03
 - 1.快速生成 Kubebuilder 风格的 Go 代码 https://banzaicloud.com/blog/generating-go-code/
 
