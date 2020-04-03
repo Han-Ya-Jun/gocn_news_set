@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-03
+- 1.长文：通过构建一个TCP协议来理解Go []bytes - https://ieftimov.com/post/understanding-bytes-golang-build-tcp-protocol/
+- 2.WireGuard网格VPN服务tailscale宣布GA - https://tailscale.com/blog/tailscale-launch/
+- 3.生成kubebuider风格的Go代码 - https://banzaicloud.com/blog/generating-go-code/
+- 4.Go vs. Elixir - https://medium.com/better-programming/advantages-of-elixir-vs-golang-11ac1a67bfe7
+- 5.fleet: 超大规模多kubernetes集群的管理服务 - https://github.com/rancher/fleet
+
+
 ## go语言中文网(每日资讯)_2020-04-02
 一、Go语言中文网
 
