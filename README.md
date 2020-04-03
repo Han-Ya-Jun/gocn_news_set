@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-03
+- 1.快速生成 Kubebuilder 风格的 Go 代码 https://banzaicloud.com/blog/generating-go-code/
+
+- 2.Gitea1.11.4 发布了，修复了 12 个 bug https://gocn.vip/topics/10177
+
+- 3.使用 sqlmock 给 gorm 应用编写单元测试 https://medium.com/better-programming/how-to-unit-test-a-gorm-application-with-sqlmock-97ee73e36526
+
+- 4.kaf: 一个很赞的 kafka 命令行工具 https://github.com/birdayz/kaf
+
+- 5.gorpc: 一个简单，易用，高性能，可插拔的微服务框架 https://gocn.vip/topics/10175
+
+
+
 ## gopherDaily_2020-04-03
 - 1.长文：通过构建一个TCP协议来理解Go []bytes - https://ieftimov.com/post/understanding-bytes-golang-build-tcp-protocol/
 - 2.WireGuard网格VPN服务tailscale宣布GA - https://tailscale.com/blog/tailscale-launch/
