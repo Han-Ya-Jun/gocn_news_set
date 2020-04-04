@@ -4,6 +4,17 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-04
+- 1.快速安装Go应用二进制文件的服务 - https://cto.ai/blog/on-demand-go-binaries/
+
+- 2.播客：居家工作的Gopher - https://changelog.com/gotime/123
+
+- 3.在Go中使用Javascript plugins - https://www.innoq.com/en/blog/go-plugins-with-javascript/
+
+- 4.kubebuilder cookbook: 在Go中快速构建和发布Kubernetes API - https://kubebuilder.io/
+
+- 5.rocketmq-client-go: Apache RocketMQ官方go客户端api - https://github.com/apache/rocketmq-client-go
+
 ## go语言中文网(每日资讯)_2020-04-03
 一、Go语言中文网
 
