@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-04
+- 1.Go 语言源码贡献官方指导文档 https://gocn.vip/topics/10185
+
+- 2.golang 中的四种类型转换总结 https://gocn.vip/topics/10178
+
+- 3.Go 程序进行可靠的性能测试 https://gocn.vip/topics/10133
+
+- 4.一文看懂 IO 多路复用 https://gocn.vip/topics/10090
+
+- 5.图解 kubernetes 控制器 Deployment 核心机制 https://gocn.vip/topics/10174
+
+
+
 ## gopherDaily_2020-04-04
 - 1.快速安装Go应用二进制文件的服务 - https://cto.ai/blog/on-demand-go-binaries/
 
