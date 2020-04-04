@@ -4,6 +4,29 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-04
+一、Go语言中文网
+
+1. [如何使用 Diago 诊断 Go 程序中的 CPU 和内存使用情况](https://mp.weixin.qq.com/s/UV4m4DmQvXGNr7l4d-JfWQ)
+2. [Golang 连接池的几种实现案例](https://mp.weixin.qq.com/s/_J6CtjiamVHcnCNtCvvDOg)
+3. [Go 每日一库之 buntdb](https://mp.weixin.qq.com/s/2_kKD5H-PDNneE95Ase3mg)
+4. [从单体开始的架构演进](https://mp.weixin.qq.com/s/E7Ye8PrgRsZPpXzBcU0zbw)
+5. [2020重学Go系列：28. 这五点带你理解 Go语言的 select 用法](https://mp.weixin.qq.com/s/rmkF1E8w0GNkB4JYZEQTFA)
+
+二、 潘建锋
+
+1. [【译】Go 语言源码贡献官方指导文档](https://mp.weixin.qq.com/s/0SzlFhdBHiavfW5gNUBbsg)
+
+三、 学院君的后花园
+
+1. [基于 Go 语言开发在线论坛（五）：创建群组和主题](https://mp.weixin.qq.com/s/03zeDew_TXPdbBND0ZTGQA)
+
+四、火丁笔记
+
+1. [Go 和 Rust 的优缺点；预测 Go 1.16-1.19 会支持泛型](https://mp.weixin.qq.com/s/B5ZR_zYfdMs-fcCzBR5fQA)
+
+
+
 ## gocn_news_2020-04-04
 - 1.Go 语言源码贡献官方指导文档 https://gocn.vip/topics/10185
 
