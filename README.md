@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-05
+- 1.goroutine是如何启动和退出的 - https://medium.com/a-journey-with-go/go-how-does-a-goroutine-start-and-exit-2b3303890452
+- 2.gops是如何与go运行时交互的 - https://medium.com/a-journey-with-go/go-how-does-gops-interact-with-the-runtime-778d7f9d7c18
+- 3.kubectl exec的工作原理 - https://itnext.io/how-it-works-kubectl-exec-e31325daa910
+- 4.doit: go与vue实现的todo list应用 - https://github.com/Lallassu/doit
+- 5.cod: go实现的bash/zsh的自动补全工具 - https://github.com/dim-an/cod
+
+
 ## go语言中文网(每日资讯)_2020-04-04
 一、Go语言中文网
 
