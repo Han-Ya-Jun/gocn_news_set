@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-05
+- 1.gops 是怎么和 Go 的运行时进行交互的？ https://mp.weixin.qq.com/s/pFq_N5nLsJZwbnvViKwsjQ
+
+- 2.通过构建一个 tcp 协议来理解 Go 中的字节 https://ieftimov.com/post/understanding-bytes-golang-build-tcp-protocol/
+
+- 3.生成 Kubebuilder 风格的 Go 代码 https://banzaicloud.com/blog/generating-go-code/
+
+- 4.Go 中的享元模式 https://medium.com/better-programming/the-flyweight-pattern-in-go-a0712764195a
+
+- 5.那些常见的并发模型相关知识 https://mp.weixin.qq.com/s/5ZFAC1IWOGqPB2mClU05uQ
+
+
+
 ## gopherDaily_2020-04-05
 - 1.goroutine是如何启动和退出的 - https://medium.com/a-journey-with-go/go-how-does-a-goroutine-start-and-exit-2b3303890452
 - 2.gops是如何与go运行时交互的 - https://medium.com/a-journey-with-go/go-how-does-gops-interact-with-the-runtime-778d7f9d7c18
