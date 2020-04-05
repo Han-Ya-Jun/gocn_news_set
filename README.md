@@ -4,6 +4,27 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-05
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 37 期](https://mp.weixin.qq.com/s/OW33IiubEsZHiYjbG50kdA)
+2. [Golang中的Defer必掌握的7知识点](https://mp.weixin.qq.com/s/iM9y1rNa_xNv5zi5Dk60cw)
+3. [昨天网站都变成灰色了，没想到竟然一行代码就能实现](https://mp.weixin.qq.com/s/lqimJgkqTtaHNrd-xLXaHQ)
+4. [Go 每日一库之 gjson](https://mp.weixin.qq.com/s/4Co9iGqOg8hhLp983C02vA)
+5. [Go Web 编程--超详细的模板库应用指南](https://mp.weixin.qq.com/s/_wvxsFq0NwCh0-C2Bay-yg)
+
+二、GoUpUp
+
+1. [Go 每日一库之 validator](https://mp.weixin.qq.com/s/_cqeNbKeNayW0dHx6ROaNA)
+
+三、Go夜读
+
+1. [【视频回看】#84 图解 Go 内存对齐](https://mp.weixin.qq.com/s/1OiDikkN1NTg5nUfr6bUuw)
+
+四、菜鸟Miao
+
+1. [Go夜读: 图解Go之内存对齐](https://mp.weixin.qq.com/s/BP1FInD1KhqHuaqU1DFrIw)
+
 ## gocn_news_2020-04-05
 - 1.gops 是怎么和 Go 的运行时进行交互的？ https://mp.weixin.qq.com/s/pFq_N5nLsJZwbnvViKwsjQ
 
