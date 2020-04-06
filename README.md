@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-06
+一、Go语言中文网
+
+1. [Go 和 Rust 的优缺点；预测 Go 1.16-1.19 会支持泛型](https://mp.weixin.qq.com/s/w9nG86GZpVHGI7lzEX5A0Q)
+2. [如何成为 Go 的贡献者？Go 语言源码贡献官方指导文档](https://mp.weixin.qq.com/s/4KY56RwQZDVgdL_pnnAnaA)
+3. [Go 每日一库之 sjson](https://mp.weixin.qq.com/s/ucfJxIw_NLb6TGrhQa3UcQ)
+4. [defer 的前世今生](https://mp.weixin.qq.com/s/o5rl-mHfJTraO-b6aMEoAA)
+5. [Go Web编程--使用Go语言创建静态文件服务器](https://mp.weixin.qq.com/s/aNKISexgdITCd74yfa1zHw)
+
+二、图解源码
+
+1. [图解kubernetes控制器HPA横向伸缩的关键实现](https://mp.weixin.qq.com/s/X0J00y49Wtj6CCaqUuK_tg)
+
+三、 轩脉刃的刀光剑影
+
+1. [使用golang理解mysql的两阶段提交](https://mp.weixin.qq.com/s/KeZId8WScnS-rlc0kedEzw)
+
+四、菜鸟Miao
+
+1. [OPA进阶-测试、性能分析和基准测试](https://mp.weixin.qq.com/s/viFQV3-TUBhreKAhkAJ55Q)
+
+五、MoeLove
+
+1. [K8S 生态周报| NGINX Ingress Controller 新版本发布](https://mp.weixin.qq.com/s/W8Io56cUOUq4waUlYO5zfQ)
+
 ## gocn_news_2020-04-06
 - 1.SOLID 原则（Go 版本）--了解实际问题 https://medium.com/@minhajukhan/solid-principles-and-how-we-write-code-57beb1668db3
 
