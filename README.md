@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-06
+- 1.SOLID 原则（Go 版本）--了解实际问题 https://medium.com/@minhajukhan/solid-principles-and-how-we-write-code-57beb1668db3
+
+- 2.使用 Go 理解 mysql 的两阶段提交 https://mp.weixin.qq.com/s/KeZId8WScnS-rlc0kedEzw
+
+- 3.Socket Server 的 N 种并发模型汇总 https://gocn.vip/topics/10192
+
+- 4.使用多年的 go pprof 检查内存泄漏的方法居然是错的?! https://gocn.vip/topics/10189
+
+- 5.Nuclei 一个基于配置的目标扫描工具 https://github.com/projectdiscovery/nuclei
 ## go语言中文网(每日资讯)_2020-04-05
 一、Go语言中文网
 
