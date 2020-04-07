@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-07
+- 1.Go的重要性 - https://medium.com/@wasuradananjith/significance-of-go-part-1-where-does-the-go-stand-among-other-programming-languages-c1212d3322ca
+- 2.油管视频：设计插件式的地道的Go应用 - https://www.youtube.com/watch?v=qerWv9JTlo8
+- 3.基于http/2、使用letsencrypt构建go web服务 - https://marcofranssen.nl/build-a-go-webserver-on-http-2-using-letsencrypt/
+- 4.使用Commando包构建简单的命令行应用 - https://itnext.io/building-simple-command-line-cli-applications-in-go-using-commando-8a8e0edbd48a
+- 5.gokey: 纯go实现的智能卡应用 - https://github.com/f-secure-foundry/GoKey
+
+
 ## go语言中文网(每日资讯)_2020-04-06
 一、Go语言中文网
 
