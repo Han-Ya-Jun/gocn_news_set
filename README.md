@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-07
+- 1.Go ssh client: https://github.com/melbahja/goph 
+- 2.Go 依赖包校验工具：https://github.com/rakyll/govalidate 
+- 3.gops 是怎么和 Go 的运行时进行交互的？ https://gocn.vip/topics/10187
+
+- 4.打造云原生大型分布式监控系统 (二): Thanos 架构详解 https://gocn.vip/topics/10195
+
+- 5.2020 年六大容器应用趋势: https://mp.weixin.qq.com/s/r9y-q8PFhOg4mreW5U68sg 
+
+
 ## gopherDaily_2020-04-07
 - 1.Go的重要性 - https://medium.com/@wasuradananjith/significance-of-go-part-1-where-does-the-go-stand-among-other-programming-languages-c1212d3322ca
 - 2.油管视频：设计插件式的地道的Go应用 - https://www.youtube.com/watch?v=qerWv9JTlo8
