@@ -4,6 +4,26 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-07
+一、Go语言中文网
+
+1. [Docker 参考架构：设计可扩展、可移植的 Docker 容器网络](https://mp.weixin.qq.com/s/tHx8JHG8hKN3QhbMxuUOMw)
+2. [Logrus源码阅读(1)--基本用法](https://mp.weixin.qq.com/s/aO2KaUKhW4lB-ALcqdJYDQ)
+3. [Go 每日一库之 jj](https://mp.weixin.qq.com/s/y1HkH3EeAkaURRn1xdroXg)
+4. [Go Web 编程--如何确保Cookie数据的安全传输](https://mp.weixin.qq.com/s/U1BGLifFnu34SsOBcGE_Gw)
+
+二、深入Go语言
+
+1. [约瑟夫环](https://mp.weixin.qq.com/s/SpqjZSpaHiMhSb4vvljuJA)
+
+三、极客日常
+
+1. [打造云原生大型分布式监控系统(二): Thanos 架构详解](https://mp.weixin.qq.com/s/Kn4RACzihWGoajV1Q0G_cA)
+
+四、学院君的后花园 
+
+1. [基于 Go 语言开发在线论坛（六）：日志和错误处理](https://mp.weixin.qq.com/s/ex3JvYWqfn01SWN1GwyOAQ)
+
 ## gocn_news_2020-04-07
 - 1.Go ssh client: https://github.com/melbahja/goph 
 - 2.Go 依赖包校验工具：https://github.com/rakyll/govalidate 
