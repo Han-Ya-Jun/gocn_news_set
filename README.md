@@ -4,6 +4,17 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-08
+- 1.图解git原理的几个关键概念 - https://tonybai.com/2020/04/07/illustrated-tale-of-git-internal-key-concepts/
+
+- 2.聊聊数据库的未来 - https://mp.weixin.qq.com/s/Ahhaa9cAm248Sh4IHrcy-w
+
+- 3.docker发布Compose规范 - https://www.docker.com/blog/announcing-the-compose-specification/
+
+- 4.控制kubernetes的出口通信 - https://monzo.com/blog/controlling-outbound-traffic-from-kubernetes
+
+- 5.Kubernets贡献者速查表 - https://github.com/kubernetes/community/blob/master/contributors/guide/contributor-cheatsheet/README.md
+
 ## go语言中文网(每日资讯)_2020-04-07
 一、Go语言中文网
 
