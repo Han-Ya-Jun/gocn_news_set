@@ -4,6 +4,17 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-08
+1.Go 快速入门 [9.2]-深入数组用法、陷阱与编译时 https://gocn.vip/topics/10201
+
+2.从零开始入门 K8s | 理解 RuntimeClass 与使用多容器运行时 https://gocn.vip/topics/10199
+
+3.纯 Go 编写的桌面端 redis 命令行工具 https://gocn.vip/topics/10196
+
+4.使用 Fiber 快速创建 API https://dev.to/jozsefsallai/creating-fast-apis-in-go-using-fiber-59m9
+
+5.使用堆的代价 https://medium.com/invalid-memory/golang-cost-of-using-the-heap-e70363469754
+
 ## gopherDaily_2020-04-08
 - 1.图解git原理的几个关键概念 - https://tonybai.com/2020/04/07/illustrated-tale-of-git-internal-key-concepts/
 
