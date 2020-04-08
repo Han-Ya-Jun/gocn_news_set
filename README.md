@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-08
+一、Go语言中文网
+
+1. [到底要不要用 ORM？ORM vs. 非 ORM 对比](https://mp.weixin.qq.com/s/lyAuC6fUaer1rFC_GdK1-Q)
+2. [一次 Go deadlock 的讨论](https://mp.weixin.qq.com/s/BbTisj5_WXTQ-QWMxRcmuQ)
+3. [Go 每日一库之 govaluate](https://mp.weixin.qq.com/s/X6yMzAoylNbuXj4CfudQLw)
+4. [为什么 TCP 会被 UDP 取代](https://mp.weixin.qq.com/s/pxPgZTSlk3gt0vE0U6xh_Q)
+5. [基于 Go 语言编写在线论坛（一）：整体设计与数据模型](https://mp.weixin.qq.com/s/hZBaQ7FSwpCg5eOUbgekVw)
+
+二、真没什么逻辑
+
+1. [为什么 0.1 + 0.2 = 0.300000004](https://mp.weixin.qq.com/s/M2m3haos2OebXyXFzTc_6A)
+
+三、新亮笔记 
+
+1. [BFE 初探](https://mp.weixin.qq.com/s/DXZlp4kzvxwsY-ZpSbhxbA)
+
+四、图解源码
+
+1. [图解kubernetes命令执行核心实现](https://mp.weixin.qq.com/s/0C48IypvwADQa7lBi8Sthw)
+
+五、TonyBai
+
+1. [图解git原理的几个关键概念](https://mp.weixin.qq.com/s/75nVFXVJYgrpZoxfNTh1cQ)
+
 ## gocn_news_2020-04-08
 1.Go 快速入门 [9.2]-深入数组用法、陷阱与编译时 https://gocn.vip/topics/10201
 
