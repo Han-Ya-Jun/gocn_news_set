@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-09
+- 1.select语句是按何种顺序选择就绪channel的 - https://medium.com/a-journey-with-go/go-ordering-in-select-statements-fd0ff80fd8d6
+- 2.Go module系列：gopls的改进 - https://www.ardanlabs.com/blog/2020/04/modules-05-gopls-improvements.html
+- 3.NATS通信系列(包括JetStream持久化引擎) - https://choria.io/blog/post/2020/03/23/nats_patterns_1/
+- 4.Google的三本SRE图书全部可免费下载阅读 - https://landing.google.com/sre/books/
+- 5.keys: go密码学包和实例 - https://keys.pub/docs/lib-index.html
+
+
 ## go语言中文网(每日资讯)_2020-04-08
 一、Go语言中文网
 
