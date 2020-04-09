@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-09
+- 1.Go1.14.2/Go1.13.10 发布  https://gocn.vip/topics/10217
+
+- 2.Go 实现 Raft 第四篇：持久化和调优   https://mp.weixin.qq.com/s/azdjVpeTHkr4knajmdPtgw
+
+- 3.数据结构和算法 (Golang 实现)(16) 常见数据结构-字典   https://segmentfault.com/a/1190000022288698
+
+- 4.Golang 实现 Redis(4): AOF 持久化与 AOF 重写  http://www.cnblogs.com/Finley/p/12663636.html
+
+- 5.使用 golang 理解 mysql 的两阶段提交  http://www.cnblogs.com/yjf512/p/12651310.html
+
+
+
 ## gopherDaily_2020-04-09
 - 1.select语句是按何种顺序选择就绪channel的 - https://medium.com/a-journey-with-go/go-ordering-in-select-statements-fd0ff80fd8d6
 - 2.Go module系列：gopls的改进 - https://www.ardanlabs.com/blog/2020/04/modules-05-gopls-improvements.html
