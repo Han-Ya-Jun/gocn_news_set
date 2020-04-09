@@ -4,6 +4,26 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-09
+一、Go语言中文网
+
+1. [最有趣的Go语言学习书来啦！还有这些好书可以半价拿下~](https://mp.weixin.qq.com/s/zbPNwJqQWZzhwzrJj6bTtA)
+2. [项目使用了 ORM，具体执行的是什么 SQL 语句总是很迷？xorm1.0 解决了](https://mp.weixin.qq.com/s/xpnbpnXUVg2ToIfLJLeBRQ)
+3. [Go 每日一库之 validator：Go最优秀的验证库](https://mp.weixin.qq.com/s/1DcEJvQpQr-xX3LFyUf4Nw)
+4. [Beego框架代码分析](https://mp.weixin.qq.com/s/O6GiKF6j84KiYlgPgH0FFA)
+5. [基于 Go 语言开发在线论坛（二）：通过模型类与MySQL数据库交互](https://mp.weixin.qq.com/s/ncPJnVwTnp05pKT1gUYKrA)
+
+二、学院君的后花园
+
+1. [基于 Go 语言开发在线论坛（七）：通过单例模式获取全局配置](https://mp.weixin.qq.com/s/kKJ1YjneLOVl5ES17VAmog)
+
+三、GoUpUp
+
+1. [Go 每日一库之 gentleman](https://mp.weixin.qq.com/s/0B64B6y9TiU6rhy5ywXpVA)
+
+四、分布式实验室
+
+1. [聊聊分布式事务，再说说解决方案](https://mp.weixin.qq.com/s/7HKRkzTDu3AVP0UbeHb-zw)
 ## gocn_news_2020-04-09
 - 1.Go1.14.2/Go1.13.10 发布  https://gocn.vip/topics/10217
 
