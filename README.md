@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-10
+- 1.清晰胜过聪明: 改进 flatbuffers-go https://gocn.vip/topics/10225
+
+- 2.Argo 项目加入 CNCF 孵化器 | 云原生生态周报 Vol. 45 https://gocn.vip/topics/10228
+
+- 3.重磅 |Dragonfly 晋升成为 CNCF 孵化项目 https://gocn.vip/topics/10230
+
+- 4.一文读懂 K8s 持久化存储流程 https://gocn.vip/topics/10229
+
+- 5.重磅合集 |31 篇技术文章，带你从零入门 K8s（留言赠书） https://gocn.vip/topics/10223
+
+
+
 ## gopherDaily_2020-04-10
 - 1.Go泛型最新proposal的工作原理和体验方法 - https://blog.tempus-ex.com/generics-in-go-how-they-work-and-how-to-play-with-them/
 - 2.在企业防火墙后如何使用go module - https://www.dudley.codes/posts/2020.04.02-golang-behind-corporate-firewall/
