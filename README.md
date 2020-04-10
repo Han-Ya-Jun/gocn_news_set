@@ -4,6 +4,28 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-10
+一、Go语言中文网
+
+1. [Go 中的 SetFinalizer 有什么用？怎么实现的？](https://mp.weixin.qq.com/s/pK_0Rnnh7gE6nBPhiahakw)
+2. [抱歉！昨天的5折Go图书发现不对，已购会退差价，这次真的5折](https://mp.weixin.qq.com/s/YTAzACjSOUvI9bUcQdihdQ)
+3. [基于 Go 语言开发在线论坛（三）：访问论坛首页](https://mp.weixin.qq.com/s/QCT7Y2LbOEoxJKd4Y1VrCw)
+4. [八个字节的 UDP 如何传输数据](https://mp.weixin.qq.com/s/FvRFp4-SUO-PdPl1s7pAVg)
+5. [Logrus源码阅读(2)--logrus生命周期](https://mp.weixin.qq.com/s/caXjgBLghKL0agNs8LiZ-w)
+
+二、云+社区沙龙online
+
+1. [B站高可用架构实践](https://cloud.tencent.com/developer/salon/live-1210)
+
+三、容器时代 
+
+1. [“四”水年华，一路有你](https://mp.weixin.qq.com/s/uTNVqvNHR4WgyElvxFqorA)
+
+四、技术人技术事
+
+1. [微服务-高并发情况下接口降级和熔断策略](https://mp.weixin.qq.com/s/1pcZ92OxvBUTvUVrKpFGIw)
+2. [微服务-如何做好集群中服务器的负载均衡](https://mp.weixin.qq.com/s/RD0VOl8vFZEjZBi7PzV3rw)
+3. [微服务-高并发下接口如何做到优雅的限流](https://mp.weixin.qq.com/s/bW988IY_bsFmz7xFDF4KGQ)
 ## gocn_news_2020-04-10
 - 1.清晰胜过聪明: 改进 flatbuffers-go https://gocn.vip/topics/10225
 
