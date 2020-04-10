@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-10
+- 1.Go泛型最新proposal的工作原理和体验方法 - https://blog.tempus-ex.com/generics-in-go-how-they-work-and-how-to-play-with-them/
+- 2.在企业防火墙后如何使用go module - https://www.dudley.codes/posts/2020.04.02-golang-behind-corporate-firewall/
+- 3.Go结构化的并发 - https://medium.com/@arunsworld/structured-concurrency-in-go-b800c7c4434e
+- 4.solo.io的开源服务网格hub - https://www.solo.io/blog/open-source-service-mesh-hub-technical-overview/
+- 5.播客：企业中的Go - https://changelog.com/gotime/124
+
+
 ## go语言中文网(每日资讯)_2020-04-09
 一、Go语言中文网
 
