@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-11
+- 1.无缝连接 dubbo-go 与 gRPC https://gocn.vip/topics/10234
+
+- 2.goroutine 是如何启动和退出的 https://medium.com/a-journey-with-go/go-how-does-a-goroutine-start-and-exit-2b3303890452
+
+- 3.为什么在 go 程序中避免使用指针 https://medium.com/better-programming/why-you-should-avoid-pointers-in-go-36724365a2a7
+
+- 4.golang reflect 实现原理 https://gocn.vip/topics/10233
+
+- 5.Go 开发的类似 Youtube 的视频分享软件 https://prologic.github.io/tube/
+
+
+
 ## gopherDaily_2020-04-11
 - 1.Go CI/CD的五个最佳实践 - https://jfrog.com/blog/5-best-practices-for-golang-ci-cd/
 - 2.Kubernetes攻击矩阵: 全面了解Kubernetes的安全风险 - https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/
