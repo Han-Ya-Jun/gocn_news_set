@@ -4,6 +4,23 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-11
+一、Go语言中文网
+
+1. [还在用 2019.3 就 Out 了：GoLand 2020.1 版本正式发布](https://mp.weixin.qq.com/s/O8nbaciZBK_96_Ptu8lP-A)
+2. [打造 Zap 开箱即用日志组件](https://mp.weixin.qq.com/s/oSWYrvMCDBpNhbtfjywjww)
+3. [基于 Go 语言开发在线论坛（四）：通过 Cookie + Session 实现用户认证](https://mp.weixin.qq.com/s/d8TxUm9OctvTTKJEzNy00w)
+4. [图解git原理的几个关键概念](https://mp.weixin.qq.com/s/eDrGE4svQrOy5qpS2ur82g)
+5. [深挖Go系列之灵活的slice](https://mp.weixin.qq.com/s/BmA-t3NBoWISnONNQkvQbw)
+
+二、分布式实验室
+
+1. [Kafka 架构原理解析](https://mp.weixin.qq.com/s/gxl3A_YaqTooa-Wb8WrYzg)
+
+三、架构文摘
+
+1. [Prometheus + Granafa 构建高大上的MySQL监控平台](https://mp.weixin.qq.com/s/PV42yQoI0rTxDHInx6dN0g)
+
 ## gocn_news_2020-04-11
 - 1.无缝连接 dubbo-go 与 gRPC https://gocn.vip/topics/10234
 
