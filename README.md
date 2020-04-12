@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-12
+- 1.Go中的对象排序 - https://posener.github.io/order/
+- 2.编译静态Go程序 - https://www.arp242.net/static-go.html
+- 3.使用Swagger和Go构建Rest API，支持热加载 - https://medium.com/@hagenverfolgt/build-a-rest-api-in-golang-with-swagger-and-hot-reload-of-everything-6247a8ae8618
+- 4.使用Go操作关系数据库系列 - https://andrewpillar.com/programming/2020/04/07/working-with-sql-relations-in-go-part-1/
+- 5.mem: 低cost的string或[]byte类型操作库 - https://github.com/go4org/mem
+
+
 ## go语言中文网(每日资讯)_2020-04-11
 一、Go语言中文网
 
