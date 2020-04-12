@@ -4,6 +4,18 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-12
+- 1.Go 实现的类似 tmux 的终端控制 https://github.com/aaronjanse/3mux
+
+- 2.如何使用 docker 和 NGINX 扩展 https://codeburst.io/scaling-out-with-docker-and-nginx-8eda9fb1654c
+
+- 3.用 webassembly 和 tinygo 让 Go 跑在浏览器 https://marianogappa.github.io/software/2020/04/01/webassembly-tinygo-cheesse/
+
+- 4.Go 静态编译 arp242.net/static-go.html
+- 5.Kubernetes as a Service 的库 https://github.com/oneinfra/oneinfra
+
+
+
 ## gopherDaily_2020-04-12
 - 1.Go中的对象排序 - https://posener.github.io/order/
 - 2.编译静态Go程序 - https://www.arp242.net/static-go.html
