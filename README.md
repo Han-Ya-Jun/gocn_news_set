@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-13
+- 1.轻量级 Kubernetes k3s 初探 https://www.infoq.cn/article/0c7viUfLrxOZeh7qlRBT
+
+- 2.使用 Fx 管理 Go 微服务中的共享组件 https://pmihaylov.com/shared-components-go-microservices/
+
+- 3.使用 Go 两年后的思考 https://wgyn.github.io/2020/04/12/reflections-on-2-years-of-golang.html
+
+- 4.使用 Swagger、热更新等技术构建 Golang REST API https://medium.com/@hagenverfolgt/build-a-rest-api-in-golang-with-swagger-and-hot-reload-of-everything-6247a8ae8618
+
+- 5.GGen：快速生成 GraphQL Golang 工具 https://medium.com/@tabvn/golang-and-graphql-service-generator-490fb161ebfb
+
+
+
 ## gopherDaily_2020-04-13
 - 1.Go使用2年后的思考 - https://wgyn.github.io/2020/04/12/reflections-on-2-years-of-golang.html
 - 2.在Fx实现的Go微服务中管理共享组件 - https://pmihaylov.com/shared-components-go-microservices/
