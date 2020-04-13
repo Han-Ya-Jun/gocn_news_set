@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-13
+一、Go语言中文网
+
+1. [Go Vet 命令：超出预期的强大](https://mp.weixin.qq.com/s/EPfsrWxPWIO8OpbNncugbw)
+2. [Prometheus + Granafa 构建高大上的MySQL监控平台](https://mp.weixin.qq.com/s/jOnqEz31rDcUxSNs_Hjwaw)
+3. [基于 Go 语言开发在线论坛（六）：日志和错误处理](https://mp.weixin.qq.com/s/vbo_so4VBTh42Ko7RSkd8Q)
+4. [深挖Go系列之读懂map的底层设计](https://mp.weixin.qq.com/s/Gn1GiICzWd4RpGdShT0m4g)
+
+二、图解源码
+
+1. [基于k8s的容器云Paas平台概要设计](https://mp.weixin.qq.com/s/q88guR-1IYEBzaR0ITo7Pg)
+
+三、 MoeLove
+
+1. [K8S 生态周报| Docker 开源 Compose 规范](https://mp.weixin.qq.com/s/rVcem6TR31-qhEBb12p6CA)
+
+四、HelloGitHub
+
+1. [GitHub 热点速览 Vol.15：Background-Matting 让你秒变专业抠图师](https://mp.weixin.qq.com/s/naghFMuZrAsnmvX58S3-ZA)
+
+五、 分布式实验室
+
+1. [滴滴开源监控夜莺的架构设计思考](https://mp.weixin.qq.com/s/WiUXPjW2TaKeyRyk6UdVhQ)
+
 ## gocn_news_2020-04-13
 - 1.轻量级 Kubernetes k3s 初探 https://www.infoq.cn/article/0c7viUfLrxOZeh7qlRBT
 
