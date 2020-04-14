@@ -4,6 +4,26 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-14
+一、Go语言中文网
+
+1. [Go的Channel很强大，理解其内在概念会让它更强大](https://mp.weixin.qq.com/s/QYY4Z6umM5wn7U5Idwb8PA)
+2. [基于 Go 语言开发在线论坛（七）：通过单例模式获取全局配置](https://mp.weixin.qq.com/s/tNWHtomARQZRoUMdi5XMMA)
+3. [什么是WebSocket，它与HTTP有何不同？](https://mp.weixin.qq.com/s/CNELmXySBp0kKRtiakTEug)
+4. [Go刷Leetcode系列：二叉树（1）验证二叉搜索树](https://mp.weixin.qq.com/s/QSqooGj8RVZS82Z2ZGvDCQ)
+
+二、 容器时代
+
+1. [3个减小Docker镜像的简单技巧](https://mp.weixin.qq.com/s/UCm27by8Ro7NzFflsPISCQ)
+
+三、真没什么逻辑
+
+1. [为什么 Linux 需要虚拟内存](https://mp.weixin.qq.com/s/gPX-xvWqrUgRi5VwHok1pA)
+
+四、Go夜读
+
+1. [第 85 期斗鱼 Minerva 配置中心分享](https://mp.weixin.qq.com/s/e6n0DSEHZoCHBMLXUJp-fQ)
+2. [预习材料](https://github.com/talk-go/night/issues/602)
 ## gopherDaily_2020-04-14
 - 1.go module系列：vendoring - https://www.ardanlabs.com/blog/2020/04/modules-06-vendoring.html
 - 2.unik: 以unikernel形式运行go程序，无需底层操作系统 - https://git.sr.ht/~eliasnaur/unik
@@ -56,7 +76,22 @@
 - 4.gosql: 一个PostgreSQL的早期实现版本 - https://github.com/eatonphil/gosql
 - 5.what.Happens: 仅给go开发人员使用调试级别log包 - https://appliedgo.net/what/
 
+## go语言中文网(每日资讯)_2020-04-12
+一、Go语言中文网
 
+1. [Go语言爱好者周刊：第 38 期](https://mp.weixin.qq.com/s/_Wlpd3ii1GOD2w8Yv1pDPw)
+2. [Go新手容易犯的三个致命错误，你中招了吗？](https://mp.weixin.qq.com/s/RmcokVdwOC_9NaBEGgzgeA)
+3. [深挖Go系列之string那些事](https://mp.weixin.qq.com/s/XkNtxS10zY4Qd9I7EXc0CA)
+4. [基于 Go 语言开发在线论坛（五）：创建群组和主题](https://mp.weixin.qq.com/s/gm-AJGT6BIzr-WWvT4cxHQ)
+5. [Go Web编程--SecureCookie实现客户端Session管理](https://mp.weixin.qq.com/s/SgGhlAr1MYmXu8yqiRy8Iw)
+
+二、容器时代
+
+1. [使用Docker-Compose搭建高可用redis哨兵集群](https://mp.weixin.qq.com/s/lD7Sy-syw2ufve5yZCbcoA)
+
+三、图解源码
+
+1. [Pod创建流程代码版本[kubelet篇]](https://mp.weixin.qq.com/s/ScZG2MUOY_zS-pXdadgJvg)
 ## gocn_news_2020-04-12
 - 1.Go 实现的类似 tmux 的终端控制 https://github.com/aaronjanse/3mux
 
