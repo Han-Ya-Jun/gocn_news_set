@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-14
+- 1.go module系列：vendoring - https://www.ardanlabs.com/blog/2020/04/modules-06-vendoring.html
+- 2.unik: 以unikernel形式运行go程序，无需底层操作系统 - https://git.sr.ht/~eliasnaur/unik
+- 3.使用delve调试go程序 -  https://tpaschalis.github.io/delve-debugging/
+- 4.在http handler中的错误处理 - https://markphelps.me/2020/04/handling-errors-in-your-http-handlers/
+- 5.深入istio telemetry v2(无mixer) - https://banzaicloud.com/blog/istio-mixerless-telemetry/
+
+
 ## go语言中文网(每日资讯)_2020-04-13
 一、Go语言中文网
 
