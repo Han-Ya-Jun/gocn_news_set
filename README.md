@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-14
+- 1.数据结构和算法（Golang 实现） https://segmentfault.com/blog/golang-algorithm
+
+- 2.Golang 爬虫快速入门 | 获取 B 站全站的视频数据 https://imagician.net/archives/92/
+
+- 3.Go 实现简单的内存 SQL 数据库 https://notes.eatonphil.com/database-basics.html
+
+- 4.处理 HTTP Handler 中的错误 https://markphelps.me/2020/04/handling-errors-in-your-http-handlers/
+
+- 5.快速测试 go 函数工具 gofunc https://mp.weixin.qq.com/s/JjlzPQHCkMpbOUyN8k6mIg
+
+
+
 ## go语言中文网(每日资讯)_2020-04-14
 一、Go语言中文网
 
