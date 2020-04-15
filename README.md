@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-15
+- 1.Goimports 详解 https://nikodoko.com/posts/goimports_explained/
+
+- 2.go mod vendor 使用 https://www.ardanlabs.com/blog/2020/04/modules-06-vendoring.html
+
+- 3.Golang CLOSE WAIT 分析 https://mp.weixin.qq.com/s/sqBdycaClUixZQPgKy52Pw
+
+- 4.使用 Go 构建神经网络 https://towardsdatascience.com/neural-network-from-scratch-in-go-language-b98e2abcced3
+
+- 5.3 个减小 Docker 镜像的简单技巧 https://mp.weixin.qq.com/s/UCm27by8Ro7NzFflsPISCQ
+
+
+
 ## gopherDaily_2020-04-15
 - 1.干货推荐！“灭霸”(thanos)项目Go编码指南 - https://www.bwplotka.dev/2020/how-thanos-would-program-in-go/
 - 2.goimports工作原理揭秘 - https://nikodoko.com/posts/goimports_explained/
