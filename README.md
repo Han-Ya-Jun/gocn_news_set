@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-15
+- 1.干货推荐！“灭霸”(thanos)项目Go编码指南 - https://www.bwplotka.dev/2020/how-thanos-would-program-in-go/
+- 2.goimports工作原理揭秘 - https://nikodoko.com/posts/goimports_explained/
+- 3.使用Go从头构建神经网络 - https://towardsdatascience.com/neural-network-from-scratch-in-go-language-b98e2abcced3
+- 4.播客：和Erik St. Martin(GopherCon组织者、Go in action联合作者)聊聊Go -  https://6figuredev.com/podcast/episode-139-talking-go-with-erik-st-martin/
+- 5.database/sql包的替代品 - https://medium.com/@rocketlaunchr.cloud/a-replacement-for-database-sql-f25d01fbe9b1
+- 6.broccoli: 高效的静态文件嵌入工具 - https://github.com/aletheia-icu/broccoli
+- 7.edwood: Go版本Plan9 Acme 编辑器 - https://github.com/rjkroege/edwood
+
+
 ## gocn_news_2020-04-14
 - 1.数据结构和算法（Golang 实现） https://segmentfault.com/blog/golang-algorithm
 
