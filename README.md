@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-16
+- 1.Go 编码指南 https://thanos.io/contributing/coding-style-guide.md/
+
+- 2.Go 实现的 SSO 和 OAuth 登录解决方案 https://github.com/vouch/vouch-proxy
+
+- 3.Go 中的 bit 位和位运算符 https://segmentfault.com/a/1190000022384519
+
+- 4.线性回归 Go 语言实现 https://gocn.vip/topics/10254
+
+- 5.Go 语言踩坑记 panic 与 recover https://juejin.im/post/5e97263c6fb9a03c97754ab7
+
+
+
 ## gopherDaily_2020-04-16
 - 1.如何编写更可测的Go代码 - https://engineering.kablamo.com.au/posts/2020/testing-go
 - 2.详解Go io.Reader - https://dev.to/andyhaskell/what-is-the-io-reader-in-go-48co
