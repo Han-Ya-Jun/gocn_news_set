@@ -4,6 +4,12 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-16
+
+													欢迎关注我们的微信公众号，每天学习Go知识
+													
+												
+
 ## gocn_news_2020-04-16
 - 1.Go 编码指南 https://thanos.io/contributing/coding-style-guide.md/
 
