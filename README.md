@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-16
+- 1.如何编写更可测的Go代码 - https://engineering.kablamo.com.au/posts/2020/testing-go
+- 2.详解Go io.Reader - https://dev.to/andyhaskell/what-is-the-io-reader-in-go-48co
+- 3.播客：谈Go社区组织经验 - https://changelog.com/gotime/125
+- 4.Windows Subsystem for Linux 2正式发布GA版本 - https://www.infoq.com/news/2020/04/wsl-2-general-availability/
+- 5.友情链接：cobol编程教程 - https://github.com/openmainframeproject/cobol-programming-course
+
+
 ## go语言中文网(每日资讯)_2020-04-15
 一、Go语言中文网
 
