@@ -4,6 +4,27 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-16
+一、Go语言中文网
+
+1. [Go监控模式（Monitor Pattern）](https://mp.weixin.qq.com/s/IBzOPxNI6Z7MlnQXA9EXmA)
+2. [Go 每日一库之 gopsutil：获取各种系统和硬件信息](https://mp.weixin.qq.com/s/BhoeZuVAVlH8e4lgsKJQdg)
+3. [深挖Go系列之聊聊struct的内存对齐](https://mp.weixin.qq.com/s/TzY7aWbKtikQpfIySkJeQQ)
+4. [如何用 Redigo 访问 Codis](https://mp.weixin.qq.com/s/tLm922X3CiMPq9wWCbrJ9w)
+5. [Go刷LeetCode系列：二叉树（4）右侧指针](https://mp.weixin.qq.com/s/Bi1_yPcuyXpob3xenp2RWA)
+
+二、 菜鸟Miao
+
+1. [OPA进阶-分布式利器Bundle](https://mp.weixin.qq.com/s/E9U_6r-jhSW0FcmTnnRrgA)
+
+三、平也
+
+1. [超详细Go语言源码目录说明](https://mp.weixin.qq.com/s/vJ-Z1tDmMVdrAyn-SZ0KLA)
+
+四、容器时代
+
+1. [一文读懂 K8s 持久化存储流程](https://mp.weixin.qq.com/s/mF_5OmbNowDIu7olWy_joA)
+
 ## gocn_news_2020-04-16
 - 1.Go 编码指南 https://thanos.io/contributing/coding-style-guide.md/
 
