@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-17
+- 1.使用Go和WebRTC实现云游戏服务 - https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/
+- 2.go playground预置了一些常用代码模板 - https://play.golang.org/
+- 3.Go web开发开源书 - https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/
+- 4.为什么Python程序员应该考虑Go - http://blog.chand1012.net/FromPythonToGo/
+- 5.友情链接：npm加入github - https://github.blog/2020-04-15-npm-has-joined-github/
+
+
 ## go语言中文网(每日资讯)_2020-04-16
 一、Go语言中文网
 
