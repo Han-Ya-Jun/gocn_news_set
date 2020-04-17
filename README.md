@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-17
+- 1.使用 Golang 和 WebRTC 实战开源云游戏 https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/
+
+- 2.为 Go 构建动态的探针 https://blog.sqreen.com/dynamic-instrumentation-go/
+
+- 3.Go Lisp 解析器 https://github.com/mattn/golisp
+
+- 4.GeoDB:一款可持久化的地理数据库 https://github.com/autom8ter/geodb
+
+- 5.testcase:一款 Go TDD 测试框架 https://github.com/adamluzsi/testcase
+
+
+
 ## gopherDaily_2020-04-17
 - 1.使用Go和WebRTC实现云游戏服务 - https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/
 - 2.go playground预置了一些常用代码模板 - https://play.golang.org/
