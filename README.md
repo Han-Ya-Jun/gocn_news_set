@@ -4,6 +4,23 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-17
+一、Go语言中文网
+
+1. [目前Go语言中文书籍都在这，满400减230！总有你需要的](https://mp.weixin.qq.com/s/vYdO1PIKmWmA4NFF3hvnnQ)
+2. [结构体转map[string]interface{}的若干方法](https://mp.weixin.qq.com/s/Q_CqHQxDZMpjLNJTp5kfQg)
+3. [Socket Server的N种并发模型汇总](https://mp.weixin.qq.com/s/x07VaFCkDe1yxrSCjmctsQ)
+4. [使用Go语言创建WebSocket服务](https://mp.weixin.qq.com/s/kLzL-pwaQYoVD8QM_zoX9w)
+5. [Go刷LeetCode系列：二叉树（5）右视图](https://mp.weixin.qq.com/s/68gMHsGHxxecObC6m1Ug4w)
+
+二、 GoUpUp
+
+1. [Go 每日一库之 plot](https://mp.weixin.qq.com/s/8zn6weIIohqWWwvCW9qu7Q)
+
+三、平也
+
+1. [Go语言的GPM调度器是什么？](https://mp.weixin.qq.com/s/NFfhKQgcM3qrwAD5yYy-XQ)
+
 ## gocn_news_2020-04-17
 - 1.使用 Golang 和 WebRTC 实战开源云游戏 https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/
 
