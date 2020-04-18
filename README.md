@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-18
+- 1.图解使用Go实现RSA加密和签名 - https://www.sohamkamani.com/golang/rsa-encryption/
+- 2.strings包最常用的8个函数 - https://dev.to/rockey5520/8-most-used-functions-of-strings-package-in-go-26a3
+- 3.使用Gource图形化2008年到现在的Go项目开发历史记录 - https://host.promo/vlog/uH6-9Fl-2f4/golang-history-2008-now-git-visualization-gource-with-music
+- 4.eBPF: 重新思考Linux内核 - https://www.infoq.com/presentations/facebook-google-bpf-linux-kernel/
+- 5.earthly: 容器化时代的自动化构建工具 - https://github.com/vladaionescu/earthly
+- 6.goph: 通过ssh执行远程命令的工具 - https://github.com/melbahja/goph
+
+
 ## go语言中文网(每日资讯)_2020-04-17
 一、Go语言中文网
 
