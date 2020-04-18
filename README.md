@@ -4,6 +4,21 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-18
+一、Go语言中文网
+
+1. [如何用Go编码实现查找DNS记录](https://mp.weixin.qq.com/s/3EXr8tZ-ktKafQfmQHq1dg)
+2. [如何优雅的使用GDB调试Go](https://mp.weixin.qq.com/s/h-OBLoyyuC4oDUkYnKGg0w)
+3. [Golang 性能测试 (1)](https://mp.weixin.qq.com/s/_eHJU9jaeUO64MMzbU00Wg)
+4. [Golang robfig/cron 实现解析](https://mp.weixin.qq.com/s/-UCU2am_XnW0s72zpDVmsg)
+
+二、容器时代
+
+1. [重磅合集 | 31 篇技术文章，带你从零入门 K8s](https://mp.weixin.qq.com/s/VcEd6iwvw5g86paisKt52w)
+
+三、xueyuanjun
+
+1. [基于 Go 语言开发在线论坛（九）：部署 Go Web 应用](https://mp.weixin.qq.com/s/v7idPc2yacj2uocqm07Gog)
 ## gocn_news_2020-04-18
 - 1.Golang CLOSE WAIT 分析 https://gocn.vip/topics/10245
 
