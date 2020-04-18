@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-18
+- 1.Golang CLOSE WAIT 分析 https://gocn.vip/topics/10245
+
+- 2.MOSN 扩展机制解析 https://gocn.vip/topics/10248
+
+- 3.超详细 Go 语言源码目录说明 https://segmentfault.com/a/1190000022396146
+
+- 4.如何创建可测试的 Go 代码 https://engineering.kablamo.com.au/posts/2020/testing-go
+
+- 5.根据 OpenAPI2（swagger）定义生成 Golang 客户端和服务器 https://github.com/ExperienceOne/apikit
+
+
+
 ## gopherDaily_2020-04-18
 - 1.图解使用Go实现RSA加密和签名 - https://www.sohamkamani.com/golang/rsa-encryption/
 - 2.strings包最常用的8个函数 - https://dev.to/rockey5520/8-most-used-functions-of-strings-package-in-go-26a3
