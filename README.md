@@ -4,6 +4,26 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-19
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 39 期](https://mp.weixin.qq.com/s/kyVWJIZFICX75HWfzqKr8A)
+2. [一道简单的Go并发题：但你会做吗？](https://mp.weixin.qq.com/s/i5LTgERDRWT-Jp3_9IK-4g)
+3. [3个减小Docker镜像的简单技巧](https://mp.weixin.qq.com/s/bidOqnJkq1WnkR4XI_Zs5g)
+4. [深挖Go系列之读懂interface的底层设计](https://mp.weixin.qq.com/s/0bIbt7zapxMI7Br4DIbDJg)
+5. [Golang 性能测试(2) - 性能分析](https://mp.weixin.qq.com/s/nl74whcyML-HQ2Ou2ViCyg)
+
+二、容器时代
+
+1. [阿里云专家详解 2020 服务网格发展趋势](https://mp.weixin.qq.com/s/0MW5oRmD1mIkV4At9eWVfA)
+
+三、 K8S中文社区
+
+1. [高可用Prometheus：问题集锦](https://mp.weixin.qq.com/s/adthfL1N1LkF39a1yXQlTg)
+
+四、分布式实验室
+
+1. [一篇文章带你逆袭 Kafka](https://mp.weixin.qq.com/s/j8J762sBLKuS4O0JgVsq6w)
 ## gocn_news_2020-04-19
 - 1.记一次奇妙的 go-protobuf 包升级之旅 https://gocn.vip/topics/10269
 - 2.OPA 进阶-分布式利器 Bundle https://gocn.vip/topics/10268
