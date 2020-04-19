@@ -4,6 +4,12 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-19
+- 1.记一次奇妙的 go-protobuf 包升级之旅 https://gocn.vip/topics/10269
+- 2.OPA 进阶-分布式利器 Bundle https://gocn.vip/topics/10268
+- 3.Slack 是如何做部署的 https://slack.engineering/deploys-at-slack-cd0d28c61701
+- 4.面向分层架构的 Go orm rel https://github.com/Fs02/rel
+- 5.Go 中的元编程 https://levelup.gitconnected.com/metaprogram-in-go-5a2a7e989613
 ## gopherDaily_2020-04-19
 - 1.深入理解Go反射: https://medium.com/@snird/go-reflections-deep-dive-from-structs-and-interfaces-e1931f0c99af
 - 2.Go module基础 - https://medium.com/@perennial.sky/basic-understanding-of-golang-package-manager-go-module-8f909e8c6de7
