@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-19
+- 1.深入理解Go反射: https://medium.com/@snird/go-reflections-deep-dive-from-structs-and-interfaces-e1931f0c99af
+- 2.Go module基础 - https://medium.com/@perennial.sky/basic-understanding-of-golang-package-manager-go-module-8f909e8c6de7
+- 3.Ebook: The BlockChain way of programming(前六章) - https://web3coach-public.s3.eu-central-1.amazonaws.com/the-blockchain-way-of-programming-newsletter-version.pdf
+- 4.审查邪恶 - https://philpearl.github.io/post/examining_evil/
+- 5.Kubernetes很大可能将在1.19版本原生支持sidecar container - https://banzaicloud.com/blog/k8s-sidecars/
+
+
 ## go语言中文网(每日资讯)_2020-04-18
 一、Go语言中文网
 
