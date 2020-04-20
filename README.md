@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-20
+- 1.对Go可视化编程的重新思考 - https://divan.dev/posts/visual_programming_go/
+- 2.在Go中比较字符串的高效方法 - https://rakeshmothukuri.dev/tidbits/10-go-efficient-string-comparison/
+- 3.如果编程语言有诚实的口号 - https://medium.com/better-programming/if-programming-languages-had-honest-slogans-6fb6201a6e03
+- 4.Paper: 10G/s的可靠UDP传输 - https://arxiv.org/abs/1706.00333
+- 5.qrcp: 通过扫描二维码即可通过wifi将文件从计算机传输到移动设备 - https://github.com/claudiodangelis/qrcp
+
+
 ## go语言中文网(每日资讯)_2020-04-19
 一、Go语言中文网
 
