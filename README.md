@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-20
+一、Go语言中文网
+
+1. [Go 框架解析 -iris](https://mp.weixin.qq.com/s/-xhhuPkutY1-G4_NugNotQ)
+2. [Go 每日一库之 gentleman](https://mp.weixin.qq.com/s/eMKIzsNISXci9a4sNWKVlg)
+3. [为什么数据库会丢失数据？](https://mp.weixin.qq.com/s/-vSkkpPDtGVmAtpb4NoK6g)
+4. [关于如何收集，标准化和集中化处理Golang日志的一些建议](https://mp.weixin.qq.com/s/IEipAZNmxd-dgZfYC4g1fg)
+5. [Golang 性能测试 (3) 协程追踪术](https://mp.weixin.qq.com/s/B6iAQGrTVm6q7C3JqFZBHQ)
+
+二、码农桃花源
+
+1. [深度解密Go语言之sync.pool](https://mp.weixin.qq.com/s/O8EY0M4_Rt_0BLCcM8OwFw)
+
+三、菜鸟Miao
+
+1. [记一次奇妙的go-protobuf包升级之旅](https://mp.weixin.qq.com/s/Q2e0kalsqm4RizjcyL1A1w)
+
+四、无闻是个码痴
+
+1. [中文博客搬新家](https://mp.weixin.qq.com/s/sSpUPRElWCj6ZYOhrgxXeA)
+
+五、MoeLove
+
+1. [K8S 生态周报| containerd v1.3.4 正式发布](https://mp.weixin.qq.com/s/GnwIamO7IyfTnzKyA8NUMw)
+
 ## gocn_news_2020-04-20
 - 1.使用 Go 构建 JSON 解析器和查询工具 https://medium.com/@bradford_hamilton/building-a-json-parser-and-query-tool-with-go-8790beee239a
 
