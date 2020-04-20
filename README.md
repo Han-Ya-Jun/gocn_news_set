@@ -4,6 +4,18 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-20
+- 1.使用 Go 构建 JSON 解析器和查询工具 https://medium.com/@bradford_hamilton/building-a-json-parser-and-query-tool-with-go-8790beee239a
+
+- 2.使用 Go 作为 Linux 的脚本语言 https://dev.to/ignatk/using-go-as-a-scripting-language-in-linux-4c8c
+
+- 3.打造云原生大型分布式监控系统 (三): Thanos 部署与实践 https://gocn.vip/topics/10272
+
+- 4.从 graphql-go 转换到 gqlgen https://gocn.vip/topics/10265
+
+- 5.IOT 云平台开源项目之 go-ocf/cloud  https://github.com/go-ocf/cloud 
+
+
 ## gopherDaily_2020-04-20
 - 1.对Go可视化编程的重新思考 - https://divan.dev/posts/visual_programming_go/
 - 2.在Go中比较字符串的高效方法 - https://rakeshmothukuri.dev/tidbits/10-go-efficient-string-comparison/
