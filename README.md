@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-21
+- 1.Go 2019 开发者调研报告：https://blog.golang.org/survey2019-results
+
+- 2.Go 编写 web API 客户端：https://dev.to/andyhaskell/build-a-web-api-client-in-go-part-1-connecting-to-the-api-5a4o
+
+- 3.Go 快速入门系列：https://gocn.vip/topics/10271
+
+- 4.Kubernetes 应用的新开源 GIS 项目：https://opensource.com/article/20/4/gis-kubernetes
+
+- 5.HTTP3 能给应用带来什么好处？ https://mp.weixin.qq.com/s/oFWMqLvj8W-BsAeIGNgg7g
+
+
+
 ## gopherDaily_2020-04-21
 - 1.Go官方：2019年度Go开发者调查结果出炉 - https://blog.golang.org/survey2019-results
 - 2.油管视频：使用Pion(Go webrtc框架)构建基于webrtc的分布式实时通讯系统 - https://www.youtube.com/watch?v=FdgoOrJH8ok&feature=youtu.be&t=989
