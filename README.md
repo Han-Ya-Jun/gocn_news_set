@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-21
+- 1.Go官方：2019年度Go开发者调查结果出炉 - https://blog.golang.org/survey2019-results
+- 2.油管视频：使用Pion(Go webrtc框架)构建基于webrtc的分布式实时通讯系统 - https://www.youtube.com/watch?v=FdgoOrJH8ok&feature=youtu.be&t=989
+- 3.使用Go和Grpc制作一款多人游戏 - https://mortenson.coffee/blog/making-multiplayer-game-go-and-grpc/
+- 4.如何使用Docker部署一个go web应用 - https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker
+- 5.Go安全之跨站点脚本(XSS) - https://blogtitle.github.io/robn-go-security-pearls-cross-site-scripting-xss/
+- 6.声明式WebAssembly部署(for istio) - https://itnext.io/declarative-webassembly-deployment-for-istio-fd71ff697bc5
+
+
 ## go语言中文网(每日资讯)_2020-04-20
 一、Go语言中文网
 
