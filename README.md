@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-22
+- 1.如何管理数据库操作的超时和取消 - https://www.alexedwards.net/blog/how-to-manage-database-timeouts-and-cancellations-in-go
+- 2.Go命名惯例 - https://medium.com/better-programming/naming-conventions-in-go-short-but-descriptive-1fa7c6d2f32a
+- 3.播客：大单体与微服务的辩论 - https://changelog.com/gotime/126
+- 4.高性能Go语言库和工具快查表 - https://github.com/cristaloleg/awesome-go-perf
+- 5.技术面试问题集(Go版本) - https://github.com/shomali11/go-interview
+
+
 ## go语言中文网(每日资讯)_2020-04-21
 一、Go语言中文网
 
