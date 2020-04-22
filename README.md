@@ -4,6 +4,23 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-22
+一、Go语言中文网
+
+1. [官方博文：2019 年 Go 开发者调查结果](https://mp.weixin.qq.com/s/grngFL2PkiwUmp2oCvykBw)
+2. [Go每日一库：使用sqlx批量插入数据](https://mp.weixin.qq.com/s/izZTySv4_1Uz6n3Yo2FHYA)
+3. [HTTP中间件机制实现与原理 - 从零开始写Go-API框架](https://mp.weixin.qq.com/s/tvJHBUTi87FvuUeJVVKLyg)
+4. [深挖Go系列之interface调用的一个优化点](https://mp.weixin.qq.com/s/WQYi2A6dCA0qBN6GsSJoVw)
+5. [如何用Go设计实现哈希表](https://mp.weixin.qq.com/s/ShDjCz4ZLxDr1B78l_-FJw)
+
+二、云加社区
+
+1. [bilibili技术总监毛剑：B站高可用架构实](https://mp.weixin.qq.com/s/3NUd4jObuTKqlhUr-eKvhA)
+
+三、360云计算
+
+1. [Etcd集群的介绍和选主应用](https://mp.weixin.qq.com/s/IQEoXyewwXDc-BFl-ZpP5Q)
+
 ## gocn_news_2020-04-22
 - 1.2020 中国 Go 开发者调查报告 https://mp.weixin.qq.com/s/pFszy8yfPzeR8NaQaGmKCg 
 - 2.记一次使用第三方库的坑 https://gocn.vip/topics/10280
