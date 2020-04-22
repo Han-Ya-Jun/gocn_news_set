@@ -4,6 +4,18 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-22
+- 1.2020 中国 Go 开发者调查报告 https://mp.weixin.qq.com/s/pFszy8yfPzeR8NaQaGmKCg 
+- 2.记一次使用第三方库的坑 https://gocn.vip/topics/10280
+
+- 3.Argo 项目入驻 CNCF，一文解析 Kubernetes 原生工作流 https://gocn.vip/topics/10282
+
+- 4.我用 GO 写了一个 2D 的 RPG 游戏 https://dev.to/ajinkyax/i-built-a-2d-rpg-game-in-go-golang-iei
+
+- 5.使用 apitest 测试你的 API https://dev.to/codenation/testing-apis-in-golang-using-apitest-1860
+
+
+
 ## gopherDaily_2020-04-22
 - 1.如何管理数据库操作的超时和取消 - https://www.alexedwards.net/blog/how-to-manage-database-timeouts-and-cancellations-in-go
 - 2.Go命名惯例 - https://medium.com/better-programming/naming-conventions-in-go-short-but-descriptive-1fa7c6d2f32a
