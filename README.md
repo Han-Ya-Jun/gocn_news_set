@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-23
+- 1.Go中国社区(gocn.vip)发布“2020中国Go开发者调查报告” - https://mp.weixin.qq.com/s/pFszy8yfPzeR8NaQaGmKCg
+- 2.Go 1.15 Release Note草稿建立 - https://tip.golang.org/doc/go1.15
+- 3.使用Go Generate部署多进程应用 - https://qvault.io/2020/04/22/using-go-generate-to-deploy-multi-process-apps/
+- 4.Kubernetes网络策略系列 - https://cloudogu.com/en/blog/k8s-app-ops-part-1
+- 5.使用Go进行数据记录：如何安全地存储客户详细信息 - https://medium.com/pipedrive-engineering/data-logging-with-golang-how-to-store-customer-details-securely-14d49f2cf992
+- 6.使用apitest测试go api - https://dev.to/codenation/testing-apis-in-golang-using-apitest-1860
+
+
 ## go语言中文网(每日资讯)_2020-04-22
 一、Go语言中文网
 
