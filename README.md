@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-23
+- 1.golang 快速入门 [9.3]-精深奥妙的切片功夫   http://suo.im/5Xo3FZ
+
+- 2.Go gRPC 进阶-go-grpc-middleware 使用（八） https://www.cnblogs.com/FireworksEasyCool/p/12750339.html
+
+- 3.Golang context 源码阅读与分析   https://jiajunhuang.com/articles/2020_04_22-golang_context.md.html
+
+- 4.Go 使用 gdb 调试   https://jiajunhuang.com/articles/2020_04_23-go_gdb.md.html
+
+- 5.淘宝云梯分布式计算平台架构  https://mp.weixin.qq.com/s/phFuqPdOY3r6k1JnPHBjww
 ## gopherDaily_2020-04-23
 - 1.Go中国社区(gocn.vip)发布“2020中国Go开发者调查报告” - https://mp.weixin.qq.com/s/pFszy8yfPzeR8NaQaGmKCg
 - 2.Go 1.15 Release Note草稿建立 - https://tip.golang.org/doc/go1.15
