@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-24
+- 1.长文！开发人员应该了解的关于数据库的那些事儿 - by Jaana B.Dogan - https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78
+- 2.基于containerd的闪电启动容器的方案 - https://medium.com/nttlabs/startup-containers-in-lightning-speed-with-lazy-image-distribution-on-containerd-243d94522361
+- 3.使用AWS Lambda进行FaaS的几点思考 - https://medium.com/@filiplubniewski/go-for-cloud-a-few-reflections-for-faas-with-aws-lambda-5312f82d4c81
+- 4.为下一代测序工具选择实现语言：比较Go、Java、C++ - https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2903-5
+- 5.lockgate: 跨平台lock库 - https://github.com/flant/lockgate
+
+
 ## go语言中文网(每日资讯)_2020-04-23
 一、Go语言中文网
 
