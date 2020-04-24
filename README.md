@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-24
+- 1.dubbo-go 中如何实现路由策略功能 https://gocn.vip/topics/10297
+
+- 2.Go Search Extension 版本发布! 一款超实用小工具 https://gocn.vip/topics/10296 
+- 3.使用 OpenCensus 检测 Cloud Spanner Go 应用程序 https://medium.com/google-cloud/instrumenting-cloud-spanner-go-applications-with-opencensus-6e734eb4d8c8 
+- 4.Service Mesh 最火项目 Istio 分层架构，你真的了解吗？ https://gocn.vip/topics/10295
+
+- 5.protobuf 文件管理器 https://github.com/umirode/prot 
+
+
 ## gopherDaily_2020-04-24
 - 1.长文！开发人员应该了解的关于数据库的那些事儿 - by Jaana B.Dogan - https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78
 - 2.基于containerd的闪电启动容器的方案 - https://medium.com/nttlabs/startup-containers-in-lightning-speed-with-lazy-image-distribution-on-containerd-243d94522361
