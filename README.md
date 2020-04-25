@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-25
+- 1.go protobuf v1败给了gogo protobuf，那v2呢？- https://tonybai.com/2020/04/24/gogoprotobuf-vs-goprotobuf-v1-and-v2/
+- 2.可取消(Cancel)的Reader - https://benjamincongdon.me/blog/2020/04/23/Cancelable-Reads-in-Go
+- 3.敏捷的早期传教士不会介意敏捷死掉 - https://builtin.com/software-engineering-perspectives/lean-agile-methodology-software-engineering
+- 4.Pomerium: 身份识别代理，可以安全地访问内部应用程序, 一个VPN替代方案 - https://github.com/pomerium/pomerium
+- 5.log: 又一轮子！Go的结构化logging包 - https://github.com/apex/log
+- 6.sabre: 可定制、可嵌入的LISP引擎 - https://github.com/spy16/sabre
+
+
 ## go语言中文网(每日资讯)_2020-04-24
 一、Go语言中文网
 
