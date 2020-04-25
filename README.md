@@ -32,6 +32,17 @@
 
 1. [基于Prometheus构建黑盒监控体系（已用于线上环境）](https://mp.weixin.qq.com/s/b7esu1otc5kaqgqqKGgGIw)
 
+## gocn_news_2020-04-25
+- 1.Go 协作与抢占 https://mp.weixin.qq.com/s/nib0OD-LvNG57JAs4vB9RA
+
+- 2.使用 delve 调试 go 程序 https://tpaschalis.github.io/delve-debugging/
+
+- 3.如何使用 Golang 安全的存储客户信息数据 https://medium.com/pipedrive-engineering/data-logging-with-golang-how-to-store-customer-details-securely-14d49f2cf992
+
+- 4.eBPF 技术应用云原生网络实践系列之 kubernetes 网络 https://mp.weixin.qq.com/s/2NLxYk5P3So9TzxtSyUD4A
+
+- 5.Colly 外的又一 Go 爬虫框架—Goribot https://segmentfault.com/a/1190000022452452
+
 ## gopherDaily_2020-04-25
 - 1.go protobuf v1败给了gogo protobuf，那v2呢？- https://tonybai.com/2020/04/24/gogoprotobuf-vs-goprotobuf-v1-and-v2/
 - 2.可取消(Cancel)的Reader - https://benjamincongdon.me/blog/2020/04/23/Cancelable-Reads-in-Go
