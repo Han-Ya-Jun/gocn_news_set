@@ -4,6 +4,34 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-25
+一、Go语言中文网
+
+1. [Linux、K8S、Go等是如何设计调度系统的？调度系统设计精要](https://mp.weixin.qq.com/s/BSZ-mf6YAeHMlc_pc8CTPw)
+2. [Go 中 goroutine 是如何协作与抢占](https://mp.weixin.qq.com/s/59eBnrnoigz9A_J5uxIqRg)
+3. [Golang中interface内部构造与面试真题分析](https://mp.weixin.qq.com/s/WIjVX-yXHZEOZoayT_m3MA)
+4. [Golang Web入门（2）：如何实现一个RESTful风格的路由](https://mp.weixin.qq.com/s/YqYsqJX6jnDF3qWyALyeUw)
+
+二、xueyuanjun
+
+1. [基于 Go 语言构建在线论坛项目索引篇](https://mp.weixin.qq.com/s/KCVrc1NU6t2S7ucNxuQ3QA)
+
+三、GoUpUp
+
+1. [Go 每日一库之 zap](https://mp.weixin.qq.com/s/TNuKyeFGJ6fyTq1LtlaR1Q)
+
+四、 TonyBai
+
+1. [go protobuf v1败给了gogo protobuf，那v2呢？](https://mp.weixin.qq.com/s/mx4vtWBRybI81aZNykwDqg)
+
+五、 云加社区
+
+1. [“健康码”背后，腾讯慧眼高可用架构设计](https://mp.weixin.qq.com/s/rjl10JKf3c_E6iJdtUID2g)
+
+六、 DBAplus社群
+
+1. [基于Prometheus构建黑盒监控体系（已用于线上环境）](https://mp.weixin.qq.com/s/b7esu1otc5kaqgqqKGgGIw)
+
 ## gopherDaily_2020-04-25
 - 1.go protobuf v1败给了gogo protobuf，那v2呢？- https://tonybai.com/2020/04/24/gogoprotobuf-vs-goprotobuf-v1-and-v2/
 - 2.可取消(Cancel)的Reader - https://benjamincongdon.me/blog/2020/04/23/Cancelable-Reads-in-Go
