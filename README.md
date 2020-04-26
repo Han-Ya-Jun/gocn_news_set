@@ -4,6 +4,13 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-26
+- 1.Go内联优化 by Dave Cheney - https://dave.cheney.net/2020/04/25/inlining-optimisations-in-go
+- 2.我们如何在3天内使用Go和Vue创建实时患者监护系统 - https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/
+- 3.为什么for-range的行为会因元素的大小而不同 - https://labs.yulrizka.com/en/why-for-range-behave-differently-depending-on-the-size-of-the-element/
+- 4.InfluxDB Go Client入门 - https://www.influxdata.com/blog/getting-started-with-the-influxdb-go-client/
+- 5.时间是我们拥有的唯一真实货币: 关于如何将时间花费在重要的事情上 - https://blog.theboringtech.io/2020/04/16/time_is_the_real_currency.html
+- 6.goneli: 实现NELI分布式选主协议 - https://github.com/obsidiandynamics/goneli
 ## go语言中文网(每日资讯)_2020-04-25
 一、Go语言中文网
 
