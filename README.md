@@ -4,6 +4,26 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-26
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 40 期](https://mp.weixin.qq.com/s/jbUcrkA2q1PvOqgl7MhDHw)
+2. [Go protobuf v1 败给了gogo protobuf，那 v2 呢？](https://mp.weixin.qq.com/s/8X4prZtPOMBBdcI5CcHuIg)
+3. [你需要知道的go语言json操作技巧（上）](https://mp.weixin.qq.com/s/47VgCbuI2TbQ2G385vazVw)
+4. [Go语言模糊搜索实验](https://mp.weixin.qq.com/s/3paGZQ3N7hQb7upwtlrZ7g)
+5. [Go算法面试题：反转链表](https://mp.weixin.qq.com/s/LuCijDrxt9oPaKDJSeSwHw)
+
+二、分布式实验室
+
+1. [哆啦A梦：基于Prometheus的企业监控报警平台](https://mp.weixin.qq.com/s/0wtsFfGq5vK9Rqto0DsJog)
+
+三、GoUpUp
+
+1. [Go 每日一库之 zerolog](https://mp.weixin.qq.com/s/asi6X7FzEJ96TDLA8eFApA)
+
+四、 腾讯技术工程
+
+1. [三年之久的 etcd3 数据不一致 bug 分析](https://mp.weixin.qq.com/s/qittYHY2GUwhFtvsRDaIAQ)
 ## gocn_news_2020-04-26
 - 1.基于 Go 语言 Gin 框架和 Vue 搭建的开源后台管理系统  https://github.com/flipped-aurora/gin-vue-admin
 
