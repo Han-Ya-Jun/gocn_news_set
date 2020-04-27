@@ -4,6 +4,13 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-27
+- 1.一起依赖升级 + 异常数据引发的线上事故 https://mp.weixin.qq.com/s/xe8KXD39YlJdDG4cLT0veA
+
+- 1.三年之久的 etcd3 数据不一致 bug 分析 https://mp.weixin.qq.com/s/qittYHY2GUwhFtvsRDaIAQ
+- 2.这可能是你的第一个 DevOps 解决方案！ https://gocn.vip/topics/10310apitest-1860
+
+
 ## gopherDaily_2020-04-27
 - 1.前瞻：Go 1.15版本都包含哪些变化 - https://docs.google.com/presentation/d/1veyF0y6Ynr6AFzd9gXi4foaURlgbMxM-tmB4StDrdAM/edit#slide=id.g840eaeb4b4_0_8 国内地址：https://pan.baidu.com/s/1PO1_l0-1itDMnavPQo9B1Q  密码:38kz
 - 2.Dgraph和GraphQL +-入门 - https://www.ardanlabs.com/blog/2020/04/getting-started-with-dgraph-and-graphql+-.html
