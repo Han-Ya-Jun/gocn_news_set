@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-27
+- 1.前瞻：Go 1.15版本都包含哪些变化 - https://docs.google.com/presentation/d/1veyF0y6Ynr6AFzd9gXi4foaURlgbMxM-tmB4StDrdAM/edit#slide=id.g840eaeb4b4_0_8 国内地址：https://pan.baidu.com/s/1PO1_l0-1itDMnavPQo9B1Q  密码:38kz
+- 2.Dgraph和GraphQL +-入门 - https://www.ardanlabs.com/blog/2020/04/getting-started-with-dgraph-and-graphql+-.html
+- 3.经典旧文：Go channel教程 - https://guzalexander.com/2013/12/06/golang-channels-tutorial.html
+- 4.errlog: 可改善错误日志格式并加快调试速度的log包 - https://github.com/snwfdhmp/errlog
+- 5.skycoin：又一以Go为主要实现语言的币项目 - https://github.com/SkycoinProject/skycoin
+
+
 ## go语言中文网(每日资讯)_2020-04-26
 一、Go语言中文网
 
