@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-27
+一、Go语言中文网
+
+1. [如何在 3 天内使用 Go 和 Vue 创建实时患者监护系统](https://mp.weixin.qq.com/s/aDGpq_6WWGgwZRktPocJNA)
+2. [曹大：Go Modules 的智障版本选择](https://mp.weixin.qq.com/s/CrjTd7XdtGCpA4nrTtIH4A)
+3. [Golang 跟踪刨析举例：通过例子学习 Go Trace 工具](https://mp.weixin.qq.com/s/o4i85A_buo2HSi5xMbJBrw)
+4. [你需要知道的那些Go语言json技巧（下）](https://mp.weixin.qq.com/s/jUIXmYl5735LqK2oL6jMRg)
+
+二、Go夜读
+
+1. [【本周三预告】第 87 期 JetBrains GoLand 2020.1 新特性介绍](https://mp.weixin.qq.com/s/kvrtCVfyvlHNpF7H4mMmqw)
+
+三、码农桃花源
+
+1. [“���”引发的线上事故](https://mp.weixin.qq.com/s/xe8KXD39YlJdDG4cLT0veA)
+
+四、CSDN
+
+1. [万字长文！Go 后台项目架构思考与重构](https://mp.weixin.qq.com/s/UQZGqAumYurTqbZCAbeQCQ)
+
+五、MoeLove
+
+1. [K8S 生态周报| Helm v3.2 正式发布](https://mp.weixin.qq.com/s/laedxMqFRygD6bv-6Uwjhw)
+
 ## gocn_news_2020-04-27
 - 1. 一起依赖升级 + 异常数据引发的线上事故 https://mp.weixin.qq.com/s/xe8KXD39YlJdDG4cLT0veA
  
