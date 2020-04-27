@@ -5,10 +5,17 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 ## gocn_news_2020-04-27
-- 1.一起依赖升级 + 异常数据引发的线上事故 https://mp.weixin.qq.com/s/xe8KXD39YlJdDG4cLT0veA
+- 1. 一起依赖升级 + 异常数据引发的线上事故 https://mp.weixin.qq.com/s/xe8KXD39YlJdDG4cLT0veA
+ 
+- 2. 踩坑记：go服务内存暴涨 https://segmentfault.com/a/1190000022472459?utm_source=tag-newest
+ 
+- 3. 三年之久的 etcd3 数据不一致 bug 分析 https://mp.weixin.qq.com/s/qittYHY2GUwhFtvsRDaIAQ
+ 
+- 4. 这可能是你的第一个 DevOps 解决方案！https://gocn.vip/topics/10310apitest-1860
+ 
+- 5. Go 语言 JSON 的实现原理 https://draveness.me/golang/docs/part4-advanced/ch09-stdlib/golang-json/
+ 
 
-- 1.三年之久的 etcd3 数据不一致 bug 分析 https://mp.weixin.qq.com/s/qittYHY2GUwhFtvsRDaIAQ
-- 2.这可能是你的第一个 DevOps 解决方案！ https://gocn.vip/topics/10310apitest-1860
 
 
 ## gopherDaily_2020-04-27
