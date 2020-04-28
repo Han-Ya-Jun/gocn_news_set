@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-28
+一、Go语言中文网
+
+1. [项目中要不要使用 Go？我是这么思考的](https://mp.weixin.qq.com/s/UrTLGhPE9HaNGG6zBuAETw)
+2. [[典藏版]Golang三色标记、混合写屏障GC模式图文全分析](https://mp.weixin.qq.com/s/G7id1bNt9QpAvLe7tmRAGw)
+3. [基于 Go 语言开发在线论坛增补篇：通过 Viper 读取配置文件并实现热加载](https://mp.weixin.qq.com/s/0UPWFvku1mts5SYL9ERFHQ)
+4. [Golang Web入门（3）：如何优雅的设计中间件](https://mp.weixin.qq.com/s/2Hl8BjuF8QB_UUgPsVAq1w)
+5. [Go算法面试题：删除链表的节点](https://mp.weixin.qq.com/s/WwqhuUzRh2EJCY5YoOOClQ)
+
+二、 GoUpUp
+
+1. [Go 每日一库之 nutsdb](https://mp.weixin.qq.com/s/_0C9i-oylKjKUonsNU4Y6g)
+
+三、 真没什么逻辑
+
+1. [为什么 0.1 + 0.2 = 0.3](https://mp.weixin.qq.com/s/wtGS4mNDwxyuZ4ExrtbULQ)
+
+四、 InfoQ
+
+1. [这是一篇实践者对 Go 语言的微吐槽](https://mp.weixin.qq.com/s/UP_Rf-x1HekU-nl7BneVyg)
+
+五、 字节跳动技术团队
+
+1. [字节跳动混沌工程实践总结](https://mp.weixin.qq.com/s/kZ_sDdrbc-_trVLNCWXyYw)
 ## gopherDaily_2020-04-28
 - 1.Go vs. Java vs. Rust - https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c
 - 2.播客：使用Go实现WebRTC应用 - https://changelog.com/gotime/127
