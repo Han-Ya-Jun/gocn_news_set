@@ -4,6 +4,13 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-28
+- 1.Go vs. Java vs. Rust - https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c
+- 2.播客：使用Go实现WebRTC应用 - https://changelog.com/gotime/127
+- 3.油管视频：GoRemoteFest 2020会议视频全集 - https://www.youtube.com/watch?v=OZSJ2fwSSUM&list=PLdeYrDm3hJTh21xi3rezgsSqrZl_Xs0VA
+- 4.Paper: Paxos vs. Raft - https://arxiv.org/pdf/2004.05074.pdf
+- 5.树莓派集群的5年 - https://www.raspberrypi.org/blog/five-years-of-raspberry-pi-clusters/
+- 6.sftpgo: 全功能且高度可配置的SFTP服务器 - https://github.com/drakkan/sftpgo
 ## go语言中文网(每日资讯)_2020-04-27
 一、Go语言中文网
 
