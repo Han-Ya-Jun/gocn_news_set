@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-28
+- 1.Go 1.15 新特性  http://dwz.date/au5u
+
+- 2.Gout 是 http client 领域的瑞士军刀，小巧，强大，犀利  https://github.com/guonaihong/gout
+
+- 3.Golang 服务管控、服务代理、负载均衡 相关的 36 个功能点  https://github.com/e421083458/gateway_demo
+
+- 4.MOSN 源码解析 - 路由  https://gocn.vip/topics/10317
+
+- 5.Fiber 是一个基于 Express 的 Web 框架，建立在 Go 语言写的 最快的 FasthttpHTTP 引擎的基础上 https://github.com/gofiber/fiber
+
+
+
 ## go语言中文网(每日资讯)_2020-04-28
 一、Go语言中文网
 
