@@ -4,6 +4,18 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## gocn_news_2020-04-29
+- 1.go 高级基准测试 https://blogtitle.github.io/go-advanced-benchmarking/
+
+- 2.Go-sword 可视化 web 管理后台生成工具https://github.com/sunshinev/go-sword
+
+- 3.优化 Go 编译器之旅 https://dev.to/segflow/my-journey-optimizing-the-go-compiler-46jc
+
+- 4.ent 简单强大的 ORM https://github.com/facebookincubator/ent
+
+- 5.使用 graphql-go 构建 API https://medium.com/@bradford_hamilton/building-an-api-with-graphql-and-go-9350df5c9356
+
 ## gopherDaily_2020-04-29
 - 1.Go三色标记、混合写屏障GC模式图文全分析 - https://mp.weixin.qq.com/s/jICwyKDv8V6bPCqwg8Hzag
 - 2.优化Go编译器的历程 - https://segflow.github.io/post/go-compiler-optimization/
