@@ -4,6 +4,26 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-29
+一、Go语言中文网
+
+1. [Go 1.15 都有哪些值得关注的变化？](https://mp.weixin.qq.com/s/FB2q4CD9XLvp3c3ilQMINA)
+2. [Go 每日一库之 plot](https://mp.weixin.qq.com/s/dqjzszSjIMYJ0IexLW0kEg)
+3. [Golang 内存泄漏了怎么办？](https://mp.weixin.qq.com/s/sxpQYdMgZoYnG-DYeYOHNQ)
+4. [Golang Web入门（4）：如何设计API](https://mp.weixin.qq.com/s/WE5S4PqTK6pMvj3XvJ-bxg)
+
+二、容器时代
+
+1. [一文读懂 Kubernetes 的 Limit 和 Request](https://mp.weixin.qq.com/s/HB5PWgwXlM8GoYRVbkz22A)
+
+三、肥朝
+
+1. [配置中心Apollo的设计原理](https://mp.weixin.qq.com/s/ALRSZCvtgv7m8q4tC8qlUg)
+
+四、IT大咖说
+
+1. [为什么不建议把数据库部署在docker容器内？](https://mp.weixin.qq.com/s/PLKe3kG1v0G8igQ6M9hPhg)
+
 
 ## gocn_news_2020-04-29
 - 1.go 高级基准测试 https://blogtitle.github.io/go-advanced-benchmarking/
