@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-29
+- 1.Go三色标记、混合写屏障GC模式图文全分析 - https://mp.weixin.qq.com/s/jICwyKDv8V6bPCqwg8Hzag
+- 2.优化Go编译器的历程 - https://segflow.github.io/post/go-compiler-optimization/
+- 3.评估Compute@Edge的新语言 - https://www.fastly.com/blog/evaluating-new-languages-for-edge-compute
+- 4.Go语言反应式编程 - https://prakharsrivastav.com/posts/reactive-programming-in-go/
+- 5.Facebook ntp库集合 - https://github.com/facebookincubator/ntp
+- 6.顶级免费学习ROS的教程 - https://robocademy.com/2020/04/28/top-free-tutorials-to-learn-ros-robot-operating-system/
+
+
 ## gocn_news_2020-04-28
 - 1.Go 1.15 新特性  http://dwz.date/au5u
 
