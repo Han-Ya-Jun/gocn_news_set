@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-04-30
+- 1.Go语言与ROS by Ubuntu官博 - https://ubuntu.com/blog/go-for-ros
+- 2.开源电子书：使用Go进行以太坊开发 - https://github.com/miguelmota/ethereum-development-with-go-book
+- 3.恶意软件分析：nspps，一个Go后门程序 - https://ironnet.com/blog/malware-analysis-nspps-a-go-rat-backdoor/
+- 4.Youtube使用Go实现的开源分布式MySQL工具Vitness发布v6版本 - https://vitess.io/blog/2020-04-29-announcing-vitess-6/
+- 5.go实现的小型编译器 - https://github.com/MauriceGit/compiler
+- 6.linux内核捉虫记(twitter blog) - https://blog.twitter.com/engineering/en_us/topics/open-source/2020/hunting-a-linux-kernel-bug.html
+
+
 ## go语言中文网(每日资讯)_2020-04-29
 一、Go语言中文网
 
