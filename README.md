@@ -4,6 +4,17 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-04-30
+- 1.“���” 引发的线上事故 https://qcrao.com/2020/04/27/accident/
+
+- 2.学习目的的编写 MySQL 代理 2: 解码握手数据包 https://medium.com/@alexanderravikovich/writing-mysql-proxy-in-go-for-learning-purposes--part-2-decoding-connection-phase-server-response-7091d87e877e
+
+- 3.Super Graph: 快速将 PostgreSQL 应用升级为 GraphQL 接口 https://github.com/dosco/super-graph
+
+- 4.Go 中使用 XML 没有那么难 https://medium.com/@dgrripoll/xml-in-go-is-not-that-difficult-61e7f1fde124
+
+- 5.GoRemoteFest2020 https://www.youtube.com/watch?v=OZSJ2fwSSUM&list=PLdeYrDm3hJTh21xi3rezgsSqrZl_Xs0VA
+
 ## gopherDaily_2020-04-30
 - 1.Go语言与ROS by Ubuntu官博 - https://ubuntu.com/blog/go-for-ros
 - 2.开源电子书：使用Go进行以太坊开发 - https://github.com/miguelmota/ethereum-development-with-go-book
