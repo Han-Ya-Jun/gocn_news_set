@@ -4,6 +4,28 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-04-30
+一、Go语言中文网
+
+1. [Go、Java 和 Rust 的比较：得出了挺多结论](https://mp.weixin.qq.com/s/r3GG4RWhX2d3sEyK3y5qkg)
+2. [Dave 大神详解 Go 中的内联优化](https://mp.weixin.qq.com/s/SdGZKXCloypcCClGNDbU7Q)
+3. [2020重学Go系列：30. 非常详细的 Go 语言 GDB 调试指南](https://mp.weixin.qq.com/s/zxO8yL_G-a5j2cBuu81Hog)
+4. [为什么比特币可以防篡改](https://mp.weixin.qq.com/s/m19QtjSL9AfjVnG_nEUvjg)
+5. [Go语言讲解深拷贝与浅拷贝](https://mp.weixin.qq.com/s/BhgeDrHXVtrf5YoSOtagDg)
+
+二、云加社区
+
+1. [大咖们如何评判优秀架构师？](https://mp.weixin.qq.com/s/iQmAgtKtjlDBb_T-uBbqrw)
+2. [高可用架构之流量洪峰](http://suo.im/5Bw3BI)
+
+三、容器魔方
+
+1. [Kubernetes网络实现](https://mp.weixin.qq.com/s/hFe-CkxdEoKtRGLCJCAAnQ)
+
+四、插件分享
+
+1. [similarsites- 发现相似网站](https://chrome.google.com/webstore/detail/similar-sites-discover-re/necpbmbhhdiplmfhmjicabdeighkndkn)
+
 ## gocn_news_2020-04-30
 - 1.“���” 引发的线上事故 https://qcrao.com/2020/04/27/accident/
 
