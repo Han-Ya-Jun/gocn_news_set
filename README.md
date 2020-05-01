@@ -4,6 +4,36 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-01
+一、Go语言中文网
+
+1. [Go 中的 Goroutine + Channel 真的能减少并发 Bug 吗？](https://mp.weixin.qq.com/s/7ivK7eLA7o8lerZ19If0WA)
+2. [神奇了！这个 Go 语言项目让前端构建快了近 100 倍](https://mp.weixin.qq.com/s/k53NNUA_lJF4ghqkEcpq3A)
+3. [从Golang Slice的内存泄漏来理解Slice的使用逻辑](https://mp.weixin.qq.com/s/pzJNcMc-P6X-xdC1N0r_mg)
+4. [为什么 TCP/IP 协议会拆分数据](https://mp.weixin.qq.com/s/y-qMMzz0MlSnzvKQyxGAww)
+5. [golang 面向对象分析](https://mp.weixin.qq.com/s/Fu8qfEbZKWHnW5TsviQ0FQ)
+
+二、Go夜读
+
+1. [遇见更好的你！](https://mp.weixin.qq.com/s/k47U5q4moCUQ2JJotM5HbQ)
+2. [如何发起 Go 夜读分享提案？](https://mp.weixin.qq.com/s/kI5kMA_qkGw1Tt6rkQEh-Q)
+
+三、码农桃花源
+
+1. [惊！空 struct 地址竟然不相等](https://mp.weixin.qq.com/s/PFAQOa1rYAl4YcSmGmEnQQ)
+
+四、Go101
+
+1. [Go unsafe pointer 使用规则详解](https://mp.weixin.qq.com/s/OqbUkkG9ODK2E5VUa2VGGA)
+
+五、TonyBai
+
+1. [Go语言联合作者Rob Pike专访：Go确实已成为云基础架构的语言](https://mp.weixin.qq.com/s/GHmwueTXNcZRo2oaF0Fqzg)
+
+六、分布式实验室
+
+1. [CNCF宣布Helm项目毕业](https://mp.weixin.qq.com/s/-WfVrwn5-VeHcJOQHRa3_w)
+
 ## gocn_news_2020-05-01
 - 1.采访 Rob Pike: Go 已经成为云基础设施的语言 https://evrone.com/rob-pike-interview
 
