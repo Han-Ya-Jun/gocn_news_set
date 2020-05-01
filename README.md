@@ -45,7 +45,21 @@
 
 - 5.一个使用简单的 jwt-go 库 https://github.com/supanadit/jwt-go
 
+## gopherDaily_2020-05-01
+- 1.Rob Pike专访：“Go确实已成为云基础架构编程语言” - https://tonybai.com/2020/05/01/rob-pike-interview-go-become-the-language-of-cloud-infrastructure/
+- 2.为什么Rubyist应用考虑学习Go - https://www.honeybadger.io/blog/rubyist-learn-go/
 
+- 3.Etcd使用go module的灾难 - http://beza1e1.tuxen.de/lore/index.html
+
+- 4.探索Golang字符串格式化的可能性 - https://blog.logrocket.com/exploring-the-possibilities-of-golang-string-formatting/
+
+- 5.helm项目从CNCF毕业 - https://www.cncf.io/announcement/2020/04/30/cloud-native-computing-foundation-announces-helm-graduation/
+
+- 6.Redis 6.0.0 GA - http://antirez.com/news/132
+
+- 7.改善go module major版本体验的proposal - https://github.com/golang/go/issues/38762
+
+- 8.linode的Go数据类型学些教程 - https://www.linode.com/docs/development/go/go-data-types
 
 ## go语言中文网(每日资讯)_2020-04-30
 一、Go语言中文网
