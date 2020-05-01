@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-01
+- 1.采访 Rob Pike: Go 已经成为云基础设施的语言 https://evrone.com/rob-pike-interview
+
+- 2.使用 Go 开发前端 WASM 应用 https://juejin.im/post/5e9ee0e7e51d4546f36a5c67
+
+- 3.ubbo-go 中如何实现路由策略功能 https://segmentfault.com/a/1190000022523595
+
+- 4.在 macOS 上使用 Hugo + Coding 搭建个人博客 https://segmentfault.com/a/1190000022523822
+
+- 5.一个使用简单的 jwt-go 库 https://github.com/supanadit/jwt-go
+
+
+
 ## go语言中文网(每日资讯)_2020-04-30
 一、Go语言中文网
 
