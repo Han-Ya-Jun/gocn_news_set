@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-02
+- 1.Proposal: 提升版本选择的用户体验 https://github.com/golang/go/issues/38762
+
+- 2.Go: 异步抢占 https://medium.com/a-journey-with-go/go-asynchronous-preemption-b5194227371c
+
+- 3. 性能优化实践 https://www.jianshu.com/p/2c572172e212
+
+- 4.使用 AVX512 提升 Md5 hash 计算性能 (8 倍) https://blog.min.io/accelerating-aggregate-md5-hashing-up-to-800-with-avx512-2/
+
+- 5.使用两年 Go 的总结: 优点和痛点 https://www.infoq.cn/article/yDMrvVr1IJAAih3eh5fW
+
+
+
 ## gopherDaily_2020-05-02
 - 1.Go异步抢占原理 - https://medium.com/a-journey-with-go/go-asynchronous-preemption-b5194227371c
 - 2.使用AVX512将MD5性能提升800％ - https://blog.min.io/accelerating-aggregate-md5-hashing-up-to-800-with-avx512-2/
