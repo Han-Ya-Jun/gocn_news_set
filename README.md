@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-02
+- 1.Go异步抢占原理 - https://medium.com/a-journey-with-go/go-asynchronous-preemption-b5194227371c
+- 2.使用AVX512将MD5性能提升800％ - https://blog.min.io/accelerating-aggregate-md5-hashing-up-to-800-with-avx512-2/
+- 3.驯化Kubernetes: 让k8s在150分钟内成为裸机上的家庭服务器 - https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41
+- 4.git rebase -i的魔力：使您的补丁更易于查看和合并 - https://opensource.com/article/20/4/git-rebase-i
+- 5.shotizam: 分析binary文件size的工具 - https://github.com/bradfitz/shotizam
+- 6.hugo vs. jekyll : 静态网站生成器对比 - https://medium.com/better-programming/hugo-vs-jekyll-an-epic-battle-of-static-site-generator-themes-390f5692682c
+
+
 ## go语言中文网(每日资讯)_2020-05-01
 一、Go语言中文网
 
