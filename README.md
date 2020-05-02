@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-02
+一、Go语言中文网
+
+1. [Go框架解析:echo](https://mp.weixin.qq.com/s/Q6sgMXji5ofa0Cayi6vnNA)
+2. [Go Web编程--使用bcrpyt哈希用户密码](https://mp.weixin.qq.com/s/8zcQQeqRcKokZE1R_S6dfA)
+3. [消息队列 NSQ 源码学习笔记 (一)](https://mp.weixin.qq.com/s/nAUUYAeXS_dYYhiTO9fPeA)
+4. [2020重学Go系列：31. 说说 Go 语言里的空接口](https://mp.weixin.qq.com/s/tQfnnFzANBwrwLDiPEkuOA)
+
+二、 容器时代
+
+1. [Kubernetes 服务质量和 OOM 详解](https://mp.weixin.qq.com/s/0TMPdxE7RmvF0vd4NnNWkQ)
+
+三、GoUpUp
+
+1. [Go 每日一库之 sqlc](https://mp.weixin.qq.com/s/67ONWyCgD8-spEJxEXE9nw)
+2. [Go每日一库专辑](http://suo.im/5uai97)
+
+四、菜鸟Miao
+
+1. [年轻人在股市里亏钱的16种方式](https://mp.weixin.qq.com/s/izOi2IGldRt7aFAGOJEKfQ)
+
+五、煎鱼
+
+1. [Kubernetes 本地快速启动（基于 Docker）](https://eddycjy.com/posts/kubernetes/2020-05-01-install/)
 ## gocn_news_2020-05-02
 - 1.Proposal: 提升版本选择的用户体验 https://github.com/golang/go/issues/38762
 
