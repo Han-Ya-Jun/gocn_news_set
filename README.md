@@ -4,6 +4,17 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-02
+- 1.Go Mid-stack内联 - https://dave.cheney.net/2020/05/02/mid-stack-inlining-in-go
+
+- 2.使用Go可视化你的本地git贡献 - https://flaviocopes.com/go-git-contributions/
+
+- 3.Azure Kubernetes（AKS）安全最佳实践 - https://www.stackrox.com/post/2020/01/azure-kubernetes-aks-security-best-practices-part-1-of-4/
+
+- 4.Kubernetes存储问题解决指南 - https://www.cncf.io/blog/2020/04/28/a-complete-storage-guide-for-your-kubernetes-storage-problems/
+
+- 5.在Golang中连接到RabbitMQ - https://qvault.io/2020/04/29/connecting-to-rabbitmq-in-golang/
+
 ## gocn_news_2020-05-03
 - 1.Go 中的堆栈内联 https://dave.cheney.net/2020/05/02/mid-stack-inlining-in-go
 
