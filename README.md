@@ -4,7 +4,7 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
-## gopherDaily_2020-05-02
+## gopherDaily_2020-05-03
 - 1.Go Mid-stack内联 - https://dave.cheney.net/2020/05/02/mid-stack-inlining-in-go
 
 - 2.使用Go可视化你的本地git贡献 - https://flaviocopes.com/go-git-contributions/
