@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-03
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 41 期](https://mp.weixin.qq.com/s/_9OeTKKQhfaItR0zOC-kvg)
+2. [Gin 框架路由拆分与注册](https://mp.weixin.qq.com/s/DRLinI5bWSVmO5oyELKU7Q)
+3. [并发安全的 map：sync.Map源码分析](https://mp.weixin.qq.com/s/EcT5RCorF6jnXD3GyjCvtw)
+4. [消息队列 NSQ 源码学习笔记 (二)](https://mp.weixin.qq.com/s/lbtS1s6kexqMlJ9GrTnkjQ)
+
+二、分布式实验室
+
+1. [Service Mesh 和 API Gateway 关系深度探讨](https://mp.weixin.qq.com/s/zhJ3koaApEOVfdyyXuAGUQ)
+
+三、亚军进化史
+
+1. [Go技术日报（2020-05-02）](https://mp.weixin.qq.com/s/LHoly-N-6a-kbSNKbQZZ-A)
+
+四、鸟窝
+
+1. [Redis 6.0 客户端缓存特性及实践](https://colobu.com/2020/05/02/redis-client-side-caching/)
+
+五、插件分享
+
+1. [start.me-综合性标签导航](https://chrome.google.com/webstore/detail/new-tab-page-by-startme/cfmnkhhioonhiehehedmnjibmampjiab?utm_source=chrome-ntp-icon)
+
 ## gopherDaily_2020-05-03
 - 1.Go Mid-stack内联 - https://dave.cheney.net/2020/05/02/mid-stack-inlining-in-go
 
