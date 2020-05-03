@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-03
+- 1.Go 中的堆栈内联 https://dave.cheney.net/2020/05/02/mid-stack-inlining-in-go
+
+- 2.纯 Go 和 Flutter 的分布式 RTC 系统 https://github.com/pion/ion
+
+- 3.UDP 可靠协议 KCP 的 Go 语言实现 https://github.com/shaoyuan1943/gokcp
+
+- 4.如何判断 Golang 接口是否实现 https://juejin.im/post/5eac17fc5188256d86196ebb
+
+- 5.Go 内存管理 https://zhuanlan.zhihu.com/p/27807169
+
+
+
 ## go语言中文网(每日资讯)_2020-05-02
 一、Go语言中文网
 
