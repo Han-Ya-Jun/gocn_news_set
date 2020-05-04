@@ -4,6 +4,13 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-04
+- 1.我认为您通常应该使用最新版本的Go - https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionsMyView
+- 2.Go与Redis - https://mohitkhare.me/blog/go-with-redis/
+- 3.经典旧文：构建一个只运行一个Go二进制程序的linux内核 - https://remy.io/blog/custom-built-kernel-running-go-binary
+- 4.远程工作 vs. 聚集工作 by Martin Fowler - https://martinfowler.com/articles/remote-or-co-located.html
+- 5.xlsx: 读写微软excel格式的go API库 - https://github.com/tealeg/xlsx
+- 6.kured: Kubernetes节点优雅重启 - https://github.com/weaveworks/kured
 ## go语言中文网(每日资讯)_2020-05-03
 一、Go语言中文网
 
