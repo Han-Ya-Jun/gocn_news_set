@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-04
+- 1.记一次对 dubbo-go-hessian2 的性能优化 https://gocn.vip/topics/10339
+
+- 2.只需四步,后台化你的程序 https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/
+
+- 3.使用 kubebuilder 快速搭建 k8s operator https://medium.com/@arbaazkhan083/building-kubernetes-operator-using-kubebuilder-bb52fbd8238
+
+- 4.用 Go+React 实现游戏 Codenames https://github.com/rodohanna/OpenCodenames
+
+- 5.chippy: 一款 Chip-8 模拟器 https://github.com/bradford-hamilton/chippy
+
+
+
 ## gopherDaily_2020-05-04
 - 1.我认为您通常应该使用最新版本的Go - https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionsMyView
 - 2.Go与Redis - https://mohitkhare.me/blog/go-with-redis/
