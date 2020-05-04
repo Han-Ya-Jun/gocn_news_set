@@ -4,6 +4,28 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-04
+一、Go语言中文网
+
+1. [Go pprof 与线上事故：一次成功的定位与失败的复现](https://mp.weixin.qq.com/s/c6fU9t951Mv167Ivsy8iXA)
+2. [Go语言联合作者Rob Pike专访：Go确实已成为云基础架构的语言](https://mp.weixin.qq.com/s/dkazUpweRyub2JR5OGVvWA)
+3. [Go 语言网络轮询器的实现原理](https://mp.weixin.qq.com/s/umYy7FCp1HAxgL83--4lRQ)
+4. [消息队列 NSQ 源码学习笔记 (三)](https://mp.weixin.qq.com/s/1FKqL5mlYfU1t1ENZ55fKQ)
+5. [使用Docker部署Go Web应用](https://mp.weixin.qq.com/s/KFckXWKsHaG4KTA_DlRV2w)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-03）](https://mp.weixin.qq.com/s/pnRQkvHyp33eJnnSbkpDEQ)
+
+三、煎鱼
+
+1. [在 Kubernetes 中部署应用程序](https://eddycjy.com/posts/kubernetes/2020-05-03-deployment/)
+
+五、MoeLove
+
+1. [K8S 生态周报| KIND v0.8 正式发布](https://mp.weixin.qq.com/s/LuHIAL2kbfUbPZa3GXplEQ)
+2. [K8S 生态周报专辑](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI2ODAwMzUwNA==&action=getalbum&album_id=1324778931047989249&subscene=38&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI2ODAwMzUwNA%3D%3D%26mid%3D2649295461%26idx%3D1%26sn%3D75925091fe54262643df3e809644e898%26chksm%3Df2eb9bbac59c12ac6d9918ad21816cc1b94fc0012b0da4ec3d131e608e9b1799afcfd5241b90%26scene%3D38%26key%3D3a9aca65919af5c94c2c8be4445eabf5bea6cade522a1c4dacc3a97f8a2e8b265b6c872f6c5c1286d844c17b3850e4fef7695d3a56e860e4d44e5cfce681494f895ff08a48cac21d292cbe879f35eca5%26ascene%3D0%26uin%3DMTQ0NjMxNTc2MQ%253D%253D%26devicetype%3DiMac%2BMacBookPro15%252C4%2BOSX%2BOSX%2B10.15.2%2Bbuild(19C57)%26version%3D12031e12%26nettype%3DWIFI%26lang%3Dzh_CN%26fontScale%3D100%26exportkey%3DAZxEax%252BiSnlvYRrlxtl8qGo%253D%26pass_ticket%3Dp%252BdfEh21xfD%252F0rC%252FkeSCrm2H6IFbCgbTSfcBwPYTLorlpuCze6GalpwGm0gV0u%252Fp%26winzoom%3D1.000000&uin=&key=&devicetype=iMac+MacBookPro15%2C4+OSX+OSX+10.15.2+build(19C57)&version=12031e12&lang=zh_CN&nettype=WIFI&ascene=0&fontScale=100&winzoom=1.000000)
+
 ## gocn_news_2020-05-04
 - 1.记一次对 dubbo-go-hessian2 的性能优化 https://gocn.vip/topics/10339
 
