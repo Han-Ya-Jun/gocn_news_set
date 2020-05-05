@@ -4,6 +4,17 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-05
+- 1.使用Go构建Kubernetes API对象图 - https://cybernetist.com/2020/05/05/build-a-graph-of-kubernetes-api-objects-in-go/
+- 2.让rust程序跑的和go程序一样快 -  https://www.christianfscott.com/making-rust-as-fast-as-go/
+- 3.Go播客：即时模式GUI: https://changelog.com/gotime/128
+- 4.Go实现的类nginx的反向代理服务器caddyserver v2版本正式发布 - https://caddyserver.com/v2
+- 5.长文！10年后的systemd：历史和技术回顾 - https://blog.darknedgy.net/technology/2020/05/02/0/
+- 6.decimal: Go实现的任意精度定点十进制数 - https://github.com/shopspring/decimal
+- 7.ln: Go实现的3D艺术线条引擎 - https://github.com/fogleman/ln
+- 8.手写静态代码分析(python版) - https://deepsource.io/blog/introduction-static-code-analysis/
+
+
 ## go语言中文网(每日资讯)_2020-05-04
 一、Go语言中文网
 
