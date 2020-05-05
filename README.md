@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-05
+一、Go语言中文网
+
+1. [为什么 Rubyists 应该考虑学习 Go](https://mp.weixin.qq.com/s/yiSQDZcXox2ln9Wk-kUXQQ)
+2. [Web 框架的中间件实现都不够好？更优的框架中间件实现](https://mp.weixin.qq.com/s/jU47WYfLU_caS505HdVTVw)
+3. [聊聊在Go语言里使用继承的翻车经历](https://mp.weixin.qq.com/s/FriBa5K0hYXk3wnhhGREkA)
+4. [Go 每日一库之 gron：更多人应该熟悉的是 robfig/cron](https://mp.weixin.qq.com/s/gbF1ZSXe9N_m3SJUXkKvUA)
+5. [Go配置管理神器—Viper中文教程](https://mp.weixin.qq.com/s/FGy-JelUGctj4l3QYy7Bxw)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-03）](https://mp.weixin.qq.com/s/pnRQkvHyp33eJnnSbkpDEQ)
+
+三、Go语言充电站
+
+1. [从因果关系谈个人能力建设和面试](https://mp.weixin.qq.com/s/hF3KOuFrSe4dYup-42ZvmQ)
+
+四、月牙寂道长
+
+1. [系统架构设计的一点思考](https://mp.weixin.qq.com/s/2vATENTGyqtyWx1Xjqj-_g)
+
+五、 阿里巴巴云原生
+
+1. [喧哗的背后：Serverless 的概念及挑战](https://mp.weixin.qq.com/s/1PA5aW17nhjuM6QOeO58Uw)
+
+六、容器时代
+
+1. [如何使用 Istio 进行多集群部署管理：单控制平面 VPN 连接拓扑](https://mp.weixin.qq.com/s/Gt0LnNqewUqfEEX_bkQjpA)
+
 ## gocn_news_2020-05-05
 - 1.Goroutine 的创建与销毁 https://www.jianshu.com/p/181dc7845bb8
 
