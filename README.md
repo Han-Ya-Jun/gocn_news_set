@@ -7,7 +7,7 @@
 ## gocn_news_2020-05-06
 - 1.Go 1.15 将有什么变化 https://docs.google.com/presentation/d/1veyF0y6Ynr6AFzd9gXi4foaURlgbMxM-tmB4StDrdAM/edit#slide=id.g550f852d27_228_0
 
-- 2.编写可测试的 Go 代码
+- 2.编写可测试的 Go 代码 https://youtu.be/q1FeRvC82j0
 
 - 3.分布式 websocket 代理 dSock https://github.com/Cretezy/dSock
 
