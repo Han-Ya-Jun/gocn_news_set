@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-06
+- 1.Go 1.15 将有什么变化 https://docs.google.com/presentation/d/1veyF0y6Ynr6AFzd9gXi4foaURlgbMxM-tmB4StDrdAM/edit#slide=id.g550f852d27_228_0
+
+- 2.编写可测试的 Go 代码
+
+- 3.分布式 websocket 代理 dSock https://github.com/Cretezy/dSock
+
+- 4.我优化 Go 编译器的旅程 https://segflow.github.io/post/go-compiler-optimization/ 
+- 5.在 Go 中嵌入结构和接口打破了模块化和语义版本控制 https://benma.github.io/2020/05/05/golang-embeding-structs-breaks-modularity.html
+
 ## gopherDaily_2020-05-06
 - 1.如何使用Go调用Windows API - https://anubissec.github.io/How-To-Call-Windows-APIs-In-Golang
 - 2.使用pprof进行数据采样的原理 - https://medium.com/a-journey-with-go/go-samples-collection-with-pprof-2a63c3e8a142
