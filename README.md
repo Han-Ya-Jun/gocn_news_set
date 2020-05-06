@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-06
+- 1.如何使用Go调用Windows API - https://anubissec.github.io/How-To-Call-Windows-APIs-In-Golang
+- 2.使用pprof进行数据采样的原理 - https://medium.com/a-journey-with-go/go-samples-collection-with-pprof-2a63c3e8a142
+- 3.新的Linux恶意软件转向使用Go实现 - https://intezer.com/blog/research/kaiji-chinese-iot-malware-turning-to-golang/
+- 4.即时模式GUI编程(in Go) - https://eliasnaur.com/blog/immediate-mode-gui-programming
+- 5.浮点数图解 - http://fabiensanglard.net/floating_point_visually_explained/index.html
+- 6.grobotstxt: Google robots.txt解析器和匹配器库的Go移植 - https://github.com/jimsmart/grobotstxt
+- 7.gasm: WASM虚拟机 - https://github.com/mathetake/gasm
+
+
 ## go语言中文网(每日资讯)_2020-05-05
 一、Go语言中文网
 
