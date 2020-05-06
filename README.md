@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-06
+一、Go语言中文网
+
+1. [在 Go 中使用微服务架构的好处](https://mp.weixin.qq.com/s/b35_-kdwAwnXSTdx1gcHFQ)
+2. [2万字长文从源码角度看 Golang 的调度](https://mp.weixin.qq.com/s/_ujmGibYT3s61dBkIIeayw)
+3. [Go 服务乱码了？“���”引发的线上事故](https://mp.weixin.qq.com/s/96GBMRw-1_IChEkU5fasTg)
+4. [Go语言标准库 container 相关包的学习与实践](https://mp.weixin.qq.com/s/g7cXKmYPBjeCM6AKnArFpw)
+5. [2020重学Go系列：32. 理解 Go 语言中的 Context](https://mp.weixin.qq.com/s/JYR8N1dgybrBFzoWFRM5LA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-05）](https://studygolang.com/topics/11404)
+
+三、码农桃花源
+
+1. [深度解密Go语言之sync.map](https://mp.weixin.qq.com/s/mXOU8TElP8bbqaybRKN8eA)
+
+四、 程序猿RyuGou
+
+1. [为什么数组要从零开始？](https://mp.weixin.qq.com/s/kYTfxeWpkHie2z4RStXZtA)
+
+五、云加社区
+
+1. [腾讯课堂停课不停学：业务后台实践](https://cloud.tencent.com/developer/article/1622414)
+
 ## gocn_news_2020-05-06
 - 1.Go 1.15 将有什么变化 https://docs.google.com/presentation/d/1veyF0y6Ynr6AFzd9gXi4foaURlgbMxM-tmB4StDrdAM/edit#slide=id.g550f852d27_228_0
 
