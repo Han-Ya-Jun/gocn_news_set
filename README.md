@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-07
+- 1.使用 Go 构建命令行接口 https://medium.com/@bijeshos/building-command-line-interfaces-using-go-ce6a75d60bf5
+
+- 2.使用 pprof 收集采样信息 https://medium.com/a-journey-with-go/go-samples-collection-with-pprof-2a63c3e8a142
+
+- 3.学会使用 context 取消 goroutine 执行的方法 https://mp.weixin.qq.com/s/rf5ZrDZKRJquW3T_1VvcYg
+
+- 4.给 Gopher 使用的 WASM 虚拟机 https://github.com/mathetake/gasm
+
+- 5.深入 TLS/SSL 协议 https://juejin.im/post/5eb21f06e51d454d8e56abf3
+
+
+
 ## go语言中文网(每日资讯)_2020-05-06
 一、Go语言中文网
 
