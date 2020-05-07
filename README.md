@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-07
+- 1.Rust vs.Go，谁更流行？- https://qvault.io/2020/05/06/rust-vs-go-which-is-more-popular/
+- 2.使用Bincover测量Go二进制文件的代码覆盖率 - https://www.confluent.io/blog/measure-go-code-coverage-with-bincover/
+- 3.开始学习Go(简明教程) - https://medium.com/better-programming/get-started-with-golang-fb75e3b180db
+- 4.Go作为脚本语言 - https://www.infoq.com/news/2020/04/go-scripting-language/
+- 5.Micro Server-微服务入门 - https://micro.mu/blog/2020/05/05/getting-started-with-microservices.html
+- 6.在不到200行的Go代码中创建Live Reloader - https://www.calhoun.io/creating-a-live-reloader-in-200-lines-of-go-code/
+- 7.github Octoverse特别报告：分析COVID-19初期的开发人员生产力，工作节奏和协作 - https://github.blog/2020-05-06-octoverse-spotlight-an-analysis-of-developer-productivity-work-cadence-and-collaboration-in-the-early-days-of-covid-19/
 ## gocn_news_2020-05-07
 - 1.使用 Go 构建命令行接口 https://medium.com/@bijeshos/building-command-line-interfaces-using-go-ce6a75d60bf5
 
