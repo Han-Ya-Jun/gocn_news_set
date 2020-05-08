@@ -29,6 +29,15 @@
 
 1. [基于CAP模型设计企业级真正高可用的分布式锁](https://mp.weixin.qq.com/s/dnNUmlHR7-sjzjMYXID_Cw)
 
+## gopherDaily_2020-05-08
+- 1.编写更简洁的Go Web服务器 - https://dev.to/chidiwilliams/writing-cleaner-go-web-servers-3oe4
+- 2.播客：black hat go：黑客与网络渗透者的Go编程 - https://changelog.com/gotime/129
+- 3.云原生时代的data gateway - https://www.infoq.com/articles/data-gateways-cloud-native/
+- 4.GoLand 2020.2 Roadmap - https://blog.jetbrains.com/go/2020/05/07/goland-2020-2-roadmap/
+- 5.mockery: go接口mock生成工具 - https://github.com/vektra/mockery
+- 6.Kubernetes Ingress初学者指南 - https://thenewstack.io/kubernetes-ingress-for-beginners/
+- 7.使用Go module进行包管理的实用指南 - https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31
+
 ## gocn_news_2020-05-08
 - 1.Etcd 使用 go module 的灾难: https://colobu.com/2020/04/09/accidents-of-etcd-and-go-module/ 
 - 2.Go context 包详解：https://medium.com/rungo/understanding-the-context-package-b2e407a9cdae 
@@ -37,7 +46,30 @@
 - 4.用 GitHub Action 构建一套 CI/CD 系统: https://gocn.vip/topics/10359 
 - 5.详解 Pod 及容器设计模式 https://gocn.vip/topics/10358
 
+## go 语言中文网(每日资讯)\_2020-05-07
 
+一、Go 语言中文网
+
+1. [Go 之旅： 这样理解空接口](https://mp.weixin.qq.com/s/GNheTMeNshUd8aJHwX-x7Q)
+2. [学会使用 context 取消 goroutine 执行的方法](https://mp.weixin.qq.com/s/780-KicWIQZNwmAtTAHmaw)
+3. [Go 语言连接 Redis 之 go-redis 使用指南](https://mp.weixin.qq.com/s/D_INJg-z3P5ii_bPBTBNCw)
+4. [为什么 4G/5G 的直播延时依然很高](https://mp.weixin.qq.com/s/FY7vDIG7W4fd2pcKtdSuDw)
+
+二、亚军进化史
+
+1. [Go 技术日报（2020-05-06）](https://studygolang.com/topics/11408 "Go技术日报（2020-05-06）")
+
+三、轩脉刃的刀光剑影
+
+1. [cobra 的使用与解析](https://www.bilibili.com/video/BV1Uz4y1R7Xy/ "cobra的使用与解析")
+
+四、 aoho 求索
+
+1. [分布式系统高可用实战之限流器（Go 版本实现）](https://mp.weixin.qq.com/s/aOLnBZ1NsEgijA2u4JukFQ)
+
+五、码大叔
+
+1. [Redis 6.0 新特性-多线程连环 13 问！](https://mp.weixin.qq.com/s/FZu3acwK6zrCBZQ_3HoUgw)
 
 ## gopherDaily_2020-05-07
 - 1.Rust vs.Go，谁更流行？- https://qvault.io/2020/05/06/rust-vs-go-which-is-more-popular/
