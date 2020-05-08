@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-08
+- 1.Etcd 使用 go module 的灾难: https://colobu.com/2020/04/09/accidents-of-etcd-and-go-module/ 
+- 2.Go context 包详解：https://medium.com/rungo/understanding-the-context-package-b2e407a9cdae 
+- 3.调试 Docker 容器中的 Go 应用程序 https://blog.jetbrains.com/go/2020/05/06/debugging-a-go-application-inside-a-docker-container
+
+- 4.用 GitHub Action 构建一套 CI/CD 系统: https://gocn.vip/topics/10359 
+- 5.详解 Pod 及容器设计模式 https://gocn.vip/topics/10358
+
+
+
 ## gopherDaily_2020-05-07
 - 1.Rust vs.Go，谁更流行？- https://qvault.io/2020/05/06/rust-vs-go-which-is-more-popular/
 - 2.使用Bincover测量Go二进制文件的代码覆盖率 - https://www.confluent.io/blog/measure-go-code-coverage-with-bincover/
