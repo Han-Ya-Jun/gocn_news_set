@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-08
+一、Go语言中文网
+
+1. [Rust vs Go：哪个更受欢迎？](https://mp.weixin.qq.com/s/SEDZtG9REqIsSjINrTrPQA)
+2. [CGO 中传递回调函数和指针](https://mp.weixin.qq.com/s/WUdaksFyjmT_c_jEx59VcQ)
+3. [Go 语言读写锁源码剖析(1)](https://mp.weixin.qq.com/s/E4TlbkmUmArdkDYYM7Nzkw)
+4. [Go语言进阶之路（一）：变量、类型、数组、切片、字典和结构体](https://mp.weixin.qq.com/s/e3BMYfpr35nPorU0GKsT9Q)
+5. [Go 语言 net 包学习和实战](https://mp.weixin.qq.com/s/MCv0gIhe9JCoOMMR-qnRow)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-07）](https://studygolang.com/topics/11415)
+
+三、360云计算
+
+1. [如何从io.Reader 中读数据](https://mp.weixin.qq.com/s/IJMwv8sgh2GXjdb68lMQlQ)
+
+四、 高可用架构
+
+1. [同程艺龙云原生 K8s 落地实践](https://mp.weixin.qq.com/s/uVGOa-i9-UpssF55p2vw4A)
+
+五、架构算法
+
+1. [基于CAP模型设计企业级真正高可用的分布式锁](https://mp.weixin.qq.com/s/dnNUmlHR7-sjzjMYXID_Cw)
+
 ## gocn_news_2020-05-08
 - 1.Etcd 使用 go module 的灾难: https://colobu.com/2020/04/09/accidents-of-etcd-and-go-module/ 
 - 2.Go context 包详解：https://medium.com/rungo/understanding-the-context-package-b2e407a9cdae 
