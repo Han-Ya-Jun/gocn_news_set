@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-09
+- 1.Go Decorator模式实现详解 - https://medium.com/@haluan/go-decorator-pattern-2379974077b1
+- 2.开发人员说Go是2020年”最受追捧”的编程语言 - https://www.zdnet.com/article/developers-say-googles-go-is-most-sought-after-programming-language-of-2020/
+- 3.开源web应用防火墙 - https://github.com/asalih/guardian
+- 4.使用浏览器控制无人机(webrtc传输实时视频) - https://github.com/oliverpool/tello-webrtc-fpv
+- 5.unidoc发布自己的playground，gopher可以在线实践unidoc库操作pdf文件 - https://play.unidoc.io/
+- 6.uuid生成库 - https://github.com/gofrs/uuid
+
+
 ## go语言中文网(每日资讯)_2020-05-08
 一、Go语言中文网
 
