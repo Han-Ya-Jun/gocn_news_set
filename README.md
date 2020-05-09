@@ -4,6 +4,38 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-09
+一、Go语言中文网
+
+1. [每日一库之Go 强大而灵活的电子邮件库：email](https://mp.weixin.qq.com/s/gXsRaeR2NmItpDqKggUWKA)
+2. [Go语言sync包的应用详解](https://mp.weixin.qq.com/s/Qti6dCgNqwlnK0eyEDeYew)
+3. [Go 编程: 应用级抽象之信号管控](https://mp.weixin.qq.com/s/I9IWVD8pBHwurnlJBUu1lQ)
+4. [Go语言 读写锁&互斥锁原理剖析(2)](https://mp.weixin.qq.com/s/48_CtokIWf0YeoIzEz4xZg)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-07）](https://studygolang.com/topics/11433)
+
+三、 容器时代
+
+1. [上手Linkerd2.0](https://mp.weixin.qq.com/s/RN0JYIdzP97fAodMiaPJnw)
+
+四、 GoUpUp
+
+1. [Go 每日一库之 xorm](https://mp.weixin.qq.com/s/zSmFMjbZm0X_LAhMxfa0xw)
+
+五、无闻是个码痴
+
+1. [在阿里云安装 Sourcegraph](https://mp.weixin.qq.com/s/cVIH2wfseNGFhx4l6sG7MQ)
+
+六、No Headback
+
+1. [为什么提升 Go 项目的测试覆盖率有点难](https://xargin.com/its-hard-to-improve-go-proj-coverage/)
+
+七、面向信仰编程
+
+1. [Kubernetes 贡献指南](https://draveness.me//kubernetes-contributor)
+
 ## gocn_news_2020-05-09
 - 1. 高效网页服务器 caddy2.0 发布 https://caddyserver.com/v2
 - 2. 用 Go 写一个语言（编译器，虚拟机） https://gocn.vip/topics/10361
