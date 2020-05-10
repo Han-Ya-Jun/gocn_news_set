@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-10
+- 1.通过禁止比较来减少 Go 编译文件的大小 https://dave.cheney.net/2020/05/09/ensmallening-go-binaries-by-prohibiting-comparisons
+
+- 2.深入浅出 go ast https://nakabonne.dev/posts/take-a-walk-the-go-ast/
+
+- 3.命令行工具 for Go linters https://github.com/nakabonne/golintui
+
+- 4.Go 实现的不可更改 kv 数据库 https://github.com/codenotary/immudb
+
+- 5.Go 如何作为脚本语言使用 https://www.infoq.com/news/2020/04/go-scripting-language/
+
+
+
 ## gopherDaily_2020-05-10
 - 1.通过禁止比较来缩小Go二进制文件：对Go 1.15二进制文件size大幅减小的解读 by Dave Cheney - https://dave.cheney.net/2020/05/09/ensmallening-go-binaries-by-prohibiting-comparisons
 - 2.编写更好的Go测试的21个技巧 - https://medium.com/@habtom/21-tips-to-write-better-go-tests-f7d9979d81d9
