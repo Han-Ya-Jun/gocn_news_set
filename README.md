@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-10
+- 1.通过禁止比较来缩小Go二进制文件：对Go 1.15二进制文件size大幅减小的解读 by Dave Cheney - https://dave.cheney.net/2020/05/09/ensmallening-go-binaries-by-prohibiting-comparisons
+- 2.编写更好的Go测试的21个技巧 - https://medium.com/@habtom/21-tips-to-write-better-go-tests-f7d9979d81d9
+- 3.Go提案：冻结并移除golang.org/x/lint - https://github.com/golang/go/issues/38968
+- 4.CoreRAD：一个新的IPv6 router advertisement 守护程序 - https://mdlayher.com/blog/corerad-a-new-ipv6-router-advertisement-daemon/
+- 5.immudb: 不可变的键/值存储 - https://github.com/codenotary/immudb
+- 6.像grep搜索文本那样对代码(支持Go)进行语义搜索(非Go语言实现) - https://github.com/returntocorp/semgrep
+
+
 ## go语言中文网(每日资讯)_2020-05-09
 一、Go语言中文网
 
