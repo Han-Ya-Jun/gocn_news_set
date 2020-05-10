@@ -4,6 +4,41 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-10
+一、Go语言中文网
+
+1. [Go语言爱好者周刊专辑](http://suo.im/5Cj4D4)
+
+2. [Go语言爱好者周刊：第 42 期](https://mp.weixin.qq.com/s/HhawVSaaTfzidlOXk_tpFA)
+
+3. [收藏美图：Go语言并发爬虫，爬取空姐网所有相册图片](https://mp.weixin.qq.com/s/zFU-Grb9Skmj9nbinxMW0w)
+
+4. [Go 每日一库之 go-app：WebAssembly 技术使用](https://mp.weixin.qq.com/s/vXl4fPUJXhsEg1WD83Xl0w)
+
+5. [HTTPS 的 7 次握手以及 9 倍时延](https://mp.weixin.qq.com/s/Xo9HgZXfn28VibIE9OFHqw)
+
+6. [Go刷LeetCode系列： 二叉树（6）完全二叉树点个数](https://mp.weixin.qq.com/s/myamLam0ngwzWOxxOJxMOw)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-09）](https://studygolang.com/topics/11440)
+
+三、腾讯云容器团队
+
+1. [Prometheus Metrics 设计的最佳实践和应用实例，看这篇够了！](https://mp.weixin.qq.com/s/3aL9IiWYlp4H7k3bxrk_TQ)
+
+四、 GoUpUp
+
+1. [Go 每日一库之 rpc](https://mp.weixin.qq.com/s/-Jvl98G_Lwi-guZ3L83oGA)
+
+五、容器魔方
+
+1. [Kubernetes中基于etcd的watch关键设计](https://mp.weixin.qq.com/s/OcgjEDtpDSj_1Pwl1utpdg)
+
+六、不务正业的豆腐酱
+
+1. [[译]模块（Modules）05：Gopls改进](https://mp.weixin.qq.com/s/ZU5nY1d4Zu_6Z9xsgB2Erg)
+
 ## gocn_news_2020-05-10
 - 1.通过禁止比较来减少 Go 编译文件的大小 https://dave.cheney.net/2020/05/09/ensmallening-go-binaries-by-prohibiting-comparisons
 
