@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-11
+一、Go语言中文网
+
+1. [基于 GoLand 使用 Docker 容器进行 Go 开发](https://mp.weixin.qq.com/s/2tajxPBhGwgwlT4TzAgmVw)
+2. [Kubernetes 入门必备云原生发展简史](https://mp.weixin.qq.com/s/hGmZmkJnNYNBzAVVe0YOeQ)
+3. [Go语言进阶之路（二）：字符串和指针](https://mp.weixin.qq.com/s/breQ-ehKAmltJdWqjMyBHA)
+4. [gin 源码阅读（一）-- 启动](https://mp.weixin.qq.com/s/GNhttZutfY6UkDUJfPHlwA)
+5. [Go刷LeetCode系列： 二叉树（7)打家劫舍](https://mp.weixin.qq.com/s/lcYql0RNsJ_VMsaRWkJe-A)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-10）](https://studygolang.com/topics/11445)
+
+三、鸟窝
+
+1. [基于protobuf快速生成服务治理的RPC代码](https://colobu.com/2020/05/10/generate-rpcx-code-from-protobuf-files/)
+
+四、 字节跳动技术团队
+
+1. [字节跳动在 Go 网络库上的实践](https://mp.weixin.qq.com/s/wSaJYg-HqnYY4SdLA2Zzaw)
+
+五、腾讯技术工程
+
+1. [腾讯Elasticsearch海量规模背后的内核优化剖析](https://mp.weixin.qq.com/s/T2NaWd9vqbUdrGA9YsdoBA)
+
+六、MoeLove
+
+1. [K8S 生态周报| Helm v3.2.1 发布](https://mp.weixin.qq.com/s/z2aSwxDS8V2F4BwAO_7QGQ)
+
 ## gopherDaily_2020-05-11
 - 1.Go: 如何利用符号表 - https://medium.com/a-journey-with-go/go-how-to-take-advantage-of-the-symbols-table-360dd52269e5
 - 2.GO中编写MySQL代理：第2部分-解码握手包 - https://medium.com/@alexanderravikovich/writing-mysql-proxy-in-go-for-learning-purposes-part-2-decoding-connection-phase-server-response-7091d87e877e
