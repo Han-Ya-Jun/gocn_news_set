@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-11
+- 1.Go: 如何利用符号表 - https://medium.com/a-journey-with-go/go-how-to-take-advantage-of-the-symbols-table-360dd52269e5
+- 2.GO中编写MySQL代理：第2部分-解码握手包 - https://medium.com/@alexanderravikovich/writing-mysql-proxy-in-go-for-learning-purposes-part-2-decoding-connection-phase-server-response-7091d87e877e
+- 3.如何在GitHub上托管您的Helm Chart仓库 - https://jamiemagee.co.uk/blog/how-to-host-your-helm-chart-repository-on-github/
+- 4.分布式系统中的重试 - https://shubheksha.com/posts/2020/05/retries-in-distributed-systems-good-and-bad-parts/
+- 5.经典旧文：Go的扩展并发：信号量（第1部分）- https://medium.com/@deckarep/gos-extended-concurrency-semaphores-part-1-5eeabfa351ce
+
+
 ## go语言中文网(每日资讯)_2020-05-10
 一、Go语言中文网
 
