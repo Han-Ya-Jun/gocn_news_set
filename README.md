@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-11
+1.  字节跳动在 Go 网络库上的实践 https://gocn.vip/topics/10372
+2.  Excelize 发布 2.2.0 版本，Go 语言 Excel 文档基础库 https://gocn.vip/topics/10370
+3.  Go 强大而灵活的电子邮件库：email http://blog.studygolang.com/2020/05/email-lib
+4.  vscode 安装go第三方扩展包填坑记录的详细教程  https://www.zhangshengrong.com/p/3mNmdnoYaj/
+5. 可视化 Kubernetes 微服务应用 https://mp.weixin.qq.com/s/eps5pkocUwlWcZhB3fdJIQ
+
+
 ## go语言中文网(每日资讯)_2020-05-11
 一、Go语言中文网
 
