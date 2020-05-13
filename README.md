@@ -38,7 +38,7 @@
 
 2. [15个用于Kubernetes监控、安全、部署的工具](https://mp.weixin.qq.com/s/CAroslMhKt21y6_XYYXqQg)
 
-## gocn_news_2020-05-12
+## gocn_news_2020-05-13
 - 1. dubbo-go 中REST协议实现 https://mp.weixin.qq.com/s/9ngGYnkdcu14GkaPBjOBLg
 - 2. 揭秘Kubernetes attach/detach controller逻辑漏洞致使pod启动失败 https://mp.weixin.qq.com/s/CElaEP5YCR3QF4ppOOicAw
 - 3. Go程序编译符号表学习 https://medium.com/a-journey-with-go/go-how-to-take-advantage-of-the-symbols-table-360dd52269e5
