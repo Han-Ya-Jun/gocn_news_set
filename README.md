@@ -4,7 +4,13 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
-
+## gopherDaily_2020-05-13
+- 1.Go visitor模式实现 - https://dev.to/musale/the-visitor-design-pattern-36hm
+- 2.如何在Go中快速编写单元测试 - https://dev.to/ilyakaznacheev/how-i-write-my-unit-tests-in-go-quickly-4bd5
+- 3.经典旧文：调试Go性能问题 - https://software.intel.com/content/www/us/en/develop/blogs/debugging-performance-issues-in-go-programs.html
+- 4.Prometheus初学者指南 - https://github.com/yolossn/Prometheus-Basics
+- 5.lazyhub: 使用gocui的GitHub终端UI客户端 - https://github.com/ryo-ma/lazyhub
+- 6.pingcap关于分布式系统的开源培训课程 - https://github.com/pingcap/talent-plan
 # go语言中文网(每日资讯)_2020-05-12
 一、Go语言中文网
 
