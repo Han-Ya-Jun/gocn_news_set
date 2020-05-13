@@ -4,6 +4,40 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-13
+一、Go语言中文网
+
+1. [Go竟然是2020年最抢手的编程语言](https://mp.weixin.qq.com/s/OLCZdEdn-4b1T19SGU36OQ)
+
+2. [【视频】Go语言学到什么程度才可以找工作](https://mp.weixin.qq.com/s/fy034sbAP1508rsZY3ULlw)
+
+3. [Go语言进阶之路（四）：标准错误和异常](https://mp.weixin.qq.com/s/vBLV6BepP4GBL_lOu-2cJQ)
+
+4. [gin 源码阅读（二）-- 路由和路由组](https://mp.weixin.qq.com/s/DscNgvjkmpvmgE3Oy9dnUQ)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-12）](https://studygolang.com/topics/11458)
+
+三、chai2010
+
+1. [《Go语法树入门》新增 第11部分 类型检查 ](https://github.com/chai2010/go-ast-book/blob/master/ch11/readme.md)
+
+四、新亮笔记
+
+1. [一点经验分享给时间管理的入门者](https://mp.weixin.qq.com/s/TtUBHPv0UQ___Jir_qA_hQ)
+
+五、Go 101
+
+1. [Go中你需要知道的关于赋值语句的一个细节](https://mp.weixin.qq.com/s/I_8ylCLkB_oz9WxL-Lt2DA)
+
+六、 分布式实验室
+
+1. [Kubernetes 客户端工具概览](https://mp.weixin.qq.com/s/jPEmHZsYJFohgVCeSvC6Gg)
+
+2. [15个用于Kubernetes监控、安全、部署的工具](https://mp.weixin.qq.com/s/CAroslMhKt21y6_XYYXqQg)
+
 ## gopherDaily_2020-05-13
 - 1.Go visitor模式实现 - https://dev.to/musale/the-visitor-design-pattern-36hm
 - 2.如何在Go中快速编写单元测试 - https://dev.to/ilyakaznacheev/how-i-write-my-unit-tests-in-go-quickly-4bd5
