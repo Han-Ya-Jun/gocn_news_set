@@ -38,6 +38,15 @@
 
 2. [15个用于Kubernetes监控、安全、部署的工具](https://mp.weixin.qq.com/s/CAroslMhKt21y6_XYYXqQg)
 
+## gocn_news_2020-05-12
+- 1. dubbo-go 中REST协议实现 https://mp.weixin.qq.com/s/9ngGYnkdcu14GkaPBjOBLg
+- 2. 揭秘Kubernetes attach/detach controller逻辑漏洞致使pod启动失败 https://mp.weixin.qq.com/s/CElaEP5YCR3QF4ppOOicAw
+- 3. Go程序编译符号表学习 https://medium.com/a-journey-with-go/go-how-to-take-advantage-of-the-symbols-table-360dd52269e5
+- 4. 干净整洁的项目架构指南 https://medium.com/gdg-vit/clean-architecture-the-right-way-d83b81ecac6
+- 5. Docker网络实现 https://mp.weixin.qq.com/s/nJUJP1DkuFHF_Ls2RXDjmg
+
+
+
 ## gopherDaily_2020-05-13
 - 1.Go visitor模式实现 - https://dev.to/musale/the-visitor-design-pattern-36hm
 - 2.如何在Go中快速编写单元测试 - https://dev.to/ilyakaznacheev/how-i-write-my-unit-tests-in-go-quickly-4bd5
