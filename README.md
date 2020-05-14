@@ -10,7 +10,7 @@
 - 3.如何在 Google Kubernetes Engine 上运行 HA MySQL https://mp.weixin.qq.com/s/woQkOCGxwmkGb2b0-VPBsw
 - 4.基于 GoLand 在 Docker 容器中调试 Go 应用程序 https://mp.weixin.qq.com/s/4-fkIWcr_3LdLFALVk4ZTA
 - 5.深入云原生 AI：基于 Alluxio 数据缓存的大规模深度学习训练性能优化 https://gocn.vip/topics/10382
-## gopherDaily_2020-05-11
+## gopherDaily_2020-05-14
 - 1.Go 1.15中都有哪些变化？- https://lwn.net/SubscriberLink/820217/47ed80088c03b18d/
 - 2.如何处理Go中的错误？告诉你5条规则 - https://web3.coach/golang-how-to-handle-errors-five-rules
 - 3.在Go中什么时候使用指针 - https://medium.com/@meeusdylan/when-to-use-pointers-in-go-44c15fe04eac
