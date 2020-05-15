@@ -4,6 +4,13 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-15
+- 1.uber工程实践：使用Bazel构建Uber的Go monorepo - https://eng.uber.com/go-monorepo-bazel/
+- 2.如何用Go编写现实世界的应用：从概念到生产 - https://www.sarvika.com/2020/05/14/go-from-ideas-to-production/
+- 3.Kubernetes的十大设计模式 - https://developers.redhat.com/blog/2020/05/11/top-10-must-know-kubernetes-design-patterns/
+- 4.播客：分布式消息系统的挑战 by NATS维护者 Derek Collison - https://changelog.com/gotime/130
+- 5.解决Windows上未初始化的堆栈内存 by Microsoft安全响应中心 - https://msrc-blog.microsoft.com/2020/05/13/solving-uninitialized-stack-memory-on-windows/
+我讨厌PostgreSQL的10件事 - https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791
 ## go语言中文网(每日资讯)_2020-05-14
 一、Go语言中文网
 
