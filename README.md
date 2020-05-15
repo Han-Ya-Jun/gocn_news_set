@@ -4,6 +4,39 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-15
+
+一、Go语言中文网
+
+1. [腾讯 Go 性能优化实战](https://mp.weixin.qq.com/s/Z9DoVGwdAtpbjealQLEMkw)
+
+2. [缓存系统设计精要 2：缓存淘汰策略](https://mp.weixin.qq.com/s/kly2DuCzp1nalkey-9aQJA)
+
+3. [Go语言计时器的使用详解](https://mp.weixin.qq.com/s/QahprdKrlcaatG8poWsNrA)
+
+4. [Go语言进阶之路（六）：内置JSON库和开源库gjson](https://mp.weixin.qq.com/s/BIYe7OskDCG9kRA8O46xUg)
+
+5. [Go刷LeetCode系列：二叉树（10）最近公共祖先](https://mp.weixin.qq.com/s/8Lycx7Uq_Qy6cq44WMwDfw)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-14）](https://studygolang.com/topics/11478)
+
+三、 淘系技术
+
+1. [阿里技术专家详解DDD系列 第三讲 - Repository模式](https://mp.weixin.qq.com/s/1bcymUcjCkOdvVygunShmw)
+
+四、真没什么逻辑
+
+1. [为什么集群需要 Overlay 网络](https://draveness.me//whys-the-design-overlay-network)
+
+五、Go 101
+
+1. [runtime.Goexit相当于终极recover函数？](https://mp.weixin.qq.com/s/TSpnhHlx7OirAxMWlxKK3w)
+
+六、DevOps技术栈
+
+1. [Prometheus 监控系统：30个常见问题（下）](https://mp.weixin.qq.com/s/Ou0ffYwxE08-GdQtT-9K_g)
 ## gocn_news_2020-05-15
 - 1.Go 1.14.3 和 Go 1.13.11 发布 https://mp.weixin.qq.com/s/rUaKoU08Xxc9pfXyO1f8Wg
 
