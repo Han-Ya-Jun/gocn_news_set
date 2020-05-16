@@ -4,6 +4,46 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-16
+一、Go语言中文网
+
+1. [Go 项目的布局：你是怎么组织你的Go代码的？](https://mp.weixin.qq.com/s/3f6dZcshXXL4EDqdtmJ3gw)
+
+2. [我的代码没有else之代码组件](https://mp.weixin.qq.com/s/QWfQGlKfwDlW2NkMaUCvJA)
+
+3. [为什么 TCP 协议有粘包问题](https://mp.weixin.qq.com/s/WjVpPCaZvZhbWHjcDTLKrA)
+
+4. [Go刷LeetCode系列：二叉树（11）寻找重复的子树](https://mp.weixin.qq.com/s/hcgzB-8MWJsmVbVj-X0tqg)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-15）](https://studygolang.com/topics/11482)
+
+三、容器时代
+
+1. [Kubernetes网络实现](https://mp.weixin.qq.com/s/3QAzBo0_a3EU_wHjj9qSBw)
+
+四、wecatch
+
+1. [Docker最佳实践](https://mp.weixin.qq.com/s/tOV_C-VllRXcAXrEPpUSIg)
+
+五、火丁笔记
+
+1. [万字长文：新生代的开源监控系统 Prometheus 的问题和思考](https://mp.weixin.qq.com/s/YVBV_-pg8Q4i3E5YMyLK9Q)
+## gocn_news_2020-05-16
+- 1.代码模板 | 我的代码没有 else https://mp.weixin.qq.com/s/j0ERCjAFgVTOns87Ad0r0A
+- 2.Go 项目的布局：你是怎么组织你的 Go 代码的？ https://mp.weixin.qq.com/s/3f6dZcshXXL4EDqdtmJ3gw
+- 3.秒杀系统的艺术 https://juejin.im/post/5d84e21f6fb9a06ac8248149
+- 4.大神是如何学习 Go 之并发编程与定时器 https://mp.weixin.qq.com/s/5yEQnl7x4DmLM4kC3fyqOg
+- 5.缓存系统设计精要 https://juejin.im/post/5e9ad171518825738f2b30de
+## gopherDaily_2020-05-16
+- 1.Go测试中如何fake stdin和stdout - https://eli.thegreenplace.net/2020/faking-stdin-and-stdout-in-go/
+- 2.Go中哪些事物无法比较 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoUncomparableThings
+- 3.google开源用于追踪Covid-19病毒技术的云端参考实现(go实现) - https://github.com/google/exposure-notifications-server
+- 4.从头开始用Go实现SQL数据库：第三部分索引 - https://notes.eatonphil.com/database-basics-indexes.html
+- 5.使用WebAssembly构建无容器的未来 - https://www.infoq.com/news/2020/05/webassembly-summit-containerless/
+- 6.每个开发人员应了解的TCP知识 - https://robertovitillo.com/what-every-developer-should-know-about-tcp/
+- 7.编写自己的Go静态分析工具 - https://about.houqp.me/posts/write-your-own-go-static-analysis-tool/
 ## go语言中文网(每日资讯)_2020-05-15
 
 一、Go语言中文网
