@@ -4,6 +4,37 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-18
+一、Go语言中文网
+
+1. [字节跳动自研的 Go RPC 框架 KiteX 核心技术讲解](https://mp.weixin.qq.com/s/aw-F7rAh9SkcouvL7cfvRg)
+
+2. [Go 语言 Web 编程系列 —— 通过 Request 读取 HTTP 请求报文](https://mp.weixin.qq.com/s/TUpzqwKAjqhfKXOjBvz_6g)
+
+3. [聊天机器人训练语料获取之colly爬虫](https://mp.weixin.qq.com/s/miqTXPWrnLQ2KFSMnkaQrQ)
+
+4. [Go语言进阶之路（八）：正则表达式](https://mp.weixin.qq.com/s/c4U9mCBtYXpPMjhd5UlNcg)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-17）](https://studygolang.com/topics/11489)
+
+三、xueyuanjun
+
+1. [Go 语言 Web 编程系列（十二）—— 通过 Request 读取 HTTP 请求报文](https://mp.weixin.qq.com/s/kt3NvZA9R0uyv85bQ9wztQ)
+
+四、火丁笔记
+
+1. [分布式系统中的一致性与共识算法](https://mp.weixin.qq.com/s/oX431zVZ7pxEYQpLKXq4Rw)
+
+五、分布式实验室
+
+1. [以业务为核心的云原生体系建设](https://mp.weixin.qq.com/s/PGJ042nAsRTVF-bvfVtbqQ)
+
+六、煎鱼
+
+1. [使用 Go 程序调用 Kubernetes API](https://eddycjy.com/posts/kubernetes/2020-05-10-api/)
+
 ## gocn_news_2020-05-18
 - 1.我可能并不会使用 golang slice https://juejin.im/post/5ec2030ee51d454de777380d
 
