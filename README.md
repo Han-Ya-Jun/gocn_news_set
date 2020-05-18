@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-18
+- 1.我可能并不会使用 golang slice https://juejin.im/post/5ec2030ee51d454de777380d
+
+- 2.如何写出简洁的 CQRS 代码？ https://mp.weixin.qq.com/s/mfjtDrdVQYfLuh4pNaHpZw
+
+- 3.errlog: 优化错误日志格式的 log 工具 https://github.com/snwfdhmp/errlog
+
+- 4.深入浅出 Go 结构体 Tag https://medium.com/@metamemelord/deep-dive-into-go-struct-tags-d629ec0be30d
+
+- 5.使用 Go 编写一个 NES 模拟器 https://nwidger.github.io/blog/post/writing-an-nes-emulator-in-go-part-1/
+
+
+
 ## go语言中文网(每日资讯)_2020-05-17
 一、Go语言中文网
 
