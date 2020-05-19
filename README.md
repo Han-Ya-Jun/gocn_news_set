@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-19
+- 1.Go 语言实现的小型、动态、快速、安全的脚本语言 Tengo https://mp.weixin.qq.com/s/unqFqCMHfDL2DOZzk4Cc6w
+
+- 2.利用 unsafe.Pointer 进行信息泄露练习 https://dev.to/jlauinger/exploitation-exercise-with-unsafe-pointer-in-go-information-leak-part-1-1kga
+
+- 3.Go 的 50 坑：新 Golang 开发者要注意的陷阱、技巧和常见错误 https://juejin.im/post/5ec29074e51d454dda7f5dcc
+
+- 4.Go 实现 WebRTC https://github.com/pion/webrtc
+
+- 5.Go 学习范例和教程合集 https://blog.learngoprogramming.com/
+
+
+
 ## go语言中文网(每日资讯)_2020-05-18
 一、Go语言中文网
 
