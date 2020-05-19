@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-19
+一、Go语言中文网
+
+1. [在 GoLang 中使用 Docker Compose 运行 Go 应用程序](https://mp.weixin.qq.com/s/6s3uZwdEDU3z8jq3vjLvnA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-17）](https://studygolang.com/topics/11492)
+
+三、鸟窝
+
+1. [[译]配置 sql.DB 获得更好的性能(2020年更新版)](https://colobu.com/2020/05/18/configuring-sql-DB-for-better-performance-2020/)
+
+四、新亮笔记
+
+1. [编程是一种思想，而不是敲代码](https://mp.weixin.qq.com/s/IIGQj0q_FSRNT5jTTkMjEw)
+
+五、 真没什么逻辑
+
+1. [为什么集群需要 Overlay 网络](https://mp.weixin.qq.com/s/x7jLgThS2uwoPJcqsJE29w)
+
+六、容器时代
+
+1. [Kubernetes安全——证书原理详解](https://mp.weixin.qq.com/s/U2gxGHLyOAg4zmMyhjrGxw)
+
 ## gocn_news_2020-05-19
 - 1.Go 语言实现的小型、动态、快速、安全的脚本语言 Tengo https://mp.weixin.qq.com/s/unqFqCMHfDL2DOZzk4Cc6w
 
