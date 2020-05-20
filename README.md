@@ -4,6 +4,33 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-20
+一、Go语言中文网
+
+1. [只用 3 步构建 Go Docker 最小镜像](https://mp.weixin.qq.com/s/TuuHkoFmiBlUuQJMr0auSA)
+
+2. [听说你 ping 用的很 6 ？给我图解一下 ping 的工作原理！](https://mp.weixin.qq.com/s/zID7sSg1upMNSexzOPcFDg)
+
+3. [Go语言进阶之路：手撸一个LRU缓存](https://mp.weixin.qq.com/s/DWD25p9kBkm-nSqDKJErzg)
+
+4. [我的代码没有else之订阅通知](https://mp.weixin.qq.com/s/f2rhliZFvHcuykllFPxL2A)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-19）](https://studygolang.com/topics/11501)
+
+三、51CTO技术栈
+
+1. [谁能想到，我给技术总监“上了一课”](https://mp.weixin.qq.com/s/FsK58kbjPa9jVO8HARwhcw)
+
+四、xueyuanjun
+
+1. [Go 语言 Web 编程系列（十三）—— 获取用户请求数据（上）](https://mp.weixin.qq.com/s/xPSAGfznLUronJ3DF2DYow)
+
+五、 真没什么逻辑
+
+1. [Go 语言 HTTP 标准库的实现原理](https://draveness.me//golang-net-http)
+
 
 ## gocn_news_2020-05-20
 - 1.行为驱动开发 (BDD) 控制软件开发的复杂性 https://octo.vmware.com/taming-complexity-software-testing-behavior-driven-development/
