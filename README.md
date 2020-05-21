@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## gopherDaily_2020-05-21
+- 1.Go语言LDAP交互入门 - https://cybernetist.com/2020/05/18/getting-started-with-go-ldap/
+- 2.我的团队决定使用Go的6个理由 - https://herberthenrique.com/6-reasons-my-team-decided-use-go
+- 3.free5gc: 基于3gpp R15规范的开源5G核心网实现(go实现) by 中国台湾交通大学 - https://github.com/free5gc/free5gc
+- 4.subspace: WireGuard VPN服务端GUI工具 - https://github.com/subspacecommunity/subspace
+- 5.Go项目仓库结构布局模板 - https://github.com/moul/golang-repo-template
+- 6.DirectX即将进入Windows的linux子系统 - https://devblogs.microsoft.com/directx/directx-heart-linux/
+- 7.gogo protobuf项目寻找新owner - https://github.com/gogo/protobuf/issues/691
 ## gocn_news_2020-05-21
 - 1.Go 中的循环是如何转为汇编的 https://medium.com/a-journey-with-go/go-how-are-loops-translated-to-assembly-835b985309b3
 
