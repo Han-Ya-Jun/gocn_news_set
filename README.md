@@ -4,6 +4,39 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-21
+一、Go语言中文网
+
+1. [基于标准库 net/http 如何记录 HTTP 请求？](https://mp.weixin.qq.com/s/88R1BWkagmf9e7xVJnSwUg)
+
+2. [每日一库之 Go 语言开发者的神器—Gotx](https://mp.weixin.qq.com/s/6ZpNHrkNUa1z3y_ASt1h_g)
+
+3. [gin 源码阅读（三）-- 中间件](https://mp.weixin.qq.com/s/QOs6o6jTpZOjNNdlOcChqQ)
+
+4. [树的各种遍历算法用 Go 如何实现？](https://mp.weixin.qq.com/s/7v4KCVCqYMTaQgQe1far_w)
+
+5. [硬不硬你说了算！近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题](https://mp.weixin.qq.com/s/EJklK2Zvs1QytyxtWMZs3g)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-20）](https://studygolang.com/topics/11509)
+
+三、 高可用架构
+
+1. [整洁架构的正确之路](https://mp.weixin.qq.com/s/yEfQKFuu91mplbXFSgR-Aw)
+
+四、HHF技术博客
+
+1. [Bilibili Kratos 框架源码分析(2) -- Krato一些简单例子](https://mp.weixin.qq.com/s/80509dQPjXsy2EHm1TJ2bA)
+
+五、Go 101
+
+1. [一道关于nil的小测试题](https://mp.weixin.qq.com/s/qMpQIzS_VukVDUntpDRcZg)
+
+六、 云原生实验室
+
+1. [Kubectl exec 背后到底发生了什么？](https://mp.weixin.qq.com/s/E5L7RmDvCqccNP2jBS5paQ)
+
 
 ## gopherDaily_2020-05-21
 - 1.Go语言LDAP交互入门 - https://cybernetist.com/2020/05/18/getting-started-with-go-ldap/
