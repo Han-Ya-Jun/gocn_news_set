@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-21
+- 1.Go 中的循环是如何转为汇编的 https://medium.com/a-journey-with-go/go-how-are-loops-translated-to-assembly-835b985309b3
+
+- 2.Go 中的 Goroutine 和抢占 https://medium.com/a-journey-with-go/go-goroutine-and-preemption-d6bc2aa2f4b7
+
+- 3.Rust 开发对 Go 印象 https://medium.com/better-programming/early-impressions-of-go-from-a-rust-programmer-f4fd1074c410
+
+- 4.支持读写分离和嵌套复杂 SQL 的 Golang ORM 库 https://github.com/rushteam/gosql
+
+- 5.Go 中的构造函数 https://medium.com/@j7mbo/constructors-in-go-b1d1513e1c1d
+
+
+
 ## go语言中文网(每日资讯)_2020-05-20
 一、Go语言中文网
 
