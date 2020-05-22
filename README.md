@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-22
+一、Go语言中文网
+
+1. [当 GoLand 遇到 Kubernetes：如何调试和运行 Go 程序](https://mp.weixin.qq.com/s/fKfpRH2zkLLjwMArc3U1DQ)
+
+2. [我的代码没有else之客户决策](https://mp.weixin.qq.com/s/IDm524giX5aehF8Cyqk81A)
+
+3. [如何在K8S中创建一个自定义Controller?](https://mp.weixin.qq.com/s/3YrPwmm55XmpI-Xl28gC3A)
+
+4. [Go刷LeetCode系列：二叉树（12）在二叉树中分配硬币](https://mp.weixin.qq.com/s/xLdKbV-NP70dvMJCy-Jz0A)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-21）](https://studygolang.com/topics/11517)
+
+三、腾讯技术工程
+
+1. [HTTP/3 原理实战](https://mp.weixin.qq.com/s/MHYMOYHqhrAbQ0xtTkV2ig)
+
+四、面向信仰编程
+
+1. [为什么系统调用会消耗较多资源](https://draveness.me//whys-the-design-syscall-overhead)
+
+五、xueyuanjun
+
+1. [Go 语言 Web 编程系列（十四）—— 获取用户请求数据（下）](https://mp.weixin.qq.com/s/TRJy4MF0Q2q9RcuomOCE6A)
+
+
 ## gocn_news_2020-05-22
 - 1.go-mysql-driver 的三个 bugs https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/
 
