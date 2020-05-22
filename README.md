@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-22
+- 1.go mysql driver中的3个bug - https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/
+- 2.提高Go处理json的效率 - https://klotzandrew.com/blog/speeding-up-json-processing-in-go
+- 3.尽量使用原生类型，不要陷入类型转换的地狱 - https://qvault.io/2020/05/21/dont-go-to-casting-hell-use-default-native-types-in-go/
+- 4.Dgraph, GraphQL, Schemas和CRUD - https://www.ardanlabs.com/blog/2020/05/dgraph-graphql-schemas-crud.html
+- 5.设计GraphQL schemas - https://dgraph.io/blog/post/designing-graphql-schemas/
+- 6.axiom: 为安全人员编写的渗透工具套装 - https://github.com/pry0cc/axiom
+- 7.用go从头编写database第4部分：database/sql driver - https://notes.eatonphil.com/database-basics-a-database-sql-driver.html
+
 ## go语言中文网(每日资讯)_2020-05-21
 一、Go语言中文网
 
