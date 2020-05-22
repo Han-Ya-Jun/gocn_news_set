@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-22
+- 1.go-mysql-driver 的三个 bugs https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/
+
+- 2.json 处理加速优化实战 https://klotzandrew.com/blog/speeding-up-json-processing-in-go
+
+- 3.dubbo-go 可信调用实现 https://gocn.vip/topics/10430
+
+- 4.olivia: 基于人工神经网络的聊天机器人 https://github.com/olivia-ai/olivia
+
+- 5.gosdlisp: Go lisp 解析器 https://github.com/d-tsuji/gosdlisp
+
+
+
 ## gopherDaily_2020-05-22
 - 1.go mysql driver中的3个bug - https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/
 - 2.提高Go处理json的效率 - https://klotzandrew.com/blog/speeding-up-json-processing-in-go
