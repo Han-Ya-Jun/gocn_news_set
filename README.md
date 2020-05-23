@@ -4,6 +4,13 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-23
+- 1.利用MinIO和TensorFlow进行超大规模机器学习 - https://blog.min.io/hyper-scale-machine-learning-with-minio-and-tensorflow/
+- 2.如何将map转换为slice：小心三处陷阱 - https://web3.coach/golang-how-to-convert-map-to-slice-three-gotchas
+- 3.播客：Kelsey Hightower关于PaaS、Google在生产中的测试等方面的看法 - https://www.getambassador.io/podcasts/kelsey-hightower-on-developer-experience-paas-and-testing-in-production/
+- 4.webrtc调试利器 - https://github.com/proemergotech/chrome-webrtc-packet-log-parser
+- 5.如何保持继续学习编码的动力 - https://www.freecodecamp.org/news/how-to-stay-motivated-to-keep-learning-to-code/
+- 6.生产中使用过的Go项目仓库模板，支持CI与容器镜像自动构建 - https://github.com/uw-labs/go-mono
 ## gocn_news_2020-05-23
 - 1.从零开始入门 K8s | 应用配置管理 https://gocn.vip/topics/10419
 
