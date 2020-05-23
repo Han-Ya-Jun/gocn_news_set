@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-23
+- 1.从零开始入门 K8s | 应用配置管理 https://gocn.vip/topics/10419
+
+- 2.sync.pool 源码阅读 https://gocn.vip/topics/10396
+
+- 3.我可能并不会使用 golang goroutine https://juejin.im/post/5ec72e0951882542f346e672
+
+- 4.Go 中 LDAP 入门 https://cybernetist.com/2020/05/18/getting-started-with-go-ldap
+
+- 5.在 Go 中构建由 Redis 支持的 REST API https://medium.com/@mhewedy_46874/building-rest-api-backed-by-redis-ae8ff4818460
+
+
+
 ## go语言中文网(每日资讯)_2020-05-22
 一、Go语言中文网
 
