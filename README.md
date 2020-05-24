@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-24
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 44 期](https://mp.weixin.qq.com/s/73PHmWlVKuri2A7uc7Y_gw)
+
+2. [从零开始入门 K8s | 详解 K8s 容器基本概念](https://mp.weixin.qq.com/s/-n0B1CVqjLGwZqTqH8MuCQ)
+
+3. [vscode-Go插件的这些用法，你真的知道么？](https://mp.weixin.qq.com/s/Ol1lnt7vSJyk5JtBzSH3PA)
+
+4. [深挖Go系列之如何在函数内修改指针](https://mp.weixin.qq.com/s/hAPyji67nlionRqqJ_8o_A)
+
+5. [Go 语言 Web 编程系列—— 获取用户请求数据（下）](https://mp.weixin.qq.com/s/sOn1ALbjrtfg9N0-1wu2tQ)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-23）](https://studygolang.com/topics/11534)
+
+三、容器时代
+
+1. [Docker网络实现](https://mp.weixin.qq.com/s/WipmpXmk_R8MhrhuS5maKg)
+
+四、HHF技术博客
+
+1. [Bilibili Kratos 框架源码分析(3) -- fanout 异步](https://mp.weixin.qq.com/s/abRgupE3LJMxlRtDYPH6_A)
+
+五、月牙寂道长
+
+1. [认识抽象的陷阱-过度设计](https://mp.weixin.qq.com/s/o-P9EUMPbAZlTwbykBioPQ)
+
 ## gocn_news_2020-05-24
 - 1.来自七牛的 qlang alpha 版发布 https://github.com/qiniu/qlang
 
