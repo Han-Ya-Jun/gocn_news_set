@@ -4,6 +4,13 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-24
+- 1.使用delve调试Go代码(delve 1.4) - https://medium.com/a-journey-with-go/go-debugging-with-delve-core-dumps-384145b2e8d9
+- 2.关于json.Unmarshal相关问题的思考 by Dave Cheney - https://dave.cheney.net/2020/05/16/fatihs-question
+- 3.函数式编程中maybe monod的Go实现 - https://christine.website/blog/maybedoer-2020-05-23
+- 4.如何使用HashiCorp Vault实现Kubernetes中密钥管理 - https://deepsource.io/blog/setup-vault-kubernetes/
+- 5.使用kubernetes的10个最常见错误 - https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/
+
 ## gopherDaily_2020-05-23
 - 1.利用MinIO和TensorFlow进行超大规模机器学习 - https://blog.min.io/hyper-scale-machine-learning-with-minio-and-tensorflow/
 - 2.如何将map转换为slice：小心三处陷阱 - https://web3.coach/golang-how-to-convert-map-to-slice-three-gotchas
