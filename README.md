@@ -4,6 +4,18 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-25
+- 1.byte 数组和 io.Reader 对比 https://philpearl.github.io/post/reader
+
+- 2.使用 Go、Websockets、Redis 构建聊天服务示例 https://medium.com/@mhewedy_46874/building-chat-service-in-golang-and-websockets-backed-by-redis-b42a8784636c
+
+- 3.Golang 源码学习：调度逻辑（一）初始化 https://www.cnblogs.com/flhs/p/12657348.html
+
+- 4.一个基于 gRPC 的内存级 KV 缓存类库 https://github.com/knrt10/gRPC-cache
+
+- 5.一个基于 Go http 中间件的故障注入类库 https://github.com/github/go-fault 
+
+
 
 ## gopherDaily_2020-05-25
 - 1.在Facebook规模上建立更精确的时间服务(Go实现): 精准度从10毫秒提升到0.1毫秒 - https://engineering.fb.com/production-engineering/ntp-service/
