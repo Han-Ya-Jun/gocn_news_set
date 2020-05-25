@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-25
+一、Go语言中文网
+
+1. [缓存系统设计精要 3：缓存安全](https://mp.weixin.qq.com/s/zokkGEckehRK9kaugLoOpQ)
+
+2. [【视频】设计模式Go语言实现之观察者模式](https://mp.weixin.qq.com/s/gvdtJugqZe2NLPuDBx87Lw)
+
+3. [Go语言函数深度解析（上）](https://mp.weixin.qq.com/s/2cDarS5cbqxB-cMzqTlVaA)
+
+4. [IP 基础知识“全家桶”，45 张图一套带走](https://mp.weixin.qq.com/s/cQm-QqN10eq2tOIx4QMVDQ)
+
+5. [Go语言进阶之路（九）：时间处理和格式化输出](https://mp.weixin.qq.com/s/hDA5UtIcLwAfeyfv66vTgQ)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-24）](https://studygolang.com/topics/11535)
+
+三、MoeLove
+
+1. [K8S 生态周报| Docker v19.03.9 发布](https://mp.weixin.qq.com/s/HzXTcDPdafsylNdV7q36uQ)
+
+四、煎鱼
+
+1. [Proto 代码到底放哪里？](https://eddycjy.com/posts/where-is-proto/)
+
+五、火丁笔记
+
+1. [Go：从 context 源码领悟接口的设计](https://mp.weixin.qq.com/s/JZ7E_Xk-7Qms1hfxZuFipw)
+
 ## gocn_news_2020-05-25
 - 1.byte 数组和 io.Reader 对比 https://philpearl.github.io/post/reader
 
