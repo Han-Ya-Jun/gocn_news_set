@@ -5,6 +5,13 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## gopherDaily_2020-05-25
+- 1.在Facebook规模上建立更精确的时间服务(Go实现): 精准度从10毫秒提升到0.1毫秒 - https://engineering.fb.com/production-engineering/ntp-service/
+- 2.Go类型定义与类型别名(type alias)的区别 - https://alehatsman.com/posts/golang_type_declaration_abuse.html
+- 3.Immutable database原理 - https://adlrocha.substack.com/p/adlrocha-immutable-databases
+- 4.编写你自己的container和镜像 - https://dev.to/dpkahuja/a-docker-free-intro-to-containers-write-your-own-containers-and-images-3pk4
+- 5.高绩效团队的特点和习惯 - https://deniseyu.io/2020/05/23/habits-of-high-performing-teams.html
+- 6.Uno和Go - https://medium.com/asecuritysite-when-bob-met-alice/an-uno-and-golang-70e90f630f3e
 ## go语言中文网(每日资讯)_2020-05-24
 一、Go语言中文网
 
