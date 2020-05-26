@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
+## gopherDaily_2020-05-26
+- 1.探究goroutine到底是什么，需要多少空间 - https://tpaschalis.github.io/goroutines-size/
+- 2.在Go程序中放置跟踪装置 - https://gbws.io/articles/instrumentation-in-go/
+- 3.开发人员的安全威胁建模指南 - https://martinfowler.com/articles/agile-threat-modelling.html
+- 4.如何使用git action自动更新pkg.go.dev上的文档 - https://github.com/marketplace/actions/go-proxy-warming
+- 5.go-fault: github团队发布的故障注入库（针对标准http中间件）- https://github.com/github/go-fault
+
 ## go语言中文网(每日资讯)_2020-05-25
 一、Go语言中文网
 
