@@ -4,6 +4,43 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-26
+一、Go语言中文网
+
+1. [这本《软技能》5.5折售卖，同时其他 Go 图书优惠中：400减230](https://mp.weixin.qq.com/s/vEK5vqEwvbuVpqXqMNlXjw)
+
+2. [Go 编译器内核：给 Go 新增一个语句 —— 第一部分](https://mp.weixin.qq.com/s/D9C9niRMJleIyh-hUSAPiQ)
+
+3. [Go语言函数深度解析（中）](https://mp.weixin.qq.com/s/pc3jS7APl3z3PtM0a08rzA)
+
+4. [图解 new() 和 make的区别](https://mp.weixin.qq.com/s/ugVEcvRziB1V-JtU32_Pmg)
+
+5. [2020重学Go系列：33. 如何手动实现一个协程池？](https://mp.weixin.qq.com/s/ezDnMGye_t5mijYy1hr5Ng)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-25）](https://studygolang.com/topics/11539)
+
+三、鸟窝
+
+1. [Go反模式之越俎代庖](https://colobu.com/2020/05/26/golang-anti-pattern-yuezudaipao/)
+
+四、xueyuanjun
+
+1. [Go 语言 Web 编程系列（十五）—— 通过 ResponseWriter 接口创建 HTTP 响应](https://mp.weixin.qq.com/s/DBKDbXN9J6dtvseuWWx-1A)
+
+五、高可用架构
+
+1. [Grab熔断器设计：如何应对突发打车峰值](https://mp.weixin.qq.com/s/GwJHSUAyUhh-2t16BZa4sQ)
+
+六、真没什么逻辑
+
+1. [为什么 Linux 系统调用会消耗较多资源](https://mp.weixin.qq.com/s/ftCz3VuJ8tqHyld3unNmuA)
+
+七、wego
+
+1. [微信公众号专辑推荐](https://www.yuque.com/wegoer/set/column)
+
 ## gocn_news_2020-05-26
 - 1.Mr.Go 会客厅隆重上线，技术之余我们也聊聊成长 https://gocn.vip/topics/10442
 
