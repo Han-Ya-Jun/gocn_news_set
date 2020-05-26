@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-26
+- 1.Mr.Go 会客厅隆重上线，技术之余我们也聊聊成长 https://gocn.vip/topics/10442
+
+- 2.面试官让我用 channel 实现 sync 包里的同步锁，是不是故意为难我？ https://juejin.im/post/5ec604ea6fb9a047aa65e3b5
+
+- 3.Go 有多快 https://medium.com/swlh/how-fast-is-golang-135c658205eb
+
+- 4.使用 delve 调试 Go https://medium.com/a-journey-with-go/go-debugging-with-delve-core-dumps-384145b2e8d9
+
+- 5.如何使用 Istio 进行多集群部署管理：多控制平面 https://gocn.vip/topics/10446
+
+
+
 
 
 ## gopherDaily_2020-05-26
