@@ -4,6 +4,39 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-27
+一、Go语言中文网
+
+1. [防雪崩利器 hystrix-go 源码分析](https://mp.weixin.qq.com/s/p_fSD_-zA-rGFSMry-lMSQ)
+
+2. [Go 没有好用的 GUI，那能不能有一个漂亮的 CUI 呢？](https://mp.weixin.qq.com/s/yYQbWhk_l5kegoXB4xYb8g)
+
+3. [Go编程：级别日志 glog 的使用陷阱与改造](https://mp.weixin.qq.com/s/1FKMrq-hbhb4U_0SVZjXng)
+
+4. [实战！我用“大白鲨”让你看见 TCP](https://mp.weixin.qq.com/s/UQNVjQ80AVy5GKPZbkI6qw)
+
+5. [Go redis 客户端源码阅读（1）连接操作](https://mp.weixin.qq.com/s/Hg6rLJcLxgNHYjvXiDhrVw)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-26）](https://studygolang.com/topics/11569)
+
+三、容器时代
+
+1. [Kubernetes和外部DNS服务](https://mp.weixin.qq.com/s/CyqNEc_WCbYUIntOYBW6Lg)
+
+四、GoUpUp
+
+1. [Go 每日一库之 rpcx](https://mp.weixin.qq.com/s/8S4mo5o4fz8UYjLxRhm4hQ)
+
+五、MoeLove
+
+1. [为 Prometheus Node Exporter 加上认证](https://mp.weixin.qq.com/s/zJXbm6yEE5PcJ6aqqwZGmA)
+
+六、360云计算
+
+1. [基于DDD的golang实现](https://mp.weixin.qq.com/s/dVK64_v60qEUAX7kQnfSxw)
+
 
 ## gopherDaily_2020-05-27
 - 1.Go语言的测试：哲学与工具 - https://lwn.net/SubscriberLink/821358/429b0d0527749a3c/
