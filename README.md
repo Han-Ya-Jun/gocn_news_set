@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-27
+- 1.为什么 Ruby 程序员应该考虑学习 Go：https://www.honeybadger.io/blog/rubyist-learn-go/ 
+- 2.Go 排序: https://dev.to/andyhaskell/sorting-in-go-from-javascript-4k8o 
+- 3.Go 搭建 web server：https://www.dudley.codes/posts/2020.05.19-golang-structure-web-servers/ 
+- 4.Grab 熔断器设计： https://mp.weixin.qq.com/s/GwJHSUAyUhh-2t16BZa4sQ 
+- 5.Task Manager 的设计简述: https://gocn.vip/topics/10456
+
+
+
 ## go语言中文网(每日资讯)_2020-05-26
 一、Go语言中文网
 
