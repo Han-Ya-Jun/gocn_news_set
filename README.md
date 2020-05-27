@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## gopherDaily_2020-05-27
+- 1.Go语言的测试：哲学与工具 - https://lwn.net/SubscriberLink/821358/429b0d0527749a3c/
+- 2.Go中实现Immutability Pattern - https://rauljordan.com/2020/05/25/immutability-patterns-in-go.html
+- 3.官方SpaceX Dragon太空舱停靠模拟器的自动驾驶仪(Go实现) - https://github.com/mbertschler/dragon-iss-docking-autopilot
+- 4.使用Go实现口罩探测 - https://medium.com/@meeusdylan/face-mask-detection-in-5-minutes-with-dploy-ai-go-398e15f39546
+- 5.彻底解决 gcr、quay、DockerHub 镜像下载难题 - https://mp.weixin.qq.com/s/j_vqVwVeqPJUhixcSkXD9A
+- 6.Cloudflare推出网速测速服务 - https://blog.cloudflare.com/test-your-home-network-performance/
+- 7.AWS 150多个服务的一句话描述 - https://adayinthelifeof.nl/2020/05/20/aws.html
+
 ## gocn_news_2020-05-27
 - 1.为什么 Ruby 程序员应该考虑学习 Go：https://www.honeybadger.io/blog/rubyist-learn-go/ 
 - 2.Go 排序: https://dev.to/andyhaskell/sorting-in-go-from-javascript-4k8o 
