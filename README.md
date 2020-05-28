@@ -33,6 +33,12 @@
 
 1. [乔新亮：从程序员到 CTO 的 18 年经历与 3 类领袖特质解析](https://mp.weixin.qq.com/s/6IaPF3Fs2N4fOfX3GRRj_A)
 
+## gocn_news_2020-05-28
+- 1.Golang 源码学习：调度逻辑（四）系统调用 http://www.cnblogs.com/flhs/p/12709962.html
+- 2.基于 DDD 的 golang 实现 https://mp.weixin.qq.com/s/dVK64_v60qEUAX7kQnfSxw
+- 3.工作线程的执行流程与调度循环 http://www.cnblogs.com/flhs/p/12682881.html
+- 4.Go 反模式之越俎代庖 https://colobu.com/2020/05/26/golang-anti-pattern-yuezudaipao/
+- 5.万字破解云原生可观测性 https://mp.weixin.qq.com/s/WOWYaUeToTvzOUPEYASaug
 
 ## gopherDaily_2020-05-28
 - 1.Go与CPU缓存 - https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592
