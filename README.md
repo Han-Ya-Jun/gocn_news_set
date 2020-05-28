@@ -4,6 +4,13 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## gopherDaily_2020-05-28
+- 1.Go与CPU缓存 - https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592
+- 2.利用unsafe.Pointer的漏洞利用练习系列 - https://dev.to/jlauinger/exploitation-exercise-with-unsafe-pointer-in-go-information-leak-part-1-1kga
+- 3.Go排序：不要重新发明轮子 - https://qvault.io/2020/05/27/sorting-in-go-dont-reinvent-this-wheel/
+- 4.通过Go对PostgresSQL数据查询结果进行分页的四种常见方法 - https://medium.com/easyread/how-to-do-pagination-in-postgres-with-golang-in-4-common-ways-12365b9fb528
+- 5.stackoverflow 2020开发者调查结果出炉！- https://stackoverflow.blog/2020/05/27/2020-stack-overflow-developer-survey-results/
 ## go语言中文网(每日资讯)_2020-05-27
 一、Go语言中文网
 
