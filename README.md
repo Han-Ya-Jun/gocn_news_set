@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-28
+一、Go语言中文网
+
+1. [Go 语言是如何进行 RPC 调用的：这本新书值得购买](https://mp.weixin.qq.com/s/uEd4vDiicwHApbosWczbnw)
+
+2. [Go 语言实现的 GitHub 终端 UI — lazyhub](https://mp.weixin.qq.com/s/MxRdj0rQkkhcE3ss_o_L2A)
+
+3. [函数深度解析(下) 可变参数](https://mp.weixin.qq.com/s/zy8D-eWGLEM3sGbl60QLXQ)
+
+4. [Go 语言 Web 编程系列—— 通过 ResponseWriter 接口创建 HTTP 响应](https://mp.weixin.qq.com/s/8T-AhmcpPR7F_fOlDBAPfg)
+
+5. [Go Redis 客户端源码阅读（2）连接池初始化](https://mp.weixin.qq.com/s/9nn48bbUNNYMkRu2ddj0OA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-27）](https://studygolang.com/topics/11578)
+
+三、阿里技术
+
+1. [如何选择分布式事务解决方案？](https://mp.weixin.qq.com/s/2AL3uJ5BG2X3Y2Vxg0XqnQ)
+
+四、 aoho求索
+
+1. [彻底搞懂 etcd 系列文章（二）：etcd 的多种安装姿势](https://mp.weixin.qq.com/s/4aZ49FONm14rokbx26pz0g)
+
+五、TGO鲲鹏会
+
+1. [乔新亮：从程序员到 CTO 的 18 年经历与 3 类领袖特质解析](https://mp.weixin.qq.com/s/6IaPF3Fs2N4fOfX3GRRj_A)
+
 
 ## gopherDaily_2020-05-28
 - 1.Go与CPU缓存 - https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592
