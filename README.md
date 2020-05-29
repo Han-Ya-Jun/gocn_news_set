@@ -4,6 +4,43 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-05-29
+一、Go语言中文网
+
+1. [Go语言之父：拿过奥运银牌，发明过航天望远镜，想用Go语言解放程序员！](https://mp.weixin.qq.com/s/56FZQ7kjf6pjL72OqpgXvw)
+
+2. [Go Web 开发如何优雅的包含静态资源文件？](https://mp.weixin.qq.com/s/kcel_egOD0u_89TxU2iEdw)
+
+3. [Go：从 context 源码领悟接口的设计](https://mp.weixin.qq.com/s/3_K5NHpUtBCStpVEquPEwg)
+
+4. [Go 异常处理详解](https://mp.weixin.qq.com/s/JuGIeY5xpGQ0IOSa4g3daQ)
+
+5. [Go Redis 客户端源码阅读（3）协程间的通信](https://mp.weixin.qq.com/s/fSLmc4Fk0OiZred4MHZgXw)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-28）](https://studygolang.com/topics/11586)
+
+三、xueyuanjun
+
+1. [Go 语言 Web 编程系列（十六）—— 设置、读取和删除 Cookie](https://mp.weixin.qq.com/s/Zsjywr_ef1XGsXeRVcN1fA)
+
+四、 潘建锋
+
+1. [【译】CPU 高速缓存原理和应用](https://mp.weixin.qq.com/s/vJmMdTumB99RMf2Qguj2gg)
+
+五、火丁笔记
+
+1. [震惊！如何看待 HashiCorp 官宣，不允许中国境内使用其旗下产品？](https://mp.weixin.qq.com/s/ItKLpK4pyK_xnc1SVzMf3w)
+
+六、可乐不吃螃蟹
+
+1. [一文读懂 etcd 的 mvcc 实现](https://mp.weixin.qq.com/s/gdflt37yVloukfEzDKU_rA)
+
+七、 腾讯云容器团队
+
+1. [Registry 容器镜像服务端细节](https://mp.weixin.qq.com/s/LH1Am4rvDMfwBtl9D75iQg)
+
 ## gopherDaily_2020-05-29
 - 1.从面向对象语言到Go的旅程 - https://sergeykibish.com/blog/journey-from-oo-language-to-go/
 - 2.播客：数据库的麻烦：如何在Go中有效使用数据库 - https://changelog.com/gotime/132
