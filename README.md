@@ -41,6 +41,14 @@
 
 1. [Registry 容器镜像服务端细节](https://mp.weixin.qq.com/s/LH1Am4rvDMfwBtl9D75iQg)
 
+
+## gocn_news_2020-05-29
+- 1.Go 版本入 Dubbo 生态一周年：已和 Spring Cloud、gRPC 互通 https://gocn.vip/topics/10472
+- 2.Istio 1.6——迈向极简主义 https://mp.weixin.qq.com/s/ihsKV8on4eMv8Xa09VnxwQ
+- 3.重磅！阿里巴巴开源首个边缘计算云原生项目 OpenYurt https://mp.weixin.qq.com/s/0LwCE4CpVdttmvx4FAMArg
+- 4.ZZT in Go（使用 Pascal-to-Go 转换器） https://benhoyt.com/writings/zzt-in-go/
+- 5.Go 以及 CPU 缓存 https://medium.com/@teivah/go-and-cpu-caches-af5d32cc5592
+
 ## gopherDaily_2020-05-29
 - 1.从面向对象语言到Go的旅程 - https://sergeykibish.com/blog/journey-from-oo-language-to-go/
 - 2.播客：数据库的麻烦：如何在Go中有效使用数据库 - https://changelog.com/gotime/132
