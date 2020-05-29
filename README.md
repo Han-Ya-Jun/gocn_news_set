@@ -4,6 +4,12 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-29
+- 1.从面向对象语言到Go的旅程 - https://sergeykibish.com/blog/journey-from-oo-language-to-go/
+- 2.播客：数据库的麻烦：如何在Go中有效使用数据库 - https://changelog.com/gotime/132
+- 3.解析Hyperledger Fabric中的Protobuf - https://hackernoon.com/what-is-protobuf-in-hyperledger-fabric-explained-gk7s32fz
+- 4.vscode-go项目将迁移到golang组织下：github.com/golang/vscode-go - https://github.com/microsoft/vscode-go#we-are-moving---
+- 5.8GB版Raspberry Pi 4上市，售价：75$ - https://www.raspberrypi.org/blog/8gb-raspberry-pi-4-on-sale-now-at-75/
 ## go语言中文网(每日资讯)_2020-05-28
 一、Go语言中文网
 
