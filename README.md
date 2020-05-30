@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-30
+- 1.Go 并发编程里的数据竞争以及解决之道 https://mp.weixin.qq.com/s/PamOn3HGz3VHpIyGb5ZNaw
+
+- 2.CPU 高速缓存原理和应用【译】 https://segmentfault.com/a/1190000022785358
+
+- 3.构建 Golang 应用最小 Docker 镜像 https://juejin.im/post/5ed0b1876fb9a047e84f5dbc
+
+- 4.Go channels 与并发 https://medium.com/trendyol-tech/concurrency-and-channels-in-go-bbc4dea75286
+
+- 5.Go 开发的文本编辑器 https://github.com/zyedidia/micro
+
+
+
 ## go语言中文网(每日资讯)_2020-05-29
 一、Go语言中文网
 
