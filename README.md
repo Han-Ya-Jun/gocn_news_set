@@ -4,6 +4,12 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-05-31
+- 1.Container- 为 Go 语言而生的运行时依赖注入容器 https://segmentfault.com/a/1190000022740651
+- 2.Golang 程序调试工具介绍 (gdb vs dlv) https://www.cnblogs.com/sunsky303/p/12957078.html
+- 3.内存管理 https://mp.weixin.qq.com/s/PtGrZEkKarXuFAe_S3-8sQ
+- 4.golang 之 JWT 实现 https://segmentfault.com/a/1190000022792874
+- 5.Goland 2020.2 抢先体验计划 https://blog.jetbrains.com/go/2020/05/29/goland-2020-2-eap-is-open/
 ## gopherDaily_2020-05-31
 - 1.深入研究Go代码分析 - https://nakabonne.dev/posts/digging-deeper-into-the-analysis-of-go-code/
 - 2.在Clear Linux OS上的高性能容器化Go应用：使用Intel AVX-512指令 - https://clearlinux.org/blogs-news/performant-containerized-go-applications-intel-advanced-vector-extensions-512-clear
