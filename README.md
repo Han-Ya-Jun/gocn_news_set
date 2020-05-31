@@ -4,6 +4,13 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-05-31
+- 1.深入研究Go代码分析 - https://nakabonne.dev/posts/digging-deeper-into-the-analysis-of-go-code/
+- 2.在Clear Linux OS上的高性能容器化Go应用：使用Intel AVX-512指令 - https://clearlinux.org/blogs-news/performant-containerized-go-applications-intel-advanced-vector-extensions-512-clear
+- 3.Go测试：停止泄漏文件 - https://ieftimov.com/post/testing-in-go-stop-leaking-files/
+- 4.Go插件入门 - https://echorand.me/posts/getting-started-with-golang-plugins/
+- 5.经典旧文：Gopher puzzlers by Dave Cheneny - https://talks.godoc.org/github.com/davecheney/presentations/gopher-puzzlers.slide#1
+- 6.k9s：Kubernetes CLI工具，以“时尚”的方式管理您的集群！- https://github.com/derailed/k9s
 ## go语言中文网(每日资讯)_2020-05-30
 一、Go语言中文网
 
