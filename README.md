@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-06-01
+- 1.Go 语言的 4 个特性改动  https://segmentfault.com/a/1190000022798206
+
+- 2.[斗鱼] 没人比我更懂微服务--Go 微服务框架 Jupiter https://mp.weixin.qq.com/s/IlKeEYnDLMpkLDKUQyFLAg
+
+- 3.Go goroutine 和 channel 详解 https://juejin.im/post/5ed2873751882542fb06d3ed
+
+- 4.一行代码引起的协程泄露 https://juejin.im/post/5ed155a8518825432404019b
+
+- 5.近万字长文：goroutine 调度机制 https://mp.weixin.qq.com/s/UHX56y6jqdi1D1KKz_0SJQ
+
+
+
 ## gocn_news_2020-05-31
 - 1.Container- 为 Go 语言而生的运行时依赖注入容器 https://segmentfault.com/a/1190000022740651
 - 2.Golang 程序调试工具介绍 (gdb vs dlv) https://www.cnblogs.com/sunsky303/p/12957078.html
