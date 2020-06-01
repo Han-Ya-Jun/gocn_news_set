@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-01
+一、Go语言中文网
+
+1. [Go 和 CPU 高速缓存：原理和应用](https://mp.weixin.qq.com/s/viQp36FeMZSqUoFy3VrBNw)
+
+2. [通过这个Go开源项目，我搭建了一个属于自己的智能图片网站](https://mp.weixin.qq.com/s/ngBBO6V-R3169igoXgVEJQ)
+
+3. [gin 源码阅读（四）-- context](https://mp.weixin.qq.com/s/lUsxmBuYwQo2Wxi1gnGF6A)
+
+4. [Go net/rpc 包的深度解读和学习](https://mp.weixin.qq.com/s/Qb2D1J0OttlrMX8pJAk2Lw)
+
+5. [Go net 包里的异步 IO 实现原理分析 ](https://mp.weixin.qq.com/s/dSWwUUN2GeQZ-S7YAaOHEg)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-05-31）](https://studygolang.com/topics/11603)
+
+三、MoeLove
+
+1. [K8S 生态周报| Docker v19.03.10 正式发布](https://mp.weixin.qq.com/s/Lk0gA9c8SqU-DuWYojFZwg)
+
+四、Go Official Blog
+
+1. [关于 Golang 错误处理的一些思考​](https://mp.weixin.qq.com/s/COXrFyLYn14KMzlI55Zzgg)
+
+五、Go 101
+
+1. [介绍一款新出的Go文档阅读工具：Gold](https://mp.weixin.qq.com/s/-FzbGWMnUg8vZc3wniXnHw)
+
 ## gocn_news_2020-06-01
 - 1.Go 语言的 4 个特性改动  https://segmentfault.com/a/1190000022798206
 
