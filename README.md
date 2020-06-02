@@ -4,12 +4,7 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
-## gopherDaily_2020-06-02
-- 1.轻量级Go：以Robert Griesemer为第一作者发表的Go泛型设计论文 - https://arxiv.org/abs/2005.11710
-- 2.Go裸机RISC-V编程 - https://embeddedgo.github.io/2020/05/31/bare_metal_programming_risc-v_in_go.html
-- 3.gold: 一个实验性的Go本地文档服务器和Go文档生成工具 - https://github.com/go101/gold
-- 4.使用Go破解wordpress密码 - https://frenxi.com/cracking-wordpress-password-hash/
-- 5.基于gio的高级canvas API - https://github.com/ajstarks/giocanvas
+
 ## go语言中文网(每日资讯)_2020-06-02
 一、Go语言中文网
 
@@ -48,7 +43,18 @@
 1. [部署一套完整的Kubernetes高可用集群（上）](https://mp.weixin.qq.com/s/VYtyTU9_Dw9M5oHtvRfseA)
 
 2. [部署一套完整的Kubernetes高可用集群（下）](https://mp.weixin.qq.com/s/F9BC6GALHiWBK5dmUnqepA)
-
+## gocn_news_2020-06-2
+- 1.Go 1.14.4 和 1.13.12 版本发布 https://golangnews.org/2020/06/go-1-14-4-and-go-1-13-12-are-released/
+- 2.自动参数绑定中间件 https://gocn.vip/topics/10488
+- 3.花椒基于 Go 语言的敏感词系统架构讲解 https://mp.weixin.qq.com/s/uGFNkQ1IRdw7XG7QarSYWA
+- 4.Channel 源码阅读 https://gocn.vip/topics/10487
+- 5.探索 Go 中接口的性能 https://mp.weixin.qq.com/s/1nqpVzitGdVVvHIuk8iAeQ
+## gopherDaily_2020-06-02
+- 1.轻量级Go：以Robert Griesemer为第一作者发表的Go泛型设计论文 - https://arxiv.org/abs/2005.11710
+- 2.Go裸机RISC-V编程 - https://embeddedgo.github.io/2020/05/31/bare_metal_programming_risc-v_in_go.html
+- 3.gold: 一个实验性的Go本地文档服务器和Go文档生成工具 - https://github.com/go101/gold
+- 4.使用Go破解wordpress密码 - https://frenxi.com/cracking-wordpress-password-hash/
+- 5.基于gio的高级canvas API - https://github.com/ajstarks/giocanvas
 ## go语言中文网(每日资讯)_2020-06-01
 一、Go语言中文网
 
