@@ -4,6 +4,45 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-02
+一、Go语言中文网
+
+1. [Go 中基于 IP 地址的 HTTP 限流](https://mp.weixin.qq.com/s/qXy4cRAc1lc6BURngt-Amw)
+
+2. [花椒基于 Go 语言的敏感词系统架构讲解](https://mp.weixin.qq.com/s/uGFNkQ1IRdw7XG7QarSYWA)
+
+3. [探索 Go 中接口的性能](https://mp.weixin.qq.com/s/1nqpVzitGdVVvHIuk8iAeQ)
+
+4. [Go 基于 channel 实现连接池](https://mp.weixin.qq.com/s/BIPWPnjBUttX9PdZlgLRpg)
+
+5. [我的代码没有else之状态变换 ](https://mp.weixin.qq.com/s/IXfzcpy36OEWm7fNPRQs6g)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-01）](https://studygolang.com/topics/11611)
+
+三、Go夜读
+
+1. [【预告】第 88 期哆啦A梦—基于 Prometheus 的企业监控平台的设计与实现](https://mp.weixin.qq.com/s/BY3Qi-fxd1FSKspzkZfA7w)
+
+四、真没什么逻辑
+
+1. [为什么 Linux 默认页大小是 4KB​](https://mp.weixin.qq.com/s/rz5H5_kKul-H1Z8u0aYGcg)
+
+五、高可用架构
+
+1. [为什么 Kubernetes 变得如此流行（2020版）](https://mp.weixin.qq.com/s/eX8afP1jrhfoXkb96iNxDw)
+
+六、 金融级分布式架构
+
+1. [Service Mesh 中的可观察性实践 | 线上直播整理](https://mp.weixin.qq.com/s/yiyiM_A7n-VtHSggUyjj8w)
+
+七、 DevOps技术栈
+
+1. [部署一套完整的Kubernetes高可用集群（上）](https://mp.weixin.qq.com/s/VYtyTU9_Dw9M5oHtvRfseA)
+
+2. [部署一套完整的Kubernetes高可用集群（下）](https://mp.weixin.qq.com/s/F9BC6GALHiWBK5dmUnqepA)
+
 ## go语言中文网(每日资讯)_2020-06-01
 一、Go语言中文网
 
