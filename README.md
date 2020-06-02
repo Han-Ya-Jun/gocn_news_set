@@ -4,6 +4,12 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-06-02
+- 1.轻量级Go：以Robert Griesemer为第一作者发表的Go泛型设计论文 - https://arxiv.org/abs/2005.11710
+- 2.Go裸机RISC-V编程 - https://embeddedgo.github.io/2020/05/31/bare_metal_programming_risc-v_in_go.html
+- 3.gold: 一个实验性的Go本地文档服务器和Go文档生成工具 - https://github.com/go101/gold
+- 4.使用Go破解wordpress密码 - https://frenxi.com/cracking-wordpress-password-hash/
+- 5.基于gio的高级canvas API - https://github.com/ajstarks/giocanvas
 ## go语言中文网(每日资讯)_2020-06-02
 一、Go语言中文网
 
