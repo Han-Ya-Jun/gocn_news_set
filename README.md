@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-06-03
+- 1.小型、快速、http 框架 chi https://github.com/go-chi/chi
+
+- 2.20 张动图为你演示 Go 并发 https://learnku.com/go/t/39490
+
+- 3.golang 生成图片验证码 https://learnku.com/articles/44827
+
+- 4.Go 语言中通道死锁经典错误案例详解 https://segmentfault.com/a/1190000022820306
+
+- 5.Go 排序 https://dev.to/wagslane/sorting-in-go-don-t-reinvent-this-wheel-29bg
+
+
+
 
 ## go语言中文网(每日资讯)_2020-06-02
 一、Go语言中文网
