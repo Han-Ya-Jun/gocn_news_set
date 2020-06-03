@@ -4,6 +4,36 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-03
+一、Go语言中文网
+
+1. [为什么 Kubernetes 如此受欢迎？你学了吗？](https://mp.weixin.qq.com/s/NmcZHHikCi0IJ0gyUnVYgg)
+
+2. [你还在用官方的error库么，那就弱爆了](https://mp.weixin.qq.com/s/EBtBp-_6sFi6Ej44Gboe7Q)
+
+3. [面试官让我用channel实现sync包里的同步锁，是不是故意为难我？](https://mp.weixin.qq.com/s/7hluWWYz0xpe58zbL-jWqg)
+
+4. [Go 每日一库之 nutsdb](https://mp.weixin.qq.com/s/EAKZXkKZxCfTfqCWIEJb5Q)
+
+5. [Go 源码分析（1）：http 服务源码分析](https://mp.weixin.qq.com/s/Ogl7R99MHJYXx1x1yc5vnA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-02）](https://studygolang.com/topics/11622)
+
+三、面向信仰编程
+
+1. [为什么数据库不应该使用外键](https://draveness.me//whys-the-design-database-foreign-key)
+
+四、腾讯技术工程  
+
+1. [从入门到掉坑：Go 内存池/对象池技术介绍](https://mp.weixin.qq.com/s/SWfPV6tUC5olZgIdVabd3A)
+
+五、MQ系列
+
+1. [MQ不丢消息，究竟是怎么实现的？](https://mp.weixin.qq.com/s/1-weXF5iL6i13IhSrrIOfg)
+
+2. [面试官：消息队列这些我必问！. ](https://zhuanlan.zhihu.com/p/138624006)
 
 
 ## gopherDaily_2020-06-03
