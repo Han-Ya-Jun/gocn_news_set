@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
+## gopherDaily_2020-06-03
+- 1.如何在同类modules总选择最佳Go module - https://jfrog.com/blog/how-to-pick-a-winning-go-module/
+- 2.使用Go编写一个lexer - https://www.aaronraff.dev/blog/how-to-write-a-lexer-in-go
+- 3.比特币中的“三体”问题 - https://www.aniccaresearch.tech/blog/bitcoin-minings-three-body-problem
+- 4.使用Watermil构建事件驱动应用入门 - https://watermill.io/docs/getting-started/
+- 5.gomap: mapreduce的Go实现 - https://github.com/in4it/gomap
 ## gocn_news_2020-06-03
 - 1.小型、快速、http 框架 chi https://github.com/go-chi/chi
 
