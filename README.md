@@ -4,6 +4,29 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## go语言中文网(每日资讯)_2020-06-04
+一、Go语言中文网
+
+1. [再谈 Go Http 服务的优雅重启](https://mp.weixin.qq.com/s/fMk0fEdRpLLU-z-Q-Rhl4g)
+
+2. [Go 每日一库之 sqlc：根据 sql 生成代码](https://mp.weixin.qq.com/s/lmZTo6ZwnLjOtRxAxSLVGg)
+
+3. [Go 源码分析（2）：context 包](https://mp.weixin.qq.com/s/Hy6xDJ_-D9R73ZC4tdny6g)
+
+4. [Go 语言实现的小型、动态、快速、安全的脚本语言](https://mp.weixin.qq.com/s/bzsx8Fvc_KIAVsbh0f9Zqw)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-03）](https://studygolang.com/topics/11630)
+
+三、金融级分布式架构
+
+1. [多点生活在 Service Mesh 上的实践 | 线上直播整理](https://mp.weixin.qq.com/s/mhHnH6ZDPPs6Gr0a20WGOw)
+
+四、滴滴技术
+
+1. [五年磨一剑：滴滴顺风车服务端之稳定性规范](https://mp.weixin.qq.com/s/MtoyYxCL5caCyinAN_mqhQ)
 ## gocn_news_2020-06-04
 - 1.在 Error 中附带堆栈信息 https://rafallorenz.com/go/go-error-stack-trace/
 
