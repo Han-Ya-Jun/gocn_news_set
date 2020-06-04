@@ -15,7 +15,12 @@
 
 - 5.GORM 发布 v2 测试版本 https://pkg.go.dev/gorm.io/gorm?tab=doc
 
-
+## gopherDaily_2020-06-04
+- 1.Go unsafe类型转换和内存访问 - https://hackernoon.com/golang-unsafe-type-conversions-and-memory-access-odz3yrl
+- 2.SpaceX内的软件工程 - https://yasoob.me/posts/software_engineering_within_spacex_launch/
+- 3.Go or Rust选择指南 - https://devathon.com/blog/rust-vs-go-which-programming-language-to-choose/
+- 4.使用hugo构建分布式网站 - https://levelup.gitconnected.com/build-a-distributed-website-with-hugo-1183bb098057
+- 5.给C#开发人员的Go教程 - https://kfcampbell.com/blog/2020/go-for-csharp-people-part-one/
 
 ## go语言中文网(每日资讯)_2020-06-03
 一、Go语言中文网
