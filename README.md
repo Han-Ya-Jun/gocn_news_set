@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
+## gocn_news_2020-06-06
+- 1.在 Error 中附带堆栈信息 https://rafallorenz.com/go/go-error-stack-trace/
+- 2.实现高效字符串构建 https://medium.com/swlh/high-performance-string-building-in-go-golang-3fd99b9ca856
+- 3.Go 中实现并发数据工作流 https://towardsdatascience.com/concurrent-data-pipelines-in-golang-85b18c2eecc2
+- 4.concourse：基于 Go 和 Elm 的持续集成自动化系统 https://github.com/concourse/concourse
+- 5.GORM 发布 v2 测试版本 https://pkg.go.dev/gorm.io/gorm?tab=doc
+
 ## gopherDaily_2020-06-05
 - 1.Go编译器应该变得更聪明 - https://lemire.me/blog/2020/06/04/the-go-compiler-needs-to-be-smarter/
 - 2.关于xml包在Unmarshal时将\r\n重写为\n的问题 - https://tonybai.com/2020/06/04/the-issue-of-go-xml-package-rewrite-carriage-return/
