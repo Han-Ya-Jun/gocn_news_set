@@ -4,7 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
-
+## gopherDaily_2020-06-05
+- 1.Go编译器应该变得更聪明 - https://lemire.me/blog/2020/06/04/the-go-compiler-needs-to-be-smarter/
+- 2.关于xml包在Unmarshal时将\r\n重写为\n的问题 - https://tonybai.com/2020/06/04/the-issue-of-go-xml-package-rewrite-carriage-return/
+- 3.Go的WaitGroup == JavaScript的PromiseAll? - https://qvault.io/2020/06/04/gos-waitgroup-javascripts-promiseall/
+- 4.我如何使用OpenCensus分布式跟踪解决Jepsen测试中出现的问题的 - https://dgraph.io/blog/post/solving-jepsen-with-opencensus/
+- 5.WebAssembly是Web开发的未来吗 - https://sachinsu.github.io/posts/webassembly/
+- 6.Deno到底是什么鬼？ - https://breadth.substack.com/p/what-the-hell-is-a-deno
+- 7.为什么不要使用Kubernetes? k8s适合你的技术栈吗 - https://medium.com/better-programming/why-not-use-kubernetes-52a89ada5e22
 ## go语言中文网(每日资讯)_2020-06-04
 一、Go语言中文网
 
