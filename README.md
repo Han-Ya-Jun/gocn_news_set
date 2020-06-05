@@ -30,7 +30,7 @@
 
 1. [《Go语法树入门》开源](https://mp.weixin.qq.com/s/8LrmezyY8Koh_CfKe1E82g)
 2. [Go语法树入门](https://github.com/chai2010/go-ast-book)
-## gocn_news_2020-06-06
+## gocn_news_2020-06-05
 - 1.在 Error 中附带堆栈信息 https://rafallorenz.com/go/go-error-stack-trace/
 - 2.实现高效字符串构建 https://medium.com/swlh/high-performance-string-building-in-go-golang-3fd99b9ca856
 - 3.Go 中实现并发数据工作流 https://towardsdatascience.com/concurrent-data-pipelines-in-golang-85b18c2eecc2
