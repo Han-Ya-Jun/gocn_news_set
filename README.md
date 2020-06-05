@@ -5,7 +5,31 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go语言中文网(每日资讯)_2020-06-05
+一、Go语言中文网
 
+1. [解密为何 Go 能从众多语言中脱颖而出](https://mp.weixin.qq.com/s/OhQ85CU6Eq6WGmt5O21oxg)
+
+2. [Go 每日一库之 xorm](https://mp.weixin.qq.com/s/52JwifWt0Rx8mawLThFbTQ)
+
+3. [Go 源码分析：sync.Once](https://mp.weixin.qq.com/s/nUwvUvyVpUvPdcxixhXQKw)
+
+4. [Go并发编程里的数据竞争以及解决之道](https://mp.weixin.qq.com/s/g2OlAA_hwysMemIfLPakVg)
+
+5. [正反向代理 Golang实现](https://mp.weixin.qq.com/s/5DxN4bi674tzIe7p_rKBVQ)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-04）](https://studygolang.com/topics/11634)
+
+三、Cloud Native Community
+
+1. [云原生时代——投资人视角下的云原生趋势思考 ](https://mp.weixin.qq.com/s/I-ukdXWbZ-R8-310F0lIog)
+
+四、光谷码农
+
+1. [《Go语法树入门》开源](https://mp.weixin.qq.com/s/8LrmezyY8Koh_CfKe1E82g)
+2. [Go语法树入门](https://github.com/chai2010/go-ast-book)
 ## gocn_news_2020-06-06
 - 1.在 Error 中附带堆栈信息 https://rafallorenz.com/go/go-error-stack-trace/
 - 2.实现高效字符串构建 https://medium.com/swlh/high-performance-string-building-in-go-golang-3fd99b9ca856
