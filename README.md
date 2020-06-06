@@ -4,6 +4,38 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-06
+一、Go语言中文网
+
+1. [从零入门 K8s| 人人都能看懂 Pod 与容器设计模式](https://mp.weixin.qq.com/s/W5fKQSsgztK_2lxsTosFVw)
+
+2. [为什么提升 Go 项目的测试覆盖率有点难](https://mp.weixin.qq.com/s/5KMqKgHC7demT1WeqrAt6A)
+
+3. [Go 项目实战：计算器实现](https://mp.weixin.qq.com/s/-yJ3zZnemUI5a68Mmc5q5g)
+
+4. [Go 内存分配器的设计与实现](https://mp.weixin.qq.com/s/qS3aE9N-txVsYqRjYVLo8w)
+
+5. [Go 标准库之 sort 包](https://mp.weixin.qq.com/s/S4-QC6y-KXohaMVtna8wlQ)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-05）](https://studygolang.com/topics/11640)
+
+三、漫谈云原生
+
+1. [10个问题带你全面理解Linux性能优化](https://mp.weixin.qq.com/s/C7KDLcHUhr7QR2hq_pm4kA)
+
+四、Go 101
+
+1. [一个关于数组值比较的小测试](https://mp.weixin.qq.com/s/6NP9gPgBqm4CqQxexeP_tA)
+
+五、火丁笔记
+
+1. [一行代码引起的 Go 协程泄露](https://mp.weixin.qq.com/s/YlgIKopxFqqRoKnduoc9oA)
+
+六、 wecatch
+
+1. [你可能并不需要 k8s](https://mp.weixin.qq.com/s/raLTgUneJpBOxbv_MMPopQ)
 
 ## gopherDaily_2020-06-06
 - 1.Go语言的Unicode支持 - https://marcusnoble.co.uk/2020-05-27-unicode-support-in-go/
