@@ -4,6 +4,41 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-07
+
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 46 期](https://mp.weixin.qq.com/s/9-8Tp4Jz7SRLQiYfGTE7Tg)
+
+2. [你知道几种Go并发控制方式？](https://mp.weixin.qq.com/s/tloEYzrnKNrrAo1YKdeyrw)
+
+3. [Go 刷 LeetCode 系列：动态规划（8）盈利计划](https://mp.weixin.qq.com/s/KcTLyh0ayC_wIB1-lVX_ww)
+
+4. [关于xml包在Unmarshal时将\r\n重写为\n的问题](https://mp.weixin.qq.com/s/l_zrIfWQqPlhfUfMUaFc4Q)
+
+5. [好未来Golang源码系列七：栈内存管理原理分析](https://mp.weixin.qq.com/s/0ZliP70U0PmHEOCG1oshDg)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-06）](https://studygolang.com/topics/11647)
+
+三、aoho求索
+
+1. [彻底搞懂 etcd 系列文章（三）：etcd 集群运维部署](https://mp.weixin.qq.com/s/1BhtEb2pQNc72us_XmTwKA)
+
+四、脑子进煎鱼了
+
+1. [为什么容器内存占用居高不下，频频 OOM](https://mp.weixin.qq.com/s/qxjlntHH0FopfBcJPfw7Wg)
+
+五、不务正业的豆腐酱
+
+1. [[译]Docker镜像：第二部分-不同语言的表现](https://mp.weixin.qq.com/s/DrbDAPYEvYF3tSIcmxIscg)
+
+六、IT大咖说
+
+1. [一个开源的Go语言实现的流媒体服务器开发框架——Monibuca](https://mp.weixin.qq.com/s/rVYRE4zbAOhckMfUsiZrSw)
+
 ## gocn_news_2020-06-07
 - 1.Golang 中的函数 https://dev.to/nadirbasalamah/golang-tutorial-6-function-2i2o
 
