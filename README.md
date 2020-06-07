@@ -50,7 +50,12 @@
 
 - 5.Kubernetes 上的团队的多服务开发环境 https://github.com/tilt-dev/tilt
 
-
+## gopherDaily_2020-06-07
+- 1.Future的Go实现：无需任何依赖包 - https://appliedgo.net/futures/
+- 2.为什么DevOps工程师应该知道Go - https://ecs.co.uk/resources/why-devops-engineers-should-know-go/
+- 3.在Cloudflare我们是如何使用Hashicorp Nomad的 - https://blog.cloudflare.com/how-we-use-hashicorp-nomad/
+- 4.旧文回顾：不要在可写文件上调用defer Close() - https://www.joeshaw.org/dont-defer-close-on-writable-files/
+- 5.cat: 从普通文本文件、.docx, .odt, .pdf和.rtf文件中提取文本 - https://github.com/lu4p/cat
 
 ## go语言中文网(每日资讯)_2020-06-06
 一、Go语言中文网
