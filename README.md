@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-06-07
+- 1.Golang 中的函数 https://dev.to/nadirbasalamah/golang-tutorial-6-function-2i2o
+
+- 2.在 Linux 中使用 Go 作为脚本语言 https://dev.to/ignatk/using-go-as-a-scripting-language-in-linux-4c8c
+
+- 3.GC 垃圾回收机制 https://juejin.im/post/5eda1d665188254344768cab
+
+- 4.Go 实现的基于 3GPP R15 的开源 5G 核心网络 https://github.com/free5gc/free5gc
+
+- 5.Kubernetes 上的团队的多服务开发环境 https://github.com/tilt-dev/tilt
+
+
+
 ## go语言中文网(每日资讯)_2020-06-06
 一、Go语言中文网
 
