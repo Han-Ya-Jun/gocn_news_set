@@ -4,6 +4,42 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-08
+Go相关公众号文章每日推荐 【2020-06-08】
+
+一、Go语言中文网
+
+1. [是时候考虑搭建自己的站点了：Hugo 和 GitHub Pages 为你助力](https://mp.weixin.qq.com/s/rjy22WFcycTKDKNtrUbzqg)
+
+2. [为什么容器内存占用居高不下，频频 OOM？](https://mp.weixin.qq.com/s/odo6GVncIAuMo_3p4RWAHA)
+
+3. [温故而知新：再讲 Context](https://mp.weixin.qq.com/s/96R2oOaZyzX59Q3WU8ryiw)
+
+4. [Go Web 框架 Gin 路由的学习](https://mp.weixin.qq.com/s/Cn1C4IR7pOedwx-3-zgrFQ)
+
+5. [在 x86_64 机器上构建 arm64 docker 镜像](https://mp.weixin.qq.com/s/7Tz8tdognuulNoLPmS5DUA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-07）](https://studygolang.com/topics/11652)
+
+三、Go 夜读
+
+1. [【预告】第 89 期 Sentinel 面向云原生微服务的高可用流控防护组件](https://mp.weixin.qq.com/s/cqGY-vjfvqVRQ_jS5xlKEQ)
+
+四、 潘建锋
+
+1. [【译】为什么 Kafka 这么快？](https://mp.weixin.qq.com/s/-eajgmXuiSHFgeLiJT3KyQ)
+
+五、 码农桃花源
+
+1. [架构的腐化是必然的](https://mp.weixin.qq.com/s/lF2fvYu0lK7oZnBPn-i-GQ)
+
+六、MoeLove
+
+1. [K8S 生态周报| 几乎影响所有 k8s 集群的漏洞](https://mp.weixin.qq.com/s/4A5AH6VLLcoXxwvkJTiFDA)
+
+
 ## gopherDaily_2020-06-08
 - 1.Go项目将删除代码中的所有blacklist/whitelist、master/slave字样 - https://go-review.googlesource.com/c/go/+/236857/
 - 2.深入了解SpaceX软件团队(AMA) 
