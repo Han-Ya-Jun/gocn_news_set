@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-06-08
+- 1.为什么容器内存占用居高不下，频频 OOM https://gocn.vip/topics/10510
+
+- 2.从入门到掉坑：Go 内存池/对象池技术介绍 https://mp.weixin.qq.com/s/SWfPV6tUC5olZgIdVabd3A
+
+- 3.无需依赖包,在 Go 中实现 future https://appliedgo.net/futures/
+
+- 4.字节跳动自研强一致在线 KV &表格存储实践-下篇 https://mp.weixin.qq.com/s/DvUBnWBqb0XGnicKUb-iqg
+
+- 5.pike:通过 YAML 文件自动生成 gRPC CRUD 服务 https://github.com/sashabaranov/pike/
+
+
+
 ## go语言中文网(每日资讯)_2020-06-07
 
 
