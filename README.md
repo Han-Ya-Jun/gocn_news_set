@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-06-09
+- 1.Go CLIs 程序编写最佳实践 https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/
+
+- 2.在 Go 中使用不可变数据 https://rauljordan.com/2020/05/25/immutability-patterns-in-go.html
+
+- 3.解刨 Go 中的命名和匿名对象 https://medium.com/@nikiforos_frees/named-and-anonymous-objects-in-go-2065b2635c2
+
+- 4.如何用 Go 编写一个支持并发的 FTP 服务器 https://medium.com/better-programming/how-to-write-a-concurrent-ftp-server-in-go-part-1-3904f2e3a9e5
+
+- 5.鸭子类型、结构类型和名义类型 https://medium.com/higher-order-functions/duck-typing-vs-structural-typing-vs-nominal-typing-e0881860bf10
+
+
+
 ## go语言中文网(每日资讯)_2020-06-08
 Go相关公众号文章每日推荐 【2020-06-08】
 
