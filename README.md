@@ -4,6 +4,13 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## gopherDaily_2020-06-09
+- 1.Go项目将删除代码中的所有blacklist/whitelist、master/slave字样 - https://go-review.googlesource.com/c/go/+/236857/
+- 2.深入了解SpaceX软件团队(AMA) -https://www.reddit.com/r/spacex/comments/gxb7j1/we_are_the_spacex_software_team_ask_us_anything/
+- 3.免费的Go漏洞扫描Vscode插件 - https://hackernoon.com/free-extension-to-scan-go-vulnerabilities-in-visual-studio-code-rpax30u9
+- 4.旧文回顾：如何更快地读取文件 - https://kgrz.io/reading-files-in-go-an-overview.html#reading-file-chunks-concurrently
+- 5.Fehrist: Go实现的文档索引库 - http://blog.adnansiddiqi.me/fehrist-document-indexing-library-in-go/
 ## gocn_news_2020-06-09
 - 1.Go CLIs 程序编写最佳实践 https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/
 
