@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-06-10
+- 1.理解 Go 语言中的 Context http://golang.iswbm.com/en/latest/c04/c04_09.html
+
+- 2.Go 并发之 atomic https://mp.weixin.qq.com/s/RvFWCMX8P3VxjJrZRJZzMQ
+
+- 3.Go 语言 json 编码驼峰转下划线、下划线转驼峰 https://www.cnblogs.com/chenqionghe/p/13067596.html
+
+- 4.为什么提升 Go 项目的测试覆盖率有点难 https://mp.weixin.qq.com/s/5KMqKgHC7demT1WeqrAt6A
+
+- 5.k8s+docker 部署 Golang 项目 https://www.lifengdi.com/archives/article/1966
+
+
+
 ## go语言中文网(每日资讯)_2020-06-09
 一、Go语言中文网
 
