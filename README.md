@@ -4,6 +4,18 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-06-11
+- 1.Go 字符串转换优化 https://medium.com/a-journey-with-go/go-string-conversion-optimization-767b019b75ef
+
+- 2.VS Code Go 插件迁移到 Go 团队维护 https://golang.blog/vscode-go 
+- 3.涂鸦智能 dubbo-go 亿级流量的实践与探索 https://gocn.vip/topics/10527
+
+- 4.2020 年 7 个值得推荐的在线学习课程 https://medium.com/javarevisited/7-online-courses-to-learn-golang-or-go-programming-languages-in-2020-f599a25cf14a
+
+- 5.一个轻量的微服务/Web 服务框架 https://github.com/go-zepto/zepto
+
+
+
 ## gopherDaily_2020-06-11
 - 1.面向非Go开发人员的Go简介 - https://benhoyt.com/writings/go-intro/
 - 2.Go字符串与转换优化 - https://medium.com/a-journey-with-go/go-string-conversion-optimization-767b019b75ef
