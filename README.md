@@ -4,6 +4,41 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-11
+一、Go语言中文网
+
+1. [将 Go 项目从 Travis 迁移至 GitHub Actions](https://mp.weixin.qq.com/s/K7xW8ySbYiq9jII1KQ9PdA)
+
+2. [为什么 Gin 这么流行？一探 gin 框架路由和中间件的秘密](https://mp.weixin.qq.com/s/gt0YW9e-LvFgDCSg-u0U6w)
+
+3. [Go：原子操作和互斥锁的区别](https://mp.weixin.qq.com/s/tVT15D5IaoC9mriHfU374Q)
+
+4. [深入理解并发安全的 sync.Map](https://mp.weixin.qq.com/s/s-JbeVsymFojtv3owaGILg)
+
+5. [Go 刷 LeetCode 系列：字符串（1）Z 字形变换](https://mp.weixin.qq.com/s/RbQO7LaX1nMkvb2B0FXmRA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-10）](https://studygolang.com/topics/11669)
+
+三、 GoUpUp
+
+1. [Go 每日一库之 twirp](https://mp.weixin.qq.com/s/kd-Ukv6BK-00CU7zmLEDfw)
+
+四、HHF技术博客
+
+1. [Bilibili Kratos 框架源码分析(4) -- Kratos Log](https://mp.weixin.qq.com/s/7Q3ckI-cRh2GKMFmocM2sA)
+
+五、K8S中文社区
+
+1. [2020年-Service Mesh工具对比](https://mp.weixin.qq.com/s/wl1ISkQGc7NqXXBaXxn9lw)
+
+六、 Go Official Blog 
+
+1. [promoted Unmarshal method on embedded field caused confusion 后续](https://mp.weixin.qq.com/s/uk8cMdF2OBBzXuLk3hjjNA)
+
+
+
 ## gocn_news_2020-06-11
 - 1.Go 字符串转换优化 https://medium.com/a-journey-with-go/go-string-conversion-optimization-767b019b75ef
 
