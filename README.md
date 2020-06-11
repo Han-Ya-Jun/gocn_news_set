@@ -5,11 +5,11 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 ## gopherDaily_2020-06-11
-- 1. 面向非Go开发人员的Go简介 - https://benhoyt.com/writings/go-intro/
-- 2. Go字符串与转换优化 - https://medium.com/a-journey-with-go/go-string-conversion-optimization-767b019b75ef
-- 3. Go与Crystal语言(一种类Ruby语法的静态编程语言)的性能对比 - https://ptimofeev.com/go-vs-crystal-perfomance/
-- 4. 如何使用ConfigMaps改变日志级别 - https://blog.seriesci.com/how-to-change-the-logging-level-using-configmaps/
-- 5. sandy: 运行不受信任代码的“沙盒” - https://github.com/hobochild/sandy
+- 1.面向非Go开发人员的Go简介 - https://benhoyt.com/writings/go-intro/
+- 2.Go字符串与转换优化 - https://medium.com/a-journey-with-go/go-string-conversion-optimization-767b019b75ef
+- 3.Go与Crystal语言(一种类Ruby语法的静态编程语言)的性能对比 - https://ptimofeev.com/go-vs-crystal-perfomance/
+- 4.如何使用ConfigMaps改变日志级别 - https://blog.seriesci.com/how-to-change-the-logging-level-using-configmaps/
+- 5.sandy: 运行不受信任代码的“沙盒” - https://github.com/hobochild/sandy
 ## go语言中文网(每日资讯)_2020-06-10
 一、Go语言中文网
 
@@ -45,10 +45,10 @@
 
 
 ## gopherDaily_2020-06-10
-- 1. Go官博：VS Code Go扩展加入Go项目 - https://blog.golang.org/vscode-go
-- 2. 为什么Go在开发人员中如此受欢迎 - https://dev.to/pavanbelagatti/why-is-go-so-damn-popular-among-developers-2d6h
-- 3. Go time包的一个陷阱 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoTimeParsingTZIssue
-- 4. ffuf: 一个go实现的高性能web fuzzer，用于对HTTP头域，POST数据和URL的不同部分进行模糊测试 - https://hakin9.org/ffuf-a-fast-web-fuzzer-written-in-go/ 
+- 1.Go官博：VS Code Go扩展加入Go项目 - https://blog.golang.org/vscode-go
+- 2.为什么Go在开发人员中如此受欢迎 - https://dev.to/pavanbelagatti/why-is-go-so-damn-popular-among-developers-2d6h
+- 3.Go time包的一个陷阱 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoTimeParsingTZIssue
+- 4.ffuf: 一个go实现的高性能web fuzzer，用于对HTTP头域，POST数据和URL的不同部分进行模糊测试 - https://hakin9.org/ffuf-a-fast-web-fuzzer-written-in-go/ 
 - 5. devdash: 面向开发人员的高度可配置的终端仪表板 - https://github.com/Phantas0s/devdash
 - 6. 正则表达式完全指南 - http://www.princeton.edu/~mlovett/reference/Regular-Expressions
 ## gocn_news_2020-06-10
