@@ -49,8 +49,8 @@
 - 2.为什么Go在开发人员中如此受欢迎 - https://dev.to/pavanbelagatti/why-is-go-so-damn-popular-among-developers-2d6h
 - 3.Go time包的一个陷阱 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoTimeParsingTZIssue
 - 4.ffuf: 一个go实现的高性能web fuzzer，用于对HTTP头域，POST数据和URL的不同部分进行模糊测试 - https://hakin9.org/ffuf-a-fast-web-fuzzer-written-in-go/ 
-- 5. devdash: 面向开发人员的高度可配置的终端仪表板 - https://github.com/Phantas0s/devdash
-- 6. 正则表达式完全指南 - http://www.princeton.edu/~mlovett/reference/Regular-Expressions
+- 5.devdash: 面向开发人员的高度可配置的终端仪表板 - https://github.com/Phantas0s/devdash
+- 6.正则表达式完全指南 - http://www.princeton.edu/~mlovett/reference/Regular-Expressions
 ## gocn_news_2020-06-10
 - 1.理解 Go 语言中的 Context http://golang.iswbm.com/en/latest/c04/c04_09.html
 
