@@ -4,6 +4,12 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-06-12
+- 1.Go 1.15beta1发布：链接器有20%性能提升 - release notes：https://tip.golang.org/doc/go1.15，下载地址https://golang.org/dl/#go1.15beta1
+- 2.使用go:linkname自定义TLS 1.3密码套件 - https://www.joeshaw.org/abusing-go-linkname-to-customize-tls13-cipher-suites/
+- 3.Go和Python成为年度最受欢迎的黑客工具榜首 - https://www.imperva.com/blog/python-and-go-top-the-chart-of-2019s-most-popular-hacking-tools/
+- 4.为什么Go是DevOps专业人员的首选 - https://dzone.com/articles/why-golang-is-top-of-mind-for-devops-professionals
+- 5.SpaGO：一个用Go语言编写的机器学习库，旨在在自然语言处理任务中支持相关的神经网络体系结构 - https://github.com/nlpodyssey/spago
 ## go语言中文网(每日资讯)_2020-06-11
 一、Go语言中文网
 
