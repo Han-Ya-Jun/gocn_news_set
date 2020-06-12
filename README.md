@@ -4,6 +4,18 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-06-12
+- 1.怎样优化一个 Go 服务以减少 40% 的 CPU 使用率？https://mp.weixin.qq.com/s/pZadyJ3YUYK3Q30w8dTymw
+
+- 2.golang http 句柄泄露  https://www.sgfoot.com/curl/
+
+- 3.golang 单点登录系统（go-sso）https://segmentfault.com/a/1190000022909135 
+- 4.并发题的解题思路以及 Go 语言调度器工作原理  https://mp.weixin.qq.com/s/GhC2WDw3VHP91DrrFVCnag
+
+- 5.Kubernetes 已进入成熟期，而云原生时代则刚刚开始 https://mp.weixin.qq.com/s/I630oo7PLyi4JyKXYbI5Cg
+
+
+
 ## gopherDaily_2020-06-12
 - 1.Go 1.15beta1发布：链接器有20%性能提升 - release notes：https://tip.golang.org/doc/go1.15，下载地址https://golang.org/dl/#go1.15beta1
 - 2.使用go:linkname自定义TLS 1.3密码套件 - https://www.joeshaw.org/abusing-go-linkname-to-customize-tls13-cipher-suites/
