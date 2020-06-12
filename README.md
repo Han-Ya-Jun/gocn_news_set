@@ -4,6 +4,37 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## go语言中文网(每日资讯)_2020-06-12
+
+一、Go语言中文网
+
+1. [Go：协程，操作系统线程和 CPU 管理](https://mp.weixin.qq.com/s/vorPXhKLhMTXNIOJ8jTBuQ)
+
+2. [labix.org/mgo 连接池泄漏问题](https://mp.weixin.qq.com/s/3WGdvG1L421YcFDnMcsUNw)
+
+3. [2020重学Go系列：34. 图解静态类型与动态类型](https://mp.weixin.qq.com/s/JVEf_0RooEhiTxiV-A5H7w)
+
+4. [Go 刷 LeetCode 系列：字符串（2）搜索推荐系统 ](https://mp.weixin.qq.com/s/4Yb5lNjO4IiSE6n_KXURzQ)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-11）](https://studygolang.com/topics/11676)
+
+三、 火丁笔记
+
+1. [疫情也没有影响 Go 的脚步：Go1.15 Beta1 发布了](https://mp.weixin.qq.com/s/QZi66PuL9Za9sfPk7PhopA)
+
+四、面向信仰编程
+
+1. [处理器感知线程管理系统 · OSDI 2018](https://draveness.me//papers-arachne)
+
+五、The-Go-Security-Checklist
+
+1. [The-Go-Security-Checklist](https://www.yuque.com/attachments/yuque/0/2020/pdf/203993/1591968156823-3e34ddb8-5d05-41a5-a2f3-3f1b6b6fb2c3.pdf)
+
+
 ## gocn_news_2020-06-12
 - 1.怎样优化一个 Go 服务以减少 40% 的 CPU 使用率？https://mp.weixin.qq.com/s/pZadyJ3YUYK3Q30w8dTymw
 
