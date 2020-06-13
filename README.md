@@ -4,6 +4,32 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-13
+一、Go语言中文网
+
+1. [图解 Go 微服务中的熔断器和重试](https://mp.weixin.qq.com/s/M-H16iIt-djZilJuS3RydA)
+
+2. [从零开始入门 K8s | K8s 的应用编排与管理](https://mp.weixin.qq.com/s/zp_FUBVgF0eNtnwsu8bpoA)
+
+3. [疫情也没有影响 Go 的脚步：Go1.15 Beta1 发布了](https://mp.weixin.qq.com/s/lZXDZURpX1cfFl8r10zXPQ)
+
+4. [信号处理与Go程序的优雅退出 ](https://mp.weixin.qq.com/s/jTMhWaZnd0fuZlSrt2RqhQ)
+
+5. [Go 刷 LeetCode 系列：字符串（3）单词搜索](https://mp.weixin.qq.com/s/LWjvsfSbzDIhkRZYMMqoMw)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-12）](https://studygolang.com/topics/11683)
+
+三、脑子进煎鱼了
+
+1. [HTTP系列教程](http://suo.im/5xq0fY)
+
+四、 腾讯技术工程 
+
+1. [程序员精进之路：性能调优利器--火焰图](https://mp.weixin.qq.com/s/GFPMIJGT4x6Q_86ZZfOOpg)
+
 ## gocn_news_2020-06-13
 - 1.数据工程角度 go 与 python 的对比 https://chollinger.com/blog/2020/06/a-data-engineering-perspective-on-go-vs.-python-part-1/
 
