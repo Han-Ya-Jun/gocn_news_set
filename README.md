@@ -55,8 +55,13 @@
 
 - 5.go-kit 整体学习，微服务？https://juejin.im/post/5ee464b6f265da77095278a0
 
-
-
+## gopherDaily_2020-06-14
+-1. 意想不到的Go：Go新手心目中Go语言意想不到的行为 - https://unexpected-go.com/
+-2. Go中你不需要virtualenv - https://eli.thegreenplace.net/2020/you-dont-need-virtualenv-in-go/ 
+-3. Go应用中使用结构化日志 - https://pmihaylov.com/go-structured-logs/
+-4. 机器学习领域指南 - https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx
+-5. 代码即数学 - https://github.com/Jam3/math-as-code
+-6. x86_64 CPU架构是如何做内存寻址的 - https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory
 ## go语言中文网(每日资讯)_2020-06-13
 一、Go语言中文网
 
@@ -94,8 +99,12 @@
 
 - 5.Go1.15 发布 Beta1 版本 https://gocn.vip/topics/10541
 
-
-
+## gopherDaily_2020-06-13
+-1.JetBrains发布2020年Go语言调查报告 - https://www.jetbrains.com/lp/devecosystem-2020/go/ 中文版：https://mp.weixin.qq.com/s/A6Z3f5tIYacWFa9ounQ7aQ
+-2.Dgraph公司的Go语言持续模糊测试实践 - https://dgraph.io/blog/post/continuous-fuzzing-with-go/
+-3.从数据工程师视角看Go与Python的比较(part1) - https://chollinger.com/blog/2020/06/a-data-engineering-perspective-on-go-vs.-python-part-1/
+-4.将Go转换为Flutter和Dart - https://lupyuen.github.io/pinetime-rust-mynewt/articles/companion
+-5.使用pprof和expvar对Go http服务进行性能分析 - https://rafallorenz.com/go/go-profiling-http-service-with-pprof-and-expvar/
 
 ## go语言中文网(每日资讯)_2020-06-12
 
