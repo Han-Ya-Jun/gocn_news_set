@@ -4,6 +4,46 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-14
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 47 期](https://mp.weixin.qq.com/s/FID1hCU_ELmgu9rdtxkHZg)
+
+2. [除了 Python，Go 也成为最受欢迎的黑客工具](https://mp.weixin.qq.com/s/L_A2UM-olQPOXtk4NqIXIg)
+
+3. [Go 每日一库之 rpc：这是标准库提供的](https://mp.weixin.qq.com/s/KSLEs0bWSqOQjs7VcanhsA)
+
+4. [Go 刷 LeetCode 系列：字符串（4）逆波兰式 ](https://mp.weixin.qq.com/s/1kateiE7z_q8ak4b8zM92w)
+
+5. [煎鱼 Go Gin 系列二：初始化项目及公共库](https://mp.weixin.qq.com/s/48UlMXeDFlKgrTZAGBySXw)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-13）](https://studygolang.com/topics/11686)
+
+三、图解源码
+
+1. [从传统Paas到OAM入门篇](https://mp.weixin.qq.com/s/_ykfnMVnr-rd6rISzvB3Vg)
+
+四、菜鸟Miao  
+
+1. [Go之如何操作结构体的非导出字段](https://mp.weixin.qq.com/s/pKarrSl9_Ca582i-i6pp9A)
+
+五、董泽润的技术笔记 
+
+1. [聊聊 etcd 事务与 stm](https://mp.weixin.qq.com/s/pDAYAVQG-biV0aQeOjOtVg)
+
+六、aoho求索
+
+1. [彻底搞懂 etcd 系列文章（四）：etcd 安全](https://mp.weixin.qq.com/s/wtWk3TjDr9sds65tFHT5cQ)
+
+七、码农桃花源 
+
+1. [fasthttp 快在哪里](https://mp.weixin.qq.com/s/7gaSxmA1aqfxfbGpMeZK-A)
+
+
+
 ## gocn_news_2020-06-14
 - 1.Go 之如何操作结构体的非导出字段 https://gocn.vip/topics/10553
 
