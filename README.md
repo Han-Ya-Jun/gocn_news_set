@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-06-14
+- 1.Go 之如何操作结构体的非导出字段 https://gocn.vip/topics/10553
+
+- 2.如何将第三方服务注册集成到 Istio ？https://mp.weixin.qq.com/s/6lON6TLYVRy31R26fRDQXw
+
+- 3.Kubernetes 中 PV 和 PVC 的状态变化 https://mp.weixin.qq.com/s/wOzN26uuiBqEODKT0_QmJg
+
+- 4.golang 逃逸分析_v1.0.0 https://www.jianshu.com/p/a4b2296fc29b
+
+- 5.go-kit 整体学习，微服务？https://juejin.im/post/5ee464b6f265da77095278a0
+
+
+
 ## go语言中文网(每日资讯)_2020-06-13
 一、Go语言中文网
 
