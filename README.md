@@ -100,11 +100,11 @@
 - 5.Go1.15 发布 Beta1 版本 https://gocn.vip/topics/10541
 
 ## gopherDaily_2020-06-13
--1.JetBrains发布2020年Go语言调查报告 - https://www.jetbrains.com/lp/devecosystem-2020/go/ 中文版：https://mp.weixin.qq.com/s/A6Z3f5tIYacWFa9ounQ7aQ
--2.Dgraph公司的Go语言持续模糊测试实践 - https://dgraph.io/blog/post/continuous-fuzzing-with-go/
--3.从数据工程师视角看Go与Python的比较(part1) - https://chollinger.com/blog/2020/06/a-data-engineering-perspective-on-go-vs.-python-part-1/
--4.将Go转换为Flutter和Dart - https://lupyuen.github.io/pinetime-rust-mynewt/articles/companion
--5.使用pprof和expvar对Go http服务进行性能分析 - https://rafallorenz.com/go/go-profiling-http-service-with-pprof-and-expvar/
+- 1.JetBrains发布2020年Go语言调查报告 - https://www.jetbrains.com/lp/devecosystem-2020/go/ 中文版：https://mp.weixin.qq.com/s/A6Z3f5tIYacWFa9ounQ7aQ
+- 2.Dgraph公司的Go语言持续模糊测试实践 - https://dgraph.io/blog/post/continuous-fuzzing-with-go/
+- 3.从数据工程师视角看Go与Python的比较(part1) - https://chollinger.com/blog/2020/06/a-data-engineering-perspective-on-go-vs.-python-part-1/
+- 4.将Go转换为Flutter和Dart - https://lupyuen.github.io/pinetime-rust-mynewt/articles/companion
+- 5.使用pprof和expvar对Go http服务进行性能分析 - https://rafallorenz.com/go/go-profiling-http-service-with-pprof-and-expvar/
 
 ## go语言中文网(每日资讯)_2020-06-12
 
