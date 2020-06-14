@@ -56,12 +56,12 @@
 - 5.go-kit 整体学习，微服务？https://juejin.im/post/5ee464b6f265da77095278a0
 
 ## gopherDaily_2020-06-14
--1. 意想不到的Go：Go新手心目中Go语言意想不到的行为 - https://unexpected-go.com/
--2. Go中你不需要virtualenv - https://eli.thegreenplace.net/2020/you-dont-need-virtualenv-in-go/ 
--3. Go应用中使用结构化日志 - https://pmihaylov.com/go-structured-logs/
--4. 机器学习领域指南 - https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx
--5. 代码即数学 - https://github.com/Jam3/math-as-code
--6. x86_64 CPU架构是如何做内存寻址的 - https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory
+- 1.意想不到的Go：Go新手心目中Go语言意想不到的行为 - https://unexpected-go.com/
+- 2.Go中你不需要virtualenv - https://eli.thegreenplace.net/2020/you-dont-need-virtualenv-in-go/ 
+- 3.Go应用中使用结构化日志 - https://pmihaylov.com/go-structured-logs/
+- 4.机器学习领域指南 - https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx
+- 5.代码即数学 - https://github.com/Jam3/math-as-code
+- 6.x86_64 CPU架构是如何做内存寻址的 - https://blog.yossarian.net/2020/06/13/How-x86_64-addresses-memory
 ## go语言中文网(每日资讯)_2020-06-13
 一、Go语言中文网
 
