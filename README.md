@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## gopherDaily_2020-06-15
+- 1. Go包依赖管理简史 - https://medium.com/@czhenjupt/go-dependency-management-from-ancient-times-to-the-present-1381055e4385
+- 2. 我的Go经历 - https://bjss.shorthandstories.com/my-experience-with-go-lang/index.html
+- 3. 实施Istio的经验教训 - https://zwischenzugs.com/2020/05/05/riding-the-tiger-lessons-learned-implementing-istio/?utm_sq=gf4ivxahf3
+- 4. 云原生系统的混沌工程 - https://dev.to/umamukkara/chaos-engineering-for-cloud-native-systems-2fjn  
+- 5. Go：全局变量惹的祸 - https://medium.com/higher-order-functions/golang-its-a-global-problem-1a939461c16d
+- 6. geek-life: Go实现的为geek准备的todo list/task manager工具 - https://github.com/ajaxray/geek-life
+- 7. 讨厌Linux的原因：2020版 - https://thenewstack.io/reasons-to-hate-linux-2020-edition/
 ## go语言中文网(每日资讯)_2020-06-14
 一、Go语言中文网
 
