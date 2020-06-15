@@ -37,15 +37,21 @@
 
 1. [两种方式迁移 Docker 的默认安装(存储)目录](https://taohuawu.club/migrate-docker-installation-directory)
 
+## gocn_news_2020-06-15
+- 1.fasthttp 快在哪里 https://mp.weixin.qq.com/s/7gaSxmA1aqfxfbGpMeZK-A
+- 2.像魔法一样的 Go 反射 https://medium.com/swlh/go-reflect-works-like-a-magic-575cb0cbecc2
+- 3.golang httpserver 源码分析 https://blog.51cto.com/pmghong/2504457
+- 4.图解 Go 语言：静态类型与动态类型 https://segmentfault.com/a/1190000022931452
+- 5.Go 每日一库之 casbin https://segmentfault.com/a/1190000022931681
 
 ## gopherDaily_2020-06-15
-- 1. Go包依赖管理简史 - https://medium.com/@czhenjupt/go-dependency-management-from-ancient-times-to-the-present-1381055e4385
-- 2. 我的Go经历 - https://bjss.shorthandstories.com/my-experience-with-go-lang/index.html
-- 3. 实施Istio的经验教训 - https://zwischenzugs.com/2020/05/05/riding-the-tiger-lessons-learned-implementing-istio/?utm_sq=gf4ivxahf3
-- 4. 云原生系统的混沌工程 - https://dev.to/umamukkara/chaos-engineering-for-cloud-native-systems-2fjn  
-- 5. Go：全局变量惹的祸 - https://medium.com/higher-order-functions/golang-its-a-global-problem-1a939461c16d
-- 6. geek-life: Go实现的为geek准备的todo list/task manager工具 - https://github.com/ajaxray/geek-life
-- 7. 讨厌Linux的原因：2020版 - https://thenewstack.io/reasons-to-hate-linux-2020-edition/
+- 1.Go包依赖管理简史 - https://medium.com/@czhenjupt/go-dependency-management-from-ancient-times-to-the-present-1381055e4385
+- 2.我的Go经历 - https://bjss.shorthandstories.com/my-experience-with-go-lang/index.html
+- 3.实施Istio的经验教训 - https://zwischenzugs.com/2020/05/05/riding-the-tiger-lessons-learned-implementing-istio/?utm_sq=gf4ivxahf3
+- 4.云原生系统的混沌工程 - https://dev.to/umamukkara/chaos-engineering-for-cloud-native-systems-2fjn  
+- 5.Go：全局变量惹的祸 - https://medium.com/higher-order-functions/golang-its-a-global-problem-1a939461c16d
+- 6.geek-life: Go实现的为geek准备的todo list/task manager工具 - https://github.com/ajaxray/geek-life
+- 7.讨厌Linux的原因：2020版 - https://thenewstack.io/reasons-to-hate-linux-2020-edition/
 ## go语言中文网(每日资讯)_2020-06-14
 一、Go语言中文网
 
