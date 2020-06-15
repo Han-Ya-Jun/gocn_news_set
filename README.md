@@ -4,6 +4,39 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-15
+一、Go语言中文网
+
+1. [Dgraph 公司的 Go 语言持续模糊测试实践](https://mp.weixin.qq.com/s/NEhutHXQPAgAC-4Rl5vgug)
+
+2. [真实经历：两个月刷题，终于拿下字节跳动，总结了Go刷题模板](https://mp.weixin.qq.com/s/L_dU_CGkWCMMStGpg3Nudg)
+
+3. [Go 每日一库之 jsonrpc：来自标准库](https://mp.weixin.qq.com/s/F2JMKa9OS6lg_fcvxMu_Nw)
+
+4. [煎鱼 Go Gin 系列三：开发标签模块](https://mp.weixin.qq.com/s/tSDW9aniJe0VoZ_RhUwDHg)
+
+5. [Go 刷 LeetCode 系列：滑动窗口（9） 颜色分类](https://mp.weixin.qq.com/s/IklzFXV2EEUTFMNSOwDB6w)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-14）](https://studygolang.com/topics/11693)
+
+三、GoUpUp
+
+1. [Go 每日一库之 casbin](https://mp.weixin.qq.com/s/FPEv5DjTE-BMYwcZ6qOIFQ)
+
+四、MoeLove  
+
+1. [K8S 生态周报| Trivy 发布新版本](https://mp.weixin.qq.com/s/cZnRMAZU_NUSG0pKRc6C2A)
+
+五、 Go 夜读
+
+1. [【本周三19:30】Diagnosing Latency Issues Caused By Go’s Memory System](https://mp.weixin.qq.com/s/iq08JQddKb6AyQrskraJtA)
+
+六、一剑破万法
+
+1. [两种方式迁移 Docker 的默认安装(存储)目录](https://taohuawu.club/migrate-docker-installation-directory)
+
 
 ## gopherDaily_2020-06-15
 - 1. Go包依赖管理简史 - https://medium.com/@czhenjupt/go-dependency-management-from-ancient-times-to-the-present-1381055e4385
