@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-06-16
+- 1.pkg.go.dev开源了 - https://blog.golang.org/pkgsite
+- 2.defer的实现原理 - https://tpaschalis.github.io/defer-internals/
+- 3.播客：反射与元编程 - https://changelog.com/gotime/133
+- 4.Gorched: Go编写的基于终端的小游戏 - https://github.com/zladovan/gorched
+- 5.Beetle: kubernetes多集群部署服务 - https://github.com/Clivern/Beetle
+- 6.动画形式讲解常见算法 - https://www.chrislaux.com/
+- 7.Kubernetes原生宣言 - https://medium.com/@graemecolman/the-new-kubernetes-native-d19dd4ae75a0
 ## go语言中文网(每日资讯)_2020-06-15
 一、Go语言中文网
 
