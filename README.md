@@ -4,6 +4,20 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-06-16
+- 1. pkg.go.dev 开源了 https://mp.weixin.qq.com/s/yT1DCN5U6jrpSWen6OMuJg
+
+- 2.Go 语言中关于接口的三个 “潜规则” https://segmentfault.com/a/1190000022941494
+
+- 3.Kubernetes 服务部署最佳实践 (一) https://mp.weixin.qq.com/s/EhZ-hbb-ETQytZ8LVhYeJQ
+
+- 4.Uniapp 使用 GoEasy 实现 websocket 实时通讯 https://gocn.vip/topics/10555
+
+- 5.Golang XORM 搭配 OpenTracing+Jaeger 链路监控让 SQL 执行一览无遗（附源码）
+https://studygolang.com/topics/11701
+
+
+
 ## gopherDaily_2020-06-16
 - 1.pkg.go.dev开源了 - https://blog.golang.org/pkgsite
 - 2.defer的实现原理 - https://tpaschalis.github.io/defer-internals/
