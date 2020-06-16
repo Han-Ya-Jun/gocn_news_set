@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-16
+一、Go语言中文网
+
+1. [如何正确学习分库分表开源框架？](https://mp.weixin.qq.com/s/EiCUjtOQs3LgUQjDNZTITA)
+
+2. [类似 Go 中的表格驱动测试的步骤驱动评估](https://mp.weixin.qq.com/s/WZhioRdcAbSTWzpM61wYWw)
+
+3. [Go之如何操作结构体的非导出字段](https://mp.weixin.qq.com/s/bQXhYGJ576hSfifcYrM8iA)
+
+4. [​ 2020重学Go系列：35. 关于接口的三个"潜规则"](https://mp.weixin.qq.com/s/lWbdRLeYoK8mFLxo6smdcw)
+
+5. [煎鱼 Go Gin 系列四：开发文章模块](https://mp.weixin.qq.com/s/ONnn6jjqvwepvKTrY_2q-w)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-15）](https://studygolang.com/topics/11700)
+
+三、真没什么逻辑
+
+1. [处理器感知线程管理系统 · OSDI 2018](https://mp.weixin.qq.com/s/rhYyJ40wLNBmpMx_XlJFcQ)
+
+四、Go 夜读
+
+1. [【本周四预告】第 92 期如何用 Go 实现压力测试工具](https://mp.weixin.qq.com/s/5kzu_J-XgXstUt-4r4nWYQ)
+
+2. [pkg.go.dev 开源啦！！！](https://mp.weixin.qq.com/s/BFy4GmWhihNTeFArZopQlg)
+
+
+
 ## gocn_news_2020-06-16
 - 1. pkg.go.dev 开源了 https://mp.weixin.qq.com/s/yT1DCN5U6jrpSWen6OMuJg
 
