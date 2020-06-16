@@ -34,7 +34,7 @@
 
 
 ## gocn_news_2020-06-16
-- 1. pkg.go.dev 开源了 https://mp.weixin.qq.com/s/yT1DCN5U6jrpSWen6OMuJg
+- 1.pkg.go.dev 开源了 https://mp.weixin.qq.com/s/yT1DCN5U6jrpSWen6OMuJg
 
 - 2.Go 语言中关于接口的三个 “潜规则” https://segmentfault.com/a/1190000022941494
 
