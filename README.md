@@ -4,6 +4,39 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-17
+一、Go语言中文网
+
+1. [重磅！Go 泛型草案更新，最早在明年 8 月的 Go1.17 发布](https://mp.weixin.qq.com/s/7_En78KtmjF2n92KadUr3w)
+
+2. [终于来了：pkg.go.dev 开源了](https://mp.weixin.qq.com/s/9vnqT1rPSPCcmPxJyh50Bg)
+
+3. [煎鱼 Go Gin 系列五：使用 JWT 进行身份校验](https://mp.weixin.qq.com/s/-Wq4P6HPbwbHpojYu1e9fQ)
+
+4. [Go 每日一库之 rpcx：国人开发](https://mp.weixin.qq.com/s/G1jS-Ix77xuYqfdTolIV-w)
+
+5. [Go 刷 LeetCode 系列：经典（1） LRU缓存机制](https://mp.weixin.qq.com/s/j-vZBzBU4tXlnWOzoJA8TQ)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-16）](https://studygolang.com/topics/11710)
+
+三、云原生技术爱好者社区
+
+1. [基于helm部署Kubernetes下的高可用redis](https://mp.weixin.qq.com/s/N_5Hc8KwRsLAF-lfsBB3Dg)
+
+四、Go 夜读
+
+1. [go 2 的范型有望在 Go 1.17 发布](https://mp.weixin.qq.com/s/ECc30nioWHaxXmrpg2aBtw)
+
+五、 腾讯技术工程
+
+1. [万字详文告诉你如何做 Code Review](https://mp.weixin.qq.com/s/c3RApB8a98tWahgC9mahJg)
+
+六、鸟窝
+
+1. [Go泛型新方案 - 类型参数](https://colobu.com/2020/06/17/type-parameters-in-go-generic/)
+
 
 ## gopherDaily_2020-06-17
 - 1.重磅！Go泛型草案更新：放弃contract，使用interface实现类型参数约束 - https://blog.golang.org/generics-next-step
