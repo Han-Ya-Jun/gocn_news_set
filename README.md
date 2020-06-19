@@ -4,6 +4,41 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-18
+Go相关公众号文章每日推荐 【2020-06-19】
+
+一、Go语言中文网
+
+1. [微服务架构下 Go 包的代码组织实践](https://mp.weixin.qq.com/s/fNh9A2gyR1gb7mMTH-BdlQ)
+
+2. [漫画：一个程序员写多门语言不会记串么？](https://mp.weixin.qq.com/s/3lBcne1BM3I1JyZBGV0MLA)
+
+3. [Go 每日一库之 casbin：权限管理](https://mp.weixin.qq.com/s/3osxSJvqB-xJA3U5dRvpeQ)
+
+4. [七张图了解Kubernetes内部的架构](https://mp.weixin.qq.com/s/3sGQvicSOegHibW0I5ctBA)
+
+5. [煎鱼 Go Gin 系列七：优雅的重启服务](https://mp.weixin.qq.com/s/MUN8kY3CiKwtRG_Yo22WWQ)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-18）](https://studygolang.com/topics/11728)
+
+三、GoUpUp
+
+1. [使用 fyne 编写一个计算器程序](https://mp.weixin.qq.com/s/RioXW78zyUfhCXjKjf_dXw)
+
+四、鸟窝
+
+1. [本地运行Go泛型代码](https://colobu.com/2020/06/18/run-local-go-generic-files/)
+
+五、 Go 夜读
+
+1. [【下周二预告】第 93 期 Seata Go 分布式事务框架的介绍与实战](https://mp.weixin.qq.com/s/U5Lbr0Esz1BxV1-u8fCpzw)
+
+六、老叶茶馆
+
+1. [Linux有哪些常用的MySQL性能瓶颈分析工具](https://mp.weixin.qq.com/s/WPYsMVcfvyB1YcKGqbY-1A)
+
 
 ## gocn_news_2020-06-18
 - 1.说说 Go 语言里的空接口 https://mp.weixin.qq.com/s/33yi5qzq1r07s0dGRwjoEg
