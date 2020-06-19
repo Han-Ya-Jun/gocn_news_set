@@ -5,8 +5,6 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 ## go语言中文网(每日资讯)_2020-06-18
-Go相关公众号文章每日推荐 【2020-06-19】
-
 一、Go语言中文网
 
 1. [微服务架构下 Go 包的代码组织实践](https://mp.weixin.qq.com/s/fNh9A2gyR1gb7mMTH-BdlQ)
