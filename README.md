@@ -4,7 +4,7 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
-## go语言中文网(每日资讯)_2020-06-18
+## go语言中文网(每日资讯)_2020-06-19
 一、Go语言中文网
 
 1. [微服务架构下 Go 包的代码组织实践](https://mp.weixin.qq.com/s/fNh9A2gyR1gb7mMTH-BdlQ)
@@ -36,6 +36,48 @@
 六、老叶茶馆
 
 1. [Linux有哪些常用的MySQL性能瓶颈分析工具](https://mp.weixin.qq.com/s/WPYsMVcfvyB1YcKGqbY-1A)
+
+## gopherDaily_2020-06-19
+- 1.最新的Go泛型设计提案的简明介绍 - https://pmihaylov.com/go-generics-draft-design/
+- 2.gocker: 一个Go编写的小型Docker - https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/
+- 3.为什么你应该在server handler中使用errgroup.WithContext() - https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers/
+- 4.在浏览器中运行Go - https://speakerdeck.com/ektagarg/wasm-running-go-in-browsers
+- 5.旧文回顾：Go cache现状 - https://dgraph.io/blog/post/caching-in-go/
+- 6.super-linter: GitHub的超级Linter - https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/
+
+## gocn_news_2020-06-19
+- 1.Go 算法模板 https://github.com/greyireland/algorithm-pattern
+- 2.七天用 Go 写个 docker(连载) https://learnku.com/articles/42072
+- 3.手撸一个高性能 goroutine 池 https://xie.infoq.cn/article/f9e05237b395fc35970b40fbb
+- 4.七天用 Go 从零实现 ORM 框架 https://geektutu.com/post/geeorm.html
+- 5.快速反向代理 https://github.com/fatedier/frp
+## go语言中文网(每日资讯)_2020-06-18
+一、Go语言中文网
+
+1. [部署一个 Go 应用的正确姿势](https://mp.weixin.qq.com/s/tbEiLDL11YPUKVaAfUbOmQ)
+
+2. [Go 每日一库之 twirp：又一个 RPC 框架](https://mp.weixin.qq.com/s/yJcLDCX8q1TN6qOeXwpWAw)
+
+3. [煎鱼 Go Gin 系列六：编写一个简单的文件日志](https://mp.weixin.qq.com/s/Gsfh0oATR0nHdxW_ARywdA)
+
+4. [2020重学Go系列：36. 图解：通俗易懂解释反射三大定律](https://mp.weixin.qq.com/s/j4rEWaUd6pm7YAacGSXf3Q)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-17）](https://studygolang.com/topics/11719)
+
+三、GoUpUp
+
+1. [Go 每日一库之 fyne](https://mp.weixin.qq.com/s/pM0vQri9j4_qD1fLsvsf5g)
+
+四、 网管叨bi叨
+
+1. [七张图了解Kubernetes内部的架构](https://mp.weixin.qq.com/s/zhdl-usExsCButh9RHp8Zw)
+
+五、 小米云技术
+
+1. [小米Redis的K8s容器化部署实践](https://mp.weixin.qq.com/s/WrUU3C-C8TBgJfGuOv3qGQ)
 
 
 ## gocn_news_2020-06-18
