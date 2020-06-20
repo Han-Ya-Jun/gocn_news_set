@@ -4,6 +4,34 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
+## go语言中文网(每日资讯)_2020-06-20
+
+一、Go语言中文网
+
+1. [提前感受下：Go 新泛型设计方案详解](https://mp.weixin.qq.com/s/y5Hsx-GZk5hjtuP6G2twnw)
+
+2. [Go 每日一库之 fyne：跨平台 GUI 库](https://mp.weixin.qq.com/s/UURfZKDCVMTkrE4WAF4Uxg)
+
+3. [流量回放测试在网校1对1团队落地实践](https://mp.weixin.qq.com/s/VDFjehzJ946XsO6WjYVMpA)
+
+4. [煎鱼 Go Gin 系列八：为它加上Swagger](https://mp.weixin.qq.com/s/3t7q9yjAOHqMCVGzPxySxg)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-19）](https://studygolang.com/topics/11733)
+
+三、 淘系技术
+
+1. [如何正确地实现重试(Retry) ](https://mp.weixin.qq.com/s/Y6JM-Bf86gmyfhOCkS-rrA)
+
+四、数据分析与开发
+
+1. [Redis 性能问题分析](https://mp.weixin.qq.com/s/XJu04GSyGphXYOxmpb1YwA)
+
+
 ## gocn_news_2020-06-20
 - 1.通过内存分配来学习 go 中的机制 https://juejin.im/post/5eec0ae251882565c236bf4b
 - 2.暗黑破坏神 2 开源实现，基于 Go 开发引擎 https://github.com/OpenDiablo2/OpenDiablo2
