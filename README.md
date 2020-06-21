@@ -5,6 +5,49 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go语言中文网(每日资讯)_2020-06-21
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 48 期](https://mp.weixin.qq.com/s/9trBoRVfZJHDeosmyXKK1g)
+
+2. [Golang 定时器底层实现深度剖析](https://mp.weixin.qq.com/s/GWeuwifl8Iyew5MD62txYg)
+
+3. [煎鱼 Go Gin 系列九：将Golang应用部署到Docker](https://mp.weixin.qq.com/s/51c_VqELxEWbgq1bCwWfog)
+
+4. [Go 刷 LeetCode 系列：经典（2）拓扑排序](https://mp.weixin.qq.com/s/NWDi-LvRAvwhmhw_QItepQ)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-20）](https://studygolang.com/topics/11736)
+
+三、分布式实验室
+
+1. [Prometheus 踩坑集锦](https://mp.weixin.qq.com/s/7lDC26iwxZUEO-lrHrP1qw)
+
+四、高可用架构
+
+1. [Go 新版泛型使用：80余行代码构建一个哈希表](https://mp.weixin.qq.com/s/HR0_GRoaWY6Md_3ff-pSNQ)
+
+五、云原生技术爱好者社区
+
+1. [如何使用 Ingress-nginx 进行前后端分离？](https://mp.weixin.qq.com/s/fR_9xJgciPhGIQe_s4p_ww)
+
+## gocn_news_2020-06-21
+- 1.在双核 RISC-V 上玩转 Go 调度器 https://embeddedgo.github.io/2020/06/21/playing_with_go_schedulers_on_a_dual-core_risc-v.html
+- 2.Kubernetes 服务部署最佳实践: 如何提高服务可用性 https://gocn.vip/topics/10589
+- 3.Prometheus 踩坑集锦 https://mp.weixin.qq.com/s/7lDC26iwxZUEO-lrHrP1qw
+- 4.TiDB 异构数据库复制最佳实践 https://gocn.vip/topics/10586
+- 5.Golang 熔断器 https://blog.lpflpf.cn/passages/circuit-breaker/
+
+## gopherDaily_2020-06-21
+- 1.在双核RISC-V上的Go调度程序 - https://embeddedgo.github.io/2020/06/21/playing_with_go_schedulers_on_a_dual-core_risc-v.html
+- 2.人们对Go2泛型的效率期望和使用模式 - https://utcc.utoronto.ca/~cks/space/blog/programming/Go2GenericsExpectedEfficiency
+- 3.GO语言如何启发了我 - https://intimetec.com/us/how-the-go-programming-language-has-inspired-me/
+- 4.使用BPF研究Kubernetes的性能问题 - https://kinvolk.io/blog/2020/04/inside-kinvolk-labs-investigating-kubernetes-performance-issues-with-bpf/
+- 5.编译器入门 - https://nicoleorchard.com/blog/compilers
+- 6.Go实现的GameBoy彩色模拟器 - https://github.com/Akatsuki-py/Worldwide
 
 ## go语言中文网(每日资讯)_2020-06-20
 
