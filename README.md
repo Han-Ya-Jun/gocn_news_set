@@ -5,6 +5,46 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go语言中文网(每日资讯)_2020-06-21
+
+一、Go语言中文网
+
+1. [如何科学选择一门编程语言？理性选择，我依然选 Go](https://mp.weixin.qq.com/s/v9kHuRC6GcmCJgd6A68Wlw)
+
+2. [Go 语言源码阅读有感：no copy 机制](https://mp.weixin.qq.com/s/io12hy7xjaAMS5tZ_-aCOA)
+
+3. [为什么 Kafka 这么快？](https://mp.weixin.qq.com/s/BzAfQU68aDvXgvwTeJzRUQ)
+
+4. [煎鱼 Go Gin 系列十：定制 GORM Callbacks](https://mp.weixin.qq.com/s/03Jy6HkTjUo7Di_j-ZLl9A)
+
+5. [Go 刷 LeetCode 系列：经典（3） 设计推特](https://mp.weixin.qq.com/s/IdyBiJq0oVDop7p_kAkmWw)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-21）](https://studygolang.com/topics/11742)
+
+三、煎鱼
+
+1. [为什么容器内存占用居高不下，频频 OOM（续）](https://eddycjy.com/posts/why-container-memory-exceed2/)
+
+四、GoUpUp
+
+1. [Go 每日一库之 negroni](https://mp.weixin.qq.com/s/D4BrWswzxev8phZ9FcBBzg)
+
+五、polarisxu
+
+1. [万字长文解读 pkg.go.dev 的设计和实现](https://mp.weixin.qq.com/s/btX53JVCgfOfxDy2ynQa_A)
+
+六、 MoeLove
+
+1. [K8S 生态周报| CoreDNS 发布 v1.7.0](https://mp.weixin.qq.com/s/FVm0dfB5rZP8xaD3q8sLsw)
+
+七、云原生技术爱好者社区
+
+1. [flannel跨主网络通信方案（UDP、VXLAN、HOST-GW）详解 ](https://mp.weixin.qq.com/s/hgVAjl0q9y0osgNfYIO4ng)
+
+
 ## gocn_news_2020-06-22
 - 1.一个非侵入的Go事务管理库——工作原理 https://segmentfault.com/a/1190000022988368
 - 2.用golang实现的GameBoy Color模拟器 https://github.com/Akatsuki-py/Worldwide
