@@ -5,13 +5,19 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
-## gocn_news_2020-06-21
-- 1. 一个非侵入的Go事务管理库——工作原理 https://segmentfault.com/a/1190000022988368
-- 2. 用golang实现的GameBoy Color模拟器 https://github.com/Akatsuki-py/Worldwide
-- 3. Go Make or New 详解 https://levelup.gitconnected.com/go-make-or-new-bc19f5a57bf9
-- 4. 斗鱼 Juno 监控中心的设计与实现 https://gocn.vip/topics/10596
-- 5. Go实现的HTTP 中间件库negroni github.com/urfave/negroni
+## gocn_news_2020-06-22
+- 1.一个非侵入的Go事务管理库——工作原理 https://segmentfault.com/a/1190000022988368
+- 2.用golang实现的GameBoy Color模拟器 https://github.com/Akatsuki-py/Worldwide
+- 3.Go Make or New 详解 https://levelup.gitconnected.com/go-make-or-new-bc19f5a57bf9
+- 4.斗鱼 Juno 监控中心的设计与实现 https://gocn.vip/topics/10596
+- 5.Go实现的HTTP 中间件库negroni github.com/urfave/negroni
 
+## gopherDaily_2020-06-22
+- 1.goplus: 七牛开源的与Go语言完全兼容的面向数据科学的语言(前身：qlang)，近来登上github go趋势榜前列 - https://github.com/qiniu/goplus
+- 2.使用Go创建自己的Terraform plugin - https://vincent.composieux.fr/article/create-a-provider-plugin-for-terraform/ 
+- 3.go模板cheatsheet - https://curtisvermeeren.github.io/2017/09/14/Golang-Templates-Cheatsheet
+- 4.silq: 苏黎世联邦理工学院开发和开源的一款量子计算高级编程语言 -  https://silq.ethz.ch/
+- 5.开源贡献：成长的催化剂 - https://edidiongasikpo.com/open-source-contributions-a-catalyst-for-growth-b823fc5752b1
 
 ## go语言中文网(每日资讯)_2020-06-21
 
