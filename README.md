@@ -6,6 +6,34 @@
 # gocn_news_set_2020
 
 
+## go语言中文网(每日资讯)_2020-06-23
+一、Go语言中文网
+
+1. [Go 字符串中的潜在问题](https://mp.weixin.qq.com/s/AKPi9lEv78MYCIYMbrojvA)
+
+2. [部署一套完整的Kubernetes高可用集群（上）](https://mp.weixin.qq.com/s/pmc1ZRm3PxOAIrmPdVXggw)
+
+3. [煎鱼 Go Gin 系列十一：Cron定时任务](https://mp.weixin.qq.com/s/UgS1rbHk61OqslKvjOdi3g)
+
+4. [Go 刷 LeetCode 系列：动态规划（9）不同路径 II](https://mp.weixin.qq.com/s/Lc0jQxRtKYwhX8ZTX3stKA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-22）](https://studygolang.com/topics/11746)
+
+三、阿里技术
+
+1. [7 个建议让 Code Review 高效又高质](https://mp.weixin.qq.com/s/AejIOMNxsI_Ru5G0W8AeTg)
+
+四、轩脉刃的刀光剑影
+
+1. [chromedp入门](https://mp.weixin.qq.com/s/bfofMeKnqPOtG_CN1HCrXQ)
+
+五、polarisxu
+
+1. [苹果宣布 Mac 放弃 x86 转向 ARM：看看你要补充学习知识吗？](https://mp.weixin.qq.com/s/V6MJRPfKK3m1rNMn9hUvjw)
+
+
 ## gopherDaily_2020-06-23
 - 1.Sourcegraph公司在提升precise code intelligence工具性能方面的Go实践经验 - https://about.sourcegraph.com/blog/performance-improvements-in-precise-code-intel
 - 2.Go新泛型实验 - https://brbe.net/posts/experiments-with-go-generics/
