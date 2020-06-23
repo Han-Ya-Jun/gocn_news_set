@@ -6,6 +6,13 @@
 # gocn_news_set_2020
 
 
+## gopherDaily_2020-06-23
+- 1.Sourcegraph公司在提升precise code intelligence工具性能方面的Go实践经验 - https://about.sourcegraph.com/blog/performance-improvements-in-precise-code-intel
+- 2.Go新泛型实验 - https://brbe.net/posts/experiments-with-go-generics/
+- 3.油管视频：测试驱动Go2新泛型 - https://www.youtube.com/watch?v=O4V-s9YntNk
+- 4.go-wechaty: go实现的微信聊天机器人 - https://github.com/wechaty/go-wechaty
+- 5.反方观点：Go是一门可怕的语言 - https://pasztor.at/blog/go-is-terrible
+- 6.使用Go开发可扩展的游戏框架 - https://medium.com/tech-at-wildlife-studios/pitaya-wildlifes-golang-go-af57865f7a11
 ## gocn_news_2020-06-23
 - 1.使用 go-room 来实现边缘设备数据存储的版本管理 https://medium.com/adonmo-tech/go-room-5c1d4f46a77e
 - 2.用测试来驱动学习 Go2 泛型 https://youtu.be/O4V-s9YntNk
