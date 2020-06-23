@@ -6,6 +6,13 @@
 # gocn_news_set_2020
 
 
+## gocn_news_2020-06-23
+- 1.使用 go-room 来实现边缘设备数据存储的版本管理 https://medium.com/adonmo-tech/go-room-5c1d4f46a77e
+- 2.用测试来驱动学习 Go2 泛型 https://youtu.be/O4V-s9YntNk
+- 3.在采用 K8s 之前您必须了解的 5 件事情 https://mp.weixin.qq.com/s/mKAEzQHAmNVv4DfYQQ5iug
+- 4.Serverless 的初心、现状和未来 https://gocn.vip/topics/10604
+- 5.基于 webrtc 传输,实现 grpc 通信 https://github.com/jsmouret/grpc-over-webrtc
+
 ## go语言中文网(每日资讯)_2020-06-22
 
 一、Go语言中文网
