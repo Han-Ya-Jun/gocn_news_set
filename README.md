@@ -5,6 +5,12 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## gopherDaily_2020-06-24
+- 1.基于Go新泛型方案的错误处理实验 - https://deedlefake.com/experimenting-with-error-handling-via-generics-in-go.html
+- 2.首个中国原创项目Harbor从CNCF毕业 - https://mp.weixin.qq.com/s/-cKRF9WKEtF1mDMiiLE0Hg
+- 3.Go实现的状态机框架 - https://venilnoronha.io/a-simple-state-machine-framework-in-go
+- 4.使用Linux内核和Raspberry Pi学习操作系统开发 - https://s-matyukevich.github.io/raspberry-pi-os/
+- 5.go-envconfig: 一个通过结构体类型标记绑定方式读取环境变量的配置库 - https://github.com/sethvargo/go-envconfig
 
 ## go语言中文网(每日资讯)_2020-06-23
 一、Go语言中文网
