@@ -4,6 +4,12 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-06-24
+- 1.Gitea 1.12.0 and 1.12.1 are released https://blog.gitea.io/2020/06/gitea-1.12.0-and-1.12.1-are-released/
+- 2.CNCF 宣布首个中国原创项目 Harbor 毕业 https://mp.weixin.qq.com/s/-cKRF9WKEtF1mDMiiLE0Hg
+- 3.抽丝剥茧—Go 哈希 Map 的鬼魅神功 https://mp.weixin.qq.com/s/EPq2cAR587h4P--Jj65fBw
+- 4.Golang 定时器底层实现深度剖析 https://gocn.vip/topics/10587
+- 5.Golang 技巧之默认值的设置 https://mp.weixin.qq.com/s/juvg95GFhuhK92s1XLDLnw
 
 ## gopherDaily_2020-06-24
 - 1.基于Go新泛型方案的错误处理实验 - https://deedlefake.com/experimenting-with-error-handling-via-generics-in-go.html
