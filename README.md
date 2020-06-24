@@ -4,6 +4,39 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
+## go语言中文网(每日资讯)_2020-06-24
+
+一、Go语言中文网
+
+1. [解读 pkg.go.dev 的设计和实现：设计篇](https://mp.weixin.qq.com/s/LA3KB9Rd7kRLyc3lgSGOGQ)
+
+2. [带着问题学习微服务应用编排与管理](https://mp.weixin.qq.com/s/zNUc3lr8QFjYNgKXd9y2uw)
+
+3. [为什么容器内存占用居高不下，频频 OOM（续）](https://mp.weixin.qq.com/s/A8LyFQkeBqQSsPYKbRPelw)
+
+4. [Go 每日一库之 negroni](https://mp.weixin.qq.com/s/TwkIgdcdkhPZt0W_w9N-fg)
+
+5. [Go 刷 LeetCode 系列：动态规划（10）编辑距离](https://mp.weixin.qq.com/s/5YoYklsJAnkPdR1aA4m0KA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-23）](https://studygolang.com/topics/11752)
+
+三、GoUpUp
+
+1. [Go 每日一库之 cli](https://mp.weixin.qq.com/s/GQOFK125D4WB6DqIlv19_w)
+
+四、互联网技术窝
+
+1. [为什么Go语言不允许循环引入?](https://mp.weixin.qq.com/s/tPUwuoMjz7bF1i84IBJjdQ)
+
+五、分布式实验室
+
+1. [云原生计算基金会宣布Harbor项目正式毕业 ](https://mp.weixin.qq.com/s/iz9_uDOebHrMTzvfX_lSUA)
+
+
 ## gocn_news_2020-06-24
 - 1.Gitea 1.12.0 and 1.12.1 are released https://blog.gitea.io/2020/06/gitea-1.12.0-and-1.12.1-are-released/
 - 2.CNCF 宣布首个中国原创项目 Harbor 毕业 https://mp.weixin.qq.com/s/-cKRF9WKEtF1mDMiiLE0Hg
