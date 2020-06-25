@@ -6,6 +6,13 @@
 # gocn_news_set_2020
 
 
+
+## gocn_news_2020-06-25
+- 1.如何做压测 dbq vs sqlx vs gorm https://medium.com/@rocketlaunchr.cloud/how-to-benchmark-dbq-vs-sqlx-vs-gorm-e814caacecb5
+- 2.体验范型下的 Go 错误处理 https://deedlefake.com/experimenting-with-error-handling-via-generics-in-go.html
+- 3.功能全面的 Go 性能分析器 fgprof https://github.com/felixge/fgprof
+- 4.介绍如何在 Go 中生成和使用 kafka 消息 https://www.aaronraff.dev/blog/an-introduction-to-producing-and-consuming-kafka-messages-in-go
+- 5.Go time 格式化的一个大坑 https://utcc.utoronto.ca/~cks/space/blog/programming/GoTimeHasLocation
 ## go语言中文网(每日资讯)_2020-06-24
 
 一、Go语言中文网
