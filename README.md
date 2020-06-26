@@ -5,8 +5,12 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
-
-
+## gocn_news_2020-06-26
+- 1.简单高效的 Go Worker 池实现 https://medium.com/@in.live.in/goworkers-a-simple-efficient-worker-pool-implementation-cfda05813adb
+- 2.Golang 限流器实现 https://blog.lpflpf.cn/passages/time-limiter
+- 3.Gox 语言中用代码绘图显示在图形界面中并让它实现自动旋转效果-GX39 https://www.jianshu.com/p/30c7b847e36d
+- 4.一个用于从环境变量解析结构标记的类库 https://github.com/sethvargo/go-envconfig
+- 5.一个自定义 Go 包的 import path 的命令行工具 https://github.com/razonyang/gopkgs
 ## go语言中文网(每日资讯)_2020-06-25
 
 一、Go语言中文网
