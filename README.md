@@ -5,6 +5,35 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go语言中文网(每日资讯)_2020-06-25
+一、Go语言中文网
+
+1. [为什么你写的代码总是有 Bug？用它来保证 Go 代码质量](https://mp.weixin.qq.com/s/zY-P8tquCuVQxhLX3iu6_Q)
+
+2. [Go 开源的 pkgsite，据说是应届生代码水平？](https://mp.weixin.qq.com/s/gfAlkVW-vhdVJVkdWaX9hg)
+
+3. [Go 的 Debug 工具 delve 介绍](https://mp.weixin.qq.com/s/0w7PgGBkiR6g4aQmBZBY7Q)
+
+4. [Go 每日一库之 cli：命令行程序库](https://mp.weixin.qq.com/s/7uM4lRdJDxjYcaoIxrgKnQ)
+
+5. [煎鱼 Go Gin 系列十三：优化应用结构和实现Redis缓存](https://mp.weixin.qq.com/s/gRIZz_3opvBDT6hnzrgGoA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-25）](https://studygolang.com/topics/11759)
+
+三、polarisxu
+
+1. [面试题：如何更新 Go Module 项目的依赖 — 解决问题的方法很重要](https://mp.weixin.qq.com/s/F8_qzvLxi2uVEbVWTZpd9w)
+
+四、golang小白成长记
+
+1. [golang面试题：对已经关闭的的chan进行读写，会怎么样？为什么？](https://mp.weixin.qq.com/s/qm-8pvHBVRmLQQ4_DHc1Tw)
+
+五、felix021
+
+1. [踩坑记#2：Go服务锁死](https://mp.weixin.qq.com/s/v7B2TQDQ5zDcE2qHeao1gA)
+
 ## gocn_news_2020-06-26
 - 1.简单高效的 Go Worker 池实现 https://medium.com/@in.live.in/goworkers-a-simple-efficient-worker-pool-implementation-cfda05813adb
 - 2.Golang 限流器实现 https://blog.lpflpf.cn/passages/time-limiter
@@ -480,34 +509,4 @@ https://studygolang.com/topics/11701
 
 4. [煎鱼 Go Gin 系列三：开发标签模块](https://mp.weixin.qq.com/s/tSDW9aniJe0VoZ_RhUwDHg)
 
-5. [Go 刷 LeetCode 系列：滑动窗口（9） 颜色分类](https://mp.weixin.qq.com/s/IklzFXV2EEUTFMNSOwDB6w)
-
-二、亚军进化史
-
-1. [Go技术日报（2020-06-14）](https://studygolang.com/topics/11693)
-
-三、GoUpUp
-
-1. [Go 每日一库之 casbin](https://mp.weixin.qq.com/s/FPEv5DjTE-BMYwcZ6qOIFQ)
-
-四、MoeLove  
-
-1. [K8S 生态周报| Trivy 发布新版本](https://mp.weixin.qq.com/s/cZnRMAZU_NUSG0pKRc6C2A)
-
-五、 Go 夜读
-
-1. [【本周三19:30】Diagnosing Latency Issues Caused By Go’s Memory System](https://mp.weixin.qq.com/s/iq08JQddKb6AyQrskraJtA)
-
-六、一剑破万法
-
-1. [两种方式迁移 Docker 的默认安装(存储)目录](https://taohuawu.club/migrate-docker-installation-directory)
-
-## gocn_news_2020-06-15
-- 1.fasthttp 快在哪里 https://mp.weixin.qq.com/s/7gaSxmA1aqfxfbGpMeZK-A
-- 2.像魔法一样的 Go 反射 https://medium.com/swlh/go-reflect-works-like-a-magic-575cb0cbecc2
-- 3.golang httpserver 源码分析 https://blog.51cto.com/pmghong/2504457
-- 4.图解 Go 语言：静态类型与动态类型 https://segmentfault.com/a/1190000022931452
-- 5.Go 每日一库之 casbin https://segmentfault.com/a/1190000022931681
-
-## gopherDaily_2020-06-15
-- 1.Go包依赖管理简史
+5. [Go 刷 LeetCode 系列：滑动窗
