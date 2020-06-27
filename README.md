@@ -4,6 +4,39 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-27
+一、Go语言中文网
+
+1. [受 express.js 启发，用 20 行代码写出更清晰易用的 Go 中间件 API](https://mp.weixin.qq.com/s/YYbnN0cOtv4YoxBW6Ol_8g)
+
+2. [Go 技巧之函数默认值的设置](https://mp.weixin.qq.com/s/762CaQrH9oBJ-tRFfT3X2w)
+
+3. [Go 每日一库之 chromedp 入门](https://mp.weixin.qq.com/s/kGq2TZWyFPkgw8XyHtetmA)
+
+4. [煎鱼 Go Gin 系列十四：实现导出、导入 Excel](https://mp.weixin.qq.com/s/olllj0jCXE5CJML0XPO5NA)
+
+5. [Go 刷 LeetCode 系列：字符串（5）添加与搜索单词 - 数据结构设计](https://mp.weixin.qq.com/s/HnxGVO4enWHxxJSR41I_aA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-26）](https://studygolang.com/topics/11762)
+
+三、polarisxu
+
+1. [面试题：如何更新 Go Module 项目的依赖 — 解决问题的方法很重要](https://mp.weixin.qq.com/s/F8_qzvLxi2uVEbVWTZpd9w)
+
+四、新亮笔记
+
+1. [重构业务系统，我是这样做的](https://mp.weixin.qq.com/s/v8R_esetYlRvf-mhVLQ0Rw)
+
+五、GoUpUp
+
+1. [Go 每日一库之 cron](https://mp.weixin.qq.com/s/Ak7RBv1NuS-VBeDNo8_fww)
+
+六、wecatch
+
+1. [架构的设计模式：层次架构](https://mp.weixin.qq.com/s/AkorucTdk7U6PqB-VbBAhw)
+
 ## gocn_news_2020-06-27
 - 1.Golang bytes.buffer 详解 https://juejin.im/post/5ef3108af265da22a77c3a5c
 
