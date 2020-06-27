@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-06-27
+- 1.Golang bytes.buffer 详解 https://juejin.im/post/5ef3108af265da22a77c3a5c
+
+- 2.面向服务治理的 Golang 微服务框架 https://github.com/douyu/jupiter
+
+- 3.GORM 源码解读 https://segmentfault.com/a/1190000022987438
+
+- 4.连续文件同步 https://github.com/syncthing/syncthing
+
+- 5.用 pprof 找出程序性能瓶颈 https://learnku.com/articles/45711
+
+
+
 
 ## go语言中文网(每日资讯)_2020-06-26
 一、Go语言中文网
