@@ -4,6 +4,8 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
 ## go语言中文网(每日资讯)_2020-06-28
 一、Go语言中文网
 
@@ -32,6 +34,15 @@
 五、 陈思敏捷
 
 1. [Go：gsignal，信号大师](https://mp.weixin.qq.com/s/31VcSVlaGpAPASdWHZ_4CA)
+
+
+
+## gocn_news_2020-06-28
+- 1.高性能 JSON https://dave.cheney.net/high-performance-json.html
+- 2.钻研 Go 命令行应用 https://dev.to/erybz/diving-into-go-by-building-a-cli-application-28k9
+- 3.Go 中常见的三个问题 https://medium.com/higher-order-functions/golang-three-common-programming-problems-3ef8baf006af
+- 4.Go 限流器的使用和实现 https://segmentfault.com/a/1190000023033365
+- 5.Go 每日一库之 cron https://juejin.im/post/5ef6eed9f265da22a8513d57
 
 ## go语言中文网(每日资讯)_2020-06-27
 一、Go语言中文网
