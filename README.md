@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-06-28
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 49 期](https://mp.weixin.qq.com/s/XYem9MGzxt3rnWEtGl0EVg)
+
+2. [在 GoLand 中使用自定义动态模板高效编程](https://mp.weixin.qq.com/s/MO4AVhHhTSyMC9MnRareZw)
+
+3. [煎鱼 Go Gin 系列十五：生成二维码、合并海报](https://mp.weixin.qq.com/s/p0CnnFNph9Da68D2JAdztA)
+
+4. [Golang 限流器的使用和实现](https://mp.weixin.qq.com/s/BqI29bliBM5y5j5lvtX8NQ)
+
+5. [小米大佬走进 Go 之 Channel 的使用](https://mp.weixin.qq.com/s/HPgGVGaeZVYc6Q8YF6bDWg)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-27）](https://studygolang.com/topics/11764)
+
+三、架构头条
+
+1. [真正支配世界的十种算法](https://mp.weixin.qq.com/s/9ysAT4WqIkAMKNlQOb9CQg)
+
+四、polarisxu
+
+1. [白话布隆过滤器](https://mp.weixin.qq.com/s/B2L_owH5vIaXuXvnGxq0kQ)
+
+五、 陈思敏捷
+
+1. [Go：gsignal，信号大师](https://mp.weixin.qq.com/s/31VcSVlaGpAPASdWHZ_4CA)
+
 ## go语言中文网(每日资讯)_2020-06-27
 一、Go语言中文网
 
