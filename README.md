@@ -37,6 +37,15 @@
 
 
 
+## gopherDaily_2020-06-28
+- 1.构建一个高性能json parser by Dave Cheney - https://dave.cheney.net/high-performance-json.html
+- 2.beego v2路线图 - https://github.com/astaxie/beego/issues/4035
+- 3.Go编程中常见的3个问题 - https://medium.com/higher-order-functions/golang-three-common-programming-problems-3ef8baf006af
+- 4.gonum数值计算包入门 - https://www.gonum.org/post/intro_to_gonum/
+- 5.goarrange: 根据godoc约定规则实现的Go源码布局工具, 常量排在第一位，其次是变量，函数和类型及其关联的常量，变量，函数和方法，强制按字母序布局 - https://github.com/jdeflander/goarrange
+- 6trubka: 用于kafka管理的命令行工具 - https://github.com/xitonix/trubka
+- 7.基于Markdown格式的电子书生成工具大比拼：gohugo、mdbook和peach - https://tonybai.com/2020/06/27/gohugo-vs-mdbook-vs-peach
+
 ## gocn_news_2020-06-28
 - 1.高性能 JSON https://dave.cheney.net/high-performance-json.html
 - 2.钻研 Go 命令行应用 https://dev.to/erybz/diving-into-go-by-building-a-cli-application-28k9
