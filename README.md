@@ -6,6 +6,12 @@
 # gocn_news_set_2020
 
 
+## gopherDaily_2020-06-29
+- 1.编写Go慢程序 - https://bitfieldconsulting.com/golang/slower
+- 2.在不使用Cookie的情况下进行服务器端跟踪 - https://marvinblum.de/blog/server-side-tracking-without-cookies-in-go-OxdzmGZ1Bl
+- 3.为什么应该在每个包中定义interface - https://github.com/Evertras/go-interface-examples/tree/master/local-interfaces
+- 4.K8s中使用wireguard - https://blog.levine.sh/14058/wireguard-on-k8s-road-warrior-style-vpn-server
+- 5.foam: 个人知识管理和分享的工具(基于vscode) - https://github.com/foambubble/foam
 ## go语言中文网(每日资讯)_2020-06-28
 一、Go语言中文网
 
