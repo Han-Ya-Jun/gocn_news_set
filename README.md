@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-06-30
+- 1.Go：数据库连接池 https://mp.weixin.qq.com/s/auERzyGcuY0C2bvAisy2fQ
+
+- 2.走进 Golang 之 Channel 的数据结构 https://juejin.im/post/5efa9510e51d45349e2545f6
+
+- 3.原生 Go（golang）图形界面系统（2D 和 3D），基于 GoKi 树框架 https://github.com/goki/gi
+
+- 4.百度开源项目 BFE 成为 CNCF 沙箱项目 https://mp.weixin.qq.com/s/AnopPvBlxzL62fpSJBM6Cg
+
+- 5.基于 Chaos Mesh® 和 Argo 打造分布式测试平台 https://mp.weixin.qq.com/s/yhF0XZfpYP8goIikU3yeJw
+
+
+
 
 
 ## go语言中文网(每日资讯)_2020-06-29
