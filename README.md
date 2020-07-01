@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-01
+一、Go语言中文网
+
+1. [理解 Docker 很好的教程：用 Go 从头实现一个迷你 Docker — Gocker](https://mp.weixin.qq.com/s/P9bVFtXeduZ8Lv-0vFaXAg)
+
+2. [推荐两本国人在 GitHub 开源的图书](https://mp.weixin.qq.com/s/o_5tzX_V7qbuChEwtnH_ng)
+
+3. [Golang 交叉编译如何做？](https://mp.weixin.qq.com/s/MKsiedW6Dgdw29fxyLoZFQ)
+
+4. [图解Knative核心组件Serving基础设计](https://mp.weixin.qq.com/s/DaQsvvGVwuHGrRO5GZL-8g)
+
+5. [Go 刷 LeetCode 系列：经典（5)设计哈希集合](https://mp.weixin.qq.com/s/_Eqdilg7PhJSMt8KJsdqdA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-30）](https://studygolang.com/topics/11786)
+
+三、 一艘慢船
+
+1. [Go 编程: routine, 这个压箱底的库可以推荐一下了](https://mp.weixin.qq.com/s/W2kAUzmeERWQVSZXZ5TUSQ)
+
+四、polarisxu
+
+1. [专为 Gopher 准备的 Markdown 教程](https://mp.weixin.qq.com/s/8wz4U2DakVsU4tMoO-ultA)
+
+五、图解源码
+
+1. [kubernetes中的锁机制设计与实现](https://mp.weixin.qq.com/s/OkusIaObYPhqguTUAlEvLQ)
+
 
 ## gopherDaily_2020-07-01
 - 1.Go草案：将```// +build```的构建标记改为使用标准布尔表达式语法的```//go:build```标记 - https://github.com/golang/proposal/blob/master/design/draft-gobuild.md
