@@ -6,6 +6,13 @@
 # gocn_news_set_2020
 
 
+## gocn_news_2020-07-01
+- 1.Go build 设计草案https://go.googlesource.com/proposal/+/master/design/draft-gobuild.md
+- 2.Go+ 发布 weekly release: v0.6.50 https://mp.weixin.qq.com/s/BkVEuPGDPxYd1xQ_2YrHxQ
+- 3.Go HTTP 重用底层 TCP 连接需要注意的关键点 https://gocn.vip/topics/10626
+- 4.为什么需要 context 包 https://github.com/webtao520/golang_project/tree/master/%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81context%E5%8C%85
+- 5.Go 编程指南电子书 https://www.digitalocean.com/community/books/how-to-code-in-go-ebook
+
 ## go语言中文网(每日资讯)_2020-06-30
 
 一、Go语言中文网
