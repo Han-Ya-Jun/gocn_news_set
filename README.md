@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
+## gopherDaily_2020-06-30
+- 1.通过WebAssembly学习Go编程 - https://www.aaron-powell.com/posts/2019-02-04-golang-wasm-1-introduction/
+- 2.如何基于私有仓库构建go docker镜像 - https://akondas.com/Tales-of-Docker-and-Go,-Part-I-Private/
+- 3.使用图形化方式理解Go代码 - https://www.jazzcoding.com/a-brand-new-way-to-understand-your-code/
+- 4.在Kubernetes中运行Postgres数据库服务 - https://static.sched.com/hosted_files/ossna2020/fc/Running%20Postgres-as-a-Service%20in%20Kubernetes.pdf
+- 5.从WordPress迁移到gohugo - https://itnext.io/how-we-improved-performance-and-scored-100-100-by-migrating-to-hugo-s3-and-amp-step-by-step-d59283f8ae4b
+- 6.自从微软收购GITHUB以来，其服务中断和停机的次数更多了吗？ - https://nimbleindustries.io/2020/06/04/has-github-been-down-more-since-its-acquisition-by-microsoft/
+- 7.印度媒体指责一款名为“Golang”的恶意程序来自中国黑客之手 - https://www.nationalheraldindia.com/science-and-tech/chinese-malware-golang-targeting-windows-linux-machines
 ## gocn_news_2020-06-30
 - 1.Go：数据库连接池 https://mp.weixin.qq.com/s/auERzyGcuY0C2bvAisy2fQ
 
