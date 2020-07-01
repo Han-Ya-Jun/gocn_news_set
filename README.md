@@ -6,6 +6,40 @@
 # gocn_news_set_2020
 
 
+## go语言中文网(每日资讯)_2020-06-30
+
+一、Go语言中文网
+
+1. [让腾讯、字节跳动放弃 Python 的 Go 微服务，凭什么？](https://mp.weixin.qq.com/s/UKx8HwsUO3QaCaebSLF3nQ)
+
+2. [小米大佬走进Golang之Channel的数据结构](https://mp.weixin.qq.com/s/TzNDqocj2I3wxVjWx3uTvg)
+
+3. [煎鱼 Go Gin 系列十七：用Nginx部署Go应用](https://mp.weixin.qq.com/s/b64e2giuHwNzxFuNZ8ufPA)
+
+4. [基于Markdown格式的电子书生成工具大比拼：gohugo、mdbook和peach](https://mp.weixin.qq.com/s/ZSUC70ASEEEEXdF4Z4WG7A)
+
+5. [Go 刷 LeetCode 系列：经典（4） 实现跳表](https://mp.weixin.qq.com/s/9IJRJcRz5WiCUqxScYkVrQ)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-06-29）](https://studygolang.com/topics/11779)
+
+三、阿里巴巴中间件
+
+1. [饿了么4年 + 阿里2年：研发路上的一些总结与思考](https://mp.weixin.qq.com/s/xEUuWedz0QXeXx9pcJlu4w)
+
+四、polarisxu
+
+1. [Go 语言 Web 框架 Echo 系列：基础篇—搭建 Echo 开发环境](https://mp.weixin.qq.com/s/DuEGITdOYHYOXk-v-u2V5A)
+
+五、HHF技术博客
+
+1. [限流器系列(1) -- Leaky Bucket 漏斗桶](https://mp.weixin.qq.com/s/5cUZO2ZXuWPc1ukJCAn_zQ)
+
+六、 wecatch
+
+1. [架构的设计模式：事件驱动](https://mp.weixin.qq.com/s/3QQXn-t_HZpZBgCbaaAjmw)
+
 ## gopherDaily_2020-06-30
 - 1.通过WebAssembly学习Go编程 - https://www.aaron-powell.com/posts/2019-02-04-golang-wasm-1-introduction/
 - 2.如何基于私有仓库构建go docker镜像 - https://akondas.com/Tales-of-Docker-and-Go,-Part-I-Private/
