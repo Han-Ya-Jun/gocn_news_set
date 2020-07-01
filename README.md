@@ -5,7 +5,13 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
-
+## gopherDaily_2020-07-01
+- 1.Go草案：将```// +build```的构建标记改为使用标准布尔表达式语法的```//go:build```标记 - https://github.com/golang/proposal/blob/master/design/draft-gobuild.md
+- 2.为何以及如何使用Go系列- 工具篇 - http://okigiveup.net/the-how-and-why-of-go-part-1-tooling/
+- 3.safehtml: go安全html模板引擎 - https://github.com/google/safehtml
+- 4.Redis之父antirez退出redis项目维护，后续将以顾问角色继续推动redis发展 - http://antirez.com/news/133
+- 5.goc是适用于Go编程语言的全面的覆盖率测试系统 - https://github.com/qiniu/goc
+- 6.Kubernetes集群控制平台负载均衡方案 - https://kube-vip.io/control-plane/
 ## gocn_news_2020-07-01
 - 1.Go build 设计草案https://go.googlesource.com/proposal/+/master/design/draft-gobuild.md
 - 2.Go+ 发布 weekly release: v0.6.50 https://mp.weixin.qq.com/s/BkVEuPGDPxYd1xQ_2YrHxQ
