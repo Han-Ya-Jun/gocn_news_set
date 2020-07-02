@@ -4,6 +4,40 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
+## go语言中文网(每日资讯)_2020-07-02
+一、Go语言中文网
+
+1. [为什么现在大厂都在用 Kubernetes？](https://mp.weixin.qq.com/s/_7tLoQlzqgT_dCRdhOjkMg)
+2. [使用 Go GUI 库 fyne 编写一个计算器程序](https://mp.weixin.qq.com/s/VrTFMhpYvzr78ULqsQ15Sw)
+3. [Go 项目推荐之 go-admin](https://mp.weixin.qq.com/s/eDAnjzxxrJ4GZ3W04R0OXA)
+4. [Go 限流器实战系列(1) -- Leaky Bucket 漏斗桶](https://mp.weixin.qq.com/s/NGTrxcmh7PkDtYCCIEUnCA)
+5. [kubernetes中的锁机制设计与实现](https://mp.weixin.qq.com/s/UPcvaUKehYSP8tNoX2tZGg)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-01）](https://studygolang.com/topics/11792)
+
+三、架构之美
+
+1. [细谈八种架构设计模式及其优缺点概述](https://mp.weixin.qq.com/s/fFC2JBl9mPj4T9Yf_LJv-A)
+
+四、董泽润的技术笔记
+
+1. [聊聊 tcp keepalive](https://mp.weixin.qq.com/s/ffz51dMtDVgY1GsCw1HBOw)
+2. [小白的 redis: 11 streams](https://mp.weixin.qq.com/s/U_ZJWCYHCqvWJNxzv7H8Ww)
+
+## gocn_news_2020-07-02
+- 1.它来了它终于来了- Beego 1.12.2 https://gocn.vip/topics/10638
+
+- 2.go 调试利器-delve https://mp.weixin.qq.com/s/S1Vsm3xHjrSYtMZVTSrOvw
+
+- 3.Go 开发中，如何有效控制 Goroutine 的并发数量 https://tech.ctrip.com/uncategorized/4571/
+
+- 4.聊聊 canal-go 的 SimpleCanalConnector https://segmentfault.com/a/1190000023070174
+
+- 5.gopls v0.4.2 改进对 cgo 的支持 https://github.com/golang/tools/releases/tag/gopls%2Fv0.4.2
 ## gocn_news_2020-07-02
 - 1.它来了它终于来了- Beego 1.12.2 https://gocn.vip/topics/10638
 
