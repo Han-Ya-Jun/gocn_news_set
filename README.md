@@ -4,6 +4,13 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## gopherDaily_2020-07-02
+- 1.Go与轻量级DDD - https://threedots.tech/post/ddd-lite-in-go-introduction/
+- 2.Go泛型介绍 on LWN.net - https://lwn.net/SubscriberLink/824716/ee9bbbfad58cef3d/
+- 3.编程纯洁性：Go中的纯函数 - https://hackernoon.com/purity-in-my-programming-pure-functions-in-go-c21m3u2z
+- 4.播客：Google实习生的Go学习使用历程 - https://changelog.com/gotime/134
+- 5.经典旧文：Go在Google by Rob Pike - https://www.infoq.com/presentations/Go-Google/
 ## go语言中文网(每日资讯)_2020-07-01
 一、Go语言中文网
 
