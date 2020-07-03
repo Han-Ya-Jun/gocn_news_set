@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-07-03
+- 1.从别人的代码中学习 golang 系列--01 https://www.cnblogs.com/zhaof/p/13223912.html
+
+- 2.为 Gopher 准备的 Markdown 教程 https://mp.weixin.qq.com/s/8wz4U2DakVsU4tMoO-ultA
+
+- 3.go-实现一个简单的 DSL 解释器 http://mrw.so/5trVX4
+
+- 4.Kubernetes 入门实践--部署运行 Go 项目 https://mp.weixin.qq.com/s/uruu3qbpSLbTRJJRcWTYqg
+
+- 5.无聊却又很棒的 go! https://www.capitalone.com/tech/software-engineering/go-is-boring/
+
+
+
 
 
 ## go语言中文网(每日资讯)_2020-07-02
