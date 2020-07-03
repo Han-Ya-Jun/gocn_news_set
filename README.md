@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-07-03
+- 1.Go很无聊，这太棒了：深入探究世界为何依赖简单、可靠且易于理解的技术 - https://www.capitalone.com/tech/software-engineering/go-is-boring/
+- 2.Go安全html模板引擎介绍 - https://blogtitle.github.io/go-safe-html/
+- 3.构建高性能json parser的历程 - https://github.com/ohler55/ojg/blob/master/design.md
+- 4.Dgraph数据库语义：https://www.ardanlabs.com/blog/2020/06/dgraph-database-semantics.html
+- 5.油管视频：为什么Go Fiber是值得学习的新(Web)框架 - https://www.youtube.com/watch?v=kvwsPeWDLM8
+
+
 ## gocn_news_2020-07-03
 - 1.从别人的代码中学习 golang 系列--01 https://www.cnblogs.com/zhaof/p/13223912.html
 
