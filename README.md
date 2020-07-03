@@ -4,6 +4,41 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## go语言中文网(每日资讯)_2020-07-03
+一、Go语言中文网
+
+1. [重磅！史上第一本带你做项目的 Go 图书开卖](https://mp.weixin.qq.com/s/PRn0dgTn2MRxrpJ35yBjWA)
+
+2. [手把手教你配置VS Code远程开发工具，工作效率提升N倍](https://mp.weixin.qq.com/s/-tDTeK_kGUyK4QJAFtQ49g)
+
+3. [Go 中的配置信息都是怎么进行处理的？](https://mp.weixin.qq.com/s/7sQCP7vNZ8NJISO73NatQQ)
+
+4. [Kubernetes入门实践--部署运行Go项目](https://mp.weixin.qq.com/s/rx22Jx3C8Sp42vwLxr55lw)
+
+5. [Go 刷 LeetCode 系列：经典（6） 实现跳表](https://mp.weixin.qq.com/s/a93ccz1XGaTucruCa9vx8A)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-02）](https://studygolang.com/topics/11800)
+
+三、有点技术
+
+1. [tekton入门-tasks](https://mp.weixin.qq.com/s/XM6K_T-pB10fSrQoN5VbCA)
+
+2. [tekton入门-起步](https://mp.weixin.qq.com/s/_kZqZwNIjxIsaWf921I02Q)
+
+四、InfoQ
+
+1. [Go 语言之父：四十年软件开发巨变与 Go 的过去和未来](https://mp.weixin.qq.com/s/j8ASCvWc0pf-ZBo_A_N4HA)
+
+2. [Redis之父退出开源项目维护：人生苦短不想上班.](https://mp.weixin.qq.com/s/RuRizLwmDxWq1_TxiX9apQ) 
+
+五、polarisxu
+
+1. [Go 语言 Web 框架 Echo 系列：基础篇—Echo 核心亮点介绍](https://mp.weixin.qq.com/s/ltGJIV3VwnJu4DwLm78yUw)
+
+
 ## gopherDaily_2020-07-03
 - 1.Go很无聊，这太棒了：深入探究世界为何依赖简单、可靠且易于理解的技术 - https://www.capitalone.com/tech/software-engineering/go-is-boring/
 - 2.Go安全html模板引擎介绍 - https://blogtitle.github.io/go-safe-html/
