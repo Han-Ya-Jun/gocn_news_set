@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-07-04
+- 1.手把手教你实现Go国际化（i18n）和本地化（l10n）- https://phrase.com/blog/posts/internationalization-i18n-go/
+- 2.Newsqueak到Go：从代码看Go语言的历史 - https://seh.dev/go-legacy/
+- 3.crossplane加入CNCF - https://blog.crossplane.io/crossplane-joins-cncf/
+- 4.Go并发介绍(新手入门) - https://therebelsource.com/blog/an-introduction-to-concurrency-in-go-as-a-beginner/wBHuGLZRt0l
+- 5.biogo: Go语言的生物信息学库 - https://github.com/biogo/biogo
+- 6.在浏览器中学习卷积神经网络(可解释性) - https://poloclub.github.io/cnn-explainer/
+
+
 
 ## go语言中文网(每日资讯)_2020-07-03
 一、Go语言中文网
