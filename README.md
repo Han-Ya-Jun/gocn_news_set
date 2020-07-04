@@ -4,6 +4,37 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-04
+一、Go语言中文网
+
+1. [阿里容器平台技术专家深入讲解 K8S 应用编排与管理](https://mp.weixin.qq.com/s/eP4He7BwyqHJowB0lV4pzg)
+
+2. [用 10 分钟了解 Go 语言 context 包使用场景](https://mp.weixin.qq.com/s/-tDTeK_kGUyK4QJAFtQ49g)
+
+3. [Go 编程: routine, 这个压箱底的库推荐一下](https://mp.weixin.qq.com/s/-vuqabGq-jfkGRQ3F4xAGg)
+
+4. [更好的理解 MySQL（1）：查询和更新的内部实现](https://mp.weixin.qq.com/s/0DmqFt6GVO3rY-6XRd5Ztg)
+
+5. [优化算法的常用方法，你不会不知道吧？](https://mp.weixin.qq.com/s/_snoO7I0-S5Xn0fRY1jgPw)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-03）](https://studygolang.com/topics/11811)
+
+三、有点技术
+
+1. [tekton入门-pipline](https://mp.weixin.qq.com/s/TApkdIVpJP2oB-Mq5GDMyA)
+
+2. [tekton入门-PipelineRun](https://mp.weixin.qq.com/s/Z8IW1n5TVt6kTLMLRxGK-Q)
+
+四、脑子进煎鱼了
+
+1. [新书《Go 语言编程之旅》出版啦！](https://mp.weixin.qq.com/s/vDUwenmkRfguLkn2NJ_NjA)
+
+五、菜鸟Miao
+
+1. [Dig101-Go之深入理解mutex](https://mp.weixin.qq.com/s/nTq_mYysUuY7YjCSVEubAQ)
+
 ## gopherDaily_2020-07-04
 - 1.手把手教你实现Go国际化（i18n）和本地化（l10n）- https://phrase.com/blog/posts/internationalization-i18n-go/
 - 2.Newsqueak到Go：从代码看Go语言的历史 - https://seh.dev/go-legacy/
