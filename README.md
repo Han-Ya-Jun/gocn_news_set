@@ -44,6 +44,12 @@
 - 6.在浏览器中学习卷积神经网络(可解释性) - https://poloclub.github.io/cnn-explainer/
 
 
+## gocn_news_2020-07-04
+- 1.Go 实现百万级缓存服务 https://allegro.tech/2016/03/writing-fast-cache-service-in-go.html
+- 2.go-admin 管理系统脚手架视频教程 https://v2ex.com/t/687200#reply0
+- 3.从零开始入门 K8s | 深入剖析 Linux 容器 https://gocn.vip/topics/10618
+- 4.使用 TiDB 作为 ZaloPay 商户平台核心数据库 https://gocn.vip/topics/10645
+- 5.字节跳动自研强一致在线 KV &表格存储实践 - 上篇 https://mp.weixin.qq.com/s/jdPE9WClBuimIHVxJnwwUw
 
 ## go语言中文网(每日资讯)_2020-07-03
 一、Go语言中文网
