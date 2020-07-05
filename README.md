@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
+
+## gocn_news_2020-07-05
+- 1.B 站新一代 golang 规则引擎的设计与实现 https://xie.infoq.cn/article/f0a6ad06b3bfbda60f4330bee
+- 2.为数据科学而生，Go+ 全球首发直播实录 https://www.bilibili.com/video/BV1AD4y1S79M
+- 3.Go2 泛型预览 https://medium.com/@ngtzeyang94/go2-sneak-preview-generics-60ee3b4a730
+- 4.Java 和 Go 在 Cloud Native 的应用对比 https://medium.com/@domrevigor/cloud-native-java-vs-golang-2a72c0531b05
+- 5.cockroachdb 开发的 Postgresql 测试 Mock 工具 https://github.com/cockroachdb/copyist
 ## go语言中文网(每日资讯)_2020-07-04
 一、Go语言中文网
 
