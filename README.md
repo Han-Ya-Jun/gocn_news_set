@@ -7,6 +7,14 @@
 
 
 
+## gopherDaily_2020-07-05
+1.B站新一代go规则引擎的设计与实现 - https://xie.infoq.cn/article/f0a6ad06b3bfbda60f4330bee
+2.“经济学人”出版社使用Go构建微服务实践 - https://www.infoq.com/articles/golang-the-economist/
+3.使用github action和gohugo部署静态站点 - https://capgemini.github.io/development/Using-GitHub-Actions-and-Hugo-Deploy-to-Deploy-to-AWS/
+4.使用flux实现gitops工作流的完整指南 - https://managedkube.com/gitops/flux/weaveworks/guide/tutorial/2020/05/01/a-complete-step-by-step-guide-to-implementing-a-gitops-workflow-with-flux.html
+5.使用Open Policy Agent增强k8s集群细粒度资源控制 - https://www.stackrox.com/post/2020/04/enhancing-kubernetes-security-with-open-policy-agent-opa-part-1
+6.从头理解比特币 - https://monokh.com/posts/bitcoin-from-scratch-part-1
+
 ## gocn_news_2020-07-05
 - 1.B 站新一代 golang 规则引擎的设计与实现 https://xie.infoq.cn/article/f0a6ad06b3bfbda60f4330bee
 - 2.为数据科学而生，Go+ 全球首发直播实录 https://www.bilibili.com/video/BV1AD4y1S79M
