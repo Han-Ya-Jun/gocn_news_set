@@ -5,7 +5,34 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go语言中文网(每日资讯)_2020-07-05
+一、Go语言中文网
 
+1. [Go语言爱好者周刊：第 50 期](https://mp.weixin.qq.com/s/h61mCd0MIYQDQak_vFopaA)
+
+2. [可能是世界上最简单的用 Go 来写 WebAssembly 的教程](https://mp.weixin.qq.com/s/P5k11mXIYetQzT0BO-Rw0g)
+
+3. [深挖 Go 系列之深入理解 mutex](https://mp.weixin.qq.com/s/zmLyM6R-SGbsjqT9yIe-Aw)
+
+4. [MySQL 入门（2）：索引](https://mp.weixin.qq.com/s/MnqTJT6dSTmiwgkBbU5fwg)
+
+5. [Go 刷 LeetCode 系列：经典（7） 设计双端队列](https://mp.weixin.qq.com/s/UevPaaLewIAqDEM9lE9Onw)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-04）](https://studygolang.com/topics/11817)
+
+三、HHF技术博客
+
+1. [限流器系列(2) -- Token Bucket 令牌桶](https://mp.weixin.qq.com/s/wuVbL1I6_qjJBmbq8-KLMQ)
+
+四、polarisxu
+
+1. [Go 语言 Web 框架 Echo 系列：基础篇—通过一个例子串联各特性](https://mp.weixin.qq.com/s/vg9OSO4g0KG7iDQ7GXoUSQ)
+
+五、七牛云
+
+1. [官宣！为数据而生的 Go+ 全球首发！](https://mp.weixin.qq.com/s/Vi4AjB5XGHKa4Pn3Rn1Q7A)
 
 ## gopherDaily_2020-07-05
 - 1.B站新一代go规则引擎的设计与实现 - https://xie.infoq.cn/article/f0a6ad06b3bfbda60f4330bee
