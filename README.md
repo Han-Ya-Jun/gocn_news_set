@@ -5,6 +5,44 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go语言中文网(每日资讯)_2020-07-06
+一、Go语言中文网
+
+1. [服务端学好 Go 语言就够了吗？不，数据结构和算法必不可少](https://mp.weixin.qq.com/s/EFntpuzJwaG4jjstEwogJw)
+
+2. [图解 Go GC 是怎样监听你的应用的？](https://mp.weixin.qq.com/s/Yc3-RXfDo1aFqA1vHdqfxg)
+
+3. [抽丝剥茧—Go哈希Map的鬼魅神功](https://mp.weixin.qq.com/s/uS4GsFwf8JUqSmC5hcK4SA)
+
+4. [【算法】大厂常喜欢问的算法题](https://mp.weixin.qq.com/s/iz1NxHeQ72vSrWs7abZrmQ)
+
+5. [更好的理解 MySQL （3）：事务隔离](https://mp.weixin.qq.com/s/PjalBH2Nx4Sy8z-n3K4kfQ)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-05）](https://studygolang.com/topics/11821)
+
+三、Go 夜读 
+
+1. [【本周四预告】第 95 期 Dubbo-go 的成长与蜕变之路](https://mp.weixin.qq.com/s/UaucNR0HDMM-pAklDVSJ9g)
+
+四、MoeLove
+
+1. [K8S 生态周报| runc v1.0.0-rc91 发布](https://mp.weixin.qq.com/s/FNRT0ahOTR7juK0vGKXQuw)
+
+五、Go Official Blog
+
+1. [lxcfs 是什么？ lxcfs 实现对容器资源视图隔离的最佳实践](https://mp.weixin.qq.com/s/EIAzl3HM62hu1zOSNVipnQ)
+
+六、鸟窝
+
+1. [Go并发编程一年回顾](https://colobu.com/2020/07/05/the-state-of-go-sync-2020/)
+
+七、腾讯技术工程
+
+1. [万级K8s集群背后etcd稳定性及性能优化实践](https://mp.weixin.qq.com/s/SZgSbWwKNZTVJOZ_pKLblA)
+
+
 ## gopherDaily_2020-07-06
 - 1.Go channel到底有多快 - https://tpaschalis.github.io/channels-limitations-speed/
 - 2.Go+发布会实录，值得认真回看，细细品味 - https://www.bilibili.com/video/BV1AD4y1S79M
