@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## gopherDaily_2020-07-06
+- 1.Go channel到底有多快 - https://tpaschalis.github.io/channels-limitations-speed/
+- 2.Go+发布会实录，值得认真回看，细细品味 - https://www.bilibili.com/video/BV1AD4y1S79M
+- 3.关系数据库操作Mock测试神器 - https://github.com/cockroachdb/copyist 
+- 4.填充的切片 - https://benburkert.com/posts/padded-slices/
+- 5.kubernetes集群配置最佳实践验证 - https://github.com/FairwindsOps/polaris
+- 6.糟糕的抽象比代码重复代价更高 - https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction
+
+
 ## gocn_news_2020-07-06
 - 1.Go Search Extension，快速在地址栏搜索 Go 文档的开源浏览器插件 https://gocn.vip/topics/10652
 
