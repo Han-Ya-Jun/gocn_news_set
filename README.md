@@ -37,7 +37,12 @@
 
 1. [彻底搞懂 etcd 系列文章（五）：etcdctl 的使用](https://mp.weixin.qq.com/s/poPpFNJI6o-kjovTM-LZYA)
 
-
+## gocn_news_2020-07-07
+- 1.一款 go 语言测试覆盖率收集工具 https://gocn.vip/topics/10651
+- 2.通过 profiling 定位 golang 性能问题 - 内存篇 https://aimuke.github.io/go/2020/07/06/go-pprof-case/
+- 3.调试 Kubernetes 集群中的网络停顿问题 https://mp.weixin.qq.com/s/u5aEQhZTDtLrVdC8AO_ogQ
+- 4.万级 K8s 集群背后 etcd 稳定性及性能优化实践 https://mp.weixin.qq.com/s/zoTOv7oFS0k86jKfL5azfQ
+- 5.用 Go 从头实现一个迷你 Docker — Gocker https://mp.weixin.qq.com/s/P9bVFtXeduZ8Lv-0vFaXAg
 ## go语言中文网(每日资讯)_2020-07-06
 一、Go语言中文网
 
