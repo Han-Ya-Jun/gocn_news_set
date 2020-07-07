@@ -4,6 +4,39 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-07
+一、Go语言中文网
+
+1. [从这些角度看 Go 是一门很棒的语言](https://mp.weixin.qq.com/s/vMPfws9uR6EtsXNRevuV8A)
+
+2. [Go 项目推荐之 Go Search Extension 在浏览器搜索 Go 文档](https://mp.weixin.qq.com/s/ql0_h4my83IYarXxEAv0KA)
+
+3. [Go 语言一次真实的错误吞并的教训](https://mp.weixin.qq.com/s/YIlySRSpzWZqide0T_UesQ)
+
+4. [图解：长度最小的子数组（LeetCode209）](https://mp.weixin.qq.com/s/aQtSzoxt0NPn_H6RU5QU7A)
+
+5. [更好的理解 MySQL（4）：锁](https://mp.weixin.qq.com/s/1icaoJ8SjbLOKtwhJShVkA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-06）](https://studygolang.com/topics/11833)
+
+三、Go 夜读 
+
+1. [【本周六预告】第 96 期百度大规模网络流量接入技术 & BFE 开源](https://mp.weixin.qq.com/s/y28YMcp2ObxMwYzMpkWSvw)
+
+四、polarisxu
+
+1. [Go 语言 Web 框架 Echo 系列：定制篇1：自定义 Binder，处理 Request 数据绑定](https://mp.weixin.qq.com/s/2wARcsszax6GFbZcjJPoig)
+
+五、有点技术
+
+1. [tekton入门-trigger](https://mp.weixin.qq.com/s/9beRPcFoQGUCmxZ0M3n22g)
+
+六、aoho求索
+
+1. [彻底搞懂 etcd 系列文章（五）：etcdctl 的使用](https://mp.weixin.qq.com/s/poPpFNJI6o-kjovTM-LZYA)
+
 
 ## go语言中文网(每日资讯)_2020-07-06
 一、Go语言中文网
