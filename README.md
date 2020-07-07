@@ -43,6 +43,16 @@
 - 3.调试 Kubernetes 集群中的网络停顿问题 https://mp.weixin.qq.com/s/u5aEQhZTDtLrVdC8AO_ogQ
 - 4.万级 K8s 集群背后 etcd 稳定性及性能优化实践 https://mp.weixin.qq.com/s/zoTOv7oFS0k86jKfL5azfQ
 - 5.用 Go 从头实现一个迷你 Docker — Gocker https://mp.weixin.qq.com/s/P9bVFtXeduZ8Lv-0vFaXAg
+
+
+## gopherDaily_2020-07-07
+- 1.如何设计Go包的结构 - https://bencane.com/stories/2020/07/06/how-i-structure-go-packages/
+- 2.两年后，反思clean架构的Go实现 - https://eltonminetto.dev/en/post/2020-07-06-clean-architecture-2years-later/
+- 3.Go定时器(timer)的生命周期 - https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a
+- 4.使用Go扩展python - https://www.ardanlabs.com/blog/2020/07/extending-python-with-go.html
+- 5.油管视频：使用DDD方法构建Go服务 - https://www.youtube.com/watch?v=YfLPZOpJQjY&feature=youtu.be 
+- 6.为云原生应用设计Go配置框架 - https://medium.com/better-programming/designing-cloud-native-configuration-framework-eefb0b3793cb
+
 ## go语言中文网(每日资讯)_2020-07-06
 一、Go语言中文网
 
@@ -79,7 +89,6 @@
 七、腾讯技术工程
 
 1. [万级K8s集群背后etcd稳定性及性能优化实践](https://mp.weixin.qq.com/s/SZgSbWwKNZTVJOZ_pKLblA)
-
 
 ## gopherDaily_2020-07-06
 - 1.Go channel到底有多快 - https://tpaschalis.github.io/channels-limitations-speed/
