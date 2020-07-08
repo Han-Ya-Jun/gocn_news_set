@@ -40,6 +40,16 @@
 - 5.使用 go/analysis 包去修复你自己的代码 https://arslan.io/2020/07/07/using-go-analysis-to-fix-your-source-code/
 
 
+## gopherDaily_2020-07-08
+- 1.Go官博：保持你的go module的兼容性 - https://blog.golang.org/module-compatibility
+- 2.从数据工程角度比较go与python: 第2部分-数据流 - https://chollinger.com/blog/2020/07/a-data-engineering-perspective-on-go-vs.-python-part-2-dataflow/
+- 3.为什么Go的错误处理很棒 - https://rauljordan.com/2020/07/06/why-go-error-handling-is-awesome.html
+- 4.使用go/analysis去fix你的代码 - https://arslan.io/2020/07/07/using-go-analysis-to-fix-your-source-code/
+- 5.go context的what,why和how - https://medium.com/swlh/go-context-what-why-and-how-572fc84fc233
+- 6.odin: 可编程，可观察和分布式的job编排系统。- https://github.com/theycallmemac/odin
+- 7.Slack的糟糕、可怕的一天：Slack停机故障记录 - https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82
+
+
 
 ## go语言中文网(每日资讯)_2020-07-07
 一、Go语言中文网
