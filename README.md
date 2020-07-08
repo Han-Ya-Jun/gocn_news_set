@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-08
+一、Go语言中文网
+
+1. [从这些角度看 Go 是一门糟糕的语言](https://mp.weixin.qq.com/s/lA2d-TqvHrsbUbsiJ84U5g)
+
+2. [开源 Go 项目推荐：将汉字转拼音，竟然能带声调](https://mp.weixin.qq.com/s/phG5B8YKVhCPwBVmoe1-8Q)
+
+3. [【算法 Go 实现】区域和检索 - 数组可修改](https://mp.weixin.qq.com/s/W3Vz9d7ATECuzD1w3G7B8A)
+
+4. [更好地理解 MySQL（5）：复制](https://mp.weixin.qq.com/s/SGuA3QC3LQt7sPfy3AAT3w)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-07）](https://studygolang.com/topics/11838)
+
+三、云原生技术爱好者社区
+
+1. [云原生的前世今生](https://mp.weixin.qq.com/s/6DU5jGCfv_FHVkSOAMJb9g)
+
+四、No Headback
+
+1. [reviewdog](https://xargin.com/add-reviewdog-for-your-project/)
+
 ## gocn_news_2020-07-08
 - 1.Go 实现使用 SQL 查询 git 存储库 https://github.com/augmentable-dev/gitqlite
 
