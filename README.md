@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-07-08
+- 1.Go 实现使用 SQL 查询 git 存储库 https://github.com/augmentable-dev/gitqlite
+
+- 2.30 天学习 Go https://dev.to/canro91/let-s-go-learn-go-in-30-days-3dg9
+
+- 3.用 Go 编写的 Markdown 解析器 https://github.com/yuin/goldmark
+
+- 4.在 Go 中不使用 Cookies 进行服务器端跟踪 https://marvinblum.de/blog/server-side-tracking-without-cookies-in-go-OxdzmGZ1Bl
+
+- 5.使用 go/analysis 包去修复你自己的代码 https://arslan.io/2020/07/07/using-go-analysis-to-fix-your-source-code/
+
+
+
 ## go语言中文网(每日资讯)_2020-07-07
 一、Go语言中文网
 
