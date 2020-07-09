@@ -4,6 +4,18 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-07-09
+- 1.让你的模块保持兼容性 https://blog.golang.org/module-compatibility
+
+- 2.在 Go 中如何调用 c 共享库 https://medium.com/@manoj_gupta/how-to-use-c-shared-library-code-in-go-code-14ff9ce9c5da
+
+- 3.用 Go 玩转嵌入式之使用 tinygo 驱动周边元件 http://suo.im/5WZo08 
+- 4.进击的 Kubernetes 调度系统（一）：Kubernetes scheduling framework https://gocn.vip/topics/10665
+
+- 5.Go timers 的生命周期  https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a
+
+
+
 ## go语言中文网(每日资讯)_2020-07-08
 一、Go语言中文网
 
