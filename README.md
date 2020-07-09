@@ -14,6 +14,13 @@
 
 - 5.Go timers 的生命周期  https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a
 
+## gopherDaily_2020-07-09
+- 1.Go函数字面值与闭包 - https://dev.to/spindriftboi/function-literals-and-closure-in-go-2hgn
+- 2.对发起的http request进行单元测试 - https://erikwinter.nl/notes/2020/unit_test_outbound_http_requests_in_golang/
+- 3.ubuntu桌面应用支持flutter - https://snapcraft.io/blog/canonical-enables-linux-desktop-app-support-with-flutter
+- 4.github之星计划 - https://stars.github.com/
+- 5.IBM和Google就istio的开源治理方式出现分歧 - https://developer.ibm.com/blogs/istio-google-open-usage-commons/
+- 6.Go实现brainfuck语言解析器 - https://mihajlonesic.gitlab.io/archive/brainfuck-in-go/
 
 
 ## go语言中文网(每日资讯)_2020-07-08
