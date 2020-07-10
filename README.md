@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-07-10
+- 1.基于 Twirp RPC 的简易 JSON Api Gateway 实现 https://gocn.vip/topics/10660
+
+- 2.从这些角度看 GO 是一门糟糕的语言 https://pasztor.at/blog/go-is-terrible
+
+- 3.Gox 语言中使用内存虚拟文件系统提升 IO 处理速度-GX43.1 https://www.jianshu.com/p/102b33f56cc7
+
+- 4.使用 Delve 代替 Println 来调试 Go 程序 https://opensource.com/article/20/6/debug-go-delve
+
+- 5.Go GC 怎么标记内存？颜色是什么含义？图解三色标记法 https://developer.51cto.com/art/202007/620659.htm
+
+
+
 
 
 
