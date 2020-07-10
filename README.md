@@ -4,6 +4,42 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
+
+## go语言中文网(每日资讯)_2020-07-09
+一、Go语言中文网
+
+1.[Go GC 怎么标记内存？颜色是什么含义？图解三色标记法](https://mp.weixin.qq.com/s/TqNLZoQQhJeech7RWnvtfA)
+
+2.[Go 限流器实战系列(2) -- Token Bucket 令牌桶](https://mp.weixin.qq.com/s/s3gUKIBWKsEQRYQF6zbydw)
+
+3.[【Go 刷 LeetCode】一棵树引发的算法题...](https://mp.weixin.qq.com/s/uYcY_V_GGyZh3T3NcOGjsA)
+
+4.[容器和虚拟机到底有啥区别？](https://mp.weixin.qq.com/s/Hz7ammVsmIvuMdG59MyAdw)
+
+5.[30 张图解 | 高频面试知识点总结：面试官问我高并发服务模型哪家强？](https://mp.weixin.qq.com/s/Fvc3KcayOH7tEOqhBz7xgQ)
+
+二、亚军进化史
+
+1.[Go技术日报(2020-07-08)](https://studygolang.com/topics/11846)
+
+三、Go夜读
+
+1.[Go 夜读送三本书](https://mp.weixin.qq.com/s/kJ5x9Ng2zV9mY_aKmFA56Q)
+
+四、一艘慢船
+
+1.[一个实用版本的 Github Actions 持续集成样例](https://mp.weixin.qq.com/s/R-sbT2uNyWFKuU-s85j0_w)
+
+五、polarisxu
+
+1.[从签名售书说起：文末送书](https://mp.weixin.qq.com/s/-n2NoZqTFLzQ8XpFiTvbBQ)
+
+
+
+
+
 ## gocn_news_2020-07-09
 - 1.让你的模块保持兼容性 https://blog.golang.org/module-compatibility
 
