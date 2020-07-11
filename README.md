@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-11
+一、Go语言中文网
+
+1. [Go 项目推荐之自动化全站后台管理系统脚手架 Gin-Vue-Admin](https://mp.weixin.qq.com/s/d3uU0IQQZyvixqk4XRShKA)
+
+2. [结合例子讲解 K8S 如何实现应用配置管理](https://mp.weixin.qq.com/s/wtcf4s8kvOmOK91grr2vOg)
+
+3. [Golang 协程Goroutine到底是怎么回事？（二）](https://mp.weixin.qq.com/s/aySQMO2DsRgoYJ_WMZLOcA)
+
+4. [灵魂9问，光怪陆离的网络世界有哪些不为人知的秘密？（网络面试必考）](https://mp.weixin.qq.com/s/sqrs5KFss53etBylEBPeBg)
+
+5. [【Go 刷leetcode】合并二叉树](https://mp.weixin.qq.com/s/Xu-VdXopd536pCMaQ4rJ1g)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-10）](https://studygolang.com/topics/11856)
+
+三、 网管叨bi叨
+
+1. [线上Go项目的Docker镜像应该怎么构建？](https://mp.weixin.qq.com/s/hoJgL-sP2OtMEFAhYNCItA)
+
+四、有点技术
+
+1. [一个ReadinessGates Controller Demo](https://mp.weixin.qq.com/s/Q00gvOAULqMLN7sNNJBmKg)
+
+五、小鸟技术笔记
+
+1. [数据仓库建设思路与建设资料收集（2020年7月）](https://www.lijiaocn.com/%E9%A1%B9%E7%9B%AE/2020/06/30/data-warehouse-material.html)
+
 ## go语言中文网(每日资讯)_2020-07-10
 一、Go语言中文网
 
