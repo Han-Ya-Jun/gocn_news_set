@@ -41,6 +41,14 @@
 - 5.NASA活动：把你的名字送上火星 - https://mars.nasa.gov/participate/send-your-name/future
 - 6.GORM v2版本指南 - http://v2.gorm.io/docs/
 - 7.通过TLS使用DNS - https://fedoramagazine.org/use-dns-over-tls/
+
+## gocn_news_2020-07-11
+- 1.Dig101-Go 之深入理解 mutex https://gocn.vip/topics/10648
+- 2.Go 依赖注入框架 Dingo https://medium.com/@bykovskimichael/dingo-the-dependency-injection-framework-for-go-9b1f1d44c419
+- 3.从数据工程师的视角看待 Go 与 Python 在数据流上的表现 https://chollinger.com/blog/2020/07/a-data-engineering-perspective-on-go-vs.-python-part-2-dataflow/
+- 4.为什么 Go 的错误处理很棒 https://rauljordan.com/2020/07/06/why-go-error-handling-is-awesome.html
+- 5.两年后重新审视 Go 项目架构的简洁设计 https://eltonminetto.dev/en/post/2020-07-06-clean-architecture-2years-later/
+
 ## go语言中文网(每日资讯)_2020-07-10
 一、Go语言中文网
 
