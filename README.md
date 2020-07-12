@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-07-12
+- 1.Go 语言学习 - Understanding Lock https://juejin.im/post/5f09767cf265da22f955a364
+
+- 2.Docker 搭建数据库高可用方案 PXC https://juejin.im/post/5f046195e51d45348675d048
+
+- 3.测试混乱情况下的 API 服务的 HTTP mocking 库 https://github.com/Trendyol/gaos
+
+- 4.GopherCon 欧洲 2020 视频列表 https://www.youtube.com/playlist?list=PLtoVuM73AmsKnUvoFizEmvWo0BbegkSIG
+
+- 5.Git 如何写出优雅的 Commit Message https://juejin.im/post/5f0818c15188252e906f8bac
+
+
+
 ## gopherDaily_2020-07-12
 - 1.油管视频：GopherCon Europe 2020全集 - https://www.youtube.com/playlist?list=PLtoVuM73AmsKnUvoFizEmvWo0BbegkSIG
 - 2.Go：死锁是怎么产生的 - https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019
