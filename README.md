@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-12
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 51 期 — 赠《Go语言编程之旅》](https://mp.weixin.qq.com/s/zmDm1I8ACZc65YZgr_jvxQ)
+
+2. [Golang 数据结构到底是怎么回事？gdb 调一调？](https://mp.weixin.qq.com/s/BFouPEtzujWzq6jJLii8JA)
+
+3. [线上Go项目的Docker镜像应该怎么构建？](https://mp.weixin.qq.com/s/_rHQThh_yLjgGD_iDqYefg)
+
+4. [Homebrew 的开发者因这道题错失谷歌 offer](https://mp.weixin.qq.com/s/bMqbrSY4RV_T4BPdOz8uWg)
+
+5. [Go 刷 Leetcode 系列：经典（8） kmp 实现strstr（）](https://mp.weixin.qq.com/s/6as6S1SbqMh1Fw5EURj-9A)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-11）](https://studygolang.com/topics/11856)
+
+三、云原生技术爱好者社区
+
+1. [云原生的应用管理中心—Helm详解](https://mp.weixin.qq.com/s/foBjp__SZqQM7g6ukKMFwQ)
+
+四、 51reboot运维开发
+
+1. [如何在 Go 中写出高效的单元测试](https://mp.weixin.qq.com/s/a6qQ8U5PYYul59oFOVXugw)
+
 ## gocn_news_2020-07-12
 - 1.Go 语言学习 - Understanding Lock https://juejin.im/post/5f09767cf265da22f955a364
 
