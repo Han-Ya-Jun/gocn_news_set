@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-07-12
+- 1.油管视频：GopherCon Europe 2020全集 - https://www.youtube.com/playlist?list=PLtoVuM73AmsKnUvoFizEmvWo0BbegkSIG
+- 2.Go：死锁是怎么产生的 - https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019
+- 3.Go context原理揭秘 - https://vishnubharathi.codes/blog/go-contexts/
+- 4.Kubernetes和网络，为什么这么难 by Kubernetes联合发明人 Tim Hockin -  https://speakerdeck.com/thockin/kubernetes-and-networks-why-is-this-so-dang-hard
+- 5.使用Open Policy Agent实现kubernetes pod安全策略 - https://www.infracloud.io/kubernetes-pod-security-policies-opa/
+- 6.如何创建专业级的github profile readme文件 - https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme
+- 7.你知道计算机一秒钟能做什么吗 - http://computers-are-fast.github.io/
+
+
 ## go语言中文网(每日资讯)_2020-07-11
 一、Go语言中文网
 
