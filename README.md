@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-07-13
+- 1.使用Go实现的CAN总线库 - https://github.com/einride/can-go  视频：https://www.youtube.com/watch?v=IbggJHJUv0U
+- 2.使用Go秒读16G文件 - https://medium.com/swlh/processing-16gb-file-in-seconds-go-lang-3982c235dfa2
+- 3.使用pprof和expvar对http服务做性能剖析 - https://rafallorenz.com/go/go-profiling-http-service-with-pprof-and-expvar/
+- 4.使用Go和WebAssembly实现PONG游戏 - https://dstoiko.github.io/posts/go-pong-wasm/
+- 5.Go标准库ticker最佳实践 - https://medium.com/@jeremieshaker/golang-ticker-best-practices-using-tickers-in-a-multi-threaded-program-without-losing-your-mind-dfc307c6de62
+- 6.构建自更新的github README profile - https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
+
+
 ## go语言中文网(每日资讯)_2020-07-12
 一、Go语言中文网
 
