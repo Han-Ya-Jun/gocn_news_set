@@ -4,6 +4,32 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-13
+一、Go语言中文网
+
+1.[你和月薪30K的后端程序员，差距在哪里？](https://mp.weixin.qq.com/s/OYY0gUJSTDed-K5_cQNYWA)
+
+2.[我用 Go 生成的随机数为什么不随机？随机数是怎样产生的](https://mp.weixin.qq.com/s/-VUfTmSVmtXwQWpJOykf5g)
+
+3.[Golang 语法到底是怎么回事？gdb](https://mp.weixin.qq.com/s/WxIFYn3FdbvHMRbepTMHVA)
+
+4.[Go 刷 leetcode｜二叉树的最大深度](https://mp.weixin.qq.com/s/VCslbRKytGh2ed-ZptNjhg)
+
+二、腾讯技术工程
+
+1.[写代码之前应该做的几件事](https://mp.weixin.qq.com/s/1bdH1DgaAsiW9qdqhD4fWA)
+
+三、MoeLove
+
+1.[K8S 生态周报| Helm v3.3.0-rc.1 发布](https://mp.weixin.qq.com/s/q3Gl6Hw4HTBYvxG3SmEmew)
+四、亚军进化史
+
+1.[Go技术日报(2020-07-12)](https://studygolang.com/topics/11866)
+
+五、polarisx
+
+1.[由群里讨论的关于 println 和 fmt.Println “诡异”问题的思考总结](https://mp.weixin.qq.com/s/ukBUGNYaULfF14x0_DfUyQ)
+
 ## gopherDaily_2020-07-13
 - 1.使用Go实现的CAN总线库 - https://github.com/einride/can-go  视频：https://www.youtube.com/watch?v=IbggJHJUv0U
 - 2.使用Go秒读16G文件 - https://medium.com/swlh/processing-16gb-file-in-seconds-go-lang-3982c235dfa2
