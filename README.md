@@ -40,11 +40,11 @@
 
 
 ## gocn_news_2020-07-13
-Go 管理环境变量中的配置数据 https://github.com/kelseyhightower/envconfig
-使用 validator 进行后端数据校验 https://juejin.im/post/5f02fc22e51d45346c50f9f5
-Golang 热更新原理 https://xie.infoq.cn/article/c233ef969f1f86d3f77d92e19
-Golang Context 从使用场景到源码分析 https://xie.infoq.cn/article/3e18dd6d335d1a6ab552a88e8
-Golang 内存对齐 https://xie.infoq.cn/article/594a7f54c639accb53796cfc7
+- 1.Go 管理环境变量中的配置数据 https://github.com/kelseyhightower/envconfig
+- 2.使用 validator 进行后端数据校验 https://juejin.im/post/5f02fc22e51d45346c50f9f5
+- 3.Golang 热更新原理 https://xie.infoq.cn/article/c233ef969f1f86d3f77d92e19
+- 4.Golang Context 从使用场景到源码分析 https://xie.infoq.cn/article/3e18dd6d335d1a6ab552a88e8
+- 5.Golang 内存对齐 https://xie.infoq.cn/article/594a7f54c639accb53796cfc7
 
 ## go语言中文网(每日资讯)_2020-07-12
 一、Go语言中文网
