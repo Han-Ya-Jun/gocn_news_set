@@ -4,6 +4,33 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-14
+一、Go语言中文网
+
+1. [Go 1.15 添加 Module cache 环境变量：有什么用？](https://mp.weixin.qq.com/s/WBhPDBb67nz0Rt6te5dHVw)
+
+2. [万字长文图解 Go 内存管理分析：工具、分配和回收原理](https://mp.weixin.qq.com/s/rydO2JK-r8JjG9v_Uy7gXg)
+
+3. [Go 每日一库之 validator 库实用技巧：之前被吐槽代码乱](https://mp.weixin.qq.com/s/wk7JY5U-8QxcfLOBXzJN2g)
+
+4. [Go 刷 leetcode｜别说你不知道双指针](https://mp.weixin.qq.com/s/trlkpIcn1xgkrOGaA6cd1Q)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-13）](https://studygolang.com/topics/11877)
+
+三、polarisxu
+
+1. [Go 语言 Web 框架 Echo 系列：定制篇2 — 自定义 Validator，进行输入校验](https://mp.weixin.qq.com/s/CMBxIR0y6LxiIpDt6JYuDQ)
+
+四、 有点技术
+
+1. [tekton入门-细数tekton用到的那些images](https://mp.weixin.qq.com/s/2CXOctWWVYHMl2a9Parb1g)
+
+五、No Headback
+
+1. [一些连接池相关的总结](https://xargin.com/some-connection-pool/)
+
 
 ## go语言中文网(每日资讯)_2020-07-14
 一、Go语言中文网
