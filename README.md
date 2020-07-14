@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## gocn_news_2020-07-14
+1.教程:用 Go 处理 10 个并发 https://dev.to/nadirbasalamah/golang-tutorial-10-concurrency-with-channel-54co
+2.结构体初始化与继承 https://juejin.im/post/5f0aecade51d4534af687e18
+3.根据示例学习 Go https://medium.com/swlh/learning-go-by-example-part-1-97bf80bbac59
+4.使用 upterm 安全分享你的终端 https://dev.to/owenthereal/upterm-secure-terminal-sharing-1cmb
+5.从零开始入门 K8s  https://gocn.vip/topics/10682
+
 ## go语言中文网(每日资讯)_2020-07-13
 一、Go语言中文网
 
