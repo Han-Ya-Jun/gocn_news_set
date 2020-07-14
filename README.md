@@ -5,6 +5,41 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go语言中文网(每日资讯)_2020-07-14
+一、Go语言中文网
+
+1. [Go 1.15 添加 Module cache 环境变量：有什么用？](https://mp.weixin.qq.com/s/WBhPDBb67nz0Rt6te5dHVw)
+
+2. [万字长文图解 Go 内存管理分析：工具、分配和回收原理](https://mp.weixin.qq.com/s/rydO2JK-r8JjG9v_Uy7gXg)
+
+3. [Go 每日一库之 validator 库实用技巧：之前被吐槽代码乱](https://mp.weixin.qq.com/s/wk7JY5U-8QxcfLOBXzJN2g)
+
+4. [Go 刷 leetcode｜别说你不知道双指针](https://mp.weixin.qq.com/s/trlkpIcn1xgkrOGaA6cd1Q)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-13）](https://studygolang.com/topics/11877)
+
+三、polarisxu
+
+1. [Go 语言 Web 框架 Echo 系列：定制篇2 — 自定义 Validator，进行输入校验](https://mp.weixin.qq.com/s/CMBxIR0y6LxiIpDt6JYuDQ)
+
+四、 有点技术
+
+1. [tekton入门-细数tekton用到的那些images](https://mp.weixin.qq.com/s/2CXOctWWVYHMl2a9Parb1g)
+
+五、No Headback
+
+1. [一些连接池相关的总结](https://xargin.com/some-connection-pool/)
+
+
+## gopherDaily_2020-07-12
+- 1.使用Go实现的CAN总线库 - https://github.com/einride/can-go 视频：https://www.youtube.com/watch?v=IbggJHJUv0U
+- 2.使用Go秒读16G文件 - https://medium.com/swlh/processing-16gb-file-in-seconds-go-lang-3982c235dfa2
+- 3.使用pprof和expvar对http服务做性能剖析 - https://rafallorenz.com/go/go-profiling-http-service-with-pprof-and-expvar/
+- 4.使用Go和WebAssembly实现PONG游戏 - https://dstoiko.github.io/posts/go-pong-wasm/
+- 5.Go标准库ticker最佳实践 - https://medium.com/@jeremieshaker/golang-ticker-best-practices-using-tickers-in-a-multi-threaded-program-without-losing-your-mind-dfc307c6de62
+- 6.构建自更新的github README profile - https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 ## gocn_news_2020-07-14
 1.教程:用 Go 处理 10 个并发 https://dev.to/nadirbasalamah/golang-tutorial-10-concurrency-with-channel-54co
 2.结构体初始化与继承 https://juejin.im/post/5f0aecade51d4534af687e18
