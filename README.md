@@ -31,6 +31,15 @@
 
 1. [用Go撸一个二叉搜索树](https://colobu.com/2020/07/15/implement-bst-in-Go/)
 
+
+## gopherDaily_2020-07-15
+1.关于Go新泛型方案中括号选用的讨论 - https://groups.google.com/forum/#!topic/golang-nuts/7t-Q2vt60J8
+2.深入理解bufio.Scanner - https://medium.com/golangspec/in-depth-introduction-to-bufio-scanner-in-golang-55483bb689b4
+3.doraemon: 360开源的基于Prometheus的监控系统 - https://github.com/Qihoo360/doraemon
+4.理解Goroutine和Channel - https://medium.com/wesionary-team/understanding-go-routine-and-channel-b09d7d60e575
+5.观点：为什么像etcd等现代软件让我伤心 - https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/
+
+
 ## gocn_news_2020-07-15
 - 1.Prometheus 之禅 https://the-zen-of-prometheus.netlify.app
 
