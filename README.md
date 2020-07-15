@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-07-15
+- 1.Prometheus 之禅 https://the-zen-of-prometheus.netlify.app
+
+- 2.进击的 Kubernetes 调度系统（二）：支持批任务的 Coscheduling/Gang scheduling https://gocn.vip/topics/10697
+
+- 3.万级 K8s 集群背后 etcd 稳定性及性能优化实践 https://www.jianshu.com/p/f49d33211d44
+
+- 4.golang 动态规划实现过程 https://www.jianshu.com/p/be212080bf4a
+
+- 5.线上 Go 项目的 Docker 镜像应该怎么构建？ https://juejin.im/post/5f0d0c0be51d45349b5caaaf
+
+
+
 
 ## go语言中文网(每日资讯)_2020-07-14
 一、Go语言中文网
