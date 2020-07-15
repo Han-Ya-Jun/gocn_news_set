@@ -4,6 +4,33 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-15
+一、Go语言中文网
+
+1. [为什么 Go 关心 unsafe.Pointer 和 uintptr 之间的差别](https://mp.weixin.qq.com/s/ImlseLD8Ocw54iwaMruXpQ)
+
+2. [香！一款用 SQL 方式查询 Git 仓库的开源项目进入 GitHub 趋势榜](https://mp.weixin.qq.com/s/UJ2px2MRGcSnWcFStQeYWg)
+
+3. [Go 内存分配器的设计与实现](https://mp.weixin.qq.com/s/ueXaOld9hodcp06gLRGWuA)
+
+4. [万字长文图解 Go 内存管理分析：工具、分配和回收原理](https://mp.weixin.qq.com/s/rydO2JK-r8JjG9v_Uy7gXg)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-14）](https://studygolang.com/topics/11890)
+
+三、腾讯云原生
+
+1. [如何扩展单个Prometheus实现近万Kubernetes集群监控？](https://mp.weixin.qq.com/s/DBJ0F3g2Y5EhS02D7k2n5w)
+
+四、分布式实验室
+
+1. [100篇你值得收藏的K8s干货文章](https://mp.weixin.qq.com/s/8A_It3NNklbbG--P6Dw9gQ)
+
+五、鸟窝
+
+1. [用Go撸一个二叉搜索树](https://colobu.com/2020/07/15/implement-bst-in-Go/)
+
 ## gocn_news_2020-07-15
 - 1.Prometheus 之禅 https://the-zen-of-prometheus.netlify.app
 
