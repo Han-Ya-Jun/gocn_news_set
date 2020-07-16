@@ -4,6 +4,49 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-16
+一、Go语言中文网
+
+1. [为什么 Go 的错误处理很棒？还是有人很喜欢的嘛](https://mp.weixin.qq.com/s/wYkta4h6OYUxKnlIZD7T_g)
+
+2. [分布式系统基石之一：一致性 hash 算法 Go 语言实现](https://mp.weixin.qq.com/s/Kz03Z_s26WyuOh7-7mYTTw)
+
+3. [Go 语言垃圾收集器的原理](https://mp.weixin.qq.com/s/X1Grnrhj7C44PJVAg-Z3hg)
+
+4. [Go 刷 leetcode｜一道简单难度却让我陷入沉思的题目](https://mp.weixin.qq.com/s/SHK1hcGXEFivxaHak834sA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-15）](https://studygolang.com/topics/11904)
+
+三、腾讯技术工程
+
+1. [彻底弄懂浏览器缓存策略](https://mp.weixin.qq.com/s/0pI0F6c-BSLiGdLetQ5qNQ)
+
+四、行思錄 | Travel Coder
+
+1. [《硅谷钢铁侠》读书笔记](https://liudanking.com/beautiful-life/view-of-iron-man/)
+
+五、架构头条 
+
+1. [马蜂窝支付中心架构演进](https://mp.weixin.qq.com/s/J7KRLRRzGOjCrv1cflaXYQ)
+
+
+## gocn_news_2020-07-16
+- 1.蚂蚁王益：Go+ 可有效补全 Python 的不足 https://mp.weixin.qq.com/s/Yz1JIXccFEX3OAkmRGzd_Q
+- 2.使用 Go 秒级别处理 16GB 大小文件 https://medium.com/swlh/processing-16gb-file-in-seconds-go-lang-3982c235dfa2
+- 3.用 Go 撸一个二叉搜索树 https://colobu.com/2020/07/15/implement-bst-in-Go/
+- 4.Kubectl exec 背后到底发生了什么？ https://mp.weixin.qq.com/s/_jFpB7kQgIkEZKHvSYH8ug
+- 5.我是如何构建 Go 项目包 https://bencane.com/stories/2020/07/06/how-i-structure-go-packages
+
+## gopherDaily_2020-07-16
+- 1.Go播客：聚焦Go与PostgreSQL - https://changelog.com/gotime/137
+- 2.在技术公司实际工作时用到的数据结构和算法 - https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/
+- 3.Kubernetes: 基础设施的未来 - https://konghq.com/wp-content/uploads/2018/06/Kubernetes-The-Future-of-Infrastructure.pdf
+- 4.casbin-forum: Go实现的论坛系统 - https://github.com/casbin/casbin-forum
+- 5.油管视频：为什么分布式系统很难 - https://www.youtube.com/watch?v=w9GP7MNbaRc
+- 6.深层工作的重要性和30个小时学习新技能的方法 - https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/
+
 ## go语言中文网(每日资讯)_2020-07-15
 一、Go语言中文网
 
