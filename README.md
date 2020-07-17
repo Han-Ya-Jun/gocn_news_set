@@ -4,6 +4,33 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-17
+一、Go语言中文网
+
+1. [Go 泛型的括号选择：[ ] or ( )？](https://mp.weixin.qq.com/s/caqf0pIM4nTByh_c5HqWPw)
+
+2. [Go - json.Unmarshal 遇到的小坑](https://mp.weixin.qq.com/s/SsNKbmM7VI3dEbNUPMXZHQ)
+
+3. [​圣杯与银弹 · 没用的设计模式？](https://mp.weixin.qq.com/s/a5v0yVzMPPoMUnQJq3QAug)
+
+4. [Go 刷 leetcode｜最短无序连续子数组](https://mp.weixin.qq.com/s/xSx9O3aRLIb6g-HEd6dUvA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-16）](https://studygolang.com/topics/11912)
+
+三、从菜鸟到大佬
+
+1. [Golang领域模型-六边形架构](https://mp.weixin.qq.com/s/wXzfJ9HNAdk6QEyw8ez-Yw)
+
+四、贝壳产品技术
+
+1. [贝壳找房小程序从PHP到Golang的跃迁之路](https://mp.weixin.qq.com/s/phaTJPs80Xvva0rAThvW9A)
+
+五、小浩算法
+
+1. [小姐姐提灯给你讲讲动态规划（万字长文）](https://mp.weixin.qq.com/s/VfWq1Ox9CyMaYw-QPVg9Kg)
+
 ## gopherDaily_2020-07-17
 - 1.Rust性能一定好？不一定! : Go和Rust的gRPC benchmark比对 - https://medium.com/@Rustling_gopher/benchmarking-grpc-in-rust-go-184545e7688a
 - 2.Go的Repository模式: 一种简化Go服务逻辑的模式 - https://threedots.tech/post/repository-pattern-in-go
