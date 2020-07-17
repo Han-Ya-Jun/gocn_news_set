@@ -38,6 +38,14 @@
 - 4.protocol buffer: 现代数据序列化方法 - https://levelup.gitconnected.com/introduction-to-modern-data-serialization-method-protocol-buffers-edd2131c5b50
 - 5.Goland 2020增加对go新泛型方案的实验性支持 - https://blog.jetbrains.com/2020/07/16/goland-2020-2-reaches-beta/
 
+## gocn_news_2020-07-17
+- 1.GoCN 每日新闻 (2020-07-17)
+- 2.Go 1.14.6 和 Go 1.13.14 发布 https://golang.org/doc/devel/release.html#go1.14.minor
+- 3.GoLand 2020.2 通过对 go.mod 的升级和对泛型的实验性支持达到 Beta 版 https://blog.jetbrains.com/2020/07/16/goland-2020-2-reaches-beta/
+- 4.聊聊 dubbo-go 的 gracefulShutdownFilter https://segmentfault.com/a/1190000023263680
+- 5.Go 项目推荐之自动化全站后台管理系统脚手架 Gin-Vue-Admin https://mp.weixin.qq.com/s/6G26Px9c7JYBvozdZezx5g
+- 6.用 Go 语言编写的最快的 Dork 扫描仪 https://github.com/dwisiswant0/go-dork
+
 
 ## go语言中文网(每日资讯)_2020-07-16
 一、Go语言中文网
