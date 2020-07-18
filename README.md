@@ -42,7 +42,13 @@
 
 - 5.踩坑记：Go 服务灵异 panic https://segmentfault.com/a/1190000023283854
 
-
+## gopherDaily_2020-07-18
+- 1.Rust和Go在后端web开发上的比较 - https://qvault.io/2020/07/17/rust-vs-go-in-backend-web-development/
+- 2.Fiber Web框架与其它框架的benchmark比较 - https://docs.gofiber.io/benchmarks
+- 3.paper: Go静态竞态检测与mutex安全分析 - https://arxiv.org/abs/2004.12859
+- 4.一文了解kubernetes中的ETCD - https://medium.com/dev-genius/all-you-need-to-know-to-get-started-with-etcd-in-kubernetes-6755dbce8748
+- 5.为什么要使用Go以及如何入门 - https://www.rtinsights.com/why-you-should-use-golang-and-how-to-get-started
+- 6.errcheck: 发现源码中未处理error的工具 - https://github.com/kisielk/errcheck
 
 ## go语言中文网(每日资讯)_2020-07-17
 一、Go语言中文网
