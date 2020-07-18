@@ -4,6 +4,33 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-18
+一、Go语言中文网
+
+1. [Go 指南：顶级 Go 框架、IDE 和工具列表](https://mp.weixin.qq.com/s/5q7G6BpeRohX4v2GvvZUAQ)
+
+2. [牛逼！GitHub 全球开放源码在北极存 1000 年。有你的贡献吗？](https://mp.weixin.qq.com/s/PQn7Xwmdwk6EcFw68hlffQ)
+
+3. [​从零开始入门 K8s | 应用存储和持久化数据卷：核心知识](https://mp.weixin.qq.com/s/MgwthzbvX-BhRDwxetYdyw)
+
+4. [Go 刷 leetcode｜子集复子集，子集何其多](https://mp.weixin.qq.com/s/pdNuMA9TAbb9ue3IEeNQPg)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-17）](https://studygolang.com/topics/11923)
+
+三、有点技术
+
+1. [istio请求路由分析](https://mp.weixin.qq.com/s/Hj5z2uaCrgAqEwQhXAY8sQ)
+
+四、云原生技术爱好者社区
+
+1. [Loki漫谈](https://mp.weixin.qq.com/s/iyVZPNqJkIvdtiPJoh17jQ)
+
+五、felix021
+
+1. [踩坑记：Go服务灵异panic](https://mp.weixin.qq.com/s/wmdmYDenmOY2un6ymlO6SA)
+
 ## gocn_news_2020-07-18
 - 1.Go 指南：顶级 Go 框架、IDE 和工具列表 https://mp.weixin.qq.com/s/5q7G6BpeRohX4v2GvvZUAQ
 
