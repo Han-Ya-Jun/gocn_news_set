@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-07-18
+- 1.Go 指南：顶级 Go 框架、IDE 和工具列表 https://mp.weixin.qq.com/s/5q7G6BpeRohX4v2GvvZUAQ
+
+- 2.使用百度链的智能合约来落地公司业务场景 https://segmentfault.com/a/1190000023277089
+
+- 3.Go 程序启动过程 https://overstack.me/202007/go-program-startup-process.html
+
+- 4.Kafka 导致重复消费原因和解决方案 https://segmentfault.com/a/1190000023282843
+
+- 5.踩坑记：Go 服务灵异 panic https://segmentfault.com/a/1190000023283854
+
+
+
 ## go语言中文网(每日资讯)_2020-07-17
 一、Go语言中文网
 
