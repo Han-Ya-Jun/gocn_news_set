@@ -4,6 +4,25 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-19
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 52 期 — 这个导航你还喜欢吗？](https://mp.weixin.qq.com/s/xmIVMai01Y2FH53oU8ed1g)
+
+2. [Go 连接池相关总结：HTTP、RPC、Redis 和数据库等](https://mp.weixin.qq.com/s/90fQiMReB4OvWMDwA_xq_Q)
+
+3. [Go 每日一库之一个有趣的分布式缓存实现 — groupcache](https://mp.weixin.qq.com/s/ijGcXhBdcm2YYkPztzonlw)
+
+4. [可视化查看 Go 语法树](https://mp.weixin.qq.com/s/8zYhdDt2mTj1EiIlGSv-ZA)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-18）](https://studygolang.com/topics/11929)
+
+三、从菜鸟到大佬
+
+1. [Golang领域模型-实体](https://mp.weixin.qq.com/s/dGBZCrSgHGNAGaOGbpycPQ)
+
 ## gopherDaily_2020-07-19
 - 1.Go interface：与外部世界交互 - https://github.com/Evertras/go-interface-examples/tree/master/outside-world
 - 2.Go中byte与hex的相互转换 - https://schadokar.dev/to-the-point/convert-byte-to-hex-and-hex-to-byte-in-golang/
