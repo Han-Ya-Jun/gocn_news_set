@@ -4,6 +4,16 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-07-19
+- 1.Go interface：与外部世界交互 - https://github.com/Evertras/go-interface-examples/tree/master/outside-world
+- 2.Go中byte与hex的相互转换 - https://schadokar.dev/to-the-point/convert-byte-to-hex-and-hex-to-byte-in-golang/
+- 3.构建工具比较：make vs. mage - https://hub.gothamhq.com/t/build-tools-mage-vs-make/13
+- 4.Kubernetes：如何优雅的停掉pod - https://medium.com/tailwinds-navigator/kubernetes-tip-how-to-gracefully-handle-pod-deletion-b28d23644ccc
+- 5.支持全网络广告和跟踪器屏蔽的DNS服务器 - https://github.com/AdguardTeam/AdGuardHome
+- 6.todocheck: Go注释中TODO标记的分析器 - https://github.com/preslavmihaylov/todocheck
+- 7.afero: 一个文件系统框架，提供与任何文件系统交互的简单，统一和通用的API -  https://github.com/spf13/afero
+
+
 ## go语言中文网(每日资讯)_2020-07-18
 一、Go语言中文网
 
