@@ -4,6 +4,13 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-07-20
+- 1.Go2 泛型语法变更讨论 https://groups.google.com/forum/#! topic/golang-nuts/7t-Q2vt60J8
+- 2.深入理解 Goroutine 和 Channel https://medium.com/wesionary-team/understanding-go-routine-and-channel-b09d7d60e575
+- 3.Unix、C、Go 和人工智能 https://www.youtube.com/watch?v=O9upVbGSBFo
+- 4.pebble：受 LevelDB/RocksDB 启发的 KV 存储 https://github.com/cockroachdb/pebble
+- 5.afero：Go 文件系统抽象 https://github.com/spf13/afero
+
 ## go语言中文网(每日资讯)_2020-07-19
 一、Go语言中文网
 
