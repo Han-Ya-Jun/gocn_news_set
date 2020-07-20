@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## gopherDaily_2020-07-20
+- 1.油管视频：Unix、C、Go和人工智能 by Brian Kernighan - https://www.youtube.com/watch?v=O9upVbGSBFo
+- 2.使用go build指示符(directive)有选择地使用标准库新API - https://utcc.utoronto.ca/~cks/space/blog/programming/GoBuildUsingNewAPIs
+- 3.pebble: CockroachDB使用的类RocksDB的高性能key-value缓存数据库 - https://github.com/cockroachdb/pebble
+- 4.微软开源监控利器procmon的linux版本 - https://github.com/microsoft/ProcMon-for-Linux
+- 5.OpenAI的GPT-3可能是自比特币以来的最大事情 - https://maraoz.com/2020/07/18/openai-gpt3/
+
 ## gocn_news_2020-07-20
 - 1.Go2 泛型语法变更讨论 https://groups.google.com/forum/#! topic/golang-nuts/7t-Q2vt60J8
 - 2.深入理解 Goroutine 和 Channel https://medium.com/wesionary-team/understanding-go-routine-and-channel-b09d7d60e575
