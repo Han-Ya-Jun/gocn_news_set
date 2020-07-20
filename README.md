@@ -5,6 +5,34 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go语言中文网(每日资讯)_2020-07-20
+
+一、Go语言中文网
+
+1. [Go 中你使用全局变量吗？如何更好的进行隔离？](https://mp.weixin.qq.com/s/XzSD37erjZMuW2Z_Qr7F3A)
+
+2. [使用pprof和go-torch排查golang的性能问题](https://mp.weixin.qq.com/s/Xa3fs6tD-8nbVUCHHuIf7g)
+
+3. [为什么 0.1 + 0.2 = 0.300000004](https://mp.weixin.qq.com/s/QsEe34pcimNdqCb99h44cQ)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-19）](https://studygolang.com/topics/11936)
+
+三、 Go 夜读
+
+1. [【本周四预告】第 97 期我们可以从 mosn 和相关的项目中学习到什么](https://mp.weixin.qq.com/s/Gx7xChH8Nnmdh8-mLWVZgg)
+
+四、 polarisxu
+
+1. [由一个问题引发的 goroutine 相关源码的探究](https://mp.weixin.qq.com/s/T2nqjNlfGmBTOIeF6jidYA)
+
+五、 MoeLove
+
+1. [K8S 生态周报| Traefik v2.3.0-rc2 发布](https://mp.weixin.qq.com/s/59ib5Hb4iV7CxCKQZKhjww)
+
 ## gopherDaily_2020-07-20
 - 1.油管视频：Unix、C、Go和人工智能 by Brian Kernighan - https://www.youtube.com/watch?v=O9upVbGSBFo
 - 2.使用go build指示符(directive)有选择地使用标准库新API - https://utcc.utoronto.ca/~cks/space/blog/programming/GoBuildUsingNewAPIs
