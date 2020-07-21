@@ -4,6 +4,29 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-21
+一、Go语言中文网
+
+1. [GoLand 2020.2 Beta 版发布：go.mod 升级以及对泛型的实验性支持](https://mp.weixin.qq.com/s/CQ1lVU4y03iNQL5lFcuxUQ)
+
+2. [Redis 作者面试会要求实现一个二叉搜索树：Go 如何实现？](https://mp.weixin.qq.com/s/8YoAg2DVBwjl8THocYHnmg)
+
+3. [为什么 Linux 需要虚拟内存](https://mp.weixin.qq.com/s/TUpAxFDq5EZfQIVZB7cDZg)
+
+4. [golang 垃圾回收 （一）概述篇](https://mp.weixin.qq.com/s/5nNd7LqdqVvHDgzDA3Ug5Q)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-20）](https://studygolang.com/topics/11940)
+
+三、 从菜鸟到大佬
+
+1. [Golang领域模型-资源库](https://mp.weixin.qq.com/s/h3s47-D-RyYgs6QrTNZT0g)
+
+四、互联网后端架构
+
+1. [服务治理在猫眼娱乐的演进之路](https://mp.weixin.qq.com/s/yZYyPcZIXkg9sDPOFcIR5g)
+
 
 
 ## go语言中文网(每日资讯)_2020-07-20
