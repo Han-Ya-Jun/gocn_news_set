@@ -4,6 +4,33 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-22
+一、Go语言中文网
+
+1. [字节跳动踩坑记：Go 服务内存暴涨](https://mp.weixin.qq.com/s/eCR7cIqvr9_7mrvhwuETCQ)
+
+2. [golang 垃圾回收（二）屏障技术](https://mp.weixin.qq.com/s/_6mDOVRPEx6uk28EJ_0kiw)
+
+3. [Go 刷 leetcode｜割韭菜的最佳时机](https://mp.weixin.qq.com/s/8H1kKQ1SoHYdt4KgtIvyZg)
+
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-21）](https://studygolang.com/topics/11948)
+
+三、一艘慢船
+
+1. [Go 编程: 如何实现协程调度的精准控制](https://www.gitdig.com/post/go-schedule-control/)
+
+四、企鹅杏仁技术站
+
+1. [一个IO的旅程](https://mp.weixin.qq.com/s/fMaevGl0Qg25wfQ8uXqvEw)
+
+五、 Go 夜读
+
+1. [Go 新特性的诞生：Draft Proposal](https://mp.weixin.qq.com/s/mTbjKJ73lba02M2g9wRh_w)
+
+
 ## gocn_news_2020-07-22
 - 1.io/fs 草案设计概述 https://www.reddit.com/r/golang/comments/hv976o/qa_iofs_draft_design/
 
