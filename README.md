@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-07-22
+- 1.io/fs 草案设计概述 https://www.reddit.com/r/golang/comments/hv976o/qa_iofs_draft_design/
+
+- 2.Gopher 读物清单 https://github.com/ardanlabs/gotraining/blob/master/reading/README.md
+
+- 3.为什么 Go 的错误处理很棒？还是有人很喜欢 https://mp.weixin.qq.com/s/wYkta4h6OYUxKnlIZD7T_g
+
+- 4.go runtime debug 小技巧 https://mp.weixin.qq.com/s/eHpRCh6B1Y_urDwYWJcyDQ
+
+- 5.query2metric 把 DB 查询转换为 prometheus 指标  https://github.com/yolossn/query2metric/
+
+
+
 ## gopherDaily_2020-07-22
 - 1.Go草案：增加io/fs包，定义了只读文件树的接口 - https://github.com/golang/proposal/blob/master/design/draft-iofs.md
 - 2.Go草案：通过//go:embed将静态文件嵌入Go二进制文件 - https://github.com/golang/proposal/blob/master/design/draft-embed.md
