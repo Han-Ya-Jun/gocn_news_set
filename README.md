@@ -4,6 +4,17 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-07-22
+- 1.Go草案：增加io/fs包，定义了只读文件树的接口 - https://github.com/golang/proposal/blob/master/design/draft-iofs.md
+- 2.Go草案：通过//go:embed将静态文件嵌入Go二进制文件 - https://github.com/golang/proposal/blob/master/design/draft-embed.md
+- 3.Go草案：在go工具链中增加模糊测试支持 - https://github.com/golang/proposal/blob/master/design/40307-fuzzing.md
+- 4.那些有用的Go工具包 - https://www.golangprograms.com/go-programming-language-packages.html
+- 5.gebug: 更好地调试容器化的go应用 - https://github.com/moshebe/gebug
+- 6.使用Grafana，InfluxDB和CollectD监视基础架构 - https://serhack.me/articles/monitoring-infrastructure-grafana-influxdb-connectd/
+- 7.关于编程的一些思考(系列文章) - https://www.benkuhn.net/progessays/
+- 8.为什么python不像Go那样需要一个main函数 - https://utcc.utoronto.ca/~cks/space/blog/python/WhyNoMainFunction
+
+
 ## go语言中文网(每日资讯)_2020-07-21
 一、Go语言中文网
 
