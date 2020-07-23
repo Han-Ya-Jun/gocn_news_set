@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-07-23
+- 1.bee 智能化代码生成器，一分钟实现前后端系统 https://gocn.vip/topics/10724
+
+- 2.Golang 中的表驱动测试 https://medium.com/@pliutau/table-driven-tests-in-go-5d7e230681da
+
+- 3.Golang 实现的 SMS 验证工具，轻松获取一次性 SMS 号码 https://github.com/upmasked/number-verifier
+
+- 4.函数——go 世界中的一等公民 https://segmentfault.com/a/1190000023340324
+
+- 5.Go 模糊测试草案 https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md
+
+
+
 ## go语言中文网(每日资讯)_2020-07-22
 一、Go语言中文网
 
