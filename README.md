@@ -4,6 +4,34 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## go语言中文网(每日资讯)_2020-07-24
+一、Go语言中文网
+
+1. [这个代码竟然报错了？Go 的不可寻址值了解下](https://mp.weixin.qq.com/s/fgy3FnfvFgRMjQ8in_otjA)
+
+2. [为 Gopher 打造 DDD 系列：领域模型-六边形架构](https://mp.weixin.qq.com/s/eggKfDHkSJDpidzufSrdaQ)
+
+3. [golang 垃圾回收（三）插入写屏障](https://mp.weixin.qq.com/s/EvxJ8z6-Hk29myGVRuYWcA)
+
+4. [Go 刷 leetcode｜继续买股票？](https://mp.weixin.qq.com/s/t5gNZN_UCj2s7j6tSNoECw)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-23）](https://studygolang.com/topics/11962)
+
+三、 polarisxu
+
+1. [Go 语言 Web 框架 Echo 系列：定制篇3 — 自定义 Logger，用你喜欢的日志库](https://mp.weixin.qq.com/s/hZzcce4S4D0B6tXeorb8-A)
+
+四、 架构头条
+
+1. [快手自研kQUIC：千万级QPS集群是如何实现的？](https://mp.weixin.qq.com/s/feAKI89JpdWHG18yFxZCBw)
+
+五、云加社区
+
+1. [腾讯广告上云：架构设计与优化方案全解析](https://mp.weixin.qq.com/s/34zxjiXF6Rq5geVEw1eFvw)
+
 ## gocn_news_2020-07-24
 - 1.Go 的泛型 https://www.capitalone.com/tech/software-engineering/generics-in-go/
 - 2.前后端分离的 Web 应用如何在 k8s 上独立部署 https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/
