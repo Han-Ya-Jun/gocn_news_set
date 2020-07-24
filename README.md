@@ -4,6 +4,20 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-07-24
+- 1.Go 的泛型 https://www.capitalone.com/tech/software-engineering/generics-in-go/
+- 2.前后端分离的 Web 应用如何在 k8s 上独立部署 https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/
+- 3.使用 Go 语言连接 IRC 服务 https://dev.to/mnlwldr/connect-to-an-irc-server-with-golang-fj9
+- 4.使用 GoSDK 试玩 Azure 的 Data Explorer https://itnext.io/getting-started-with-azure-data-explorer-using-the-go-sdk-807c50bc8105
+- 5.Docker registry GC 原理分析 https://mp.weixin.qq.com/s/D8BFeEcbwDiB5PhM824CvQ
+## gopherDaily_2020-07-24
+- 1.Go2 playground支持采用方括号[ ]的泛型语法 - https://go2goplay.golang.org/
+- 2.播客：与Go语言相伴的第一周 - https://changelog.com/gotime/138
+- 3.Go程序“浮肿”的原因分析 - https://paper.dropbox.com/doc/Bloaty-Puffs-and-the-Go-Compiler-YiblPOe6AD2tKfEj5RzFT
+- 4.Go代码风格指南集合 - https://github.com/dgryski/awesome-go-style
+- 5.如何用Go实现"sign with google" - https://qvault.io/2020/07/22/how-to-implement-sign-in-with-google-in-golang/
+- 6.go-flow-levee: 该静态分析工具可确保您程序的数据流不会溢出到其库之外，从而保证避免暴露敏感数据 - https://github.com/google/go-flow-levee
+
 ## go语言中文网(每日资讯)_2020-07-23
 一、Go语言中文网
 
