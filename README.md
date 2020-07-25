@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-07-25
+- 1.Go 1.15 RC1发布 - https://tip.golang.org/doc/go1.15
+- 2.播客：Testify的未来 - https://changelog.com/gotime/139
+- 3.Go中函数具有多态性 - https://crro.github.io/2020-07-17/interface-functions-go
+- 4.使用JWT在Go中进行身份验证 - https://auth0.com/blog/authentication-in-golang/
+- 5.在k8s集群中如何备份和恢复MySQL - https://portworx.com/how-to-backup-and-restore-mysql-on-kubernetes/
+- 6.如何在Kubernetes上转储被OOM杀掉的进程 - https://medium.com/@pamir.erdem/how-to-dump-oomkilled-process-on-kubernetes-b77cccf421a2
+
+
 
 ## go语言中文网(每日资讯)_2020-07-24
 一、Go语言中文网
