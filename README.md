@@ -4,6 +4,18 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gocn_news_2020-07-25
+- 1.GoLand 2020.2 首个 RC 版本发布 https://www.oschina.net/news/117438/goland-2020-2-rc-released
+
+- 2.goroutine 间的同步&协作 https://www.cnblogs.com/win-for-life/p/13372984.html
+
+- 3.Go 语言系列之手把手教你撸一个 ORM https://www.cnblogs.com/Tassdar/p/13373289.html
+
+- 4.TiDB 为什么你需要混沌工程以及 Chaos Mesh® https://gocn.vip/topics/10688
+
+- 5.分布式作业管理系统 Asgard 分布式作业管理系统 Asgard
+
+
 ## gopherDaily_2020-07-25
 - 1.Go 1.15 RC1发布 - https://tip.golang.org/doc/go1.15
 - 2.播客：Testify的未来 - https://changelog.com/gotime/139
