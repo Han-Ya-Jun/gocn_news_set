@@ -35,6 +35,45 @@
 
 1. [[译]Go的垃圾收集：第一部分-语义](https://mp.weixin.qq.com/s/Ad8-56INkk23LpGJ5tIfgw)
 
+## gocn_news_2020-07-26
+- 1.优化 Go context 带参数下的使用体验 https://medium.com/@nate510/structuring-go-grpc-microservices-dd176fdf28d0
+- 2.在 Go 中如何给所有请求添加 header https://developer20.com/add-header-to-every-request-in-go
+- 3.结构化 Go gGRPC 微服务 https://medium.com/@nate510/structuring-go-grpc-microservices-dd176fdf28d0
+- 4.无 cookie 模式下的服务端追踪 https://medium.com/dev-genius/server-side-tracking-without-cookies-in-go-44f3703331ba
+- 5.教你构造一个支持并发下载的下载器 https://youtu.be/vdhSk8vCx-k
+
+
+## go语言中文网(每日资讯)_2020-07-25
+一、Go 语言中文网
+
+1. [字节跳动踩坑记#2：Go 服务锁死](https://mp.weixin.qq.com/s/010n8d2SohKcpl7fXKjxQg)
+
+2. [从零开始入门 K8s | 应用存储和持久化数据卷：存储快照与拓扑调度](https://mp.weixin.qq.com/s/mSH3RsZZuWsmF5yC4V0d_Q)
+
+3. [golang 垃圾回收（四） - 删除写屏障](https://mp.weixin.qq.com/s/d-j0LJyrm0aTvyUGCjfarw)
+
+4. [Go 刷 leetcode ｜动态规划之简单验收](https://mp.weixin.qq.com/s/fyzdzqDJPwuivo1OjKRvaw)
+
+二、亚军进化史
+
+1. [Go 技术日报（2020-07-24）](https://studygolang.com/topics/11969 "Go技术日报（2020-07-24）")
+
+三、 felix021
+
+1. [Go: 关于锁的 1234](https://mp.weixin.qq.com/s/TRE8_0wLYv22NHXpMmvKqw)
+
+四、腾讯效能
+
+1. [关于持续交付中 Git 分支管理的思考](https://mp.weixin.qq.com/s/jOxXQeR5oC4KOZxlYKK69A)
+## gopherDaily_2020-07-25
+- 1.为什么选择Go(而不是python, node.js和rust)？一劳永逸地解决辩论 - https://www.bacancytechnology.com/blog/why-choose-golang-over-python-rust-and-nodejs
+- 2.Go Challenges集合(数据结构与算法) - https://tutorialedge.net/challenges/go/
+- 3.使用Go编写中间件的乐趣 - https://medium.com/@matryer/writing-middleware-in-golang-and-how-go-makes-it-so-much-fun-4375c1246e81
+- 4.kubernetes pod安全策略 - https://developer.squareup.com/blog/kubernetes-pod-security-policies/
+- 5.备份k8s中有状态应用的工具 - https://github.com/stashed/stash
+- 6.通过二维码在同一网络下分享文件 - https://github.com/prdpx7/go-fileserver
+- 7.用GitHub Actions做几个“愚蠢”(但有趣)的事情 - https://devopsdirective.com/posts/2020/07/stupid-github-actions/
+- 8.evergreen：mongodb开源的分布式持续集成系统 - https://github.com/evergreen-ci/evergreen
 ## gocn_news_2020-07-25
 - 1.GoLand 2020.2 首个 RC 版本发布 https://www.oschina.net/news/117438/goland-2020-2-rc-released
 
