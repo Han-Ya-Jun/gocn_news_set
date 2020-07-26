@@ -4,6 +4,37 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-26
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 53 期](https://mp.weixin.qq.com/s/KmdoNHkWhn_btk2tHWhdlw)
+
+2. [服务治理在猫眼娱乐的演进之路](https://mp.weixin.qq.com/s/fOE6X6ejxFEV9y2ESi3cSw)
+
+3. [Go 编程: 如何实现协程调度的精准控制](https://mp.weixin.qq.com/s/8fz2FRZpgwEkrC3b2pOXdQ)
+
+4. [Go 刷 leetcode｜炒股赚大钱之有手续费](https://mp.weixin.qq.com/s/cHAj-EKNOIFhldcFZPmI1Q)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-25）](https://studygolang.com/topics/11973)
+
+三、分布式实验室
+
+1. [爱奇艺视频后台从“单兵作战”到“团队协作”的微服务实践](https://mp.weixin.qq.com/s/T7Pfjlf8MMvj22_E98JrXQ)
+
+四、从菜鸟到大佬
+
+1. [Golang领域模型-依赖倒置](https://mp.weixin.qq.com/s/k4Wm3ri36qLLTlEsyG0QOw)
+
+五、FreeBuf
+
+1. [HTTP/3协议的安全优势与挑战](https://mp.weixin.qq.com/s/S0darF4i9_ly85edL3W4bw)
+
+六、 不务正业的豆腐酱 
+
+1. [[译]Go的垃圾收集：第一部分-语义](https://mp.weixin.qq.com/s/Ad8-56INkk23LpGJ5tIfgw)
+
 ## gocn_news_2020-07-25
 - 1.GoLand 2020.2 首个 RC 版本发布 https://www.oschina.net/news/117438/goland-2020-2-rc-released
 
