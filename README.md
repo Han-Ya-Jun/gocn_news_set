@@ -4,6 +4,33 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-27
+一、Go语言中文网
+
+1. [全面讲解 goroutine 间的同步&协作](https://mp.weixin.qq.com/s/nTSpQkE6As5YrfO2NevKcw)
+
+2. [为 Gopher 打造 DDD 系列：领域模型-实体](https://mp.weixin.qq.com/s/qsLtPqnutBSZS1YhF-DC_A)
+
+3. [2020重学Go系列：37. 反引号的妙用—结构体里的 Tag 标签](https://mp.weixin.qq.com/s/kZ9yrT355U2_iuxOnubjkQ)
+
+4. [为什么 MySQL 的自增主键不单调也不连续](https://mp.weixin.qq.com/s/_QQNKEYKHcB8Jmrml8hj5w)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-26）](https://studygolang.com/topics/11982)
+
+三、MoeLove
+
+1. [K8S 生态周报| NGINX Ingress Controller又添新特性](https://mp.weixin.qq.com/s/W6Io8Cgzpc37BKwhxHOJ8Q)
+
+四、IT大咖说
+
+1. [Golang 写的即时通讯服务器 im（服务组件形式）](https://mp.weixin.qq.com/s/-ghquk2tmEwYiX8es970TQ)
+
+五、高可用架构
+
+1. [Dubbo-go 发布 1.5 版，朝云原生迈出关键一步](https://mp.weixin.qq.com/s/zqRmQ3gsdKj47cO22Dwczw)
+
 ## go语言中文网(每日资讯)_2020-07-26
 一、Go语言中文网
 
