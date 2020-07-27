@@ -31,6 +31,13 @@
 
 1. [Dubbo-go 发布 1.5 版，朝云原生迈出关键一步](https://mp.weixin.qq.com/s/zqRmQ3gsdKj47cO22Dwczw)
 
+## gocn_news_2020-07-27
+- 1.Go Error 中好、坏、丑陋的地方 https://medium.com/@sonus21/the-good-bad-and-ugly-of-go-errors-cd6841b02ee8
+- 2.Go + Jenkins 自动化部署方案 https://www.jianshu.com/p/e81084d3756d
+- 3.Go 常见库 cobra 教程 https://segmentfault.com/a/1190000023382214
+- 4.最新 Viper 视频教程 https://www.youtube.com/watch?v=ggxGznvdKMo
+- 5.Go 容器应用 Debug 工具 https://github.com/moshebe/gebug
+
 ## go语言中文网(每日资讯)_2020-07-26
 一、Go语言中文网
 
