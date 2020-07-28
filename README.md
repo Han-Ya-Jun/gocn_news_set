@@ -4,6 +4,31 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-28
+一、Go语言中文网
+
+1. [goroutine的退出与泄露：如何检测和预防](https://mp.weixin.qq.com/s/Tq1Pi9NeOhKvr62S-X2Jdw)
+
+2. [为什么 0.1 + 0.2 = 0.3](https://mp.weixin.qq.com/s/piF_TQr_WpEC3b7A3nWaAQ)
+
+3. [Go 刷 leetcode｜经典力扣第一题](https://mp.weixin.qq.com/s/Vdh8CQaJrN0IqOAvxAOowg)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-27）](https://studygolang.com/topics/11995)
+
+三、Go 夜读
+
+1. [【本周四预告】第 98 期 Go 中的类型递归](https://mp.weixin.qq.com/s/QLEelBUROxAzrkONa6pG_Q)
+
+四、分布式实验室
+
+1. [Docker 极简入门教程](https://mp.weixin.qq.com/s/S6X2d8mxKOlMK0qFk4_rXg)
+
+五、中生代技术
+
+1. [程序员怎样在35岁前实现财务自由？](https://mp.weixin.qq.com/s/chxww__qTqbZWIdAbbv3WQ)
+
 ## gocn_news_2020-07-28
 - 1.记一次简单的 Go 反射实战 https://juejin.im/post/5f1e2e4af265da22f751e7fa
 
