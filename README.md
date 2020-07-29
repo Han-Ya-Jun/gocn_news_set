@@ -4,6 +4,19 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-07-29
+- 1.Go的“WaitGroup” vs. JavaScript的“PromiseAll” - https://hackernoon.com/a-quick-coding-lesson-on-gos-waitgroup-vs-javascripts-promiseall-ax2q3ufu
+- 2.Go与Kotlin中实现并行请求的对比 - https://aawadia.hashnode.dev/parallel-requests-in-kotlin-vs-golang-ckcwqa37000cm7ss12rp3330a
+- 3.扩展kubernetes - part1: custom operator - https://medium.com/@krvarma/extending-kubernetes-part-1-custom-operator-b6745c42be4f
+- 4.揭秘容器 - https://blog.pratikms.com/demystifying-containers-ckbjqjqa202640ns1vo369ufu
+- 5.从容器化应用中学到的东西 - https://hackernoon.com/what-we-learned-by-dockerizing-our-applications-jk1y3xrx
+- 6.gearbox: 聚焦于高性能的web框架 - https://github.com/gogearbox/gearbox
+- 7.goflow: 高性能、可扩展、分布式工作流框架 - https://github.com/faasflow/goflow
+- 8.为什么现在是使用GNOME的最佳时机 - https://opensource.com/article/20/7/new-gnome-features
+- 9.github发布public产品路标 - https://github.blog/2020-07-28-announcing-the-github-public-roadmap/
+- 10.正则表达式可视化 - https://blog.robertelder.org/regular-expression-visualizer/
+
+
 ## go语言中文网(每日资讯)_2020-07-28
 一、Go语言中文网
 
