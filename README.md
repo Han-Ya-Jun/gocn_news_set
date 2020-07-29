@@ -4,6 +4,57 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-29
+一、Go语言中文网
+
+1. [实战项目：用 Go 实现进度条功能](https://mp.weixin.qq.com/s/ub9AQWvpfkyZJIeaJk1z5w)
+
+2. [为 Gopher 打造 DDD 系列：领域模型-资源库](https://mp.weixin.qq.com/s/1a8Zij5QfZ2DBPFN5v0LDw)
+
+3. [MAC 地址为什么不需要全球唯一](https://mp.weixin.qq.com/s/Z2N3xJE6YdLOoq5FofRUgg)
+
+4. [Go 刷 leetcode｜面试常客双指针算法题](https://mp.weixin.qq.com/s/hZ0sesGMEUrnkPfDSkgPUQ)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-28）](https://studygolang.com/topics/12001)
+
+三、polarisxu
+
+1. [Go 语言 Web 框架 Echo 系列：定制篇4—自定义 Renderer，增强或替换模板引擎](https://mp.weixin.qq.com/s/RDqegHWYW36y3VZuuM37yQ)
+
+四、分布式实验室
+
+1. [浅谈微服务体系中的分层设计和领域划分](https://mp.weixin.qq.com/s/Q8yQXWQCxZbkCl_0e_WRwg)
+
+五、架构师之路 
+
+1. [帖子中心，1亿数据，架构如何设计？](https://mp.weixin.qq.com/s/40uJBsgFWhcrJ3Xvkraulg)一、Go语言中文网
+
+1. [实战项目：用 Go 实现进度条功能](https://mp.weixin.qq.com/s/ub9AQWvpfkyZJIeaJk1z5w)
+
+2. [为 Gopher 打造 DDD 系列：领域模型-资源库](https://mp.weixin.qq.com/s/1a8Zij5QfZ2DBPFN5v0LDw)
+
+3. [MAC 地址为什么不需要全球唯一](https://mp.weixin.qq.com/s/Z2N3xJE6YdLOoq5FofRUgg)
+
+4. [Go 刷 leetcode｜面试常客双指针算法题](https://mp.weixin.qq.com/s/hZ0sesGMEUrnkPfDSkgPUQ)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-28）](https://studygolang.com/topics/12001)
+
+三、polarisxu
+
+1. [Go 语言 Web 框架 Echo 系列：定制篇4—自定义 Renderer，增强或替换模板引擎](https://mp.weixin.qq.com/s/RDqegHWYW36y3VZuuM37yQ)
+
+四、分布式实验室
+
+1. [浅谈微服务体系中的分层设计和领域划分](https://mp.weixin.qq.com/s/Q8yQXWQCxZbkCl_0e_WRwg)
+
+五、架构师之路 
+
+1. [帖子中心，1亿数据，架构如何设计？](https://mp.weixin.qq.com/s/40uJBsgFWhcrJ3Xvkraulg)
+
 ## gopherDaily_2020-07-29
 - 1.Go的“WaitGroup” vs. JavaScript的“PromiseAll” - https://hackernoon.com/a-quick-coding-lesson-on-gos-waitgroup-vs-javascripts-promiseall-ax2q3ufu
 - 2.Go与Kotlin中实现并行请求的对比 - https://aawadia.hashnode.dev/parallel-requests-in-kotlin-vs-golang-ckcwqa37000cm7ss12rp3330a
