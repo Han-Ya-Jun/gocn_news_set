@@ -4,6 +4,30 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## go语言中文网(每日资讯)_2020-07-30
+一、Go语言中文网
+
+1. [字节跳动踩坑记#3：Go服务灵异panic](https://mp.weixin.qq.com/s/WJGqMJ9Hvtl4nMjdbvo3KA)
+
+2. [ascii 图解 Go Context：这功力实在是深](https://mp.weixin.qq.com/s/e9xMLhDVOAOV3EbE6uGVig)
+
+3. [为什么 IPv6 难以取代 IPv4](https://mp.weixin.qq.com/s/OBv8GloeHErzAH6xNp9Q_Q)
+
+4. [Go 刷 leetcode｜大厂面试必备变形题](https://mp.weixin.qq.com/s/OE3AME_5jO5giYkEMDUvjg)
+
+二、亚军进化史
+
+1. [Go技术日报（2020-07-29）](https://studygolang.com/topics/12006)
+
+三、董泽润的技术笔记
+
+1. [初探 raft](https://mp.weixin.qq.com/s/BPxTP9jSI1vzXcf9EqZteQ)
+
+四、DevOps技术栈
+
+1. [一次搞明白 Docker 容器资源限制](https://mp.weixin.qq.com/s/L-ZqjsF19q2aOzSNv483Cg)
+
 ## go语言中文网(每日资讯)_2020-07-29
 一、Go语言中文网
 
