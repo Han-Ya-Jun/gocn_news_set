@@ -28,6 +28,15 @@
 
 1. [一次搞明白 Docker 容器资源限制](https://mp.weixin.qq.com/s/L-ZqjsF19q2aOzSNv483Cg)
 
+
+## gocn_news_2020-07-30
+1.分布式定时任务调度平台 https://github.com/labulaka521/crocodile
+2.Go-Micro 快速开发包 https://github.com/micro-in-cn/starter-kit
+3.使用 Go+mondodb+jwt 实现用户注册和登陆 https://dormoshe.io/trending-news/user-registration-and-login-template-using-golang-mongodb-and-jwt-11895
+4.打造高可用实时事件驱动生态系统的挑战 https://www.infoq.com/articles/realtime-event-driven-ecosystem/
+5.Go 测试：模拟 redis https://itnext.io/golang-testing-mocking-redis-b48d09386c70
+
+
 ## go语言中文网(每日资讯)_2020-07-29
 一、Go语言中文网
 
