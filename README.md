@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## gocn_news_2020-08-01
+- 1.GoLand 2020.2 稳定版发布 https://www.oschina.net/news/117599/goland-2020-2-released
+- 2.聊聊 dubbo-go 的 apolloConfiguration https://segmentfault.com/a/1190000023458677
+- 3.dubbo-go 中使用 sentinel https://gocn.vip/topics/10769
+- 4.深度剖析 Golang 的 GC 扫描对象的实现 https://mp.weixin.qq.com/s/OxSI9IMwtQNvcrvndG4e-g
+- 5.来自 MongoDB 的分布式持续集成系统 https://mp.weixin.qq.com/s/nhfYE5Q_ZoYQ3cNvVapBgA
+
 ## go语言中文网(每日资讯)_2020-07-31
 一、Go语言中文网
 
