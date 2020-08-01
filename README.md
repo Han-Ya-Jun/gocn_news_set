@@ -4,6 +4,28 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-08-01
+一、Go语言中文网
+
+1. [你的 Go 应用健康吗？如何进行保障？阿里技术专家告诉你](https://mp.weixin.qq.com/s/fiqmjPaO7iBaVXm3uJIhSA)
+
+2. [Go 每日一库之 mapstructure](https://mp.weixin.qq.com/s/n_AXYv-p_ev-q23mhpDkOg)
+
+3. [为什么集群需要 Overlay 网络](https://mp.weixin.qq.com/s/--seAtKAtIBHQna_HNLMGQ)
+
+4. [Docker容器的"单进程模型"](https://mp.weixin.qq.com/s/DAy_ICNeY2j3mKYLVQR2AA)
+
+二、有点技术
+
+1. [istio证书签发流程](https://mp.weixin.qq.com/s/JmWWXcYVGEYrGXiqbbNnuA)
+
+三、Go夜读
+
+1. [第 98 期 2020-07-30 Go 中的类型递归回放](https://talkgo.org/t/topic/613)
+
+四、qyuhen
+
+1. [4.4.1.1闭包实现原理](https://www.yuque.com/docs/share/bdf99227-072f-4154-b5b8-52cb726c9e01)
 
 ## gopherDaily_2020-08-01
 - 1.Go泛型：基本语法 by William Kennedy - https://www.ardanlabs.com/blog/2020/07/generics-01-basic-syntax.html
