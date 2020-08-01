@@ -31,8 +31,22 @@
 
 1. [两年经验斩获蚂蚁、头条、PingCAP Offer，太帅了](https://mp.weixin.qq.com/s/QgRE2NBG8fUf_tkdlm8e-w)
 
+## gocn_news_2020-07-31
+- 1.Go 中高质量数据库集成测试的 4 原则 https://threedots.tech/post/database-integration-testing/
+- 2.Go 进阶 48:单元测试和 Interface(译) https://mojotv.cn/go/go-unit-test-interface
+- 3.海到无边天作岸—Go 接口辛秘 https://gocn.vip/topics/10759
+- 4.聊聊 dubbo-go 的 kubernetesRegistry https://segmentfault.com/a/1190000023441551
+- 5.Go 语言 Web 框架 Echo 系列：定制篇 4—自定义 Renderer 增强或替换模板引擎
 
-
+## gopherDaily_2020-07-31
+- 1.播客：和Robert Griesemer和Ian Lance Taylor聊Go泛型最新进展 -  https://changelog.com/gotime/140
+- 2.Go http路由的不同方法 - https://benhoyt.com/writings/go-routing/
+- 3.对Goroutine的那些常见误解 - https://medium.com/swlh/go-common-misconceptions-about-goroutines-9dfa4bca3ba8
+- 4.Go高质量数据库集成测试的四条实战原则 - https://threedots.tech/post/database-integration-testing/
+- 5.使用Go构建全文搜索引擎 - https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
+- 6.使用jwt加固api安全 - https://schadokar.dev/posts/secure-your-api-using-jwt-in-golang/
+- 7.dropbox实践：从nginx迁移到envoy - https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy
+- 8.经典旧文：当dns parser遇到go fuzzer - https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/
 
 ## go语言中文网(每日资讯)_2020-07-30
 一、Go语言中文网
