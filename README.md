@@ -4,6 +4,35 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-07-31
+一、Go语言中文网
+
+1. [最佳实践：这才是构建 Go 语言 Docker 镜像该有的姿势](https://mp.weixin.qq.com/s/orAo0rv1cJBkxVagry7Ngg)
+
+2. [Go 调试分析的高阶技巧](https://mp.weixin.qq.com/s/GJxHVbaVXnHussFXf1tDMQ)
+
+3. [容器化Go应用--基础镜像的未知时区问题](https://mp.weixin.qq.com/s/-XcjvNeFpIU5Nrqa44PfWA)
+
+4. [leetcode｜被一道美团面试题转晕](https://mp.weixin.qq.com/s/EZuctdoUdrh0nOcq6RdYog)
+
+二、奇伢云存储
+
+1. [深度剖析 Golang 的 GC 扫描对象的实现](https://mp.weixin.qq.com/s/OxSI9IMwtQNvcrvndG4e-g)
+
+三、云原生技术爱好者社区
+
+1. [Kustomize ConfigMapGenerate自动生成ConfigMap中的坑](https://mp.weixin.qq.com/s/6MG5VsTqvhqX7JTdJG78-g)
+
+四、GoUpUp
+
+1. [Go 每日一库之 mapstructure](https://mp.weixin.qq.com/s/ZunhZP7EA2tkQWLd-U7Tww)
+
+五、分布式实验室
+
+1. [两年经验斩获蚂蚁、头条、PingCAP Offer，太帅了](https://mp.weixin.qq.com/s/QgRE2NBG8fUf_tkdlm8e-w)
+
+
+
 
 ## go语言中文网(每日资讯)_2020-07-30
 一、Go语言中文网
