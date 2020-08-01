@@ -5,6 +5,16 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## gopherDaily_2020-08-01
+- 1.Go泛型：基本语法 by William Kennedy - https://www.ardanlabs.com/blog/2020/07/generics-01-basic-syntax.html
+- 2.油管视频：Go的几个常见的脆弱性 - https://www.youtube.com/watch?v=a1qrjtrmOj0&feature=youtu.be
+- 3.使用Go自动化你的github profile - https://dev.to/victoria/go-automate-your-github-profile-readme-2344
+- 4.深入浅出监控: 日志、跟踪和度量指南 - https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics
+- 5.如何在k8s上分别部署React前端和Go后端 - https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/
+- 6.使用Go从零起步操作音频系列 - https://dylanmeeus.github.io/posts/audio-from-scratch-pt4/
+- 7.使用vault和jetstack cert-manager对k8s的igress进行安全加固 - https://medium.com/hashicorp-engineering/securing-k8s-ingress-traffic-with-hashicorp-vault-pkiaas-and-jetstack-cert-manager-cb46195742ca
+- 8.京东如何使用Harbor作为私有镜像仓库节省了60％的维护时间 - https://www.cncf.io/blog/2020/06/24/how-jd-com-saves-60-maintenance-time-using-harbor-for-its-private-image-central-repository/
+
 ## gocn_news_2020-08-01
 - 1.GoLand 2020.2 稳定版发布 https://www.oschina.net/news/117599/goland-2020-2-released
 - 2.聊聊 dubbo-go 的 apolloConfiguration https://segmentfault.com/a/1190000023458677
