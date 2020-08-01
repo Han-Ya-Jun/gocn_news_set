@@ -36,7 +36,7 @@
 - 2.Go 进阶 48:单元测试和 Interface(译) https://mojotv.cn/go/go-unit-test-interface
 - 3.海到无边天作岸—Go 接口辛秘 https://gocn.vip/topics/10759
 - 4.聊聊 dubbo-go 的 kubernetesRegistry https://segmentfault.com/a/1190000023441551
-- 5.Go 语言 Web 框架 Echo 系列：定制篇 4—自定义 Renderer 增强或替换模板引擎
+- 5.Go 语言 Web 框架 Echo 系列：定制篇 4—自定义 Renderer 增强或替换模板引擎 https://mp.weixin.qq.com/s/RDqegHWYW36y3VZuuM37yQ
 
 ## gopherDaily_2020-07-31
 - 1.播客：和Robert Griesemer和Ian Lance Taylor聊Go泛型最新进展 -  https://changelog.com/gotime/140
