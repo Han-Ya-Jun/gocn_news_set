@@ -4,6 +4,13 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## gopherDaily_2020-08-02
+- 1.如何通过atomic包减少锁竞争 - https://medium.com/a-journey-with-go/go-how-to-reduce-lock-contention-with-the-atomic-package-ba3b2664b549
+- 2.观点：pkg.go.dev更关心Google的利益，而不是良好的工程设计 - https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html
+- 3.Go陷阱 - https://www.golangprograms.com/go-programming-language.html
+- 4.k8s.io/client-go动态客户端应用实例 - https://ymmt2005.hatenablog.com/entry/2020/04/14/An_example_of_using_dynamic_client_of_k8s.io/client-go
+- 5.油管视频：少写代码，多生成 - https://www.youtube.com/watch?v=xcpboZZy-64
 ## go语言中文网(每日资讯)_2020-08-01
 一、Go语言中文网
 
