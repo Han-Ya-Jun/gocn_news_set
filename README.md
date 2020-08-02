@@ -5,6 +5,13 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## gocn_news_2020-08-02
+- 1.Go 进阶 34:Chromedp 浏览器模拟和截图微服务 https://mojotv.cn/go/chromedp-example
+- 2.Go 语言系列 https://juejin.im/post/6854573215764152333
+- 3.Docker 组件 go-event 源码学习 https://studygolang.com/articles/30112
+- 4.聊聊 dubbo-go 的 DefaultHealthChecker https://segmentfault.com/a/1190000023465702
+- 5.Golang 自定义结构体转 map https://studygolang.com/articles/30089
 ## gopherDaily_2020-08-02
 - 1.如何通过atomic包减少锁竞争 - https://medium.com/a-journey-with-go/go-how-to-reduce-lock-contention-with-the-atomic-package-ba3b2664b549
 - 2.观点：pkg.go.dev更关心Google的利益，而不是良好的工程设计 - https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html
