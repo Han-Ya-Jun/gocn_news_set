@@ -4,6 +4,28 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-08-02
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 54 期](https://mp.weixin.qq.com/s/waVNxQWg7775eK7K6gJkHQ)
+
+2. [开源项目的最佳实践：像管理代码一样管理数据库的变更（Go库）](https://mp.weixin.qq.com/s/hkD7MRJJW-MNT4zeCk5fYA)
+
+3. [图解一致性哈希算法，全网（小区局域网）最通俗易懂](https://mp.weixin.qq.com/s/B6YrleMy5Dy0xGZx1XHJTg)
+
+4. [为什么 Linux 系统调用会消耗较多资源](https://mp.weixin.qq.com/s/MXHsCJAcOin6sJejfC_Gnw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-01)](https://studygolang.com/topics/12034)
+
+三、技术琐话
+
+1. [分布式系统中只有两个难题](https://mp.weixin.qq.com/s/75z9KouQo4lX9s6VrQ2TBg)
+
+四、白色蜗牛
+
+1. [每日思考第 37 期（20200802）](https://www.yuque.com/woniu666/daily_think_club/qbueg4)
 
 
 ## gocn_news_2020-08-02
