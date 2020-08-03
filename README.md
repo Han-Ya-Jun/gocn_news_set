@@ -4,6 +4,14 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
+## gocn_news_2020-08-03
+- 1.七天实现一个 go 应用 https://github.com/geektutu/7days-golang
+- 2.刀耕火种 Debug？为什么不使用 Juno https://gocn.vip/topics/10715
+- 3.分享一下自己在用的 go-dump 库 https://v2ex.com/t/691289
+- 4.忘掉 Snowflake，感受一下性能高出 587 倍的全局唯一 ID 生成算法 https://juejin.im/post/5efefaaa6fb9a07e644ee60f
+- 5.「译文」Go 语言内存管理与分配 https://juejin.im/post/5f0479c05188252e332ea86d
 ## gopherDaily_2020-08-03
 - 1.opentelemetry入门 - https://docs.lightstep.com/otel/golang-get-started-with-opentelemetry
 - 2.使用GitHub Actions为MacOS构建、公证和签名Go二进制文件 - https://www.kencochrane.com/2020/08/01/build-and-sign-golang-binaries-for-macos-with-github-actions/
