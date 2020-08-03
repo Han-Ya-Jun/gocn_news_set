@@ -4,6 +4,15 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-08-03
+- 1.opentelemetry入门 - https://docs.lightstep.com/otel/golang-get-started-with-opentelemetry
+- 2.使用GitHub Actions为MacOS构建、公证和签名Go二进制文件 - https://www.kencochrane.com/2020/08/01/build-and-sign-golang-binaries-for-macos-with-github-actions/
+- 3.webp: 零依赖的webp编解码器 - https://github.com/chai2010/webp
+- 4.linux kernel 5.8发布 - https://www.omgubuntu.co.uk/2020/08/linux-5-8-kernel-features
+- 5.学习安全工程 - https://github.com/veeral-patel/learn-security-engineering
+- 6.Go实现的规则引擎 - https://github.com/hyperjumptech/grule-rule-engine
+
+
 ## go语言中文网(每日资讯)_2020-08-02
 一、Go语言中文网
 
