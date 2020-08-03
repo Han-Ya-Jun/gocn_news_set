@@ -4,7 +4,36 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-08-03
+一、Go语言中文网
 
+1. [搞不定 Redis，还谈什么缓存](https://mp.weixin.qq.com/s/qiWO7CzLV4Yk8IMnW2Fy0w)
+
+2. [深度剖析 Golang 的 GC 扫描对象的实现](https://mp.weixin.qq.com/s/2Ss-5e1vA2n9K2lfIKqe6g)
+
+3. [喜欢 yarn 交互模式更新依赖的 gopher 有福了](https://mp.weixin.qq.com/s/A_QpDlf02joHy0BpNLszhA)
+
+4. [Go 刷 leetcode｜从前序与中序遍历序列构造二叉树](https://mp.weixin.qq.com/s/aRZZE5pxS7HyjWTE5Aed-Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-02)](https://studygolang.com/topics/12040)
+
+三、Go 夜读
+
+1. [【本周四预告】第 99 期 betterGo - 用类似 C++ 的代码生成的方式实现 Go 泛型](https://mp.weixin.qq.com/s/U_kYOe2yMNNlJucTvGDm3Q)
+
+四、MoeLove
+
+1. [K8S 生态周报| Istio 已修复导致 Pod 崩溃的 bug](https://mp.weixin.qq.com/s/EYIMvA9x4RTjob_uhW_vTg)
+
+五、polarisxu
+
+1. [关于 errors 包的一些细节和思考](https://mp.weixin.qq.com/s/Vd6jxd4aFtwgGw8ws7jiSA)
+
+六、分布式实验室
+
+1. [到底什么是“云原生”？](https://mp.weixin.qq.com/s/gj5xNLarsXByBEQxOmzO4g)
 
 ## gocn_news_2020-08-03
 - 1.七天实现一个 go 应用 https://github.com/geektutu/7days-golang
