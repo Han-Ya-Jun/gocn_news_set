@@ -4,6 +4,43 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
+
+## go语言中文网(每日资讯)_2020-08-04
+一、Go语言中文网
+
+1. [通过两道面试题讲解 Go for range 循环原理](https://mp.weixin.qq.com/s/LqeZ7YLsZQWjDZaFi35TAQ)
+2. [接口Interface—塑造健壮与可扩展的Go应用程序](https://mp.weixin.qq.com/s/Vcz0PSbjsDUyfUFzmy-_Mw)
+3. [走进Golang之Context的使用](https://mp.weixin.qq.com/s/ogzx9CqlRKOZT3gC4I0Vgg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-03)](https://studygolang.com/topics/12046)
+
+三、polarisxu
+
+1. [Go语言规范你掌握多少？这道题检验一下](https://mp.weixin.qq.com/s/gSQBxGSTNwDfuliQuHppQg)
+
+四、云原生技术爱好者社区
+
+1. [Ingress-nginx灰度发布功能详解](https://mp.weixin.qq.com/s/YfbEJ_Oao9zhhFzMsoX4ug)
+
+
+## gocn_news_2020-08-04
+- 1.OpenTelemetry 入门 https://docs.lightstep.com/otel/golang-get-started-with-opentelemetry
+- 2.基于简洁架构的 Go 微服务实现教程 https://medium.com/@jfeng45/go-microservice-with-clean-architecture-a-major-upgrade-34a4cedb0b06
+- 3.使用 Github Actions 自动生成签名 Go 程序 https://www.kencochrane.com/2020/08/01/build-and-sign-golang-binaries-for-macos-with-github-actions/
+- 4.gopls 发布 v0.4.4，支持单文件编辑 https://github.com/golang/tools/releases/tag/gopls/v0.4.4
+- 5.使用 Go 开发的规则引擎 https://github.com/hyperjumptech/grule-rule-engine
+## gopherDaily_2020-08-04
+- 1.Go vs. Rust：编写Cli程序大比拼 - https://cuchi.me/posts/go-vs-rust
+- 2.打破Go Context链条 - https://rodaine.com/2020/07/break-context-cancellation-chain/
+- 3.使用Go探索区块链文件系统和merkle树 - https://web3.coach/golang-blockchain-filesystem-and-merkle-trees
+- 4.使用Go创建一个twitter机器人 - https://blog.jonaylor.xyz/twitter-bot/
+- 5.Neo4j的Go driver诞生记 - https://medium.com/neo4j/having-another-go-e50823b6fc79
+- 6.微软加入开源安全基金会 - https://cloudblogs.microsoft.com/opensource/2020/08/03/microsoft-joins-open-source-security-foundation/
+
 ## go语言中文网(每日资讯)_2020-08-03
 一、Go语言中文网
 
