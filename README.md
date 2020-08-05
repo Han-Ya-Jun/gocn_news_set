@@ -5,7 +5,12 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
-
+## gopherDaily_2020-08-05
+- 1.使用Go发送邮件的几种不同方法 - https://www.loginradius.com/engineering/blog/sending-emails-with-golang/
+- 2.对Go语言的第一印象 - https://medium.com/@matheuskiel/my-first-impressions-about-golang-5339a58c0e4d 
+- 3.安全即代码：为Go实现lint和gosec - https://cyral.com/blog/security-as-code-implementing-lint-and-gosec/
+- 4.draft: 基于YAML文件中定义的声明性语法生成微服务或无服务架构图的命令行工具 - https://github.com/lucasepe/draft
+- 5.grofer: go实现的系统profiler - https://github.com/pesos/grofer
 ## gocn_news_2020-08-05
 - 1.走进 Golang 之 Context 的使用 https://mp.weixin.qq.com/s/PvNAZsolNmKk_kTigoG2ZA
 - 2.Go 各种方式实现 HTTP Routing https://benhoyt.com/writings/go-routing/
