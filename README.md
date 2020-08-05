@@ -5,6 +5,33 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go语言中文网(每日资讯)_2020-08-05
+一、Go语言中文网
+
+1. [值得每个 Gopher 认真研读：工作两年收获 PingCAP、头条和蚂蚁的 Offer](https://mp.weixin.qq.com/s/acePzNpkHISLDkaNc-8vCA)
+
+2. [Go语言 | 你还在这样获取文件的大小吗？](https://mp.weixin.qq.com/s/MydXn-7yhvwuV4VcOuHkIQ)
+
+3. [10 分钟部署一个 Kubernetes 集群](https://mp.weixin.qq.com/s/vHhQXqJKbrP9vRCR674K0A)
+
+4. [Go 刷 leetcode｜树系列之对称二叉树](https://mp.weixin.qq.com/s/8z2Cnz1B1DNq7kmOZzL5pw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-04)](https://studygolang.com/topics/12050)
+
+三、 奇伢云存储
+
+1. [go trace 剖析 go1.14 异步抢占式调度](https://mp.weixin.qq.com/s/YVJh0wGlkGfymfY5u1iqTA)
+
+四、云原生技术爱好者社区
+
+1. [Kustomize ConfigMapGenerate自动生成ConfigMap中的坑](https://mp.weixin.qq.com/s/lvg6lfq5-8xHe3v5s4MPjA)
+
+五、cholerae
+
+1. [一例 Go 编译器代码优化 bug 定位和修复解析](https://zhuanlan.zhihu.com/p/166378003?utm_source=wechat_session&utm_medium=social&utm_oi=30054528581632&s_r=0)
+
 ## gopherDaily_2020-08-05
 - 1.使用Go发送邮件的几种不同方法 - https://www.loginradius.com/engineering/blog/sending-emails-with-golang/
 - 2.对Go语言的第一印象 - https://medium.com/@matheuskiel/my-first-impressions-about-golang-5339a58c0e4d 
