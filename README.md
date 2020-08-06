@@ -5,6 +5,15 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## GoCN 每日新闻（2020-08-06）
+- 1.Go 调试器 Delve 快速入门 https://youtu.be/r033vEzL6a4
+- 2.Nginx Ingress on TKE 部署最佳实践 https://mp.weixin.qq.com/s/NAwz4dlsPuJnqfWYBHkfGg
+- 3.DBResolver 多数据库支持 https://github.com/go-gorm/dbresolver
+- 4.从并发模式看 channel 使用技巧 https://mp.weixin.qq.com/s/nu26nqymHTH0Cwq89-Dfuw
+- 5.使用 Go 做音频开发: 生成第一段声音 https://dylanmeeus.github.io/posts/audio-from-scratch-pt1/
+
+
 ## go语言中文网(每日资讯)_2020-08-05
 一、Go语言中文网
 
