@@ -4,6 +4,48 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-08-07
+一、Go语言中文网
+
+1. [Go项目推荐之即时通讯服务器 IM](https://mp.weixin.qq.com/s/Zoq9WEKDUilkq_gNoxXkgw)
+
+2. [Go语言生成二维码是如此简单](https://mp.weixin.qq.com/s/JJLUPd3HO-yn6y-lUd-9mw)
+
+3. [为什么数据库不应该使用外键](https://mp.weixin.qq.com/s/4djYuov5yyfBoR9LUY6b_g)
+
+4. [Go 刷 leetcode｜二叉树的直径](https://mp.weixin.qq.com/s/2UU8TxWW7BZMKelAiOaXWQ)
+
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-06)](https://studygolang.com/topics/12060)
+
+三、 有点技术
+
+1. [功能强大的CD工具 - flagger](https://mp.weixin.qq.com/s/ulvpgrs1Tkv9opNWTW3IUQ)
+
+四、 Go 夜读
+
+1. [第 100 期如何高效的阅读 Go 代码？](https://mp.weixin.qq.com/s/6OZovuAAF9JvvW2CoTrXyA)
+
+五、 MoeLove
+
+1. [初试 Open Service Mesh（OSM）](https://mp.weixin.qq.com/s/pTQe-kGrC9UXVyQx6RY7Bg)
+
+## gopherDaily_2020-08-07
+- 1.Go逃逸分析介绍 - https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890
+- 2.osm: 微软开源的轻量级服务网格实现 - https://github.com/openservicemesh/osm
+- 3.Gtunnel：用Go编写的健壮的隧道解决方案 - https://www.kitploit.com/2020/08/gtunnel-robust-tunelling-solution.html
+- 4.哪个更快？对gRPC的Rust和Go版本进行基准测试 - https://mp.weixin.qq.com/s/WIbcA2vg4Lrv-C8F4yuL1Q
+- 5.如何使用Istio 1.6管理多集群中的微服务？- https://mp.weixin.qq.com/s/EjLTepUIJC2asg9_-54tNw
+- 6.精读《对低代码搭建的理解》- https://zhuanlan.zhihu.com/p/161783546
+- 7.卫星太空安全挑战 - https://nyan-sat.com/chapter0.html
+## GoCN 每日新闻（2020-08-07）
+- 1.Go 实现的轻量级的电子邮件包 https://github.com/mrz1836/go-mail
+- 2.Go 中的并发性-使用 channel 处理竞争条件 https://dev.to/spindriftboi/concurrency-in-go-using-channels-and-handling-race-conditions-3n24
+- 3.使用 Cobra 和 Go 构建多功能 CLI 工具 https://dev.to/lumexralph/building-a-multipurpose-cli-tool-with-cobra-and-go-2492
+- 4.Go 中的并发性-使用 Goroutine 和 Wait Groups https://dev.to/spindriftboi/concurrency-in-go-using-goroutines-and-wait-groups-edi
+- 5.TiDB 的列式存储引擎是如何实现的 https://gocn.vip/topics/10794
 
 ## go语言中文网(每日资讯)_2020-08-06
 一、Go语言中文网
