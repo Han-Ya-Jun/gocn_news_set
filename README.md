@@ -4,6 +4,50 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## go语言中文网(每日资讯)_2020-08-08
+一、Go语言中文网
+
+1. [Docker 入门终极指南：边学边用](https://mp.weixin.qq.com/s/nYjHhntppiMb4gIHeDvM1g)
+
+2. [大型分布式系统如何做到可观测性？监控与日志必不可少](https://mp.weixin.qq.com/s/QXI8tzI9fnx-aFMWqXDhxw)
+
+3. [将镜像tar包通过API直接push到registry仓库](https://mp.weixin.qq.com/s/tkRzM0BLIWVqd0NvOk02fg)
+
+4. [Go 刷 leetcode｜智慧树下你和我](https://mp.weixin.qq.com/s/N_mNyt6D_zRDtd9KDZg5rA)
+
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-07)](https://studygolang.com/topics/12068)
+
+三、 陈思敏捷
+
+1. [Go: 互斥锁和饥饿](https://mp.weixin.qq.com/s/PdgEhUbuikZtezgFDlwt5A)
+
+四、学而思网校技术团队
+
+1. [L4负载均衡的设计与实现](https://mp.weixin.qq.com/s/KuKCKFuu4PYd-pcHrkCC6w)
+
+五、峰云就她了
+
+1. [技术分享之golang构建分布式任务系统](http://xiaorui.cc/archives/6955)
+
+六、面向信仰编程
+
+1. [为什么 CPU 访问硬盘很慢](https://draveness.me//whys-the-design-cpu-and-disk)
+## gopherDaily_2020-08-08
+- 1.Go 1.15 RC2版本发布 - https://tip.golang.org/doc/go1.15
+- 2.tinygo：以小博大 - https://www.infoq.com/presentations/tiny-go/
+- 3.Go桌面应用开发大比拼：Webview vs. Lorca vs. Electron - https://maori.geek.nz/golang-desktop-app-webview-vs-lorca-vs-electron-a5e6b2869391
+- 4.使用Go的WebAssembly实现Boids算法模拟 - https://healeycodes.com/boids-flocking-simulation/
+- 5.在数据科学中使用Go？我们来试试 - https://towardsdatascience.com/go-for-data-science-lets-try-46850b12a189
+## GoCN 每日新闻（2020-08-08）
+- 1.Go 1.15 rc2 发布 https://groups.google.com/forum/#! msg/golang-announce/G3atWQdoyvw/03XzzSXgAAAJ
+- 2.Go trace 剖析 go1.14 异步抢占式调度 https://mp.weixin.qq.com/s/YVJh0wGlkGfymfY5u1iqTA
+- 3.基于 Go1.13 的逃逸分析介绍 https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890
+- 4.Go 语言使用 AWS Lambda 上手指南 https://www.softkraft.co/aws-lambda-in-golang/
+- 5.通过 Envoy 和 Protocol Buffers 实现类型安全的服务配置 https://medium.com/@subyraman/type-safe-server-configuration-with-envoy-and-protocol-buffers-dfdf47af00d5
 ## go语言中文网(每日资讯)_2020-08-07
 一、Go语言中文网
 
