@@ -5,6 +5,47 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go语言中文网(每日资讯)_2020-08-09
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 55 期—8月Go排第几？](https://mp.weixin.qq.com/s/rYRwVZvyYQM47z60bOM0fQ)
+
+2. [Go语言200行写区块链源代码分析](https://mp.weixin.qq.com/s/iWOQ5A_L5q2mesDMGCubvA)
+
+3. [[视频版]-Golang深入理解GMP](https://mp.weixin.qq.com/s/dKvij1gLgOiI2dmgO90yNw)
+
+4. [Go 刷 leetcode｜二叉树展开为链表](https://mp.weixin.qq.com/s/KV6GKrfYeQVz4vSkVoBPOA)
+
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-08)](https://studygolang.com/topics/12077)
+
+三、 董泽润的技术笔记
+
+1. [hashicorp raft 源码走读 2](https://mp.weixin.qq.com/s/B00oCaZz7UMGFpq2jd11iQ)
+
+四、 Go Official Blog
+
+1. [Go team 关于如何保持 Go Modules 兼容性的一些实践](https://mp.weixin.qq.com/s/kEVEE7M9AJ1WNF-5rlJLzA)
+
+五、polarisxu 
+
+1. [写 Go 项目有两件很烦的事情？本文讨论其中之一](https://mp.weixin.qq.com/s/4m5Y_5nAQD66wmOxbqRtxA)
+## GoCN 每日新闻（2020-08-09）
+- 1.Go team 关于如何保持 Go Modules 兼容性的一些实践 https://juejin.im/post/6858570821904891912
+- 2.Go: 互斥锁和饥饿 https://medium.com/a-journey-with-go/go-mutex-and-starvation-3f4f4e75ad50
+- 3.在 Go 语言中管理 Concurrency 的三种方法 https://blog.wu-boy.com/2020/08/three-ways-to-manage-concurrency-in-go
+- 4.实践总结：在 Java 中调用 Go 代码 https://liujiacai.net/blog/2020/08/08/go-meet-java
+- 5.Qmgo - 更好用的 Go 语言 MongoDB driver https://studygolang.com/articles/30175
+## gopherDaily_2020-08-09
+- 1.Go语言是面向对象的吗？- https://flaviocopes.com/golang-is-go-object-oriented/
+- 2.通往云原生：您需要了解的6项基本知识 - https://www.weave.works/technologies/going-cloud-native-6-essential-things-you-need-to-know/
+- 3.PostgreSQL数据库测试夹具 - https://www.zombiezen.com/blog/2020/08/introducing-postgrestest/
+- 4.got: 一款下载速度是curl和wget 4倍的文件下载工具 - https://github.com/melbahja/got
+- 5.GPT-3 Explorer: 一个GPT-3模型实验的工具 - https://belay-labs.github.io/gpt-explorer/introducing-gpt-explorer
+- 6.di: 又一款Go依赖注入工具 - https://github.com/goioc/di
 ## go语言中文网(每日资讯)_2020-08-08
 一、Go语言中文网
 
