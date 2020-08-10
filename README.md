@@ -5,6 +5,19 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## GoCN 每日新闻（2020-08-10）
+- 1.如何编写可插拔的第三方 Go 插件 https://levelup.gitconnected.com/how-to-write-a-pluggable-third-party-component-in-go-a70357577fb4
+- 2.Go 桌面开发技术栈比较 Webview vs Lorca vs Electron https://maori.geek.nz/golang-desktop-app-webview-vs-lorca-vs-electron-a5e6b2869391?gi=da700a44c674
+- 3.如何在 go mysql server 中实现子查询 https://www.dolthub.com/blog/2020-08-05-implementing-subqueries/
+- 4.比 wget 和 cURL 更快的下载工具 got https://github.com/melbahja/got
+- 5.博客: 与 Ian Lance 聊聊 Go https://cppcast.com/ian-taylor-go/
+## gopherDaily_2020-08-10
+- 1.关于Go学习的12件事儿 - https://medium.com/dev-genius/12-main-things-to-learn-in-go-44d16383444d
+- 2.如何基于kibana为Go应用建立logging dashboard - https://pmihaylov.com/kibana-dashboard-tutorial/
+- 3.Gccgo与C的互操作 - https://gcc.gnu.org/onlinedocs/gcc-8.4.0/gccgo/C-Interoperability.html
+- 4.future模式的一个Go实现 - https://ianlopshire.com/idiomatic-go-future/
+- 5.将markdown中的go代码块进行格式化 - https://github.com/po3rin/gofmtmd
+- 6.kowl: kafka WebUI - https://github.com/cloudhut/kowl
 
 ## go语言中文网(每日资讯)_2020-08-09
 一、Go语言中文网
