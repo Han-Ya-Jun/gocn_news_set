@@ -4,9 +4,37 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-08-11
+一、Go语言中文网
 
+在 Go 语言中管理 Concurrency 的三种方式
 
+Go 每日一库之 Facebook 出品 — ent：简洁、优雅、顶级的现代化 ORM
 
+深入理解 sync.Once：单例模式的绝佳选择
+
+二、亚军进化史
+
+Go技术日报(2020-08-10)
+三、技术琐话
+
+Kubernetes 在知名互联网公司的落地实践
+四、 架构师之路
+
+互联网分层架构的本质
+## GoCN 每日新闻（2020-08-11）
+- 1.为什么 Go Module 比 GOPATH 快 https://dev.to/tbpalsulich/why-go-modules-are-faster-than-gopath-blj
+- 2.Go 应用中记录日志 https://dev.to/fernandoocampo/logging-an-application-in-go-5ckk
+- 3.Go-Swagger 教程 Part1：用户认证和 JWT 使用 https://medium.com/@shashankvivek.7/go-swagger-user-authentication-securing-api-using-jwt-part-1-6e2a0ab8c721
+- 4.聊聊 dubbo-go 的 ConsistentHashLoadBalance https://segmentfault.com/a/1190000023570831
+- 5.一个新的 MongoDB Driver（七牛出品）https://github.com/qiniu/qmgo
+## gopherDaily_2020-08-11
+- 1.52周，52个Go项目 - https://github.com/kkdai/project52
+- 2.为什么go module比GOPATH模式更快 - https://dev.to/tbpalsulich/why-go-modules-are-faster-than-gopath-blj
+- 3.什么是扩展接口模式(Extension interface pattern) - https://medium.com/swlh/what-is-the-extension-interface-pattern-in-golang-ce852dcecaec
+- 4.wrapcheck：一个error wrapping linter - https://blog.tomarrell.com/post/introducing_wrapcheck_linter_for_go
+- 5.类型转换与类型断言的比较 - https://medium.com/@perennial.sky/type-assertion-and-type-conversion-in-golang-11fd98f69a3f
+- 6.Prometheus基础 - https://github.com/yolossn/Prometheus-Basics
 ## go语言中文网(每日资讯)_2020-08-10
 
 一、Go语言中文网
