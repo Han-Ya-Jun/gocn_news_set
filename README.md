@@ -5,6 +5,38 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+
+## go语言中文网(每日资讯)_2020-08-09
+
+一、Go语言中文网
+
+1. [Go 每日一库之 Qmgo - 更好用的 Go 语言 MongoDB driver](https://mp.weixin.qq.com/s/oD-nmkz-L_UBZEe4zmIJig)
+
+2. [一个关于数组值比较的小测试](https://mp.weixin.qq.com/s/-gHzdTRSewNNZwa7xd0O3w)
+
+3. [Prometheus 不完全避坑指南](https://mp.weixin.qq.com/s/fDWcR99AWoKHgKRMwGom9w)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-09)](https://studygolang.com/topics/12089)
+
+三、 MoeLove
+
+1. [K8S 生态周报| runc v1.0-rc92 发布](https://mp.weixin.qq.com/s/EoV-30GaFK2lZH0iE8b9iw)
+
+四、 图解源码
+
+1. [私有PAAS平台设计的思考](https://mp.weixin.qq.com/s/JhYjkL_nFfPXEiq6OCyr1g)
+
+五、 从菜鸟到大佬
+
+1. [Golang领域模型-聚合根](https://mp.weixin.qq.com/s/w47OJpgwaPhHLOXcowDTxQ)
+
+六、 腾讯技术工程 
+
+1. [Linux CPU 性能优化指南](https://mp.weixin.qq.com/s/7HGjAy_R_sdpfckFlFr0cw)
+
 ## GoCN 每日新闻（2020-08-10）
 - 1.如何编写可插拔的第三方 Go 插件 https://levelup.gitconnected.com/how-to-write-a-pluggable-third-party-component-in-go-a70357577fb4
 - 2.Go 桌面开发技术栈比较 Webview vs Lorca vs Electron https://maori.geek.nz/golang-desktop-app-webview-vs-lorca-vs-electron-a5e6b2869391?gi=da700a44c674
