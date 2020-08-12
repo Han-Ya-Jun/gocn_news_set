@@ -4,24 +4,65 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
-## go语言中文网(每日资讯)_2020-08-11
+
+## go语言中文网(每日资讯)_2020-08-12
 一、Go语言中文网
 
-在 Go 语言中管理 Concurrency 的三种方式
+1. [优化 Golang 服务来减少 40% 以上的 CPU](https://mp.weixin.qq.com/s/wspSwZEm6oQoOOQCeIcFGw)
 
-Go 每日一库之 Facebook 出品 — ent：简洁、优雅、顶级的现代化 ORM
+2. [Go 每日一库之 fuckdb Lite — 帮助你更快地生成go struct代码](https://mp.weixin.qq.com/s/zNaItNb7zUb9I379AbU8Qw)
 
-深入理解 sync.Once：单例模式的绝佳选择
+3. [为 Gopher 打造 DDD 系列：领域模型-聚合根](https://mp.weixin.qq.com/s/ev-5o2Elr7LNG7_zXmLhZA)
 
 二、亚军进化史
 
-Go技术日报(2020-08-10)
+1. [Go技术日报(2020-08-11)](https://studygolang.com/topics/12103)
+
+三、有点技术
+
+1. [使用keycloak实现k8s用户权限的统一管理](https://mp.weixin.qq.com/s/gIQQsda_O6wigX9rO5wUoQ)
+
+四、 polarisxu
+
+1. [Go 1.15 正式发布：看看都有哪些值得关注的变化](https://mp.weixin.qq.com/s/AdB5jxMj6fBQBY0KMbazVQ)
+
+五、 真没什么逻辑
+
+1. [为什么 CPU 访问硬盘很慢](https://mp.weixin.qq.com/s/LB_jFb9UIFFnQ_ed3WBeSA)
+## GoCN 每日新闻（2020-08-12）
+- 1.Go 1.15 发布 https://blog.golang.org/go1.15
+- 2.Go 的两级线程模型 https://juejin.im/post/6859312340630929421
+- 3.使用 Go 实现 GoF 的 23 种设计模式（一) https://juejin.im/post/6859015515344633863
+- 4.Protocol Buffers in Go https://dev.to/dsckiitdev/protocol-buffers-in-go-5bl7
+- 5.Go 计时器的生命周期 https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a
+
+## gopherDaily_2020-08-12
+- 1.Go 1.15版本正式发布! 新版本在链接器、小型对象分配、GOPROXY行为、Go程序的Size、新的tzdata等方面有着实质性的改进 - https://blog.golang.org/go1.15
+- 2.Etcd 101 - https://medium.com/@Alibaba_Cloud/getting-started-with-kubernetes-etcd-a26cba0b4258
+- 3.油管视频：程序员应该知道的关于内存分配的那些事 - https://www.youtube.com/watch?v=gYfd25Bdmws
+- 4.探索Go的struct和interface - https://blog.logrocket.com/exploring-structs-and-interfaces-in-go/
+- 5.雷军10周年演讲全文：豁出去，干 - https://mp.weixin.qq.com/s/gSJ_qnmskJD5uOSyUg0y8A
+## go语言中文网(每日资讯)_2020-08-11
+
+一、Go 语言中文网
+
+1. [在 Go 语言中管理 Concurrency 的三种方式](https://mp.weixin.qq.com/s/J7vTfAjxSXq0UUxT6T5WBg)
+
+2. [Go 每日一库之 Facebook 出品 — ent：简洁、优雅、顶级的现代化 ORM](https://mp.weixin.qq.com/s/fKLiNillvVn1qkYcbhjNmA)
+
+3. [深入理解 sync.Once：单例模式的绝佳选择](https://mp.weixin.qq.com/s/8LxslEY3JaNCfDcF7gr1Qg)
+
+二、亚军进化史
+
+1. [Go 技术日报(2020-08-10)](https://studygolang.com/topics/12096 "Go 技术日报(2020-08-10)")
+
 三、技术琐话
 
-Kubernetes 在知名互联网公司的落地实践
+1. [Kubernetes 在知名互联网公司的落地实践](https://mp.weixin.qq.com/s/dpwpxfseRMo_MtFjkD5Thg)
+
 四、 架构师之路
 
-互联网分层架构的本质
+1. [互联网分层架构的本质](https://mp.weixin.qq.com/s/X1JnXFIkn57eyx3slKQKLQ)
 ## GoCN 每日新闻（2020-08-11）
 - 1.为什么 Go Module 比 GOPATH 快 https://dev.to/tbpalsulich/why-go-modules-are-faster-than-gopath-blj
 - 2.Go 应用中记录日志 https://dev.to/fernandoocampo/logging-an-application-in-go-5ckk
