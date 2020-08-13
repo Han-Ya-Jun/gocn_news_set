@@ -5,6 +5,51 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go语言中文网(每日资讯)_2020-08-13
+一、Go语言中文网
+
+1. [Nodejs 与 Golang 的比较：Web 开发人员选择哪个最佳？](https://mp.weixin.qq.com/s/wRXmohbGeyL3Y7ARra8moA)
+
+2. [前缀树算法实现路由匹配原理解析：Go 实现](https://mp.weixin.qq.com/s/4UNLWbKvYL-Wt36FjQylVg)
+
+3. [Go 每日一库之 java 转 go 遇到 Apollo？让 agollo 来帮你平滑迁移](https://mp.weixin.qq.com/s/jorEl9U3AqvYLZQHM1J5QA)
+
+4. [Go 1.15 正式发布：看看都有哪些值得关注的变化](https://mp.weixin.qq.com/s/qU6LbDBKednpScoPgeVNnA)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-12)](https://studygolang.com/topics/12106)
+
+三、polarisxu
+
+1. [面试题：Go 1.15 中 var i interface{} = 3 会有额外堆内存分配吗？](https://mp.weixin.qq.com/s/1r0nt8nA3foDRRrbRp4omg)
+
+四、一艘慢船 
+
+1. [Go 编程: 如何高效的管理一堆计时器](https://mp.weixin.qq.com/s/e6xrFnFyJCD_ZZ12BjlyXg)
+
+五、美团技术团队
+
+1. [Kubernetes如何改变美团的云基础设施？](https://mp.weixin.qq.com/s/Df9fjmfTSD8MKg69LaySkQ)
+
+六、Halfrost's Field | 冰霜之地
+
+1. [LeetCode Cookbook](https://books.halfrost.com/leetcode)
+
+## gopherDaily_2020-08-13
+- 1.Go 1.15将小整型转换为interface value不再有额外内存分配 - https://utcc.utoronto.ca/~cks/space/blog/programming/Go115InterfaceSmallInts
+- 2.Rob Pike的5条编程规则 - http://users.ece.utexas.edu/~adnan/pike.html
+- 3.Go 1.16将基于栈的函数调用约定迁移为基于寄存器的函数调用约定(calling convention) - https://github.com/golang/go/issues/40724
+- 4.为数据库的CRUD操作编写Go单元测试 - https://dev.to/techschoolguru/write-go-unit-tests-for-db-crud-with-random-data-53no
+- 5.创建一个更好的Go playground版本 - https://changelog.com/news/creating-a-better-version-of-the-go-playground-qel1
+
+## GoCN 每日新闻（2020-08-13）
+- 1.Go1.15 特性解读 https://mp.weixin.qq.com/s/lMP1SAeD0068kL976GokeA
+- 2.把一个 Go 工具编译到 wasm https://gocn.vip/topics/10812
+- 3.写一个使用随机数据的增删改查数据库单元测试 https://dev.to/techschoolguru/write-go-unit-tests-for-db-crud-with-random-data-53no
+- 4.Go 类型断言与类型转换 https://medium.com/swlh/type-assertion-and-type-conversion-in-golang-11fd98f69a3f
+- 5.Redis migrate 数据迁移工具 https://www.v2ex.com/t/697808
 ## go语言中文网(每日资讯)_2020-08-12
 一、Go语言中文网
 
@@ -2801,52 +2846,4 @@ https://studygolang.com/topics/11701
 
 
 ## gocn_news_2020-06-12
-- 1.怎样优化一个 Go 服务以减少 40% 的 CPU 使用率？https://mp.weixin.qq.com/s/pZadyJ3YUYK3Q30w8dTymw
-
-- 2.golang http 句柄泄露  https://www.sgfoot.com/curl/
-
-- 3.golang 单点登录系统（go-sso）https://segmentfault.com/a/1190000022909135 
-- 4.并发题的解题思路以及 Go 语言调度器工作原理  https://mp.weixin.qq.com/s/GhC2WDw3VHP91DrrFVCnag
-
-- 5.Kubernetes 已进入成熟期，而云原生时代则刚刚开始 https://mp.weixin.qq.com/s/I630oo7PLyi4JyKXYbI5Cg
-
-
-
-## gopherDaily_2020-06-12
-- 1.Go 1.15beta1发布：链接器有20%性能提升 - release notes：https://tip.golang.org/doc/go1.15，下载地址https://golang.org/dl/#go1.15beta1
-- 2.使用go:linkname自定义TLS 1.3密码套件 - https://www.joeshaw.org/abusing-go-linkname-to-customize-tls13-cipher-suites/
-- 3.Go和Python成为年度最受欢迎的黑客工具榜首 - https://www.imperva.com/blog/python-and-go-top-the-chart-of-2019s-most-popular-hacking-tools/
-- 4.为什么Go是DevOps专业人员的首选 - https://dzone.com/articles/why-golang-is-top-of-mind-for-devops-professionals
-- 5.SpaGO：一个用Go语言编写的机器学习库，旨在在自然语言处理任务中支持相关的神经网络体系结构 - https://github.com/nlpodyssey/spago
-## go语言中文网(每日资讯)_2020-06-11
-一、Go语言中文网
-
-1. [将 Go 项目从 Travis 迁移至 GitHub Actions](https://mp.weixin.qq.com/s/K7xW8ySbYiq9jII1KQ9PdA)
-
-2. [为什么 Gin 这么流行？一探 gin 框架路由和中间件的秘密](https://mp.weixin.qq.com/s/gt0YW9e-LvFgDCSg-u0U6w)
-
-3. [Go：原子操作和互斥锁的区别](https://mp.weixin.qq.com/s/tVT15D5IaoC9mriHfU374Q)
-
-4. [深入理解并发安全的 sync.Map](https://mp.weixin.qq.com/s/s-JbeVsymFojtv3owaGILg)
-
-5. [Go 刷 LeetCode 系列：字符串（1）Z 字形变换](https://mp.weixin.qq.com/s/RbQO7LaX1nMkvb2B0FXmRA)
-
-二、亚军进化史
-
-1. [Go技术日报（2020-06-10）](https://studygolang.com/topics/11669)
-
-三、 GoUpUp
-
-1. [Go 每日一库之 twirp](https://mp.weixin.qq.com/s/kd-Ukv6BK-00CU7zmLEDfw)
-
-四、HHF技术博客
-
-1. [Bilibili Kratos 框架源码分析(4) -- Kratos Log](https://mp.weixin.qq.com/s/7Q3ckI-cRh2GKMFmocM2sA)
-
-五、K8S中文社区
-
-1. [2020年-Service Mesh工具对比](https://mp.weixin.qq.com/s/wl1ISkQGc7NqXXBaXxn9lw)
-
-六、 Go Official Blog 
-
-1. [promoted Unmarshal method on embedded field c
+- 1.怎样优化
