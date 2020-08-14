@@ -7,6 +7,36 @@
 
 
 
+## go语言中文网(每日资讯)_2020-08-14
+一、Go语言中文网
+
+1. [一次搞明白 Docker 容器资源限制](https://mp.weixin.qq.com/s/ISDfHO26vdUjqMlq5Qck4w)
+
+2. [go trace 剖析 go1.14 异步抢占式调度](https://mp.weixin.qq.com/s/Wp15aOLeYhZYla275TzISw)
+
+3. [一个 Go 最佳实践分享：减少获取不变信息时可能会发生错误的影响](https://mp.weixin.qq.com/s/rY86alagjAMcvEBrFW1ElA)
+
+4. [为什么 CPU 访问硬盘很慢](https://mp.weixin.qq.com/s/oICSkEObiVejzk9cYAOuQg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-13)](https://studygolang.com/topics/12112)
+
+三、polarisxu
+
+1. [学习 Rob Pike 的 6 条编程原则](https://mp.weixin.qq.com/s/thStKO5VMjiDQomcZquaAg)
+
+四、No Headback
+
+1. [无人值守的自动 dump(一)](https://xargin.com/autodumper-for-go/)
+
+五、酷 壳 – CoolShell
+
+1. [程序员如何把控自己的职业](https://coolshell.cn/articles/20977.html)
+
+
+
+
 ## gopherDaily_2020-08-14
 - 1.LeetCode刷题指南(Go版本) - https://books.halfrost.com/leetcode/
 - 2.Go文件系统与文件嵌入 - https://lwn.net/Articles/827215/
@@ -479,82 +509,4 @@
 
 三、技术琐话
 
-1. [分布式系统中只有两个难题](https://mp.weixin.qq.com/s/75z9KouQo4lX9s6VrQ2TBg)
-
-四、白色蜗牛
-
-1. [每日思考第 37 期（20200802）](https://www.yuque.com/woniu666/daily_think_club/qbueg4)
-
-
-## gocn_news_2020-08-02
-- 1.Go 进阶 34:Chromedp 浏览器模拟和截图微服务 https://mojotv.cn/go/chromedp-example
-- 2.Go 语言系列 https://juejin.im/post/6854573215764152333
-- 3.Docker 组件 go-event 源码学习 https://studygolang.com/articles/30112
-- 4.聊聊 dubbo-go 的 DefaultHealthChecker https://segmentfault.com/a/1190000023465702
-- 5.Golang 自定义结构体转 map https://studygolang.com/articles/30089
-## gopherDaily_2020-08-02
-- 1.如何通过atomic包减少锁竞争 - https://medium.com/a-journey-with-go/go-how-to-reduce-lock-contention-with-the-atomic-package-ba3b2664b549
-- 2.观点：pkg.go.dev更关心Google的利益，而不是良好的工程设计 - https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html
-- 3.Go陷阱 - https://www.golangprograms.com/go-programming-language.html
-- 4.k8s.io/client-go动态客户端应用实例 - https://ymmt2005.hatenablog.com/entry/2020/04/14/An_example_of_using_dynamic_client_of_k8s.io/client-go
-- 5.油管视频：少写代码，多生成 - https://www.youtube.com/watch?v=xcpboZZy-64
-## go语言中文网(每日资讯)_2020-08-01
-一、Go语言中文网
-
-1. [你的 Go 应用健康吗？如何进行保障？阿里技术专家告诉你](https://mp.weixin.qq.com/s/fiqmjPaO7iBaVXm3uJIhSA)
-
-2. [Go 每日一库之 mapstructure](https://mp.weixin.qq.com/s/n_AXYv-p_ev-q23mhpDkOg)
-
-3. [为什么集群需要 Overlay 网络](https://mp.weixin.qq.com/s/--seAtKAtIBHQna_HNLMGQ)
-
-4. [Docker容器的"单进程模型"](https://mp.weixin.qq.com/s/DAy_ICNeY2j3mKYLVQR2AA)
-
-二、有点技术
-
-1. [istio证书签发流程](https://mp.weixin.qq.com/s/JmWWXcYVGEYrGXiqbbNnuA)
-
-三、Go夜读
-
-1. [第 98 期 2020-07-30 Go 中的类型递归回放](https://talkgo.org/t/topic/613)
-
-四、qyuhen
-
-1. [4.4.1.1闭包实现原理](https://www.yuque.com/docs/share/bdf99227-072f-4154-b5b8-52cb726c9e01)
-
-## gopherDaily_2020-08-01
-- 1.Go泛型：基本语法 by William Kennedy - https://www.ardanlabs.com/blog/2020/07/generics-01-basic-syntax.html
-- 2.油管视频：Go的几个常见的脆弱性 - https://www.youtube.com/watch?v=a1qrjtrmOj0&feature=youtu.be
-- 3.使用Go自动化你的github profile - https://dev.to/victoria/go-automate-your-github-profile-readme-2344
-- 4.深入浅出监控: 日志、跟踪和度量指南 - https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics
-- 5.如何在k8s上分别部署React前端和Go后端 - https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/
-- 6.使用Go从零起步操作音频系列 - https://dylanmeeus.github.io/posts/audio-from-scratch-pt4/
-- 7.使用vault和jetstack cert-manager对k8s的igress进行安全加固 - https://medium.com/hashicorp-engineering/securing-k8s-ingress-traffic-with-hashicorp-vault-pkiaas-and-jetstack-cert-manager-cb46195742ca
-- 8.京东如何使用Harbor作为私有镜像仓库节省了60％的维护时间 - https://www.cncf.io/blog/2020/06/24/how-jd-com-saves-60-maintenance-time-using-harbor-for-its-private-image-central-repository/
-
-## gocn_news_2020-08-01
-- 1.GoLand 2020.2 稳定版发布 https://www.oschina.net/news/117599/goland-2020-2-released
-- 2.聊聊 dubbo-go 的 apolloConfiguration https://segmentfault.com/a/1190000023458677
-- 3.dubbo-go 中使用 sentinel https://gocn.vip/topics/10769
-- 4.深度剖析 Golang 的 GC 扫描对象的实现 https://mp.weixin.qq.com/s/OxSI9IMwtQNvcrvndG4e-g
-- 5.来自 MongoDB 的分布式持续集成系统 https://mp.weixin.qq.com/s/nhfYE5Q_ZoYQ3cNvVapBgA
-
-## go语言中文网(每日资讯)_2020-07-31
-一、Go语言中文网
-
-1. [最佳实践：这才是构建 Go 语言 Docker 镜像该有的姿势](https://mp.weixin.qq.com/s/orAo0rv1cJBkxVagry7Ngg)
-
-2. [Go 调试分析的高阶技巧](https://mp.weixin.qq.com/s/GJxHVbaVXnHussFXf1tDMQ)
-
-3. [容器化Go应用--基础镜像的未知时区问题](https://mp.weixin.qq.com/s/-XcjvNeFpIU5Nrqa44PfWA)
-
-4. [leetcode｜被一道美团面试题转晕](https://mp.weixin.qq.com/s/EZuctdoUdrh0nOcq6RdYog)
-
-二、奇伢云存储
-
-1. [深度剖析 Golang 的 GC 扫描对象的实现](https://mp.weixin.qq.com/s/OxSI9IMwtQNvcrvndG4e-g)
-
-三、云原生技术爱好者社区
-
-1. [Kustomize ConfigMapGenerate自动生成ConfigMap中的坑](https://mp.weixin.qq.com/s/6MG5VsTqvhqX7JTdJG78-g)
-
-四、GoUpU
+1. [分布式系统中只有两个难题](https://mp.weixin.qq.com/s/75z
