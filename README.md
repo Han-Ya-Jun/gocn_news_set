@@ -5,6 +5,16 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+
+## GoCN 每日新闻（2020-08-15）
+1.基于寄存器的Go调用约定提案 https://go.googlesource.com/proposal/+/refs/changes/78/248178/1/design/40724-register-calling.md
+2.Go1.15如何改进int转换interface https://utcc.utoronto.ca/~cks/space/blog/programming/Go115InterfaceSmallInts
+3.Go进阶49:HTTP断点续传多线程下载原理 https://mojotv.cn/go/go-range-download
+4.AWS上使用Golang创建Serverless应用 https://schadokar.dev/posts/create-a-serverless-application-in-golang-with-aws/
+5.Kubernetes中的informer机制设计 https://mp.weixin.qq.com/s/TBg2VE-9bGL2MsIuQcRxSQ
+
+
 ## GoCN 每日新闻（2020-08-14）
 - 1.基于寄存器的 Go 调用约定提案 https://go.googlesource.com/proposal/+/refs/changes/78/248178/1/design/40724-register-calling.md
 - 2.Go1.15 如何改进 int 转换 interface https://utcc.utoronto.ca/~cks/space/blog/programming/Go115InterfaceSmallInts
