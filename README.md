@@ -7,15 +7,64 @@
 
 
 
+## go语言中文网(每日资讯)_2020-08-16
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 56 期 — 最全 LeetCode 刷题指南](https://mp.weixin.qq.com/s/a5Ic6xeoZ0R5o8ceA8GaTA)
+
+2. [面试题：设计具备 putAll 功能的哈希表，时间复杂度限定 O(1)](https://mp.weixin.qq.com/s/Y0NSOfyxjdI8oSRRJh04uQ)
+
+3. [Facebook 对 Golang 依赖注入的实现](https://mp.weixin.qq.com/s/SEwyDvlQSsFk2P1srn41TA)
+
+4. [【面试必备】刨根问底系列之https到底是如何防篡改的？](https://mp.weixin.qq.com/s/QPU2LvRnR-KO9U5MdYc62A)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-15)](https://studygolang.com/topics/12123)
+
+三、Go夜读
+
+1. [【下周三预告】第 102 期官方标准编译器中实现的优化集锦](https://mp.weixin.qq.com/s/s3H-XwqN0MQOrcxoDypb5A)
+
+四、Bingo Huang
+
+1. [【思维导图】书籍-Serverless架构-从原理、设计到项目实战](https://bingohuang.com/mind-serverless-architecture/)
+
+## gopherDaily_2020-08-16
+- 1.CockroachDB从dep迁移到Go module - https://www.cockroachlabs.com/blog/dep-go-modules/
+- 2.将所有API从python迁移到Go - https://www.repustate.com/blog/migrating-entire-api-go-python/
+- 3.使用Go在数据湖中徜徉 - https://fraugster.com/blog/post/future-proofing-our-storage-needs-with-aws-athena-apache-parquet
+- 4.使用netlify部署无服务go函数 - https://hackersandslackers.com/deploy-serverless-golang-functions-with-netlify/
+- 5.Go实现的Quake 2级别的渲染器 - https://github.com/samuelyuan/go-quake2
+
+## GoCN 每日新闻（2020-08-16）
+- 1.在 Golang 中使用 trie 进行快速 IP 至 CIDR 块查找 https://github.com/yl2chen/cidranger
+- 2.使用 vim 进行 go 开发 https://dev.to/jogendra/using-vim-for-go-development-5hc6
+- 3.如何避免用动态语言的思维写 Go 代码 https://mp.weixin.qq.com/s/LqV7ODo7QCRykcFSRMRRgA
+- 4.LeetCode 刷题指南 https://mp.weixin.qq.com/s/wK7NoRTNP8QhFgdIykuKWg
+- 5.Golang 上手 GORM V2 + Opentracing 链路追踪优化 CRUD 体验 (源码阅读) https://studygolang.com/topics/12120#reply0
+
+## go语言中文网(每日资讯)_2020-08-15
+
+1. [Stackoverflow高赞问答：如何一步步提升Go生成随机字符串的效率](https://mp.weixin.qq.com/s/YPVhTVq_tA9pF79kUKh6Xw)
+
+2. [搞定 Kubernetes 网络：概念及策略控制](https://mp.weixin.qq.com/s/RrWBdRFozUyAPhmntONypQ)
+
+3. [并发访问 slice 如何做到优雅和安全？](https://mp.weixin.qq.com/s/hAS211gFG6qQ3ovgFIxEPg)
+
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-14)](https://studygolang.com/topics/12119)
+
+三、Go夜读
+
+1. [第 100 期如何高效的阅读 Go 代码回放？](https://talkgo.org/t/topic/623)
+
+2. [【预告】本周日第 101 期晓黑板 go-zero 微服务框架分享](https://talkgo.org/t/topic/729)
+
+
 ## GoCN 每日新闻（2020-08-15）
-1.基于寄存器的Go调用约定提案 https://go.googlesource.com/proposal/+/refs/changes/78/248178/1/design/40724-register-calling.md
-2.Go1.15如何改进int转换interface https://utcc.utoronto.ca/~cks/space/blog/programming/Go115InterfaceSmallInts
-3.Go进阶49:HTTP断点续传多线程下载原理 https://mojotv.cn/go/go-range-download
-4.AWS上使用Golang创建Serverless应用 https://schadokar.dev/posts/create-a-serverless-application-in-golang-with-aws/
-5.Kubernetes中的informer机制设计 https://mp.weixin.qq.com/s/TBg2VE-9bGL2MsIuQcRxSQ
-
-
-## GoCN 每日新闻（2020-08-14）
 - 1.基于寄存器的 Go 调用约定提案 https://go.googlesource.com/proposal/+/refs/changes/78/248178/1/design/40724-register-calling.md
 - 2.Go1.15 如何改进 int 转换 interface https://utcc.utoronto.ca/~cks/space/blog/programming/Go115InterfaceSmallInts
 - 3.Go 进阶 49:HTTP 断点续传多线程下载原理 https://mojotv.cn/go/go-range-download
