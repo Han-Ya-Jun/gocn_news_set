@@ -6,7 +6,38 @@
 # gocn_news_set_2020
 
 
-## gopherDaily_2020-08-17
+
+
+## go语言中文网(每日资讯)_2020-08-18
+一、Go语言中文网
+
+1. [如果你只知道 go test 用于单元测试就太 LOW 了](https://mp.weixin.qq.com/s/LDYJMZ72k9PCSiBwJAMKlQ)
+
+2. [海到无边天作岸——万字长文Go接口辛秘​](https://mp.weixin.qq.com/s/85_QWBbCe6FksDRLX5IqDw)
+
+3. [掌握了这30道MySQL基础面试题，我成了面霸](https://mp.weixin.qq.com/s/IoZ_BbcjTFb-OJyRvZTVPQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-17)](https://studygolang.com/topics/12137)
+
+三、真没什么逻辑
+
+1. [操作系统模型与乐高积木 · OSDI 2018](https://mp.weixin.qq.com/s/cA7p3iaRnLmx0LiJNMf4eg)
+
+四、xueyuanjun
+
+1. [Go 视图模板篇（二）：模板指令](https://mp.weixin.qq.com/s/iYkkcHoNt0xScnGTbw7Bjw)
+
+五、峰云就她了
+
+1. [grpc 的那些事儿](http://xiaorui.cc/static/grpc.pdf)
+
+六、有点技术
+
+1. [istio mcp实现探究](https://mp.weixin.qq.com/s/2ezgsZ_TqBn1IrQTYn-wkQ)
+
+## gopherDaily_2020-08-18
 - 1.使用Go实现数据库事务的清晰方法 - https://dev.to/techschoolguru/a-clean-way-to-implement-database-transaction-in-golang-2ba
 - 2.GoUI: 一个极简的Go UI框架 - https://kpfaulkner.wordpress.com/2020/08/17/goui-a-very-simple-ui-framework/
 - 3.Go简明教程系列 - https://medium.com/@penmatsa/concise-golang-part-3-b7c95f272465
