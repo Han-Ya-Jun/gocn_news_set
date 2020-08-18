@@ -5,7 +5,43 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go语言中文网(每日资讯)_2020-08-17
+一、Go语言中文网
 
+1. [Docker更新协议，禁止被列入美国实体清单的组织和个人使用，Docker Hub服务受限](https://mp.weixin.qq.com/s/DuOQI-3ztDnuijzUEnrzFg)
+
+2. [关于 Golang 错误处理的一些思考​](https://mp.weixin.qq.com/s/KPrzPP797efFUKOTTfY1Ow)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-16)](https://studygolang.com/topics/12128)
+
+三、Go夜读
+
+1. [回放第 101 期 2020-08-16 晓黑板 go-zero 微服务框架的架构设计](https://talkgo.org/t/topic/729)
+
+四、xueyuanjun
+
+1. [Go 视图模板篇（一）：模板引擎的定义、解析与执行](https://mp.weixin.qq.com/s/EwGyUUFqqVFUSORzGNaXEA)
+2. [基于 gorilla/sessions 在 Go 语言中管理 Session](https://mp.weixin.qq.com/s/WUFBN_FZhHsinLymnEixBg)
+
+五、峰云就她了
+
+1. [golang net/http超时引发大量fin-wait2](http://xiaorui.cc/archives/6999)
+
+## gopherDaily_2020-08-17
+- 1.使用Go实现数据库事务的清晰方法 - https://dev.to/techschoolguru/a-clean-way-to-implement-database-transaction-in-golang-2ba
+- 2.GoUI: 一个极简的Go UI框架 - https://kpfaulkner.wordpress.com/2020/08/17/goui-a-very-simple-ui-framework/
+- 3.Go简明教程系列 - https://medium.com/@penmatsa/concise-golang-part-3-b7c95f272465
+- 4.govalidator: Go验证器集合包 - https://github.com/asaskevich/govalidator
+- 5.通过hard的方式来了解容器及其工作方式 - https://github.com/shuveb/containers-the-hard-way
+- 6.播客：KELSEY HIGHTOWER的个人kubernetes之路 - https://thenewstack.io/kelsey-hightower-on-his-very-personal-kubernetes-journey/
+## GoCN 每日新闻（2020-08-17）
+- 1.GoLand 2020.2.2 发布 https://www.oschina.net/news/117963/goland-2020-2-2-released
+- 2.Facebook 在 Golang 依赖注入的实现 https://www.cyhone.com/articles/facebookgo-inject/
+- 3.给 WeaveNet 社区提 PR https://gobomb.github.io/post/debug-and-pr-for-weave/
+- 4.不要忽略 goroutine 的启动时间 https://mp.weixin.qq.com/s/35eJMHNoZ-Irr8Hq-mI67g
+- 5.Go 中的 HTTP 请求之——HTTP1.1 请求流程分析 https://juejin.im/post/6861471535878651917
 
 ## go语言中文网(每日资讯)_2020-08-16
 一、Go语言中文网
