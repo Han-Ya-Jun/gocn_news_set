@@ -7,6 +7,13 @@
 
 
 
+## gopherDaily_2020-08-19
+- 1.Go泛型：Underlying Types  - https://www.ardanlabs.com/blog/2020/08/generics-02-underlying-types.html
+- 2.从头开始编写的go编译器 - https://github.com/DQNEO/babygo
+- 3.使用Askgit以sql语言操作git仓库 - https://willschenk.com/articles/2020/using_askgit/
+- 4.containerd 1.4的新特性 - https://medium.com/nttlabs/containerd14-70ae3ea29dba
+- 5.Go实现的类traceroute工具 - https://github.com/kalbhor/tracesite
+- 6.mattermost开源的go log工具 - https://github.com/mattermost/logr
 
 ## go语言中文网(每日资讯)_2020-08-18
 一、Go语言中文网
