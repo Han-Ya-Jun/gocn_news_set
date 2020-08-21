@@ -708,6 +708,160 @@
 - 5.学习安全工程 - https://github.com/veeral-patel/learn-security-engineering
 - 6.Go实现的规则引擎 - https://github.com/hyperjumptech/grule-rule-engine
 
+
+## go语言中文网(每日资讯)_2020-08-03
+一、Go语言中文网
+
+1. [搞不定 Redis，还谈什么缓存](https://mp.weixin.qq.com/s/qiWO7CzLV4Yk8IMnW2Fy0w)
+
+2. [深度剖析 Golang 的 GC 扫描对象的实现](https://mp.weixin.qq.com/s/2Ss-5e1vA2n9K2lfIKqe6g)
+
+3. [喜欢 yarn 交互模式更新依赖的 gopher 有福了](https://mp.weixin.qq.com/s/A_QpDlf02joHy0BpNLszhA)
+
+4. [Go 刷 leetcode｜从前序与中序遍历序列构造二叉树](https://mp.weixin.qq.com/s/aRZZE5pxS7HyjWTE5Aed-Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-02)](https://studygolang.com/topics/12040)
+
+三、Go 夜读
+
+1. [【本周四预告】第 99 期 betterGo - 用类似 C++ 的代码生成的方式实现 Go 泛型](https://mp.weixin.qq.com/s/U_kYOe2yMNNlJucTvGDm3Q)
+
+四、MoeLove
+
+1. [K8S 生态周报| Istio 已修复导致 Pod 崩溃的 bug](https://mp.weixin.qq.com/s/EYIMvA9x4RTjob_uhW_vTg)
+
+五、polarisxu
+
+1. [关于 errors 包的一些细节和思考](https://mp.weixin.qq.com/s/Vd6jxd4aFtwgGw8ws7jiSA)
+
+六、分布式实验室
+
+1. [到底什么是“云原生”？](https://mp.weixin.qq.com/s/gj5xNLarsXByBEQxOmzO4g)
+
+
+## go语言中文网(每日资讯)_2020-08-03
+一、Go语言中文网
+
+1. [搞不定 Redis，还谈什么缓存](https://mp.weixin.qq.com/s/qiWO7CzLV4Yk8IMnW2Fy0w)
+
+2. [深度剖析 Golang 的 GC 扫描对象的实现](https://mp.weixin.qq.com/s/2Ss-5e1vA2n9K2lfIKqe6g)
+
+3. [喜欢 yarn 交互模式更新依赖的 gopher 有福了](https://mp.weixin.qq.com/s/A_QpDlf02joHy0BpNLszhA)
+
+4. [Go 刷 leetcode｜从前序与中序遍历序列构造二叉树](https://mp.weixin.qq.com/s/aRZZE5pxS7HyjWTE5Aed-Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-02)](https://studygolang.com/topics/12040)
+
+三、Go 夜读
+
+1. [【本周四预告】第 99 期 betterGo - 用类似 C++ 的代码生成的方式实现 Go 泛型](https://mp.weixin.qq.com/s/U_kYOe2yMNNlJucTvGDm3Q)
+
+四、MoeLove
+
+1. [K8S 生态周报| Istio 已修复导致 Pod 崩溃的 bug](https://mp.weixin.qq.com/s/EYIMvA9x4RTjob_uhW_vTg)
+
+五、polarisxu
+
+1. [关于 errors 包的一些细节和思考](https://mp.weixin.qq.com/s/Vd6jxd4aFtwgGw8ws7jiSA)
+
+六、分布式实验室
+
+1. [到底什么是“云原生”？](https://mp.weixin.qq.com/s/gj5xNLarsXByBEQxOmzO4g)
+## gocn_news_2020-08-03
+- 1.七天实现一个 go 应用 https://github.com/geektutu/7days-golang
+- 2.刀耕火种 Debug？为什么不使用 Juno https://gocn.vip/topics/10715
+- 3.分享一下自己在用的 go-dump 库 https://v2ex.com/t/691289
+- 4.忘掉 Snowflake，感受一下性能高出 587 倍的全局唯一 ID 生成算法 https://juejin.im/post/5efefaaa6fb9a07e644ee60f
+- 5.「译文」Go 语言内存管理与分配 https://juejin.im/post/5f0479c05188252e332ea86d
+## gopherDaily_2020-08-03
+- 1.opentelemetry入门 - https://docs.lightstep.com/otel/golang-get-started-with-opentelemetry
+- 2.使用GitHub Actions为MacOS构建、公证和签名Go二进制文件 - https://www.kencochrane.com/2020/08/01/build-and-sign-golang-binaries-for-macos-with-github-actions/
+- 3.webp: 零依赖的webp编解码器 - https://github.com/chai2010/webp
+- 4.linux kernel 5.8发布 - https://www.omgubuntu.co.uk/2020/08/linux-5-8-kernel-features
+- 5.学习安全工程 - https://github.com/veeral-patel/learn-security-engineering
+- 6.Go实现的规则引擎 - https://github.com/hyperjumptech/grule-rule-engine
+
+
+## go语言中文网(每日资讯)_2020-08-02
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 54 期](https://mp.weixin.qq.com/s/waVNxQWg7775eK7K6gJkHQ)
+
+2. [开源项目的最佳实践：像管理代码一样管理数据库的变更（Go库）](https://mp.weixin.qq.com/s/hkD7MRJJW-MNT4zeCk5fYA)
+
+3. [图解一致性哈希算法，全网（小区局域网）最通俗易懂](https://mp.weixin.qq.com/s/B6YrleMy5Dy0xGZx1XHJTg)
+
+4. [为什么 Linux 系统调用会消耗较多资源](https://mp.weixin.qq.com/s/MXHsCJAcOin6sJejfC_Gnw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-01)](https://studygolang.com/topics/12034)
+
+三、技术琐话
+
+1. [分布式系统中只有两个难题](https://mp.weixin.qq.com/s/75z9KouQo4lX9s6VrQ2TBg)
+
+四、白色蜗牛
+
+1. [每日思考第 37 期（20200802）](https://www.yuque.com/woniu666/daily_think_club/qbueg4)
+
+
+## gocn_news_2020-08-02
+- 1.Go 进阶 34:Chromedp 浏览器模拟和截图微服务 https://mojotv.cn/go/chromedp-example
+- 2.Go 语言系列 https://juejin.im/post/6854573215764152333
+- 3.Docker 组件 go-event 源码学习 https://studygolang.com/articles/30112
+- 4.聊聊 dubbo-go 的 DefaultHealthChecker https://segmentfault.com/a/1190000023465702
+- 5.Golang 自定义结构体转 map https://studygolang.com/articles/30089
+## gopherDaily_2020-08-02
+- 1.如何通过atomic包减少锁竞争 - https://medium.com/a-journey-with-go/go-how-to-reduce-lock-contention-with-the-atomic-package-ba3b2664b549
+- 2.观点：pkg.go.dev更关心Google的利益，而不是良好的工程设计 - https://drewdevault.com/2020/08/01/pkg-go-dev-sucks.html
+- 3.Go陷阱 - https://www.golangprograms.com/go-programming-language.html
+- 4.k8s.io/client-go动态客户端应用实例 - https://ymmt2005.hatenablog.com/entry/2020/04/14/An_example_of_using_dynamic_client_of_k8s.io/client-go
+- 5.油管视频：少写代码，多生成 - https://www.youtube.com/watch?v=xcpboZZy-64
+## go语言中文网(每日资讯)_2020-08-01
+一、Go语言中文网
+
+1. [你的 Go 应用健康吗？如何进行保障？阿里技术专家告诉你](https://mp.weixin.qq.com/s/fiqmjPaO7iBaVXm3uJIhSA)
+
+2. [Go 每日一库之 mapstructure](https://mp.weixin.qq.com/s/n_AXYv-p_ev-q23mhpDkOg)
+
+3. [为什么集群需要 Overlay 网络](https://mp.weixin.qq.com/s/--seAtKAtIBHQna_HNLMGQ)
+
+4. [Docker容器的"单进程模型"](https://mp.weixin.qq.com/s/DAy_ICNeY2j3mKYLVQR2AA)
+
+二、有点技术
+
+1. [istio证书签发流程](https://mp.weixin.qq.com/s/JmWWXcYVGEYrGXiqbbNnuA)
+
+三、Go夜读
+
+1. [第 98 期 2020-07-30 Go 中的类型递归回放](https://talkgo.org/t/topic/613)
+
+四、qyuhen
+
+1. [4.4.1.1闭包实现原理](https://www.yuque.com/docs/share/bdf99227-072f-4154-b5b8-52cb726c9e01)
+
+## gopherDaily_2020-08-01
+- 1.Go泛型：基本语法 by William Kennedy - https://www.ardanlabs.com/blog/2020/07/generics-01-basic-syntax.html
+- 2.油管视频：Go的几个常见的脆弱性 - https://www.youtube.com/watch?v=a1qrjtrmOj0&feature=youtu.be
+- 3.使用Go自动化你的github profile - https://dev.to/victoria/go-automate-your-github-profile-readme-2344
+- 4.深入浅出监控: 日志、跟踪和度量指南 - https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics
+- 5.如何在k8s上分别部署React前端和Go后端 - https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/
+- 6.使用Go从零起步操作音频系列 - https://dylanmeeus.github.io/posts/audio-from-scratch-pt4/
+- 7.使用vault和jetstack cert-manager对k8s的igress进行安全加固 - https://medium.com/hashicorp-engineering/securing-k8s-ingress-traffic-with-hashicorp-vault-pkiaas-and-jetstack-cert-manager-cb46195742ca
+- 8.京东如何使用Harbor作为私有镜像仓库节省了60％的维护时间 - https://www.cncf.io/blog/2020/06/24/how-jd-com-saves-60-maintenance-time-using-harbor-for-its-private-image-central-repository/
+
+## gocn_news_2020-08-01
+- 1.GoLand 2020.2 稳定版发布 https://www.oschina.net/news/117599/goland-2020-2-released
+- 2.聊聊 dubbo-go 的 apolloConfiguration https://segmentfault.com/a/1190000023458677
+- 3.dubbo-go 中使用 sentinel https://gocn.vip/topics/10769
+- 4.深度剖析 Golang 的 GC 扫描对象的实现 https://mp.weixin.qq.com/s/OxSI9IMwtQNvcrvndG4e-g
+- 5.来自 MongoDB 的分布式持续集成系统 https://mp.weixin.qq.com/s/nhfYE5Q_ZoYQ3cNvVapBgA
+
 ## go语言中文网(每日资讯)_2020-07-31
 一、Go语言中文网
 
