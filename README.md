@@ -5,6 +5,45 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go语言中文网(每日资讯)_2020-08-20
+一、Go语言中文网
+
+1. [TiDB 在知乎万亿量级业务数据下的实践和挑战](https://mp.weixin.qq.com/s/k27rXayT0C7Sr_vwoIYrUw)
+
+2. [Go 读取文件方式那么多，到底应该用哪一种呢​](https://mp.weixin.qq.com/s/g3my_daXI-uYwSa0PBN0VA)
+
+3. [从头教你使用 Hugo 搭建自己的博客](https://mp.weixin.qq.com/s/W0I_KUifTpn1aWavaFy8-Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-19)](https://studygolang.com/topics/12151)
+
+三、 polarisxu 
+
+1. [Viper 加载远程配置的填坑之旅](https://mp.weixin.qq.com/s/tqYigx7Fw45BeTc42QyCmw)
+
+四、 xueyuanjun  
+
+1. [Go 视图模板篇（三）：参数、管道和函数调用](https://mp.weixin.qq.com/s/2lijfJK4cTJ8u1ezMxh7rQ)
+
+五、talkgo
+
+1. [回放-第 102 期官方标准编译器中实现的优化集锦](https://talkgo.org/t/topic/702)
+
+
+## GoCN 每日新闻（2020-08-20）
+- 1.晓黑板 go-zero 微服务框架介绍 https://gocn.vip/topics/10845
+- 2.GoCenter 助力 Golang 全速前进 https://segmentfault.com/a/1190000023702543
+- 3.如何避免用动态语言的思维写 Go 代码 https://mp.weixin.qq.com/s/LqV7ODo7QCRykcFSRMRRgA
+- 4.关于 Golang 错误处理的一些思考​ https://mp.weixin.qq.com/s/KPrzPP797efFUKOTTfY1Ow
+- 5.Go 语言文件读取的一些总结 https://segmentfault.com/a/1190000023691973
+## gopherDaily_2020-08-20
+- 1.经典旧文：真实世界Go的并发bug分析 - https://songlh.github.io/paper/go-study.pdf
+- 2.GPT-3模型的Go API - hhttps://github.com/sashabaranov/go-gpt3
+- 3.Google宣布cilium将成为GKE新的数据平面网络 - https://cilium.io/blog/2020/08/19/google-chooses-cilium-for-gke-networking/
+- 4.Language Server 索引格式生成器 - https://github.com/sourcegraph/lsif-go
+- 5.Go实现的UDP包转发应用 - https://git.sr.ht/~kt/udprelay
+- 6.调试OpenShift的有用指南 - https://www.openshift.com/blog/sre-life-helpful-pointers-for-debugging-openshift-1
 ## go语言中文网(每日资讯)_2020-08-19
 一、Go语言中文网
 
