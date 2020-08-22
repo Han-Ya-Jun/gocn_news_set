@@ -5,6 +5,31 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go语言中文网(每日资讯)_2020-08-21
+一、Go语言中文网
+
+1. [如何使得你的 Go 命令行程序变得友好？](https://mp.weixin.qq.com/s/gpkqFOAfQr0nM0ZvVvXBzw)
+
+2. [Go 项目实战：Golang HTTP 验证码](https://mp.weixin.qq.com/s/Zc3r_DPyyf_qQNyMeEyWzA)
+
+3. [Go 视图模板篇（一）：模板引擎的定义、解析与执行](https://mp.weixin.qq.com/s/UcWh7VPQxHyTKi6uQznc4Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-20)](https://studygolang.com/topics/12161)
+
+三、 polarisxu 
+
+1. [Go 语言 Web 框架 Echo 系列：定制篇6—自定义 Server 相关，替换或扩展默认的 Server](https://mp.weixin.qq.com/s/NyMalGCgwLt-F5nou73c8Q)
+
+四、 xueyuanjun  
+
+1. [Go 视图模板篇（四）：上下文感知与 XSS 攻击](https://mp.weixin.qq.com/s/xYq_XdXVY3BSUtgy9RPIYQ)
+
+五、腾讯云原生
+
+1. [腾讯会议大规模使用Kubernetes的技术实践](https://mp.weixin.qq.com/s/0bXEjOSuftJcpqOLhYhrng)
+
 ## go语言中文网(每日资讯)_2020-08-20
 一、Go语言中文网
 
