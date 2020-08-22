@@ -35,6 +35,21 @@
 六、Abcat
 
 1. [聊聊自己学Go一年来的经历与成长](https://juejin.im/post/6863680036407345166)
+
+
+## gopherDaily_2020-08-22
+- 关于Go泛型设计最新进展和一些问题的澄清: 很大可能使用方括号“[]”，取消类型参数前面的type关键字，所有类型参数必须提供constraint，引入”any”预声明标识符(interface{}的一个alias)等 - https://groups.google.com/g/golang-nuts/c/iAD0NBz3DYw/m/VcXSK55XAwAJ
+```go
+type Vector[T any] []T
+func Print[T any](s []T) { … }
+func Index[T comparable](s []T, e T) { … }
+```
+
+- 2.NAT穿越的工作原理 by tailscale - https://tailscale.com/blog/how-nat-traversal-works/
+- 3.Go接口隔离实战 - https://gianarb.it/blog/interface-segreation-in-action-with-go
+- 4.Go Mock测试技术详解 - https://dmv.myhatchpad.com/insight/mocking-techniques-for-go/
+- 5.fastai发布新版深入学习课程 - https://www.fast.ai/2020/08/21/fastai2-launch/
+- 6.使用go和redis构建一个无服务有状态API - https://dev.to/lambdastore/build-a-serverless-stateful-api-with-golang-and-redis-2m86
 ## go语言中文网(每日资讯)_2020-08-21
 一、Go语言中文网
 
