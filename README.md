@@ -5,6 +5,36 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go语言中文网(每日资讯)_2020-08-22
+一、Go语言中文网
+
+1. [优化 Docker 镜像大小常见方法](https://mp.weixin.qq.com/s/BLthC0SEs13jLNSyqb57-A)
+
+2. [微服务部署在 Kubernetes 中，如何做服务发现与负载均衡](https://mp.weixin.qq.com/s/0v9wYL2JLosdc7bGGl2uCA)
+
+3. [通过 Go 语言代码理解大小端模式](https://mp.weixin.qq.com/s/V-FFnG_f7kG0D97vJ5s1Ww)
+
+4. [Go 视图模板篇（二）：模板指令](https://mp.weixin.qq.com/s/Kv4IUVdVhMEppQilLvhchw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-21)](https://studygolang.com/topics/12170)
+
+三、 章老师说
+
+1. [代码的艺术 8月26日晚 首次公开直播](https://mp.weixin.qq.com/s/TWESB5hFJv9Uia1CmNClUg)
+
+四、 腾讯技术工程
+
+1. [这才是真正的Git——Git实用技巧](https://mp.weixin.qq.com/s/qNqZvjy0RXC0MA5WdSUhAA)
+
+五、 脑子进煎鱼了
+
+1. [微服务的战争：按什么维度拆分服务](https://mp.weixin.qq.com/s/tUeXHVBj0q6pHv1Vt2Xz2Q)
+
+六、Abcat
+
+1. [聊聊自己学Go一年来的经历与成长](https://juejin.im/post/6863680036407345166)
 ## go语言中文网(每日资讯)_2020-08-21
 一、Go语言中文网
 
