@@ -37,8 +37,15 @@
 1. [聊聊自己学Go一年来的经历与成长](https://juejin.im/post/6863680036407345166)
 
 
+## GoCN 每日新闻（2020-08-22）
+- 1.Go 实现将文件批量插入，更新或删除到 Elasticsearch 工具 https://circleci.com/gh/gjbae1212/go-esworker
+- 2.使用 Apache Kafka，Go 和 ksqlDB 构建 Telegram 机器人 https://dev.to/rmoff/building-a-telegram-bot-with-apache-kafka-go-and-ksqldb-4and
+- 3.Kong 微服务网关在 Kubernetes 的实践 https://segmentfault.com/a/1190000023716847
+- 4.基于 Go 实现的用于实时远程执行任务和命令的服务 https://github.com/eltaline/ctrl
+- 5.在 Go 中查询字符串以构造解析器 https://medium.com/wesionary-team/reflections-tutorial-query-string-to-struct-parser-in-go-b2f858f99ea1
+
 ## gopherDaily_2020-08-22
-- 关于Go泛型设计最新进展和一些问题的澄清: 很大可能使用方括号“[]”，取消类型参数前面的type关键字，所有类型参数必须提供constraint，引入”any”预声明标识符(interface{}的一个alias)等 - https://groups.google.com/g/golang-nuts/c/iAD0NBz3DYw/m/VcXSK55XAwAJ
+- 1.关于Go泛型设计最新进展和一些问题的澄清: 很大可能使用方括号“[]”，取消类型参数前面的type关键字，所有类型参数必须提供constraint，引入”any”预声明标识符(interface{}的一个alias)等 - https://groups.google.com/g/golang-nuts/c/iAD0NBz3DYw/m/VcXSK55XAwAJ
 ```go
 type Vector[T any] []T
 func Print[T any](s []T) { … }
