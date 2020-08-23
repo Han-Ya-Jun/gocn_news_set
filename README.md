@@ -5,6 +5,19 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## gopherDaily_2020-08-23
+- 1.使用Go Context - https://dev.to/georgeoffley/working-with-context-in-go-75e
+- 2.避免在生产环境中使用http.DefaultServerMux- https://sgrodriguez.github.io/2020/08/21/defaultServerMux.html
+- 3.油管视频：从OO语言到Go的历程 - https://www.youtube.com/watch?v=1ZjvhGfpwJ8&feature=youtu.be
+- 4.使用Go绕过防病毒软件 - https://labs.jumpsec.com/2019/06/20/bypassing-antivirus-with-golang-gopher-it/
+- 5.观点：区块链，几乎干不了什么 - https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing/84495599980-95473476
+## gocn_news_2020-08-23
+- 1.Go DiskQueue 源码阅读 https://jiajunhuang.com/articles/2020_08_22-go_diskqueue.md.html
+- 2.Go: 使用 pprof 收集样本数据 https://mp.weixin.qq.com/s/HzhhF6nkMkFCv7nhtmBcBA
+- 3.图解 Go 内存管理与内存清理 https://mp.weixin.qq.com/s/NTmE7GA429hfrYkySRsh4g
+- 4.分布式追踪不是银弹--正确使用分布式追踪和 APM 系统 https://mp.weixin.qq.com/s/-i-KP5JTd1mUiMMK0gVRDA
+- 5.client-go 之 Reflector 源码分析 https://mp.weixin.qq.com/s/VLmIK8vcGNw7fI7xb1ZQCA
 ## go语言中文网(每日资讯)_2020-08-22
 一、Go语言中文网
 
