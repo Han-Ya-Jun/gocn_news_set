@@ -4,6 +4,36 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-08-23
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 57 期 — 泛型有了新的进展](https://mp.weixin.qq.com/s/hZUKhlWx6Oj4kTXgYb_weg)
+
+2. [为什么不建议把数据库部署在 Docker 容器内？](https://mp.weixin.qq.com/s/FkMNJu7jewGHZ0-E2utYKg)
+
+3. [Go 使用 defer 计算函数耗时为什么总是很少？](https://mp.weixin.qq.com/s/XR7gurTZrCqEJlqiLEtoEQ)
+
+4. [Go 视图模板篇（三）：参数、管道和函数调用](https://mp.weixin.qq.com/s/pZrO42_bibqXAf3UYtSO1g)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-22)](https://studygolang.com/topics/12171)
+
+三、 xueyuanjun
+
+1. [Go 视图模板篇（五）：模板布局和继承](https://mp.weixin.qq.com/s/Tr4MmLwxELf56QUubHU7Iw)
+
+四、polarisxu
+
+1. [关于 Go 语言泛型设计的最新进展和一些问题的说明](https://mp.weixin.qq.com/s/s_soEAcoWnubU3A3mnkv2A)
+
+五、有点技术
+
+1. [istio 1.7发布](https://mp.weixin.qq.com/s/riH5NjN6-52x06ZeFnmI3Q)
+
+六、 HHF技术博客  
+
+1. [限流器系列(3)--自适应限流](https://mp.weixin.qq.com/s/sIChgvepKQ1-8qluqogUpA)
 
 
 ## gopherDaily_2020-08-23
