@@ -5,6 +5,51 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go语言中文网(每日资讯)_2020-08-25
+一、Go语言中文网
+
+1. [2021 年最佳的后端编程语言会是谁？](https://mp.weixin.qq.com/s/B2sDMJdIG_DIt3vLdmb80w)
+
+2. [Go 填坑：使用 UnmarshalJSON 接口实现自定义 unmarshal 的坑](https://mp.weixin.qq.com/s/D-0SKC-FsGm2eERmsmPM5g)
+
+3. [Go 每日一库之 go-bindata — 静态资源嵌入详解](https://mp.weixin.qq.com/s/piit9iPYbr-gU-39swn4sw)
+
+4. [Go 视图模板篇（五）：模板布局和继承](https://mp.weixin.qq.com/s/CTCs8KM5T-j4ZCzjJyNVXQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-24)](https://studygolang.com/topics/12186)
+
+三、 脑子进煎鱼了
+
+1. [微服务的战争：统一且标准化](https://mp.weixin.qq.com/s/0ZtR3e0NHGpwAswvNNhYKw)
+
+四、 云原生技术爱好者社区
+
+1. [K8S Ingress使用|常见问题列表](https://mp.weixin.qq.com/s/RqLY-3np43lAFq6Mm6YBKw)
+
+五、行思錄 | Travel Coder
+
+1. [谈谈这两年在业务中做技术的思考](https://liudanking.com/beautiful-life/think-of-year-2-work-at-ali/)
+
+
+归档：
+
+
+## gocn_news_2020-08-25
+- 1.踩了 Golang sync.Map 的一个坑 https://gocn.vip/topics/10860
+- 2.validator库参数校验若干实用技巧 https://www.liwenzhou.com/posts/Go/validator_usages/
+- 3.go 网络编程 https://www.jianshu.com/p/f8f247d003ee
+- 4.Go的有序Map（使用泛型） https://medium.com/@rocketlaunchr.cloud/ordered-maps-for-go-using-generics-875ef3816c71
+- 5.GoLF游戏引擎 https://github.com/bjatkin/golf-engine
+
+## gopherDaily_2020-08-25
+- 1.uber面向领域的微服务架构 - https://eng.uber.com/microservice-architecture/
+- 2.播客：context.Context的用法与误用 - https://changelog.com/gotime/143
+- 3.踩了Go 1.15 sync.Map的一个坑 - https://purewhite.io/2020/08/24/golang-sync-map-keys-never-delete/
+- 4.kubernetes operator最佳实践 - https://www.openshift.com/blog/kubernetes-operators-best-practices
+- 5.每个程序员都应该知道的编译器优化的那些事儿 - https://docs.microsoft.com/en-us/archive/msdn-magazine/2015/february/compilers-what-every-programmer-should-know-about-compiler-optimizations
+- 6.使用Go泛型实现的有序map - https://medium.com/@rocketlaunchr.cloud/ordered-maps-for-go-using-generics-875ef3816c71
 
 
 ## go语言中文网(每日资讯)_2020-08-24
