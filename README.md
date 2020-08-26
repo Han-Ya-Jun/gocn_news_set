@@ -5,6 +5,48 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go语言中文网(每日资讯)_2020-08-26
+
+一、Go语言中文网
+
+1. [不要忽略 goroutine 的启动时间](https://mp.weixin.qq.com/s/hIs318h6iJW2O9--QVqh6w)
+
+2. [Golang 中一个 time.Duration 相关类型转换问题](https://mp.weixin.qq.com/s/KR1SnMo5gzrEX4rRFBGL_g)
+
+3. [JSON 的填坑之旅：官方给的解答](https://mp.weixin.qq.com/s/Atr7mTOBK1W0rIL-Dy8_yA)
+
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-25)](https://studygolang.com/topics/12190)
+
+三、 腾讯技术工程
+
+1. [彻底弄懂TCP协议：从三次握手说起](https://mp.weixin.qq.com/s/6LiZGMt2KRiIoMaLwx-lkQ)
+
+四、 Kubernetes技术栈
+
+1. [Prometheus监控神器-服务发现篇（一）](https://mp.weixin.qq.com/s/89C3-wdOjXUkgJ1z3xyVJg)
+
+五、 polarisxu
+
+1. [手把手教你用 ETCD：一篇短文却包含众多知识](https://mp.weixin.qq.com/s/efwpeWDkRPr19-dTnGkvww)
+
+
+## gopherDaily_2020-08-26
+- 1.uber面向领域的微服务架构 - https://eng.uber.com/microservice-architecture/
+- 2.播客：context.Context的用法与误用 - https://changelog.com/gotime/143
+- 3.踩了Go 1.15 sync.Map的一个坑 - https://purewhite.io/2020/08/24/golang-sync-map-keys-never-delete/
+- 4.kubernetes operator最佳实践 - https://www.openshift.com/blog/kubernetes-operators-best-practices
+- 5.每个程序员都应该知道的编译器优化的那些事儿 - https://docs.microsoft.com/en-us/archive/msdn-magazine/2015/february/compilers-what-every-programmer-should-know-about-compiler-optimizations
+- 6.使用Go泛型实现的有序map - https://medium.com/@rocketlaunchr.cloud/ordered-maps-for-go-using-generics-875ef3816c71
+## gocn_news_2020-08-26
+- 1.内存安全性与 Go https://medium.com/trendyol-tech/secure-types-memory-safety-with-go-d3a20aa1e727
+- 2.在 Go 中试用 QUIC 和 WebTransport https://centrifugal.github.io/centrifugo/blog/quic_web_transport
+- 3.微服务的战争：按什么维度拆分服务 https://gocn.vip/topics/10861
+- 4.使用 Go 进行日志分析并生成 excel，再也不担心做日志分析了 https://mp.weixin.qq.com/s/PJFE-fJ_pt60H9XZlxBNpw
+- 5.Go 实现的 traceroute 工具 https://github.com/kalbhor/tracesite
 ## go语言中文网(每日资讯)_2020-08-25
 一、Go语言中文网
 
@@ -33,7 +75,6 @@
 1. [谈谈这两年在业务中做技术的思考](https://liudanking.com/beautiful-life/think-of-year-2-work-at-ali/)
 
 
-归档：
 
 
 ## gocn_news_2020-08-25
