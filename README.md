@@ -35,12 +35,12 @@
 
 
 ## gopherDaily_2020-08-26
-- 1.uber面向领域的微服务架构 - https://eng.uber.com/microservice-architecture/
-- 2.播客：context.Context的用法与误用 - https://changelog.com/gotime/143
-- 3.踩了Go 1.15 sync.Map的一个坑 - https://purewhite.io/2020/08/24/golang-sync-map-keys-never-delete/
-- 4.kubernetes operator最佳实践 - https://www.openshift.com/blog/kubernetes-operators-best-practices
-- 5.每个程序员都应该知道的编译器优化的那些事儿 - https://docs.microsoft.com/en-us/archive/msdn-magazine/2015/february/compilers-what-every-programmer-should-know-about-compiler-optimizations
-- 6.使用Go泛型实现的有序map - https://medium.com/@rocketlaunchr.cloud/ordered-maps-for-go-using-generics-875ef3816c71
+- 1.Go模糊测试的现状与未来 - https://lwn.net/SubscriberLink/829242/64cbde0531aaf166/
+- 2.使用Go试验QUIC和WebTransport技术 -  https://centrifugal.github.io/centrifugo/blog/quic_web_transport/
+- 3.服务网格边缘的设计考虑 - https://www.openshift.com/blog/design-considerations-at-the-edge-of-the-servicemesh
+- 4.将一个命令行脚本转换为web服务 - https://github.com/beefsack/script-httpd
+- 5.Go编写的局域网聊天工具 - https://github.com/fiatjaf/localchat
+
 ## gocn_news_2020-08-26
 - 1.内存安全性与 Go https://medium.com/trendyol-tech/secure-types-memory-safety-with-go-d3a20aa1e727
 - 2.在 Go 中试用 QUIC 和 WebTransport https://centrifugal.github.io/centrifugo/blog/quic_web_transport
