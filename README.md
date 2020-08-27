@@ -4,18 +4,47 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-08-27
+一、Go语言中文网
 
+1. [都说 Go 可以开启成千上万的 Goroutine，那调度器是怎么处理核上任务分配的？](https://mp.weixin.qq.com/s/_By9rjPgb8zqIpVrsJrToQ)
+
+2. [全网最全的 LeetCode 国人大神刷题指南，全部 Go 语言实现](https://mp.weixin.qq.com/s/LY-DGKSt8jZjDn7DFa02-g)
+
+3. [Go 语言实现数据结构：栈和队列](https://mp.weixin.qq.com/s/dFsajcNyYAje9CJ3yBKPAw)
+
+4. [golang goquery selector(选择器) 示例大全](https://mp.weixin.qq.com/s/U-8SCcsxCYAboQt3cu686g)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-26)](https://studygolang.com/topics/12197)
+
+三、 有点技术
+
+1. [控制pod内container执行顺序的几种姿势](https://mp.weixin.qq.com/s/QfZC3IitTT02-DrIOox9Eg)
+
+四、 Kubernetes技术栈
+
+1. [Prometheus监控神器-服务发现篇（二）](https://mp.weixin.qq.com/s/1exosZYHjpWtu8oCpbKJvw)
+
+五、云原生实验室
+
+1. [Thanos 与 VictoriaMetrics，谁才是打造大型 Prometheus 监控系统的王者？](https://mp.weixin.qq.com/s/4SXTzNuPqMK71Kz4Fo6BlQ)
+
+六、 aoho求索
+
+1. [彻底搞懂 etcd 系列文章（七）：etcd gRPC 服务 API](https://mp.weixin.qq.com/s/A4TGaNDOlNUWD1sSpHxtEw)
 
 
 ## gopherDaily_2020-08-27
-1.油管视频：Russ Cox讲解go:build设计草案 - https://www.youtube.com/watch?v=AgR_mdC4Rs4
-2.Go内存安全详解 - https://medium.com/trendyol-tech/secure-types-memory-safety-with-go-d3a20aa1e727
-3.Go实现的http结构化字段解析和序列化 - https://dunglas.fr/2020/08/a-structured-http-fields-parser-and-serializer-for-the-go-programming-language/
-4.Go实现的gitlab客户端命令行工具 - https://github.com/profclems/glab
-5.net包将导出ErrClosed以便程序可以可靠的判断当前链接是否已经关闭 - https://github.com/golang/go/commit/e9ad52e46dee4b4f9c73ff44f44e1e234815800f
-6.Go reddit访问API - https://github.com/vartanbeno/go-reddit
-7.开源书籍：学习vim - https://github.com/iggredible/Learn-Vim
-8.Go实现的NFS v3服务 - https://github.com/willscott/go-nfs/
+- 1.油管视频：Russ Cox讲解go:build设计草案 - https://www.youtube.com/watch?v=AgR_mdC4Rs4
+- 2.Go内存安全详解 - https://medium.com/trendyol-tech/secure-types-memory-safety-with-go-d3a20aa1e727
+- 3.Go实现的http结构化字段解析和序列化 - https://dunglas.fr/2020/08/a-structured-http-fields-parser-and-serializer-for-the-go-programming-language/
+- 4.Go实现的gitlab客户端命令行工具 - https://github.com/profclems/glab
+- 5.net包将导出ErrClosed以便程序可以可靠的判断当前链接是否已经关闭 - https://github.com/golang/go/commit/e9ad52e46dee4b4f9c73ff44f44e1e234815800f
+- 6.Go reddit访问API - https://github.com/vartanbeno/go-reddit
+- 7.开源书籍：学习vim - https://github.com/iggredible/Learn-Vim
+- 8.Go实现的NFS v3服务 - https://github.com/willscott/go-nfs/
 ## gocn_news_2020-08-27
 - 1.将CockroachDB 从 Dep 迁移到 Go Modules https://www.cockroachlabs.com/blog/dep-go-modules
 - 2.在Go 中构建你自己的特性 https://levelup.gitconnected.com/build-your-own-future-in-go-f66c568e9a7a
