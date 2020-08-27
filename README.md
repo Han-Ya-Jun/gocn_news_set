@@ -5,6 +5,17 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+
+## gopherDaily_2020-08-27
+1.油管视频：Russ Cox讲解go:build设计草案 - https://www.youtube.com/watch?v=AgR_mdC4Rs4
+2.Go内存安全详解 - https://medium.com/trendyol-tech/secure-types-memory-safety-with-go-d3a20aa1e727
+3.Go实现的http结构化字段解析和序列化 - https://dunglas.fr/2020/08/a-structured-http-fields-parser-and-serializer-for-the-go-programming-language/
+4.Go实现的gitlab客户端命令行工具 - https://github.com/profclems/glab
+5.net包将导出ErrClosed以便程序可以可靠的判断当前链接是否已经关闭 - https://github.com/golang/go/commit/e9ad52e46dee4b4f9c73ff44f44e1e234815800f
+6.Go reddit访问API - https://github.com/vartanbeno/go-reddit
+7.开源书籍：学习vim - https://github.com/iggredible/Learn-Vim
+8.Go实现的NFS v3服务 - https://github.com/willscott/go-nfs/
 ## gocn_news_2020-08-27
 - 1.将CockroachDB 从 Dep 迁移到 Go Modules https://www.cockroachlabs.com/blog/dep-go-modules
 - 2.在Go 中构建你自己的特性 https://levelup.gitconnected.com/build-your-own-future-in-go-f66c568e9a7a
