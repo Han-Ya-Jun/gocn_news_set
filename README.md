@@ -5,6 +5,12 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## gocn_news_2020-08-27
+- 1.将CockroachDB 从 Dep 迁移到 Go Modules https://www.cockroachlabs.com/blog/dep-go-modules
+- 2.在Go 中构建你自己的特性 https://levelup.gitconnected.com/build-your-own-future-in-go-f66c568e9a7a
+- 3.接口隔离在 Go 中的应用 https://gianarb.it/blog/interface-segreation-in-action-with-go
+- 4.容量参数是如何破坏你的数据的 https://thenotexpert.com/how-innocent-capacity-parameter-can-destroy-your-data/
+- 5.应用在 Lyft 上的一种新的实时路径匹配算法 https://eng.lyft.com/a-new-real-time-map-matching-algorithm-at-lyft-da593ab8b006
 
 ## go语言中文网(每日资讯)_2020-08-26
 
@@ -47,6 +53,9 @@
 - 3.微服务的战争：按什么维度拆分服务 https://gocn.vip/topics/10861
 - 4.使用 Go 进行日志分析并生成 excel，再也不担心做日志分析了 https://mp.weixin.qq.com/s/PJFE-fJ_pt60H9XZlxBNpw
 - 5.Go 实现的 traceroute 工具 https://github.com/kalbhor/tracesite
+
+
+
 ## go语言中文网(每日资讯)_2020-08-25
 一、Go语言中文网
 
