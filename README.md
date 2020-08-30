@@ -5,6 +5,37 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+
+## go语言中文网(每日资讯)_2020-08-30
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 58 期 — 关于 context 的题答对了吗？](https://mp.weixin.qq.com/s/LLCwBIpTVLqeOf-DRTCgsg)
+
+2. [Go team 关于如何保持 Go Modules 兼容性的一些实践](https://mp.weixin.qq.com/s/WTGBCDZW17Et-rqeNovyUA)
+
+3. [利用 Go 反射机制实现判断 slice 中是否存在某个 item](https://mp.weixin.qq.com/s/fq4k8nHev-pH0P2AVv_11Q)
+
+4. [云原生架构: 服务网格、混沌工程、用户态网络](https://mp.weixin.qq.com/s/oKLta75f6_BHOrp8lJiyjQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-29)](https://studygolang.com/topics/12218)
+
+三、polarisxu
+
+1. [Go 到底是不是 Google 亲生的？Rob Pike 告诉你](https://mp.weixin.qq.com/s/viOCzclBXOrhS-Ixef7fAQ)
+
+2. [文本编辑器大比拼：谁才是真正的编辑器之王？](https://mp.weixin.qq.com/s/twGr49fAqRG8UguZ_9TiiA)
+
+四、Go语言充电站
+
+1. [Docker容器基础2：Cgroup - memory子系统](https://lessisbetter.site/2020/08/30/cgroup-2-memory/)
+
+五、脑子进煎鱼了
+
+1. [微服务的战争：级联故障和雪崩](https://mp.weixin.qq.com/s/lfuGP-5L5e7efWiLn424CQ)
+
 ## gopherDaily_2020-08-30
 - 1.Google内部Go语言应用案例 by Rob Pike - https://tonybai.com/2020/08/30/new-case-studies-about-googles-use-of-go/
 - 2.使用errors.As创建领域特定error辅助函数 - https://blog.carlmjohnson.net/post/2020/working-with-errors-as/
