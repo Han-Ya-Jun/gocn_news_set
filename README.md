@@ -5,6 +5,61 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## gopherDaily_2020-08-30
+- 1.Google内部Go语言应用案例 by Rob Pike - https://tonybai.com/2020/08/30/new-case-studies-about-googles-use-of-go/
+- 2.使用errors.As创建领域特定error辅助函数 - https://blog.carlmjohnson.net/post/2020/working-with-errors-as/
+- 3.go, crystal, python和javascript基准测试对比 - https://blog.m5e.de/post/benchmarking-go-crystal-python-and-js/
+- 4.Go语言中测试数据库事务 - https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM
+- 5.maddy：全功能mail服务器 - https://github.com/foxcpp/maddy
+- 6.Monarch：google星球级内存时序数据库 - http://www.vldb.org/pvldb/vol13/p3181-adams.pdf
+- 7.观点：你不应该使用线程 - https://shouldiusethreads.com/
+- 8.计算机距离数学推理自动化有多近？ - https://www.quantamagazine.org/how-close-are-computers-to-automating-mathematical-reasoning-20200827/
+- 9.终端命令行应用命名范式 - https://smallstep.com/blog/the-poetics-of-cli-command-names/
+- 10.litmus: 云原生混动工程 - https://github.com/litmuschaos/litmus
+
+
+## gocn_news_2020-08-30
+- 1.使用自动重新编译和自动重新启动在 Golang 中开发 Kubernetes 本地应用程序 https://acim.net/develop-kubernetes-native-applications-golang-autorecompile-autorestart/
+- 2.Go 语言 CSP 并发模型与 Goroutine 的基本使用 https://juejin.im/post/6862911335005585416
+- 3.Go: ElasticSearch 客户端学习 https://www.tuicool.com/articles/BFzqQzI
+- 4.Golang 利用策略模式优化 if…else 和 switch https://www.tuicool.com/articles/me2aEve
+- 5.Golang 应用程序使用 S3 进行自我更新 https://github.com/heetch/s3update
+
+## go语言中文网(每日资讯)_2020-08-29
+一、Go语言中文网
+
+1. [别再问用 Go 语言如何对接微信支付了：看看这个包](https://mp.weixin.qq.com/s/Tr-gTJ2evq-RiIfewWw7jg)
+
+2. [不懂这些知识点，你还好意思说懂 Docker？](https://mp.weixin.qq.com/s/TfK81R5TX5SdXW4Wx6Va9g)
+
+3. [Go 语言基于 channel 实现的并发安全的字节池](https://mp.weixin.qq.com/s/y59O0F_WInPKsrBBV16vuQ)
+
+4. [微服务的战争：统一且标准化](https://mp.weixin.qq.com/s/CCnhuL-fkH87gtGj30k4ZQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-28)](https://studygolang.com/topics/12215)
+
+三、分布式实验室
+
+1. [Go 官方进程诊断工具 gops 详解 | 周末送书](https://mp.weixin.qq.com/s/mlqiNUN1W1MC05ZsPbkgvg)
+
+四、IT人的职场进阶
+
+1. [监控系统选型，这篇不可不读！](https://mp.weixin.qq.com/s/eKc8qoqNCgqrnont2nYNgA)
+
+## gopherDaily_2020-08-29
+- 1.k8s之父Tim Hockin创建的go log接口库 - https://github.com/go-logr/logr
+- 2.基于教学目的区块链的Go语言参考实现 - https://github.com/codingtmd/mini-blockchain
+- 3.ultimate go课程笔记 - https://dev.to/elkhatibomar/go-notes-ardanlabs-4mha
+- 4.数据库事务锁以及如何处理死锁 - https://dev.to/techschoolguru/db-transaction-lock-how-to-handle-deadlock-22o8
+- 5.观点：技术债务不存在 - https://thehftguy.com/2020/08/26/technical-debt-doesnt-exist/
+## gocn_news_2020-08-29
+- 1.Go 官方进程诊断工具 gops 详解 https://mp.weixin.qq.com/s/mlqiNUN1W1MC05ZsPbkgvg
+- 2.Golang 赫夫曼树及其编码 https://pyihe.github.io/2020/08/29/Golang%E8%B5%AB%E5%A4%AB%E6%9B%BC%E6%A0%91%E5%8F%8A%E5%85%B6%E7%BC%96%E7%A0%81.html
+- 3.Google Cloud 服务网格：Traffic Director 与 Anthos Service Mesh 的左右互搏 https://mp.weixin.qq.com/s/7Cbpb3U8CeET8SfeL5qTVQ
+- 4.【Go 语言探险】线上奇怪日志问题的排查 https://www.cnblogs.com/mfrank/p/13582314.html
+- 5.Kubernetes client-go informer 原理 https://cloudnative.to/blog/client-go-informer
 ## go语言中文网(每日资讯)_2020-08-28
 一、Go语言中文网
 
