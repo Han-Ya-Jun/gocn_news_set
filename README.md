@@ -5,7 +5,49 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go语言中文网(每日资讯)_2020-08-31
+一、Go语言中文网
 
+1. [动态作用域？Dave Cheney 大神由 Go 单元测试惯用形式所想](https://mp.weixin.qq.com/s/bMMJQdoBEuYavoIZG300aQ)
+
+2. [Go 实战：实现一个简单的日志库](https://mp.weixin.qq.com/s/Xg-iQQCnevgenwlZ52lauA)
+
+3. [Go：基于 HTTP Header 传输签名参数](https://mp.weixin.qq.com/s/M0aPXUTNPDbA8DK_OV0Lvg)
+
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-30)](https://studygolang.com/topics/12220)
+
+三、polarisxu
+
+1. [为 jinzhu 点赞，祝贺 GORM 2.0 发布：送书 2 本](https://mp.weixin.qq.com/s/Xwgan--hF8XMLY6dLtOzVw)
+
+四、 Cloud Native Community
+
+1. [云原生网络代理 MOSN 的进化之路](https://mp.weixin.qq.com/s/5X8ZCO9a9nZE1oAMCNKVzw)
+
+五、 MoeLove
+
+1. [K8S 生态周报| Kubernetes v1.19 正式发布](https://mp.weixin.qq.com/s/ggGLOgqslHZyY9X6XEUikQ)
+
+
+
+
+
+## gopherDaily_2020-08-31
+- 1.使用autorecompile和autorestart开发Kubernetes原生Go应用 - https://acim.net/develop-kubernetes-native-applications-golang-autorecompile-autorestart/
+- 2.关于context包的一个有趣的错误 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoContextValueMistake
+- 3.结合增强拓扑技术(NEAT)使用Go学习玩Asteroids游戏 - https://maori.geek.nz/learning-to-play-asteroids-in-golang-with-neat-f44c3472938f
+- 4.gorm 2.0发布 - https://gorm.io/docs/v2_release_note.html
+- 5.WebRTC协议原理 - https://webrtcforthecurious.com/
+- 6.使用Go构建不可变数据结构 - https://levelup.gitconnected.com/building-immutable-data-structures-in-go-56a1068c76b2
+## gocn_news_2020-08-31
+- 1.GORM v2 正式发布 https://gocn.vip/topics/10888
+- 2.微服务的战争：级联故障和雪崩 https://mp.weixin.qq.com/s/lfuGP-5L5e7efWiLn424CQ
+- 3.当 Kubernetes 遇到机密计算，阿里巴巴如何保护容器内数据的安全？ https://developer.aliyun.com/article/771142
+- 4.深入剖析 go 中字符串的编码问题——特殊字符的 string 怎么转 byte？ https://www.jianshu.com/p/34e6790a6503
+- 5.Golang 了解空接口 https://mp.weixin.qq.com/s/9CciL8ifi_Q_qfyNEPLNlg
 
 ## go语言中文网(每日资讯)_2020-08-30
 一、Go语言中文网
