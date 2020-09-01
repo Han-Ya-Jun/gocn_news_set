@@ -4,6 +4,49 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-09-01
+一、Go语言中文网
+
+1. [IO 操作库那么多，我咋选？谈谈对 Go IO 读写的困惑](https://mp.weixin.qq.com/s/6ZECGjRQpQA5BuSRY4bIOg)
+
+2. [为 jinzhu 点赞，祝贺 GORM 2.0 发布：送书 2 本](https://mp.weixin.qq.com/s/bkX3Vc4ROhbvo79eO8_KSQ)
+
+3. [微服务的战争：级联故障和雪崩](https://mp.weixin.qq.com/s/vAPl-uCXTl7tJKxvF5HdAg)
+
+
+二、亚军进化史
+
+1. [Go技术日报(2020-08-31)](https://studygolang.com/topics/12228)
+
+三、鸟窝
+
+1. [使用 Go 实现 lock-free 的队列](https://colobu.com/2020/08/14/lock-free-queue-in-go/)
+
+四、yoko blog
+
+1. [流媒体传输连接类型之session client, server, pub, sub, push, pull](https://www.pengrl.com/p/20080/)
+
+五、新亮笔记  
+
+1. [浅谈前后端分离](https://mp.weixin.qq.com/s/Rfk_BArD4So9SXUrG8-L8w)
+
+## gocn_news_2020-09-01
+- 1.go-zero 微服务自动生成 https://gocn.vip/topics/10884
+- 2.Golang 标准库 sync.WaitGroup 解读 https://juejin.im/post/6866971615717457934
+- 3.Golang HTTP 服务器实现原理 https://juejin.im/post/6867149633328513038
+- 4.高效的关键词替换和敏感词过滤工具 https://v2ex.com/t/702937
+- 5.微服务的战争：统一且标准化 https://mp.weixin.qq.com/s/0ZtR3e0NHGpwAswvNNhYKw
+
+
+
+## gopherDaily_2020-09-01
+- 1.elastic官博：Elasticsearch Go客户端介绍 - https://www.elastic.co/cn/blog/the-go-client-for-elasticsearch-introduction
+- 2.Go中的竞态 - https://www.checkmarx.com/blog/race-conditions-can-exist-in-go
+- 3.当一个interface依赖另一个interface - https://medium.com/swlh/when-an-interface-depends-on-another-interface-in-go-a32d988cd21e
+- 4.微软开源的分布式微服务应用框架Dapr的开发demo集合 - https://github.com/mchmarny/dapr-demos
+- 5.Go代码中嵌入sed - https://github.com/rwtodd/Go.Sed
+- 6.RISC-V实验室开源基于RISC-V架构的开发板计算机PicoRio，对标树莓派 - http://www.rioslab.org/
+
 
 ## go语言中文网(每日资讯)_2020-08-31
 一、Go语言中文网
