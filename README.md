@@ -4,6 +4,23 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
+
+## gopherDaily_2020-09-02
+- 1.Go语言多错误值管理 - https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1
+- 2.从numpy/scipy迁移到gonum - https://www.retrorefractions.com/blog/first-steps-gonum-optimize/
+- 3.dbr： database/sql的性能增强库 - https://github.com/mailru/dbr
+- 4.Go crash教程 - https://collectednotes.com/rands/go-crash-course
+- 5.GitHub Container Registry为公共容器镜像提供免费服务 - https://github.blog/2020-09-01-introducing-github-container-registry/
+
+
+## gocn_news_2020-09-02
+- 1.Go 发布安全更新 1.15.1 https://golang.google.cn/dl/#go1.15.1
+- 2.Go 语言多错误值管理 https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1
+- 3.从 Scipy 迁移至 Gonum https://www.retrorefractions.com/blog/first-steps-gonum-optimize/
+- 4.grpc-http1：将 grpc 服务暴露在 HTTP/1 环境下 https://github.com/stackrox/go-grpc-http1/
+- 5.bravetools：基于 LXD 的系统容器管理系统 https://github.com/bravetools/bravetools
 ## go语言中文网(每日资讯)_2020-09-01
 一、Go语言中文网
 
