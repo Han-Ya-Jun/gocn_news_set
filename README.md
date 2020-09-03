@@ -5,8 +5,37 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go语言中文网(每日资讯)_2020-09-02
+一、Go语言中文网
+
+1. [用 Go 开发桌面应用程序（GUI）：Webview、Lorca 与 Electron](https://mp.weixin.qq.com/s/ZbAtpd4R6wpzu0hXClnBjQ)
+
+2. [Go 每日一库之云原生 go-zero 微服务框架](https://mp.weixin.qq.com/s/-fAfUmPAhfGbw2275jznaA)
+
+3. [深入剖析go中字符串的编码问题——特殊字符的string怎么转byte？](https://mp.weixin.qq.com/s/7objGAp-8N1v-sjl4nuYrg)
+
+4. [设计模式之观察者模式](https://mp.weixin.qq.com/s/RKHyyFgr7ZPWCp8cHOG1Yw)
 
 
+二、亚军进化史
+
+1. [Go技术日报(2020-09-01)](https://studygolang.com/topics/12237)
+
+三、 网管叨bi叨
+
+1. [K8s上的Go服务怎么扩容、发版更新、回滚、平滑重启？教你用Deployment全搞定！](https://mp.weixin.qq.com/s/XRp13zkoo94q31RO5zIfaA)
+
+四、GoUpUp
+
+1. [Go 每日一库之 jobrunner](https://mp.weixin.qq.com/s/MqA1f8h4ii6bwBJaDmNE6w)
+
+五、非正式解决方案
+
+1. [金光灿灿的Gorm V2+适合创业的golang微服务框架go-zero实战](https://mp.weixin.qq.com/s/NQMDvxvE1kH6MrpW50SUJg)
+
+六、有点技术
+
+1. [本地部署istio多集群(共享控制面)](https://mp.weixin.qq.com/s/iy9xDEcLfkQzn8ZBLM-o0w)
 ## gopherDaily_2020-09-02
 - 1.Go语言多错误值管理 - https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1
 - 2.从numpy/scipy迁移到gonum - https://www.retrorefractions.com/blog/first-steps-gonum-optimize/
