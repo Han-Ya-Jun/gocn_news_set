@@ -4,6 +4,64 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go语言中文网(每日资讯)_2020-09-03
+一、Go语言中文网
+
+1. [CGO 如何生成兼容 C 的结构体？](https://mp.weixin.qq.com/s/k2j2nJNvriJUIi4X10rQzw)
+
+2. [花开并蒂—站在Go接口之上的反射分析](https://mp.weixin.qq.com/s/PMg0bKcX5eLK73XtNgb4LQ)
+
+3. [Go 每日一库之 jobrunner](https://mp.weixin.qq.com/s/oTbtgNPttwRG1gKn-sY9rw)
+
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-02)](https://studygolang.com/topics/12243)
+
+三、 polarisxu
+
+1. [玩转 VS Code 之你可能不知道的一些技巧](https://mp.weixin.qq.com/s/iV3t1jJ0okRbQtQSw8J9bA)
+
+2. [Go 1.15.1 和 Go 1.14.8 发布：一个安全问题修复](https://mp.weixin.qq.com/s/Fwym7ZThwqK_vvb5A3OwHA)
+
+四、GoUpUp
+
+1. [在本地运行 fyne 官网](https://mp.weixin.qq.com/s/QmaGQm7qynVz_QoBkVop5g)
+
+五、xueyuanjun
+
+1. [Go 数据存储篇（一）：基于内存存储实现数据增删改查功能](https://mp.weixin.qq.com/s/VfHfKvkj0Pm0jq_IqIY-9Q)
+
+六、有点技术
+
+1. [istio-cni详解](https://mp.weixin.qq.com/s/_x7i2DR3iuEhkjmkvB-ENg)
+
+
+
+## gocn_news_2020-09-03
+- 1.Go Dumpling！让导出数据更容易 https://segmentfault.com/a/1190000023879506
+- 2.Goroutine 是如何处理栈的？ https://jiajunhuang.com/articles/2020_08_26-goroutine_stack.md.html
+- 3.PayPal 使用 Go 提升扩展性 https://go.dev/solutions/paypal/
+- 4.使用整洁的架构重构 Go 项目 https://threedots.tech/post/introducing-clean-architecture/
+- 5.Go 如何申请对象内存大小 https://commaok.xyz/post/discovering-size-classes/
+## gopherDaily_2020-09-03
+- 1.go2 playground增加对最新go泛型技术提案更新的支持：支持any - https://go2goplay.golang.org/
+
+```
+func Print[T any](s []T) {
+	for _, v := range s {
+		fmt.Print(v)
+	}
+}
+```
+
+- 2.Go 1.16中增加嵌入文件支持 - https://github.com/golang/go/issues/41191
+- 3.Go Clean Architecture重构实战 - https://threedots.tech/post/introducing-clean-architecture/
+- 4.nats和apache kafka大比较 - https://itnext.io/contrasting-nats-with-apache-kafka-1d3bdb9aa767
+- 5.探索Go中对象的真实内存分配大小 - https://commaok.xyz/post/discovering-size-classes/
+- 6.PayPal公司的Go使用案例 - https://www.linkedin.com/pulse/golang-paypal-modernizing-scaling-reemi-shirsath/
+- 7.去除cpu limit可以让你的k8s service运行更高效 - https://erickhun.com/posts/kubernetes-faster-services-no-cpu-limits/
+- 8.io_uring和eBPF将如何革新Linux编程 - https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/
 
 ## go语言中文网(每日资讯)_2020-09-02
 一、Go语言中文网
