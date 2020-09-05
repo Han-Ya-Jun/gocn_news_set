@@ -4,6 +4,50 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## go语言中文网(每日资讯)_2020-09-05
+一、Go语言中文网
+
+1. [卡通图文：你女朋友也能看懂的 Kubernetes！](https://mp.weixin.qq.com/s/aC6NDfQm6Gm4sWsr1izURg)
+
+2. [手把手带你理解 etcd：服务发现和分布式 KV 存储](https://mp.weixin.qq.com/s/1htmUfEyOJxQqO0V-HkhmA)
+
+3. [Go 实现加密算法系列之对称加密](https://mp.weixin.qq.com/s/a1BorUO4db0YN2HPMevrsw)
+
+4. [金光灿灿的Gorm V2+适合创业的golang微服务框架go-zero实战](https://mp.weixin.qq.com/s/D7LvZxqaG2iDf4rDvQ5DQA)
+
+5. [Go 每日一库之定时任务库：cron](https://mp.weixin.qq.com/s/swdijAro2k8LuYu7q_La1A)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-04)](https://studygolang.com/topics/12260)
+
+三、No Headback
+
+1. [在 Go 语言中 Patch 非导出函数](http://xargin.com/patching-private-function-in-go/)
+
+四、Golang梦工厂
+
+1. [学会wire依赖注入、cron定时任务其实就这么简单！](https://mp.weixin.qq.com/s/qmbCmwZGmqKIZDlNs_a3Vw)
+
+2. [面试官：go中for-range使用过吗？这几个问题你能解释一下原因吗？](https://mp.weixin.qq.com/s/Mh4MAQMoszLgWDnDT2X3XA)
+
+五、云原生技术爱好者社区
+
+1. [让我们一起揭开Etcd背后Raft算法的面纱](https://mp.weixin.qq.com/s/usc2PmntK8JIWo19TniZow)
+
+六、非正式解决方案
+
+1. [golang微服务框架go-zero系列-4:go-zero文件服务](https://mp.weixin.qq.com/s/MR4mFriiXa4qLSgj6NWJ9A)
+
+七、 Go夜读
+
+1. [TalkGo 读书会福利](https://mp.weixin.qq.com/s/-pWdeeXZM51DSfG7Ehl7cg)
+
+2. [TalkGo 推荐好书](https://mp.weixin.qq.com/s/FUKMIZwGmIaYoKVa6xRcEQ)
+
+3. [TalkGo 算法之美](https://mp.weixin.qq.com/s/Y0eDFpbKXSEOGqwA60y9ww)
+
 ## gopherDaily_2020-09-05
 - 1.使用Go构建一个视频流服务器 - https://qvault.io/2020/09/04/golang-video-stream-server/
 - 2.Go BDD测试的另一种方法 - https://medium.com/@elliotchance/an-alternative-approach-to-bdd-in-go-776bbbc24be9
@@ -12,6 +56,15 @@
 - 5.在树莓派上安装mainflux iot平台 - https://medium.com/mainflux-iot-platform/mainflux-setup-on-raspberry-pi-fb037b734276
 - 6.奈飞利用可观察性快速解决问题 - https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f
 
+## gocn_news_2020-09-05
+- 1.Linux 调度器中的 PELT 算法浅析 https://mp.weixin.qq.com/s/pNZ9I88cjwIuErfP74RSHg
+
+- 2.图解 Go 内存管理器的内存分配策略 https://mp.weixin.qq.com/s/vK7ug7NC2VQaIBFe6FVNSQ 
+- 3.深度阅读之《Concurrency in Go》https://qcrao.com/2020/09/05/concurrency-in-go-reading-notes
+
+- 4.如何将单 master 升级为多 master 集群 https://mp.weixin.qq.com/s/whr-sUPly-ZrFSLs9Qrpuw
+
+- 5.Nginx Ingress 高并发实践 https://mp.weixin.qq.com/s/FikIXjnW6PuYR5f_Dev8pQ
 ## go语言中文网(每日资讯)_2020-09-04
 一、Go语言中文网
 
