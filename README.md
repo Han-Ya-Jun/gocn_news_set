@@ -4,6 +4,67 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## gopherDaily_2020-09-05
+- 1.使用Go构建一个视频流服务器 - https://qvault.io/2020/09/04/golang-video-stream-server/
+- 2.Go BDD测试的另一种方法 - https://medium.com/@elliotchance/an-alternative-approach-to-bdd-in-go-776bbbc24be9
+- 3.在Go模板中使用函数 - https://www.calhoun.io/intro-to-templates-p3-functions/
+- 4.rgo: R语言与Go集成工具 - https://github.com/rgonomic/rgo
+- 5.在树莓派上安装mainflux iot平台 - https://medium.com/mainflux-iot-platform/mainflux-setup-on-raspberry-pi-fb037b734276
+- 6.奈飞利用可观察性快速解决问题 - https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f
+
+## go语言中文网(每日资讯)_2020-09-04
+一、Go语言中文网
+
+1. [Go 1.15.1 和 Go 1.14.8 发布：一个安全问题修复](https://mp.weixin.qq.com/s/wdB1Zhr2Dqll8U_qsB8qbA)
+
+2. [Go GUI 库：在本地运行 fyne 官网](https://mp.weixin.qq.com/s/GGa4_SAgWf70onu9AeclfA)
+
+3. [Go 数据存储篇（一）：基于内存存储实现数据增删改查功能](https://mp.weixin.qq.com/s/BkE-l0VhNgZBrG_x__aV9A)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-03)](https://studygolang.com/topics/12253)
+
+三、 码农桃花源
+
+1. [深度阅读之《Concurrency in Go》](https://mp.weixin.qq.com/s/A5GXxb9J6IT-jA3eQOzyCw)
+
+2. [相关阅读TalkGo《 Go 语言并发之道》读后感.](https://talkgo.org/tag/go-%E8%AF%AD%E8%A8%80%E5%B9%B6%E5%8F%91%E4%B9%8B%E9%81%93) 
+
+四、腾讯技术工程
+
+1. [Golang 汇编入门知识总结](https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA)
+
+五、xueyuanjun
+
+1. [Go 数据存储篇（二）：通过 JSON 格式存取文本数据](https://mp.weixin.qq.com/s/nR_uz8CjvKcoEGzyfEcifg)
+
+六、非正式解决方案
+
+1. [golang微服务框架go-zero系列-3:扩展go-zero,使之支持html模板解析自动化](https://mp.weixin.qq.com/s/iY1kTa41dpVti7L2auzefA)
+
+2. [在go-zero中使用jwt-token鉴权实践.](https://mp.weixin.qq.com/s/defBD048957Qr1DH3MJpbQ) 
+
+七、 Go夜读
+
+1. [刀耕火种微服务？何不用 go-zero 自动生成](https://mp.weixin.qq.com/s/x9A5bnbc6qxcH-eubv0ekA)
+
+
+## gopherDaily_2020-09-04
+- 1.使用Go2泛型语法实现有序Map(OrderedMap) - http://www.tugberkugurlu.com/archive/implementing-ordered-map-in-go-2-0-by-using-generics-with-delete-operation-in-o-1-time-complexity
+- 2.在Go中应该返回空切片还是nil切片 - https://qvault.io/2020/09/03/should-you-return-empty-or-nil-slices-in-go/
+- 3.即便在Go中，并发也仍然不那么容易 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoConcurrencyStillNotEasy
+- 4.使用letsencrypt为microk8s自动设置SSL证书 - https://www.techprowd.com/automatic-ssl-certificates-for-home-microk8s-setup-using-letsencrypt/
+- 5.lakeFS：一个开源平台，为基于对象存储的数据湖提供弹性和可管理性 - https://github.com/treeverse/lakeFS
+
+## gocn_news_2020-09-04
+- 1.go-zero 快速构建高并发微服务 https://github.com/tal-tech/go-zero
+- 2.逃逸分析介绍 https://medium.com/a-journey-with-go/go-introduction-to-the-escape-analysis-f7610174e890
+- 3.内置函数优化 https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680
+- 4.计时器的生命周期 https://medium.com/a-journey-with-go/go-timers-life-cycle-403f3580093a
+- 5.go 中如何触发死锁？https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019
+
+
 ## go语言中文网(每日资讯)_2020-09-03
 一、Go语言中文网
 
