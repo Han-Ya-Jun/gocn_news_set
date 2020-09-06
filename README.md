@@ -5,6 +5,56 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+
+
+## go中文网每日资讯--2020-09-06 
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 59 期 — Go1.16 预计支持内嵌静态资源](https://mp.weixin.qq.com/s/Db5UQfpv10oebN4n89q5fw)
+
+2. [腾讯：汇编是深入理解 Go 的基础](https://mp.weixin.qq.com/s/2JQM1piaWPQW-uwD_P-3Cg)
+
+3. [原来还可以这么做：go version 命令的高级用法](https://mp.weixin.qq.com/s/svmWO1WjJjL5pCd6eyzPVg)
+
+4. [由引用类型引发的概念的深入理解](https://mp.weixin.qq.com/s/ZAcxDhgYyf1C1cOiycZ4vg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-05)](https://studygolang.com/topics/12262)
+
+三、Golang来啦
+
+1. [Go：为什么你应当避免使用指针](https://mp.weixin.qq.com/s/wZcflyiUONEay1rS5SzhuA)
+
+四、陈思敏捷
+
+1. [Go: gops如何与Go运行时交互？](https://mp.weixin.qq.com/s/YXESAZAx1d708YcfVE2oyA)
+
+五、polarisxu 
+
+1. [VSCode 建议你启用 gopls，它到底是个什么东东？](https://mp.weixin.qq.com/s/vMWvSs2h3LwpghS27VQ9rg)
+
+六、 网管叨bi叨
+
+1. [图解Go内存管理器的内存分配策略](https://mp.weixin.qq.com/s/vK7ug7NC2VQaIBFe6FVNSQ)
+
+## GOCN每日新闻--2020-09-06 
+1.K8s token 安全认证原理 https://medium.com/@hajsanad/kubernetes-token-review-and-authentication-56e06cc55ed3
+
+2.活用 iota 以更高效地创建常量 https://medium.com/@balagetme/iota-create-effective-constants-in-golang-b399f94aac31
+
+3.Go 语言并发之道读后感-第二章 https://gocn.vip/topics/10913
+
+4.gravition: 一款基于 ZFS 的 KV 数据库 https://medium.com/deroproject/graviton-zfs-for-key-value-stores-4e48a4831a6a
+
+5.ion-sfu：webrtc sfu 的 Go 语言实现  https://github.com/pion/ion-sfu
+## gopherDaily--2020-09-06 
+- 1.实现有noCopy提示的结构体 - https://www.pixelstech.net/article/1599275392-Implement-struct-no-copy-in-GoLang
+- 2.使用skaffold构建和部署k8s应用 - https://www.infracloud.io/blogs/skaffold-usecases/
+- 3.如何编写好的Go测试 - https://www.youtube.com/watch?v=_zwNUxOUwrw
+- 4.在Go服务中集成ELK - https://pmihaylov.com/series-integrating-go-with-elk/
+- 5.web hacker的武器 - https://github.com/hahwul/WebHackersWeapons
 ## go语言中文网(每日资讯)_2020-09-05
 一、Go语言中文网
 
