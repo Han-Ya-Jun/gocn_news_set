@@ -6,6 +6,53 @@
 # gocn_news_set_2020
 
 
+## go中文网每日资讯--2020-09-07
+一、Go语言中文网
+
+1. [Go：为什么你应当避免使用指针](https://mp.weixin.qq.com/s/FKxDjdShih5UinYFoQovxA)
+
+2. [为什么你的 64-bit Go 程序可能占用巨大的虚拟空间](https://mp.weixin.qq.com/s/Mct-9ax1MBFlY2N5xlSJMA)
+
+3. [在 Go 语言中，有时 nil 并不是一个 nil](https://mp.weixin.qq.com/s/GHKDxmcGLhtyofGuJYkK_w)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-06)](https://studygolang.com/topics/12269)
+
+三、七牛云  
+
+1. [【技术猩球】开源啦！ Go 语言系统测试覆盖率收集利器 goc](https://mp.weixin.qq.com/s/DzXEXwepaouSuD2dPVloOg)
+
+四、Golang梦工厂
+
+1. [go-ElasticSearch入门看这一篇就够了(一)](https://mp.weixin.qq.com/s/mV2hnfctQuRLRKpPPT9XRw)
+
+五、一艘慢船
+
+1. [Go 编程: 时区问题与内嵌资源](https://mp.weixin.qq.com/s/wLYtNOucX7aGR7Dgb2mZzQ)
+
+六、 Kubernetes技术栈
+
+1. [Prometheus监控神器-服务发现篇（三）](https://mp.weixin.qq.com/s/fYzEv4HbokdPRSOy_QGk0w)
+## gopherDaily--2020-09-07
+- 1.Go设计模式大全 - https://golangbyexample.com/all-design-patterns-golang/
+- 2.RipTrace：Go实现的微服务和容器应用调试利器 - https://medium.com/@riptidedata/riptrace-debugging-microservice-and-container-applications-fea1644f0dda
+- 3.Graviton: key-value存储的ZFS - https://github.com/deroproject/graviton
+- 4.理解OAuth2和OpenID连接 - https://www.polarsparc.com/xhtml/OAuth2-OIDC.html
+- 5.播客：为什么python不是机器学习的未来 - https://www.wandb.com/podcast/jeremy-howard
+- 6.详解kubernetes的network policy - https://www.howtoforge.com/kubernetes_network_policy/
+
+## GOCN每日新闻--2020-09-07
+1.用 Go 語言實戰 Limit Concurrency 方法 https://gocn.vip/topics/10930
+
+2.Go 语言 | goroutine 不只有基础的用法，还有这些你不知道的操作 https://mp.weixin.qq.com/s/T-vc9UjX66Uqso_tpayIKw
+
+3.Go 语言 | 并发设计中的同步锁与 waitgroup 用法 https://mp.weixin.qq.com/s/0Fr1pcNr7wHyQcOBNX1CUw
+
+4.Go: gops 如何与 Go 运行时交互？ https://medium.com/a-journey-with-go/go-how-does-gops-interact-with-the-runtime-778d7f9d7c18
+
+5.Golang 源码分析系列之官方 Context 包 https://juejin.im/post/6869211218993905678
+
 
 
 ## go中文网每日资讯--2020-09-06 
