@@ -6,6 +6,52 @@
 # gocn_news_set_2020
 
 
+
+
+## go中文网每日资讯--2020-09-08 
+一、Go语言中文网
+
+1. [缓存击穿导致 Go 组件死锁的问题剖析](https://mp.weixin.qq.com/s/XWAhEVBpxbUE_fGFi1v-DA)
+
+2. [Go工具之vet——静态诊断器](https://mp.weixin.qq.com/s/GPOcz-EA9eFZQZNpUGuNRg)
+
+3. [Go 数据存储篇（二）：通过 JSON 格式存取文本数据](https://mp.weixin.qq.com/s/Ar4Ju7aqxYAsUuDP4w8xaQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-07)](https://studygolang.com/topics/12273)
+
+三、云原生实验室
+
+1. [深入理解 Cilium 的 eBPF 收发包路径](https://mp.weixin.qq.com/s/WFFW_A-e3J2D99N0kHtwig)
+
+四、高可用架构
+
+1. [一个高效的定时任务系统](https://mp.weixin.qq.com/s/brIBtqltyS3-hihy47Wzmw)
+
+五、GoUpUp
+
+1. [Go 每日一库之 gabs](https://mp.weixin.qq.com/s/9d_dj9z78s3sx4VknLPHaA)
+
+六、 真没什么逻辑
+
+1. [数据布局服务与局部性管理 · OSDI 2018](https://mp.weixin.qq.com/s/zzXT01pSR1C_AJR_RsANaw)
+
+七、Go 101
+
+1. [剧情翻转：从Go1.15开始，使用make+copy来克隆切片变得总是比使用append克隆要快](https://mp.weixin.qq.com/s/Vepl3g0A1RjsL8XJ6DU-dg)
+
+
+
+## GOCN每日新闻--2020-09-08
+1.Go 1.15 中的新变化 https://www.loginradius.com/engineering/blog/what-is-the-new-go-1.15/
+
+2.使用对象构造函数提高 Go 代码的可靠性 https://deliveroo.engineering/2020/09/07/increase-the-reliability-of-a-golang-codebase-with-object-constructors.html
+
+3.来自 Go 官方的泛型使用例子 https://github.com/golang/go/tree/dev.go2go/src/cmd/go2go/testdata/go2path/src 
+4.Go 中 BDD 的替代方法 https://levelup.gitconnected.com/an-alternative-approach-to-bdd-in-go-776bbbc24be9
+
+5.通过重构 Go 项目介绍简洁架构模式 https://threedots.tech/post/introducing-clean-architecture/
 ## go中文网每日资讯--2020-09-07
 一、Go语言中文网
 
