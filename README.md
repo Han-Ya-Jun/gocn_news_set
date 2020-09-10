@@ -7,6 +7,62 @@
 
 
 
+## go中文网每日资讯--2020-09-10
+一、Go语言中文网
+
+1. [gRPC 一定要使用 Protobuf 吗？](https://mp.weixin.qq.com/s/Ir-DThZKZIazCm8aBjMogw)
+
+2. [Go 数据存储篇（三）：通过 CSV 格式读写文本数据](https://mp.weixin.qq.com/s/K1rrJPycA_ydTpv1LZOZmw)
+
+3. [漫谈分布式共识问题](https://mp.weixin.qq.com/s/qxaR832GsXQBpc6YxgX63Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-09)](https://studygolang.com/topics/12291)
+
+三、五分选手
+
+1. [Crazy LeetCode — 887. Super Egg Drop](https://mp.weixin.qq.com/s/SNwB9jhg8LMSw0FArc7cwg)
+
+2. [Crazy LeetCode — 927. Three Equal Parts](https://mp.weixin.qq.com/s/4Tm_mfCpUIp5GCTK5BO9eQ)
+
+四、腾讯技术工程
+
+1. [Go 如何实现热重启](https://mp.weixin.qq.com/s/UVZKFmv8p4ghm8ICdz85wQ)
+
+五、polarisxu
+
+1. [VSCode 开发 Go 程序也可以和 GoLand 一样强大](https://mp.weixin.qq.com/s/J01LY7s6xMB8Lk10sxTFhg)
+
+六、Kubernetes技术栈
+
+1. [Prometheus监控神器-Kubernetes篇（二）](https://mp.weixin.qq.com/s/aUmOT0jD_gc34m8ethNQGw)
+2. [Prometheus监控神器-Kubernetes篇（三）](https://mp.weixin.qq.com/s/fvycWGyZB4_5WHhHajOtFw)
+
+七、Go 夜读 
+
+1. [第 104 期通过 hashicorp/raft 手把手调试 raft 算法](https://mp.weixin.qq.com/s/yUoF_lrmyKnZPg-M1uFBaQ)
+
+## gopherDaily--2020-09-10
+1.Go应用如何实现热重启 - https://zhuanlan.zhihu.com/p/230888784
+2.sourcegraph的代码智能索引的优化历程 - https://about.sourcegraph.com/blog/optimizing-a-code-intel-indexer/
+3.使用Go生成、监控、调节cpu负载 - https://blog.fekr.tech/generate-monitor-and-throttle-cpu-load-in-go-cke9wmddd000t65s15l7q2pd6
+4.如何在k8s上使用jaeger实现分布式trace - https://www.digitalocean.com/community/tutorials/how-to-implement-distributed-tracing-with-jaeger-on-kubernetes
+5.depaware：让你的go项目的依赖一目了然 - https://github.com/tailscale/depaware
+6.浮点数的二进制表示 - https://float.exposed/0x44bf9400
+7.jsonptr：基于Wuff的内存安全、零内存分配json解码器 - https://nigeltao.github.io/blog/2020/jsonptr.html
+
+
+## GOCN每日新闻--2020-09-10
+1.Go 1.15.2 和 1.14.9 发布了！ https://groups.google.com/g/golang-announce/c/ipD8jvpSFtA/m/B0FcziUVAQAJ
+2.Go Module 的 V2+ 问题 https://donatstudios.com/Go-v2-Modules
+3.Istio Pilot 源码分析（一） https://mp.weixin.qq.com/s/Bgp9C5Vy8lQa7b_cweIKxA
+4.用 Go 语言获取系统的 CPU 负载 https://blog.fekr.tech/generate-monitor-and-throttle-cpu-load-in-go-cke9wmddd000t65s15l7q2pd6
+5.kok: 一款 go-kit 工具链   https://github.com/RussellLuo/kok
+
+
+
+
 ## go中文网每日资讯--2020-09-09 
 一、Go语言中文网
 
