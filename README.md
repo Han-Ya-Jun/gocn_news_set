@@ -7,6 +7,64 @@
 
 
 
+## go中文网每日资讯--2020-09-09 
+一、Go语言中文网
+
+1. [王者荣耀为什么不使用微服务架构？](https://mp.weixin.qq.com/s/O_JSrriDwi9hxCbtOEJhzg)
+
+2. [Go 实战项目推荐：这个项目竟然可以同时学习 4 项热门技术](https://mp.weixin.qq.com/s/5NfVWfWlufFy3vorfhLrZQ)
+
+3. [Go中的HTTP请求之——HTTP1.1请求流程分析](https://mp.weixin.qq.com/s/mNI9GQRHEuKwhuAuP2vI6A)
+
+4. [使用 swagger 为 Gin 项目生成接口文档](https://mp.weixin.qq.com/s/35pdenvfkz76bkTbL-3fvg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-08)](https://studygolang.com/topics/12281)
+
+三、董泽润的技术笔记
+
+1. [一文了解 etcd watch 实现](https://mp.weixin.qq.com/s/hy36-6X6rWaDy6eaDNiiXQ)
+
+四、aoho求索
+
+1. [彻底搞懂 etcd 系列文章（八）：etcd 事务 API](https://mp.weixin.qq.com/s/mMOSaI4FLkF_H-KhKsKbRg)
+
+五、分布式实验室
+
+1. [花椒服务端 gRPC 开发实践](https://mp.weixin.qq.com/s/pR53yUP8VAjyM2EmCqGPWQ)
+
+六、Kubernetes技术栈
+
+1. [Prometheus监控神器-Kubernetes篇（一）](https://mp.weixin.qq.com/s/e3stMZpzMJLXzIjmLGxPxw)
+
+七、常柱 
+
+1. [UBer面向领域的微服务体系架构实践](https://mp.weixin.qq.com/s/2Exp-O8h8b3xpPAgmE2-Cw)
+
+## gopherDaily--2020-09-09 
+- 1.Go专栏：《改善Go语言编程质量的50个有效实践》在慕课网上线 - https://www.imooc.com/read/87 目前处于早鸟优惠阶段，欢迎订阅！
+- 2.读源码理解以太坊 - https://gisli.hamstur.is/2020/08/understanding-ethereum-by-studying-the-source-code/
+- 3.恶意软件开发：第一部分 Go动态module加载 - https://posts.specterops.io/malware-development-pt-1-dynamic-module-loading-in-go-1121f07f3a5a
+- 4.成为高级软件工程师必须要知道的那些事儿 - https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html
+- 5.Go实现的SQL dump工具和库 - https://github.com/pingcap/dumpling
+- 6.辩论的艺术：对软件开发人员的有用技巧 - https://thevaluable.dev/guide-debate-software-developer-skill/
+- 7.将用星号缩进的文本转换为思维导图 - https://github.com/lucasepe/crumbs
+- 8.何时使用带缓冲的channel - https://medium.com/@ss7loginov/when-to-use-buffered-channels-in-go-317d3593d28f
+
+
+## GOCN每日新闻--2020-09-09 
+1.为你的 Go 项目构建一个类似 Rails 的迁移运行器 https://medium.com/better-programming/build-a-rails-like-migration-runner-for-your-go-projects-b72f551597a3
+
+2.Go 中高效、线程安全的 ID 生成方法汇总 https://dev.to/dextication/fast-thread-safe-id-generation-in-golang-38li
+
+3.DynamoDB 与 Go 系列 4 之索引 https://dev.to/jbszczepaniak/dynamodb-with-go-4-indexes-3doi
+
+4.通过 MapReduce 降低服务响应时间 https://gocn.vip/topics/10941
+
+5.CGO 如何生成兼容 C 的结构体？ https://mp.weixin.qq.com/s/k2j2nJNvriJUIi4X10rQzw
+
+
 
 ## go中文网每日资讯--2020-09-08 
 一、Go语言中文网
