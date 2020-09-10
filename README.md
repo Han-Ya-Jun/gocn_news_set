@@ -44,21 +44,21 @@
 1. [第 104 期通过 hashicorp/raft 手把手调试 raft 算法](https://mp.weixin.qq.com/s/yUoF_lrmyKnZPg-M1uFBaQ)
 
 ## gopherDaily--2020-09-10
-1.Go应用如何实现热重启 - https://zhuanlan.zhihu.com/p/230888784
-2.sourcegraph的代码智能索引的优化历程 - https://about.sourcegraph.com/blog/optimizing-a-code-intel-indexer/
-3.使用Go生成、监控、调节cpu负载 - https://blog.fekr.tech/generate-monitor-and-throttle-cpu-load-in-go-cke9wmddd000t65s15l7q2pd6
-4.如何在k8s上使用jaeger实现分布式trace - https://www.digitalocean.com/community/tutorials/how-to-implement-distributed-tracing-with-jaeger-on-kubernetes
-5.depaware：让你的go项目的依赖一目了然 - https://github.com/tailscale/depaware
-6.浮点数的二进制表示 - https://float.exposed/0x44bf9400
-7.jsonptr：基于Wuff的内存安全、零内存分配json解码器 - https://nigeltao.github.io/blog/2020/jsonptr.html
+- 1.Go应用如何实现热重启 - https://zhuanlan.zhihu.com/p/230888784
+- 2.sourcegraph的代码智能索引的优化历程 - https://about.sourcegraph.com/blog/optimizing-a-code-intel-indexer/
+- 3.使用Go生成、监控、调节cpu负载 - https://blog.fekr.tech/generate-monitor-and-throttle-cpu-load-in-go-cke9wmddd000t65s15l7q2pd6
+- 4.如何在k8s上使用jaeger实现分布式trace - https://www.digitalocean.com/community/tutorials/how-to-implement-distributed-tracing-with-jaeger-on-kubernetes
+- 5.depaware：让你的go项目的依赖一目了然 - https://github.com/tailscale/depaware
+- 6.浮点数的二进制表示 - https://float.exposed/0x44bf9400
+- 7.jsonptr：基于Wuff的内存安全、零内存分配json解码器 - https://nigeltao.github.io/blog/2020/jsonptr.html
 
 
 ## GOCN每日新闻--2020-09-10
-1.Go 1.15.2 和 1.14.9 发布了！ https://groups.google.com/g/golang-announce/c/ipD8jvpSFtA/m/B0FcziUVAQAJ
-2.Go Module 的 V2+ 问题 https://donatstudios.com/Go-v2-Modules
-3.Istio Pilot 源码分析（一） https://mp.weixin.qq.com/s/Bgp9C5Vy8lQa7b_cweIKxA
-4.用 Go 语言获取系统的 CPU 负载 https://blog.fekr.tech/generate-monitor-and-throttle-cpu-load-in-go-cke9wmddd000t65s15l7q2pd6
-5.kok: 一款 go-kit 工具链   https://github.com/RussellLuo/kok
+- 1.Go 1.15.2 和 1.14.9 发布了！ https://groups.google.com/g/golang-announce/c/ipD8jvpSFtA/m/B0FcziUVAQAJ
+- 2.Go Module 的 V2+ 问题 https://donatstudios.com/Go-v2-Modules
+- 3.Istio Pilot 源码分析（一） https://mp.weixin.qq.com/s/Bgp9C5Vy8lQa7b_cweIKxA
+- 4.用 Go 语言获取系统的 CPU 负载 https://blog.fekr.tech/generate-monitor-and-throttle-cpu-load-in-go-cke9wmddd000t65s15l7q2pd6
+- 5.kok: 一款 go-kit 工具链   https://github.com/RussellLuo/kok
 
 
 
