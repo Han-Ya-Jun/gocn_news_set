@@ -6,7 +6,44 @@
 # gocn_news_set_2020
 
 
+## go中文网每日资讯--2020-09-11
+一、Go语言中文网
 
+1. [golang实现循环单链代码示例](https://mp.weixin.qq.com/s/t4-HY4SsP8bnThcLimg25w)
+
+2. [Go 1.15.2 和 Go 1.14.9 发布](https://mp.weixin.qq.com/s/GK9a1kOfBRwtbQtZ-NYuCw)
+
+3. [Go 实战项目推荐：网友手撸了一个开源版知乎](https://mp.weixin.qq.com/s/2ohayeb7CWNzkC2TRkeSWQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-10)](https://studygolang.com/topics/12293)
+
+三、脑子进煎鱼了
+
+1. [微服务的战争：选型？分布式链路追踪](https://mp.weixin.qq.com/s/te_UUWFXoHG2yqUlidQCQQ)
+
+四、 腾讯云原生
+
+1. [容器服务 TKE 上服务暴露的几种方式](https://mp.weixin.qq.com/s/4-qvIm89fo0GtxH_ULHCzQ)
+
+五、云原生技术爱好者社区
+
+1. [Thread和goroutine两种方式实现共享变量按序输出](https://mp.weixin.qq.com/s/um5Wf8OaN_KjD5ldKSHN9w)
+
+## gopherDaily--2020-09-10
+- 1.Go 1.16版本module机制成为默认,GOPATH在go 1.17中将成为过去时 - https://github.com/golang/go/issues/41330
+- 2.深入k8s大脑: Etcd - https://medium.com/better-programming/a-closer-look-at-etcd-the-brain-of-a-kubernetes-cluster-788c8ea759a5
+- 3.Nix添加了对IPFS的支持：将构建产品持久保存到IPFS或从IPFS中提取 - https://blog.ipfs.io/2020-09-08-nix-ipfs-milestone-1/
+- 4.Go CGI和FastCGI实现的安全漏洞 -  https://www.redteam-pentesting.de/en/advisories/rt-sa-2020-004/-inconsistent-behavior-of-gos-cgi-and-fastcgi-transport-may-lead-to-cross-site-scripting
+- 5.Letsencrypt的好坏 - https://jacquesmattheij.com/letsencrypt-good-bad-ugly/ 
+- 6.路由工作原理 - https://kamila.is//teaching/how-routers-work/
+## GOCN每日新闻--2020-09-11
+- 1.Go 自动化操作 Chromium/Firefox/WebKit https://dev.to/mxschmitt/automate-chromium-firefox-and-webkit-with-go-preview-j9
+- 2.Go slice 完整指南 https://codeburst.io/a-comprehensive-guide-to-slices-in-golang-bacebfe46669
+- 3.Go 内存中文本搜索索引 https://medium.com/twelve-data/in-memory-text-search-index-for-quotes-on-go-5243adc62c26
+- 4.使用 go-sqlmock 进行 GORM 单元测试 https://medium.com/@tienbm90/unit-test-for-gorm-application-with-go-sqlmock-ecb5c369e570
+- 5.go.mod 中的语义版本标签 https://medium.com/swlh/semantic-version-tags-in-go-mod-file-f6ad903a972d
 ## go中文网每日资讯--2020-09-10
 一、Go语言中文网
 
