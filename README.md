@@ -6,6 +6,48 @@
 # gocn_news_set_2020
 
 
+## go中文网每日资讯--2020-09-12 
+一、Go语言中文网
+
+1. [关于 Go 语言泛型设计的最新进展和一些问题的说明](https://mp.weixin.qq.com/s/kyVUk6cpQzmgb7vITOiYDw)
+
+2. [etcd 的性能怎么样？需要优化吗？](https://mp.weixin.qq.com/s/IxPQuh5A7umPGHaAjis8lw)
+
+3. [Go 每日一库之方便的 JSON 操作库 gabs](https://mp.weixin.qq.com/s/dLxq2duMsOhGOHlqL43vOg)
+
+4. [剧情翻转：从Go1.15开始，使用make+copy来克隆切片变得总是比使用append克隆要快](https://mp.weixin.qq.com/s/PkTWKVzyVkbEqZ1oTlaxoA)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-11)](https://studygolang.com/topics/12297)
+
+三、阿里云云栖号
+
+1. [云原生应用实现规范 - 初识 Operator](https://mp.weixin.qq.com/s/MveSspUcFFWSum1m_XtRlg)
+
+四、Golang来啦
+
+1. [Go 使用依赖注入设计更好的代码](https://mp.weixin.qq.com/s/sjg6WkCpPU-FfpqTMjj70g)
+
+五、 网管叨bi叨
+
+1. [解密Go协程的栈内存管理](https://mp.weixin.qq.com/s/e6SUHtTTm2xfC7HpxGGUcg)
+22:27
+
+## GOCN每日新闻--2020-09-12
+- 1.官方 Go module 文档 https://github.com/golang/go/wiki/Modules
+- 2.Go build 是如何工作的？https://maori.geek.nz/how-go-build-works-750bb2ba6d8e
+- 3.Go fuzz ing 草稿预案  https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md
+- 4.feed 解析库 https://github.com/mmcdole/gofeed
+- 5.go repo 结构解析 https://christine.website/blog/within-go-repo-layout-2020-09-07
+
+## gopherDaily--2020-09-12
+- 1.Go项目仓库结构布局原则 - https://christine.website/blog/within-go-repo-layout-2020-09-07
+- 2.使用Gonum图解决单词阶梯难题 - https://www.gonum.org/post/word_ladder/
+- 3.优化字符串比较 - https://dev.to/pluralsight/optimizing-string-comparisons-in-go-4e0c
+- 4.deepalert: 用于自动响应安全警告的无服务器框架 - https://github.com/deepalert/deepalert
+- 5.必读的k8s免费书 - http://www.ofbizian.com/2020/09/must-read-free-kubernetes-books.html
+- 6.无代码/低代码AI：新商业模型与数据科学家的未来 - https://towardsdatascience.com/no-code-low-code-ai-new-business-models-and-future-of-data-scientists-a536beb8d9e3
 ## go中文网每日资讯--2020-09-11
 一、Go语言中文网
 
