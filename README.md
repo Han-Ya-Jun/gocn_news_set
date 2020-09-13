@@ -6,6 +6,51 @@
 # gocn_news_set_2020
 
 
+
+
+## go中文网每日资讯--2020-09-13
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 60 期 — 如何看待 Caddy 卖掉？](https://mp.weixin.qq.com/s/bNZYSueHGf9j94SyI6pmtQ)
+
+2. [面试官：这个经典的并发问题用 Go 语言如何实现？](https://mp.weixin.qq.com/s/pP3hJKa-EGvLXi0luL1cRg)
+
+3. [go-redis 连接池实现思想](https://mp.weixin.qq.com/s/qKoRVROIZP20_3worjfE4Q)
+
+4. [golang实现桶排序](https://mp.weixin.qq.com/s/tzaZSKpDVbOltl1VpSxk6g)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-12)](https://studygolang.com/topics/12305)
+
+三、脑子进煎鱼了
+
+1. [Go: A Documentary 发布！](https://mp.weixin.qq.com/s/5MtBE8vecKPOmRUYu2E-lg)
+
+四、Golang梦工厂
+
+1. [详解Context包，看这一篇就够了！！！](https://mp.weixin.qq.com/s/JKMHUpwXzLoSzWt_ElptFg)
+
+2. [go-ElasticSearch实战篇(二)](https://mp.weixin.qq.com/s/QwXzCdhVQ3eit57_11h8Pg)
+
+五、网管叨bi叨
+
+1. [Go服务迁到K8s后老抽风重启? 记一次完整的线上问题解决过程](https://mp.weixin.qq.com/s/mitu71qNjtfzFzB6nkmHJA)
+20:57
+
+
+## GOCN每日新闻--2020-09-13 
+1.Go 进阶 50:简单高效加密算法 TEA https://mojotv.cn/golang/encrypt-tea-xtea-simple-efficient
+
+2.go-ElasticSearch 实战篇 (二) https://segmentfault.com/a/1190000024438897
+
+3.Go: A Documentary 发布！ https://mp.weixin.qq.com/s/5MtBE8vecKPOmRUYu2E-lg
+
+4.解密 Go 协程的栈内存管理 https://mp.weixin.qq.com/s/e6SUHtTTm2xfC7HpxGGUcg
+
+5.微软又开源了一个 Go 重磅项目了 https://mp.weixin.qq.com/s/7nKdSHwWa6-7ctV8-bcuWw
+
 ## go中文网每日资讯--2020-09-12 
 一、Go语言中文网
 
