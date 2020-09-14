@@ -7,7 +7,34 @@
 
 
 
+## go中文网每日资讯--2020-09-14 
+一、Go语言中文网
 
+1. [在 Go 语言中，我为什么使用接口](https://mp.weixin.qq.com/s/AMgCzCG_096iaCdtOJIBBA)
+
+2. [Go 使用依赖注入设计更好的代码](https://mp.weixin.qq.com/s/7gkiwN90smSrsdcd8fsCIg)
+
+3. [微服务的战争：选型？分布式链路追踪](https://mp.weixin.qq.com/s/28a4V7YUyv3eYw9D6HsI5A)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-13)](https://studygolang.com/topics/12309)
+
+三、Golang来啦
+
+1. [Go 依赖注入 - Dig](https://mp.weixin.qq.com/s/_TibuJIm2edic0KGWDjwgw)
+
+四、Netwarps
+
+1. [无栈协程 | Rust学习笔记](https://mp.weixin.qq.com/s/knMZJEgHwf7zYzgQvQas4A)
+
+五、奇伢云存储
+
+1. [Minio 为什么没有 POST 接口？](https://mp.weixin.qq.com/s/7igvNCZMHJkChaGBo1UyDA)
+
+六、MoeLove
+
+1. [K8S 生态周报| Istio v1.7.1 发布](https://mp.weixin.qq.com/s/eKa0GJDd3NPRs_wZIakS7A)
 ## go中文网每日资讯--2020-09-13
 
 一、Go语言中文网
@@ -38,6 +65,28 @@
 
 1. [Go服务迁到K8s后老抽风重启? 记一次完整的线上问题解决过程](https://mp.weixin.qq.com/s/mitu71qNjtfzFzB6nkmHJA)
 20:57
+
+
+## GOCN每日新闻--2020-09-14
+1.Go chassis 微服务开发框架实战系列（一) https://mp.weixin.qq.com/s/Ipj2oIVi8bHYyqp22Llawg
+
+2.使用 Go 实现 lock-free 的队列 https://colobu.com/2020/08/14/lock-free-queue-in-go/
+
+3.通过构建一个公交车服务来学习 Go https://medium.com/better-programming/learn-go-by-building-a-bus-service-6c11e7b81b92
+
+4.基于 Prometheus 的微服务指标监控 https://gocn.vip/topics/10961
+
+5.Go 交互式图形库调用 https://ofabry.github.io/go-callvis/
+
+
+## gopherDaily--2020-09-14 
+- 1.Go sysmon与运行时监控 - https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5
+- 2.深入理解slice的append和copy操作 - http://www.tugberkugurlu.com/archive/working-with-slices-in-go-golang-understanding-how-append-copy-and-slicing-syntax-work
+- 3.用于构建go应用的maven插件 - https://github.com/raydac/mvn-golang
+- 4.gofeed: 使用Go解析RSS、Atom和json feed - https://github.com/mmcdole/gofeed
+- 5.go算法模板 - https://github.com/greyireland/algorithm-pattern
+- 6.crlfuzz：用Go语言编写的快速扫描CRLF漏洞的工具 - https://github.com/dwisiswant0/crlfuzz
+
 
 
 ## GOCN每日新闻--2020-09-13 
