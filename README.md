@@ -35,6 +35,27 @@
 六、MoeLove
 
 1. [K8S 生态周报| Istio v1.7.1 发布](https://mp.weixin.qq.com/s/eKa0GJDd3NPRs_wZIakS7A)
+
+
+## GOCN每日新闻--2020-09-14
+1.Go chassis 微服务开发框架实战系列（一) https://mp.weixin.qq.com/s/Ipj2oIVi8bHYyqp22Llawg
+
+2.使用 Go 实现 lock-free 的队列 https://colobu.com/2020/08/14/lock-free-queue-in-go/
+
+3.通过构建一个公交车服务来学习 Go https://medium.com/better-programming/learn-go-by-building-a-bus-service-6c11e7b81b92
+
+4.基于 Prometheus 的微服务指标监控 https://gocn.vip/topics/10961
+
+5.Go 交互式图形库调用 https://ofabry.github.io/go-callvis/
+
+
+## gopherDaily--2020-09-14 
+- 1.Go sysmon与运行时监控 - https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5
+- 2.深入理解slice的append和copy操作 - http://www.tugberkugurlu.com/archive/working-with-slices-in-go-golang-understanding-how-append-copy-and-slicing-syntax-work
+- 3.用于构建go应用的maven插件 - https://github.com/raydac/mvn-golang
+- 4.gofeed: 使用Go解析RSS、Atom和json feed - https://github.com/mmcdole/gofeed
+- 5.go算法模板 - https://github.com/greyireland/algorithm-pattern
+- 6.crlfuzz：用Go语言编写的快速扫描CRLF漏洞的工具 - https://github.com/dwisiswant0/crlfuzz
 ## go中文网每日资讯--2020-09-13
 
 一、Go语言中文网
@@ -67,25 +88,7 @@
 20:57
 
 
-## GOCN每日新闻--2020-09-14
-1.Go chassis 微服务开发框架实战系列（一) https://mp.weixin.qq.com/s/Ipj2oIVi8bHYyqp22Llawg
 
-2.使用 Go 实现 lock-free 的队列 https://colobu.com/2020/08/14/lock-free-queue-in-go/
-
-3.通过构建一个公交车服务来学习 Go https://medium.com/better-programming/learn-go-by-building-a-bus-service-6c11e7b81b92
-
-4.基于 Prometheus 的微服务指标监控 https://gocn.vip/topics/10961
-
-5.Go 交互式图形库调用 https://ofabry.github.io/go-callvis/
-
-
-## gopherDaily--2020-09-14 
-- 1.Go sysmon与运行时监控 - https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5
-- 2.深入理解slice的append和copy操作 - http://www.tugberkugurlu.com/archive/working-with-slices-in-go-golang-understanding-how-append-copy-and-slicing-syntax-work
-- 3.用于构建go应用的maven插件 - https://github.com/raydac/mvn-golang
-- 4.gofeed: 使用Go解析RSS、Atom和json feed - https://github.com/mmcdole/gofeed
-- 5.go算法模板 - https://github.com/greyireland/algorithm-pattern
-- 6.crlfuzz：用Go语言编写的快速扫描CRLF漏洞的工具 - https://github.com/dwisiswant0/crlfuzz
 
 
 
