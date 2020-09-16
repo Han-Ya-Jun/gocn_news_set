@@ -5,7 +5,53 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
-## go中文网每日资讯--2020-09-15 😛
+
+## GOCN每日新闻--2020-09-16
+1.Go 语言发展档案 https://golang.design/history/
+
+2.防止缓存击穿之进程内共享调用 https://gocn.vip/topics/10982
+
+3.在 iOS 和 Android 平台运行 Go 代码 https://rogchap.com/2020/09/14/running-go-code-on-ios-and-android/
+
+4.Go 模版引擎 pongo2 发布 4.0 版本 https://github.com/flosch/pongo2/releases/tag/v4.0.0
+
+5.一种观点：Go 版本处理吐槽 https://qvault.io/2020/09/15/gos-major-version-handling-sucks-from-a-fanboy/
+
+
+## go中文网每日资讯--2020-09-16 
+一、Go语言中文网
+
+1. [Goroutine 是轻量的，但也正确使用：通过 GODEBUG 提升对 Goroutine 的使用](https://mp.weixin.qq.com/s/vguihsNCuj5H7cvqXYZ4eA)
+
+2. [Go发起HTTP2.0请求流程分析(前篇)](https://mp.weixin.qq.com/s/Ku6MR7Is06agPL2_11Zniw)
+
+3. [字节跳动踩坑记：一知半解protobuf](https://mp.weixin.qq.com/s/V9CjkANNS1ItZXj7FUKqYg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-15)](https://studygolang.com/topics/12325)
+
+三、分布式实验室  
+
+1. [Kubernetes在信也科技的落地实战](https://mp.weixin.qq.com/s/OBxnAitZaoI0lbP219Fvwg)
+
+四、 Golang梦工厂
+
+1. [啥？asong要出新系列之雪花算法(go)](https://mp.weixin.qq.com/s/5OQ-ZXUnbbT864ZVF8pC_g)
+
+五、阿里巴巴云原生
+
+1. [写在 Dubbo go 的第五年](https://mp.weixin.qq.com/s/O7tEgtIB8XglF19938FwDQ)
+
+
+## gopherDaily--2020-09-16
+- 1.Go语言的历史档案 - https://golang.design/history/
+- 2.观点：Go的主要版本控制很烂 - https://qvault.io/2020/09/15/gos-major-version-handling-sucks-from-a-fanboy/
+- 3.Pebble: 一个Go实现的key-value存储数据库(灵感来自rocksdb) - https://www.cockroachlabs.com/blog/pebble-rocksdb-kv-store/
+- 4.CNCF最终用户技术雷达：可观测性(2020年9月) - https://www.cncf.io/blog/2020/09/11/cncf-end-user-technology-radar-observability-september-2020/
+- 5.Raspberry Pi作为自托管应用程序的本地服务器 - https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/
+
+## go中文网每日资讯--2020-09-15
 一、Go语言中文网
 
 1. [有想过如何为 Go 语言增加一个语句吗？](https://mp.weixin.qq.com/s/7J0CvKcUTuPCzzvOBxDKoA)
