@@ -5,6 +5,50 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-09-15 😛
+一、Go语言中文网
+
+1. [有想过如何为 Go 语言增加一个语句吗？](https://mp.weixin.qq.com/s/7J0CvKcUTuPCzzvOBxDKoA)
+
+2. [著名 Go 开源项目 Minio 为什么没有 POST 接口？](https://mp.weixin.qq.com/s/7hlnFVWAiXNhNCZaz898jw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-14)](https://studygolang.com/topics/12312)
+
+三、GoUpUp
+
+1. [Go 每日一库之 commonregex](https://mp.weixin.qq.com/s/G_Fdh5ENFdrsEgmhThO2JQ)
+
+四、董泽润的技术笔记
+
+1. [一文了解 etcd lease 实现](https://mp.weixin.qq.com/s/HtfQA6_jVkz976AScDfLTw)
+
+五、小林coding
+
+1. [面试官：你说说互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://mp.weixin.qq.com/s/CqIXHowIDT1kxyBOO0x7TQ)
+
+六、 polarisxu
+
+1. [Go 和 Java 对比学习：单例模式](https://mp.weixin.qq.com/s/LkNlY4dIq7K2E72a8ACqpw)
+
+## GOCN每日新闻--2020-09-15
+1.译文 Go: sysmon, Runtime Monitoring https://gocn.vip/topics/10977
+
+2.Go 服务迁到 K8s 后老抽风重启? 记一次完整的线上问题解决过程 https://mp.weixin.qq.com/s/mitu71qNjtfzFzB6nkmHJA
+
+3.有想过如何为 Go 语言增加一个语句吗？ https://mp.weixin.qq.com/s/7J0CvKcUTuPCzzvOBxDKoA
+
+4.Go 发起 HTTP2.0 请求流程分析 (后篇)——标头压缩 https://mp.weixin.qq.com/s/HTGg5HYRSVY-4-H9Sf1zww
+
+5.详解 Context 包，看这一篇就够了！！！ https://segmentfault.com/a/1190000024441501
+
+## gopherDaily--2020-09-15
+- 1.在ios和android上运行Go代码 - https://rogchap.com/2020/09/14/running-go-code-on-ios-and-android/
+- 2.观点：语义导入版本(Semantic Import Versioning)是谬误 - https://peter.bourgon.org/blog/2020/09/14/siv-is-unsound.html
+- 3.帮你写出优雅代码的六个错误处理技术 - https://medium.com/higher-order-functions/golang-six-error-handling-techniques-to-help-you-write-elegant-code-8e6363e6d2b
+- 4.在Go中使用依赖注入 - https://itnext.io/using-dependency-inversion-in-go-31d8bf9b3760
+- 5.go实现的命令行终端上的2048游戏 - https://github.com/chhabraamit/2048/
 
 
 ## go中文网每日资讯--2020-09-14 
