@@ -6,6 +6,50 @@
 # gocn_news_set_2020
 
 
+
+## go中文网每日资讯--2020-09-17 
+一、Go语言中文网
+
+1. [Go实战项目推荐：开源版百度文库竟然是一个人完成的](https://mp.weixin.qq.com/s/G2i7Sk96xsvYRPwisb9bvg)
+
+2. [漏桶、令牌桶限流算法的Go语言实现](https://mp.weixin.qq.com/s/T_LvVfAOzgANO1XSCViJrw)
+
+3. [golang fasthttp 你为何如此优秀!](https://mp.weixin.qq.com/s/Tw121r1XLFy5qWREixBLLA)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-16)](https://studygolang.com/topics/12332)
+
+三、polarisxu
+
+1. [记一次线上性能调优：火焰图是利器](https://mp.weixin.qq.com/s/smdpg0WPY_RIS2pH3Mh5-g)
+
+四、 Golang来啦
+
+1. [Go 编程的三个常见问题](https://mp.weixin.qq.com/s/0GWF7-fWhaGigLXZKQDXXw)
+
+五、五分选手
+
+1. [TLS 1.3 握手协议](https://mp.weixin.qq.com/s/lsIgQeDQ9m_ho7MzXGVm2g)
+
+## GOCN每日新闻--2020-09-17 
+1.Go 的隐秘世界：Go 程序的启动和 runtime 初始化 https://zhuanlan.zhihu.com/p/241308426
+
+2.写在 Dubbo go 的第五年 https://segmentfault.com/a/1190000024478768
+
+3.Go GC 处理错误指针时崩溃 https://utcc.utoronto.ca/~cks/space/blog/programming/GoGCBadPointerPanics
+
+4.GORM V2 读操作 https://mp.weixin.qq.com/s/FQC4-yVtioJj0dZ0i8kibw
+
+5.gopls v0.5.0 发布 https://github.com/golang/tools/releases/tag/gopls%2Fv0.5.0
+
+## gopherDaily--2020-09-17
+1.使用eBPF在线调试运行于生产环境中的Go程序 - https://blog.pixielabs.ai/blog/ebpf-function-tracing/post/
+2.实时go module索引 - https://dmitri.shuralyov.com/projects/live-module-index/
+3.一个具有C#背景的程序员成为新gopher后的思考 - https://www.sheldonhull.com/blog/reflections-on-being-a-new-gopher-with-a-dotnet-background/
+4.yandex开源go-hasql: 访问和操作由多个主机组成的高可用数据库集群 - https://github.com/yandex/go-hasql
+5.Go中REST API的身份验证 - https://www.maragu.dk/blog/authentication-for-rest-apis-in-go/
+
 ## GOCN每日新闻--2020-09-16
 1.Go 语言发展档案 https://golang.design/history/
 
