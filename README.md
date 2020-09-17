@@ -44,11 +44,11 @@
 5.gopls v0.5.0 发布 https://github.com/golang/tools/releases/tag/gopls%2Fv0.5.0
 
 ## gopherDaily--2020-09-17
-1.使用eBPF在线调试运行于生产环境中的Go程序 - https://blog.pixielabs.ai/blog/ebpf-function-tracing/post/
-2.实时go module索引 - https://dmitri.shuralyov.com/projects/live-module-index/
-3.一个具有C#背景的程序员成为新gopher后的思考 - https://www.sheldonhull.com/blog/reflections-on-being-a-new-gopher-with-a-dotnet-background/
-4.yandex开源go-hasql: 访问和操作由多个主机组成的高可用数据库集群 - https://github.com/yandex/go-hasql
-5.Go中REST API的身份验证 - https://www.maragu.dk/blog/authentication-for-rest-apis-in-go/
+- 1.使用eBPF在线调试运行于生产环境中的Go程序 - https://blog.pixielabs.ai/blog/ebpf-function-tracing/post/
+- 2.实时go module索引 - https://dmitri.shuralyov.com/projects/live-module-index/
+- 3.一个具有C#背景的程序员成为新gopher后的思考 - https://www.sheldonhull.com/blog/reflections-on-being-a-new-gopher-with-a-dotnet-background/
+- 4.yandex开源go-hasql: 访问和操作由多个主机组成的高可用数据库集群 - https://github.com/yandex/go-hasql
+- 5.Go中REST API的身份验证 - https://www.maragu.dk/blog/authentication-for-rest-apis-in-go/
 
 ## GOCN每日新闻--2020-09-16
 1.Go 语言发展档案 https://golang.design/history/
