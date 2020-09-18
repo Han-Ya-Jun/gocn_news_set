@@ -7,6 +7,60 @@
 
 
 
+## go中文网每日资讯--2020-09-18
+一、Go语言中文网
+
+1. [一篇短文介绍 Defer 是如何工作的](https://mp.weixin.qq.com/s/FCMvwDym6Qa6_DWKv1HlzA)
+
+2. [golang gin大行其道!](https://mp.weixin.qq.com/s/am-8l4ja5tB83him3cNN-A)
+
+3. [Go发起HTTP2.0请求流程分析(中篇)——数据帧&流控制](https://mp.weixin.qq.com/s/H-tej7UNi6xwZ8cSzJeA4w)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-17)](https://studygolang.com/topics/12337)
+
+三、云原生技术爱好者社区
+
+1. [client-go连接K8s集群进行pod的增删改查](https://mp.weixin.qq.com/s/pis0FDjTaLDxtMyz8VWlRQ)
+
+四、polarisxu
+
+1. [【文末送书】VSCode 写 Go 更爽：因为 gopls 0.5.0 发布了](https://mp.weixin.qq.com/s/3E4hGhGgT0VFbS9gpta4sg)
+
+五、 Go 夜读
+
+1. [防止缓存击穿之进程内共享调用](https://mp.weixin.qq.com/s/1vZYu_HzTtFfC_kb7RxEVw)
+
+六、码农桃花源
+
+1. [极端情况下收缩 Go 进程的线程数](https://mp.weixin.qq.com/s/fr-5v-jU4rCGqMCYSpDjfg)
+
+七、 云加社区
+
+1. [日调1000亿，腾讯微服务平台的架构演进](https://mp.weixin.qq.com/s/jDf_-anzP55IDb0Q4CNIdQ)
+
+
+## GOCN每日新闻--2020-09-18
+1.golang-dev : 实现泛型 https://www.reddit.com/r/golang/comments/iv4idd/golangdev_implementing_generics/
+
+2.Golang 汇编入门知识总结 https://mp.weixin.qq.com/s/tN27osC6K0NM-Laj9MbtsA
+
+3.golang pprof 使用方法 https://www.jianshu.com/p/d801072ef333
+
+4.记一次线上性能调优：火焰图是利器 https://mp.weixin.qq.com/s/smdpg0WPY_RIS2pH3Mh5-g
+
+5.sync.RWMutex 功能的测试 https://gocn.vip/topics/10980
+
+## gopherDaily--2020-09-18
+1.观点：Go尚未准备好用于企业系统 - https://medium.com/@afondmitro/golang-is-not-ready-for-enterprise-systems-yet-and-heres-why-c0ee72069963
+2.tinygo增加对蓝牙的支持 - https://blog.adafruit.com/2020/09/17/tinygo-adds-bluetooth-capability-go-bluetooth-tinygolang-adafruit/
+3.使用Go AST包实现的一些有趣的事情 - https://medium.com/swlh/cool-stuff-with-gos-ast-package-pt-1-981460cddcd7
+4.Go开发者应该知道的10个有用的go module - https://levelup.gitconnected.com/10-useful-golang-modules-developers-should-know-d63a45438607
+5.github cli 1.0发布 - https://github.blog/2020-09-17-github-cli-1-0-is-now-available/
+6.gomajor: 帮助你简化module主版本号升级的工具 - https://github.com/icholy/gomajor
+
+
 ## go中文网每日资讯--2020-09-17 
 一、Go语言中文网
 
