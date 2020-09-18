@@ -53,12 +53,12 @@
 5.sync.RWMutex 功能的测试 https://gocn.vip/topics/10980
 
 ## gopherDaily--2020-09-18
-1.观点：Go尚未准备好用于企业系统 - https://medium.com/@afondmitro/golang-is-not-ready-for-enterprise-systems-yet-and-heres-why-c0ee72069963
-2.tinygo增加对蓝牙的支持 - https://blog.adafruit.com/2020/09/17/tinygo-adds-bluetooth-capability-go-bluetooth-tinygolang-adafruit/
-3.使用Go AST包实现的一些有趣的事情 - https://medium.com/swlh/cool-stuff-with-gos-ast-package-pt-1-981460cddcd7
-4.Go开发者应该知道的10个有用的go module - https://levelup.gitconnected.com/10-useful-golang-modules-developers-should-know-d63a45438607
-5.github cli 1.0发布 - https://github.blog/2020-09-17-github-cli-1-0-is-now-available/
-6.gomajor: 帮助你简化module主版本号升级的工具 - https://github.com/icholy/gomajor
+- 1.观点：Go尚未准备好用于企业系统 - https://medium.com/@afondmitro/golang-is-not-ready-for-enterprise-systems-yet-and-heres-why-c0ee72069963
+- 2.tinygo增加对蓝牙的支持 - https://blog.adafruit.com/2020/09/17/tinygo-adds-bluetooth-capability-go-bluetooth-tinygolang-adafruit/
+- 3.使用Go AST包实现的一些有趣的事情 - https://medium.com/swlh/cool-stuff-with-gos-ast-package-pt-1-981460cddcd7
+- 4.Go开发者应该知道的10个有用的go module - https://levelup.gitconnected.com/10-useful-golang-modules-developers-should-know-d63a45438607
+- 5.github cli 1.0发布 - https://github.blog/2020-09-17-github-cli-1-0-is-now-available/
+- 6.gomajor: 帮助你简化module主版本号升级的工具 - https://github.com/icholy/gomajor
 
 
 ## go中文网每日资讯--2020-09-17 
