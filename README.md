@@ -6,6 +6,100 @@
 # gocn_news_set_2020
 
 
+## go中文网每日资讯--2020-09-20
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 61 期 — Go 开发的 2048 游戏](https://mp.weixin.qq.com/s/ByAiO3dBXgEKwM_l9N6lRg)
+
+2. [Go 编程的三个常见问题](https://mp.weixin.qq.com/s/DprEr-ZK0lx3QVyxXGG0FQ) 
+
+3. [Golang 网络爬虫框架 gocolly](https://mp.weixin.qq.com/s/7BvXjz_SUZ4gCGk83Qj6_A)
+
+二、MoeLove
+
+1. [突破 DockerHub 限制，全镜像加速服务](https://mp.weixin.qq.com/s/LoTv32NR8t680z-LmzKzXA)
+
+2. [Loki和Fluentd的那点事儿](https://mp.weixin.qq.com/s/YDugeqw-caLVJQKRD0eOEw)
+
+三、Golang梦工厂
+
+1. [读者说我的代码有内存泄漏的风险](https://mp.weixin.qq.com/s/0U-4WtG3Gt_4LYp8S8vZGg) 
+
+2. [go解锁设计模式之单例模式](https://mp.weixin.qq.com/s/7rgs9J5jlnMn-S7_GE_IzA)
+
+四、Golang来啦
+
+1. [Go slice 全面指南](https://mp.weixin.qq.com/s/rYY6TnZcb0FIWjouD2cznQ)
+
+五、王益
+
+1. [Go的隐秘世界：Goroutine调度机制概览](https://zhuanlan.zhihu.com/p/244054940)
+
+
+## GOCN每日新闻--2020-09-20
+- 1.Go 的 defer,panic 和 recover https://medium.com/@SachinKarve/defer-panic-and-recover-in-golang-44e2102d344c
+- 2.go runtime debug 小技巧 https://gocn.vip/topics/11010
+- 3.奇妙的 Go AST 包 https://medium.com/@riptidedata/cool-stuff-with-gos-ast-package-pt-2-e4d39ab7e9db
+- 4.Go 语法讲解: Blank Identifier
+- 5.prisma: 类型安全地操作数据库 https://github.com/prisma/prisma-client-go
+
+## gopherDaily--2020-09-20
+- 1.我们如何在Go微服务中追踪疑似内存泄漏的 - https://blog.detectify.com/2019/09/05/how-we-tracked-down-a-memory-leak-in-one-of-our-go-microservices/
+- 2.twtxt: Go实现的去中心化类twitter的微博客平台 - https://github.com/jointwt/twtxt
+- 3.深入prometheus时序数据库第一部分：头部块 - https://ganeshvernekar.com/blog/prometheus-tsdb-the-head-block/
+- 4.在go函数中使用可选参数的一个好方法 - https://www.pixelstech.net/article/1600482330-One-good-way-to-use-optional-parameter-in-function
+- 5.Open Policy Agent使用rego语言编写规则的5个技巧 - https://www.fugue.co/blog/5-tips-for-using-the-rego-language-for-open-policy-agent-opa
+## go中文网每日资讯--2020-09-19 
+一、Go语言中文网
+
+1. [面试官：Go 调度了解吗？Kubernetes 调度和资源管理呢？](https://mp.weixin.qq.com/s/3qt4jG-aTJna3gU079VpIw)
+
+2. [面试题：请用 golang 实现单链的添加，删除以及翻转.](https://mp.weixin.qq.com/s/40VMVQtBdzQNzDHMaztlJQ) 
+
+3. [Go发起HTTP2.0请求流程分析(后篇)——标头压缩](https://mp.weixin.qq.com/s/ahAeaRfhixomZtUiY6GCuw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-18)](https://studygolang.com/topics/12342)
+
+三、Golang梦工厂
+
+1. [手把手教姐姐写消息队列](https://mp.weixin.qq.com/s/0MykGst1e2pgnXXUjojvhQ)
+
+四、网管叨bi叨
+
+1. [我在暴躁同事小张的胁迫下学会了Go的交叉编译和条件编译](https://mp.weixin.qq.com/s/Ys8o4arwIFYB6DPCdiGNNQ)
+
+五、阿里巴巴云原生
+
+1. [Nacos Go 微服务生态系列（一）| Dubbo-go 云原生核心引擎探索](https://mp.weixin.qq.com/s/fFjOVn0HNWjhhvZg_HQdqg)
+
+六、 容器时代
+
+1. [从零开始 Kubernetes Operator](https://mp.weixin.qq.com/s/29gRKk0jrvKCY-lwihbHUQ)
+
+## GOCN每日新闻--2020-09-19
+1.Golang:sysmon，运行时监视 https://medium.com/@blanchon.vincent/go-sysmon-runtime-monitoring-cff9395060b5
+
+2.使用 eBPF 在线调试 Go 程序 https://blog.pixielabs.ai/blog/ebpf-function-tracing/post/
+
+3.Go 实现跨平台的蓝牙包 Bluetooth https://github.com/tinygo-org/bluetooth#go-bluetooth
+
+4.用 Go 语言编写的 RocksDB 启发式键值存储 https://www.cockroachlabs.com/blog/pebble-rocksdb-kv-store/
+
+5.TiDB HTAP 深度解读 https://gocn.vip/topics/11006
+
+## gopherDaily--2020-09-19
+- 1.Go泛型如何实现的讨论 - https://groups.google.com/g/golang-dev/c/OcW0ATRS4oM 以及Keith Randall提出的两个实现方案
+- 2.模板方案：https://github.com/golang/proposal/blob/master/design/generics-implementation-stenciling.md
+- 3.字典方案：https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries.md
+- 4.我们如何在Go中构建受Lucene启发的解析器 - https://www.mailgun.com/blog/how-we-built-a-lucene-inspired-parser-in-go/
+- 5.go-pmem: Go原生支持持久化内存编程 - https://www.usenix.org/conference/atc20/presentation/george
+- 6. modgv: 将go mod graph的结果转换为dot图片 - https://github.com/lucasepe/modgv
+- 7.驯服tar命令 - https://www.redhat.com/sysadmin/taming-tar-command
+- 8.yarr: Go实现的另一个rss reader - https://github.com/nkanaev/yarr
+- 9.Go module聚合 - https://aggregatedawesome.com/go
+
 
 ## go中文网每日资讯--2020-09-18
 一、Go语言中文网
