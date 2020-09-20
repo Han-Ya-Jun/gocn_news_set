@@ -40,7 +40,7 @@
 - 1.Go 的 defer,panic 和 recover https://medium.com/@SachinKarve/defer-panic-and-recover-in-golang-44e2102d344c
 - 2.go runtime debug 小技巧 https://gocn.vip/topics/11010
 - 3.奇妙的 Go AST 包 https://medium.com/@riptidedata/cool-stuff-with-gos-ast-package-pt-2-e4d39ab7e9db
-- 4.Go 语法讲解: Blank Identifier
+- 4.Go 语法讲解: Blank Identifier https://youtu.be/FKaMiSGmQoE
 - 5.prisma: 类型安全地操作数据库 https://github.com/prisma/prisma-client-go
 
 ## gopherDaily--2020-09-20
