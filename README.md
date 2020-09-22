@@ -6,6 +6,51 @@
 # gocn_news_set_2020
 
 
+## go中文网每日资讯--2020-09-21
+一、Go语言中文网
+
+1. [Go：跨团队协作时如何共享对象](https://mp.weixin.qq.com/s/dj4264rCAS1GAKBxyfL3KQ)
+
+2. [如何使用私有仓库的 Go Modules](https://mp.weixin.qq.com/s/apSoXcYcVJ2QG1KLCpS00A) 
+
+3. [Go slice 全面指南](https://mp.weixin.qq.com/s/CSkNe4UDSY36aKH_239SbQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-20)](https://studygolang.com/topics/12355)
+
+三、DBAplus社群
+
+1. [万字谈监控：解答Zabbix与Prometheus选型疑难](https://mp.weixin.qq.com/s/eNpXnjHSIdqVo9wO3UtcjA)
+
+四、aoho求索
+
+1. [彻底搞懂 etcd 系列文章（九）：etcd compact 和 watch API](https://mp.weixin.qq.com/s/xSQ3tXBku4-zh64chXxsvw)
+
+五、polarisxu
+
+1. [遭遇 lj_str_new：排查问题的思路很重要](https://mp.weixin.qq.com/s/46vF_-BCkqQcIVBUfRSaMw)
+
+六、MoeLove 
+
+1. [K8S 生态周报| KIND v0.9 发布带来众多更新](https://mp.weixin.qq.com/s/BfNYueThWnF6HX3FTf8sMw)
+
+七、腾讯技术工程
+
+1. [C语言发展史的点点滴滴](https://mp.weixin.qq.com/s/rJVEKjxIrfiV-nSluvXZVg)
+## GOCN每日新闻--2020-09-21
+- 1.一个实时负载测试分析工具 https://www.reddit.com/r/golang/comments/iwdx5v/a_load_testing_tool_with_a_realtime_analyzer/
+- 2.为网站增加聊天功能：一个基于 WebSocket 的聊天开源项目 https://mp.weixin.qq.com/s/QhOsBV2y5DXeC7yCCxH-uA
+- 3.还在担心服务挂掉？Sentinel Go 让服务稳如磐石 https://mp.weixin.qq.com/s/cdxnOCjD9VmaErmDvfekJg
+- 4.Go 如何实现热重启 https://mp.weixin.qq.com/s/UVZKFmv8p4ghm8ICdz85wQ
+- 5.解密 Go 协程的栈内存管理 https://mp.weixin.qq.com/s/e6SUHtTTm2xfC7HpxGGUcg
+## gopherDaily--2020-09-21
+- 1.使用Go AST包实现的一些有趣的事情(part2) - https://medium.com/swlh/cool-stuff-with-gos-ast-package-pt-2-e4d39ab7e9db
+- 2.给Go新手的资料列表 - https://dave.cheney.net/resources-for-new-go-programmers
+- 3.Go中使用依赖反转 - https://itnext.io/using-dependency-inversion-in-go-31d8bf9b3760
+- 4.ali: 生成HTTP负载并实时绘制结果的负载测试工具 - https://github.com/nakabonne/ali
+- 5.为什么不用Rust - https://matklad.github.io/2020/09/20/why-not-rust.html
+- 6.github将于下月开始使用main代替master - https://www.zdnet.com/article/github-to-replace-master-with-main-starting-next-month/
 ## go中文网每日资讯--2020-09-20
 一、Go语言中文网
 
