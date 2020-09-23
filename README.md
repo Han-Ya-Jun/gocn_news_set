@@ -5,6 +5,53 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+
+## go中文网每日资讯--2020-09-23
+一、Go语言中文网
+
+1. [微软又开源了一个 Go 重磅项目了](https://mp.weixin.qq.com/s/CdPqf6fj8Q4vlz1LHVzNtg)
+
+2. [Go 在 Google：服务于软件工程的语言设计（翻译）（二）](https://mp.weixin.qq.com/s/yOyXTl8BR9TbRba5x_kbCg) 
+
+3. [Go 数据存储篇（四）：通过 Gob 包序列化二进制数据](https://mp.weixin.qq.com/s/yb3XOtO7gIFixwMa25NYpg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-22)](https://studygolang.com/topics/12366)
+
+三、FreeWheel
+
+1. [技术天地 | 微服务业务系统 (Biz-UI) - gRPC 长连接的探索和实践](https://mp.weixin.qq.com/s/gwZTGb-jkzF4ee-V7zWX1w)
+
+四、MoeLove
+
+1. [今晚20:00 丨Redis容器化之技术选型及对比](https://mp.weixin.qq.com/s/OnQnR8bjuz1e5wivPfDZcw)
+
+五、 腾讯云原生
+
+1. [搬砖武士｜手把手教你在容器服务 TKE 上使用 LB直通 Pod](https://mp.weixin.qq.com/s/Qm8GS0-0KB5rfIJ4ByMA7w)
+
+## gopherDaily--2020-09-23
+- 1.利用OpenTracing对Go项目进行分布式跟踪 by mattermost - https://mattermost.com/blog/opentracing-for-go-projects/
+- 2.播客：深入研究Fuzzing及Go官方Fuzzing提案 - https://changelog.com/gotime/145
+- 3.overseer: 用于创建可监控、支持优雅重启和自升级的go应用的module - https://github.com/jpillora/overseer
+- 4.Sentinel Go 让服务稳如磐石 - https://mp.weixin.qq.com/s/cdxnOCjD9VmaErmDvfekJg
+- 5.支持列出文件图标和git状态的现代ls命令 - https://github.com/Yash-Handa/logo-ls
+- 6.Stack Overflow反模式 - https://riggraz.dev/stack-overflow-antipattern.html
+
+
+## GOCN每日新闻--2020-09-23 
+1.GraphQL 是什么？在 Golang 中如何实现 https://medium.com/tunaiku-tech/what-is-graphql-and-how-is-it-implemented-in-golang-b2e7649529f1
+
+2.Go 程序性能分析 https://segmentfault.com/a/1190000024541490
+
+3.还在担心服务挂掉？Sentinel Go 让服务稳如磐石 https://gocn.vip/topics/11017
+
+4.高频 golang 面试题：简单聊聊内存逃逸？https://segmentfault.com/a/1190000024537780
+
+5.HTTP 负载压测工具 https://github.com/nakabonne/ali
+
 ## go中文网每日资讯--2020-09-22
 一、Go语言中文网
 
