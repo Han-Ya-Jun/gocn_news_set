@@ -5,6 +5,59 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-09-22
+一、Go语言中文网
+
+1. [unsafe 真就 unsafe 吗？](https://mp.weixin.qq.com/s/RKHNKY_EVF2vR0zLQVU5_A)
+
+2. [Kubernetes 源码学习之延时队列](https://mp.weixin.qq.com/s/bPTuDpBnQT1xIMmOl-G3WA) 
+
+3. [Go 在 Google：服务于软件工程的语言设计（翻译）（一）](https://mp.weixin.qq.com/s/xuUm-C4jSQIk9cNERsfPGg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-21)](https://studygolang.com/topics/12361 "Go技术日报(2020-09-21)")
+
+三、InfoQ 
+
+1. [字节跳动千万用户量级直播活动技术保障实践](https://mp.weixin.qq.com/s/HJLfMYGgjQO0jDvP7D12nA)
+
+四、xueyuanjun
+
+1. [Go 数据存储篇（四）：通过 Gob 包序列化二进制数据](https://mp.weixin.qq.com/s/eVnspprxpzJo6qp4bsjK8A)
+
+五、polarisxu
+
+1. [Go Playground 还能这么玩？](https://mp.weixin.qq.com/s/4EgWOSLJp5hZL1Q9L37YHg)
+
+六、云加社区
+
+1. [SLA 4 个 9 ，贝壳高可用架构的质量保障体系](https://mp.weixin.qq.com/s/AS7EamQeyoDmT9gOAtYl0g)
+
+七、真没什么逻辑
+
+1. [微服务架构的分布式容错 · SOSP 2019](https://mp.weixin.qq.com/s/Asw3fJcLmxavt191bdNYiw)
+
+
+## GOCN每日新闻--2020-09-22
+1.[我们是如何在微服务集群中找出内存泄漏的](https://blog.detectify.com/2019/09/05/how-we-tracked-down-a-memory-leak-in-one-of-our-go-microservices/ "我们是如何在微服务集群中找出内存泄漏的") 
+
+2.[一种在函数里面使用可选参数的好方式](https://www.pixelstech.net/article/1600482330-One-good-way-to-use-optional-parameter-in-function "一种在函数里面使用可选参数的好方式")
+
+3.[不要 mock 你的数据库 ](https://medium.com/@vkhorikov/dont-mock-your-database-it-s-an-implementation-detail-8f1b527c78be "不要 mock 你的数据库 ")
+
+4.[Go 范型最终方案 ](https://blog.yongweilun.me/go-generics-draft-design-final "Go 范型最终方案 ")
+
+5.[可视化你的 Go 项目依赖 ](https://github.com/lucasepe/modgv "可视化你的 Go 项目依赖 ")
+
+
+## gopherDaily--2020-09-22
+- 1.[使用cgo与python交互](https://www.ardanlabs.com/blog/2020/09/using-python-memory.html)
+- 2.[GraphQL是什么？如何使用Go实现它](https://medium.com/tunaiku-tech/what-is-graphql-and-how-is-it-implemented-in-golang-b2e7649529f1) 
+- 3.[在Wildlife，我们是如何测试go代码的](https://medium.com/tech-at-wildlife-studios/testing-golang-code-our-approach-at-wildlife-6f41e489ff36)
+- 4.[在Go中使用mongodb作为数据源](https://www.loginradius.com/engineering/blog/mongodb-as-datasource-in-golang/)
+- 5.[浮点数模糊测试](https://rigtorp.se/fuzzing-floating-point-code/)
+- 6.[Go 1.16 go module机制默认开启](https://go-review.googlesource.com/c/go/+/255052)
 
 ## go中文网每日资讯--2020-09-21
 一、Go语言中文网
