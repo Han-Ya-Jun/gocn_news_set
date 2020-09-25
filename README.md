@@ -4,6 +4,47 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+ 
+## go中文网每日资讯--2020-09-24
+一、Go语言中文网
+
+1. [你必须了解的 Go 历史：帮助理解 Go 的设计思想和每个版本的优势或弱点](https://mp.weixin.qq.com/s/Tzqn5kzdfzcQPUD5NtN2mg)
+
+2. [原来 9 张图就可以弄懂 Go 内存管理](https://mp.weixin.qq.com/s/CsHcVpZ_9rhO3aJy1-gBaA)
+
+3. [Go 在 Google：服务于软件工程的语言设计（翻译）（三）](https://mp.weixin.qq.com/s/Via9QBDlKmCyn9CZngey6Q) 
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-23)](https://studygolang.com/topics/12373)
+
+三、网管叨bi叨
+
+1. [学练结合，快速掌握Kubernetes Service](https://mp.weixin.qq.com/s/VJIwipm5lR62uAPVkiUXWQ)
+
+四、Go 夜读
+
+1. [手撕 hashicorp/raft 算法【万字长文】](https://mp.weixin.qq.com/s/OmUbYHZhpvqsflyr6Y6QbQ)
+
+五、 polarisxu
+
+1. [2 分钟定制一个高大上的 GitHub 首页](https://mp.weixin.qq.com/s/B1Xmbo5fSp7FhxhCJzvG5w)
+
+六、 新亮笔记
+
+1. [Go - struct{} 实现 interface{}](https://mp.weixin.qq.com/s/RBl19JerCKka0takqcsYOw)
+
+七、Go 101
+
+1. [一道面试题（含两个要点）](https://mp.weixin.qq.com/s/NImFRCQ2WoDCggPEV2ROJA)
+
+## GOCN每日新闻--2020-09-24
+
+1. 「有生之年」官方 Go Team leader 和 Go 作者邀请你加入群聊！ https://mp.weixin.qq.com/s/1Hpi9wkTmucROwNFv7H-sA 
+2. 在剪贴板自动清除短网址 https://dev.to/tux0r/auto-magically-cleaning-up-shortened-urls-with-go-1fgh 
+3. goroutine 泄露检测 https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88
+4. 在浏览器中用 wasm 和 web workers 运行 Go https://qvault.io/2020/09/23/running-go-in-the-browser-with-wasm-and-web-workers/ 
+5. 用 Go 写一个简单的实时聊天应用 https://dev.to/ga/realtime-chat-app-golang-5498
 
 
 
@@ -51,6 +92,8 @@
 4.高频 golang 面试题：简单聊聊内存逃逸？https://segmentfault.com/a/1190000024537780
 
 5.HTTP 负载压测工具 https://github.com/nakabonne/ali
+
+
 
 ## go中文网每日资讯--2020-09-22
 一、Go语言中文网
