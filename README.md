@@ -5,6 +5,48 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
  
+ ## go中文网每日资讯--2020-09-25
+一、Go语言中文网
+
+1. [字节跳动 2-2 级别的 Go 工程师究竟有多强？](https://mp.weixin.qq.com/s/zj8kh7O4Nkh1s050DGwKOQ)
+
+2. [Go 实战 ：如何实现 HTTP 断点续传多线程下载？](https://mp.weixin.qq.com/s/dt5emM2IsJ3DKmL502Zm8A)
+
+3. [Linux/Unix 爱好者一定会喜欢这个开源工具](https://mp.weixin.qq.com/s/7ccMZ_73GN92HMKTvjZx0Q) 
+
+4. [Excelize 2.3.1 发布，Go 语言 Excel 文档基础库，支持加密表格文档](https://mp.weixin.qq.com/s/b6UbdhCj5bousIeqa9wKQA)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-24)](https://studygolang.com/topics/12378)
+
+三、 PingCAP
+
+1. [Chaos Mesh® 1.0 GA，让混沌工程变得简单！](https://mp.weixin.qq.com/s/Kx4-pdOrwLNSDWNCEj0LRA)
+
+四、 腾讯云原生
+
+1. [手把手教你在 TKE 集群中实现简单的蓝绿发布和灰度发布](https://mp.weixin.qq.com/s/TZZWO-rH7tipcKyZbfJImA)
+
+## GOCN每日新闻--2020-09-25
+
+1.Go 中的 HTTP 请求之——HTTP1.1 请求流程分析 https://segmentfault.com/a/1190000024584420
+
+2.Go 加密解密算法总结 https://segmentfault.com/a/1190000024557845
+
+3.Istio Pilot 源码分析（二） https://mp.weixin.qq.com/s/-StCJI_Tzhf-HzwKsu3ueg 
+4.Excelize 2.3.1 发布，Go 语言 Excel 文档基础库，支持加密表格文档 https://gocn.vip/topics/11020
+
+5.Go 中进程内缓存：将 lakeFS 扩展到每秒 10 万个请求 https://lakefs.io/2020/09/23/in-process-caching-in-go-scaling-lakefs-to-100k-requests-second/
+17:57
+## gopherDaily--2020-09-25
+- 1.tinygo的垃圾回收原理 - https://aykevl.nl/2020/09/gc-tinygo
+- 2.goroutine泄露探测工具 - https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88
+- 3.Go进程内缓存：将lakeFS性能提升到每秒10万个请求 - https://lakefs.io/2020/09/23/in-process-caching-in-go-scaling-lakefs-to-100k-requests-second/
+- 4.我们是如何将Vitess裁剪90%从而去除我们不用的代码的 - https://www.dolthub.com/blog/2020-09-23-vitess-pruning/
+- 5.使用Go JSON包时的惊喜和陷阱 - https://www.alexedwards.net/blog/json-surprises-and-gotchas
+- 6.开源电子书：程序员的数学 - https://yurichev.com/writings/Math-for-programmers.pdf
+
 ## go中文网每日资讯--2020-09-24
 一、Go语言中文网
 
