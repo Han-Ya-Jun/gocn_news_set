@@ -4,6 +4,58 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## go中文网每日资讯--2020-09-26
+一、Go语言中文网
+
+1. [黑魔法：Go 有 GC 还能延长变量的生命周期？](https://mp.weixin.qq.com/s/7MxmrxjDWJAI7emz8-Iz3A)
+
+2. [每日一库之 logrus 日志使用教程](https://mp.weixin.qq.com/s/OAdKcbYH2B5bhe_IAWxHyw)
+
+3. [从零开始入门 K8s | 调度器的调度流程和算法介绍](https://mp.weixin.qq.com/s/_HlknjpzfcflCRNvoiuHlA)
+
+4. [太给力！《Go专家编程》.pdf 终于开放下载！](https://mp.weixin.qq.com/s/nMIbe3yXiYk2wudnYRRP7g)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-25)](https://studygolang.com/topics/12380)
+
+三、 InfoQ
+
+1. [闲鱼服务端架构演进历程](https://mp.weixin.qq.com/s/6eULsnLjFa9iVBzerFm_CQ)
+
+四、TalkGo
+
+1. [【视频回看】DDIA 阅读分享](https://talkgo.org/t/topic/1028)
+
+## GOCN每日新闻--2020-09-26
+1.通过 TLA+ 找出 Goroutine bugs https://www.hillelwayne.com/post/tla-golang/
+
+2.漏桶、令牌桶限流算法的 Go 语言实现 https://mp.weixin.qq.com/s/T_LvVfAOzgANO1XSCViJrw
+
+3.TinyGo 中的垃圾回收 Garbage collection in TinyGo https://aykevl.nl/2020/09/gc-tinygo
+
+4.Dubbo-go 云原生核心引擎探索 https://segmentfault.com/a/1190000025122783
+
+5.Kubernetes 容器网络模型和典型实现 https://segmentfault.com/a/1190000025125973
+
+
+## gopherDaily--2020-09-26
+
+1.Go应用的内存优化 - https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13
+
+2.Kubernetes调度器是怎么工作的，你造么？ - https://www.imooc.com/article/310998
+
+3.Go中的区块链编程 - https://www.welcometothejungle.com/en/articles/btc-interview-go-blockchain-golang
+
+4.扇出，扇入，同时保持秩序 - https://www.wwt.com/article/fan-out-fan-in-while-maintaining-order
+
+5.Go中进行价格和货币相关处理 - https://bojanz.github.io/price-currency-handling-go/
+
+6.使用TLA+查找goroutine bug - https://www.hillelwayne.com/post/tla-golang/
+
+7.挖掘go map - https://www.loginradius.com/engineering/blog/working-with-go-maps/
+
  
  ## go中文网每日资讯--2020-09-25
 一、Go语言中文网
