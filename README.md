@@ -5,6 +5,40 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+
+## go中文网每日资讯--2020-09-27
+一、Go语言中文网
+
+1. [你的 GoLand 是不是过期了？试试这个版本](https://mp.weixin.qq.com/s/vLEUvSLs-JStwVH945paSg)
+
+2. [Go语言爱好者周刊：第 62 期 — 今天的题很细节](https://mp.weixin.qq.com/s/xvlAcDBqb77HUzTo7gjuCw)
+
+3. [烧脑系列：手撕 hashicorp/raft 算法，超长文](https://mp.weixin.qq.com/s/wPPYRJXw_1VVeSXS6dUVUA)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-09-26)](https://studygolang.com/topics/12383)
+
+三、 GoUpUp
+
+1. [Go 每日一库之 quicktemplate](https://mp.weixin.qq.com/s/SMt_Iu6V6olf7Cc87hwAHw)
+
+四、 容器时代
+
+1. [Kuberntes Ingress现已GA](https://mp.weixin.qq.com/s/eVXhOooK-fy6FKH-zbTeJg)
+
+五、网管叨bi叨
+
+1. [Kubernetes Ingress入门指南和实践练习](https://mp.weixin.qq.com/s/Qt0lpP6g9cnf_UXLZOweZQ)
+
+六、 polarisxu
+
+1. [这么一道“简单”的题，为什么结果出乎我的意料](https://mp.weixin.qq.com/s/GqdzjXuaZOmjqit32Vxuzg)
+
+七、 云原生技术爱好者社区
+
+1. [kubectl exec是如何工作的？](https://mp.weixin.qq.com/s/UIAGoYCKTfC2B78FfLjHzg)
 ## go中文网每日资讯--2020-09-26
 一、Go语言中文网
 
@@ -38,6 +72,18 @@
 4.Dubbo-go 云原生核心引擎探索 https://segmentfault.com/a/1190000025122783
 
 5.Kubernetes 容器网络模型和典型实现 https://segmentfault.com/a/1190000025125973
+
+
+## GOCN每日新闻--2020-09-27
+1.Go 设计模式 13-观察者模式 (实现简单的 EventBus)  https://lailin.xyz/post/observer.html
+
+2.goroutine 泄漏的检漏仪https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88
+
+3.基于 Go 语言 Gin 框架的开源工单系统 https://segmentfault.com/a/1190000025138702
+
+4.Go 语言论坛系统 bbs-go v3.1.8 发布，gorm 升级到 2.0 https://www.oschina.net/news/118860/bbs-go-3-1-8-released
+
+5.从零开始入门 K8s | K8s 安全之访问控制 https://gocn.vip/topics/11037
 
 
 ## gopherDaily--2020-09-26
