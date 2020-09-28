@@ -39,6 +39,30 @@
 七、 云原生技术爱好者社区
 
 1. [kubectl exec是如何工作的？](https://mp.weixin.qq.com/s/UIAGoYCKTfC2B78FfLjHzg)
+
+
+
+
+
+
+## GOCN每日新闻--2020-09-27
+1.Go 设计模式 13-观察者模式 (实现简单的 EventBus)  https://lailin.xyz/post/observer.html
+
+2.goroutine 泄漏的检漏仪https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88
+
+3.基于 Go 语言 Gin 框架的开源工单系统 https://segmentfault.com/a/1190000025138702
+
+4.Go 语言论坛系统 bbs-go v3.1.8 发布，gorm 升级到 2.0 https://www.oschina.net/news/118860/bbs-go-3-1-8-released
+
+5.从零开始入门 K8s | K8s 安全之访问控制 https://gocn.vip/topics/11037
+
+## gopherDaily--2020-09-27
+- 1.Go项目源码中的那些“彩蛋” - https://dev.to/ymotongpoo/easter-eggs-in-go-source-code-2l02
+- 2.tinygo支持ESP32和ESP8266 - https://aykevl.nl/2020/09/tinygo-esp32
+- 3.使用Go操作excel文件 - https://medium.com/cloud-native-the-gathering/using-golang-to-create-and-read-excel-files-7e0c10a31583
+- 4.Go：我的技术之旅简史 - https://hackernoon.com/golang-a-short-history-of-my-tech-journey-qkaz3tdo
+- 5.GoLab 2020邀请Go核心团队参与AMA活动，如果你有要问Go团队的问题，可以在这里提出 - https://docs.google.com/forms/d/e/1FAIpQLSfA57k1pEWebFnq-DjkZQ21Dr94ciDqFSzB389SFgM1OgSaTQ/viewform
+
 ## go中文网每日资讯--2020-09-26
 一、Go语言中文网
 
@@ -73,17 +97,6 @@
 
 5.Kubernetes 容器网络模型和典型实现 https://segmentfault.com/a/1190000025125973
 
-
-## GOCN每日新闻--2020-09-27
-1.Go 设计模式 13-观察者模式 (实现简单的 EventBus)  https://lailin.xyz/post/observer.html
-
-2.goroutine 泄漏的检漏仪https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88
-
-3.基于 Go 语言 Gin 框架的开源工单系统 https://segmentfault.com/a/1190000025138702
-
-4.Go 语言论坛系统 bbs-go v3.1.8 发布，gorm 升级到 2.0 https://www.oschina.net/news/118860/bbs-go-3-1-8-released
-
-5.从零开始入门 K8s | K8s 安全之访问控制 https://gocn.vip/topics/11037
 
 
 ## gopherDaily--2020-09-26
