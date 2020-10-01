@@ -5,6 +5,29 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+
+## GOCN每日新闻--2020-10-01 
+1.误用 io.Reader 造成百万美元损失 https://hackernoon.com/billion-dollar-mistake-in-go-ll1s3tkc
+
+2.Go 程序自升级包 selfupdate https://github.com/minio/selfupdate
+
+3.加快 Go 的字符串匹配效率 https://boyter.org/posts/faster-literal-string-matching-in-go/
+
+4.Go 并发入门 https://medium.com/@yashaswi_nayak/go-a-tale-of-concurrency-a-beginners-guide-b8976b26feb
+
+5.Go Prosopal: Generics implementation - GC Shape Stenciling https://github.com/golang/proposal/blob/master/design/generics-implementation-gcshape.md
+
+
+## gopherDaily--2020-10-01
+- 1.误用io.Reader导致的价值百万美元的错误 - https://hackernoon.com/billion-dollar-mistake-in-go-ll1s3tkc
+- 2.使用Go和vue.js基于websocket构建一个简单的聊天应用 - https://dev.to/jeroendk/building-a-simple-chat-application-with-websockets-in-go-and-vue-js-gao
+- 3.从能耗效率角度对比27种编程语言 - https://greenlab.di.uminho.pt/wp-content/uploads/2017/10/sleFinal.pdf
+- 4.服务网格数据平面项目envoy支持windows - https://blog.envoyproxy.io/announcing-alpha-support-for-envoy-on-windows-d2c53c51de7b
+- 5.面试准备的十大github仓库 - https://threadreaderapp.com/thread/1311328923632898048.html
+- 6.C语言标准增加defer机制的proposal - http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2542.pdf，记得当年还实现过一个C的defer - https://tonybai.com/2013/02/03/implement-go-defer-in-c/
+- 7.elsa: Go实现的一个小巧，高性能，安全的javascript和typescript运行时 - https://github.com/elsaland/elsa
+- 8.selfupdate: 支持go应用自升级的包 - https://github.com/minio/selfupdate
 ## go中文网每日资讯--2020-09-30
 
 一、Go语言中文网
