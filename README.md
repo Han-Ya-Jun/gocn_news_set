@@ -5,7 +5,38 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-10-01 
+一、Go语言中文网
 
+1. [今天双节送福利：全套可爱的 Gopher 图片打包送给你](https://mp.weixin.qq.com/s/pW7apUsxgl6vdqYuvOGl9g)
+
+2. [图解快速排序：Go 实现](https://mp.weixin.qq.com/s/WO1psO79j-2OlkVJtfJn0w)
+
+3. [图解超难理解的 Paxos 算法](https://mp.weixin.qq.com/s/Fevo0tb3iY7C0vSj8ipFKw)
+
+二、亚军进化史
+
+1. [GO技术日报(2020-09-30)](https://studygolang.com/topics/12409)
+
+三、 图解源码 
+
+1. [云原生虚机应用托管-设计篇](https://mp.weixin.qq.com/s/pUj-3ylW2jLPdP1sFnvPOw)
+
+四、 技艺丛谈
+
+1. [聊聊Google的工程实践：完结篇](https://mp.weixin.qq.com/s/AIaW72oivMcmWMoDY3y93w)
+
+五、 polarisxu
+
+1. [现在人还会赏月吗？要不边赏月边思考两道题吧](https://mp.weixin.qq.com/s/MDhXicAJCS7WVjtJWb2eOg)
+
+六、 新亮笔记
+
+1. [Go - 学习 grpc.Dial(target string, opts …DialOption) 的写法](https://mp.weixin.qq.com/s/vQewKzYvRc860qPgWpqrdQ)
+
+七、Go 夜读
+
+1. [深入理解计算机系统 CSAPP 小结暨第一次线上研讨会](https://mp.weixin.qq.com/s/_Cv5AduIAjmpc7FoiybW0g)
 
 ## GOCN每日新闻--2020-10-01 
 1.误用 io.Reader 造成百万美元损失 https://hackernoon.com/billion-dollar-mistake-in-go-ll1s3tkc
@@ -28,6 +59,8 @@
 - 6.C语言标准增加defer机制的proposal - http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2542.pdf，记得当年还实现过一个C的defer - https://tonybai.com/2013/02/03/implement-go-defer-in-c/
 - 7.elsa: Go实现的一个小巧，高性能，安全的javascript和typescript运行时 - https://github.com/elsaland/elsa
 - 8.selfupdate: 支持go应用自升级的包 - https://github.com/minio/selfupdate
+
+
 ## go中文网每日资讯--2020-09-30
 
 一、Go语言中文网
