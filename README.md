@@ -5,6 +5,55 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go中文网每日资讯--2020-10-02
+一、Go语言中文网
+
+1. [面试官：请说说 Docker 有哪些优缺点？](https://mp.weixin.qq.com/s/9u-o2Tk904y72gT02fmhqQ)
+
+2. [很多人喜欢 Go，可能跟它可爱的吉祥物有关系吧：全套 Gopher 图片打包送给你](https://mp.weixin.qq.com/s/Rn0t0ahg58FtB6ruBcQJcg)
+
+3. [Go 数据存储篇（五）：建立数据库连接并进行增删改查操作](https://mp.weixin.qq.com/s/ikhEgFZUbKFl08cKysHybA)
+
+二、云加社区
+
+1. [优秀程序员，如何提高架构能力？](https://mp.weixin.qq.com/s/Bpa6oojGpgk8wDvNQTILHQ)
+
+三、GoUpUp
+
+1. [Go 每日一库之 air](https://mp.weixin.qq.com/s/uBGwV3HWOWygzin-TwGipg)
+
+四、架构之家
+
+1. [微服务连载（一）微服务技术体系和六大组件](https://mp.weixin.qq.com/s/JcACkPTgcFUQsxBgOV6sZA)
+
+2. [微服务连载（二）漫谈何时从单体架构迁移到微服务？](https://mp.weixin.qq.com/s/nFBnQtuwldot2UGCh3_Tsw)
+
+五、TalkGo
+
+1. [【预告】2020-10-03 20:00:00 go-zero 线上交流](https://talkgo.org/t/topic/1070)
+
+## gopherDaily--2020-10-02
+- 1.Jupyter notebook的Go引擎，让你可使用Jupyter notebook学习Go - https://github.com/gopherdata/gophernotes
+- 2.更高性能的字符串匹配 - https://boyter.org/posts/faster-literal-string-matching-in-go/
+- 3.Go微服务样板 - https://qvault.io/2020/10/01/boilerplating-a-new-go-program-microservice/
+- 4.重构go项目实现基本CQRS - https://threedots.tech/post/basic-cqrs-in-go/
+- 5.harbor 2.1发布，支持镜像代理和P2P分发 - https://goharbor.io/blog/harbor-2.1/
+- 6.通过云原生的方式使用Prometheus和Grafana监控应用交付控制器(adc) - https://www.cncf.io/blog/2020/09/28/monitoring-adcs-the-cloud-native-way-with-prometheus-and-grafana/
+- 7.使用Go自动化你的GitHub profile README - https://dev.to/victoria/go-automate-your-github-profile-readme-2344
+
+## GOCN每日新闻--2020-10-02
+1.Go 中最快的模板解析器是什么? https://dev.to/kataras/what-s-the-fastest-template-parser-in-go-4bal
+
+2.Go 中的构建器模式 https://dev.to/shubhamzanwar/builder-pattern-5839
+
+3.Go：并发故事（初学者指南）https://medium.com/@yashaswi_nayak/go-a-tale-of-concurrency-a-beginners-guide-b8976b26feb
+
+4.Go 实现的轻量级的 Web 服务器 https://github.com/nielsAD/autoindex
+
+5.通过重构 Go 项目引入基本的 CQRS https://threedots.tech/post/basic-cqrs-in-go/
+
+
 ## go中文网每日资讯--2020-10-01 
 一、Go语言中文网
 
