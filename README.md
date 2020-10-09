@@ -31,8 +31,11 @@
 1.使用 pkger 绑定模板 https://osinet.fr/go/en/articles/bundling-templates-with-pkger/
 
 2.Go 项目中使用追踪 https://developers.mattermost.com/blog/open-tracing/
+
 3.使用 Go vet 维护代码库中的一致https://developers.mattermost.com/blog/maintaining-consistency-in-codebases-with-go-vet/
+
 4.通过 AST 检测 Go 代码 https://developers.mattermost.com/blog/instrumenting-go-code-via-ast/
+
 5.通过 AST 检测 Go 代码，第 2 部分 https://developers.mattermost.com/blog/instrumenting-go-code-via-ast-2/
 
 ## gopherDaily--2020-10-08
