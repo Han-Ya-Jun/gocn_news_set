@@ -5,6 +5,59 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go中文网每日资讯--2020-10-09 
+一、Go语言中文网
+
+1. [观点：Go 尚未准备好用于企业系统，原因在这里](https://mp.weixin.qq.com/s/1-PLiNd0vqhscxWVt9vLyA)
+
+2. [Golang 函数式编程简述](https://mp.weixin.qq.com/s/x7TyP-M1GF8NZ94exMinCw)
+
+3. [调试+图解 channel 的内部实现](https://mp.weixin.qq.com/s/01Hl_eOAP_k_YDTNFErTJQ)
+
+二、xueyuanjun
+
+1. [基于 Go 协程实现图片马赛克应用（上）：同步版本](https://mp.weixin.qq.com/s/ETKJz0gkzzjBRJR_5fTnEQ)
+
+2. [基于 Go 协程实现图片马赛克应用（下）：并发重构](https://mp.weixin.qq.com/s/YcJPEkhnQXcQmrHG8qU0LQ)
+
+三、奇伢云存储
+
+1. [Golang 最细节篇之 — Reader 和 ReaderAt 的区别](https://mp.weixin.qq.com/s/0nu2k8JRUe_ovlaItKQxtQ)
+
+四、 阿里巴巴云原生
+
+1. [服务发现技术选型那点事儿](https://mp.weixin.qq.com/s/boh5smQ6ApTwScKYyhuD-Q)
+
+五、 polarisxu
+
+1. [终于找到了一款我喜欢的安装和管理 Go 版本的工具](https://mp.weixin.qq.com/s/yTblk9Js1Zcq5aWVcYGjOA)
+
+六、亚军进化史
+
+1. [Go技术日报(2020-10-08)](https://studygolang.com/topics/12432)
+
+## GOCN每日新闻--2020-10-09
+1. 想要 4 个 9？这里告诉你监控正确如何做 https://gocn.vip/topics/11068 
+
+2. 由 RocksDB 启发，用 Go 编写的 K/V 存储 https://mp.weixin.qq.com/s/qMQqTzFsvKgyqhGpmjJ0Qw 
+
+3. 我希望知道 Go 中的 3 个陷阱 https://medium.com/@yossishmueli/3-pitfalls-in-golang-i-wish-i-knew-3f208a8402a7 
+
+4. 将 python 嵌入 Go 中 https://poweruser.blog/embedding-python-in-go-338c0399f3d5 
+
+5. go-zero 中的 TimingWheel https://juejin.im/post/6881158526668898311
+
+## gopherDaily--2020-10-09
+- 1.Go2与limbo语言中的多态比较 - https://seh.dev/limbgo/
+- 2.关于学Go还是Rust的讨论 - https://dev.to/atomzwieback/golang-or-rust-that-is-the-question-57ep
+- 3.bbgo: 用Go编写的加密货币交易框架 - https://github.com/c9s/bbgo
+- 4.ebpf是如何将linux变成一个可编程的内核的 - https://thenewstack.io/how-ebpf-turns-linux-into-a-programmable-kernel/
+- 5.Thanos入门 - https://dev.to/mritunjay394/introduction-to-thanos-57i5
+- 6.Go工厂模式 - https://dev.to/shubhamzanwar/factory-pattern-4hd0
+- 7.深度学习和神经网络指南 - https://serokell.io/blog/deep-learning-and-neural-network-guide
+- 8.Go将在errors包中增加ErrUnsupported - https://github.com/golang/go/issues/41198#issuecomment-705078431
+- 9.goup: 优雅的Go安装和多版本管理工具 - https://owenou.com/goup/
 ## go中文网每日资讯--2020-10-08 
 一、Go语言中文网
 
