@@ -6,6 +6,60 @@
 # gocn_news_set_2020
 
 
+## go中文网每日资讯--2020-10-10
+
+一、Go语言中文网
+
+1. [一文掌握 CGO 处理字符串的问题：写 CGO 必看](https://mp.weixin.qq.com/s/vFThwyQ5LwHir89vqAvimg)
+
+2. [从零开始入门 K8s | Kubernetes 存储架构及插件使用](https://mp.weixin.qq.com/s/9Ec-95RODC_SJglSXnZOUw)
+
+3. [基于 Go 协程实现图片马赛克应用（上）：同步版本](https://mp.weixin.qq.com/s/5B4vPrJaQAFGyQot3AqgkA)
+
+二、五分选手
+
+1. [Crazy LeetCode — 4. Median of Two Sorted Arrays](https://mp.weixin.qq.com/s/OVMWoEnPa5qgqBe73Z-fWw)
+
+三、云原生技术爱好者社区
+
+1. [Kubernetes-Cheat-Sheet](https://mp.weixin.qq.com/s/Cf8ex2mWmtFzY2tmRevn0Q)
+
+四、董泽润的技术笔记
+
+1. [聊聊 ctx 超时控制一个反例](https://mp.weixin.qq.com/s/lhFhQGBngRnZyC60a2sqNQ)
+
+五、后端早读课
+
+1. [Go 语言标准库中 atomic.Value 的前世今生](https://mp.weixin.qq.com/s/Wrh3Of1jxm9WiMoFa136TQ)
+
+六、亚军进化史
+
+1. [Go技术日报(2020-10-09)](https://studygolang.com/topics/12436)
+
+
+## GOCN每日新闻--2020-10-10
+1.流数据处理利器 https://gocn.vip/topics/11077 
+2.Sentinel-Go 集成 Nacos 实现外部动态数据源 https://gocn.vip/topics/11072
+
+3.Golang 插件化开发 https://www.jianshu.com/p/917b159a4be6
+
+4.字节跳动踩坑记：Goroutine 泄漏 https://mp.weixin.qq.com/s/5q5eIMDHz35ycTBTkB33JQ
+
+5.Go-Zero 如何应对海量定时/延迟任务 https://mp.weixin.qq.com/s/tkm9nYcyUxE2vUbplSO-pA
+
+## gopherDaily--2020-10-10
+1. 解剖Go二进制文件，揭秘其与C二进制文件的不同 - https://www.youtube.com/watch?v=ou_B5YZzEeU
+
+2. 多名非google员工的Go commiter获得Google Open Source Peer Bonus - https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html
+
+3. Amazon CloudWatch代理开源，Go实现 - https://github.com/aws/amazon-cloudwatch-agent
+
+4. owncloud为何从php切换到Go - https://owncloud.com/news/ready-steady-go/
+
+5. bit: 现代git客户端 - https://github.com/chriswalz/bit
+
+6. 机器学习工程书 - http://www.mlebook.com/wiki/doku.php
+
 ## go中文网每日资讯--2020-10-09 
 一、Go语言中文网
 
