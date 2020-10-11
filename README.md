@@ -5,6 +5,58 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-10-11
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 64 期 — goup 这个工具了解下](https://mp.weixin.qq.com/s/2RSxE93kk8kmyecnUtQuWg)
+
+2. [Go 实战项目推荐：后台管理系统这么受欢迎吗？又一个 Go 开源项目](https://mp.weixin.qq.com/s/LREmslVMm7KtJPEAvZAmJQ)
+
+3. [基于 Go 协程实现图片马赛克应用（下）：并发重构](https://mp.weixin.qq.com/s/r7hqnvrrtdgul4INAi0TSw)
+
+二、 GoUpUp
+
+1. [Go 每日一库之 goquery](https://mp.weixin.qq.com/s/BWSdUqaqHSj2Mn0_gsm2iw)
+
+三、 网管叨bi叨
+
+1. [图文结合，白话Go的垃圾回收原理](https://mp.weixin.qq.com/s/79mO4IhZ5cDQm4hbAdqOyQ)
+
+四、 Golang梦工厂
+
+1. [常见面试题之缓存雪崩、缓存穿透、缓存击穿](https://mp.weixin.qq.com/s/d9An-DOYjuRdQpuVxi48DA)
+
+五、 脑子进煎鱼了
+
+1. [限流熔断是什么，怎么做，不做行不行？](https://mp.weixin.qq.com/s/aA0M6wL1mrAa0SZd8-Hv-w)
+
+六、亚军进化史
+
+1. [Go技术日报(2020-10-10)](https://studygolang.com/topics/12441)
+
+## GOCN每日新闻--2020-10-11 
+1.Go 调用 Linux 异步 IO 引擎 io-uring 实践 https://developers.mattermost.com/blog/hands-on-iouring-go/
+
+2.Go 设计模式 16-职责链模式 (Gin 的中间件实现) https://lailin.xyz/post/chain.html
+
+3.Go 并发编程之传统同步—(2) 条件变量 https://segmentfault.com/a/1190000037426003
+
+4.Go 实现的 JavaScript 和 TypeScript 运行时 https://github.com/elsaland/elsa
+
+5.Kubernetes 网络插件工作原理剖析 https://mp.weixin.qq.com/s/X3RMPD5v_IHZJrurGuHPaw
+
+## gopherDaily--2020-10-11
+
+1.Go 1.15中值得关注的几个变化 - https://tonybai.com/2020/10/11/some-changes-in-go-1-15/
+
+2.通过实例深入理解sync.Map的工作原理 - https://mp.weixin.qq.com/s/rsDC-6paC5zN4sepWd5LqQ
+
+3.关于Go语言的那些酷酷的事情 - https://medium.com/worldsensing-techblog/the-coolest-things-about-go-language-57a1c2c86a15
+
+4.CockroachDB errors包系列文章 - https://dr-knz.net/go-error-printing-catastrophe.html
+
+5.观点：Go可能很快会取代Python成为新世纪20年代人工智能和数据科学编程语言 - https://towardsdatascience.com/golang-ai-programming-language-for-the-20s-71890baa8c47
 
 ## go中文网每日资讯--2020-10-10
 
