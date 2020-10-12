@@ -5,6 +5,62 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-10-12
+一、Go语言中文网
+
+1. [哦，原来是这么回事：Golang 中的一些常识](https://mp.weixin.qq.com/s/-l9R_QblXr1_JHGtjldoQw)
+
+2. [Golang 最细节篇之 — Reader 和 ReaderAt 的区别](https://mp.weixin.qq.com/s/BcSFBpHUbb_mLIaSYfoqrw)
+
+3. [想要4个9？本文告诉你监控告警如何做](https://mp.weixin.qq.com/s/0bDwRtTQdcP7tKI1s76I5g)
+
+二、云原生实验室
+
+1. [高可用 Prometheus 的常见问题](https://mp.weixin.qq.com/s/n2x7V2Ko88TmvY1jSzWQ1g)
+
+三、 云原生技术爱好者社区
+
+1. [详解Kubernetes存储体系](https://mp.weixin.qq.com/s/2qh-3SgxwtdVgcPxv3PIcQ)
+
+四、 字节跳动技术团队
+
+1. [字节跳动全链路压测(Rhino)的实践](https://mp.weixin.qq.com/s/vofrpFGvnptj3MNAv1hQ-w)
+
+五、 polarisxu
+
+1. [15 张图带你深入理解浮点数（图片修正版）](https://mp.weixin.qq.com/s/BmXbChq3RVRmdGNgfxLyvw)
+
+六、亚军进化史
+
+1. [Go技术日报(2020-10-11)](https://studygolang.com/topics/12444)
+
+
+## GOCN每日新闻--2020-10-12 
+
+1.图文结合，白话 Go 的垃圾回收原理  https://juejin.im/post/6882206650875248654
+
+2.Go 每日一库之 goquery https://mp.weixin.qq.com/s/BWSdUqaqHSj2Mn0_gsm2iw
+
+3.Golang 最细节篇之 — Reader 和 ReaderAt 的区别 https://mp.weixin.qq.com/s/0nu2k8JRUe_ovlaItKQxtQ
+
+4.golang 拾遗：指针和接口https://www.cnblogs.com/apocelipes/p/13796041.html
+
+5.golang 常用库：配置文件解析库-viper 使用 https://www.cnblogs.com/jiujuan/p/13799976.html
+
+## gopherDaily--2020-10-12
+
+1.Go二进制文件反向工程 - https://cujo.com/reverse-engineering-go-binaries-with-ghidra/
+
+2.使用ktunnel替代ngrok - https://mbuffett.com/posts/ktunnel-ngrok-replace/
+
+3.eggos: 一个运行在x86裸机上的go unikernel - https://github.com/icexin/eggos
+
+4.使用protobuf管理分布式环境中的微服务架构和接口 - https://ednsquare.com/story/managing-microservice-schema-and-interfaces-in-distributed-environments-with-protocol-buffers-part-i-------AkFVJP
+
+5.bubbletea: 一个强大的构建命令行终端应用的Go包 - https://github.com/charmbracelet/bubbletea
+
+6.观点：蜜月期后对Rust的看法 - http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/
+
 ## go中文网每日资讯--2020-10-11
 
 一、Go语言中文网
