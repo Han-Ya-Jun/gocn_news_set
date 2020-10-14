@@ -5,6 +5,57 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go中文网每日资讯--2020-10-13
+一、Go语言中文网
+
+1. [Go 切片的一种有趣内存泄漏方式](https://mp.weixin.qq.com/s/NdsnNEpxcTQDX0LffuDzjQ)
+
+2. [Golang 并发模型之 GMP 浅尝](https://mp.weixin.qq.com/s/p_7qZH5Ix3vVJEvbPHyMng)
+
+二、 宜信技术学院
+
+1. [处理一次k8s、calico无法分配podIP的心路历程](https://mp.weixin.qq.com/s/LmQyYLfH0f0-Q-Tlf-ik8A)
+
+三、 滴滴技术
+
+1. [时间轮在Kafka的实践](https://mp.weixin.qq.com/s/xIWKcWCV_eyH-vQOQWxGUw)
+
+四、 真没什么逻辑
+
+1. [关系感知路由与全球流量调度 · SOSP 2019](https://mp.weixin.qq.com/s/9jLHY_k04EW_NUH6R9j-Pw)
+
+五、 xueyuanjun
+
+1. [Go 语言安全编程系列（一）：CSRF 攻击防护](https://mp.weixin.qq.com/s/E7PFpbLvBG5-LMKnJuPn5g)
+
+六、亚军进化史
+
+1. [Go技术日报(2020-10-12)](https://studygolang.com/topics/12450)
+
+## GOCN每日新闻--2020-10-13
+
+1.微服务 Dubbo 3.0 前瞻之：常用协议对比及 RPC 协议新形态探索 https://gocn.vip/topics/11089
+
+2.用 Go 实现安全可靠的聊天客户端 https://github.com/coyim/coyim
+
+3.又一道比较运算符相关的面试题让我明白基础很重要 https://mp.weixin.qq.com/s/sKlWw6XjAgCpDqUb02qplQ
+
+4.业务压力一大就宕机？一文带你搞懂限流熔断！ https://segmentfault.com/a/1190000037435267
+
+5.在 Go 之外扩展 WebSocket https://centrifugal.github.io/centrifugo/blog/scaling_websocket
+
+## gopherDaily--2020-10-13
+1.go module下，如何将Go module升级到v2.0.0 - https://therootcompany.com/blog/bump-go-package-to-v2/
+
+2.加拿大开源的新冠警报服务是Go编写的 - https://github.com/cds-snc/covid-alert-server
+
+3.播客：前Go团队核心成员、http库的设计和实现者Brad Fitzpatrick专访 - https://changelog.com/gotime/148
+
+4.kyverno: kubernetes原生策略管理 - https://github.com/kyverno/kyverno
+
+5.go编写的代码重构辅助工具(受facebook/codemod启发) - https://github.com/raviqqe/rnm
+
 ## go中文网每日资讯--2020-10-12
 一、Go语言中文网
 
