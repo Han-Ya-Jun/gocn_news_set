@@ -6,6 +6,37 @@
 # gocn_news_set_2020
 
 
+
+
+## go中文网每日资讯--2020-10-14
+一、Go语言中文网
+
+1. [理解真实世界中 Go 的并发 BUG](https://mp.weixin.qq.com/s/EnLxJEoPrASWytmM8jJtmg)
+
+2. [Go 中的 Goroutine 和其他并发处理方案的对比](https://mp.weixin.qq.com/s/cO3VERANE-VWhTD4SSclBg)
+
+3. [Go 每日一库之 goquery](https://mp.weixin.qq.com/s/IblYpqsGeT92k2EEGE0OtA)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-13)](https://studygolang.com/topics/12456)
+
+三、有点技术
+
+1. [VirtualCluster - 让k8s插上多租户的翅膀](https://mp.weixin.qq.com/s/63cWVG5p7d5ayKnULYmypA)
+
+四、TonyBai
+
+1. [Go 1.15中值得关注的几个变化](https://tonybai.com/2020/10/11/some-changes-in-go-1-15/)
+
+五、DevOps技术栈 
+
+1. [kubernetes 常见问题总结](https://mp.weixin.qq.com/s/UQFKE6RdwIafXppr193_qQ)
+
+六、 腾讯新闻技术
+
+1. [Go 依赖管理的发展历史](https://mp.weixin.qq.com/s/muzHyWIOpx8GI9oAnlwfXw)
+
 ## GOCN每日新闻--2020-10-14
 
 1.Go 切片的一种有趣内存泄漏方式 https://mp.weixin.qq.com/s/NdsnNEpxcTQDX0LffuDzjQ
