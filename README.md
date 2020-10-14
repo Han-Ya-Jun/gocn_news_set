@@ -6,6 +6,18 @@
 # gocn_news_set_2020
 
 
+## GOCN每日新闻--2020-10-14
+
+1.Go 切片的一种有趣内存泄漏方式 https://mp.weixin.qq.com/s/NdsnNEpxcTQDX0LffuDzjQ
+
+2.Golang 并发模型之 GMP 浅尝 https://mp.weixin.qq.com/s/p_7qZH5Ix3vVJEvbPHyMng
+
+3.Go 中的 Goroutine 和其他并发处理方案的对比 https://mp.weixin.qq.com/s/cO3VERANE-VWhTD4SSclBg
+
+4.微服务架构之服务发现：选型与思考 https://mp.weixin.qq.com/s/8vASJavOQrXw5bGEEMwd9Q
+
+5.处理一次 k8s、calico 无法分配 podIP 的心路历程 https://mp.weixin.qq.com/s/LmQyYLfH0f0-Q-Tlf-ik8A
+
 ## go中文网每日资讯--2020-10-13
 一、Go语言中文网
 
