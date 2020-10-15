@@ -33,7 +33,8 @@
 六、 美团技术团队
 
 1. [AIOps在美团的探索与实践——故障发现篇](https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g)
-## gopherDaily--2020-10-15 😛
+
+## gopherDaily--2020-10-15 
 1.Go 1.15.3和Go 1.14.10发布 - https://golang.google.cn/dl/
 
 2.Go在线技术直播列表 - https://github.com/golang/go/wiki/Livestreams
