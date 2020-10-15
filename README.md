@@ -6,7 +6,61 @@
 # gocn_news_set_2020
 
 
+## go中文网每日资讯--2020-10-15 
 
+一、Go语言中文网
+
+1. [面试官：聊聊 etcd 中的 Raft 吧](https://mp.weixin.qq.com/s/DKVXqeGc0dVnWiHkb1huKg)
+
+2. [Go 语言安全编程系列（一）：CSRF 攻击防护](https://mp.weixin.qq.com/s/a5aEIJsHl-9UYKkl0yii_A)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-14)](https://studygolang.com/topics/12461)
+
+三、 polarisxu
+
+1. [你喜欢的 Go 第三方库：一步为系统集成可视化实时运行时统计](https://mp.weixin.qq.com/s/JzXqwmEJ_R8g2QeMYHpc5Q)
+
+四、 GoUpUp 
+
+1. [Go 每日一库之 rxgo](https://mp.weixin.qq.com/s/6gBBv-9VEoxYSoq7RzFjyA)
+
+五、云原生技术爱好者社区
+
+1. [解决k8s集群环境内存不足导致容器被kill问题](https://mp.weixin.qq.com/s/oYrCo_o69NrlpiQE4GQ29g)
+
+六、 美团技术团队
+
+1. [AIOps在美团的探索与实践——故障发现篇](https://mp.weixin.qq.com/s/AjE7uP7ApVPyL_HdQDkk5g)
+## gopherDaily--2020-10-15 😛
+1.Go 1.15.3和Go 1.14.10发布 - https://golang.google.cn/dl/
+
+2.Go在线技术直播列表 - https://github.com/golang/go/wiki/Livestreams
+
+3.我们是如何使用更少资源并将一种API服务的响应时间减少了87％的 - https://labs.armut.com/how-we-decreased-one-of-our-apis-response-time-by-87-and-used-less-resources-ce847e83308
+
+4.python开发者的Go入门指南 - https://analyticsindiamag.com/introduction-to-golang-for-python-developers/
+
+5.hashicorp开源boundary：一款简单的主机/服务远程安全访问工具 - https://www.hashicorp.com/blog/hashicorp-boundary
+
+6.Kraken: 适用于OpenShift/Kubernetes的混沌工程工具 - https://www.openshift.com/blog/introduction-to-kraken-a-chaos-tool-for-openshift/kubernetes
+
+7.Go 1.16增加GODEBUG=inittrace=1支持，可以输出各个包初始化(init)的执行时间和内存分配情况 - https://github.com/golang/go/commit/7c58ef732efd9bf0d0882bb95371ce1909924a75
+
+8.docker安全最佳实践 - https://cloudberry.engineering/article/dockerfile-security-best-practices/
+
+## GOCN每日新闻--2020-10-15 
+
+1.Go 1.15.3/1.14.10 发布 https://groups.google.com/g/golang-nuts/c/GsXW533N-xo
+
+2.Prometheus 和 它的监控需求朋友们 ;)  https://mp.weixin.qq.com/s/6DA2wp6alKoF5Kxg83rhPw
+
+3.Go 相关直播信息汇总 https://github.com/golang/go/wiki/LiveStreams
+
+4.C# 转 Go 重构：我们是如何将 API 响应时间下降 87% 并减少资源占用的 https://labs.armut.com/how-we-decreased-one-of-our-apis-response-time-by-87-and-used-less-resources-ce847e83308
+
+5.machine：受 errgroup.Group 启发的扩展实现 https://github.com/autom8ter/machine
 
 ## go中文网每日资讯--2020-10-14
 一、Go语言中文网
