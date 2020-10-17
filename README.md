@@ -5,6 +5,56 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-10-16 
+一、Go语言中文网
+
+1. [Go1.15.3 和 Go1.14.10 发布](https://mp.weixin.qq.com/s/VnntrjHJLJ02ZTRfK5jFBw)
+
+2. [在线教育的企业都有使用 Go 吗？伴鱼招聘 Go 工程师了，看什么要求](https://mp.weixin.qq.com/s/ICoO5LoKbpjaSQSlCyAPvg)
+
+3. [Go 每日一库之 rxgo：异步编程](https://mp.weixin.qq.com/s/dTeq8j05PRMoAJT2F-DqJw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-15)](https://studygolang.com/topics/12465)
+
+三、架构之家
+
+1. [架构蓝图--软件架构 "4+1" 视图模型](https://mp.weixin.qq.com/s/bOBUleO3GwZ-RIIrqzfdgw)
+
+四、 腾讯云原生
+
+1. [如何在容器服务中获取客户端真实源IP](https://mp.weixin.qq.com/s/ULWClpnTyXVUBoCXh8SSPA)
+
+五、 云原生之路
+
+1. [浅析 Golang 垃圾回收机制](https://mp.weixin.qq.com/s/LTz8UjCvaxZvAPRqeFCxjQ)
+
+## GOCN每日新闻--2020-10-16
+
+1.Golang 中的一些常识 https://mp.weixin.qq.com/s/-l9R_QblXr1_JHGtjldoQw
+
+2.使用人工智能优化 Golang 编译器 https://purewhite.io/2020/10/14/manual-intelligence-optimize-golang-compiler/
+
+3.Go 编写 WASM 打砖块游戏 https://gweb.orsinium.dev/breakout/
+
+4.自定义 Go HTTP 客户端 https://rafallorenz.com/go/customize-http-client/
+
+5.go-zero 如何应对海量定时/延迟任务？ https://segmentfault.com/a/1190000037496480
+
+## gopherDaily--2020-10-16
+1.Go二进制文件逆向分析系列文章: 从理论到实战 - https://www.anquanke.com/post/id/214940
+
+2.万字长文深入浅出Go Runtime- https://zhuanlan.zhihu.com/p/95056679
+
+3.Hashicorp开源waypoint: 一款用于在任何平台上构建，部署和发布任何应用程序的工具 - https://github.com/hashicorp/waypoint
+
+4.使用Go演示如何正确验证密码 - https://qvault.io/2020/10/15/how-to-correctly-validate-passwords-most-websites-do-it-wrong/
+
+5.Go与vue.js联手开发Web应用 - https://dev.to/blueworrybear/put-vue-js-and-go-together-setup-web-app-in-5-mins-5h90
+
+6.使用nginx实现grpc服务的负载均衡 - https://dev.to/techschoolguru/load-balancing-grpc-service-with-nginx-3fio
+
 
 ## go中文网每日资讯--2020-10-15 
 
