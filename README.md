@@ -5,6 +5,53 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+
+## go中文网每日资讯--2020-10-17 
+一、Go语言中文网
+
+1. [关于 runtime.KeepAlive() 你知道多少？](https://mp.weixin.qq.com/s/aF_rhlm8fsT13vS85tSZvQ)
+
+2. [从零开始入门 K8s | 有状态应用编排 - StatefulSet](https://mp.weixin.qq.com/s/wlear499_dMvrfIv1lHn4A)
+
+3. [GitHub上两本图解网络/算法书火了，完整版开放下载！](https://mp.weixin.qq.com/s/btRHxnXXLw__TKuH3oW5Xg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-16)](https://studygolang.com/topics/12475)
+
+三、 Golang梦工厂
+
+1. [这个缓存更新的套路你都知道吗？](https://mp.weixin.qq.com/s/9GeYSVvKMtKGpTyBWTs_Zw)
+
+四、kevinwan
+
+1. [go-zero 如何应对海量定时/延迟任务？](https://studygolang.com/articles/31164)
+
+五、灰子学技术
+
+1. [算法篇：动态规划(一)](https://mp.weixin.qq.com/s/xV8b5DBaYZP_rZc2qp8QwQ)
+
+2. [算法篇：动态规划(二)](https://mp.weixin.qq.com/s/Ul4Nge41lJXFBnmnHkuyUQ)
+
+## GOCN每日新闻--2020-10-17 
+1.Go 运行时调度器处理系统调用的巧妙方式 https://mp.weixin.qq.com/s/DxycOYH3pNpJFYdf6ESbhA
+
+2.高可用 Prometheus 的常见问题 https://mp.weixin.qq.com/s/x4EEXq6-6xv-lm-dAazcag
+
+3.限流中的漏桶和令牌桶算法 https://mp.weixin.qq.com/s/4SzZEUTmjwAAsH5Qd2GWLQ
+
+4.白话 Go 的垃圾回收原理 https://mp.weixin.qq.com/s/79mO4IhZ5cDQm4hbAdqOyQ
+
+5.(译) 用 Notary 和 OPA 在 Kubernetes 上使用内容签名 https://mp.weixin.qq.com/s/js4KKNWNnfx32YJauU1f2Q
+
+## gopherDaily--2020-10-17 
+- 1.一个七年前的技术提案被Go团队接受：切片可以转换为数组指针 - https://github.com/golang/go/issues/395
+- 2.如何定制http client - https://rafallorenz.com/go/customize-http-client/
+- 3.我在Go中最喜欢使用的四大重构技术 - https://wawand.co/blog/posts/four-most-refactoring-techniques-i-use/
+- 4.油管视频：那些你可能从来没用过的Go特性 - https://www.youtube.com/watch?v=5DVV36uqQ4E
+- 5.temporal: 一个微服务编排平台 - https://github.com/temporalio/temporal/
+- 6.vssh: 通过ssh远程执行命令 - https://github.com/yahoo/vssh
 ## go中文网每日资讯--2020-10-16 
 一、Go语言中文网
 
