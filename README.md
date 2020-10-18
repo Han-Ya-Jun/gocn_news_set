@@ -7,6 +7,42 @@
 
 
 
+
+
+## go中文网每日资讯--2020-10-18 
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 65 期 — 今天的题你能做对？](https://mp.weixin.qq.com/s/aF_rhlm8fsT13vS85tSZvQ)
+
+2. [1.8 万字详解 Go 是如何设计 Map 的](https://mp.weixin.qq.com/s/OJSxIXH87mjCkQn76eNQsQ)
+
+3. [记一次内存泄漏的解决](https://mp.weixin.qq.com/s/Jz7gN5CCmZ6pdEEFB58Dsw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-17)](https://studygolang.com/topics/12475)
+
+三、脑子进煎鱼了
+
+1. [快速了解 2020 Gopher Meetup 深圳站](https://mp.weixin.qq.com/s/y0-kPi2femt_aE58g_nCFg)
+
+四、 TGO鲲鹏会
+
+1. [打造平台团队：万丈高楼平地起](https://mp.weixin.qq.com/s/Lc59AHIbSLPH3DbmK2RGOg)
+
+
+## GOCN每日新闻--2020-10-18 
+
+1.关于 unsafe 包的使用研究 https://arxiv.org/pdf/2006.09973.pdf
+
+2.使用 BuildKit 构建容器镜像 https://mp.weixin.qq.com/s/UXUu0OeMWicU6CqYkcdfog
+
+3.是时候跟 Docker 说再见 https://dev.to/martinheinz/it-s-time-to-say-goodbye-to-docker-386h
+
+4.Chronos: go 竞争探测器 https://github.com/amit-davidson/Chronos
+
+5.glow: 酷炫的终端 markdown 阅读器  https://github.com/charmbracelet/glow
+
 ## go中文网每日资讯--2020-10-17 
 一、Go语言中文网
 
