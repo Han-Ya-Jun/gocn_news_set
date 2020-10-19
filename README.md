@@ -5,8 +5,57 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-10-19
+一、Go语言中文网
 
+1. [对比三款 Go Playground：你喜欢哪款？](https://mp.weixin.qq.com/s/b5_DjIRCHZ5RRNMyY8EMqg)
 
+2. [golang 拾遗：指针和接口](https://mp.weixin.qq.com/s/J_eW_O8AP-on_0DAJ6P1sw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-18)](https://studygolang.com/topics/12483)
+
+三、polarisxu
+
+1. [卧槽！一道关于 json 和 slice 的题难倒了 80% 的人](https://mp.weixin.qq.com/s/_tebMLWLN68Zv47cYTv3Hg)
+
+四、jimmysong
+
+1. [云原生初学者入门必读](https://jimmysong.io/blog/must-read-for-cloud-native-beginner/)
+
+五、后端早读课
+
+1. [用动画理解 Raft 共识算法](https://mp.weixin.qq.com/s/vYGRgY5h_A4f5v4xAqwEGA)
+
+## GOCN每日新闻--2020-10-19 
+
+1.Go 实现的用于在任何平台上构建，部署和发布任何应用程序的工具 https://github.com/hashicorp/waypoint
+
+2.Go 语法-接口集合https://www.youtube.com/watch?v=ZQs_90HHTbY&feature=youtu.be
+
+3.从 Go 中的 HTTP 处理程序内部访问数据库 https://life-prog.com/tech/accessing-your-database-from-inside-an-http-handler-in-go/
+
+4.Go 实现的用于将数据从数据库扫描到 Go 结构的库 https://github.com/georgysavva/scany
+
+5.Golang 中的 AWS S3 分段上传https://www.youtube.com/watch?v=fEVRl9MLJC0&ab_channel=MathisVanEetvelde
+
+## gopherDaily--2020-10-19
+1.Go vs. Python各自的惊艳与不同 - https://bitfieldconsulting.com/golang/go-vs-python
+
+2.Prometheus TSDB: 持久化块与索引 - https://ganeshvernekar.com/blog/prometheus-tsdb-persistent-block-and-its-index/
+
+3.Go数据科学速成表(cheat sheet) - https://cheatography.com/chewxy/cheat-sheets/data-science-in-go-a/
+
+4.ln: 一个更自然的Go logging库 - https://christine.website/blog/ln-the-natural-logger-2020-10-17 
+
+5.coyim: 一个基于xmpp-client的安全的聊天客户端 -  https://github.com/coyim/coyim
+
+6.Dalfox：Go实现的参数分析和XSS扫描工具 - https://github.com/hahwul/dalfox
+
+7.Awesome数据工程 - https://awesomedataengineering.com/
+
+8."SOLID"设计原则的相关性 - http://blog.cleancoder.com/uncle-bob/2020/10/18/Solid-Relevance.html
 
 
 ## go中文网每日资讯--2020-10-18 
