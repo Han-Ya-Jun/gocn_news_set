@@ -5,6 +5,63 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go中文网每日资讯--2020-10-20
+
+一、Go语言中文网
+
+1. [6 张图看懂特殊的 Goroutine：g0](https://mp.weixin.qq.com/s/z-Uv5bf78aHMW_nFOJgBbw)
+
+2. [用于分析内存的几个命令](https://mp.weixin.qq.com/s/AozG3pjQEZusACJjwS8gdw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-19)](https://studygolang.com/topics/12491)
+
+三、有点技术
+
+1. [CNCF中国云原生调查2019](https://mp.weixin.qq.com/s/pby1cucYD96wcJvxo6lcdw)
+
+四、 腾讯技术工程
+
+1. [你真的知道怎么实现一个延迟队列吗 ？](https://mp.weixin.qq.com/s/DcyXPGxXFYcXCQJII1INpg)
+
+五、 Go招聘
+
+1. [分析字节跳动高级 Go 工程师的要求，知晓自己的努力方向](https://mp.weixin.qq.com/s/VHan8uS_THs0FAMBXJs-6g)
+
+六、 真没什么逻辑
+
+1. [分布式存储 Ceph 的演进经验 · SOSP 2019](https://mp.weixin.qq.com/s/jLDBQdeW0ol2M5LWfImxZg)
+
+
+## GOCN每日新闻--2020-10-20 
+
+1.Go 程序包开发，读简单配置文件 https://www.jianshu.com/p/0d585c68bc16
+
+2.利用 Ghidra 逆向分析 Go 二进制程序 https://cujo.com/reverse-engineering-go-binaries-with-ghidra
+
+3.Gobot 使用 Go 编程语言的 IOT 框架 https://github.com/hybridgroup/gobot
+
+4.用纯 Go 编写并编译成 WASM 的浏览器游戏 https://github.com/life4/gweb
+
+5.Go 服务错误策略 https://99designs.com.au/blog/engineering/go-service-error-strategies/
+
+
+## gopherDaily--2020-10-19
+
+1.Go服务的错误处理策略 - https://99designs.com.au/blog/engineering/go-service-error-strategies/
+
+2.使用Go实现在计算机和移动终端之间通过二维码传输文件 - https://ostechnix.com/transfer-files-between-computers-and-mobile-devices-by-scanning-qr-codes/
+
+3.GoF 23种设计模式的Go实现 - https://github.com/qiualiang/gof
+
+4.Chaos Mesh: Kubernetes上的混沌工程工具发布v1.0版本 - https://www.infoq.com/news/2020/10/kubernetes-chaos-mesh-ga/
+
+5.CockroachDB errors包使用第4部分 - https://dr-knz.net/cockroachdb-errors-everyday.html
+
+6.使用Testify mock测试gin http handler - https://dev.to/jacobsngoodwin/04-testing-first-gin-http-handler-9m0
+
 ## go中文网每日资讯--2020-10-19
 一、Go语言中文网
 
