@@ -48,7 +48,7 @@
 5.Go 服务错误策略 https://99designs.com.au/blog/engineering/go-service-error-strategies/
 
 
-## gopherDaily--2020-10-19
+## gopherDaily--2020-10-20
 
 1.Go服务的错误处理策略 - https://99designs.com.au/blog/engineering/go-service-error-strategies/
 
