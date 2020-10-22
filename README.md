@@ -5,6 +5,59 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go中文网每日资讯--2020-10-22 
+一、Go语言中文网
+
+1. [面试官：知道 MVCC 吗？ 在 etcd 中的如何实现的](https://mp.weixin.qq.com/s/mW4juWcLbkcJ7aoHbXNbQA)
+
+2. [微服务限流熔断是什么，怎么做，不做行不行？](https://mp.weixin.qq.com/s/vD37p6gsVacQiWEBi3pifA)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-21)](https://studygolang.com/topics/12500)
+
+三、 MoeLove
+
+1. [K8S 生态周报| Helm 五周岁啦！](https://mp.weixin.qq.com/s/nvDUyUsYzE9NQ0eD8efyIw)
+
+四、李文周
+
+1. [Go语言select语句中实现优先级](https://mp.weixin.qq.com/s/3NqPViFwIJbSeL1hrwajTw)
+
+五、 后端早读课
+
+1. [Go 协程堆栈设计进化史](https://mp.weixin.qq.com/s/4_Ehukr3fPm13QUmm5disA)
+
+六、 轩脉刃的刀光剑影
+
+1. [collection v1.3.1升级记录](https://mp.weixin.qq.com/s/6_PmluLCnUQViQvb78s6VA)
+
+七、 腾讯技术工程
+
+1. [Golang 单元测试详尽指引](https://mp.weixin.qq.com/s/eAptnygPQcQ5Ex8-6l0byA)
+
+## GOCN每日新闻--2020-10-22 
+1.如何在 Go 中编写递归嵌套函数 https://medium.com/@wexort/how-to-write-a-nested-function-in-go-3338c56526f3
+
+2.在 Go 聊天应用中使用 Redis/Sub https://dev.to/jeroendk/how-to-use-redis-pub-sub-in-go-chat-application-part-3-2h4c
+
+3.HTTP2 服务器推送的第一次尝试 https://juejin.im/post/6885142509035454478
+
+4.使用 kubecolor 颜色高亮 kubectl 输出 https://medium.com/@dty1er/colorize-kubectl-output-by-kubecolor-2c222af3163a
+
+5.SSL 证书验证工具 cassler  https://github.com/msfidelis/cassler
+
+## gopherDaily--2020-10-22 
+- 1.Go官方2020年开发者调查开启 - https://google.qualtrics.com/jfe/form/SV_1O0A5f70Q38dlVr
+- 2.bluge: go实现的文本索引库 - https://github.com/blugelabs/bluge
+- 3.Scala vs. Go - https://itnext.io/scala-vs-go-3e2e52f19de
+- 4.《软件设计的哲学》中文版 - http://gdut_yy.gitee.io/doc-aposd/
+- 5.yahoo开源的云原生分布式流网络遥测工具 - https://github.com/yahoo/panoptes-stream
+- 6.做开源项目贡献时应避免的6件事 - https://qvault.io/2020/10/21/6-things-to-avoid-when-contributing-to-open-source-projects/
+- 7.使用.gitattributes实现适配编程语言的git diff输出 - https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more
+
+
 ## go中文网每日资讯--2020-10-21
 一、Go语言中文网
 
