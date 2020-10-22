@@ -5,6 +5,40 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-10-21
+一、Go语言中文网
+
+1. [何时使用 Rust 和何时使用 Golang？](https://mp.weixin.qq.com/s/9-LjCy-sCdWBoamLfzmagg)
+
+2. [卧槽！一道关于 json 和 slice 的题难倒了 80% 的人](https://mp.weixin.qq.com/s/0NhlV6GtWIcsaYrMv1DM8A)
+
+3. [Go 已经开始大爆发了 ？专注于 Go 职场、招聘和求职](https://mp.weixin.qq.com/s/48blqIHsZuZgwqlNsmdTBA)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-20)](https://studygolang.com/topics/12495)
+
+三、 五分选手
+
+1. [TLS 1.3 Record Protocol](https://mp.weixin.qq.com/s/NQM8Zemj7ck6vLs_BXXJdw)
+
+四、kevinwan
+
+1. [企业级RPC框架zRPC](https://studygolang.com/articles/31240)
+
+
+
+## GOCN每日新闻--2020-10-21 
+
+1.Go 官方 2020 开发者调查问卷 https://blog.golang.org/survey2020
+
+2.深入理解最近的 Go 泛型提案
+
+3.为什么你应该避免在 main 中写大量代码 https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer.html
+
+4.在 Go 中 mock http client https://dev.to/trashhalo/mocking-http-clients-in-go-3l9p
+
+5.为 Go 应用程序创建 Docker 映像 https://www.maragu.dk/blog/creating-a-docker-image-for-a-go-application/
 
 ## go中文网每日资讯--2020-10-20
 
