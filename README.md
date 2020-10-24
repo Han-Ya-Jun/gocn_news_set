@@ -5,6 +5,55 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-10-23
+一、Go语言中文网
+
+1. [Go Team 给你发了一份邀请函](https://mp.weixin.qq.com/s/NOqvol6KpSWy8qnAPM0jKA)
+
+2. [time.Sleep(1) 后发生了什么](https://mp.weixin.qq.com/s/oz9RW1pWSCJsZBn0UtlXxA)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-22)](https://studygolang.com/topics/12507)
+
+三、 HHF技术博客
+
+1. [你真的懂 golang reslice 吗](https://mp.weixin.qq.com/s/iZSJ0wPhw76CMvNXDuOy6g)
+
+四、腾讯技术工程
+
+1. [如何有效地进行代码 Review？](https://mp.weixin.qq.com/s/uFivYfX53s5zAe6hacznlg)
+
+五、 有点技术
+
+1. [使用istio实现地域负载均衡](https://mp.weixin.qq.com/s/PJanuV_nbVRSJDTRU51KHw)
+
+六、polarisxu
+
+1. [Go Module 有漏洞？免费的 Go 漏洞扫描 VSCode 插件](https://mp.weixin.qq.com/s/NkxIEoOHXbjgqLPhWsKYRA)
+
+## GOCN每日新闻--2020-10-23 
+1.优雅的 Go Web 框架 https://github.com/System-Glitch/goyave
+
+2.如何在 Go 微服务项目中追踪内存泄漏 https://blog.detectify.com/2019/09/05/how-we-tracked-down-a-memory-leak-in-one-of-our-go-microservices/
+
+3.可视化 Go 程序的调用图 https://github.com/ofabry/go-callvis
+
+4.Go 特殊字符的 string 怎么转 byte https://segmentfault.com/a/1190000030685697
+
+5.Go 程序中的 Recover https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e
+
+## gopherDaily--2020-10-23
+1.一个阿三的Go导师的六年Go语言经验分享 - https://shijuvar.medium.com/my-six-years-of-experience-of-as-a-go-programming-language-mentor-in-india-67854dcf1b95
+
+2.Go常量用法上与Javascript的细微差别 - https://qvault.io/2020/10/22/constants-in-go-vs-javascript-and-when-to-use-them/
+
+3.ubuntu 20.20发布 - https://ubuntu.com/blog/ubuntu-20-10-on-raspberry-pi-delivers-the-full-linux-desktop-and-micro-clouds
+
+4.使用OAuth保护Go应用安全 - https://fusionauth.io/blog/2020/10/22/securing-a-golang-app-with-oauth/
+
+5.技术债务：为什么它会毁掉您的软件 - https://labcodes.com.br/blog/articles/tech-debt.html
+
 
 ## go中文网每日资讯--2020-10-22 
 一、Go语言中文网
