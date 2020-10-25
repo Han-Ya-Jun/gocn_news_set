@@ -6,6 +6,40 @@
 # gocn_news_set_2020
 
 
+## go中文网每日资讯--2020-10-25 
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 66 期 — 一道关于 fmt 的题](https://mp.weixin.qq.com/s/zYj6Mps2CZDYisMOf6EKSA)
+
+2. [面试题：这道 reslice 的题 简单，但原理你知晓吗？](https://mp.weixin.qq.com/s/nUtNba22WKruf_vEh2Biuw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-24)](https://studygolang.com/topics/12519)
+
+三、网管叨bi叨
+
+1. [gRPC服务注册发现及负载均衡的实现方案与源码解析](https://mp.weixin.qq.com/s/2rz1wqqsn1CzN1lGM7nBYw)
+
+## GOCN每日新闻--2020-10-25
+
+1.阿里 双 11 同款，流量防卫兵 Sentinel go 源码解读 https://juejin.im/post/6885920387449520141
+
+2.讲了个故事，把切片与函数的梗聊明白了 https://juejin.im/post/6886749671411154951
+
+3.gRPC 服务注册发现及负载均衡的实现方案与源码解析 https://juejin.im/post/6887388610367553549
+
+4.阿里开源首个 Serverless 开发者平台 Serverless Devs https://gocn.vip/topics/11141
+
+5.面试题：这道 reslice 的题 简单，但原理你知晓吗？ https://mp.weixin.qq.com/s/nUtNba22WKruf_vEh2Biuw
+
+
+## gopherDaily--2020-10-25 
+- 1.云原生版java与Go的大比拼 - https://medium.com/swlh/cloud-native-java-vs-golang-2a72c0531b05
+- 2.油管视频：Go泛型技术提案解析 - https://www.youtube.com/watch?v=gIEPspmbMHM&feature=youtu.be
+- 3.在浏览器中实时图形化查看Go应用运行时状态统计 - https://github.com/arl/statsviz
+- 4.如何使用Go生成RSA公私钥对 - https://www.systutorials.com/how-to-generate-rsa-private-and-public-key-pair-in-go-lang/
+- 5.awesome Kubernetes清单 - https://github.com/tomhuang12/awesome-k8s-resources
 
 ## go中文网每日资讯--2020-10-24 
 
