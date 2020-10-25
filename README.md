@@ -5,6 +5,44 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+
+## go中文网每日资讯--2020-10-24 
+
+一、Go语言中文网
+
+1. [感谢程序员：3折购书优惠码限时抢](https://mp.weixin.qq.com/s/zjO0mlMwUP71AZsNwLphpQ)
+
+2. [一文学习 Kubernetes API 编程范式](https://mp.weixin.qq.com/s/YshZ07moM13hqqloBKR8iA)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-23)](https://studygolang.com/topics/12512)
+
+三、felix021
+
+1. [聊聊监控](https://mp.weixin.qq.com/s/EQVoRHPwciiiKNPkiW5VkQ)
+
+四、架构之家
+
+1. [阿里案例：一文教会如何写复杂业务代码](https://mp.weixin.qq.com/s/9hBGAP0mu8ezpQCfZ8MwhA)
+
+五、 LiveVideoStack
+
+1. [Facebook如何将QUIC应用于数十亿流量传输](https://mp.weixin.qq.com/s/eoAk0seg5zdWEeJGt9i-nw)
+
+## GOCN每日新闻--2020-10-24 
+
+1. 我在印度作为 Go 编程语言导师的六年经验 https://shijuvar.medium.com/my-six-years-of-experience-of-as-a-go-programming-language-mentor-in-india-67854dcf1b95 
+
+2. 你真的懂 go reslice 吗 https://gocn.vip/topics/11138 
+
+3. Golang 并发调度的 GMP 模型 https://juejin.im/post/6886321367604527112 
+
+4. 深入了解 golang 中的 defer 关键字 https://juejin.im/post/6886710490530054158 
+
+5. 使用 merr 处理多个 error https://firda-safridi.medium.com/handling-multiple-errors-in-golang-with-merr-95e9580a6773
+
 ## go中文网每日资讯--2020-10-23
 一、Go语言中文网
 
