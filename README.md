@@ -6,6 +6,54 @@
 # gocn_news_set_2020
 
 
+## go中文网每日资讯--2020-10-26 
+
+一、Go语言中文网
+
+1. [Go 命令行项目推荐：一个现代化的 Git CLI 客户端](https://mp.weixin.qq.com/s/xpbUminzBpJSUCFyxmV3-g)
+
+2. [用心详解 Go Testing 包（一）](https://mp.weixin.qq.com/s/Lv7s8mBObWGvnk57fvKAOg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-25)](https://studygolang.com/topics/12522)
+
+三、 polarisxu
+
+1. [闲聊昨晚极客时间的直播：现场翻车了？](https://mp.weixin.qq.com/s/MKAS-fa24e6TMVWoannaZA)
+
+四、 脑子进煎鱼了
+
+1. [必知必会！计算机里一些基本又重要的概念](https://mp.weixin.qq.com/s/BNUMqP4xBTKTmZRhbS-iwg)
+
+五、 MoeLove
+
+1. [K8S 生态周报| Docker v20.10.0-beta1 发布](https://mp.weixin.qq.com/s/BBGyKzpGxidF7fNBEe1wbg)
+## GOCN每日新闻--2020-10-26
+
+1.Golang 单元测试详尽指引 https://mp.weixin.qq.com/s/eAptnygPQcQ5Ex8-6l0byA
+
+2.如何利用 go-zero 在 Go 中快速实现 JWT 认证 https://segmentfault.com/a/1190000037601379
+
+3.Go 发起 HTTP2.0 请求流程分析 (后篇)——标头压缩 https://segmentfault.com/a/1190000037601710
+
+4.熔断原理与实现 https://gocn.vip/topics/11151
+
+5.让容器应用管理更快更安全，Dragonfly 发布 Nydus 容器镜像加速服务 https://mp.weixin.qq.com/s/eu0hMvu4-mGMhmI3l7_bSQ
+
+
+## gopherDaily--2020-10-26
+1.揭秘隐藏的危险：找出不安全的Go代码 - https://arxiv.org/pdf/2010.11242.pdf
+
+2.播客：向你的团队介绍Go - https://changelog.com/gotime/151
+
+3.dagger: 一种快速，并发安全，可变的，基于内存的有向图实现 - https://github.com/autom8ter/dagger
+
+4.为什么说Context是Go中的“吸血鬼” - https://itnext.io/bela-lugosis-thread-c3e8d1a5090e
+
+5.我用Go编写代码时犯的5个错误 - https://alijosie.medium.com/5-mistakes-ive-made-in-go-75fb64b943b8
+
+
 ## go中文网每日资讯--2020-10-25 
 一、Go语言中文网
 
@@ -20,6 +68,7 @@
 三、网管叨bi叨
 
 1. [gRPC服务注册发现及负载均衡的实现方案与源码解析](https://mp.weixin.qq.com/s/2rz1wqqsn1CzN1lGM7nBYw)
+
 
 ## GOCN每日新闻--2020-10-25
 
