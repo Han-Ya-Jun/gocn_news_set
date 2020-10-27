@@ -5,6 +5,41 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-10-27
+一、Go语言中文网
+
+1. [使用 timeout、deadline 和 context 取消参数使 Go net/http 服务更灵活](https://mp.weixin.qq.com/s/bQQg6659HRNYdCFsi6yqjQ)
+
+2. [聊聊Google的工程实践（一）](https://mp.weixin.qq.com/s/L5RfJy-1HgQ1R0MDrdUyQQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-26)](https://studygolang.com/topics/12528)
+
+三、 轩脉刃的刀光剑影
+
+1. [一篇理解什么是CanSet, CanAddr？](https://mp.weixin.qq.com/s/e0AZ21i0hYejlI7U0CcMIA)
+
+四、  阿里技术 
+
+1. [如何做好一名稳定性SRE？](https://mp.weixin.qq.com/s/IB0p6hckb_2yRkQ-WNg8rw)
+
+五、 真没什么逻辑
+
+1. [为什么 NUMA 会影响程序的延迟](https://mp.weixin.qq.com/s/NdMAgdeRonDVr5h2vgOixg)
+
+## GOCN每日新闻--2020-10-27
+1.golang plugin 源码分析 https://mp.weixin.qq.com/s/pKOoQ5Y-AoYiHcq9ffAzhw
+
+2.一篇理解什么是 CanSet, CanAddr？ https://gocn.vip/topics/11155
+
+3.golang 哈夫曼编码压缩文件代码实现全流程 (超详细版) https://www.jianshu.com/p/bd7fa3ca2b1f
+
+4.GoFrame——数据校验之结构体校验 https://juejin.im/post/6887959120352116750
+
+5.Go 进阶 51:抱歉，您必须拥有一个终端来执行 sudo https://mojotv.cn/golang/golang-ssh-sudo-without-tty
+
+
 
 ## go中文网每日资讯--2020-10-26 
 
