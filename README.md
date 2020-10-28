@@ -5,6 +5,58 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-10-28
+
+一、Go语言中文网
+
+1. [Go 每日一库：提升开发效率的 collection](https://mp.weixin.qq.com/s/9R4sPzLmeuHSA7y6yMvOYg)
+
+2. [有意思！Go 源代码中的那些秘密：为什么 time.minWall 是 1885？](https://mp.weixin.qq.com/s/C12gSO4jkBU5RlpPACkppg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-27)](https://studygolang.com/topics/12533)
+
+三、 腾讯云原生
+
+1. [完爆！用边缘容器，竟能秒级实现团队七八人一周的工作量](https://mp.weixin.qq.com/s/FMO6V1pvG-Xyi9xfBttCQA)
+
+四、polarisxu
+
+1. [Go 监控的标配：实战 Prometheus](https://mp.weixin.qq.com/s/gXT3fWuj36EfIfFSXUuqpA)
+
+五、 架构师之路
+
+1. [TCP接入层的负载均衡、高可用、扩展性架构](https://mp.weixin.qq.com/s/pKR-Kf2lsqz3bW5M76mR7Q)
+ 
+## GOCN每日新闻--2020-10-28 
+
+1.当 TiDB 与 Flink 相结合：高效、易用的实时数仓 https://gocn.vip/topics/11159
+
+2.使用 timeout、deadline 和 context 取消参数使 Go net/http 服务更灵活  https://mp.weixin.qq.com/s/bQQg6659HRNYdCFsi6yqjQ
+
+3.程序抖动问题定位库 https://github.com/mosn/holmes
+
+4.通过 MapReduce 降低服务响应时间 https://juejin.im/post/6883358319524872205
+
+5.KCP-GO 源码解析 https://mp.weixin.qq.com/s/qMayO778mzAvhd2rnuNs5A
+
+## gopherDaily--2020-10-28
+
+1.人生苦短，我要换Go！- https://mp.weixin.qq.com/s/7rn2eVhPxEKg1rGKPpANyQ
+
+2.Go已超过10岁了，你觉得这门语言如何？- https://news.ycombinator.com/item?id=24887521
+
+3.无需cgo的纯Go oracle数据库driver - https://github.com/sijms/go-ora
+
+4.使用go-git库操作git仓库 - https://ish-ar.io/tutorial-go-git/ 
+
+5.基础排序算法的Go实现 - https://dev.to/adnanbabakan/sorting-algorithms-in-go-725
+
+6.硅谷的陷落 - https://www.robrhinehart.com/the-fall-of-silicon-valley/
+
+7.高性能go jwt实现 - https://github.com/kataras/jwt
+
 ## go中文网每日资讯--2020-10-27
 一、Go语言中文网
 
