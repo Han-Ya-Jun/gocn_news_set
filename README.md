@@ -5,6 +5,55 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go中文网每日资讯--2020-10-29
+
+一、Go语言中文网
+
+1. [Go语言几种常用的排序算法图文解析 ](https://mp.weixin.qq.com/s/xa-O_0Gnr-d8R63zuL5qkw)
+
+2. [分析字节跳动招聘 JD，对 Go 的要求就这？](https://mp.weixin.qq.com/s/aMk4cQtHhijzlz6rHdUuxw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-28)](https://studygolang.com/topics/12541)
+
+三、 云加社区
+
+1. [每一位程序员，都可以贡献开源吗？](https://mp.weixin.qq.com/s/SXXtacVrP8zHdFbEN8p4WA)
+
+四、k8s技术圈
+
+1. [Grafana Tempo 初体验](https://mp.weixin.qq.com/s/dGZMJYSDsKrHfsiu7SyRLw)
+
+## GOCN每日新闻--2020-10-29 
+
+1.知乎社区核心业务 Golang 化实践 https://mp.weixin.qq.com/s/K061RkO7szkYXs5eyEy8-g
+
+2.OpenKruise：解放 DaemonSet 运维之路 https://gocn.vip/topics/11165
+
+3.调试 Docker 容器内部进程分享 https://gocn.vip/topics/11160
+
+4.如何通过 Serverless 技术降低微服务应用资源成本 https://gocn.vip/topics/11161
+
+5.Go 每日一库：提升开发效率的 collection https://mp.weixin.qq.com/s/9R4sPzLmeuHSA7y6yMvOYg
+
+
+## gopherDaily--2020-10-28
+
+1.触碰Go单实例应用的“天花板” - https://tpaschalis.github.io/reaching-the-ceiling-of-single-instance-go/
+
+2.tempo: Grafana开源易用、高可扩展的分布式跟踪后端(Go实现) - https://grafana.com/blog/2020/10/27/announcing-grafana-tempo-a-massively-scalable-distributed-tracing-system/
+
+3.为OpenTelemetry Go SDK构建Prometheus remote write exporter - https://aws.amazon.com/cn/blogs/opensource/building-a-prometheus-remote-write-exporter-for-the-opentelemetry-go-sdk/
+
+4.油管视频：GoWest 2020大会全集 - https://www.youtube.com/playlist?list=PLYTHA7h-zVD1OI47lYQDv5Pm03zH30uRE
+
+5.Linux可执行文件中都有啥 - https://fasterthanli.me/series/making-our-own-executable-packer/part-1
+
+
+
+
 ## go中文网每日资讯--2020-10-28
 
 一、Go语言中文网
