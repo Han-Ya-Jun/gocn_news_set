@@ -6,6 +6,55 @@
 # gocn_news_set_2020
 
 
+## go中文网每日资讯--2020-10-30
+一、Go语言中文网
+
+1. [AI 和 数据科学领域，Go 语言可能很快会取代 Python。最后的原因有点迷](https://mp.weixin.qq.com/s/NfyQSqJ1LAPFk2mUH_44bQ)
+
+2. [【文末送书】揭秘 Go 实现的 Harbor 镜像仓库：首个中国的 CNCF 毕业项目](https://mp.weixin.qq.com/s/CIaeR-xQ_UeMwa0fgcs7qw)
+
+3. [限流中的漏桶和令牌桶算法理论剖析](https://mp.weixin.qq.com/s/crxPU9SBbCTKCUHxwg7zGw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-29)](https://studygolang.com/topics/12548)
+
+三、架构算法 
+
+1. [分布式一致性算法-Paxos、Raft、ZAB、Gossip](https://mp.weixin.qq.com/s/s5e-JDJcxOrawblbsCc7Rg)
+
+四、 polarisxu
+
+1. [这个调查显示 Go 竟然是 2020 年最受欢迎的编程语言](https://mp.weixin.qq.com/s/WcvMcDRqZiygwMaFEYjGmQ)
+
+五、 腾讯云原生
+
+1. [一篇读懂Kubernetes Scheduler扩展功能](https://mp.weixin.qq.com/s/e4VfnUpEOmVxx_zwXOMCPg)
+
+## GOCN每日新闻--2020-10-30
+1.Tempo：Grafana 开源的分布式追踪系统 https://grafana.com/blog/2020/10/27/announcing-grafana-tempo-a-massively-scalable-distributed-tracing-system/
+
+2.Go 测试 Mock 方案指南 https://laiyuanyuan-sg.medium.com/mock-solutions-for-golang-unit-test-a2b60bd3e157 
+3.Go 泛型方案解析 https://www.youtube.com/watch?v=F8Gl8-3ZW0E
+
+4.Thola：开源的网络设备监控工具 https://github.com/inexio/thola
+
+5.dowork：通用 Go 任务队列框架 https://git.sr.ht/~sircmpwn/dowork
+
+## gopherDaily--2020-10-30
+
+1.我的interface很大么？- https://developer20.com/is-my-interface-too-big/
+
+2.go:embed的全部实现已经提交到Go项目主线，大家可以下载tip版体验 - https://github.com/golang/go/commit/25d28ec55aded46e0be9c2298f24287d296a9e47
+
+3.使用go基于x.509证书实现服务到服务的认证 - https://regeda.me/posts/2020-10-29-service-to-service-authorization-in-go-using-x509-certificates/
+
+4.thola: 一款go实现的监控和设置网络设备的工具 - https://github.com/inexio/thola
+
+5.零宕机时间的k8s deployment - https://sbg.technology/2020/08/21/zero-downtime-kubernetes-deployments/
+
+6.使用uprobes和eBPF跟踪Go应用 - https://github.com/grantseltzer/weaver
+
 ## go中文网每日资讯--2020-10-29
 
 一、Go语言中文网
