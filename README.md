@@ -4,6 +4,59 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
+## go中文网每日资讯--2020-11-01 
+一、Go语言中文网
+
+1. [谷歌开源直播：谷歌的 Go 专家和你畅聊 2 小时](https://mp.weixin.qq.com/s/8RauTPMlXzMyDDyhKU9pHw)
+
+2. [Go语言爱好者周刊：第 67 期 — Go1.16 相关功能基本完成了](https://mp.weixin.qq.com/s/-QSP6dJ9XzVQaktAhufXlg)
+
+3. [golang plugin源码分析](https://mp.weixin.qq.com/s/8BHR2wQqzXmDEoJt8KHlvA)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-31)](https://studygolang.com/topics/12562)
+
+三、 谷歌开发者
+
+1. [技术不是全部，Google 内部培养创新文化的 5 点思考](https://mp.weixin.qq.com/s/1fxvtHsRQPKLiZ-j5RF8RQ)
+
+四、奇伢云存储
+
+1. [对象存储 ListObject 有啥值得思考的？](https://mp.weixin.qq.com/s/-kLgKaADgu5gI1GMQpQMSQ)
+
+五、架构之家
+
+1. [Uber 下一代支付平台的系统架构设计](https://mp.weixin.qq.com/s/oCFUg30Ynmo9IM00gcePrg)
+
+六、 DevOps教练
+
+1. [DevOps 核心能力：4.4 文化篇--如何进行转型](https://mp.weixin.qq.com/s/j7D7lyM1bDiy2h1VN1Cg-g)
+
+
+## GOCN每日新闻--2020-11-01 
+1.go-zero 如何应对海量定时/延迟任务 https://gocn.vip/topics/11071
+
+2.并发事件的优雅关闭 https://www.rodrigoaraujo.me/posts/golang-pattern-graceful-shutdown-of-concurrent-events/
+
+3.记一次由垃圾回收造成的诡异问题 https://gocn.vip/topics/11170
+
+4.为什么 Go 占用那么多的虚拟内存 https://gocn.vip/topics/11173
+
+5.知乎社区核心业务 Golang 化实践 https://mp.weixin.qq.com/s/10BBSbuk1mn3QC5AgI5sWA
+
+
+## gopherDaily--2020-11-01
+- 1.Go很无聊… 那太棒了！- https://medium.com/capital-one-tech/go-is-boring-and-thats-fantastic-d350ebdc4748
+- 2.浏览器中的Go IDE - https://github.com/johnstarich/go-wasm
+- 3.pkg.go.dev新页面设计预览 - https://beta.pkg.go.dev/net/http
+- 4.go-fuzz模糊测试入门 - https://adalogics.com/blog/getting-started-with-go-fuzz
+- 5.如何优雅结束并发事件 - https://www.rodrigoaraujo.me/posts/golang-pattern-graceful-shutdown-of-concurrent-events/
+- 6.机器学习模型驱动的提高输入效率的命令行工具，有现成的Go模型可用 - https://github.com/jankrepl/mltype
+- 7.分布式系统学习笔记 - https://timilearning.com/
+- 8.sync.Pool背后的想法 - https://medium.com/swlh/go-the-idea-behind-sync-pool-32da5089df72
 ## go中文网每日资讯--2020-10-31
 一、Go语言中文网
 
