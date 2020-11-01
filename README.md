@@ -4,7 +4,51 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go中文网每日资讯--2020-10-31
+一、Go语言中文网
 
+1. [知乎社区核心业务 Golang 化实践](https://mp.weixin.qq.com/s/10BBSbuk1mn3QC5AgI5sWA)
+
+2. [Kubernetes API 编程利器：Operator 和 Operator Framework](https://mp.weixin.qq.com/s/VNhVI_ecGdk-gToJienHNg)
+
+3. [你真的了解 sync.Once 吗](https://mp.weixin.qq.com/s/-oNl_z0GURjD5bv86V6nVQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-10-30)](https://studygolang.com/topics/12556)
+
+三、 Golang梦工厂
+
+1. [machinery中文文档( 值得收藏 )](https://mp.weixin.qq.com/s/lFhhytWbJE5g7R8KcA7Tfw)
+
+2. [machinery入门看这一篇（异步任务队列）](https://mp.weixin.qq.com/s/4QG69Qh1q7_i0lJdxKXWyg)
+
+四、 脑子进煎鱼了
+
+1. [为什么 Go 占用那么多的虚拟内存？](https://mp.weixin.qq.com/s/eVHK_ey8SgqEtl8v_Nurxg)
+
+五、 网管叨bi叨
+
+1. [ConfigMap用管理对象的方式管理配置](https://mp.weixin.qq.com/s/ZuvlS0_huvTdnA26VoKjkA)
+
+六、 Golang技术分享
+
+1. [一文读懂channel设计](https://mp.weixin.qq.com/s/hVPIi4VVyRrO8T5Zd3E11A)
+
+七、云原生技术爱好者社区
+
+1. [并非每个容器内部都能包含一个操作系统](https://mp.weixin.qq.com/s/ALTxkwAXBdKdQLMYJIMrLw)
+
+## GOCN每日新闻--2020-10-31
+1.使用 Go 进行 io_uring 的动手实践 https://segmentfault.com/a/1190000037674497
+
+2.Kubernetes 1.19：流量入口和路由的未来 https://www.cncf.io/blog/2020/10/29/kubernetes-1-19-the-future-of-traffic-ingress-and-routing/
+
+3.使用 WASM 实现 Go 在线编译 https://johnstarich.medium.com/how-to-compile-code-in-the-browser-with-webassembly-b59ffd452c2b
+
+4.pkg.go.dev 文档页面样式设计优化 https://beta.pkg.go.dev/net/http
+
+5.Go 实现浏览器审查工具驱动 https://github.com/go-rod/rod
 
 ## go中文网每日资讯--2020-10-30
 一、Go语言中文网
