@@ -4,8 +4,42 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go中文网每日资讯--2020-11-02
+一、Go语言中文网
 
+1. [图解：宏观角度看 Go 语言如何实现垃圾回收中的 Stop the World](https://mp.weixin.qq.com/s/rt4lxGwaYo8IkTdmo186Cg)
 
+2. [聊聊Google的工程实践（二）](https://mp.weixin.qq.com/s/13PJhWq03B7E57AvBLuiMw)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-01)](https://studygolang.com/topics/12564)
+
+三、 MoeLove
+
+1. [K8S 生态周报| Docker V2 GitHub Action 宣布 GA](https://mp.weixin.qq.com/s/8PQ0FQjByGZPhxWygc8NjA)
+
+四、 polarisxu
+
+1. [提前试用将在 Go1.16 中发布的内嵌静态资源功能](https://mp.weixin.qq.com/s/SiCTV7R2wA_I2nCQkC3GGQ)
+
+五、 Go 夜读
+
+1. [【本周四预告】第 106 期嵌入式 JavaScript 在 Go 中的应用](https://mp.weixin.qq.com/s/wUkZEOeKhAxy7WTEhJ8xig)
+
+六、亨利笔记
+
+1. [CNCF的中国云原生调查报告](https://mp.weixin.qq.com/s/NbDte-yd5X_lGQhkBN67Jw)
+## GOCN每日新闻--2020-11-02 
+1.dowork：通用任务队列系统 https://git.sr.ht/~sircmpwn/dowork
+
+2.Go 实现的 Scan,直接将数据库, sql 行扫描到结构等基本类型 https://github.com/blockloop/scan
+
+3.Go Oracle 客户端 https://github.com/sijms/go-ora
+
+4.Go 中的哈希表实现 https://medium.com/kalamsilicon/hash-tables-implementation-in-go-48c165c54553
+
+5.go 模块，可美化控制台输出 https://github.com/pterm/pterm
 ## go中文网每日资讯--2020-11-01 
 一、Go语言中文网
 
