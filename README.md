@@ -4,6 +4,57 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go中文网每日资讯--2020-11-03 
+
+一、Go语言中文网
+
+1. [Go1.16 的这个新功能很多人应该喜欢：本文带你提前掌握它](https://mp.weixin.qq.com/s/R33JTORMZ1jVg8GAowpf4g)
+
+2. [来自 HackerNew 的讨论：人生苦短，我要换Go！](https://mp.weixin.qq.com/s/fbkqesbvcTF_A3B54ZQgYg)
+
+3. [为什么 Go 占用那么多的虚拟内存？](https://mp.weixin.qq.com/s/L4CfzuAaBc_z5-uMn6MYwg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-02)](https://studygolang.com/topics/12567)
+
+三、 Golang梦工厂
+
+1. [消息队列和任务队列有什么区别？](https://mp.weixin.qq.com/s/42p8U8rUZpgAl8iWTQWBCg)
+
+四、 真没什么逻辑
+
+1. [新一代的键值存储 KVell · SOSP 2019](https://mp.weixin.qq.com/s/4yWUznVGsQIsIAKM-Q-okQ)
+
+五、kevinwan
+
+1. [go-zero 是如何追踪你的请求链路的](https://studygolang.com/articles/31415)
+
+## GOCN每日新闻--2020-11-03 
+1.go-zero 是如何追踪你的请求链路？ https://gocn.vip/topics/11185
+
+2.Go 语言反射（reflect）及应用 https://www.cnblogs.com/l1ng14/p/13921985.html
+
+3.Dubbo-go 源码笔记（一）Server 端开启服务过程 https://gocn.vip/topics/11187
+
+4.Go 的自定义静态分析 https://rauljordan.com/2020/11/01/custom-static-analysis-in-go-part-1.html
+
+5.Go mocking 技巧 https://dmv.myhatchpad.com/insight/mocking-techniques-for-go/
+
+## gopherDaily--2020-11-03
+
+1. 使用Go进行io_uring的动手实践 - https://segmentfault.com/a/1190000037674497
+
+2. Go语言有哪些优点？我们将探讨导致Go编程语言日益流行的特征  - https://stackoverflow.blog/2020/11/02/go-golang-learn-fast-programming-languages/
+
+3. 使用go自定义代码静态分析工具 - https://rauljordan.com/2020/11/01/custom-static-analysis-in-go-part-1.html
+
+4. Go map实现原理 - https://medium.com/kalamsilicon/hash-tables-implementation-in-go-48c165c54553
+
+5. pterm：命令行输出美化库 - https://github.com/pterm/pterm
+
+6. gosivy：实时图形化展示Go进程度量数据 - https://github.com/nakabonne/gosivy
+
 ## go中文网每日资讯--2020-11-02
 一、Go语言中文网
 
