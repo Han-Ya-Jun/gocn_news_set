@@ -5,6 +5,65 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go中文网每日资讯--2020-11-05
+一、Go语言中文网
+
+1. [那些迷人的 Go 命令行工具](https://mp.weixin.qq.com/s/W1cm2VJH2ai4XDgkY983IQ)
+
+2. [Go 切片传递的隐藏危机](https://mp.weixin.qq.com/s/VVB1-7DcaYmbcppK7gDx_A)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-04)](https://studygolang.com/topics/12576)
+
+三、 分布式实验室
+
+1. [秒杀架构模型设计](https://mp.weixin.qq.com/s/-nCMiP3t3hqtpB6X4mhCww)
+
+四、No Headback
+
+1. [无人值守的自动 dump(二)](https://xargin.com/autodumper-for-go-ii/)
+
+五、 Golang技术分享
+
+1. [切片传递的隐藏危机](https://mp.weixin.qq.com/s/lChTRLsyWrhcIK-8qjSp3A)
+
+六、 阿里巴巴中间件
+
+1. [微服务框架Go-Micro集成Nacos实战之服务注册与发现](https://mp.weixin.qq.com/s/BhoHBZJn-M5RWBumnhECeA)
+
+
+## GOCN每日新闻--2020-11-05 
+
+1.使用 jemalloc 在 Go 中手动管理内存 https://dgraph.io/blog/post/manual-memory-management-golang-jemalloc/
+
+2.如何使用插件构建 Go 程序 https://medium.com/swlh/how-to-build-extensible-go-applications-with-plugins-97ad657f9a62
+
+3.像专家一样分析你的 Go 代码 https://medium.com/swlh/go-profile-your-code-like-a-master-1505be38fdba
+
+4.Go Mocking 技术栈
+
+5.使用 NATS 作为实时计算系统的消息传递技术 https://medium.com/cogito-engineering/using-nats-as-a-messaging-technology-for-real-time-compute-systems-b3b90594e81e
+
+
+
+## gopherDaily--2020-11-05
+
+1. 系统学习Go语言，有这几本书就够了！ - https://mp.weixin.qq.com/s/2rsBJbz55nDEDax6vqKE5w
+
+2. Go学习知识地图2020 - https://github.com/sangam14/GopherLabs
+
+3. 使用Go, Angular, React或Vue快速开发现代web项目 - https://github.com/Shpota/goxygen
+
+4. Go实现的有限状态机 - https://medium.com/wesionary-team/finite-state-machines-with-go-lang-ccd20e329a7b
+
+5. 生产中容器镜像扫描的12个最佳实践 - https://sysdig.com/blog/image-scanning-best-practices/
+
+6. kubei: k8s集群中镜像的即时漏洞扫码工具 - https://github.com/Portshift/Kubei
+
+
+
 ## go中文网每日资讯--2020-11-04 
 
 一、Go语言中文网
