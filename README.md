@@ -42,7 +42,7 @@
 
 3.像专家一样分析你的 Go 代码 https://medium.com/swlh/go-profile-your-code-like-a-master-1505be38fdba
 
-4.Go Mocking 技术栈
+4.Go Mocking 技术栈 https://youtu.be/LEnXBueFBzk
 
 5.使用 NATS 作为实时计算系统的消息传递技术 https://medium.com/cogito-engineering/using-nats-as-a-messaging-technology-for-real-time-compute-systems-b3b90594e81e
 
