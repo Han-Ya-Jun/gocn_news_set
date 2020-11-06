@@ -4,6 +4,60 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go中文网每日资讯--2020-11-06
+
+一、Go语言中文网
+
+1. [Go 是如何确保内存安全的？](https://mp.weixin.qq.com/s/tLqaplgZZU0R_XgwMDzKSg)
+
+2. [如何调试 Go mod 的各种异常](https://mp.weixin.qq.com/s/eC1l1BKtQDSd1Z3uR5Q8-w)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-05)](https://studygolang.com/topics/12581)
+
+三、 Golang技术分享
+
+1. [一个Golang版丝滑的可视化库](https://mp.weixin.qq.com/s/A5bYW-eXA9LvyFxSy1YSlQ)
+
+四、 脑子进煎鱼了
+
+1. [应用编译，计算机中一定要掌握的知识细节](https://mp.weixin.qq.com/s/YKZ3MJuGVgWJG69WATRPPQ)
+
+五、 polarisxu
+
+1. [I Have a Dream：写在 Go1.15.4 发布之计](https://mp.weixin.qq.com/s/KwsyQ65C6rEM2EHVJoSz8Q)
+
+六、 高可用架构
+
+1. [报警的哲学](https://mp.weixin.qq.com/s/8l0olSfk6Faea0ivCTV8TQ)
+## GOCN每日新闻--2020-11-06
+
+1.在 Go 中编写支持并发的 Each, Map、Select 方法 https://dev.to/ltvengineering/writing-concurrent-each-map-select-methods-in-go-4l97
+
+2.使用 DDD、CQRS 和 Clean Architecture 来重构 Go 项目 https://threedots.tech/post/ddd-cqrs-clean-architecture-combined
+
+3.提前试用将在 Go1.16 中发布的内嵌静态资源功能 https://mp.weixin.qq.com/s/SiCTV7R2wA_I2nCQkC3GGQ
+
+4.Prometheus TSDB（第 4 讲）：持久块和索引 https://ganeshvernekar.com/blog/prometheus-tsdb-persistent-block-and-its-index
+
+5.Go 进程指标的另一个可视化工具 https://github.com/nakabonne/gosivy
+
+
+## gopherDaily--2020-11-06
+
+1. 使用jemalloc实现Go手工内存管理 - https://dgraph.io/blog/post/manual-memory-management-golang-jemalloc/
+
+2. 结合DDD, CQRS和Clean Architecture重构Go项目 - https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/
+
+3. BPF perf工具的未来 - http://www.brendangregg.com/blog/2020-11-04/bpf-co-re-btf-libbpf.html
+
+4. 播客：Go语言是如何帮助拯救美国医保网站的 - https://changelog.com/gotime/154
+
+5. OpenShift Service Mesh 2.0介绍 - https://www.openshift.com/blog/introducing-openshift-service-mesh-2.0
+
+
+
 
 
 ## go中文网每日资讯--2020-11-05
