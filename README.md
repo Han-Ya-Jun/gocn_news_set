@@ -4,6 +4,48 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go中文网每日资讯--2020-11-07
+一、Go语言中文网
+
+1. [Go1.15.4 发布了，我想和你一起做一件事](https://mp.weixin.qq.com/s/uhPyVibZGVsQmWr_PRb60g)
+
+2. [从零开始入门 K8s | Kubernetes 网络模型进阶](https://mp.weixin.qq.com/s/ADgNfiDjnDaZKy_xA5pV3w)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-06)](https://studygolang.com/topics/12592)
+
+三、 唯识相链
+
+1. [go垃圾回收[2]—标记准备](https://mp.weixin.qq.com/s/fBOcoS0Y3J5E1VI3bLlh8A)
+
+四、 InfoQ
+
+1. [gRPC 长连接在微服务业务系统中的实践](https://mp.weixin.qq.com/s/LKGzc6XBAWYdskVQQJFLHw)
+## GOCN每日新闻--2020-11-07 
+1.服务自适应熔断原理与实现 https://juejin.im/post/6891836358155829262
+
+2.你知道如何实现一个高效的文件队列吗 https://juejin.im/post/6891956690057920525
+
+3.通过 MapReduce 降低服务响应时间 https://juejin.im/post/6890888149842477069
+
+4.并发组件 | Go 设计模式实战 https://juejin.im/post/6891497143798857735
+
+5.连续文件同步 https://github.com/syncthing/syncthing
+
+
+## gopherDaily--2020-11-07
+
+1.Rust和Go再比拼 - https://bitfieldconsulting.com/golang/rust-vs-go
+
+2.Go 1.15.4和Go 1.14.11发布 - https://golang.google.cn/dl
+
+3.Go实现数据库迁移 - https://www.calhoun.io/database-migrations-in-go/
+
+4.低级编程资料大全 - https://github.com/gurugio/lowlevelprogramming-university/
+
+5.分布式跟踪工具OpenTelemetry的Go入门 - https://opentelemetry.lightstep.com/go/setup-and-installation
+
 ## go中文网每日资讯--2020-11-06
 
 一、Go语言中文网
