@@ -5,6 +5,56 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-11-09 
+一、Go语言中文网
+
+1. [Go之旅：Goroutine 的开启和退出](https://mp.weixin.qq.com/s/i703SEiZVolaV4e0DhfYPw)
+
+2. [Go设计模式实战：并发组件](https://mp.weixin.qq.com/s/mgrn2TL8SPnHuMzXkk6qeA)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-08)](https://studygolang.com/topics/12602)
+
+三、Go Official Blog
+
+1. [Why is there no goroutine ID?](https://mp.weixin.qq.com/s/awDwVAOA2voTYzY_V8_iaQ)
+
+四、  polarisxu
+
+1. [Micro 不能用了？关于 Go 语言微服务框架 Micro 的一些情况说明](https://mp.weixin.qq.com/s/Q2JHFcIArFP60tJIdL5bVg)
+
+五、 云原生技术爱好者社区
+
+1. [k8s pod被驱逐问题分析及解决](https://mp.weixin.qq.com/s/Mq8tpCMZ1ld6s1ZvfIRv5w)
+
+六、 MoeLove
+
+1. [K8S 生态周报| Helm v3.4 发布](https://mp.weixin.qq.com/s/E5y0W7_mIY6JpGJr2Cw4xA)
+
+## GOCN每日新闻--2020-11-09 
+
+1.Go 发起 HTTP2.0 请求流程分析 (前篇)https://gocn.vip/topics/11216
+
+2.微服务框架 Go-Micro 集成 Nacos 实战之服务注册与发现 https://gocn.vip/topics/11214
+
+3.Dubbo-go 源码笔记（二）客户端调用过程 https://mp.weixin.qq.com/s/eb2aHvILemPPm3QSc5nqlw
+
+4.重磅解读：K8s Cluster Autoscaler 模块及对应华为云插件 Deep Dive https://juejin.im/post/6893018167468097549
+
+5.通过重构 Go 项目，将 DDD、CQRS 和清洁体系结构相结合 https://threedots.tech/post/ddd-cqrs-clean-architecture-combined/
+
+
+## gopherDaily--2020-11-09
+1.GopherCon 2020 Go核心团队“Ask Me Any question”活动，可向团队提出有关Go的任何问题 - https://docs.google.com/forms/d/e/1FAIpQLSc86dNXfOWhUVKNsOjoDeETGZ006Nv6rkNfv-sxf2Z2e94fag/viewform
+
+2.从头开始用Go实现容器-第一部分 - https://medium.com/swlh/build-containers-from-scratch-in-go-part-1-namespaces-c07d2291038b
+
+3.使用Go进行轻松的持续基准测试 - https://dev.to/jfrog/de-v-lightful-continuous-benchmarks-with-go-43oo
+
+4.请停止使用RSA密码 - https://blog.trailofbits.com/2019/07/08/fuck-rsa/
+
+5.LadonGo: 一款go开发的开源渗透扫描器框架 - https://github.com/k8gege/LadonGo
 
 ## go中文网每日资讯--2020-11-08
 一、Go语言中文网
