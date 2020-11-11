@@ -4,6 +4,53 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## go中文网每日资讯--2020-11-11
+一、Go语言中文网
+
+1. [也许是最客观、全面的比较 Rust 与 Go：都想把 Rust 也学一下](https://mp.weixin.qq.com/s/CcX1ef1ZWnEgSVMpQDsVVQ)
+
+2. [分析字节跳动高级 Go 工程师的要求，知晓自己的努力方向](https://mp.weixin.qq.com/s/I99vnfM7pd3xo2--3UDJGA)
+
+3. [祝贺 Go 开源 11 周年](https://mp.weixin.qq.com/s/Pf4XCwNPDJ04D1sl3S6KxA)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-10)](https://studygolang.com/topics/12621)
+
+三、 Go 夜读
+
+1. [GopherCon2020 打包合集下载](https://mp.weixin.qq.com/s/quNUzNE7fZLyd_yH6QNwdA)
+
+四、 腾讯大讲堂
+
+1. [腾讯看点视频推荐索引构建方案](https://mp.weixin.qq.com/s/wuq59x9bIMmd6GoJHxKPrA)
+
+五、TonyBai
+
+1. [通过实例深入理解sync.Map的工作原理](https://tonybai.com/2020/11/10/understand-sync-map-inside-through-examples/)
+## gopherDaily--2020-11-11
+- 1.Go，11周年！- https://tonybai.com/2020/11/11/go-opensource-11-years
+- 2.pkg.go.dev改版上线 - https://blog.golang.org/pkgsite-redesign
+- 3.Go版本AWS Lambda functions介绍 - https://tpaschalis.github.io/golang-aws-lambda-getting-started/
+- 4.wombat: 跨平台grpc客户端 - https://github.com/rogchap/wombat
+- 5.java微服务可以和Go一样快吗？- https://medium.com/helidon/can-java-microservices-be-as-fast-as-go-5ceb9a45d673
+
+
+## GOCN每日新闻--2020-11-11
+1.Go 11 周年 https://tonybai.com/2020/11/11/go-opensource-11-years/
+
+2.通过实例深入理解 sync.Map 的工作原理 https://tonybai.com/2020/11/10/understand-sync-map-inside-through-examples/
+
+3.golang chan 最详细原理剖析，全面源码分析！看完不可能不懂的！ https://mp.weixin.qq.com/s/FUf0TWnLteRZlyv9njZ3dw
+
+4.Golang 语言标准库 sync 包的 WaitGroup 怎么使用？ https://mp.weixin.qq.com/s/6A9Lx99qkVx_sX_gIQxLYw
+
+5.Go—临时对象池 sync.Pool https://juejin.im/post/6893714087243431949
+
+
+
+
 ## go中文网每日资讯--2020-11-10 
 一、Go语言中文网
 
