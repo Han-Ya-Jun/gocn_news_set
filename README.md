@@ -4,6 +4,49 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go中文网每日资讯--2020-11-10 
+一、Go语言中文网
+
+1. [GopherCon 2020 会议进行中：邀请你向 Go 团队提出有关 Go 的任何问题](https://mp.weixin.qq.com/s/Vx1-drjRWLBarnkBfC7bhw)
+
+2. [golang chan 最详细原理剖析，全面源码分析！看完不可能不懂的！](https://mp.weixin.qq.com/s/_mOOGOEhc8w7sbMaFuZV5w)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-09)](https://studygolang.com/topics/12613 "Go技术日报(2020-11-09)")
+
+三、 真没什么逻辑
+
+1. [为什么 HugePages 可以提升数据库性能](https://mp.weixin.qq.com/s/xwfAQ50iuHyCP13L4p6ChA)
+
+四、  奇伢云存储
+
+1. [golang chan 最详细原理剖析，全面源码分析！看完不可能不懂的！](https://mp.weixin.qq.com/s/FUf0TWnLteRZlyv9njZ3dw)
+
+五、 五分选手
+
+1. [LeetCode Weekly Contest 214 解题报告](https://mp.weixin.qq.com/s/X9NyhuJ9F3SQXHP0jMOJtw)
+
+六、 字节跳动技术团队
+
+1. [一例 Go 编译器代码优化 bug 定位和修复解析](https://mp.weixin.qq.com/s/Tyl6dSb7mHBuqqN6WvEuaw)
+
+七、 polarisxu
+
+1. [祝贺 Go 开源 11 周年](https://mp.weixin.qq.com/s/PZW8EUIsL8PN4o4QP8sTUw)
+ 
+
+## GOCN每日新闻--2020-11-10 
+
+1.[一例 Go 编译器代码优化 bug 定位和修复解析 ](https://mp.weixin.qq.com/s/Tyl6dSb7mHBuqqN6WvEuaw)
+
+2.[Golang 之 HTTP 服务『假死』问题排查 ](https://segmentfault.com/a/1190000037785685 "Golang 之 HTTP 服务『假死』问题排查 ")
+
+3.[有意思！Go 源代码中的那些秘密：为什么 time.minWall 是 1885？ ](https://mp.weixin.qq.com/s/C12gSO4jkBU5RlpPACkppg) 
+
+4.[Dubbo-go 源码笔记（二）客户端调用过程](https://segmentfault.com/a/1190000037788030 "Dubbo-go 源码笔记（二）客户端调用过程")
+
+5.[【golang】slice 源码分析](https://segmentfault.com/a/1190000037781000 "【golang】slice 源码分析")
 
 ## go中文网每日资讯--2020-11-09 
 一、Go语言中文网
