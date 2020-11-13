@@ -5,6 +5,44 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go中文网每日资讯--2020-11-12
+一、Go语言中文网
+
+1. [图解 Golang 实现 RSA 加密和签名（有示例）](https://mp.weixin.qq.com/s/fucLz41Q-IHd_xy8c5o2fg)
+
+2. [Go 内存页管理 与 radix tree](https://mp.weixin.qq.com/s/bzD51TSb9yh_dzCoGuh0Ww)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-11)](https://studygolang.com/topics/12625)
+
+三、 Go 招聘
+
+1. [字节跳动面试真的也会问这样的问题？！](https://mp.weixin.qq.com/s/gUOZJiC5fTs3eMa2FESETg)
+
+四、 k8s技术圈
+
+1. [几张图解释明白大家都在说的 Istio](https://mp.weixin.qq.com/s/CALHF1UBpiKtNNS-NFHVnA)
+
+五、 网管叨bi叨 
+
+1. [三种传递gRPC动态参数方式的使用体验](https://mp.weixin.qq.com/s/TR-keSUcspTvM0d165v8cw)
+
+## GOCN每日新闻--2020-11-12 
+1.Go，11 岁了！ https://mp.weixin.qq.com/s/dAuDmAWTOo_aXbqO5aKCLw
+
+2.Dubbo-go 源码笔记（二）客户端调用过程 https://segmentfault.com/a/1190000038141826
+
+3.一个 Golang 版丝滑的可视化库 https://mp.weixin.qq.com/s/A5bYW-eXA9LvyFxSy1YSlQ
+
+4.泛型和元编程的模型：Java, Go, Rust, Swift, D 等 https://mp.weixin.qq.com/s/hX4NXK-jPCcNvhLUoTaKGw
+
+5.利用 GOLANG 进行游戏开发和运营 https://technology.riotgames.com/news/leveraging-golang-game-development-and-operations
+
+
+
+
 ## go中文网每日资讯--2020-11-11
 一、Go语言中文网
 
