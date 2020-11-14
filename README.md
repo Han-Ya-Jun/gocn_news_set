@@ -4,7 +4,47 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go中文网每日资讯--2020-11-13 
+一、Go语言中文网
 
+1. [Go 中使用别名，简单且高效](https://mp.weixin.qq.com/s/auYq7XGFtYS4_uslfgu61Q)
+
+2. [理解 Go 内存管理之内存分配](https://mp.weixin.qq.com/s/zoTStZ_xIjbM673PWFFq9g)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-12)](https://studygolang.com/topics/12629)
+
+三、 polarisxu
+
+1. [说好的 Go1.17 支持泛型又推迟了：给你 GopherCon2020 全套 PPT 安慰下](https://mp.weixin.qq.com/s/utgObH5DvEJx66oCqZAYsg)
+
+四、 脑子进煎鱼了
+
+1. [Go 语言今年 11 岁，何去何从，现状到底如何？](https://mp.weixin.qq.com/s/Y_kvPKypiAlWuMrFPdHsOg)
+
+五、鸟窝
+
+1. [分析Go程序的Off-CPU性能](https://colobu.com/2020/11/12/analyze-On-CPU-in-go/)
+
+## gopherDaily--2020-11-13 
+- 1.GopherCon 2020技术演讲slide先睹为快 - 链接: https://pan.baidu.com/s/1QsiZDUqzNug_NXrJa7BD2w  密码: mn9a
+- 2.在Riot公司如何使用go进行游戏开发与运维 - https://technology.riotgames.com/news/leveraging-golang-game-development-and-operations
+- 3.使用ION-SFU和媒体设备在Go中构建WebRTC视频和音频广播器
+- 4.teler: 实施http入侵检测 - https://github.com/kitabisa/teler
+- 5.earlybird: 源码中敏感数据的检测工具 - https://github.com/americanexpress/earlybird
+- 6.油管视频：使用go-fuzz和libfuzzer对Go包进行随机测试 - https://www.youtube.com/watch?v=EsSebOAD5yw
+
+## GOCN每日新闻--2020-11-13 
+1.多网卡模式下 Golang 应用的流量从指定网卡流入流出方案 https://juejin.im/post/6893311691849728008
+
+2.Nginx proxy_pass 配置域名引发的故障 https://mp.weixin.qq.com/s/IuXWgr-KBbPphrvMXY2lkA
+
+3.Kubernetes 网络模型来龙去脉一个 Golang 版丝滑的可视化库 https://mp.weixin.qq.com/s/NJF8BLPrT2N92zfz5mRPhw
+
+4.保持 Modules 的兼容性 https://mp.weixin.qq.com/s/Q6hO_tc7RCOWABRwK9hrrA
+
+5.深入理解 Go 语言 (07)：内存分配原理 https://juejin.im/post/6893866059326029837
 
 ## go中文网每日资讯--2020-11-12
 一、Go语言中文网
