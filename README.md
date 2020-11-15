@@ -4,6 +4,33 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+## go中文网每日资讯--2020-11-14 
+一、Go语言中文网
+
+1. [看似一道简单的 Go 题，考点不少：一道字节跳动面试题解析](https://mp.weixin.qq.com/s/gQcCzrP8Pvr9WKONOl0ZHQ)
+
+2. [不只是 PHP，首届好未来开源技术大会报名启动](https://mp.weixin.qq.com/s/KZQFIN2E-d-TsXxZ14BkcA)
+
+3. [从零开始入门 K8s | 理解 CNI 和 CNI 插件](https://mp.weixin.qq.com/s/Cfx4RW7QxO-y8jMxO5u1jA)
+
+4. [Raft 作者出的 Paxos 的试题，看看你能得多少分？](https://mp.weixin.qq.com/s/xTS_F723xg5Q-2rdkw5ZbQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-13)](https://studygolang.com/topics/12636)
+
+三、 polarisxu
+
+1. [GitHub 出的这个功能，让开源项目有了自己的社区](https://mp.weixin.qq.com/s/QZENFFl3mqDuJJ3YhoOY5w)
+
+四、 脑子进煎鱼了
+
+1. [重磅：Go errors 将不会有任何进一步的改进计划](https://mp.weixin.qq.com/s/ixBMcAgqW51I0r_hkw5l5A)
+
+五、 学而思网校技术团队
+
+1. [黑夜路人：如何构建更健壮的在线系统](https://mp.weixin.qq.com/s/PPNxZur26cayxqu4iI_n7Q)
 ## go中文网每日资讯--2020-11-13 
 一、Go语言中文网
 
