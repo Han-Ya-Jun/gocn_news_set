@@ -5,6 +5,39 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-11-15
+一、Go语言中文网
+
+1. [没有 Go2，难道会 Go1.3864 这样下去？泛型预计 Go1.8 加上](https://mp.weixin.qq.com/s/Cjn9DS_wdcOB2UqgpsD8Pg)
+
+2. [Go语言爱好者周刊：第 69 期 — GopherCon 和 GopherCon Tw](https://mp.weixin.qq.com/s/LvW0WDdbJxsTXc1Vsas_uQ)
+
+3. [Go 1.15.5 和 Go 1.14.12 发布](https://mp.weixin.qq.com/s/6Z_TRWxs-PNa3t351z2Sdw)
+
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-14)](https://studygolang.com/topics/12641)
+
+三、 高可用架构
+
+1. [江南白衣的2020架构师书单（上）](https://mp.weixin.qq.com/s/7ehggbjtIvEk002CUlNuBw)
+
+四、 腾讯云视频云 
+
+1. [实时音视频助力在线教育风口](https://mp.weixin.qq.com/s/OpeAALCOMv409b7MKNSLBg)
+
+
+## GOCN每日新闻--2020-11-15
+1.play-with-go.dev 基于浏览器的交互式 Go 学习平台 https://play-with-go.dev/
+
+2.理解 Go 语言的 nil https://mp.weixin.qq.com/s/CH7nNfPngky7i6jyDEZ2ZA
+
+3.Go 好与不好的实践 https://pmihaylov.com/good-and-bad-practices/
+
+4.Go 结构体内存占用分析 https://medium.com/orijtech-developers/efficient-struct-packing-guided-pass-for-go-92255872ec72
+
+5.代码中敏感数据检测工具 https://github.com/americanexpress/earlybird
 ## go中文网每日资讯--2020-11-14 
 一、Go语言中文网
 
@@ -31,6 +64,18 @@
 五、 学而思网校技术团队
 
 1. [黑夜路人：如何构建更健壮的在线系统](https://mp.weixin.qq.com/s/PPNxZur26cayxqu4iI_n7Q)
+
+## GOCN每日新闻--2020-11-14
+1.Go 1.15.5/1.14.12 发布，紧急修复安全漏洞 https://github.com/golang/go/issues/42562
+
+2.Golang 的逃逸分析 https://mp.weixin.qq.com/s/Qvm3ARplkZQSNERtm3TXHA
+
+3.wombat：跨平台 gPRC 客户端 https://github.com/rogchap/wombat
+
+4.Modlishka：基于 Go 实现的反向代理 https://github.com/drk1wi/Modlishka
+
+5.Go 中反复出现的安全问题 https://medium.com/tempus-ex/gos-recurring-security-problem-2b5339f19216
+
 ## go中文网每日资讯--2020-11-13 
 一、Go语言中文网
 
