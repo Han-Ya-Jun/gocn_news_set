@@ -5,6 +5,47 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go中文网每日资讯--2020-11-16 
+一、Go语言中文网
+
+1. [一起看看 Go1.14 的抢占调度](https://mp.weixin.qq.com/s/4_p45bHFn46T1nbWtPPz_Q)
+
+2. [激荡60年——垃圾回收与Go的选择](https://mp.weixin.qq.com/s/CnCkWSOC-3eZULlDvCDpRA)
+
+3. [Raft 作者亲自出的 Raft 试题，你能做对几道？](https://mp.weixin.qq.com/s/ucylVlHgdxKIPeWhUaMRhg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-15)](https://studygolang.com/topics/12642)
+
+三、 潘建锋
+
+1. [Linux I/O 原理和 Zero-copy 技术全面揭秘](https://mp.weixin.qq.com/s/7O0M-o4MK26ejwcRiL7F0g)
+
+四、 码农桃花源
+
+1. [喜提 redir contributor](https://mp.weixin.qq.com/s/Yln7xoj13PlPqH44H2zOLQ)
+
+五、 奇伢云存储
+
+1. [Go 最细节篇 — chan 为啥没有判断 close 的接口 ?](https://mp.weixin.qq.com/s/Ev5y_eLHH1CPfxGtgdBO4w)
+
+六、 Golang梦工厂
+
+1. [(Mysql)对数据库设计时设计标识字段引用的一些思考](https://mp.weixin.qq.com/s/maCxGhOUCGJjhZlzDC7pHg)
+
+## GOCN每日新闻--2020-11-16
+1.实时 Golang 运行时统计数据可视化分析器 https://github.com/go-echarts/statsview
+
+2.图解：宏观角度看 Go 语言如何实现垃圾回收中的 Stop the World https://mp.weixin.qq.com/s/rt4lxGwaYo8IkTdmo186Cg
+
+3.Docker 底层原理浅析 https://mp.weixin.qq.com/s/0jFHlWAeH5avIO2NLpTmGA
+
+4.处理一次 k8s、calico 无法分配 podIP 的心路历程 https://mp.weixin.qq.com/s/eMvaAMeecC3-6nJNCLY69A
+
+5.Linux I/O 原理和 Zero-copy 技术全面揭秘 https://mp.weixin.qq.com/s/7O0M-o4MK26ejwcRiL7F0g
+
 ## go中文网每日资讯--2020-11-15
 一、Go语言中文网
 
