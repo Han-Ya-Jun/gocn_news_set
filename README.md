@@ -6,6 +6,57 @@
 # gocn_news_set_2020
 
 
+## go中文网每日资讯--2020-11-17
+一、Go语言中文网
+
+1. [金山云的 Go 招聘，2 年经验 20k-40k，你觉得这要求高吗？](https://mp.weixin.qq.com/s/Vy9UPt6bGsbRoSoS8QTjcg)
+
+2. [Go 最细节篇 — chan 为啥没有判断 close 的接口 ?](https://mp.weixin.qq.com/s/LJusfTvTgO4wC3uySl4Bhg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-16)](https://studygolang.com/topics/12649)
+
+三、polarisxu
+
+1. [通过这个 Runtime 统计信息可视化库学到了什么？](https://mp.weixin.qq.com/s/sRxKJa-zKo-Lb7KRKLhthA)
+
+四、 真没什么逻辑
+
+1. [为什么 Linux 需要 Swapping](https://mp.weixin.qq.com/s/sf9G13Lp0LNm_CvFzDYGaA)
+
+五、奇伢云存储
+
+1. [Go 最细节篇 — chan 为啥没有判断 close 的接口 ?](https://mp.weixin.qq.com/s/Ev5y_eLHH1CPfxGtgdBO4w)
+
+六、 MoeLove
+
+1. [K8S 生态周报| Cilium v1.9.0 带来更好的性能](https://mp.weixin.qq.com/s/aHYLPKF7MSZu-55ZwCZnRQ)
+
+## GOCN每日新闻--2020-11-17 
+1.Fiber vs Echo https://dev.to/andreidascalu/fiber-vs-echo-a-developer-point-4lo3
+
+2.使用 Golang 中的标准 SQL 包连接到 Postgres https://dev.to/bitsmonkey/connecting-to-postgres-with-standard-sql-package-in-golang-hmh
+
+3.将项目从 panic 转变到错误 https://www.dolthub.com/blog/2020-11-16-panics-to-errors/
+
+4.Conds 的优点 https://lukechampine.com/cond.html
+
+5.Go 单元测试的简单模拟模式 https://www.dudley.codes/posts/2020.11.16-golang-mocking-pattern/
+
+## gopherDaily--2020-11-17
+1.你应该提交vendor目录吗 - https://qvault.io/2020/11/16/should-you-commit-the-vendor-folder-in-go/
+
+2.sync.Cond的优点 - https://lukechampine.com/cond.html
+
+3.Go单元测试的一个简单的mock模式 - https://www.dudley.codes/posts/2020.11.16-golang-mocking-pattern/
+
+4.处理大文件的挑战-Java vs. Go - https://boyter.org/posts/file-read-challange
+
+5.mirbft: Go实现的Mir拜占庭式容错共识协议库 - https://github.com/IBM/mirbft
+
+6.github向开发着妥协，恢复youtube-dl项目 - https://github.blog/2020-11-16-standing-up-for-developers-youtube-dl-is-back/
+
 ## go中文网每日资讯--2020-11-16 
 一、Go语言中文网
 
