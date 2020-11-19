@@ -5,6 +5,50 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-11-18
+一、Go语言中文网
+
+1. [Web 版百度网盘很难开发吗？看看这个开源项目](https://mp.weixin.qq.com/s/I6NmpMY1SCDH62DDR9je6A)
+
+2. [Go 垃圾回收之标记准备](https://mp.weixin.qq.com/s/RH54RTNpwn8Ugp7Bo547GA)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-17)](https://studygolang.com/topics/12653)
+
+三、polarisxu
+
+1. [聊聊 Go 和创业](https://mp.weixin.qq.com/s/tGrq-vdCrn6KU-3mgxbDpA)
+
+四、 Golang技术分享
+
+1. [含有CGO代码的项目如何实现跨平台编译](https://mp.weixin.qq.com/s/PTw12xPd_-fJV3MOP67u8w)
+
+五、 腾讯效能
+
+1. [看点信息流Go后台单元测试有效性提升](https://mp.weixin.qq.com/s/aSPZfcKl57yiCpiL8D6Tdg)
+
+六、 网管叨bi叨
+
+1. [Golang程序性能分析（一）pprof和go-torch](https://mp.weixin.qq.com/s/Ceu4zZ5tY2fNWizffoy0Ow)
+
+七、 Go101
+
+1. [切片扩容策略在Go标准编译器1.16中有所变化](https://mp.weixin.qq.com/s/JAWKZeDSNYJlVc6GPNKqlg)
+
+
+## GOCN每日新闻--2020-11-18 
+
+1.你真的懂 Go Reslice 吗 https://mp.weixin.qq.com/s/H3UzcKX2-Q4ywD_RJvMmEA
+
+2.通过 kubebuilder 开发一个 k8s controller https://dev.to/ishankhare07/writing-a-simple-kubernetes-controller-in-go-with-kubebuilder-ib8
+
+3.[新手向] 没有 docker,如何在 linux 裸机上部署 go web 应用 https://dev.to/koddr/how-to-deploy-golang-application-on-any-gnu-linux-system-but-without-docker-59m1
+
+4.C++ 调用 Go 方法的字符串传递问题及解决方案 https://www.cnblogs.com/huaweiyun/p/13998446.html
+
+5.k0s: 最小体积的发行版 k8s https://github.com/k0sproject/k0s
+
 
 ## go中文网每日资讯--2020-11-17
 一、Go语言中文网
