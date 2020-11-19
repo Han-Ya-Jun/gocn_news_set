@@ -5,6 +5,60 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+
+
+
+## go中文网每日资讯--2020-11-19 
+一、Go语言中文网
+
+1. [在 Go 中恰到好处的内存对齐](https://mp.weixin.qq.com/s/8beAx_QiqPcQWz2dqe_IsA)
+
+2. [码了2000多行Go代码就是为了讲清楚TLS握手流程](https://mp.weixin.qq.com/s/1rd2Asctr6U4WqGWphae9Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-18)](https://studygolang.com/topics/12659)
+
+三、polarisxu
+
+1. [Go 语言名人：除了 Rob Pike，很多人可能不知道他](https://mp.weixin.qq.com/s/kmcJRBahAl4gtPzZUvd5bg)
+
+四、 InfoQ
+
+1. [深入理解Kubernetes Operator](https://mp.weixin.qq.com/s/Ly6X3bSmbHvfJWEqGyLEdg)
+
+五、 云加社区
+
+1. [如何理解Kafka的消息可靠性策略？](https://mp.weixin.qq.com/s/EY6-rA5DJr28-dyTh5BP8w)
+
+
+## GOCN每日新闻--2020-11-19 
+
+1.Golang 六种错误处理技术，可帮助您编写优雅的代码 https://medium.com/higher-order-functions/golang-six-error-handling-techniques-to-help-you-write-elegant-code-8e6363e6d2b
+
+2.基于 Golang 语言的微服务熔断器 https://mp.weixin.qq.com/s/pNVeAPIYQDW2JJ82xu95Kg
+
+3.Golang sync.Map 实现 http://blog.lpflpf.cn/passages/golang-sync-map
+
+4.你真的懂 golang reslice 吗 https://www.haohongfan.com/post/2020-10-20-golang-slice
+
+5.Go 多重错误管理 https://medium.com/a-journey-with-go/go-multiple-errors-management-a67477628cf1
+
+
+## gopherDaily--2020-11-19
+1. 使用Go在Apple Silicon(M1芯片)上开发遇到的问题 -  https://docs.google.com/document/d/1iWUstb66v66tTVxQWNMZ1BehgNzEmykzqDCUp5l8ip8/edit
+
+2. review一个预写日志(wal)的实现 - https://www.iantay.dev/post/reviewing-a-write-ahead-log-implementation/
+
+3. [KubeVela 正式开源：一个高可扩展的云原生应用平台与核心引擎](https://mp.weixin.qq.com/s/LauydAy1ngcDuZ3lhqrL6Q) - https://mp.weixin.qq.com/s/LauydAy1ngcDuZ3lhqrL6Q
+
+4. 在Go中使用包的点导入(dot import)方式 - https://www.maragu.dk/blog/using-dot-imports-in-views-in-go/
+
+5. Go使用环境变量的几种方式 - https://medium.com/@loginradius/different-ways-to-use-environment-variables-in-golang-46e1d1e515b7
+
+6. 油管视频：深入go build cache - https://www.youtube.com/watch?v=VVqaFLev19Y
+
 ## go中文网每日资讯--2020-11-18
 一、Go语言中文网
 
