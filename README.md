@@ -5,8 +5,43 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-11-20
+一、Go语言中文网
+
+1. [Go 基准测试还可以这么搞？高级基准测试](https://mp.weixin.qq.com/s/bibdVJ-v68IgCF99fBtmKA)
+
+2. [Go垃圾回收之并行标记执行模式](https://mp.weixin.qq.com/s/QvuG6mIBuAsbYL3ewibZdg)
+
+二、亚军进化史
+
+1. [Go技术日报(2020-11-19)](https://studygolang.com/topics/12664)
+
+三、有点技术
+
+1. [istio 1.8发布](https://mp.weixin.qq.com/s/EIW8QyRXUWyFs4RhEXrFmA)
+
+四、 腾讯云原生
+
+1. [如何用Prometheus监控十万container的Kubernetes集群](https://mp.weixin.qq.com/s/P3F1grbVpb7LF2hcxYNOcg)
+
+五、 云原生实验室
+
+1. [Pod 一直停留在 Terminating 状态，我等得花儿都谢了~](https://mp.weixin.qq.com/s/F-yE0ORbPvoBaLqqG1anWw)
 
 
+
+
+## GOCN每日新闻--2020-11-20 
+
+1.向更好的测试性重构 https://developer20.com/refactoring-for-better-testability/
+
+2.lyft 是如何构建网关的 https://eng.lyft.com/building-a-gateway-to-flyte-474b451b32c8
+
+3.为什么需要 Go 序列化
+
+4.Go 常量与 JSON https://bojanz.github.io/go-constants-json-iota/
+
+5.你会从 Go 里面移走什么? https://changelog.com/gotime/155
 
 
 ## go中文网每日资讯--2020-11-19 
