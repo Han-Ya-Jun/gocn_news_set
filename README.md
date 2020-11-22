@@ -5,6 +5,58 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-11-22
+
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 70 期 — 一道问答题](https://mp.weixin.qq.com/s/jVlmDLVnybsndsAO7thBaQ)
+
+2. [Go垃圾回收之根对象与全局扫描](https://mp.weixin.qq.com/s/9BoLiln2vyH-YHBP9iALjA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-11-21)](https://studygolang.com/topics/12675)
+
+三、#公众号：后台技术圈
+
+1. [开发一个简单的 etcd operator](https://mp.weixin.qq.com/s/EWTlMZMBh1_gw61dow-ZXA)
+
+四、#公众号：网管叨bi叨
+
+1. [Go语言init函数你必须记住的六个特征](https://mp.weixin.qq.com/s/P-BhuQy1Vd3lxlYgClDAJA)
+
+五、#公众号：五分选手
+
+1. [LeetCode Weekly Contest 215 解题报告](https://mp.weixin.qq.com/s/fwi83uv0FnbbQTHtFbivgQ)
+
+六、#公众号：Golang梦工厂
+
+1. [Go语言相关书籍推荐（从入门到放弃）](https://mp.weixin.qq.com/s/PaTPwRjG5dFMnOSbOlKcQA)
+
+
+## GOCN每日新闻--2020-11-22 
+
+1.关于 WebAssembly 的 Go、JavaScript 基准测试 https://medium.com/vacatronics/webassembly-in-go-vs-javascript-a-benchmark-6deb28f24e9d
+
+2.服务注册中心 | 记一次 Consul 故障分析与优化 https://juejin.cn/post/6897790831273771021
+
+3.实战：150 行 Go 实现高性能 socks5 代理 https://segmentfault.com/a/1190000038247560
+
+4.一个可以创建生产级别包含前后端、自动化部署的强大脚手架 CLI 工具的教程 https://dev.to/koddr/a-powerful-cli-for-create-a-new-production-ready-project-with-backend-frontend-and-deploy-automation-3e2c
+
+5.一个用于创建数据工作流的类库 https://github.com/whitaker-io/machine
+
+## gopherDaily--2020-11-22
+- 1.Russ Cox确认Go泛型将在Go 1.18落地 - https://groups.google.com/g/golang-dev/c/U7eW9i0cqmo/m/ffs0tyIYBAAJ?pli=1
+- 2.Go标准库性能基准测试：苹果M1芯片碾压Intel芯片 - https://roland.zone/m1-go-benchmarks/
+- 3.Russ Cox创建的试验性go重构工具(处于早期) - https://github.com/rsc/rf
+- 4.油管视频：Go语言mock测试技术 - https://www.youtube.com/watch?v=LEnXBueFBzk
+- 5.在Go中，如何避免常见的安全陷阱 - https://blog.umesh.wtf/how-to-avoid-common-security-pitfalls-in-go
+- 6.重构让代码具备更好的可测性 - https://developer20.com/refactoring-for-better-testability/
+- 7.树莓派集群的监控 - https://alexanderell.is/posts/pi-cluster-monitoring/
+- 8.ZFS介绍 - https://www.servethehome.com/an-introduction-to-zfs-a-place-to-start/
+- 9.Go常量与json编解码 - https://bojanz.github.io/go-constants-json-iota/
+
 ## go中文网每日资讯--2020-11-21
 
 一、#公众号：Go语言中文网
