@@ -5,6 +5,54 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-11-23
+一、#公众号：Go语言中文网
+
+1. [一篇理解什么是CanSet, CanAddr？](https://mp.weixin.qq.com/s/0CUuoO5mv0mJ3Zb_p1wCvA)
+
+2. [golang处理gb2312转utf-8编码的问题](https://mp.weixin.qq.com/s/HXSJOi_5ty74i3BXckrFEA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-11-22)](https://studygolang.com/topics/12680)
+
+三、#公众号：腾讯技术工程
+
+1. [简单理解 Kafka 的消息可靠性策略](https://mp.weixin.qq.com/s/T6gCc8OBgyV-yeAg_MUzPQ)
+
+四、#公众号：云原生技术爱好者社区
+
+1. [k8s Pod调度失败（NoExecute）排查及分析](https://mp.weixin.qq.com/s/iSaEOFRyjXwncfvYxTZv-w)
+
+五、#公众号：polarisxu
+
+1. [你会期待一个 Go官网的中文版吗？](https://mp.weixin.qq.com/s/VKWgOPZexAexjTqKNoXtww)
+
+六、#公众号：Golang语言开发栈
+
+1. [基于 Golang 语言的微服务熔断器](https://mp.weixin.qq.com/s/pNVeAPIYQDW2JJ82xu95Kg)
+
+## GOCN每日新闻--2020-11-23
+
+1. 为什么 Go 的泛型一拖再拖 https://gocn.vip/topics/11272 
+
+2. Go 控制 iOS 设备实现自动化操作 https://gocn.vip/topics/11270 
+
+3. 使用 GitHub Actions 进行持续基准测试 https://dev.to/vearutop/continuous-benchmarking-with-go-and-github-actions-41ok 
+
+4. 初次创建 go 项目时应考虑的 5 件事情 https://nikeshshetty.medium.com/5-things-before-you-venture-into-your-maiden-golang-project-68461724363e
+
+5. 在 Go 中使用 net/http 包 https://cyx.medium.com/using-the-net-http-package-in-go-fe219f6ab8c5
+
+## gopherDaily--2020-11-23 
+- 1.Go圣经作者Brian Kernighan老爷子讲Unix的诞生 - https://corecursive.com/058-brian-kernighan-unix-bell-labs/
+- 2.“能力越大，责任越大” - Go语言之父详解将于Go 1.18发布的Go泛型 - https://mp.weixin.qq.com/s/SMT40557JgQ9FjUkswznlA
+- 3.区块链与游戏的融合 - https://medium.com/conflux-network/the-convergence-of-blockchain-and-gaming-63ba53bd47ee
+- 4.Kubernetes DNS延迟问题调试与解决 - https://build.thebeat.co/yet-another-kubernetes-dns-latency-story-2a1c00ebbb8d
+- 5.经典旧文：使用Go手工发送DNS消息 - https://ops.tips/blog/raw-dns-resolver-in-go/
+- 6.maddy：Go实现的可组合的一体化mail server - https://github.com/foxcpp/maddy
+- 7.极客新知：在ipad上运行linux(wip) - https://ipadlinux.org/
+
 ## go中文网每日资讯--2020-11-22
 
 一、#公众号：Go语言中文网
