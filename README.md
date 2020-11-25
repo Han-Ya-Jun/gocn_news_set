@@ -31,6 +31,22 @@
 六、#公众号：董泽润的技术笔记
 
 1. [我看 GopherChina 2020](https://mp.weixin.qq.com/s/WhSP0QWZ7E4LkjL-ub1RuA)
+
+
+## GOCN每日新闻--2020-11-24
+
+1.Go 发起 HTTP2.0 请求流程分析 (中篇)——数据帧&流控制 https://gocn.vip/topics/11283
+
+2.go rpc 示例 https://www.jianshu.com/p/87cebff233b5
+
+3.Go 的并发机制：线程模型 https://www.jianshu.com/p/8063a82edf0e
+
+4.Grafana Lab 开码大规模分布式跟踪后端 Tempo https://github.com/grafana/tempo
+
+5.GopherChina 2020 全部 PPT 来了 https://gocn.vip/topics/11284
+
+
+
 ## gopherDaily--2020-11-24 
 - 1.Go语言中的test fixture - https://hackandsla.sh/posts/2020-11-23-golang-test-fixtures/
 - 2.油管视频：为什么Github客户端命令行组从Ruby切换到Go？- https://www.youtube.com/watch?v=fuYwyQllMpE
