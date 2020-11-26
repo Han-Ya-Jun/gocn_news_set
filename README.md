@@ -5,6 +5,64 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+
+## go中文网每日资讯--2020-11-26 
+
+一、#公众号：Go语言中文网
+
+1. [绘制图表不是前端的专利，Go 也可以](https://mp.weixin.qq.com/s/vdfttkMG-nI6VUslkcj1zA)
+
+2. [一文搞懂Go语言中的切片排序](https://mp.weixin.qq.com/s/Iv5AZcbD_ubEyWC4jyp9eQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-11-25)](https://studygolang.com/topics/12695)
+
+三、#公众号：高德技术
+
+1. [Golang单元测试：有哪些误区和实践？](https://mp.weixin.qq.com/s/Fj_ebCAUPlgTUPdsIg7CnA)
+
+四、#公众号：CloudNativeCommunity
+
+1. [无人值守的自动 dump（一）](https://mp.weixin.qq.com/s/2nbyWSZMT1HzvYAoaeWK_A)
+
+2. [无人值守的自动 dump（二）](https://mp.weixin.qq.com/s/wKpTiyc1VkZQy0-J8x519g)
+
+五、#公众号：Golang技术分享
+
+1. [CPU缓存体系对Go程序的影响](https://mp.weixin.qq.com/s/zwhRwvUItJ70s82wAB9byQ)
+
+六、#公众号：polarisxu 
+
+1. [CNCF 刚宣布 etcd 正式毕业：赶紧实战下 etcd 的服务发现](https://mp.weixin.qq.com/s/44duJY9BSS3Ki07jt4pgOA)
+
+2. [这一刻，我感动了](https://mp.weixin.qq.com/s/efpDUarkkAUSke4JGYUWHA)
+
+## GOCN每日新闻--2020-11-26 
+1.Go 大数据生态迎来重量级产品 CDS https://mp.weixin.qq.com/s/1y0bQVHoSRBvy1BJaQAxqw
+
+2.微服务框架 Go-Micro 集成 Nacos 实战之服务注册与发现 https://segmentfault.com/a/1190000038287804
+
+3.发行版本 0.19.0·golang / vscode-go https://github.com/golang/vscode-go/releases/tag/v0.19.0
+
+4.Golang 实现 Redis(7): Redis 集群与一致性 Hash https://www.cnblogs.com/Finley/p/14038398.html
+
+5.360 安全实验室详解 Blackrota：一个高度混淆过的 Go 后门程序 - https://blog.netlab.360.com/blackrota-an-obfuscated-backdoor-written-in-go-en/
+
+## gopherDaily--2020-11-26
+
+1. Go错误处理的是与非 - https://medium.com/better-programming/fun-or-not-with-golang-errors-26b2b0e231c5
+2. 360安全实验室详解Blackrota：一个高度混淆过的Go后门程序 - https://blog.netlab.360.com/blackrota-an-obfuscated-backdoor-written-in-go-en/
+3. 反方观点：为什么我们从go转向node.js - https://medium.com/thecobbles/why-we-moved-from-golang-to-nodejs-cecf66a47740
+4. grocksdb: rocksdb的Go binding - https://github.com/linxGnu/grocksdb
+5. ethr: 跨平台网络性能度量工具 - https://github.com/microsoft/ethr
+6. 在生产环境部署分布式跟踪工具jaeger - https://medium.com/swlh/learn-how-to-use-and-deploy-jaeger-components-in-production-fddb9947b2b2
+7. 5分钟指南：在k8s沙盒里快速体验ambassador和jaeger - https://medium.com/jaegertracing/a-5-minute-guide-for-experimenting-with-ambassador-and-jaeger-in-a-kubernetes-sandbox-9dd82405744a
+8. 回顾SnykCon 2020上的Docker - https://snyk.io/blog/recapping-docker-news-and-views-from-snykcon-2020/
+9. 一文了解Apple M1芯片的黑魔法 - https://www.singhkays.com/blog/apple-silicon-m1-black-magic/
+10. 为什么云原生技术还在蓬勃发展 - https://thenewstack.io/kubecon-why-cloud-native-continues-to-prevail-and-thrive-despite-everything/
+11. 码农的未来 - https://thenewstack.io/the-future-of-developer-careers/
 ## go中文网每日资讯--2020-11-24
 一、#公众号：Go语言中文网
 
