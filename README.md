@@ -5,8 +5,53 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-11-27
+一、#公众号：Go语言中文网
+
+1. [重度使用 Go 的“后遗症“，你有吗？](https://mp.weixin.qq.com/s/S12_Nf29iHgkovGRZNXRDA)
+
+2. [实战：150行Go实现高性能socks5代理](https://mp.weixin.qq.com/s/WjRRCU3xKvDRKgru9dZ7hg)
+
+3. [Go 经典入门系列：介绍与安装](https://mp.weixin.qq.com/s/pKAL0bAEkJanbuOuh-x1aQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-11-26)](https://studygolang.com/topics/12704)
+
+三、#公众号：高可用架构
+
+1. [美图全链路监控实战](https://mp.weixin.qq.com/s/zd2K4I27KFvCnw788TIZ0A)
+
+四、#公众号：aoho求索
+
+2. [还不了解 etcd？一文带你快速入门（万字长文）](https://mp.weixin.qq.com/s/f9loVQr7jbjnDKqRWXz8sQ)
+
+五、#公众号：Serverless
+
+1. [高德最佳实践：Serverless 规模化落地有哪些价值？](https://mp.weixin.qq.com/s/T3-RqoiVrbirx0A6Ey0rxg)
 
 
+## GOCN每日新闻--2020-11-27
+
+1.一文读懂 Channel 设计 https://segmentfault.com/a/1190000038283970
+
+2.常量数据库本机 golang 实现 https://github.com/alldroll/cdb
+
+3.无人值守的自动 dump（二） https://mp.weixin.qq.com/s/wKpTiyc1VkZQy0-J8x519g
+
+4.Golang 反射三定律 https://juejin.cn/post/6898935570236456968
+
+5.云原生应用 Go 语言：你还在考虑的时候，别人已经应用实践  https://juejin.cn/post/6898942484878426126
+
+
+## gopherDaily--2020-11-27 
+- 1.Go中使用WebSocket指南 - https://www.mindinventory.com/blog/how-to-use-websockets-in-golang/
+- 2.使用Go操作RabbitMQ - https://qvault.io/2020/04/29/connecting-to-rabbitmq-in-golang/
+- 3.io_uring和ebpf将给linux编程带来革新性巨变 - https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/
+- 4.在Goland中体验Go新泛型语法 - https://blog.jetbrains.com/go/2020/11/24/experimenting-with-go-type-parameters-generics-in-goland/
+- 5.用Go检测垃圾短信 - https://github.com/PaluMacil/ham
+- 6.现代存储很快，但API很糟糕 - https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a
+- 7.播客：你想从Go中删除哪些内容以使其变得更好 - https://changelog.com/gotime/155
 ## go中文网每日资讯--2020-11-26 
 
 一、#公众号：Go语言中文网
