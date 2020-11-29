@@ -5,6 +5,47 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
 
+
+## go中文网每日资讯--2020-11-28 
+一、#公众号：Go语言中文网
+
+1. [通过问答的方式学习 Go sort 包使用与源码](https://mp.weixin.qq.com/s/j4Z_2X8nZuyj7DatieqphA)
+
+2. [CPU缓存体系对Go程序的影响](https://mp.weixin.qq.com/s/vnm9yztpfYA4w-IM6XqyIA)
+
+3. [从零开始入门 K8s | 理解容器运行时接口 CRI](https://mp.weixin.qq.com/s/hKBCYSv1JAi8_Bw2FvyNvA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-11-27)](https://studygolang.com/topics/12708)
+
+三、#公众号：五分选手
+
+1. [LeetCode Biweekly Contest 39 解题报告](https://mp.weixin.qq.com/s/51tZYe0Zka-jQ7_w17CRaQ)
+
+四、NoHeadback
+
+1. [用 subsetting 限制连接池中的连接数量](https://xargin.com/limiting-conn-wih-subset/)
+
+五、#公众号：云原生技术爱好者社区
+
+1. [Kubernetes调度器是如何工作的？](https://mp.weixin.qq.com/s/LV_zu6jaqcxNUOyriz_jog)
+
+## gopherDaily--2020-11-28
+- 1.在Go中部署和训练TensorFlow模型实战：人类活动识别案例研究 - https://pgaleone.eu/tensorflow/go/2020/11/27/deploy-train-tesorflow-models-in-go-human-activity-recognition/
+- 2.2021年Gopher需要知道的5个有用的Go module - https://medium.com/better-programming/5-useful-golang-modules-developers-should-know-in-2021-340ed21177e5
+- 3.stargz-snapshotter：闪电容器启动器 - https://github.com/containerd/stargz-snapshotter
+- 4.cobra包体验报告 - https://levelup.gitconnected.com/exploring-go-packages-cobra-fce6c4e331d6
+- 5.godog：cucumber官方出品的go 行为驱动测试(bdd)框架 - https://github.com/cucumber/godog
+- 6.smithy: 一个小型的git仓库的图形化前端 - https://github.com/honza/smithy
+- 7.clock: Go时间日期mock测试库 - https://github.com/benbjohnson/clock
+- 8.vpn简史 - https://queue.acm.org/detail.cfm?id=3439745
+- 9.为什么需要一个Scrum Master - https://selleo.com/blog/why-do-you-need-a-scrum-master
+- 10.php8正式发布 - https://www.phoronix.com/scan.php?page=news_item&px=PHP-8.0-Released
+
+
+
+
 ## go中文网每日资讯--2020-11-27
 一、#公众号：Go语言中文网
 
