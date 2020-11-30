@@ -4,6 +4,59 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+
+
+## go中文网每日资讯--2020-11-30 
+一、#公众号：Go语言中文网
+
+1. [重磅！期待的 Go 语言中文网定制 Gopher 卫衣来了~](https://mp.weixin.qq.com/s/6h--JP532T__1HE-Fl2BiQ)
+
+2. [Go 项目实战：实现一个 Redis (1) 之编写 TCP 服务器](https://mp.weixin.qq.com/s/ZcH-iLVEdGlfweviMbJUjg)
+
+3. [Go 经典入门系列 2：Hello World](https://mp.weixin.qq.com/s/BmFAGKOngngC9JhFtuvj4A)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-11-29)](https://studygolang.com/topics/12717)
+
+2. [微服务架构下RPC IDL及代码如何统一管理？](https://mp.weixin.qq.com/s/fnnd-xvZgA64zIHUNaifrQ)
+
+三、#公众号：CloudNativeCommunity
+
+1. [云原生社区第一次线下 meetup 上海站回顾及 PPT 分享](https://mp.weixin.qq.com/s/h1OqUAXvhKaYN5pIO7xI7w)
+
+四、#公众号：k8s技术圈
+
+1. [如何部署一个生产级别的 Kubernetes 应用](https://mp.weixin.qq.com/s/2PIot09qeQRSr5pS5ViVcg)
+
+五、#公众号：陆贵成
+
+1. [管理可复用的资源池](https://mp.weixin.qq.com/s/-3iPsfBe5npxEyyT0V760A)
+
+## GOCN每日新闻--2020-11-30 
+
+1.从 Go 分析 Struct 对齐如何影响内存使用量 https://mp.weixin.qq.com/s/ULsU5f4UA2gq2GIiUALD2w
+
+2.Go 大数据生态开源项目 CDS 中 ClickHouse 使用的建表方案 https://mp.weixin.qq.com/s/mwFRWudMsHP6k_p4MVSjPA
+
+3.godog: Golang BDD 框架 https://github.com/cucumber/godog
+
+4.please: Go 实现的跨语言构建系统 https://github.com/thought-machine/please
+
+5.如何在 12 个小时，搞定日志监控？ https://mp.weixin.qq.com/s/6Bjr1PUAC98IIaxBFcECNw
+
+## gopherDaily--2020-11-30 
+
+- 1.Go语言的设计哲学：简单 - https://www.imooc.com/read/87/article/2321
+- 2.使用Go和CLI自动化例程 - https://crunchcrunch.me/automating-your-routine-with-golang-and-a-cli
+- 3.在kubernetes中运行一个mail服务器 - https://kruyt.org/running-a-mailserver-in-kubernetes/
+- 4.高速构建容器镜像的一个简单技巧 - https://www.nrmitchi.com/2020/10/one-simple-trick-for-building-images-faster/
+- 5.使用golangshell构建高性能clean架构应用 - https://hackernoon.com/go-fast-small-and-productive-with-golangspell-d0163zqk
+- 6.类型驱动的go代码生成 - https://github.com/clipperhouse/gen
+- 7.微软正在努力开发windows10的android子系统，这样android应用就可以运行在windows10上了 - https://www.bleepingcomputer.com/news/microsoft/microsoft-is-working-on-an-android-subsystem-for-windows-10/
+- 8.twtxt: Go实现的分布式、独立部署的类twitter微博客平台 - https://github.com/jointwt/twtxt
+
+
 ## go中文网每日资讯--2020-11-29
 一、#公众号：Go语言中文网
 
