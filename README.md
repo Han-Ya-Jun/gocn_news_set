@@ -4,7 +4,59 @@
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # gocn_news_set_2020
+## go中文网每日资讯--2020-11-29
+一、#公众号：Go语言中文网
 
+1. [Go语言爱好者周刊：第 71 期 — 这道题可能做对的不多](https://mp.weixin.qq.com/s/QpG5oBlz9mcmBUV8gl7P7w)
+
+2. [用 Go 做爬虫的话，有哪些库可以选择？](https://mp.weixin.qq.com/s/BTolCVAvzdQ0p8SLXzhuVg)
+
+3. [怎么给容器抓包](https://mp.weixin.qq.com/s/-jnRo9QesCCwt_JFF0dEyQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-11-28)](https://studygolang.com/topics/12715)
+
+三、#公众号：代码与远方
+
+1. [为什么 HugePages 可以提升数据库性能](https://mp.weixin.qq.com/s/f4C3ucVvOTVUq3Ueo0lThg)
+
+四、#公众号：Golang梦工厂
+
+1. [十张动图带你搞懂排序算法（附go实现代码）](https://mp.weixin.qq.com/s/rZBsoKuS-ORvV3kML39jKw)
+
+五、#公众号：码农桃花源
+
+1. [用 subsetting 限制连接池中的连接数量](https://mp.weixin.qq.com/s/x86WcfDaTZMV8uZQ7HEI_g)
+
+
+## GOCN每日新闻--2020-11-29 😛
+1.Go Websocket 使用指南 https://www.mindinventory.com/blog/how-to-use-websockets-in-golang/
+
+2.Cobra 包使用体验 https://levelup.gitconnected.com/exploring-go-packages-cobra-fce6c4e331d6
+
+3.K6 现代负载测试工具 https://github.com/loadimpact/k6 
+4.GoCrawler 分布式爬虫系统 https://github.com/el10savio/GoCrawler
+
+5.聊聊 golang 的类型断言 https://segmentfault.com/a/1190000038318158
+## gopherDaily--2020-11-29
+1.go module缺陷：无法导入main包 - https://appliedgo.net/testmain/
+
+2.使用Go实现Async/Await模式 - https://hackernoon.com/asyncawait-in-golang-an-introductory-guide-ol1e34sg
+
+3.油管视频；你以为你了解Go - https://www.youtube.com/watch?v=U_qVSHYgVSE
+
+4.k6: DevOps时代的现代性能测试工具 - https://github.com/loadimpact/k6
+'
+5.pbgopy: 在设备间拷贝粘贴数据 - https://github.com/nakabonne/pbgopy
+
+6.高性能、可扩展的构建系统，可以用于可重现构建多种语言编写的应用 - https://github.com/thought-machine/please
+
+7.以开发者的视角看Apple Silicon M1芯片 - https://steipete.com/posts/apple-silicon-m1-a-developer-perspective/
+
+8.httperroryzer: go http handler代码静态分析工具 - https://medium.com/orijtech-developers/httperroryzer-static-analysis-pass-to-catch-missing-returns-after-http-error-for-go-351ead575274
+
+9.基于html的演示框架 - https://revealjs.com/#/1
 
 ## go中文网每日资讯--2020-11-28 
 一、#公众号：Go语言中文网
