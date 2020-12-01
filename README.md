@@ -6,6 +6,63 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-12-01 
+一、#公众号：Go语言中文网
+
+1. [Go 语言：全面分析为什么我们需要泛型](https://mp.weixin.qq.com/s/vnQuPMD7piUe6l0KVDbePA)
+
+2. [应大家要求，增加了不加绒的：Go 语言中文网定制卫衣来了~](https://mp.weixin.qq.com/s/RCVse6JLlTvlMHEFdln7_A)
+
+3. [Go 经典入门系列 3：变量](https://mp.weixin.qq.com/s/0hl1VDCaseRbKvCRy31_CA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-11-30)](https://studygolang.com/topics/12721)
+
+三、#公众号：代码与远方
+
+1. [让你的 Go 服务优雅的重启 (解决代码发布 Go 服务闪断的问题)](https://mp.weixin.qq.com/s/u3qoN8PRKQRBjDVD7hrgag)
+
+四、#公众号： polarisxu
+
+1. [Hugo + GitHub Pages 搭建自己的网站](https://mp.weixin.qq.com/s/pW7iHOQLwMDkFU_bgXeTuA)
+
+五、#公众号：阿里巴巴云原生 
+
+1. [「云原生上云」后的聚石塔是如何应对 双11 下大规模应用挑战的](https://mp.weixin.qq.com/s/g4_xFuh5GDEiZYVg2dhg0w)
+
+## GOCN每日新闻--2020-12-01 
+
+1.Go DIY 一个圣诞广播 https://dev.to/levelupkoodarit/diy-christmas-radio-31k4
+
+2.Go 实现文本准换语音通话 https://dev.to/vonagedev/text-to-speech-voice-calls-with-go-1h7m
+
+3.在 Go kit 下通过 Grpc 构建微服务 https://dev.to/junereycasuga/go-grpc-with-go-kit-3gab
+
+4.Golang error 浅析 https://www.jianshu.com/p/606d0e60c58d
+
+5.Golang 语言 Web 框架 beego v2 之写操作 https://mp.weixin.qq.com/s/2yUuMucrogX38Xg9VG4coA
+## gopherDaily--2020-12-01 
+
+- 1.Go语言的设计哲学之二：组合 - https://www.imooc.com/read/87/article/2322
+
+- 2.观点：Go是一种美丽的混乱 - https://arlo-liu.medium.com/go-a-beautiful-mess-e7fdf267b050
+
+- 3.使用Go实现网路嗅探 - https://medium.com/@Affix/sniffing-creds-with-go-a-journey-with-libpcap-73bc3e74966
+
+- 4.如何自动重新加载Go应用 - https://iaziz786.com/blog/golang-auto-reload-apps
+
+- 5.Go语言水平评估工具 - https://github.com/dmh2000/go-assessment
+
+- 6.容器安全漏洞：不要使用–net=host - https://medium.com/nttlabs/dont-use-host-network-namespace-f548aeeef575
+
+- 7.为什么apple M1芯片这么快! - https://erik-engheim.medium.com/why-is-apples-m1-chip-so-fast-3262b158cba2
+
+- 8.机器学习的可解释性：概述 - https://thegradient.pub/interpretability-in-ml-a-broad-overview/
+
+- 9.gopls v0.5.4发布 - https://github.com/golang/tools/releases/tag/gopls%2Fv0.5.4
+
+- 10.一文告诉你如何抢先体验Go泛型 - https://mp.weixin.qq.com/s/14WeOQBdezWTC5OqQrJtfg
 
 ## go中文网每日资讯--2020-11-30 
 一、#公众号：Go语言中文网
