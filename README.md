@@ -3,7 +3,7 @@
 # [gocn_news_set_2017](gocn_news_set_2017.md)
 # [gocn_news_set_2018](gocn_news_set_2018.md)
 # [gocn_news_set_2019](gocn_news_set_2019.md)
-# [gocn_news_set_2020(上）](gocn_news_set_2019_01.md)
+# [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
 
