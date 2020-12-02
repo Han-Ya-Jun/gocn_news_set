@@ -6,6 +6,65 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+
+## go中文网每日资讯--2020-12-02
+一、#公众号：Go语言中文网
+
+1. [Go 语言实现的 2D 游戏库](https://mp.weixin.qq.com/s/tZqQXS8CK4fmvlcr_2HeRw)
+
+2. [Go 经典入门系列 4：类型](https://mp.weixin.qq.com/s/JJ5-hW_cg8bTSSqe8bTtIw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-01)](https://studygolang.com/topics/12724)
+
+三、#公众号：polarisxu
+
+1. [列举一些 Go1.16 中可能对大家有影响的变化](https://mp.weixin.qq.com/s/QMpQZXrrZNTVxmGN-3cSCg)
+
+四、#公众号：脑子进煎鱼了
+
+1. [必须要学的 Go 进程诊断工具 gops](https://mp.weixin.qq.com/s/iS7R0NTZcTlonUw8bq0jKQ)
+
+五、#公众号：Go101
+
+1. [Go 1.16 新特性查缺补漏](https://mp.weixin.qq.com/s/Lz1PwW0mzWMNxiuJBvdcXA)
+
+六、mohuishou
+
+1. [Go进阶训练营笔记02-微服务下: 服务发现&多租户](https://lailin.xyz/post/go-training-02.html)
+
+## GOCN每日新闻--2020-12-02
+
+1.深度理解 Istio 如何路由 TCP 流量 https://mp.weixin.qq.com/s/SBqnWs6QFEVSWily44xL3w
+
+2.使用 blackbox exporter 实现域名证书过期监控 https://mp.weixin.qq.com/s/ZdQ0GgsB7FW8k9KOcEIJ-w
+
+3.Golang 程序性能分析（一）pprof 和 go-torch https://mp.weixin.qq.com/s/Ceu4zZ5tY2fNWizffoy0Ow
+
+4.Go netpoller 网络模型之源码全面解析 https://mp.weixin.qq.com/s/HNPeffn08QovQwtUH1qkbQ
+
+5.必须要学的 Go 进程诊断工具 gops https://mp.weixin.qq.com/s/iS7R0NTZcTlonUw8bq0jKQ
+
+
+## gopherDaily--2020-12-02
+1. Go语言的设计哲学之三：并发 - https://www.imooc.com/read/87/article/2340
+
+2. 如何Go单元测试中mock数据库 - https://medium.com/scum-gazeta/database-mocking-in-go-5925c2cc1079
+
+3. dicom：Go实现的高性能的DICOM医疗影像解析器发布1.0版本 - https://github.com/suyashkumar/dicom/tree/v1.0.0
+
+4. 用于检查signal channel“信号丢失”的静态扫描工具 - https://medium.com/orijtech-developers/sigchanyzer-static-analyzer-to-catch-loss-of-signals-from-use-of-unbuffered-signal-channel-to-e47529ca40a
+
+5. Slack公司使用vitess实现数据库存储的伸缩 - https://slack.engineering/scaling-datastores-at-slack-with-vitess/
+
+6. 如何编写无bug的go并发程序 - https://itnext.io/how-to-write-bug-free-goroutines-in-go-golang-59042b1b63fb
+
+7. 亚马逊云提供Macos的Ec2实例，可以用于构建和测试macos,ios应用 - https://aws.amazon.com/cn/blogs/aws/new-use-mac-instances-to-build-test-macos-ios-ipados-tvos-and-watchos-apps/
+
+8. 科技垄断走向垂直 - https://mule.substack.com/p/the-tech-monopolies-go-vertical
+
+
 ## go中文网每日资讯--2020-12-01 
 一、#公众号：Go语言中文网
 
