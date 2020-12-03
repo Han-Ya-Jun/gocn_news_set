@@ -6,6 +6,72 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-12-03 
+
+一、#公众号：Go语言中文网
+
+1. [都知晓滴滴大量使用 Go，它招聘普通 Go 工程师的 JD 啥要求？](https://mp.weixin.qq.com/s/OUR1AZ7cKFLeHSlHYfuEow)
+
+2. [Go 项目实战：实现一个 Redis(2) 之实现 Redis 协议解析器](https://mp.weixin.qq.com/s/6XJpY2rkvXelBhUHVZ68sw)
+
+3. [Go 经典入门系列 5：常量](https://mp.weixin.qq.com/s/Abbf1y4nef41swTpyQPpLw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-02)](https://studygolang.com/topics/12731)
+
+三、No Headback
+
+1. [open coded defer 是怎么实现的](https://xargin.com/open-coded-defer-in-go-1-14/)
+
+四、#公众号：美团技术团队
+
+1. [复杂环境下落地Service Mesh的挑战与实践](https://mp.weixin.qq.com/s/Z-Nv7XId7EbPpH8UDjWxCQ)
+
+五、#公众号：架构头条
+
+1. [重磅！Kubernetes决定弃用Docker](https://mp.weixin.qq.com/s/TcLe_Sq0p2uyGZg9FKEanA)
+
+六、#公众号：码农桃花源
+
+1. [Go 语言应用之 template](https://mp.weixin.qq.com/s/9FFp0-cj4raPhdUUpSy4Og)
+
+七、#公众号：代码与远方
+
+1. [百闻不如一 Run 看文档不如抓包实战](https://mp.weixin.qq.com/s/XqqLDxKBa1IYy9URxdUGOQ)
+
+## GOCN每日新闻--2020-12-03 
+
+1.Kubernetes 要弃用 docker 了，我们该怎么办？ https://mp.weixin.qq.com/s/i8WbzGrH0lvBXJhYxlzCoA
+
+2.ChaosMesh®技术内幕-如何注入 I/O 故障？ https://gocn.vip/topics/11333
+
+3.使用 monsoon 对 http 服务进行渗透测试 https://blog.redteam-pentesting.de/2020/introducing-monsoon/
+
+4.Kubernetes 调度详解 https://mp.weixin.qq.com/s/Gh78VEjjyTlcq5ydlrBFEA
+
+5.tcpprobe: 网络服务监控器 https://github.com/mehrdadrad/tcpprobe
+
+## gopherDaily--2020-12-03
+1. Kubernetes v1.20将不再支持docker作为容器运行时 - https://kubernetes.io/blog/2020/12/02/dont-panic-kubernetes-and-docker/
+
+2. Go切片原理 - https://lu4p.github.io/posts/slices/
+
+3. gitea v1.13.0发布 - https://blog.gitea.io/2020/12/gitea-1.13.0-is-released/
+
+4. 为何企业都从Tensorflow转到PyTorch - https://www.infoworld.com/article/3597904/why-enterprises-are-turning-from-tensorflow-to-pytorch.html
+
+5. fibratus: Go实现的windows内核探索与跟踪利器 - https://github.com/rabbitstack/fibratus/
+
+6. rf: Go代码重构实验性工具 - https://pkg.go.dev/rsc.io/rf
+
+7. tcpprobe: 网络性能、路径、统计信息监视工具 - https://github.com/mehrdadrad/tcpprobe
+
+8. monsoon：高性能http探测器 - https://github.com/RedTeamPentesting/monsoon
+
+9. baker: Go实现的适用于大数据时代的高性能，可组合且可扩展的数据处理管道 - https://github.com/AdRoll/baker
+
+10. Go语言的设计哲学之三：并发 - https://www.imooc.com/read/87/article/2340
 
 ## go中文网每日资讯--2020-12-02
 一、#公众号：Go语言中文网
