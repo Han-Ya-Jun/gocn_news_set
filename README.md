@@ -6,6 +6,72 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+
+
+
+## go中文网每日资讯--2020-12-04 
+一、#公众号：Go语言中文网
+
+1. [图解 Goroutine 与抢占机制](https://mp.weixin.qq.com/s/VwjEglM0ZRMvYg7cwV5b5Q)
+
+2. [Go 经典入门系列 6：函数](https://mp.weixin.qq.com/s/9AAyd29icmcbMs7Ff2fIsw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-03)](https://studygolang.com/topics/12739)
+
+三、#公众号：polarisxu
+
+1. [周末愉快！简单聊聊这几天 Go 相关热点](https://mp.weixin.qq.com/s/ebi4YOR9QpS4QapVo_D6yA)
+
+四、#公众号：代码与远方
+
+1. [为什么 Go 占用那么多的虚拟内存？](https://mp.weixin.qq.com/s/KGcS9ue2VT2HllaakLWe1w)
+
+五、Go夜聊
+
+1. [第 1 期：参加 GopherCon 2020](https://www.xiaoyuzhoufm.com/episode/5fca1f69dee9c1e16dea5713?s=eyJ1IjogIjVlN2VjNzNkMGE3YmQ4MDljMmU5MTJkNCJ9)
+
+
+
+
+
+## GOCN每日新闻--2020-12-04 
+
+1.列举一些 Go1.16 中可能对大家有影响的变化 https://polarisxu.studygolang.com/posts/go/dynamic/go1.16-changes-2020/
+
+2.基于 gRPC 的服务注册与发现和负载均衡的原理与实战 https://gocn.vip/topics/11340
+
+3.在 Kubernetes 1.20 版本中不推荐使用 Docker https://mp.weixin.qq.com/s/cOsGmHGXrXsV0KXLxUfd-Q
+
+4.Dockershim 弃用常见问题解答 https://mp.weixin.qq.com/s/Xxv3sS1BmImPqwcTEXJjbQ
+
+5.Golang 实现 Redis(8): TCC 分布式事务 https://www.cnblogs.com/Finley/p/14079108.html
+
+
+
+
+## gopherDaily--2020-12-04
+
+1. goland 2020.3版本发布 - https://blog.jetbrains.com/go/2020/12/03/goland-2020-3-is-out/
+
+2. 使用golang tip版已经可以在apple M1上编译运行Go应用了 - https://go-review.googlesource.com/c/go/+/272256/
+
+3. 播客：play-with-go.dev网站的台前幕后的故事 - https://changelog.com/gotime/158
+
+4. CNCF的kuma项目发布1.0版本。kuma是一个Go实现的通用的服务网格 - https://www.cncf.io/blog/2020/12/01/kuma-1-0-ga-released-with-70-new-features-improvements/
+
+5. Kubernetes性能测试与高负载调优 - https://itnext.io/kubernetes-load-testing-and-high-load-tuning-problems-and-solutions-244d869a9791
+
+6. 从1977-2017计算机输入延迟的变化 - https://danluu.com/input-lag/ 
+
+7. ROS：从学术方面的项目转变为正在彻底改变机器人世界的平台的故事 - https://www.redhat.com/en/open-source-stories/robots/breaking-the-wheel
+
+8. 远程工作的未来：未来十年历史上最大的人类迁徙将如何发生 - https://levels.io/the-greatest-migration/
+
+9. Go语言的设计哲学之三：并发 - https://www.imooc.com/read/87/article/2340
+
+
 ## go中文网每日资讯--2020-12-03 
 
 一、#公众号：Go语言中文网
