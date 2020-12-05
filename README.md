@@ -7,6 +7,72 @@
 # gocn_news_set_2020
 
 
+## go中文网每日资讯--2020-12-05 
+
+一、#公众号：Go语言中文网
+
+1. [GoLand 2020.3 正式发布了，有不少新功能，包括支持泛型](https://mp.weixin.qq.com/s/eXUsjYstKmzlOnZKamAGgg)
+
+2. [Go 1.15.6 和 Go 1.14.13 发布了](https://mp.weixin.qq.com/s/qX6RqhN14XnF7-WrqbNY5g)
+
+3. [Go 经典入门系列 7：包](https://mp.weixin.qq.com/s/2eaI7CtNxOpEmkR5KcQb9w)
+
+4. [从零开始入门 K8s | Kata Containers 创始人带你入门安全容器技术](https://mp.weixin.qq.com/s/WjyLcatiXyEOwUbEgL232g)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-04)](https://studygolang.com/topics/12746)
+
+三、#公众号：polarisxu
+
+1. [一文掌握 Google 出品的 Go 进程诊断工具 gops](https://mp.weixin.qq.com/s/duDLmBTl5GoRnDa5dSzHjg)
+
+四、#公众号：代码与远方
+
+1. [【Golang源码系列】七：栈内存管理原理分析](https://mp.weixin.qq.com/s/1laT9M9WlLldFMYhkKxzsg)
+
+五、Gopher Dinner
+
+1. [Go语言中文网 Gopher Dinner 00 期【北京站】线下聚会](https://studygolang.com/topics/12748)
+ 
+## GOCN每日新闻--2020-12-05
+
+1.如何使用 Channel 编排你的 Go Routine https://levelup.gitconnected.com/orchestrate-your-go-routines-using-channels-c4b9f246cc4b
+
+2.聊聊 Golang 的 zap 的 NewProduction https://segmentfault.com/a/1190000038385213
+
+3.Kubernetes 中无头（Headless）Service 的使用方法 https://gocn.vip/topics/11346
+
+4.一个针对 Go 重构的开源工具 https://github.com/rsc/rf
+
+5.一个高效多功能 DNS 工具包 https://github.com/projectdiscovery/dnsx
+
+
+## gopherDaily--2020-12-05
+
+1. go与rust常见例子快查表对比 - https://programming-idioms.org/cheatsheet/Go/Rust
+
+2. Dgraph Labs举办的线上Go技术分享Go Systems Conf的大会视频合集现已在油管上放出，topic不错，质量很高，收藏起来慢慢看吧 - https://www.youtube.com/watch?v=inrqE0Grgk0
+
+3. 使用go和webassembly实现的ping-pong游戏 - https://dstoiko.github.io/posts/go-pong-wasm/
+
+4. Go plugins详解 - https://tpaschalis.github.io/golang-plugins/
+
+5. Go RSA加解密指南 - https://levelup.gitconnected.com/a-guide-to-rsa-encryption-in-go-1a18d827f35d
+
+6. 使用Go实现酒吧中的并发故事 - https://ryandsouza.in/blog/006-the-bar-concurrency
+
+7. 新轮子!treemux:一个高性能、灵活的http router - https://github.com/vmihailenco/treemux
+
+8. Javascript，25岁了！ - https://web.archive.org/web/20070916144913/http://wp.netscape.com/newsref/pr/newsrelease67.html
+
+9. Go语言的设计哲学之三：并发 - https://www.imooc.com/read/87/article/2340
+
+10. gorm的clickhouse的driver -  https://github.com/go-gorm/clickhouse
+
+11. Go 1.15.6 和1.14.13发布 - https://golang.google.cn/dl/#go1.15.6
+
+
 
 
 ## go中文网每日资讯--2020-12-04 
