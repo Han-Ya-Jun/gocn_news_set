@@ -6,6 +6,81 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-12-07 
+一、#公众号：Go语言中文网
+
+1. [Go 项目实战：实现一个 Redis(3) 之实现内存数据库](https://mp.weixin.qq.com/s/Rlz_L6-HBs9EggrFANFG1g)
+
+2. [Go 经典入门系列 9：循环](https://mp.weixin.qq.com/s/i2CSL9DVzT0t6OyoLqXepg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-05)](https://studygolang.com/topics/12760)
+
+三、#公众号：脑子进煎鱼了
+
+1. [先睹为快，Go2 Error 的挣扎之路](https://mp.weixin.qq.com/s/XILveKzh07BOQnqxYDKQsA)
+
+四、#公众号：代码与远方
+
+1. [揭密容器环境下 Golang 回收子进程的运行机制](https://mp.weixin.qq.com/s/3HsqtHwWReX1S3ggP2_owg)
+
+五、#公众号：腾讯技术工程
+
+1. [万字详文阐释程序员修炼之道](https://mp.weixin.qq.com/s/XIwfj_AdZqX_vHM4VIq9EA)
+
+六、#公众号：网管叨bi叨
+
+1. [深入理解StatefulSet，用Kubernetes编排有状态应用](https://mp.weixin.qq.com/s/y60q0-RMh8isd4u4PuLfUg)
+
+
+## GOCN每日新闻--2020-12-07 
+
+1.Go1.6 将支持 Apple silicon M1 芯片https://gocn.vip/topics/11349
+
+2.Go 与 Java 的并发比较 https://medium.com/the-legend/golang-vs-java-concurrency-351ca5a845cb
+
+3.使用 Elastic APM 监控 Go 应用性能 https://adityarama1210.medium.com/golang-application-performance-monitoring-with-elastic-apm-92b02ca33374
+
+4.Go 笔记【呕心整理】https://juejin.cn/post/6903353632687652872
+
+5.GORM 极速入门 https://juejin.cn/post/6903337526811951118
+
+## gopherDaily--2020-12-07
+
+1. 像跟踪分布式服务调用那样跟踪函数调用链 - https://articles.zsxq.com/id_0jrz1ngv2ms6.html
+
+2. 为什么linkerd不使用envoy作为数据平面 by 服务网格的提出者William Morgan - https://linkerd.io/2020/12/03/why-linkerd-doesnt-use-envoy/
+
+3. Go语言的第一印象 - https://leemason.co.uk/golang-first-impressions/
+
+4. Kubernetes plugins使用指南 - https://www.padok.fr/en/blog/kubectl-plugins
+
+5. 使用Cilium构建全球多集群游戏基础设施 - https://cilium.io/blog/2020/09/03/wildlife-studios-multi-cluster-gaming-platform
+
+6. gaio: Go语言高性能网络通信框架 - https://github.com/xtaci/gaio
+
+7. Go语言ESP32嵌入式设备编程 - https://medium.com/vacatronics/lets-go-embedded-with-esp32-cb6bb3043bd0
+
+8. 我为什么认为Go适合新手学习 - https://gajanayakelehan.medium.com/why-i-think-golang-is-the-best-as-a-beginner-e211c023e487
+
+9. Go语言的设计哲学之三：并发 - https://www.imooc.com/read/87/article/2340
+
+10. askgit: 像sql语句那样操作git仓库 - https://github.com/augmentable-dev/askgit
+
+11. Let's Encrypt的五年 - https://www.infoq.com/news/2020/12/five-years-lets-encrypt/
+
+12. influxdb在ubuntu上的安装指南 - https://www.lionbloggertech.com/influxdb-setup-on-linux-ubuntu/
+
+13. 使用Caddy自定义错误页面 - https://fotoallerlei.com/blog/post/2020/custom-error-pages-with-caddy/post
+
+14. 如何重启kubernetes一个命名空间下的所有pod - https://qvault.io/2020/10/26/how-to-restart-all-pods-in-a-kubernetes-namespace/
+
+
+
+
+
+
 ## go 中文网每日资讯--2020-12-06
 
 一、#公众号：Go 语言中文网
