@@ -6,6 +6,64 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+## go 中文网每日资讯--2020-12-06
+
+一、#公众号：Go 语言中文网
+
+1. [Go 语言爱好者周刊：第 72 期 — 一道接口比较的题](https://mp.weixin.qq.com/s/xtERNcI-RGPxxSThgtc_gQ)
+
+2. [震惊！Gorm 终于可以操作 Oracle 了](https://mp.weixin.qq.com/s/6mq8EZmhqvUFpNFANUB1aA)
+
+3. [Go 经典入门系列 8：if-else 语句](https://mp.weixin.qq.com/s/dHTVlKeTKz5H5wf3buQF0g)
+
+二、#公众号：亚军进化史
+
+1. [Go 技术日报(2020-12-05)](https://studygolang.com/topics/12754)
+
+三、#公众号：Golang 梦工厂
+
+1. [Leaf—Segment 分布式 ID 生成系统（Golang 实现版本）](https://mp.weixin.qq.com/s/wURQFRt2ISz66icW7jbHFw)
+
+四、#公众号：代码与远方
+
+1. [网络协议-HTTP 协议(一)](https://mp.weixin.qq.com/s/f9G_YDtdG8eEY1zjoYli3w)
+
+五、鸟窝
+
+1. [Go 运行时中的 Mutex](https://colobu.com/2020/12/06/mutex-in-go-runtime/)
+
+## GOCN 每日新闻--2020-12-06
+
+1.[经常被误解的 mutex](https://juejin.cn/post/6902799781509201927)
+
+2.[沉默的性能杀手 ](https://juejin.cn/post/6903024770506620935)
+
+3.[一文掌握 Google 出品的 Go 进程诊断工具 gops ](https://mp.weixin.qq.com/s/duDLmBTl5GoRnDa5dSzHjg)
+
+4.[栈内存管理原理分析](https://mp.weixin.qq.com/s/1laT9M9WlLldFMYhkKxzsg)
+
+5.[使用 Go 实现网路嗅探 ](https://medium.com/@Affix/sniffing-creds-with-go-a-journey-with-libpcap-73bc3e74966)
+
+
+
+## gopherDaily--2020-12-06
+
+1.[prysm: 以太坊 2.0 区块链的 Go 实现 ](https://github.com/prysmaticlabs/prysm)
+
+2.[使用 Go 和 Python 操作 SQLite ](https://www.ardanlabs.com/blog/2020/11/working-with-sqlite-using-go-python.html)
+
+3.[从 json 文本中解码出 time 类型值](https://eli.thegreenplace.net/2020/unmarshaling-time-values-from-json/)
+
+4.[nerdctl: 与 docker 兼容的 containerd 客户端工具](https://github.com/AkihiroSuda/nerdctl)
+
+5.[mortar - 构建 gRPC 和 restful webu 服务的框架 ](https://github.com/go-masonry/mortar)
+
+6.[为 debian 发行版打包 kubernetes](https://lwn.net/Articles/835599/)
+
+7.[kanzi-go: go 实现的无损压缩库](https://github.com/flanglet/kanzi-go)
+
+8.[Go 语言的设计哲学之三：并发 ](https://www.imooc.com/read/87/article/2340)
+
 
 ## go中文网每日资讯--2020-12-05 
 
