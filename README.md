@@ -6,6 +6,70 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-12-08 
+一、#公众号：Go语言中文网
+
+1. [远程办公会是趋势吗？这个远程 Go 工作机会推荐给你](https://mp.weixin.qq.com/s/maUjOZVb-dkedcUtMR2fWw)
+
+2. [Go 经典入门系列 10：switch 语句](https://mp.weixin.qq.com/s/GWNCI1a0OvbAa7gaREJPmg)
+
+3. [go基础之map-写在前面（一）](https://mp.weixin.qq.com/s/Aw8AjDmuvf7n7ACWl7mwaw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-07)](https://studygolang.com/topics/12766)
+
+三、#公众号：polarisxu
+
+1. [推荐一个网站：其实是三个网站](https://mp.weixin.qq.com/s/xX1-DoBsuY17K69TjmE8dg)
+
+四、#公众号：Golang技术分享
+
+1. [详解逃逸分析](https://mp.weixin.qq.com/s/VeNiik-6vi8yQPKnr18w8A)
+
+五、#公众号：MoeLove
+
+1. [K8S 弃用 Docker 了？Docker 不能用了？别逗了！](https://mp.weixin.qq.com/s/z6s4QliBHs08pVj0GQ03dw)
+2. [Apache APISIX Ingress Controller 正式加入 ASF](https://mp.weixin.qq.com/s/SojhhvJF8tp8LKcix3YsOg)
+
+六、#公众号：Kubernetes技术栈
+
+1. [Ingress控制器那么多，到底该选哪一个？](https://mp.weixin.qq.com/s/3-A5AN5eF8Qog7YfpUtsFg)
+
+
+## GOCN每日新闻--2020-12-08 
+1.Go 发起 HTTP2.0 请求流程分析 (后篇)——标头压缩 https://gocn.vip/topics/11354
+
+2.阿里 双 11 同款流控降级组件 Sentinel Go 正式 GA，助力云原生服务稳稳稳 https://gocn.vip/topics/11352
+
+3.LeetCode-Golang 之【146. LRU 缓存机制】https://www.jianshu.com/p/bbd39cc1dcb2 
+4.Go 语言实现简易版 netstat 命令 https://juejin.cn/post/6903696083935821832
+
+5.聊聊 golang 的 zap 的 NewExample https://www.jianshu.com/p/a342a20dc067
+
+## gopherDaily--2020-12-08
+1. 微众银行开源Go实现的一站式云原生机器学习平台 - https://github.com/WeBankFinTech/Prophecis
+
+2. 使用Go和jwt构建用户身份鉴权系统 - https://dvignesh1496.medium.com/building-a-user-auth-system-with-jwt-using-golang-30892659cc0
+
+3. 播客：Go语言编程 - https://cloudskills.io/blog/episode-097
+
+4. 使用Go和WebSockets构建可靠的实时应用程序：客户端工程注意事项 - https://www.ably.io/topic/websockets-golang
+
+5. 基于RFC6902 (JSON Patch)的json diff工具包 - https://github.com/wI2L/jsondiff
+
+6. 使用Docker-compose在Go中对AWS Lambda进行集成测试 - https://buddy.works/tutorials/integration-testing-for-aws-lambda-in-go-with-docker-compose
+
+7. 如何使您的代码评审员爱上您 - https://mtlynch.io/code-review-love/
+
+8. 现代javascript教程 - https://javascript.info/
+
+9. 油管视频：掌控您对Go开发的热情：快速，简单的Go + Docker开发 - https://www.youtube.com/watch?v=eXQl1z6is8U
+
+10. 使用GoReleaser和github action构建跨平台docker镜像 - https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/
+
+11. lens: k8s IDE发布了v4.0版本 - https://github.com/lensapp/lens
+
 ## go中文网每日资讯--2020-12-07 
 一、#公众号：Go语言中文网
 
