@@ -6,6 +6,70 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+
+## go中文网每日资讯--2020-12-09 
+一、#公众号：Go语言中文网
+
+1. [Go 项目实战：实现一个 Redis(4) 之AOF 持久化与AOF重写](https://mp.weixin.qq.com/s/3MPwvqHp_WkgI6g9t2_6Fg)
+
+2. [Go 经典入门系列 11：数组和切片](https://mp.weixin.qq.com/s/VkGsM4rjcjEqcZJY3XI2rA)
+
+3. [go基础之map-增和改（二）](https://mp.weixin.qq.com/s/xu9ISybZNeVSaXlOJec-fg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-08)](https://studygolang.com/topics/12773)
+
+三、#公众号：有点技术
+
+1. [k8s 1.20发布](https://mp.weixin.qq.com/s/n-AhliGyiEeawRnwhAsfwQ)
+
+四、#公众号：云原生技术爱好者社区
+
+1. [Go Errors | 不仅仅检查错误，更要优雅地处理它们](https://mp.weixin.qq.com/s/G53EObz3xHFWvliiOjdT7A)
+
+五、#公众号：Go招聘
+
+1. [Go 在各个城市开花？想回老家发展的，也许是个机会](https://mp.weixin.qq.com/s/lzk8ceAMuhG9IFhAKsQ22g)
+
+
+
+## GOCN每日新闻--2020-12-09
+
+1.Go 运行时中的 Mutex https://colobu.com/2020/12/06/mutex-in-go-runtime/
+
+2.微服务 ChaosBlade x SkyWalking 微服务高可用实践 https://gocn.vip/topics/11360
+
+3.分析 Go 程序的 Off-CPU 性能 https://colobu.com/2020/11/12/analyze-On-CPU-in-go/
+
+4.开源推荐 RPC 的变革 —— ARPC 项目自荐 https://gocn.vip/topics/11359
+
+5.使用 GoReleaser 和 GitHub Actions 构建多平台 Docker 镜像 https://carlosbecker.com/posts/multi-platform-docker-images-goreleaser-gh-actions/
+
+
+
+## gopherDaily--2020-12-09
+
+1. Kubernetes 1.20版本发布！- https://kubernetes.io/blog/2020/12/08/kubernetes-1-20-release-announcement/
+
+2. sops: Mozilla开源的go实现的管理敏感数据的工具 - https://github.com/mozilla/sops 
+
+3. map还是struct？到底用哪个来解析json - https://bencane.com/2020/12/08/maps-vs-structs-for-json/ 
+
+4. Go缺乏构造函数，教你如何绕过 - https://medium.com/@j7mbo/bypassing-golangs-lack-of-constructors-b6c7b72ae206
+
+5. 使用Go创建与以太坊交互的API - https://hackernoon.com/create-an-api-to-interact-with-ethereum-blockchain-using-golang-part-1-sqf3z7z
+
+6. 分布式系统的阅读清单 - https://dancres.github.io/Pages/
+
+7. 对史蒂夫·耶格（Steve Yegge）在2004年对IT世界的预测的点评 - http://danluu.com/yegge-predictions/ 
+
+8. zig语言尝试像Go一样去除对c运行时库的依赖 - https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html
+
+9. 争议：CentOS项目将重点转移到CentOS Stream - https://blog.centos.org/2020/12/future-is-centos-stream/
+
+
+
 ## go中文网每日资讯--2020-12-08 
 一、#公众号：Go语言中文网
 
