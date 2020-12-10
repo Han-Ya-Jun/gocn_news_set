@@ -7,6 +7,72 @@
 # gocn_news_set_2020
 
 
+## go中文网每日资讯--2020-12-10 
+一、#公众号：Go语言中文网
+
+1. [惊呆了！这个 Go 语言的 Bug 价值十亿美元](https://mp.weixin.qq.com/s/qXaRUDa6UWOUnWOOIjSDIQ)
+
+2. [一本帮助你成为更棒 Go 开发者的图书免费下载](https://mp.weixin.qq.com/s/kkLghCSeobeSNX2VLpZsnQ)
+
+3. [Go 经典入门系列 12：可变参数函数](https://mp.weixin.qq.com/s/DeEuZcWqE-LzYS_sg9m-vQ)
+
+4. [go基础之map-删除（三）](https://mp.weixin.qq.com/s/P_OHYlbWy5T67dzCxlv_Bg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-09)](https://studygolang.com/topics/12780)
+
+三、#公众号：从菜鸟到大佬
+
+1. [Golang领域模型-领域事件](https://mp.weixin.qq.com/s/qrnAzK3cGnBu5mqU9iADmA)
+
+四、#公众号：阿里巴巴云原生
+
+1. [分布式事务框架 seata-golang 通信模型详解](https://mp.weixin.qq.com/s/7xoshM4lzqHX9WqANbHAJQ)
+
+五、#公众号：polarisxu
+
+1. [200 行 Go 代码实现一个快速，简单，轻巧的 HTTP 路由器](https://mp.weixin.qq.com/s/pY2eA-aFzJ03Sq_zpBcGSw)
+
+六、#公众号：TonyBai
+
+1. [像跟踪分布式服务调用那样跟踪Go函数调用链](https://mp.weixin.qq.com/s/zrM0I-CsEujAm6ho6AD79g)
+
+
+## GOCN每日新闻--2020-12-10 
+
+1.基于 golang 的熔断器调研 https://my.oschina.net/u/4746469/blog/4784665#a
+
+2.聊聊 golang 的 zap 的 WriteSyncer https://segmentfault.com/a/1190000038431605
+
+3.Go 并发编程 (一) goroutine http://lailin.xyz/post/go-training-week3-goroutine.html
+
+4.BUG001:Docker-Alpine-Golang-APP 修改 hosts 文件不生效的问题 https://mojotv.cn/misc/bug-log
+
+5.Go 函数调用链跟踪的一种实现思路 https://tonybai.com/2020/12/10/a-kind-of-thinking-about-how-to-trace-function-call-chain/
+
+
+
+## gopherDaily--2020-12-10
+1. C++、JS、Python、PHP7、PHP8和Go质数计算大比拼 -  https://itnext.io/compare-c-js-python-python-numba-php7-php8-and-golang-in-prime-number-calculation-55e82b6f82a9
+
+2. K8s根本甩不掉Docker，原因一说就懂 - https://mp.weixin.qq.com/s/NYhUQqaN9v1s36EHqpw-kA
+
+3. 在k8s上使用go micro开发和部署微服务 - https://jmrobles.medium.com/go-micro-on-kubernetes-getting-started-2959dd6c2d4f
+
+4. Advent of Code 2020(Go实现) - https://dev.to/dizveloper/advent-of-code-2020-w-golang-479f
+
+5. 可学习的编程系统 - http://worrydream.com/#!/LearnableProgramming
+
+6. Docker 20.10发布 - https://docs.docker.com/engine/release-notes/#version-2010
+
+7. 如何手工优化一个神经网络模型 - https://machinelearningmastery.com/manually-optimize-neural-networks/
+
+8. 告别CentOS - https://www.clementchiew.me/blog/blog-013
+
+9. 在家工作(wfh)的前景 - https://blog.dropbox.com/topics/work-culture/the-future-of-wfh--owning-what-we-don-t-know0
+
+
 ## go中文网每日资讯--2020-12-09 
 一、#公众号：Go语言中文网
 
