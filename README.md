@@ -6,6 +6,66 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-12-11
+一、#公众号：Go语言中文网
+
+1. [Go 项目实战：实现一个 Redis(5) 之使用跳表实现 SortedSet](https://mp.weixin.qq.com/s/kGIpAq6zlhTkg8G-QyWBsQ)
+
+2. [Go 经典入门系列 12：Maps](https://mp.weixin.qq.com/s/9ql797x43pqGf-xaOTIWiQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-10)](https://studygolang.com/topics/12784)
+
+三、#公众号：腾讯云TVP
+
+1. [技术人如何在多重角色中游刃有余？| 专访毛剑](https://mp.weixin.qq.com/s/vEWKb7eumWtfeodmwfpp9Q)
+
+四、#公众号：有点技术
+
+1. [弃用docker之后你的k8s用哪种容器runtime?](https://mp.weixin.qq.com/s/TzsfBQcnvto1sGWq09TPlQ)
+
+五、#公众号：章老师说
+
+1. [百度万亿流量转发平台背后的故事](https://mp.weixin.qq.com/s/cH0u4NcItXdpe6NyitwWzg)
+
+## GOCN每日新闻--2020-12-11 
+1.Go 进阶训练营 第 4 课 Go 工程化实践  https://juejin.cn/post/6904595334693912584
+
+2.项目改用 GoModules 管理依赖的方法和经验总结 https://mp.weixin.qq.com/s/xtvTUl2IZFQ79dSR_m-b7A
+
+3.Golang 实现 Paxos 分布式共识算法 https://mp.weixin.qq.com/s/4q-63pZodAGjsSpOsOL2Fg
+
+4.使用 Apple Virtualization.framework 在 Go 中创建虚拟机并运行基于 Linux 的操作系统 https://github.com/Code-Hex/vz
+
+5.Go 语言中观察 GC 的几种方式 https://juejin.cn/post/6904280087668097038
+
+
+## gopherDaily--2020-12-11
+
+1. Go打造的在浏览器中使用的Go IDE - https://github.com/thestrukture/IDE
+
+2. Compass公司如何进行Go单元测试 - https://www.myhatchpad.com/insight/go-unit-testing-at-compass/
+
+3. 推荐在你的下一个Go项目中使用的20个Go包 - https://medium.com/vacatronics/20-go-packages-you-can-use-in-your-next-project-7515426559c0
+
+4. 支持就绪探针的弹性k8s deployment - https://rotemtam.com/2020/09/24/kubernetes-readiness-probes/
+
+5. vz：基于apple Virtualization.framework创建运行linux操作系统的虚拟机 - https://github.com/Code-Hex/vz
+
+6. 如何监控istio - https://sysdig.com/blog/monitor-istio/
+
+7. Kubernetes Security专家认证资料大全 - https://github.com/ibrahimjelliti/CKSS-Certified-Kubernetes-Security-Specialist
+
+8. 可汗学院的开放安全课程 - https://opensecuritytraining.info/Training.html
+
+9. pixie: 即时k8s原生应用的诊断工具 - https://github.com/pixie-labs/pixie
+
+10. julia数据并行处理介绍 - https://juliafolds.github.io/data-parallelism/tutorials/quick-introduction/
+
+11. google开源的通用表达式语言(cel) - https://github.com/google/cel-spec
+
+12. 使用github action部署应用到openshift - https://www.openshift.com
 
 ## go中文网每日资讯--2020-12-10 
 一、#公众号：Go语言中文网
