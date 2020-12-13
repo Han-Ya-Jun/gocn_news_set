@@ -6,6 +6,35 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+
+## GOCN每日新闻--2020-12-13 
+
+1.Go 1.16 新功能特性不完全前瞻 https://gocn.vip/topics/11382
+
+2.像跟踪分布式服务调用那样跟踪 Go 函数调用链 https://gocn.vip/topics/11383
+
+3.过载保护原理与实战 https://gocn.vip/topics/11381
+
+4.分布式事务框架 seata-golang 通信模型详解 https://gocn.vip/topics/11377
+
+5.译文：Prometheus TSDB(Part 1)：头块 https://gocn.vip/topics/11379
+
+## gopherDaily--2020-12-13 
+- 1.Go 1.16新功能特性不完全前瞻 - https://mp.weixin.qq.com/s/JzAQ3r9lDBad8PO6iAerqw
+- 2.使用Go和azure functions构建无服务app - https://itnext.io/build-a-serverless-app-using-go-and-azure-functions-c4475398f4ab
+- 3.yomo: 开源的低时延边缘计算Streaming Serverless Framework - https://github.com/yomorun/yomo
+- 4.松耦合的大单体和紧耦合的微服务 by lakefs blog - https://lakefs.io/loosely-coupled-monolith-vs-tightly-coupled-microservices/
+- 5.使用位掩码让你的API输出带上颜色 - https://www.arp242.net/bitmask.html
+- 6.使用Go编写Apache Spark UDF(user defined function) - https://relistan.com/writing-spark-udfs-in-go
+- 7.使用Go生成repository模式 - https://sf9v.github.io/posts/generating-the-repository-pattern-in-go/
+- 8.LinkedIn 在 GitHub 上开源了其企业内部的 SRE 技术课程，主要包含 Linux、Git、Python、Web、MySQL、大数据、系统设计、网络安全等内容 - https://github.com/linkedin/school-of-sre
+- 9.每个程序员都要使用的git命令快查表 - https://dev.to/ravimengar/a-git-cheatsheet-of-commands-every-developer-should-use-38ma
+- 10.k3s代码仓库放置在k3s-io下，脱离rancher - https://github.com/k3s-io/k3s
+- 11.imgdiff: 最快的逐像素图片比对工具 - https://github.com/n7olkachev/imgdiff
+- 12.使用gitops安全管理k8s secrets - https://itnext.io/managing-kubernetes-secrets-securely-with-gitops-b8174b4f4d30
+- 13.github的“黑暗模式”太黑了 - https://blog.karenying.com/posts/github-darkmode-sucks
+
+
 ## go中文网每日资讯--2020-12-12 
 一、#公众号：Go语言中文网
 
