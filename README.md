@@ -6,7 +6,111 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-12-14 
+一、#公众号：Go语言中文网
 
+1. [Go：gsignal，信号的掌控者](https://mp.weixin.qq.com/s/qVzRf27YA5KbF1rQwKKwpw)
+
+2. [Go 经典入门系列 15：指针](https://mp.weixin.qq.com/s/lV8Mcq3bX8Zt4BoojtBWuw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-13)](https://studygolang.com/topics/12800)
+
+三、#公众号：polarisxu
+
+1. [你是不是没想过，结构体竟然可以内嵌一个接口？](https://mp.weixin.qq.com/s/2eED64tnb3bDong_3_HJoA)
+
+四、#公众号：Golang技术分享
+
+1. [详解内联优化](https://mp.weixin.qq.com/s/-ypnI2rwWiUNo_9pNW1TLA)
+
+五、#公众号： 脑子进煎鱼了
+
+1. [万字长文 | 从实践到原理，带你参透 gRPC](https://mp.weixin.qq.com/s/o-K7G9ywCdmW7et6Q4WMeA)
+
+六、#公众号： Golang来啦
+
+1. [从 PHP 转 Go](https://mp.weixin.qq.com/s/_gP_8_BF84mQ-YsNVLD3Tg)
+
+七、#公众号：技术岁月
+
+1. [分布式任务调度系统之任务编排及工作流实现原理与 golang 实践](https://mp.weixin.qq.com/s/1epE7Ls1yyqRiKnopAzugA)
+
+八、#公众号：代码与远方
+
+1. [fasthttp 快在哪里](https://mp.weixin.qq.com/s/2Fnr5HmslIohZuao_wEoMQ)
+
+## GOCN每日新闻--2020-12-14
+
+1.理解 Go 并发以及调度器亲和性 https://mp.weixin.qq.com/s/XnqF5aZ_0F3-cZPUm9pM7w
+
+2.900W+ 数据，从 17s 到 300ms https://mp.weixin.qq.com/s/x3_0GQpTIdEOlIrfY_YcVA
+
+3.揭密容器环境下 Golang 回收子进程的运行机制 https://mp.weixin.qq.com/s/3HsqtHwWReX1S3ggP2_owg
+
+4.fasthttp 快在哪里 https://mp.weixin.qq.com/s/2Fnr5HmslIohZuao_wEoMQ
+
+5.Go 语言中观察 GC 的几种方式 https://juejin.cn/post/6904280087668097038
+
+## gopherDaily--2020-12-14
+1. Go实现的ETL解析器，支持CSV, txt, fixed length/width, XML, EDI/X12/EDIFACT, JSON以及自定义类型等 - https://github.com/jf-tech/omniparser
+
+2. 旁置缓存(cache-aside)模式的Go实现 - https://dev.to/husniadil/cache-aside-pattern-559f
+
+3. 提供者模式(provider pattern)的Go实现 - https://orenrose.medium.com/provider-model-in-go-and-why-you-should-use-it-clean-architecture-1d84cfe1b097
+
+4. Go 切片传递的隐藏危机 - https://www.pixelstech.net/article/1607859246-The-hidden-risk-of-passing-slice-as-function-parameter
+
+5. k8s中无代理的gRPC负载均衡 - https://itnext.io/proxyless-grpc-load-balancing-in-kubernetes-ca1a4797b742
+
+6. 如何删除k8s上的一个僵死在"Terminating"状态的PVC - https://veducate.co.uk/kubernetes-pvc-terminating/
+
+7. k8s监控的七个最佳实践 - https://sysdig.com/blog/kubernetes-monitoring-best-practices/
+
+8. 使用istio实现OpenID Connect(OIDC)认证 - https://blog.jetstack.io/blog/istio-oidc
+
+9. 从头手写一个内存分配器(memory allocator) - http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/
+
+10. 使用Go在immudb中存储病毒案例编号  - https://codenotary.com/blog/storing-virus-case-numbers-in-immudb/
+
+11. 在Go二进制文件中嵌入资源文件数据，无需依赖第三方库的方法 - https://dev.to/ugjka/embedding-assets-in-go-without-any-3rd-party-libraries-3a5d
+
+## go中文网每日资讯--2020-12-14
+
+一、#公众号：Go语言中文网
+
+1. [Go：gsignal，信号的掌控者](https://mp.weixin.qq.com/s/qVzRf27YA5KbF1rQwKKwpw)
+
+2. [Go 经典入门系列 15：指针](https://mp.weixin.qq.com/s/lV8Mcq3bX8Zt4BoojtBWuw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-13)](https://studygolang.com/topics/12800)
+
+三、#公众号：polarisxu
+
+1. [你是不是没想过，结构体竟然可以内嵌一个接口？](https://mp.weixin.qq.com/s/2eED64tnb3bDong_3_HJoA)
+
+四、#公众号：Golang技术分享
+
+1. [详解内联优化](https://mp.weixin.qq.com/s/-ypnI2rwWiUNo_9pNW1TLA)
+
+五、#公众号： 脑子进煎鱼了
+
+1. [万字长文 | 从实践到原理，带你参透 gRPC](https://mp.weixin.qq.com/s/o-K7G9ywCdmW7et6Q4WMeA)
+
+六、#公众号： Golang来啦
+
+1. [从 PHP 转 Go](https://mp.weixin.qq.com/s/_gP_8_BF84mQ-YsNVLD3Tg)
+
+七、#公众号：技术岁月
+
+1. [分布式任务调度系统之任务编排及工作流实现原理与 golang 实践](https://mp.weixin.qq.com/s/1epE7Ls1yyqRiKnopAzugA)
+
+八、#公众号：代码与远方
+
+1. [fasthttp 快在哪里](https://mp.weixin.qq.com/s/2Fnr5HmslIohZuao_wEoMQ)
 ## GOCN每日新闻--2020-12-13 
 
 1.Go 1.16 新功能特性不完全前瞻 https://gocn.vip/topics/11382
