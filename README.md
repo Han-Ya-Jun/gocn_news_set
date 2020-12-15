@@ -6,6 +6,90 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-12-15 
+
+一、#公众号：Go语言中文网
+
+1. [Uber 又为 Go 生态做贡献了](https://mp.weixin.qq.com/s/sBNcm6W4JGVbvcQ7Jso2wg)
+
+2. [Go 经典入门系列 16：结构体](https://mp.weixin.qq.com/s/KGIx5HLPdDjSfZCVtzzACA)
+
+3. [go基础之map-迭代（四）](https://mp.weixin.qq.com/s/gnB-5iFFoaTKLFWiHhMGPQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-14)](https://studygolang.com/topics/12807)
+
+三、#公众号：五分选手
+
+1. [LeetCode Weekly Contest 218 解题报告](https://mp.weixin.qq.com/s/vfbAWpwEZHFstfUPkkfeDQ)
+
+四、#公众号：网管叨bi叨
+
+1. [并发编程-信号量的使用方法和其实现原理](https://mp.weixin.qq.com/s/QAMgkj-pDe36leDeGigu4Q)
+
+五、#公众号：Golang来啦
+
+1. [Golang 面向对象编程](https://mp.weixin.qq.com/s/Kgjaq6s98pMfRzuAphEjAg)
+
+六、#公众号：代码与远方
+
+1. [Google 服务全线崩溃了! 谈谈什么是 SLA?](https://mp.weixin.qq.com/s/pAjB5puHi4s7SRa7Tv7k_g)
+
+七、#公众号：Go招聘
+
+1. [从 Delphi 到 Java 再到 Go，建筑行业这么紧跟时代步伐：招有缘人](https://mp.weixin.qq.com/s/OTUBw8J6uUrhX8YGHmfKaw)
+
+2. [广告系统貌似喜欢 Go？微博广告招 Go 研发工程师](https://mp.weixin.qq.com/s/Js4EtfYAoZgsAe9nUOSsoQ)
+
+八、#公众号：码农桃花源
+
+1. [Go pprof 快速分析 CPU 高负载问题](https://mp.weixin.qq.com/s/db--Gd4mUf2bs1hGwo5M_A)
+
+## GOCN每日新闻--2020-12-15
+
+1.Go 标准库 xml 语法解析循环漏洞 https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/
+
+2.期待已久的 beego2.0 来了，最简单易用的企业级应用开发框架 https://mp.weixin.qq.com/s/qKwHsRkPPeqUvgEC4IswnQ
+
+3.最简单的 K8S 部署文件编写姿势，没有之一！ https://gocn.vip/topics/11380
+
+4.Gmqtt——Go 语言实现的 MQTT broker https://juejin.cn/post/6905898448743038990
+
+5.使用 Go 程序编写 Docker 镜像打包和推送 https://www.loginradius.com/blog/async/build-push-docker-images-golang/
+
+## gopherDaily--2020-12-15
+
+1. 网络上最好的Golang学习资源: 精选最佳文章，练习，课程，讲座和视频来学习GO！- https://golangresources.com/
+
+2. 期待已久的beego2.0来了，最简单易用的企业级应用开发框架 - https://mp.weixin.qq.com/s/qKwHsRkPPeqUvgEC4IswnQ
+
+3. gitee开源指北 - https://gitee.com/gitee-community/opensource-guide/blob/master/%E7%9B%AE%E5%BD%95.md
+
+4. 在M1 Mac上编译使用arm64原生go - https://zhuanlan.zhihu.com/p/336371577
+
+5. Go实现的2D游戏引擎ebiten的2020总结 - https://ebiten.org/blog/2020.html
+
+6. 披露Go的标准库中XML包实现的三个漏洞 by mattermost - https://mattermost.com/blog/coordinated-disclosure-go-xml-vulnerabilities/
+
+7. R与Go中的数据转换 - https://medium.com/grail-eng/data-transformations-in-r-and-go-175df28d4e11
+
+8. C语言的defer机制实现 - https://gustedt.wordpress.com/2020/12/14/a-defer-mechanism-for-c/
+
+9. 解码复杂的json文本 - https://code-and-biscuits.blogspot.com/2020/12/go-unmarshalling-complicated-json.html
+
+10. 油管视频：为一个Go项目构建pipeline - https://youtu.be/AtiUf0uJ4YE
+
+11. 现实中的拜占庭错误 by cloudflare - https://blog.cloudflare.com/a-byzantine-failure-in-the-real-world/
+
+12. 面对网络故障，raft不能保证实时选出leader - https://decentralizedthoughts.github.io/2020-12-12-raft-liveness-full-omission/
+
+13. 现实世界程序在苹果M1芯片上的基准测试 - https://tech.ssut.me/apple-m1-chip-benchmarks-focused-on-the-real-world-programming/
+
+14. 指针过于复杂，我们需要新语言规范 - https://www.ralfj.de/blog/2020/12/14/provenance.html
+
+
+
 ## go中文网每日资讯--2020-12-14 
 一、#公众号：Go语言中文网
 
