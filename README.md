@@ -6,6 +6,94 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-12-16 
+
+一、#公众号：Go语言中文网
+
+1. [好库推荐 — CockroachDB errors 系列文章（一）：errors 的问题](https://mp.weixin.qq.com/s/S_04n2Uzse3VwptCH9gpow)
+
+2. [Go 经典入门系列 17：方法](https://mp.weixin.qq.com/s/S29FV1oPSAJqCoSwcYpHhA)
+
+3. [在Go中如何进行排序](https://mp.weixin.qq.com/s/0EULFToyq_k_rCWqNbOFgA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-15)](https://studygolang.com/topics/12811)
+
+三、#公众号：脑子进煎鱼了
+
+1. [Go 错误处理：用 panic 取代 err != nil 的模式](https://mp.weixin.qq.com/s/p77V3_LkREuXPVLdebmmmQ)
+
+四、#公众号：代码与远方
+
+1. [本文在手抓包不愁!](https://mp.weixin.qq.com/s/pLYTzmn1qFTiSUwn5V4Vnw)
+
+五、#公众号：polarisxu
+
+1. [新买了 Apple M1 Mac，却不知道如何安装 Go？](https://mp.weixin.qq.com/s/IuKZBnvJlskpqdHJqMcTXw)
+
+六、#公众号：微服务实践
+
+1. [通过MapReduce降低服务响应时间](https://mp.weixin.qq.com/s/yxXAIK1eC_X22DH4ssZSag)
+
+
+ 
+## GOCN每日新闻--2020-12-16
+
+1.Go netpoller 原生网络模型之源码全面揭秘 https://mp.weixin.qq.com/s/Ie0ZRlVVwZQf7B0ZCXdYLQ
+
+2.BPF and Go: Modern forms of introspection in Linux https://medium.com/bumble-tech/bpf-and-go-modern-forms-of-introspection-in-linux-6b9802682223
+
+3.Google 鼓励的 13 条代码审查标准 https://mp.weixin.qq.com/s/Zn3LKi6aN-jQcHecU7441w
+
+4.Kubernetes 如何使用 Nginx-Ingress 实现蓝绿和金丝雀发布 https://mp.weixin.qq.com/s/SAE4IvjVPVV1dfS4ZXwzbQ
+
+5.CockroachDB errors 系列文章（一）：errors 的问题 https://mp.weixin.qq.com/s/S_04n2Uzse3VwptCH9gpow
+
+
+## gopherDaily--2020-12-16
+1.Go官博：2021年初开始，godoc.org默认将重定向到pkg.go.dev - https://blog.golang.org/godoc.org-redirect
+
+2.查找关键的开源项目: Google开源criticality_score项目，该项目会评估一个开源项目的重要性并给出一个评估分数，打分算法来自Rob Pike - https://github.com/ossf/criticality_score，其go语言移植版在这里： https://github.com/engelsjk/criticalityscore
+```shell
+$ pip3 install criticality-score
+
+$ criticality_score --repo github.com/kubernetes/kubernetes
+name: kubernetes
+url: https://github.com/kubernetes/kubernetes
+language: Go
+created_since: 79
+updated_since: 0
+contributor_count: 3664
+org_count: 5
+commit_frequency: 102.7
+recent_releases_count: 76
+closed_issues_count: 2906
+updated_issues_count: 5136
+comment_frequency: 5.7
+dependents_count: 407254
+criticality_score: 0.9862
+```
+
+3.使用Go编写kubernetes controller - https://fedepaol.github.io/blog/2020/12/07/writing-a-kubernetes-controller-part-1/
+
+4.油管视频：现代编译器构建 by C#之父 - Anders Hejlsberg - https://www.youtube.com/watch?v=wSdV1M7n4gQ
+
+5.kubernetes存储插件性能横向对比(2020版) - https://medium.com/volterra-io/kubernetes-storage-performance-comparison-v2-2020-updated-1c0b69f0dcf4
+
+6.使用kubernetes编排虚拟机 - https://www.projectcalico.org/using-kubernetes-to-orchestrate-vms/
+
+7.使用RBAC简化kubernetes资源访问控制 - https://www.cncf.io/blog/2020/09/17/simplify-kubernetes-resource-access-control-using-rbac-impersonation/
+
+8.Go gui框架fyne的全平台打包发布工具fyne-cross发布1.0版本 - https://fyne.io/blog/2020/12/14/fyne-cross-v1-release.html
+
+9.最小的bash安全脚本模板 - https://betterdev.blog/minimal-safe-bash-script-template/
+
+10.免费的linux系统监控模板 by influxdb - https://www.influxdata.com/blog/free-linux-system-monitoring-dashboard-from-influxdb/
+
+11.C++ 20标准正式发布 - https://www.iso.org/standard/79358.html
+
+
 ## go中文网每日资讯--2020-12-15 
 
 一、#公众号：Go语言中文网
