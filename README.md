@@ -6,6 +6,75 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-12-17
+一、#公众号：Go语言中文网
+
+1. [英雄联盟（LOL）所在公司竟然大量使用 Go 语言：这是他们的实战分享](https://mp.weixin.qq.com/s/lyMj5vjhH1KytWHDWgnYGg)
+
+2. [第 71 期周刊题目 — 结构体内嵌接口：65% 的人答错了](https://mp.weixin.qq.com/s/FfWKzGKvObEffxIsxryNQg)
+
+3. [Go 经典入门系列 18：接口（一）](https://mp.weixin.qq.com/s/GmnT_PHNHIbgYb9O9u-Zcw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-16)](https://studygolang.com/topics/12817)
+
+三、#公众号：Golang来啦
+
+1. [深入理解 Defer 函数](https://mp.weixin.qq.com/s/RYHscNNGx_2pwrjGc-jgdA)
+
+四、#公众号：代码与远方
+
+1. [抓包二部曲 - Wireshark 捕获和显示过滤器](https://mp.weixin.qq.com/s/vAwgLbxVHTxl0P2aFlr1WA)
+
+五、#公众号：polarisxu
+
+1. [听说你还不知道如何查看 Go 历史文档？](https://mp.weixin.qq.com/s/NGG7bxOHjTElHQ88j_q1tA)
+
+六、#公众号：Go开发大全
+
+1. [详解Golang堆栈指针](https://mp.weixin.qq.com/s/vBsIvUnZGPNqlDUIEGaHSw)
+
+七、#公众号：Kubernetes技术栈
+
+1. [Containerd 的前世今生和级入门教程](https://mp.weixin.qq.com/s/DhLmd9tv88-Vbk6dwx3umg)
+##  GOCN每日新闻--2020-12-17
+1.对比 Python 学习 Go- 高级数据结构 https://segmentfault.com/a/1190000038498305
+
+2.实时 Golang 运行时统计信息可视化分析器  https://github.com/go-echarts/statsview
+
+3.Go 实现的用于调整和转换远程图像的大小的独立服务器 imgproxy https://github.com/imgproxy/imgproxy
+
+4.在 Go 中安全的构建 Elasticsearch 的搜索查询 https://dev.to/taqkarim/safely-construct-elasticsearch-queries-w-golang-4ff3
+
+5.在 Go 中使用 Afero 去 mock 文件系统 https://dev.to/drpaneas/mocking-the-filesystem-in-go-using-afero-ok4
+
+## gopherDaily--2020-12-17
+1.docker发布支持apple M1芯片的docker desktop预览版 - https://www.docker.com/blog/download-and-try-the-tech-preview-of-docker-desktop-for-m1/
+
+2.组织依赖的编程语言排行榜，Go排名第7 - https://dzone.com/articles/the-top-programming-languages-organizations-rely-o
+
+3.油管视频：Golab技术会议视频全集 - https://www.youtube.com/channel/UCMEvzoHTIdZI7IM8LoRbLsQ/videos
+
+4.使用Go连接云存储时的易用性 - https://www.backblaze.com/blog/development-roadmap-power-up-apps-with-go-programming-language-and-cloud-storage/
+
+5.Gartner：2021年影响基础设施和运营的六大趋势 - https://mp.weixin.qq.com/s/79XLuaFMQ-W0h4mSnNFKEQ
+
+6.油管视频：2020 LLVM开发者会议：“受检查的C：向LLVM加入内存安全性” - https://www.youtube.com/watch?v=EuxAzvtX9CI
+
+7.MIT研究发现：对大脑而言，阅读计算机代码与阅读语言不同 - https://news.mit.edu/2020/brain-reading-computer-code-1215
+
+8.Dapr: 云原生食谱的自选食材 - https://github.com/orizohar/CloudNativeKitchen2020/blob/main/Dapr-Cloud-Native-Kitchen-Dec-2020.pdf
+
+9.经典旧文：软件测试指南 - https://martinfowler.com/testing/
+
+10.对Go二进制文件进行逆向工程 - https://x0r19x91.gitlab.io/post/vibrations-hacktm-2020-finals/
+
+11.Google面试最常问的20个问题 - https://www.programming-hero.com/blog/20-most-frequently-asked-google-interview-questions.html
+
+12.使用Go创建一个kubernetes operator来自动管理一个简单的有状态应用 - https://developers.redhat.com/blog/2020/12/16/create-a-kubernetes-operator-in-golang-to-automatically-manage-a-simple-stateful-application/
+
+
 ## go中文网每日资讯--2020-12-16 
 
 一、#公众号：Go语言中文网
