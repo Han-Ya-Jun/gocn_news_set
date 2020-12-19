@@ -6,6 +6,64 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+
+## go中文网每日资讯--2020-12-18 
+
+一、#公众号：Go语言中文网
+
+1. [在编程中，有两件事情最难：聊聊 Go 中的简短变量名](https://mp.weixin.qq.com/s/gcTM1zM7kUkth-tCHDZjzA)
+
+2. [Go 经典入门系列 19：接口（二）](https://mp.weixin.qq.com/s/jZ_bAvR8GTT5OZMCO0UiBQ)
+
+3. [每日一库之如何快速打造一款钉钉 Go sdk](https://mp.weixin.qq.com/s/PN7mlZymSRekQ2PmHfw9Aw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-17)](https://studygolang.com/topics/12826)
+
+三、#公众号：Go招聘
+
+1. [Go 1.16 Beta1 发布了：你的 M1 可以安装原生 Go 了](https://mp.weixin.qq.com/s/LMtg_nilQaDbEZUFuyWlog)
+2. [一次完整的腾讯 Go 开发岗位面试记录](https://mp.weixin.qq.com/s/t6XpRpgFVD60k4wktB05rw)
+
+四、#公众号：代码与远方
+
+1. [抓包三部曲 - WebSocket 协议原理抓包分析](https://mp.weixin.qq.com/s/sCSMtQZF6RBqUBnlWN-R9Q)
+
+五、#公众号：polarisxu
+
+1. [送书：送 5 本进大厂必备的硬核算法教程](https://mp.weixin.qq.com/s/aPtBDmLUmcSloaW_vGW7NA)
+
+六、#公众号：Go 101
+
+1. [Go 1.16 新特性查缺补漏二](https://mp.weixin.qq.com/s/JN8UEtI0LOVx3lJd868HXw)
+
+七、#公众号：Golang语言开发栈
+
+1. [Go team 开源项目 Go Cloud 使用的依赖注入工具 Wire 怎么使用？](https://mp.weixin.qq.com/s/7B71pL7vH1PcmY00VbfG_g)
+
+## gopherDaily--2020-12-18
+
+1. Go 1.16 beta1发布，支持在Apple M1芯片上运行 - https://groups.google.com/g/golang-announce/c/2-Rj3P5uRLs/m/mYxD2RJkAQAJ 国内下载地址：https://golang.google.cn/dl/ 关于Go 1.16的功能前瞻，可以参考我的这篇文章：https://mp.weixin.qq.com/s/JzAQ3r9lDBad8PO6iAerqw
+
+2. Go官博：Go对ARM生态的支持，已经支持了M1，下一个目标ARM64 Windows 10系统 - https://blog.golang.org/ports
+
+3. go语言有哪些劣势（在知乎的回答) - https://www.zhihu.com/question/300163211/answer/1632229924
+
+4. 使用Go构建数据库(part1) - https://ewanvalentine.io/building-a-database-in-go-part-one/
+
+5. Go实现的防审查代理隧道 - https://spacetime.dev/rosen-censorship-resistant-proxy-tunnel
+
+6. Kubernetes水族馆 - https://medium.com/@AnneLoVerso/the-kubernetes-aquarium-6a3d1d7a2afd
+
+7. 使用Go进行Postgres数据库查询结果分页的四种方法 -  https://dev.to/bxcodec/how-to-do-pagination-in-postgres-with-golang-in-4-common-ways-4kph
+
+8. GTK 4.0发布 - https://blog.gtk.org/2020/12/16/gtk-4-0/
+
+9. MongoDB在线数据迁移 - https://www.loginradius.com/blog/async/live-data-migration-mongodb/
+
+10. GitHub移除了所有cookie横幅(banner) - https://github.blog/2020-12-17-no-cookie-for-you/
+
 ## go中文网每日资讯--2020-12-17
 一、#公众号：Go语言中文网
 
