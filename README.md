@@ -42,6 +42,18 @@
 
 1. [Go team 开源项目 Go Cloud 使用的依赖注入工具 Wire 怎么使用？](https://mp.weixin.qq.com/s/7B71pL7vH1PcmY00VbfG_g)
 
+##  GOCN每日新闻--2020-12-18
+
+1. Go on ARM 和未来，Apple M1 支持来了 https://mp.weixin.qq.com/s/Et9haBeLwr5lcpsZRVVFJw
+
+2. 使用 Go 语言编写一个数据库  https://ewanvalentine.io/building-a-database-in-go-part-one/
+
+3. 聊聊 golang 的 zap 的 encoder https://segmentfault.com/a/1190000038521335
+
+4. 使用 Go 语言编写一个 tic tac toe 游戏 https://www.reddit.com/r/golang/comments/kf81ip/tic_tac_toe_game_with_go/
+
+5. doggo: 一款现代化的 DNS 客户端 https://github.com/mr-karan/doggo
+
 ## gopherDaily--2020-12-18
 
 1. Go 1.16 beta1发布，支持在Apple M1芯片上运行 - https://groups.google.com/g/golang-announce/c/2-Rj3P5uRLs/m/mYxD2RJkAQAJ 国内下载地址：https://golang.google.cn/dl/ 关于Go 1.16的功能前瞻，可以参考我的这篇文章：https://mp.weixin.qq.com/s/JzAQ3r9lDBad8PO6iAerqw
