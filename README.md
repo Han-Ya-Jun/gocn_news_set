@@ -5,6 +5,97 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
+## go中文网每日资讯--2020-12-21
+一、#公众号：Go语言中文网
+
+1. [Go 项目实战：实现一个 Redis(6) 之实现 pipeline 模式的 redis 客户端](https://mp.weixin.qq.com/s/9NILvKm2vzEx3hc0lVQy6w)
+
+2. [Go 经典入门系列 22：Channel](https://mp.weixin.qq.com/s/XoTz1MrBBgmHMuyZuKWDyA)
+
+3. [为 Gopher 打造 DDD 系列：领域模型-领域事件](https://mp.weixin.qq.com/s/srf7FBOuK0x_54rzZBkFbg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-20)](https://studygolang.com/topics/12835)
+
+三、#公众号：代码与远方
+
+1. [网络第三弹 - 聊聊TCP连接耗时的那些事儿](https://mp.weixin.qq.com/s/z-sZVv1xrFxlaER7vtx3Yg)
+
+四、#公众号：奇伢云存储
+
+1. [golang 调试分析的高阶技巧](https://mp.weixin.qq.com/s/T2Xn7L9F7KUV0BnYF4v8lQ)
+
+2. [Golang最细节篇— struct{} 空结构体究竟是啥？](https://mp.weixin.qq.com/s/Rd1kUFK0F4Z-UTfl5wBcPw)
+
+五、#公众号： Go夜读
+
+1. [《Go 语言并发之道》读后感 - 第一章](https://mp.weixin.qq.com/s/SyswHk85HOgZ4AS9B8wSSQ)
+
+六、#公众号：轩脉刃的刀光剑影
+
+1. [grafana 的主体架构是如何设计的？](https://mp.weixin.qq.com/s/xG0PVcm5SnJoOxKr4XbGPA)
+
+七、鸟窝
+
+1. [Go 运行程序中的线程数](https://colobu.com/2020/12/20/threads-in-go-runtime/)
+
+## GOCN每日新闻--2020-12-21 
+
+1.Go 语言参数传递 https://mp.weixin.qq.com/s/JHbFh2GhoKewlemq7iI59Q
+
+2.Go 通道实现原理 https://juejin.cn/post/6907876667746680846
+
+3.在 Go HTTP 服务器中并发 https://eli.thegreenplace.net/2019/on-concurrency-in-go-http-servers
+
+4.理解 Go 并发以及调度器亲和性 https://mp.weixin.qq.com/s/XnqF5aZ_0F3-cZPUm9pM7w
+
+5.在 Go 中正常关闭 TCP 服务器 https://eli.thegreenplace.net/2020/graceful-shutdown-of-a-tcp-server-in-go/
+
+
+## gopherDaily--2020-12-21
+1.解锁Go语言的2020:变革前夜 - https://www.infoq.cn/article/CEoMOxgW4X7GCYr4eUEi
+
+2.经典旧文：tinygo从小到大 - https://www.infoq.com/presentations/tiny-go/
+
+3.油管视频：Go机器学习实例解析 - https://www.youtube.com/watch?v=vnA-aSoQSeE&t=359s
+
+4.owncast: Go实现的自托管的实时流服务器 - https://github.com/owncast/owncast
+
+5.如何使用kubernetes operator创建一个自定义资源 - https://codilime.com/how-to-create-a-custom-resource-with-kubernetes-operator/
+
+6.eBPF太棒了 - https://filipnikolovski.com/posts/ebpf/
+
+7.实现一个安全至上的Pod安全策略架构 - https://itnext.io/implementing-a-restricted-first-pod-security-policyarchitecture-af4e906593b0
+
+8.vim-go作者离开美国github，回到土耳其 - https://arslan.io/2020/12/20/why-i-left-the-us/
+
+9.工程师的股票期权指南 - https://blog.alexmaccaw.com/an-engineers-guide-to-stock-options
+
+10.web诞生30年 - https://home.cern/science/computing/birth-web
+
+## 码农桃花源每日分享--2020-12-21
+每日文章】
+1. k8s 垃圾回收集器的实现 https://draveness.me/kubernetes-garbage-collector/
+2. 并发编程与context  https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-context/
+3. go select实现原理 https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-channel/
+4. 每日一库 cast：https://mp.weixin.qq.com/s?__biz=MzU2MDc3OTgwOQ==&mid=2247483756&idx=1&sn=a78ce74da8e6cbe565325260c64f625c&chksm=fc038622cb740f34b35e0b176222ba40658e60c861f55bdd3afa73e0dd2f0e31a1d8ee0bda5f&scene=178&cur_album_id=1321290987905564672#rd
+5. 常用限流算法的应用场景和实现原理 https://mp.weixin.qq.com/s/krrUFEHVBw4c-47ziXOK2w
+
+【每日一问】
+为什么redis选择单线程模型
+
+【每日面试】开放性答案，欢迎群里讨论，不做解答哦
+1. channel接受和发送数据的本质是什么
+2. channel在什么情况下会引起资源泄漏
+3. kafka如何保证数据不丢
+
+【每日群友文章分享】
+1.语言内存模型 https://mp.weixin.qq.com/s/X4BDr_ANxiFT5MPdcL1Bhg     ----frank
+2.const导致程序结果错乱？    
+3.Go 内存模型 https://lailin.xyz/post/go-training-week3-go-memory-model.html ----莫回首
+
+
 ## go中文网每日资讯--2020-12-20 
 一、#公众号：Go语言中文网
 
