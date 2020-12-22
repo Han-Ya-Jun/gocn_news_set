@@ -5,6 +5,98 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
+
+## go中文网每日资讯--2020-12-22 
+
+一、#公众号：Go语言中文网
+
+1. [Go 中没有引用传递？](https://mp.weixin.qq.com/s/WyDHVScoXjikOmtAZHTUKw)
+
+2. [Go 经典入门系列 23：缓冲信道和工作池](https://mp.weixin.qq.com/s/cD_GBr6Ax6SnngFoBsHI-Q)
+
+3. [第 74 期周刊题目答案解析](https://mp.weixin.qq.com/s/HE97zHrQEOjY4I8mZfVU7Q)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2020-12-21)](https://studygolang.com/topics/12838)
+
+三、#公众号：代码与远方
+
+1. [漫画 | 一台Linux服务器最多能支撑多少个TCP连接？](https://mp.weixin.qq.com/s/RdsNsanjeyVIkY6UuaJS4w)
+
+四、#公众号：polarisxu 
+
+1. [这道题竟然只有 12% 的人答对。。。](https://mp.weixin.qq.com/s/2HFch2rFKi9d9F9WrpYI3Q)
+
+五、#公众号：Go夜读
+
+1. [Go夜聊 | 第 2 期：成为 Go 贡献者](https://www.xiaoyuzhoufm.com/episode/5fe02e6edee9c1e16d31e19e?s=eyJ1IjoiNWU3ZWM3M2QwYTdiZDgwOWMyZTkxMmQ0IiwiZCI6MX0%3D)
+
+六、#公众号：码农桃花源
+
+1. [Go http client 连接池不复用的问题](https://mp.weixin.qq.com/s/OtkBEOxAWkwEu01PYbWY2w)
+
+七、#公众号：脑子进煎鱼了
+
+1. [Go 并发：一些有趣的现象和要避开的 “坑”](https://mp.weixin.qq.com/s/k6ioEP4Yp_jMFGGFvvXxxQ)
+
+八、#公众号：Go招聘
+
+1. [2020 腾讯社招 Golang 后端面试题](https://mp.weixin.qq.com/s/XWMiKR8xMi_Qb0eedv34pg)
+
+2. [米粉们别错过这个职位：小米商城招 Go](https://mp.weixin.qq.com/s/Up7k2ipu5VKLBD9ZncJDXw)
+
+## gopherDaily--2020-12-22
+
+1. 使用brockly以图形化方式构建一个Go Web Server - https://github.com/thestrukture/brockly
+
+2. Go语言的express.js框架：fiber web开发框架简介 - https://medium.com/javascript-in-plain-english/golang-fiber-426f52185fc4
+
+3. 又一本有关Go网络编程的书要出版了：no starch出版社的《Network Programming with Go》将在明年2月与gopher见面 - https://nostarch.com/networkprogrammingwithgo
+
+4. go-streams: Go流处理库 - https://github.com/reugn/go-streams
+
+5. 观点：go与缺少泛型 - https://dmendoncaoliveira.medium.com/go-and-the-absence-of-generics-1c64e3aafc7f
+
+6. Docker Desktop将提供在WSL2中对GPU的支持 - https://www.docker.com/blog/wsl-2-gpu-support-is-here/
+
+7. Go语言中的JWT实战：使用JWT构建安全的API - https://medium.com/better-programming/hands-on-with-jwt-in-golang-8c986d1bb4c0
+
+8. 与镜像仓库互操作的Go包 - https://github.com/google/go-containerregistry
+
+9. 创建最小且安全的Go容器镜像 - https://medium.com/@chemidy/create-the-smallest-and-secured-golang-docker-image-based-on-scratch-4752223b7324
+
+## 码农桃花源每日分享--2020-12-22
+
+###【每日文章】
+1. 饶大的map底层原理 https://www.yuque.com/wegoer/set/go-map
+2. go的内存分配 https://mp.weixin.qq.com/s?__biz=MzUzNTY5MzU2MA==&mid=2247485736&idx=1&sn=921a9dfe3d638074b68a4fd072ea3cb9&chksm=fa80d8bfcdf751a948ea49ee620ca9d88ff0a62b4ad4e3a53321fee6813b8f90098fd72f7b11&token=940952510&lang=zh_CN&scene=21#wechat_redirect
+3. 学习反射三大定律 https://mp.weixin.qq.com/s/Hke0mSCEa4ga_GS_LUp78A
+4. go defer实现原理 https://draveness.me/golang/docs/part2-foundation/ch05-keyword/golang-defer/   
+5. k8s Job和CronJob的实现 https://draveness.me/kubernetes-job-cronjob/ 
+6. linux文件类型与扩展名 https://www.cnblogs.com/peida/archive/2012/11/22/2781912.html
+7. 运行中的线程数  https://colobu.com/2020/12/20/threads-in-go-runtime/ 
+8. 每日一库 log：https://mp.weixin.qq.com/s?__biz=MzU2MDc3OTgwOQ==&mid=2247483760&idx=1&sn=dd18e1e32298eea31e6e9381bfeceee8&chksm=fc03863ecb740f28a7678d5e5abfdfd5de8e2b7127b10a916225175729832d8d4613859dc6c1&scene=178&cur_album_id=1321290987905564672#rd   
+
+###【每日一问】
+为什么使用通信来共享内存
+https://mp.weixin.qq.com/s?__biz=MzU5NTAzNjc3Mg==&mid=2247483959&idx=1&sn=7939541dd94a4f707f5ee743da8e6b9d&chksm=fe795d3cc90ed42a1d4ba1f687b27fe1634b969e30e52db4740fb4388850e5801a3b3ebb6f2b&scene=178&cur_album_id=1319543853325664257#rd
+
+###【每日面试】开放性答案，欢迎群里讨论，不做解答哦
+1.Goroutine底层原理
+2.Channel为啥能通信
+3.interface实现
+
+###【每日扩展】
+1.service mesh https://mp.weixin.qq.com/s/-VjtkGGJ5hJan-7FoSqMrQ
+2.#Go夜聊 Max 可能是目前国内最活跃的 Go 语言贡献者之一，Max 为什么能够如此活跃在 Go 的贡献榜上？他是怎么一步步成长为 MIPS 维护者的？维护的过程中遇到过哪些问题？作为贡献者，与 Go 团队打交道又有哪些奇闻趣事？ https://www.xiaoyuzhoufm.com/episode/5fe02e6edee9c1e16d31e19e?s=eyJ1IjogIjVlN2VjNzNkMGE3YmQ4MDljMmU5MTJkNCJ9
+
+###【每日算法】
+1.滑动窗口最大值
+2.柱状图的最大面积
+
+
+
 ## go中文网每日资讯--2020-12-21
 一、#公众号：Go语言中文网
 
@@ -39,6 +131,9 @@
 七、鸟窝
 
 1. [Go 运行程序中的线程数](https://colobu.com/2020/12/20/threads-in-go-runtime/)
+
+
+
 
 ## GOCN每日新闻--2020-12-21 
 
