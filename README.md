@@ -6,6 +6,120 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+
+## go中文网每日资讯--2020-12-23 
+一、#公众号：Go语言中文网
+
+1. [又是 Python，又是 Go 和 Rust，你觉得这个招聘到底是要什么人才？](https://mp.weixin.qq.com/s/rB8Han9VrHify-G0Fl6egw)
+
+2. [Go 项目实战：实现一个 Redis(7) 之集群与一致性 Hash](https://mp.weixin.qq.com/s/KCY4VdvsnDvjr4ZDnbjVmg)
+
+3. [Go 经典入门系列 24：Select](https://mp.weixin.qq.com/s/P6D8TgyeaI8uflGgIRCIkg)
+
+4. [疑惑: Go const 导致程序结果错乱 ?](https://mp.weixin.qq.com/s/i7yLDIM9858b1jwYlqXpYA)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-12-22](https://studygolang.com/topics/12844)
+
+三、#公众号：代码与远方
+
+1. [HTTP/2 协议（抓包分析 HTTP/2 握手是如何被建立的）](https://mp.weixin.qq.com/s/FCbG0PxVks1F37bsMyNwMA)
+
+四、#公众号：polarisxu 
+
+1. [同时会 Go 和 Rust 的优势：这个岗位推荐入职了奖励 0.5 个比特币](https://mp.weixin.qq.com/s/Aw3sOK7tg1kr8uo3WDikVA)
+
+五、#公众号：网管叨bi叨
+
+1. [觉得WaitGroup不好用？试试ErrorGroup吧！](https://mp.weixin.qq.com/s/AUNXmKkQGI9uotwPoweg3A)
+
+六、#公众号：Golang技术分享
+
+1. [同步原语的基石](https://mp.weixin.qq.com/s/DVBxBaeetJCgK_zbuCRtag)
+
+七、#公众号：Go夜读
+
+1. [《Go 语言并发之道》读后感 - 第二章](https://mp.weixin.qq.com/s/cmCyYBhwA0g1ZWxsuwdUtw)
+
+
+## GOCN每日新闻--2020-12-23 
+
+1.GopherCon2020 视频录像 https://youtube.com/playlist?list=PL2ntRZ1ySWBfUint2hCE1JRxRWChloasB
+
+2.Nebula Graph 在微众银行数据治理业务的实践 https://gocn.vip/topics/11420
+
+3.Go 运行程序中的线程数 https://colobu.com/2020/12/20/threads-in-go-runtime/
+
+4.如何在 Golang 程序中使用 Makefiles https://leogtzr.medium.com/how-to-use-makefiles-for-your-golang-development-b4c438fe0bdd
+
+5.基于 Beego 开发的类似百度文库站点 https://github.com/TruthHun/DocHub
+
+
+## gopherDaily--2020-12-23
+
+1. GopherCon 2020技术大会视频全集 - https://www.youtube.com/playlist?list=PL2ntRZ1ySWBfUint2hCE1JRxRWChloasB
+
+2. 油管视频：Go 1.16文件嵌入教程 - https://www.youtube.com/watch?v=YoDGTwwQTso&feature=youtu.be
+
+3. go module即将成为你的唯一选择 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesOnlyFuture
+
+4. Go语言中的后现代主义元素 - https://medium.com/@gptankit/post-modernism-in-go-bd2d0831b47f
+
+5. Expectate:  'expect' 风格语法的go辅助测试工具 - https://dev.to/stevekaufman/expectate-a-go-testing-utility-5bp8
+
+6. vscode-go计划将gopls作为默认语言服务器 - https://github.com/golang/vscode-go/issues/1037
+
+7. kubernetes init容器简介 - https://www.learncloudnative.com/blog/2020-09-26-init-containers/
+
+8. 在运行时从外部Vault向Kubernetes Pod中注入secret数据 - https://itnext.io/secrets-injection-from-external-vault-into-kubernetes-poc-83a52c8cf5cb
+
+9. 如何在不重建容器映像的情况下修改容器 - https://cloudowski.com/articles/how-to-modify-containers-wihtout-rebuilding/
+
+10. Raspberry Pi CM4上的WiFi 6达到1.34 Gbps的带宽 - https://www.jeffgeerling.com/blog/2020/wifi-6-gets-134-gbps-on-raspberry-pi-cm4 
+
+## 码农桃花源每日分享-2020-12-23
+
+### 【每日分享知识点】
+1. 结构体内嵌接口类型，你了解吗？https://mp.weixin.qq.com/s?__biz=MzAxNzY0NDE3NA==&mid=2247485647&idx=1&sn=939be6994c925a127d5babd698c9255f&chksm=9be3272eac94ae382456ebb8121482d567663c8424b445e56ae5ea1419d36aa338139a57638f&scene=21#wechat_redirect
+
+2. Go 语言 Web 框架 Echo 的亮点 https://mp.weixin.qq.com/s?__biz=MzAxNzY0NDE3NA==&mid=2247484430&idx=1&sn=d25a0f44a57922ab1589f5e49dd5e51d&chksm=9be32befac94a2f9b7795a336ef96632aff6a44a5e683757f4607fe1506a6fd1525fce2b8f3c&scene=178&cur_album_id=1406496244629127169#rd
+3. Go 语言 struct 的内存对齐 https://mp.weixin.qq.com/s?__biz=MzUxNzA2NzEzNw==&mid=2247483840&idx=1&sn=31a8fc0819e6cc050ace3f5af7a121d9&chksm=f99c992eceeb103818a9102e01198b55a637d446d2c9d8908e062fd648c051e5fa5d9e05788c&scene=178&cur_album_id=1345369054160306177#rd
+4. Go 语言 map 的底层设计 https://mp.weixin.qq.com/s?__biz=MzUxNzA2NzEzNw==&mid=2247483835&idx=1&sn=378811820e635f6f862b02f4e49fa20a&chksm=f99c9955ceeb1043d6631cbcde16a3e893390fb5ae6d58b753670f6020ed9fed52b4a9670802&scene=21#wechat_redirect
+5. Go 语言 泛型 为何姗姗来迟 https://mp.weixin.qq.com/s?__biz=MzU5NTAzNjc3Mg==&mid=2247484151&idx=1&sn=1474312a323ad67dfd01056d98922515&chksm=fe795dfcc90ed4ead8d52450f79ec4fcc0f2bdd9a30e33b6664211a310123d1392d83f96061d&scene=178&cur_album_id=1319543853325664257#rd
+6. etcd v3原理分析 https://mp.weixin.qq.com/s/Iafri5oGaNLWIlYxsj_hRA
+7. 每日linux命令之 /etc/group介绍 https://www.cnblogs.com/peida/archive/2012/12/05/2802419.html
+
+### 【每日一问】
+看了饶大的interface十问，一起来复盘一下
+接口变量的值在什么情况下才真正为nil？
+ 
+Go 语言中的哪些值是不可寻址的？
+比如，对切片字面量的索引结果值是可寻址的吗？
+
+### 【每日算法】
+leetcode 241  为运算表达式设计优先级 https://leetcode-cn.com/problems/different-ways-to-add-parentheses/
+leetcode 258 各位相加 https://leetcode-cn.com/problems/add-digits/
+
+### 【每日新闻】
+Go支持M1啦，来吃螃蟹吧 https://mp.weixin.qq.com/s?__biz=MzAxNzY0NDE3NA==&mid=2247485664&idx=1&sn=dcf68bec966571f38bba1e3cbeb01553&chksm=9be32701ac94ae179988d4d456cbe507ff01ce7f7d87653afe9b70691446454acb1212d0a4bf&scene=21#wechat_redirect
+
+### 【群友文章分享】
+煎鱼分享关于go并发里的那些趣事与大坑 https://mp.weixin.qq.com/s/k6ioEP4Yp_jMFGGFvvXxxQ
+Go并发编程之data race https://lailin.xyz/post/go-training-week3-data-race.html
+深度解析raft协议 https://mp.weixin.qq.com/s/IA4aGJ0o-xsQtU9H0JliYw
+一台Linux服务器最多能支撑多少个TCP连接 https://mp.weixin.qq.com/s/RdsNsanjeyVIkY6UuaJS4w
+
+
+### 【名言分享】
+Don't panic.
+
+编辑: Amartya 果果  
+
+更多内容详见：https://www.yuque.com/wuguoguoya/eqzzkl/lumgcp
+#公众号:码农桃花源
+
+ 
 ## go中文网每日资讯--2020-12-22 
 
 一、#公众号：Go语言中文网
