@@ -6,7 +6,89 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-12-24
 
+一、#公众号：Go语言中文网
+
+1. [图解 Go pprof 收集数据的工作流](https://mp.weixin.qq.com/s/HQzz2NQ2lSg_LLsNB7C-mw)
+
+2. [Go 经典入门系列 25：Mutex​](https://mp.weixin.qq.com/s/qb7XNcruzzM1CMcMUIqFhg)
+
+3. [Golang 实现 Paxos 分布式共识算法](https://mp.weixin.qq.com/s/6T4xTXJt5HjMFw0yNfmRLQ)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-12-23](https://studygolang.com/topics/12849)
+
+三、#公众号：代码与远方
+
+1. [漫画 | 理解了TCP连接的实现以后，客户端的并发也爆发了！](https://mp.weixin.qq.com/s/K5cOO0VpBBnsj0iGwzmUNw)
+
+四、#公众号：轩脉刃的刀光剑影
+
+1. [谈服务可用性监控](https://mp.weixin.qq.com/s/g3S9c2MqD25O4MXr3tW9XA)
+
+五、#公众号：Golang梦工厂
+
+1. [女朋友：你知道嘛，不使用orm框架也可以写动态sql了！](https://mp.weixin.qq.com/s/LhpU0d8Lb1slptX4h67tEQ)
+
+六、#公众号：Golang语言开发栈
+
+1. [Golang 语言怎么使用 Viper 管理配置信息？](https://mp.weixin.qq.com/s/zLFnhk4kJ1sefXTpThnlHQ)
+
+七、#公众号：Go夜读
+
+1. [《Go 语言并发之道》读后感 - 第三章](https://mp.weixin.qq.com/s/8fexiSuJCq2Psm6g9-5iOA)
+
+## gopherDaily--2020-12-24
+1.Go包依赖不仅混乱，而且神出鬼没 - https://dlorenc.medium.com/the-dependency-jungle-841bd1c7bce0
+
+2.从PHP（Laravel）迁移到Go - https://mp.weixin.qq.com/s/DIalCpxno699DiEJp3-CTA
+
+3.使用Go从头构建一个BitTorrent客户端 - https://blog.jse.li/posts/torrent/
+
+4.对Go2的思考与一些想法 - https://www.reddit.com/r/golang/comments/kiz8rf/go2_thoughts_and_ideas/
+
+5.基于Google通用表达式语言(CEL)的决策和触发Go框架 - https://github.com/graphikDB/trigger
+
+6.著名Go WebRTC框架pion发布v3.0.0版本 - https://github.com/pion/webrtc/wiki/Release-WebRTC@v3.0.0
+
+7.使用namespace提高k8s和容器安全性 - https://kinvolk.io/blog/2020/12/improving-kubernetes-and-container-security-with-user-namespaces/
+
+8.使用linux用户namespace加强容器安全性 - https://netflixtechblog.com/evolving-container-security-with-linux-user-namespaces-afbe3308c082
+
+10.使在Rancher集群上安装和使用Cilium详解 - https://www.puzzle.ch/de/blog/articles/2020/12/23/cilium-on-rancher
+
+11.comic-mono字体尝试一下！- https://dtinth.github.io/comic-mono-font/
+
+
+## 码农桃花源每日分享-2020-12-24
+### 每日分享
+1. [channel实现sync包的同步锁] https://mp.weixin.qq.com/s/4UlOQDVd8DgvZta6Kg9_MQ
+
+2. [GopherCon 2020 的视频已经全部公开放出] https://golang.design/s/gophercon2020
+
+3. [比较Go Web框架的性能工具] https://github.com/smallnest/go-web-framework-benchmark
+
+4. [图解go中的分配] https://mp.weixin.qq.com/s/p8K59l14Cz5n49Ei3OoIUw
+
+5. [每日一库] https://mp.weixin.qq.com/s/lO4hAjtwqY_YG3Q3Mz7qww
+
+6. [MYSQL索引设计概要] https://draveness.me/sql-index-intro/
+
+7. [为什么 TCP 建立连接需要三次握手] https://mp.weixin.qq.com/s/XGpIjrnxAAuHa8EVSotBQw
+### 每日算法：
+1. 打家劫舍
+2. 黑盒反射光线
+### 每日面试：
+1. map如何顺序读取
+2. context如何取消
+3. http 常用code
+4. 数据库如何建索引
+> 开放性答案，欢迎群里讨论，不做解答哦
+### 名言分享:
+Make the zero value useful.
+ 
 ## go中文网每日资讯--2020-12-23 
 一、#公众号：Go语言中文网
 
