@@ -5,6 +5,102 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
+## go中文网每日资讯--2020-12-25 
+一、#公众号：Go语言中文网
+
+1. [Go error 打印灾难 — CockroachDB errors 库（第3篇）](https://mp.weixin.qq.com/s/YNy8opP0DVNZniLNuMeHqw)
+
+2. [Go 经典入门系列 26：结构体取代类​](https://mp.weixin.qq.com/s/74EK0JLTk_4PmXsTJ8KnAg)
+
+3. [Golang最细节篇— struct{} 空结构体究竟是啥？](https://mp.weixin.qq.com/s/hFfOueeABfCxRxbo8mYsSg)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-12-24](https://studygolang.com/topics/12854)
+
+三、#公众号：代码与远方
+
+1. [我是怎么样写出开发内功修炼的？秘密都在这里！](https://mp.weixin.qq.com/s/5UpRMO7t-QbZQHGpu0Dnwg)
+
+四、#公众号：脑子进煎鱼了
+
+1. [吐血整理 | 快速学习大厂们的软件案例经验](https://mp.weixin.qq.com/s/Eb2TDqxs69300S-RTGH0Jg)
+
+五、#公众号：码农桃花源
+
+1. [我的博客变迁史](https://mp.weixin.qq.com/s/cZl5wzv8CP9V5zlVlugxAA)
+
+六、#公众号：Go招聘
+
+1. [2020 年字节跳动 Go 面试总结](https://mp.weixin.qq.com/s/mUqa3xfxySPREv-U9wLoZQ)
+
+七、#公众号：新亮笔记
+
+1. [Go - 统一定义 API 错误码](https://mp.weixin.qq.com/s/gTFfUN2LEcsF0Q8iQan82A)
+
+
+
+## GOCN每日新闻--2020-12-25
+1.TiDB 使用 go-randgen 测试 join 查询  https://gocn.vip/topics/11433
+
+2.BPF 和 Go：在 Linux 中内省的现代方式 [译] https://tonybai.com/2020/12/25/bpf-and-go-modern-forms-of-introspection-in-linux/
+
+3.在 Go 中从头开始构建一个 BitTorrent 客户端 https://blog.jse.li/posts/torrent/
+
+4.真的理解 go interface 了吗？ https://mp.weixin.qq.com/s/sO6Phr9C5VwcSTQQjJux3g
+
+5.Gmqtt 插件机制详解 https://segmentfault.com/a/1190000038662848
+
+
+## gopherDaily--2020-12-25
+1.Go WebServer中的“瑞士军刀” - https://www.redpacketsecurity.com/swego-swiss-army-knife-webserver-in-golang/
+
+2.Go mock测试技术 - https://www.cbinsights.com/research/team-blog/mocking-techniques-for-go/
+
+3.goland IDE 2021.1路标 - https://blog.jetbrains.com/go/2020/12/24/goland-2021-1-roadmap/
+
+4.轻量级分布式关系数据库rqlite将记录raft log的协议编码由json改为protobuf - https://www.philipotoole.com/moving-to-protocol-buffers-with-rqlite-5-7-0/
+
+5.用go实现递归搜索/替换工具“re” - https://blog.heckel.io/2020/12/17/recursive-search-replace-tool-re/
+
+6.使用go实现计算中国余数定理 - https://eli.thegreenplace.net/2020/computing-the-chinese-remainder-theorem/
+
+7.diff3文本合并算法的go实现 - https://github.com/nasdf/diff3
+
+8.漫谈Google Percolator分布式事务 - https://mp.weixin.qq.com/s/kUjhBkx9cjFNj-ePn6_g9A
+
+9.使用kubeadm搭建高可用k8s集群 - https://tansanrao.com/kubernetes-ha-cluster-with-kubeadm/
+
+10.油管视频：Go 1.14增加的goroutine抢占调度背后的故事 by Austin Clements - https://www.youtube.com/watch?v=1I1WmeSjRSw
+
+11.MIT课程《Distributed Systems 》中文版(使用go作为课程设计和示例编程语言) - https://github.com/feixiao/Distributed-Systems
+
+## 码农桃花源每日分享--2020-12-25
+### 每日分享
+1. [Web 框架 Echo 系列：基础篇—通过一个例子串联各特性] https://mp.weixin.qq.com/s/vg9OSO4g0KG7iDQ7GXoUSQ
+
+2. [Go之如何操作结构体的非导出字段] https://mp.weixin.qq.com/s/pKarrSl9_Ca582i-i6pp9A
+
+3. [Go之聊聊struct的内存对齐] https://mp.weixin.qq.com/s/qPILuArUBnNrJ15COpBziQ
+
+4. [Http长连接] https://blog.cyeam.com/golang/2017/05/31/go-http-keepalive
+
+5. [九连问: etcd的分析与探究] https://mp.weixin.qq.com/s/Ht4fsgig0DtKwjPYaLZ8zw
+
+### 每日一问
+- go程序pprof显示的内存占用和操作系统top命令显示的内存占用差了几倍？
+
+- 这种差异是因为go自己的内存管理导致的吗？
+
+- 有没有办法手动将go管理的内存释放给操作系统呢？
+
+### 每日算法
+leetcode 468 验证IP地址
+https://leetcode-cn.com/problems/validate-ip-address/
+
+### 每日新闻
+字节跳动在 Go 网络库上的实践
+https://strikefreedom.top/bytedance-network-library-practices
 
 ## go中文网每日资讯--2020-12-24
 
