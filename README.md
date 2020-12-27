@@ -6,6 +6,84 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-12-27 
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 75 期](https://mp.weixin.qq.com/s/azW-S6-nJOiciUFBo1oJwA)
+
+2. [Go 经典入门系列 28：多态](https://mp.weixin.qq.com/s/A737eVVpUQgQgVDdaNZlkQ)
+
+3. [详解 Go 逃逸分析](https://mp.weixin.qq.com/s/xhBVv6JEPY8R3kCJlbirYw)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-12-26](https://studygolang.com/topics/12862)
+
+三、#公众号：脑子进煎鱼了
+
+1. [干货满满的 Go Modules 知识分享](https://mp.weixin.qq.com/s/uUNTH06_s6yzy5urtjPMsg)
+
+四、#公众号：五分选手
+
+1. [HTTPS 温故知新（二） —— TLS 记录层协议](https://mp.weixin.qq.com/s/q2sOr98MS9PwN_mg_AdKyA)
+
+六、#公众号：Go开发大全
+
+1. [Golang 的 sync.Pool设计思路与原理](https://mp.weixin.qq.com/s/765l6T6g9d4EEUyiHm52hw)
+
+七、#公众号：代码与远方
+
+1. [Prometheus监控神器-Kubernetes篇（一）](https://mp.weixin.qq.com/s/fTaRqoy3zdwEFjGluwf_cw)
+2. [Prometheus监控神器-Kubernetes篇（二）](https://mp.weixin.qq.com/s/2snNW3JE99Knjv6ensJ7kw)
+
+八、mohuishou
+
+1. [Week03: Go并发编程(四) 深入理解 Mutex](https://lailin.xyz/post/go-training-week3-sync.html) 
+
+
+## GOCN每日新闻--2020-12-27 
+1.Go 编程模式：切片，接口，时间和性能 https://coolshell.cn/articles/21128.html
+
+2.Go 语言有哪些 “劣势”  https://gocn.vip/topics/11431
+
+3.trigger：基于谷歌 CEL 的决策引擎框架 https://graphikdb.github.io/trigger/
+
+4.tupical-rest-server: 使用 typical-go 构建的 Web 项目模版 https://github.com/typical-go/typical-rest-server
+
+5.evon: 一个基于代码生成的轻量级事件分发引擎 https://github.com/lych77/evon
+
+
+
+## gopherDaily--2020-12-27
+
+1. 《Go编程模式》系列文章 - https://coolshell.cn/articles/21128.html 今年Gopherchina大会(2020)上，博客酷壳的作者左耳朵耗子分享了《GO编程模式》，GopherChina大会上关于go语言本身的topic其实并不多，更多是go杀手级应用在大厂的应用方案与填坑指南。因此，这个topic非常值得大家细看。左耳朵耗子将其topic整理成系列文章并分享了出来。
+
+2. Pokémon Red(口袋妖怪红)游戏的Go开源实现 - https://github.com/pokemium/OpenPokemonRed
+
+3. Go实现的直播服务器 - https://github.com/gwuhaolin/livego
+
+4. 面向编程语言创建者的LLVM完整指南 - https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/
+
+5. Freebernetes教程中的冒险：建立自己的Bare-VM k3s集群 - https://productionwithscissors.run/2020/12/26/adventures-in-freebernetes-tutorial-build-your-own-bare-vm-k3s-cluster/
+
+6. webify: 将shell命令转换为web服务 -  https://github.com/beefsack/webify
+
+7. 将Go作为商业语言 - https://www.hildeberto.com/2020/12/go-business-language.html
+
+8. 从k8s configmap中自动重新加载配置 - https://william-yeh.net/post/2019/06/autoreload-from-configmap/
+
+9. 使用Prometheus和RabbitMQ指标为Kubernetes定制HPA扩展 - https://www.padok.fr/en/blog/scaling-prometheus-rabbitmq
+
+10. 对BioNTech/Pfizer SARS-CoV-2疫苗的源代码进行逆向工程 - https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/
+
+11. 经典旧文：我是如何逆向google docs的 - http://features.jsomers.net/how-i-reverse-engineered-google-docs/
+
+12. 油管视频：AI与机器学习的机会 by 两位顶级机器学习专家 Chris Bishop和Yoshua Bengio - https://www.youtube.com/watch?v=954inChlPxE
+
+13. gitlab的非官方命令行工具 - https://github.com/Ackerr/lab 
+
+
+
 
 ## go中文网每日资讯--2020-12-26 
 一、#公众号：Go语言中文网
