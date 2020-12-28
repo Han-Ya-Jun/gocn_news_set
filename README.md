@@ -5,6 +5,101 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
+## go中文网每日资讯--2020-12-28 
+一、#公众号：Go语言中文网
+
+1. [Go 微服务过载保护原理与实战](https://mp.weixin.qq.com/s/ImCJ62t4Ie4ZOf_ZmHb6-Q)
+
+2. [hystrix-go 使用与原理](https://mp.weixin.qq.com/s/50mG7woUHc3PmMaSXtIGYA)
+
+3. [详解 Go 内联优化](https://mp.weixin.qq.com/s/89QLSqGzH0yUM6cO6V4zmQ)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-12-27](https://studygolang.com/topics/12865)
+
+三、#公众号：网管叨bi叨
+
+1. [并发编程--用SingleFlight合并重复请求](https://mp.weixin.qq.com/s/dlCzH96u9Qo8_p3GIIrq4Q)
+
+四、#公众号：码农桃花源
+
+1. [那些年曹大写过的博客](https://mp.weixin.qq.com/s/g5AZxFOS9kwnAPmb3e3OUQ)
+
+六、#公众号：技术岁月
+
+1. [微服务高可用之熔断器实现原理与 Golang 实践](https://mp.weixin.qq.com/s/NwhAqx49FcTafcTRoIdOqQ)
+
+七、#公众号：奇伢云存储
+
+1. [Golang 并发编程核心篇 —— 内存可见性](https://mp.weixin.qq.com/s/1UHGU9tXu_h1C71APPxMwg)
+
+八、#公众号：polarisxu
+
+1. [Go 1.16 的这个新变化需要适应下：go get 和 go install 的变化](https://mp.weixin.qq.com/s/18AZEEX1UeShLx6-9Ir9Zw)
+
+九、#公众号：代码与远方
+
+1. [Prometheus监控神器-Kubernetes篇（三）](https://mp.weixin.qq.com/s/5Dj0Ju8ZTZyp-lVlx-RI2g)
+
+
+## GOCN每日新闻--2020-12-28 
+1.Go netpoller 原生网络模型之源码全面揭秘 https://strikefreedom.top/go-netpoll-io-multiplexing-reactor
+
+2.Golang 语言的值验证库 Validator 怎么使用？ https://mp.weixin.qq.com/s/uaVDytWj2gLEokiVDlwoEg
+
+3.反向 Go 二进制文件 https://x0r19x91.gitlab.io/post/reversing-go-part-1/
+
+4.Grafana Tempo 分布式跟踪系统存储后端 https://github.com/grafana/tempo
+
+5.利用 Watermill 实现 Golang CQRS https://segmentfault.com/a/1190000038689477
+
+
+## gopherDaily--2020-12-28
+
+1. 加密与超越: 以太坊创始人的2020小结 - https://vitalik.ca/general/2020/12/28/endnotes.html
+
+2. Go逆向工程：反编译Go二进制文件 - https://x0r19x91.gitlab.io/post/reversing-go-part-1/
+
+3. 体验Go 1.16文件嵌入新特性：将一个web应用嵌入到go二进制文件中 - https://percybolmer1.medium.com/embedding-a-web-application-in-a-golang-binary-f9733b25bbf7
+
+4. 防止Go中的服务器端请求伪造行为(SSRF) - https://www.agwa.name/blog/post/preventing_server_side_request_forgery_in_golang 
+
+5. aegis: 多平台调试状态监测库 - https://github.com/rafael-santiago/aegis
+
+6. 最快Levenshtein字符串距离算法的go实现 - https://github.com/ka-weihe/fast-levenshtein
+
+7. Kubernetes中的有状态应用 - https://itnext.io/stateful-applications-in-kubernetes-808a60bc109
+
+8. 复杂系统如何失败 - https://how.complexsystems.fail/ 
+
+9. 极客世界：推力矢量模型火箭飞行计算机 - https://github.com/polishdude20/CygnusX1
+
+10. 理查德·费曼获得1965年诺贝尔物理学奖时的讲座全文 - https://www.nobelprize.org/prizes/physics/1965/feynman/lecture/
+
+
+## 码农桃花源每日分享--2020-12-28
+### 每日分享
+1. Go 语言 Web 框架 Echo 系列：定制篇1：自定义 Binder，处理 Request 数据绑定 https://mp.weixin.qq.com/s/2wARcsszax6GFbZcjJPoig
+
+2. Go语言for-range排坑指南 https://mp.weixin.qq.com/s/klJBAi5LvdJOGvma2Ir0OA
+
+3. 无意义的 ID 的意义 https://draveness.me/whys-the-design-meaningless-identifier/
+
+4. 分布式事务之底层原理 https://strikefreedom.top/distributed-transaction-theorems-uncovering
+
+5. raft算法知识树 https://blog.dengqinghua.net/raft.html
+
+### 每日一问
+- 互斥锁与读写锁的异同，尤其是互斥规则和行为模式方面的异同？
+
+- 互斥锁和读写锁的指针类型都实现了哪一个接口吗？
+### 每日新闻
+Apache Kafka 2.7.0发布，加速移除Zookeeper
+https://mp.weixin.qq.com/s/C2s5RMH6H0dXLtbvTVzGxA
+
+### 每日算法
+lc221 最大正方形 https://leetcode-cn.com/problems/maximal-square/
 
 ## go中文网每日资讯--2020-12-27 
 一、#公众号：Go语言中文网
