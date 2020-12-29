@@ -5,6 +5,46 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
+
+## go中文网每日资讯--2020-12-29
+
+一、#公众号：Go语言中文网
+
+1. [Go 项目实战：实现一个 Redis(8) 之TCC分布式事务](https://mp.weixin.qq.com/s/43ksyukuCOHh4ZJZUHvZEQ)
+
+2. [Go 经典入门系列 28：Defer](https://mp.weixin.qq.com/s/4SNs84CJPvO8siIcuaNJ6A)
+
+3. [Go 1.16 的这个新变化需要适应下：go get 和 go install 的变化](https://mp.weixin.qq.com/s/zXWJCQsfQl11ctu2yVXF5w)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-12-28](https://studygolang.com/topics/12870)
+
+三、#公众号：潘建锋 
+
+1. [分布式事务之底层原理揭秘](https://mp.weixin.qq.com/s/RCZ-xSxC2EBQIzr6rUyS0A)
+
+四、#公众号：五分选手 
+
+1. [HTTPS 温故知新（三） —— 直观感受 TLS 握手流程(上)](https://mp.weixin.qq.com/s/lVMjwNyEIKANIFNPTaZFpA)
+
+2. [HTTPS 温故知新（四） —— 直观感受 TLS 握手流程(下)](https://mp.weixin.qq.com/s/-wSSGULVb1W2cqka8P9MBg)
+
+六、#公众号：polarisxu
+
+1. [漫画：Go 布道师的“神秘”社区在召唤你](https://mp.weixin.qq.com/s/dyo1TBOkS4Sfql3TUTWWxw)
+
+七、#公众号：代码与远方
+
+1. [Kubernetes 学习笔记之 ServiceAccount AdmissionController 源码解析](https://mp.weixin.qq.com/s/rZGEAsMevBfTDdR3anA7-g)
+
+八、mohuishou
+
+1. [Week03: Go并发编程(五) 深入理解 sync/atomic](_https://lailin.xyz/post/go-training-week3-atomic.html) 
+
+2. [Week03: Go并发编程(六) 深入理解 WaitGroup](https://lailin.xyz/post/go-training-week3-waitgroup.html)
+
+
 ## go中文网每日资讯--2020-12-28 
 一、#公众号：Go语言中文网
 
