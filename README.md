@@ -6,6 +6,7 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+
 ## go中文网每日资讯--2020-12-29
 
 一、#公众号：Go语言中文网
@@ -44,6 +45,66 @@
 
 2. [Week03: Go并发编程(六) 深入理解 WaitGroup](https://lailin.xyz/post/go-training-week3-waitgroup.html)
 
+## gopherDaily--2020-12-29
+
+1.《2020年Go语言盘点：新冠大流行阻挡不了Go演进的步伐》一文已首发在星球上。Go在2020年值得关注的那些变化、Go语言当前的状态(Go语言前景如何、2020年以后是Go语言的天下吗)、Go的2021展望等分享给你 - https://t.zsxq.com/r3zNvZj
+
+2.云原生制品那些事(2)：OCI 镜像规范 - https://mp.weixin.qq.com/s/TVIz8p8nOj4ffYaECW7gVg
+
+3.Go的错误处理准则 - https://jayconrod.com/posts/116/error-handling-guidelines-for-go
+
+4.Doit是如何实现高效跨表查询的 - https://www.dolthub.com/blog/2020-12-28-join-planning/
+
+5.webrtc开源项目pion的2021计划 - https://github.com/pion/webrtc/wiki/Goals-2021
+
+6.Web开发：Go vs. Python - https://www.asapdevelopers.com/golang-vs-python/
+
+7.chatto: 开源聊天机器人的最小框架 - https://github.com/jaimeteb/chatto
+
+8.Linux内核5.10引入静态调用以防止Speculative Execution Attacks - https://thenewstack.io/linux-kernel-5-10-introduces-static-calls-to-prevent-speculative-execution-attacks/
+
+9.pbgopy: 在设备间拷贝和粘贴数据(支持加密) - https://github.com/nakabonne/pbgopy
+
+10.GameBoy游戏机高级架构 - https://www.copetti.org/writings/consoles/game-boy-advance/
+
+
+
+## 码农桃花源每日分享--2020-12-29
+
+## 优质文章
+
+1. [panic和recover] https://draveness.me/golang/docs/part2-foundation/ch05-keyword/golang-panic-recover/
+
+2. [如何写出优雅的go代码] https://draveness.me/golang-101/
+
+3. [validator如何使用] https://mp.weixin.qq.com/s/uaVDytWj2gLEokiVDlwoEg
+
+4. [innoDB数据页结构] https://mp.weixin.qq.com/s/GYRuFhty5gDLAmDXw7AluA
+
+5. [redis基础] https://mp.weixin.qq.com/s/aOiadiWG2nNaZowmoDQPMQ
+
+
+## 面试问题
+
+1. 为什么要使用索引
+
+2. 索引这么多优点，为什么不对表中的每一个列创建一个索引呢？
+
+3. 使用索引的注意事项？
+
+4. 为什么要用 Redis 而不用 map/guava 做缓存?
+
+5. Redis有哪些数据类型
+
+
+## 群友问题：
+goroutine调度为半抢占式，没有时间片么？
+
+更多文章详情(算法以及内推等信息)请见原文
+
+编辑: Amartya 果果 
+
+文章归档: https://www.yuque.com/wuguoguoya/eqzzkl/keu5av
 
 ## go中文网每日资讯--2020-12-28 
 一、#公众号：Go语言中文网
