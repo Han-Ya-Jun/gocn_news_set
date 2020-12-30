@@ -6,6 +6,108 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
 
+## go中文网每日资讯--2020-12-30 
+一、#公众号：Go语言中文网
+
+1. [由 C# 改为 Go，用更少的资源将 API 的响应时间减少了 87％](https://mp.weixin.qq.com/s/VcW9IPIpkUm6TYH62EYGKw)
+
+2. [长沙也有 Go 职位了：映客直播招聘 Go 开发高级工程师](https://mp.weixin.qq.com/s/viLyJjvPS6W1bpLNc6H-nQ)
+
+3. [Go 经典入门系列 30：错误处理](https://mp.weixin.qq.com/s/IDpVEQC_qRmTDH1k6tS5lQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报--2020-12-29](https://studygolang.com/topics/12877)
+
+三、#公众号：微服务实践
+
+1. [基于prometheus的微服务指标监控](https://mp.weixin.qq.com/s/Pwv1Fna0WX0VDnFQT6BROw)
+
+四、#公众号：五分选手 
+
+1. [HTTPS 温故知新（五） —— TLS 中的密钥计算](https://mp.weixin.qq.com/s/kQk4yeHrbS8tKK9m2DHDZA)
+
+六、#公众号：CloudNativeCommunity
+
+1. [还在手写 Operator？是时候使用 Kubebuilder 了](https://mp.weixin.qq.com/s/vIuyw_Bp3qQfmfIfz2LjaA)
+
+七、#公众号：代码与远方
+
+1. [Kubernetes 学习笔记之 ServiceAccount TokensController 源码解析](https://mp.weixin.qq.com/s/NG4mH9GgHV-HjMoOflFsUg)
+
+八、mohuishou
+
+1. [Week03: Go并发编程(七) 深入理解 errgroup](https://lailin.xyz/post/go-training-week3-errgroup.html) 
+2. [Week03: Go并发编程(八) 深入理解 sync.Once](https://lailin.xyz/post/go-training-week3-once.html)
+
+九、鸟窝
+
+1. [go os/exec 简明教程](https://colobu.com/2020/12/27/go-with-os-exec/)
+
+## GOCN每日新闻--2020-12-30 
+
+1.用于 Go 的浏览器内置 IDE https://github.com/JohnStarich/go-wasm
+
+2.基于 go-ethereum 实现的火币客户端 https://github.com/HuobiGroup/huobi-eco-chain
+
+3.如何构建 Go 命令行项目 https://bencane.com/2020/12/29/how-to-structure-a-golang-cli-project/
+
+4.我如何使用 pprof 在 Golang 应用中发现内存泄漏 https://tusharsheth.medium.com/how-i-found-memory-leaks-in-the-golang-app-using-pprof-56e5d55363ba
+
+5.Go 实现的实时消息服务器 Beaver https://github.com/Clivern/Beaver
+
+
+## gopherDaily--2020-12-30
+
+0. 2020年Go语言盘点：新冠大流行阻挡不了Go演进的步伐 - https://mp.weixin.qq.com/s/do7slOGxztgAfx4Io4PQkg
+
+1. 在YugabyteDB中使用Linkerd - https://www.infracloud.io/blogs/using-linkerd-with-yugabytedb/
+
+2. Calico和Cilium集群出口过滤性能测试对比 - https://kinvolk.io/blog/2020/12/egress-filtering-benchmark-part-2-calico-and-cilium/
+
+3. gitlab迁移到kubernetes上一周年记 - https://about.gitlab.com/blog/2020/09/16/year-of-kubernetes/
+
+4. 为什么Go的web框架速度还不如Java？阿里工程师给出了一个不错的答案 - https://www.zhihu.com/question/360929863/answer/1650981553
+
+5. 我如何使用“ pprof”在Golang应用中发现内存泄漏 - https://tusharsheth.medium.com/how-i-found-memory-leaks-in-the-golang-app-using-pprof-56e5d55363ba
+
+6. Go语言没那么简单 - https://rodrigo.red/blog/go-lang-not-so-simple/
+
+7. 如何构建Go命令行项目 - https://bencane.com/2020/12/29/how-to-structure-a-golang-cli-project/
+
+8. 为什么Go的Cmd.Run在/dev/null不存在的情况下失败 - https://rohitpaulk.com/articles/cmd-run-dev-null
+
+9. 机器学习算法选择指南 - https://www.kdnuggets.com/2020/05/guide-choose-right-machine-learning-algorithm.html
+
+10. 初学者，经验丰富用户和专家用户各自的2021年最佳Linux发行版  - https://haydenjames.io/best-linux-distro/
+
+## 码农桃花源每日分享--2020-12-30
+## 文章推荐
+1. [Echo 系列：定制篇2 — 自定义 Validator，进行输入校验](https://mp.weixin.qq.com/s/CMBxIR0y6LxiIpDt6JYuDQ)
+
+2. [kafka为什么这么快] (https://strikefreedom.top/why-kafka-is-so-fast)
+
+3. [go的学习计划和知识树](https://blog.dengqinghua.net/go_knowledge_tree.html)
+
+4. [go并发编程5 深入理解sync/atomic](https://lailin.xyz/post/go-training-week3-atomic.html)
+
+5. [用go给redis写组件](https://blog.cyeam.com/redis/2018/05/30/redis-module-go)
+
+## 每日算法
+lc234 回文链表
+https://leetcode-cn.com/problems/palindrome-linked-list/
+
+## 面试问题
+谈一谈索引下推，索引覆盖，索引失效。
+## 群友问题
+interface何时为nil？
+## 群友文章分享
+[Kubernetes 学习笔记之 ServiceAccount AdmissionController 源码解析](https://mp.weixin.qq.com/s/rZGEAsMevBfTDdR3anA7-g)
+
+[测试开发技术合集](https://mp.weixin.qq.com/s/jw3mihPFHCkhYH5wEwG2gA)
+编辑: Amartya 果果 
+
+文章归档: https://www.yuque.com/wuguoguoya/eqzzkl/keu5av
 
 ## go中文网每日资讯--2020-12-29
 
