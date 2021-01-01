@@ -5,6 +5,105 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # gocn_news_set_2020
+## go中文网每日资讯--2020-12-31 
+一、#公众号：Go语言中文网
+
+1. [像跟踪分布式服务调用那样跟踪Go函数调用链](https://mp.weixin.qq.com/s/WAKBipoBNzCKraIjyLaYdA)
+
+2. [Go 经典入门系列 31：自定义错误](https://mp.weixin.qq.com/s/HSpnBA6sR5uWYbu8P3nCHw)
+
+3. [一篇文章带你了解Go语言基础之网络编程](https://mp.weixin.qq.com/s/d0fODPAO3jfHcVZW2l-2UA)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2020-12-30](https://studygolang.com/topics/12877)
+
+三、#公众号：k8s技术圈
+
+1. [Kubernetes Service APIs 介绍](https://mp.weixin.qq.com/s/HZ82J0dihT0wfCESK5IORQ)
+
+四、#公众号：五分选手 
+
+1. [HTTPS 温故知新（六） —— TLS 中的 Extensions](https://mp.weixin.qq.com/s/q5LI6C4I9C_UCcNC89s29w)
+
+六、#公众号：HHFCodeRv
+
+1. [当 Go struct 遇上 Mutex](https://mp.weixin.qq.com/s/OYGVR0d-fq1hgOvrdsUnYA)
+
+七、#公众号：代码与远方
+
+1. [Kubernetes学习笔记之LRU算法源码解析](https://mp.weixin.qq.com/s/1RppuWcyHwzAPH1pMVpfrw)
+
+八、#公众号：脑子进煎鱼了
+
+1. [解密 Go 语言之反射 reflect](https://mp.weixin.qq.com/s/onl3sBCSNs8l42uihi_p4A)
+
+九、2020年终总结篇——2021 We'll be better
+
+1. [ #公众号：polarisxu 2020 年终总结：希望对你有所帮助](https://mp.weixin.qq.com/s/ONc1gC4mshKyzzEq9Jmxtg)
+2. [#公众号：码农桃花源 走过 2020](https://mp.weixin.qq.com/s/r6tvduWWCHemUIHa12gN8g)
+3. [#公众号：多颗糖 公众号的 2020 总结](https://mp.weixin.qq.com/s/K6MV9yZa8arDBFl9xGeCfg)
+4. [ #公众号：微服务实践一个20年技术老兵的2020年度技术总结](https://mp.weixin.qq.com/s/boTHD0TgLxJkqOSqj4GFbw)
+
+## GOCN每日新闻--2020-12-31
+1.Goland 2020.3.1 发布,支持 M1 芯片 https://blog.jetbrains.com/go/2020/12/30/goland-2020-3-1-is-out/
+
+2.Go 的 unsafe 字符串驻留 (string interning) 实践 https://mdlayher.com/blog/unsafe-string-interning-in-go/
+
+3.当 Go struct 遇上 Mutex https://gocn.vip/topics/11453
+
+4.微服务架构中的熔断器设计与实现（ Golang 版）https://mp.weixin.qq.com/s/DGRnUhyv6SS_E36ZQKGpPA
+
+5.Kubernetes 探针详解！ https://mp.weixin.qq.com/s/djxuuiZZT-f52vkF8nsWNA
+
+## gopherDaily--2020-12-31
+1.go4.org/intern高效字符串分配原理解析 - https://mdlayher.com/blog/unsafe-string-interning-in-go/
+
+2.理解Go中的HTML模板 - https://blog.lu4p.xyz/posts/golang-template-turbo/
+
+3.配置 containerd 镜像仓库完全攻略 - https://mp.weixin.qq.com/s/nLz2eotMv68YXYHerfIvsA
+
+4.干货！内存问题探微 - https://mp.weixin.qq.com/s/8I6PfKbhDz7WCIgU2H8JWg
+
+5.油管视频：使用Testify进行Go测试指南 - https://www.youtube.com/watch?v=sRffQKZfkds&feature=youtu.be
+
+6.Go逆向工程part2 - https://x0r19x91.gitlab.io/post/reversing-go-part-2/
+
+7.GoLand 2020.3.1发布，兼容Apple M1芯片 - https://blog.jetbrains.com/go/2020/12/30/goland-2020-3-1-is-out/
+
+8.如何在Go中使用任意结构的JSON？ - https://iaziz786.com/blog/golang-arbitrary-json
+
+9.我们如何构建GitHub Globe - https://github.blog/2020-12-21-how-we-built-the-github-globe/
+
+10.记录一次Go代码review - https://percybolmer1.medium.com/performing-a-code-review-1297967683f6
+
+
+## 码农桃花源每日分享--2020-12-31
+
+### 优质文章
+
+1. [go make 和new的区别] https://draveness.me/golang/docs/part2-foundation/ch05-keyword/golang-make-and-new/
+
+2. [曹大书评] https://www.yuque.com/wegoer/we-reading/epck8l
+
+3. [redis懒惰删除的巨大牺牲] https://mp.weixin.qq.com/s/IDGAT2y7xQmI97jO6oG_Tg
+
+4. [防止缓存击穿] https://mp.weixin.qq.com/s/BdwZViiAqnFhCde4ZsxwPg
+
+5. [数据库索引] https://mp.weixin.qq.com/s/_9rDde9wRYoZeh07EASNQQ
+
+
+### 面试问题
+
+1. B树和B+树区别
+
+2. 聚集索引与非聚集索引
+
+3. 非聚集索引一定回表查询吗(覆盖索引)?
+
+4. 使用过 Redis 分布式锁么，它是什么回事？
+
+5. 假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？
 
 
 ## go中文网每日资讯--2020-12-30 
