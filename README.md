@@ -79,7 +79,7 @@
 
 3.Go 端到端测试工具 gnomock https://github.com/orlangure/gnomock
 
-4.改进你的 Go 测试代码
+4.改进你的 Go 测试代码 https://youtu.be/sRffQKZfkds
 
 5.四舍五入在 Go 语言中为何如此困难 https://blog.thinkeridea.com/202101/go/round.html
 
