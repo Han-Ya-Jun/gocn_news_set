@@ -106,7 +106,7 @@
 
 11.红帽将边缘计算功能原生内置到RHEL和OpenShift中 - https://www.datacenterknowledge.com/edge-computing/red-hat-builds-native-edge-computing-features-rhel-and-openshift
 
-## 码农桃花源每日分享--2020-01-02
+## 码农桃花源每日分享--2021-01-02
 ## 优质文章汇总
 1. [go for-range排坑指南] https://mp.weixin.qq.com/s/klJBAi5LvdJOGvma2Ir0OA
 2. [如何写出优雅的go代码] https://draveness.me/golang-101/
@@ -186,7 +186,7 @@
 - 11.Linux加固指南 - https://madaidans-insecurities.github.io/guides/linux-hardening.html
 - 12.Donald Knuth专访记录 - https://philipkiely.com/assets/files/WfSD_Bonus_Interview_-_Donald_Knuth.pdf
 
-## 码农桃花源每日分享--2020-01-01
+## 码农桃花源每日分享--2021-01-01
 ## 文章推荐
 1. [Web 框架 Echo 系列：定制篇3 — 自定义 Logger，用你喜欢的日志库]
 https://mp.weixin.qq.com/s/hZzcce4S4D0B6tXeorb8-A
@@ -195,11 +195,16 @@ https://lailin.xyz/post/go-training-week3-waitgroup.html
 3. [go类型检查]
 https://draveness.me/golang/docs/part1-prerequisite/ch02-compile/golang-typecheck/
 ## 面试问题
-MySQL 里有 2000w 数据，redis 中只存 20w 的数据，如何保证 redis 中的数据都是热点数据？
-说说 Redis 哈希槽的概念？
-Redis 集群会有写操作丢失吗？为什么？
-Redis 中的管道有什么用？
-Redis 事务相关的命令有哪几个？
+- MySQL 里有 2000w 数据，redis 中只存 20w 的数据，如何保证 redis 中的数据都是热点数据？
+
+- 说说 Redis 哈希槽的概念？
+
+- Redis 集群会有写操作丢失吗？为什么？
+
+- Redis 中的管道有什么用？
+
+- Redis 事务相关的命令有哪几个？
+
 ## 每日算法
 存在重复元素III
 https://leetcode-cn.com/problems/contains-duplicate-iii/
