@@ -5,7 +5,7 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
-
+# gocn_news_set_2021
 ## GOCN每日新闻--2021-01-04
 1.实现 Raft 算法 (系列文章) https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction
 
