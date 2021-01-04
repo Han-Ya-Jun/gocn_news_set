@@ -6,7 +6,86 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 
+## GOCN每日新闻--2021-01-04
+1.实现 Raft 算法 (系列文章) https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction
 
+2.在 Go 语言中测试 flag 解析 https://eli.thegreenplace.net/2020/testing-flag-parsing-in-go-programs/
+
+3.基于 channel 实现的并发安全的字节池 https://www.flysnow.org/2020/08/21/golang-chan-byte-pool.html
+
+4.Go 反射 https://mp.weixin.qq.com/s/0BAGtxfhAx9A7uwYtvYMLg
+
+5.详解 Go 内联优化 https://mp.weixin.qq.com/s/89QLSqGzH0yUM6cO6V4zmQ
+## gopherDaily--2021-01-04
+1. Go包循环依赖怎么破？- https://jogendra.dev/import-cycles-in-golang-and-how-to-deal-with-them
+
+2. Go逆向工程part5 - https://x0r19x91.gitlab.io/post/reversing-go-part-5/
+
+3. Istio 1.8中多集群支持的演变 - https://www.solo.io/blog/the-evolution-of-multicluster-support-in-istio-1-8
+
+4. 在具有Linkerd的Kubernetes上使用gRPC - https://www.vinsguru.com/grpc-on-kubernetes-with-linkerd/
+
+5. vim-go的默认linter改为staticcheck - https://github.com/fatih/vim-go/commit/706c73bb369d9bab0fadca6b755a7244626f61aa
+
+6. 经典旧文：你究竟该选择什么logging包 - https://www.client9.com/logging-packages-in-golang/
+
+7. 应用clean architecture的Go工程模板 - https://github.com/golang-common-packages/template
+
+8. 一个更好的kubernetes上微服务的调试环境 - https://medium.com/@moshe.beladev.mb/better-debugging-environment-for-your-micro-services-9420a71b8a37
+
+9. 油管视频：都2021年了，你不应该手动更新Go测试了 -  https://www.youtube.com/watch?v=mvkIruEGRr4
+
+10. 玩转谷歌Fuchsia操作系统 - https://blog.quarkslab.com/playing-around-with-the-fuchsia-operating-system.html
+
+## 码农桃花源每日分享--2021-01-04
+### 文章推荐
+1. [负载均衡和反向代理的区别] https://mp.weixin.qq.com/s/dV0-JJ0PVL-WKSDx57_4-g
+2. [Web 框架 Echo 系列：自定义 Renderer] https://mp.weixin.qq.com/s/RDqegHWYW36y3VZuuM37yQ
+3. [Dapper，大规模分布式系统的跟踪系统] http://bigbully.github.io/Dapper-translation/
+4. [为什么基础服务不应该高可用] https://draveness.me/whys-the-design-unstable-infrastructure/
+
+### 每日新闻
+aws进入企业商用K8s软件市场, k8s成通吃主流公私有云的唯一基础架构平台
+https://mp.weixin.qq.com/s/J4x3Ey3PFYIdK6VwpjfBDg
+### 每日算法
+lc135 分发糖果 https://leetcode-cn.com/problems/candy/
+### 面试问题
+1. redis分布式锁是如何实现的?
+
+2. 使用过redis做异步队列吗？如何用？有什么缺点？
+
+3. redis相比于memcached，有何优势？
+
+4. redis的数据淘汰策略？
+
+## go中文网每日资讯--2021-01-04 
+一、#公众号：Go语言中文网
+
+1. [全面的整理：golang 调试分析的高阶技巧](https://mp.weixin.qq.com/s/SvzMEdhxHfI9hYU62r1C7g)
+
+2. [Go 经典入门系列 35：读取文件](https://mp.weixin.qq.com/s/mup3hZymdyKX53h6fL_2Ow)
+
+3. [dubbo-go 白话文 | go 和 java 互通有无](https://mp.weixin.qq.com/s/k8GdXMAZ5bnzHKnv_bC3jw)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2021-01-03](https://studygolang.com/topics/12898)
+
+三、#公众号：代码与远方
+
+1. [Golang 之微服务为什么发现不了](https://mp.weixin.qq.com/s/s9G6yDqfeFepbKT6DJASng)
+
+四、#公众号：五分选手 
+
+1. [HTTP/2 中的 HTTP 语义](https://mp.weixin.qq.com/s/A3OHwQwWgzqrUJ-epsUh4g)
+
+六、#公众号：微服务实践
+
+1. [微服务缓存原理与最佳实践](https://mp.weixin.qq.com/s/5F3yWgBP5HLcu8dfukEBmQ)
+
+七、#公众号：Go招聘
+
+1. [羡慕小而美还不加班的公司吗？他来了](https://mp.weixin.qq.com/s/ivvzCmBiwOC39AoZq_Zipw)
 ## go中文网每日资讯--2021-01-03
 一、#公众号：Go语言中文网
 
