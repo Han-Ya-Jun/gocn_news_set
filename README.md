@@ -6,6 +6,81 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-01-05
+
+一、#公众号：Go语言中文网
+
+1. [漫画：Go 布道师的“神秘”社区在召唤你](https://mp.weixin.qq.com/s/SEhUv9rnLOCc3af-3X8Y-Q)
+
+2. [Go 语言同步原语的基石](https://mp.weixin.qq.com/s/BITpMB8KrUsQaFST299YpA)
+
+3. [Go 经典入门系列 36：写入文件](https://mp.weixin.qq.com/s/Ohk--X3tbPIyJKBR8mgDhw)
+
+二、#公众号：亚军进化史
+
+1. [Go每日信息--2021-01-04](https://studygolang.com/topics/12909)
+
+三、#公众号：代码与远方
+
+1. [探索Golang协程实现——从v1.0开始](https://mp.weixin.qq.com/s/foG3tUl2U2nTh6L-f4wktA)
+
+四、#公众号：五分选手 
+
+1. [HTTP/2 中的注意事项](https://mp.weixin.qq.com/s/Ye34-zBT1irKbmNvReE4JQ)
+
+六、#公众号：Go101
+
+1. [Go 1.16 中原本欲支持的结构体字段标签合并写法特性被取消了](https://mp.weixin.qq.com/s/7eLLhHt8hsTd6hmzj1AWTw)
+
+七、#公众号：字节跳动技术团队
+
+1. [如何优雅地重试](https://mp.weixin.qq.com/s/6IkTnUbBlHjM3GM_bT35tA)
+
+八、#公众号：Golang技术分享
+
+1. [Go精妙的互斥锁设计](https://mp.weixin.qq.com/s/u66J3RyHUzoxofh2mpRtVQ)
+
+九、#公众号：码农桃花源
+
+1. [高并发服务遇 redis 瓶颈引发的事故](https://mp.weixin.qq.com/s/MtdU1xhOI5XkuSDrIYFRMA)
+
+## GOCN每日新闻--2021-01-05
+
+1. Go 备忘录 https://quickref.me/golang
+
+2. 揭开 defer 的面纱 https://juejin.cn/post/6913831611624587271
+
+3. Excelize2.3.2 发布, 2021 年首个更新 https://mp.weixin.qq.com/s/oeMMqi3tzaooeP6ptL8EJg
+
+4. Docker 中的 Go 服务与 Postgres 数据库通讯 https://petrjahoda.medium.com/communication-between-go-service-and-postgres-database-both-running-in-docker-ae0fd53a25b8
+
+5. Go 如何在 mysql 上转换时间 https://dev.to/rahulkarmore/how-to-parse-time-of-time-time-in-golang-work-with-sql-db-in
+
+## 码农桃花源每日分享--2021-01-05
+### 文章推荐
+1. [go 接口实现原理] https://draveness.me/golang/docs/part2-foundation/ch04-basic/golang-interface/
+
+2. [为什么tcp有黏包问题] https://draveness.me/whys-the-design-tcp-message-frame/
+3. [数据库连接池到底应该多大] https://mp.weixin.qq.com/s/dQFSrXEmgBMh1PW835rlwQ
+4. [tcp/ip 基础] https://mp.weixin.qq.com/s/lkX2Mb2aCj8ugOaRmVVBqw
+
+### 面试问题
+1. Redis如何做内存优化？
+
+2. Redis回收进程如何工作的？
+
+3. 不使用索引的原因列举
+
+4. 索引创建注意点
+
+5. STW 是什么意思？
+
+6. 三色标记法是什么？
+### 每日算法
+lc 887 鸡蛋掉落
+
+
 ## go中文网每日资讯--2021-01-04 
 一、#公众号：Go语言中文网
 
@@ -120,6 +195,15 @@ lc135 分发糖果 https://leetcode-cn.com/problems/candy/
 八、#公众号：Go招聘
 
 1. [听说高德面试很简单？看看他们的 JD！文末送面试资料](https://mp.weixin.qq.com/s/YMMdXvWCvbEFQF3IW-zQsw)
+
+
+GoCN 每日新闻 (2021-01-05)
+
+1. Go 备忘录 https://quickref.me/golang
+2. 揭开 defer 的面纱 https://juejin.cn/post/6913831611624587271
+3. Excelize2.3.2 发布, 2021 年首个更新 https://mp.weixin.qq.com/s/oeMMqi3tzaooeP6ptL8EJg
+4. Docker 中的 Go 服务与 Postgres 数据库通讯 https://petrjahoda.medium.com/communication-between-go-service-and-postgres-database-both-running-in-docker-ae0fd53a25b8
+5. Go 如何在 mysql 上转换时间 https://dev.to/rahulkarmore/how-to-parse-time-of-time-time-in-golang-work-with-sql-db-in
 
 ## GOCN每日新闻--2021-01-03 
 1.如何正确处理 Golang 中的数据库错误 https://dev.to/techschoolguru/how-to-handle-db-errors-in-golang-correctly-11ek
