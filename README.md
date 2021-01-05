@@ -57,6 +57,29 @@
 
 5. Go 如何在 mysql 上转换时间 https://dev.to/rahulkarmore/how-to-parse-time-of-time-time-in-golang-work-with-sql-db-in
 
+## gopherDaily--2021-01-05
+1. 将Go用作动态插件语言 - https://skuz.xyz/go-in-go.html
+
+2. 使用go构建区块链 - https://cryptocoinerdaily.com/2020/12/15/building-a-blockchain-in-golang-part-1/
+
+3. Lightspeed: 一个自包含的WebRTC实时流服务器 - https://github.com/GRVYDEV/Project-Lightspeed
+
+4. 一个20 年老司机的 2020 年度技术总结 by  go-zero 作者 Kevin - https://mp.weixin.qq.com/s/uBCcUJ9N3q0lH_mIUJ6ukQ 
+
+5. 为下一个十年定义不同的Kubernetes用户接口 - https://thenewstack.io/defining-a-different-kubernetes-user-interface-for-the-next-decade/
+
+6. 以太坊创立者V神介绍rollup技术 - https://vitalik.ca/general/2021/01/05/rollup.html
+
+7. 使用Procyon做属性配置 - https://burakkokenn.medium.com/configuration-properties-with-procyon-200f0789a92e
+
+8. 将Go工作流或函数打包成Unix风格的管道命令 - https://github.com/reugn/tpack
+
+9. InfluxDB的Counter-Strike: Global Offensive模板 - https://www.influxdata.com/blog/tracking-csgo-stats-with-influxdb/
+
+10. 移动应用面临的10个工程挑战 - https://blog.pragmaticengineer.com/10-engineering-challenges-due-to-the-nature-of-mobile-applications/
+
+11. 带有star数量的awesome-go列表: https://github.com/amanbolat/awesome-go-with-stars
+
 ## 码农桃花源每日分享--2021-01-05
 ### 文章推荐
 1. [go 接口实现原理] https://draveness.me/golang/docs/part2-foundation/ch04-basic/golang-interface/
