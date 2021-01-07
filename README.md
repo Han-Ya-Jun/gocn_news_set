@@ -7,6 +7,121 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-01-06 
+一、#公众号：Go语言中文网
+
+1. [有哪些厂应届生招聘 Go 工程师](https://mp.weixin.qq.com/s/znfDb3FndgHS8i2eRJf9Sw)
+
+2. [每日一库之通过cobra开发天气查询小工具](https://mp.weixin.qq.com/s/ieu8lBMaLrwhpFVCR_E1TA)
+
+3. [Go 精妙的互斥锁设计](https://mp.weixin.qq.com/s/j0NCgrU6M8ps0zIOkOT3FQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-05)](https://studygolang.com/topics/12919)
+
+2. [2020年度技术文章盘点之Channel篇](https://mp.weixin.qq.com/s/4HErPUVV9BAQahqQhoIefw)
+
+三、#公众号：代码与远方
+
+1. [当 Go struct 遇上 Mutex](https://mp.weixin.qq.com/s/v6WEcA-Go-X_1vj4rJpJtg)
+
+四、#公众号：五分选手 
+
+1. [HTTP/2 中的常见问题](https://mp.weixin.qq.com/s/oOh4d3kZLAjR6HHtgG1aiQ)
+
+六、#公众号：polarisxu
+
+1. [浅谈配置文件](https://mp.weixin.qq.com/s/BDH9jc3tA-Sk-ZF2geJRxg)
+
+七、#公众号：微服务实践
+
+1. [从代码到部署微服务实战（一）](https://mp.weixin.qq.com/s/jMsL464stSRctj2OLjOZBg)
+
+八、#公众号：CloudNativeCommunity
+
+1. [解读：云原生下的可观察性发展方向](https://mp.weixin.qq.com/s/4Hs-CC1CMBoaQkguHajN_A)
+
+九、#公众号：k8s技术圈
+
+1. [基于 F5 和 Cilium 的 Kubernetes 集群网络架构设计](https://mp.weixin.qq.com/s/lr-usDIiiiClA1HjENSYQw)
+
+十 、#公众号：网管叨bi叨
+
+1. [Kubernetes--玩转Pod滚动更新123](https://mp.weixin.qq.com/s/0Wz5E5YpD4G1eBN9wA8qDg)
+
+
+## GOCN每日新闻--2021-01-06
+
+1.GO 编程模式系列（三）：FUNCTIONAL OPTIONS https://mp.weixin.qq.com/s/2RjaMky4F7LKw_Hdukv8yQ
+
+2.Golang 中线性表的实现 https://segmentfault.com/a/1190000038836868
+
+3.iris.Django 模板引擎的语法格式和语法标签使用方法，include 标签传递变量方法  https://segmentfault.com/a/1190000038854929
+
+4.Go 语言分布式系统配置管理实践--go archaius https://segmentfault.com/a/1190000038839416
+
+5.深入理解 Golang Channel https://zhuanlan.zhihu.com/p/27917262
+
+
+
+
+ 
+
+
+## gopherDaily--2021-01-06
+1. DaveCheney通过一个小例子谈Go运行时内存分配 - https://dave.cheney.net/2021/01/05/a-few-bytes-here-a-few-there-pretty-soon-youre-talking-real-memory
+
+2. 自动驾驶技术公司comma.ai在生产环境中使用的分布式key-value数据库，仅不到1k行Go代码 - https://github.com/geohot/minikeyvalue
+
+3. 在运行时将任意文件嵌入到二进制文件中 - https://github.com/maja42/ember
+
+4. 观点：为什么Go语言要好过其他语言 - https://solaceinfotech.com/blog/why-golang-is-better-than-other-languages/
+
+5. 使用GoCenter查找Go module主要版本的方法 - https://jfrog.com/blog/find-the-path-to-go-module-major-versions-with-gocenter/
+
+6. 观点：为什么我选择Go - https://nixoncode.medium.com/why-i-chose-golang-go-81434402361e
+
+7. Grafana Tempo: 一个大规模、可扩展分布式跟踪系统 - https://grafana.com/blog/2020/10/27/announcing-grafana-tempo-a-massively-scalable-distributed-tracing-system/ 
+
+8. 监控kubernetes上的rabbitmq - https://piotrminkowski.com/2020/09/29/rabbitmq-monitoring-on-kubernetes/
+
+9. 每个用户都应该知道的10个k8s工具 - https://developers.redhat.com/devnation/tech-talks/10-kubernetes-tools
+
+10. Asahi Linux: 致力于将linux移植到apple M1上的项目 - https://asahilinux.org/
+
+11. openai发布新模型：支持从文字描述生成图片 - https://openai.com/blog/dall-e/
+
+12. github开放对伊朗的全面服务 - https://github.blog/2021-01-05-advancing-developer-freedom-github-is-fully-available-in-iran/
+
+
+
+
+## 码农桃花源每日分享--2021-01-06
+### 文章推荐
+1. [布隆过滤器] https://mp.weixin.qq.com/s/0lKehW0Hm_0iL5_wcNjiag 
+2. [探索go协程实现] https://mp.weixin.qq.com/s/foG3tUl2U2nTh6L-f4wktA
+
+3. [高并发服务遇 redis 瓶颈引发的事故] https://mp.weixin.qq.com/s/MtdU1xhOI5XkuSDrIYFRMA 
+4. [Echo 系列：自定义 HTTP Error Handler] https://mp.weixin.qq.com/s/N-bYb-bducwrZE9cE9GPEg
+
+5. [2021年容器技术发展趋势] https://mp.weixin.qq.com/s/1aQt0_et8ayYQT428NAkIA 
+6. [facebook全球用户流量管理系统] https://draveness.me/papers-taiji/
+
+
+### 面试问题
+1. https的认证过程
+
+2. tcp连接time_wait的作用
+
+3. server端出现大量TIME_WAIT状态的连接的原因
+
+4. 大量TIME_WAIT和CLOSE_WAIT的存在，会产生怎样的影响
+
+### 每日算法
+lc93 复原IP地址 https://leetcode-cn.com/problems/restore-ip-addresses/
+
 ## go中文网每日资讯--2021-01-05
 
 一、#公众号：Go语言中文网
