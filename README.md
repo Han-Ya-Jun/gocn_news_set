@@ -6,6 +6,109 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-01-07
+一、#公众号：Go语言中文网
+
+1. [深入理解 Go 语言的类型](https://mp.weixin.qq.com/s/Bm5IpdsHjYhLmmX_cl8cGw)
+
+2. [在 net/http 标准库做了点手脚](https://mp.weixin.qq.com/s/Y80kalSIlGhaDx3uWxoMig)
+
+3. [由浅到深，入门Go语言Map实现原理](https://mp.weixin.qq.com/s/2c-nNEamSLr0GeYThklecA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-06)](https://studygolang.com/topics/12924)
+
+三、#公众号：代码与远方
+
+1. [疑惑: Go const 导致程序结果错乱 ?](https://mp.weixin.qq.com/s/erwRd2764YEvk7IgLtIepQ)
+
+四、#公众号：五分选手 
+
+1. [详解 HTTP/2 头压缩算法 —— HPACK](https://mp.weixin.qq.com/s/YUwDewXVDRv8-DVrVswr2Q)
+
+五、#公众号：Go招聘
+
+1. [你遇到过哪些高质量的 Go 语言面试题？](https://mp.weixin.qq.com/s/_RGIG19v3H9BOuXkrRLSjw)
+
+六、#公众号：Go夜读
+
+1. [第 3 期：漫谈写作和个人成长](https://www.xiaoyuzhoufm.com/episode/5ff6c042dee9c1e16d421197?s=eyJ1IjogIjVmYmEwMTNhZTBmNWU3MjNiYmJkMTRkNSJ9)
+
+七、#公众号：章老师说
+
+1. [工程能力之思](https://mp.weixin.qq.com/s/igSdOJ3QzutWVbFK3VmpBg)
+
+八、#公众号：融云全球互联网通信云
+
+1. [技术实践丨IM 消息同步机制全面解析](https://mp.weixin.qq.com/s/nEfudW4pv2UyBP69TtG-Eg)
+
+## GOCN每日新闻--2021-01-07
+
+1.谈谈 Go 内存分配真相 https://dave.cheney.net/2021/01/05/a-few-bytes-here-a-few-there-pretty-soon-youre-talking-real-memory
+
+2.go os/exec 简明教程 https://colobu.com/2020/12/27/go-with-os-exec/
+
+3.微服务实战（一）https://my.oschina.net/kevwan/blog/4881248
+
+4.如何解决 Golang Package 循环引入问题 https://jogendra.dev/import-cycles-in-golang-and-how-to-deal-with-them
+
+5.Golang 实现 http server 提供压缩文件下载功能 https://segmentfault.com/a/1190000038867527
+
+
+## gopherDaily--2021-01-07
+1. Go+，下一个十年 - https://mp.weixin.qq.com/s/dIbzxuyfxzVB4HKD3NAgVA
+
+2. 解读：云原生下的可观察性发展方向 - https://mp.weixin.qq.com/s/4Hs-CC1CMBoaQkguHajN_A
+
+3. 使用NPM发布和分发Go编写的二进制文件 - https://medium.com/xendit-engineering/how-we-repurposed-npm-to-publish-and-distribute-our-go-binaries-for-internal-cli-23981b80911b
+
+4. 构建和部署真实世界的Go应用程序系列 - https://www.gobeyond.dev/wtf-dial/
+
+5. 快速且高度可配置的云原生网络爬虫 - https://github.com/creekorful/trandoshan
+
+6. 微软开源的网络测量和分析工具Ethr发布1.0版本 - https://logicpundit.com/blog/ethr-v1/
+
+7. 性能优化那些事 - https://mp.weixin.qq.com/s/iEcgODdo3mkQPvCou5PBHg
+
+8. 阿里云技术专家解读：2021 年六大容器技术发展趋势 - https://mp.weixin.qq.com/s/1aQt0_et8ayYQT428NAkIA
+
+9. 百度2020年开源总结 - https://mp.weixin.qq.com/s/OL1TI19tn7w2kEiJFQFzzg
+
+10. 新的量子算法最终破解非线性方程 - https://www.quantamagazine.org/new-quantum-algorithms-finally-crack-
+
+
+
+## 码农桃花源每日分享--2021-01-07
+
+### 文章推荐
+
+1. [go 并发定时器] https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-timer/
+
+2. [MYSQL语句加锁分析(上)] https://mp.weixin.qq.com/s/wSlNZcQkax-2KZCNEHOYLA
+
+3. [为什么DNS使用UDP服务] https://mp.weixin.qq.com/s/wowPtnx22mWxT_TSWqbl4w
+
+4. [MYSQL只是点] https://mp.weixin.qq.com/s/J3kCOJwyv2nzvI0_X0tlnA
+
+
+### 面试问题
+
+1. 根对象到底是什么？
+
+2. 有了 GC，为什么还会发生内存泄露？
+
+3. 并发标记清除法的难点是什么？
+
+4. Redis线程模型
+
+5. Redis是单线程的，如何提高多核CPU的利用率？
+
+6. 你知道有哪些Redis分区实现方案？
+
+### 每日算法
+
+lc 1553 吃掉 N 个橘子的最少天数
 
 
 ## go中文网每日资讯--2021-01-06 
