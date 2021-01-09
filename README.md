@@ -6,6 +6,104 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-01-08
+
+一、#公众号：Go语言中文网
+
+1. [知乎问答：为什么 Go 的 Web 框架速度还不如 Java？](https://mp.weixin.qq.com/s/i2sPVjhR4Fl3xGif2VyMvw)
+
+2. [Go - 统一定义 API 错误码](https://mp.weixin.qq.com/s/C4kjPcYNtq32rwGR2CyYug)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-07)](https://studygolang.com/topics/12928)
+
+三、#公众号：代码与远方
+
+1. [自己动手实现一个malloc内存分配器 | 30图](https://mp.weixin.qq.com/s/FpXLBOVm5P-sNTr2S7PyhQ)
+
+四、#公众号：五分选手 
+
+1. [HTTP/2 HPACK 实际应用举例](https://mp.weixin.qq.com/s/DmL3ZSDylwbOd9ANQ7R_wQ)
+
+五、#公众号：Golang来啦
+
+1. [使用 Panic、Defer 和 Recover 处理 Go 错误](https://mp.weixin.qq.com/s/ENd2THFts4PCS9KnA0y-hQ)
+
+六、#公众号：多颗糖
+
+1. [软件架构基础 1：架构师的 8 大核心能力](https://mp.weixin.qq.com/s/Y6crtvU9yYCbpMee9at2rQ)
+
+2. [软件架构基础 2: 架构思维](https://mp.weixin.qq.com/s/th0Yh3bK3GQIGtLmadPMGA)
+
+七、#公众号：七牛云
+
+1. [Go 通道是糟糕的，你应该也觉得很糟糕 | Linux 中国](https://mp.weixin.qq.com/s/D0R8wUo6rm-TnrMpkvggNA)
+
+八、#公众号：Golang语言开发栈
+
+1. [Golang 语言的内存管理](https://mp.weixin.qq.com/s/eGBDOfKuNdYI6S2Q6klGQw)
+
+## GOCN每日新闻--2021-01-08
+1. go mod graph 可视化——gmchart https://segmentfault.com/a/1190000038897207
+
+2. Focus 聚焦社区 v0.1.0 beta，GoFrame 开源社区项目 https://segmentfault.com/a/1190000038888796
+
+3. Golang 语言的内存管理 https://mp.weixin.qq.com/s/eGBDOfKuNdYI6S2Q6klGQw
+
+4. Week03: Go 并发编程 (九) 深入理解 Context http://lailin.xyz/post/go-training-week3-context.html
+
+5.通过实例理解 Go 标准库 http 包是如何处理 keep-alive 连接的 https://tonybai.com/2021/01/08/understand-how-http-package-deal-with-keep-alive-connection/
+
+
+## gopherDaily--2021-01-08
+1.Go实现的5G核心网开源项目free5gc源码分析系列 - https://blog.csdn.net/zhonglinzhang/category_9724931.html
+
+2.观点：没有适合您的Go - https://gurjeet.singh.im/blog/no-golang-for-you
+
+3.纯Go实现的FreeSwitch ESL(event socket library)库 - https://github.com/percipia/eslgo
+
+4.播客：Go panic! - https://changelog.com/gotime/161
+
+5.支持Go正则式的正则式可视化网站 - https://regex101.com/
+
+6.grasp - 使用易于记忆的单词创建强密码 - https://github.com/lucasepe/grasp
+
+7.Docker中的数据库基准测试：MySQL，PostgreSQL，SQL Server - https://petrjahoda.medium.com/benchmark-databases-in-docker-mysql-postgresql-sql-server-7b129368eed7
+
+8.influxdb的免费网络监控模板 - https://www.influxdata.com/blog/network-usage-visibility-from-the-free-influxdb-sflow-monitoring-template/
+
+9.油管视频：当pod被删除时发生了什么 - https://www.youtube.com/watch?v=nBDKZanYUNM&feature=youtu.be
+
+10.Serverless在SaaS领域的最佳实践 - https://mp.weixin.qq.com/s/ngRKlpL_I_APLDnF7vXFaA
+
+11.日产汽车源码泄露 - https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/
+
+12.用于制作神经网络图的latex代码 - https://github.com/HarisIqbal88/PlotNeuralNet
+
+13.城市交通模拟器 - https://traffic-simulation.de/
+
+## 码农桃花源每日分享--2021-01-08
+### 文章推荐
+1. [echo系列结束篇——自定义 Server] https://mp.weixin.qq.com/s/NyMalGCgwLt-F5nou73c8Q
+
+2. [go并发编程之深入理解errgroup] https://lailin.xyz/post/go-training-week3-errgroup.html
+
+3. [2020年私有云盘点——国内私有云进入3.0时代] https://mp.weixin.qq.com/s/29XhOvguts-z564gr55-Qg
+
+4. [微博云原生技术的思考与实践] https://mp.weixin.qq.com/s/KlnmNThKJ2QgiR-2_pZPuQ
+
+### 面试问题
+1. web页面的请求过程
+
+2. HTTP长连接有什么好处？
+
+3. TCP收到RST报文的几种情况？
+
+### 每日算法
+lc452 用最少数量的箭引爆气球 https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/
+
+
 ## go中文网每日资讯--2021-01-07
 一、#公众号：Go语言中文网
 
