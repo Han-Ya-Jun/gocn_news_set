@@ -6,6 +6,97 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-01-09 
+一、#公众号：Go语言中文网
+
+1. [Go 微服务缓存原理与最佳实践](https://mp.weixin.qq.com/s/LgCESuXg-Ri2A7twMfmweA)
+
+2. [如何避免用动态语言的思维写Go代码](https://mp.weixin.qq.com/s/xNmhk_ZI38MgJt9rRZz7LA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-08)](https://studygolang.com/topics/12934)
+
+三、#公众号：代码与远方
+
+1. [并发编程--用SingleFlight合并重复请求](https://mp.weixin.qq.com/s/bbxLCA6pK9TGMY4H1hGUrA)
+
+四、#公众号：五分选手 
+
+1. [全双工通信的 WebSocket](https://mp.weixin.qq.com/s/RDERL9Dpt9n_ki2NShWMAA) 
+
+五、#公众号：Golang来啦
+
+1. [Golang 入门笔记 - Channel](https://mp.weixin.qq.com/s/EREY9bQcfv4T1zFdZvrdGg)
+
+六、#公众号：云原生技术爱好者社区
+
+2. [Kubernetes Ingress控制器技术选型注意事项](https://mp.weixin.qq.com/s/V6eSW6z6xDAihLe06LpKZQ)
+
+七、#公众号：微服务实践
+
+1. [服务自适应降载保护设计](https://mp.weixin.qq.com/s/cgjCL59e3CDWhsxzwkuKBg)
+
+八、mohuishou 
+
+1. [Week03: Go并发编程(九) 深入理解 Context](https://lailin.xyz/post/go-training-week3-context.html)
+
+## GOCN每日新闻--2021-01-09
+1.聊聊 gorm 的 Model https://juejin.cn/post/6915416440036130824
+
+2.走进 golang gc https://zhuanlan.zhihu.com/p/342792030
+
+3.优雅的 Go 错误处理 https://thingsthatkeepmeupatnight.dev/posts/golang-http-handler-errors
+
+4.go-mir v2.6.1 发布，用 Go 结构体标签定义 handler 路由信息的辅助库 https://www.oschina.net/news/125998/go-mir-2-6-1-released
+
+5.Go 语言高性能编程，Go 语言陷阱 https://github.com/geektutu/high-performance-go
+
+## gopherDaily--2021-01-09 
+- 1.优雅的Go错误处理 - https://thingsthatkeepmeupatnight.dev/posts/golang-http-handler-errors/
+- 2.走进Go GC - https://zhuanlan.zhihu.com/p/342792030
+- 3.使用连接池提高sqlite访问性能 - https://turriate.com/articles/making-sqlite-faster-in-go
+- 4.使用SQL语句查询csv文件数据 - https://github.com/m7shapan/querycsv
+- 5.Go核心团队早期成员Andrew Gerrand谈Go - https://www.youtube.com/watch?v=yQ-WEWzkiNI&ab_channel=ANZAustralia
+- 6.优化varint解码 - https://dolthub.awsdev.ld-corp.com/blog/2021-01-08-optimizing-varint-decoding/
+- 7.Eleanor McHugh-使用Go和C实现软件机器 - https://www.youtube.com/watch?v=ROpOGupKv14
+- 8.Go到C#的翻译器 - https://go2cs.net/
+- 9.Redhat openshift同时支持windows和linux容器 - https://www.zdnet.com/article/red-hat-openshift-supports-both-windows-and-linux-containers/
+- 10.油管视频：理解Go代码编译构建过程 - https://www.youtube.com/watch?v=qPIB3STWXVk
+
+## 码农桃花源每日分享--2021-01-09
+### 优质文章汇总
+1. [为什么基础服务不应该高可用] https://draveness.me/whys-the-design-unstable-infrastructure/
+
+2. [为什么tcp有黏包问题] https://draveness.me/whys-the-design-tcp-message-frame/
+
+3. [高并发服务遇 redis 瓶颈引发的事故] https://mp.weixin.qq.com/s/MtdU1xhOI5XkuSDrIYFRMA
+
+4. [MYSQL语句加锁分析(上)] https://mp.weixin.qq.com/s/wSlNZcQkax-2KZCNEHOYLA
+
+5. [go并发编程之深入理解errgroup] https://lailin.xyz/post/go-training-week3-errgroup.html
+### 面试问题
+1. HTTP长连接有什么好处？
+
+2. TCP收到RST报文的几种情况？
+
+3. 有了 GC，为什么还会发生内存泄露？
+
+4. 并发标记清除法的难点是什么？
+
+5. Redis是单线程的，如何提高多核CPU的利用率？
+
+6. server端出现大量TIME_WAIT状态的连接的原因
+
+7. 大量TIME_WAIT和CLOSE_WAIT的存在，会产生怎样的影响
+
+8. 不使用索引的原因列举
+
+9. redis的数据淘汰策略？
+
+10.  redis分布式锁是如何实现的?
+
+
 ## go中文网每日资讯--2021-01-08
 
 一、#公众号：Go语言中文网
