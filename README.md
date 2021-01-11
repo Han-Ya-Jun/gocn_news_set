@@ -50,11 +50,15 @@
 
 ## GOCN每日新闻--2021-01-10
 
-微服务缓存原理与最佳实践 https://gocn.vip/topics/11490
-服务自适应降载保护设计 https://mp.weixin.qq.com/s/cgjCL59e3CDWhsxzwkuKBg
-自己动手实现一个 malloc 内存分配器 https://mp.weixin.qq.com/s/FpXLBOVm5P-sNTr2S7PyhQ
-Go 通道是糟糕的，你应该也觉得很糟糕 https://mp.weixin.qq.com/s/D0R8wUo6rm-TnrMpkvggNA
-go 并发编程之深入理解 errgroup https://lailin.xyz/post/go-training-week3-errgroup.html
+1.微服务缓存原理与最佳实践 https://gocn.vip/topics/11490
+
+2.服务自适应降载保护设计 https://mp.weixin.qq.com/s/cgjCL59e3CDWhsxzwkuKBg
+
+3.自己动手实现一个 malloc 内存分配器 https://mp.weixin.qq.com/s/FpXLBOVm5P-sNTr2S7PyhQ
+
+4.Go 通道是糟糕的，你应该也觉得很糟糕 https://mp.weixin.qq.com/s/D0R8wUo6rm-TnrMpkvggNA
+
+5.go 并发编程之深入理解 errgroup https://lailin.xyz/post/go-training-week3-errgroup.html
 
 ## gopherDaily--2021-01-10
 - 1.在Go中，何时使用函数类型 - https://kinbiko.com/posts/2021-01-10-function-types-in-go/
