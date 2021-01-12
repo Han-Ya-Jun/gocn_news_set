@@ -7,6 +7,100 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-01-11
+一、#公众号：Go语言中文网
+
+1. [惊呆了：我用这个 Go 框架一周实现了一个中台系统](https://mp.weixin.qq.com/s/LRyn60vJy_m14-U6nkJcXw)
+
+2. [腾讯在线教育招 Go 了](https://mp.weixin.qq.com/s/wgUd0uOnbH9FRSnE9ykN1g)
+
+3. [Go - 常用签名算法的基准测试](https://mp.weixin.qq.com/s/HMc407XEBYyVP7B9Dj83IA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-10)](https://studygolang.com/topics/12944)
+
+三、#公众号：代码与远方
+
+1. [程序员应如何理解高并发中的协程](https://mp.weixin.qq.com/s/UDGVOq1RaP7BRvP0cgd_bg)
+
+四、#公众号：五分选手 
+
+1. [深入浅出 FlatBuffers 之 Schema](https://mp.weixin.qq.com/s/PayaCfqlAYgF20Guuho-Qw)
+
+2. [深入浅出 FlatBuffers 之 Encode](https://mp.weixin.qq.com/s/Cf2511XmUXcAtkx1VKQAyA)
+
+3. [深入浅出 FlatBuffers 之 FlexBuffers](https://mp.weixin.qq.com/s/5oPOG6lrNDuCrltajejEFg)
+
+五、#公众号：k8s技术圈
+
+1. [Prometheus 与 Grafana 的结合使用](https://mp.weixin.qq.com/s/1hPGCA3gwT7QJ62ro26ZJg)
+
+2. [Kubernetes 存储原理解析](https://mp.weixin.qq.com/s/bkpZMbmKa6lBKg8Fc3Lkzw)
+
+六、#公众号：脑子进煎鱼了
+
+1. [一文带你解密 Go 语言之通道 channel](https://mp.weixin.qq.com/s/ZXYpfLNGyej0df2zXqfnHQ)
+
+七、#公众号：码农桃花源
+
+1. [写一个 panic blame 机器人](https://mp.weixin.qq.com/s/y9pVNtC6w8Fn0Xqq6EonCw)
+
+八、#公众号：Golang来啦
+
+1. [Golang 时间操作大全](https://mp.weixin.qq.com/s/p4MMRqPsuVRAKGfO_d4G0Q)
+
+## GOCN每日新闻--2021-01-11
+1.使用 Go 语言发现和探索 mmap https://brunocalza.me/2021/01/10/discovering-and-exploring-mmap-using-go/
+
+2.µjson：Go 中最小化 JSON 处理和转换 https://olvrng.medium.com/%C2%B5json-a-minimal-json-parser-and-transformer-in-go-3798c4a46d3a
+
+3.何时 Go 中使用函数类型 https://kinbiko.com/posts/2021-01-10-function-types-in-go/
+
+4.如何像专家一样调试 goroutine https://vtimothy.com/posts/debugging-goroutines/
+
+5.golang 中 time 包使用教程之基础使用篇 https://gocn.vip/topics/11492
+
+## gopherDaily--2021-01-11
+- 1.使用Go发现和探索mmap - https://brunocalza.me/2021/01/10/discovering-and-exploring-mmap-using-go/
+- 2.25个最佳Go技术博客(英文) - https://draft.dev/learn/technical-blogs/golang
+- 3.Go内置数据结构原理 - https://zhuanlan.zhihu.com/p/341945051
+- 4.以太坊V神谈论钱包安全 - https://vitalik.ca/general/2021/01/11/recovery.html
+- 5.如何像专家一样调试goroutine - https://vtimothy.com/posts/debugging-goroutines/
+- 6.Pinterest是如何扩展缓存基础架构的 - https://stackshare.io/pinterest/scaling-cache-infrastructure-at-pinterest
+- 7.jira命令行交互工具 - https://github.com/ankitpokhrel/jira-cli/
+- 8.IOT协议Mqtt介绍 - https://michael.stapelberg.ch/posts/2021-01-10-mqtt-introduction/
+- 9.图解NumPy：常用函数的内在机制 - https://zhuanlan.zhihu.com/p/342356377
+- 10.M1 MacBook Air是我拥有过的最好的电脑 - https://bou.ke/blog/macbouk-air/
+- 11.硅谷软件工程师与传统公司的有何不同 - https://blog.pragmaticengineer.com/what-silicon-valley-gets-right-on-software-engineers/
+- 12.julia语言简明手册 - http://algorithmsbook.com/files/appendix-g.pdf
+
+
+
+
+## 码农桃花源--2021-01-11
+### 文章分享
+1. [go 解密channel](https://mp.weixin.qq.com/s/ZXYpfLNGyej0df2zXqfnHQ)
+
+2. [go 内存分配原理](https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-memory-allocator/)
+
+3. [为什么TCP有性能问题](https://draveness.me/whys-the-design-tcp-performance/)
+
+4. [程序员如何理解高并发中的协程](https://mp.weixin.qq.com/s/UDGVOq1RaP7BRvP0cgd_bg)
+
+### 面试问题
+1. 一台 Linux 系统初始化环境后需要做一些什么安全工作
+
+2. 什么叫 CC 攻击？什么叫 DDOS 攻击？
+
+3. 什么是网站数据库注入？
+
+4. 联合索引是什么？为什么需要注意联合索引中的顺序？
+
+### 每日算法
+lc 1163 按字典序排在最后的子串
+
+
 
 ## go中文网每日资讯--2021-01-10
 
