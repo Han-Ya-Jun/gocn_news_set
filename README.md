@@ -7,6 +7,101 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-01-12
+
+一、#公众号：Go语言中文网
+
+1. [学到了：goroutine 可能使程序变慢](https://mp.weixin.qq.com/s/aolQTL-VOvNqEicC95kYZw)
+
+2. [使用 Go 和 ReactJS 构建聊天系统（前言）](https://mp.weixin.qq.com/s/B3aj3GWE-WiiXfz3Xd3gzQ)
+
+3. [使用 Go 和 ReactJS 构建聊天系统（一）：初始化项目](https://mp.weixin.qq.com/s/i29PhF34AfcChx4bL__ITA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-11)](https://studygolang.com/topics/12951)
+
+三、#公众号：代码与远方
+
+1. [线程安全代码到底是怎么编写的？](https://mp.weixin.qq.com/s/IAQ-w8vGhAhsMmb5jLTX4g)
+
+四、Pingcap
+
+1. [TiDB 常⻅架构应⽤场景](https://pingcap.com/blog-cn/schema-application-scenario-for-tidb/)
+
+五、#公众号：Golang语言开发栈
+
+1. [Golang 语言怎么实现访问流量限流?](https://mp.weixin.qq.com/s/8f9GrnfoBNnix8ZqdGs4lA)
+
+六、#公众号：Golang技术分享
+
+1. [Go更细粒度的读写锁设计](https://mp.weixin.qq.com/s/I9-8GL641J4xO25_BqHVTw)
+
+七、#公众号：Golang来啦
+
+1. [Go 基础之 Goroutine](https://mp.weixin.qq.com/s/HWXh5V9KDoxTA-ys2gg0lA)
+
+八、#公众号：Go招聘
+
+1. [360 招聘 Go 工程师：福利竟然有理发、按摩](https://mp.weixin.qq.com/s/tIHt1IymYncYgv8SgVnnsA)
+
+2. [请接收37岁老码农寒冬里给年轻人上的一节Go面经课](https://mp.weixin.qq.com/s/50uRQ5u-egBR7EAAPb48zw)
+
+
+
+## GOCN每日新闻--2021-01-12
+1.2021，JuiceFS 开源啦 https://mp.weixin.qq.com/s/asUFtorMB1pcOwhNvlDyKw
+
+2.Go Slice 手册 https://ueokande.github.io/go-slice-tricks/
+
+3.使用 Kubernetes 和 Istio 构建大型集群的挑战和解决方案 https://blog.houzz.com/challenges-and-solutions-in-building-a-large-scale-cluster-with-kubernetes-and-istio/
+
+4.聊聊 gorm 的 IsolationLevel https://segmentfault.com/a/1190000038939922
+
+5.Golang 组件化网络服务器框架 Halia 指南 https://segmentfault.com/a/1190000038946586
+
+## gopherDaily--2021-01-12
+1.Go并发模式之sync.WaitGroup - https://www.calhoun.io/concurrency-patterns-in-go-sync-waitgroup/
+
+2.Go切片使用技巧快查表 - https://ueokande.github.io/go-slice-tricks/
+
+3.nanoQ: 高性能、无代理的面向实时流数据的订阅和发布工具 - https://medium.com/aigent/meet-nanoq-high-performance-brokerless-pub-sub-for-streaming-real-time-data-with-golang-6630d3067f4e
+
+4.我是如何将Go用于物联网系统的每一个部分的 - https://dev.to/stanleynguyen/going-places-how-i-used-golang-for-literally-every-part-of-an-iot-system-19fm
+
+5.超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线 - https://github.com/xiaobaiTech/golangFamily
+
+6.juicefs: 基于redis和S3构建的分布式POSIX文件系统 - https://github.com/juicedata/juicefs
+
+7.一个校验http请求中jwt的go web中间件 - https://github.com/auth0/go-jwt-middleware
+
+8.vim-go作者的zshrc模板 - https://github.com/fatih/dotfiles/blob/master/zshrc
+
+9.线性代数学习笔记(python版本) - https://github.com/MacroAnalyst/Linear_Algebra_With_Python
+
+10.德勤发布《2021技术趋势》报告 - https://mp.weixin.qq.com/s/agEvDRFdAZ6xuJ0fM3LWuw
+
+11.一份硬核计算机科学CS自学计划 - https://github.com/spring2go/cs_study_plan
+
+## 码农桃花源--2021-01-12
+### 文章分享
+1. [go语言实现限流](https://mp.weixin.qq.com/s/8f9GrnfoBNnix8ZqdGs4lA)
+
+2. [go语言资源自动回收技术](https://chai2010.cn/post/golang/go-gc-2013/)
+
+3. [go并发与按值传递引发的问题](https://www.lijiaocn.com/go-detail/article/waitgroup.html)
+
+4. [mysql实战45讲整理面试必知](https://www.lijiaocn.com/编程/2020/04/17/geek-mysql-45-note.html)
+
+### 面试问题
+1. epoll原理
+
+2. Linux的Native AIO机制
+
+### 每日算法
+[lc214 最短回文串](https://leetcode-cn.com/problems/shortest-palindrome/)
+
 ## go中文网每日资讯--2021-01-11
 一、#公众号：Go语言中文网
 
