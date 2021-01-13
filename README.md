@@ -6,7 +6,71 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-01-13
+一、#公众号：Go语言中文网
 
+1. [第 77 期周刊题解：关于 goroutine 数量的，你答对了吗？](https://mp.weixin.qq.com/s/0MFJD3Vu5gTaZf02JOUcBQ)
+
+2. [使用 Go 和 ReactJS 构建聊天系统（二）：gorilla/websocket 包提供的 WebSockets](https://mp.weixin.qq.com/s/xt7xo5aJ60oTaGV2qjnx7g)
+
+3. [Golang 类型断言 vs 类型转换](https://mp.weixin.qq.com/s/DtrJ7yXvSPnaOfyRklpThQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-12)](https://studygolang.com/topics/12957)
+
+三、#公众号：代码与远方
+
+1. [漫画 | 花了七天时间测试，我彻底搞明白了 TCP 的这些内存开销!](https://mp.weixin.qq.com/s/vOMZzTlruDpsIq8Epp5WKA)
+
+四、#公众号：图解源码
+
+1. [通过服务目录搞定PAAS平台基础服务集成](https://mp.weixin.qq.com/s/R3Z0jx312tAFi63ffETOFA)
+
+五、#公众号：k8s技术圈
+
+1. [大规模微服务利器：eBPF + Kubernetes 介绍](https://mp.weixin.qq.com/s/soBeW9gP2AX9vMxUMiWXZw)
+
+六、#公众号：脑子进煎鱼了
+
+1. [快报：正式提案将泛型特性加入 Go 语言](https://mp.weixin.qq.com/s/oZ3TyNzVz0Obpm03rpeMuA)
+
+七、#公众号：Go夜读
+
+1. [一个 20 年技术老兵的 2020 年度技术总结](https://mp.weixin.qq.com/s/DfsUSmJXb0TP9WBAftvHbg)
+
+八、#公众号：腾讯技术工程
+
+1. [分布式之系统底层原理](https://mp.weixin.qq.com/s/KKrxuVCrjlXXWMPTXQ-fvA)
+
+
+
+## GOCN每日新闻--2021-01-13
+
+1.关于将泛型添加到 Go 中的建议 https://blog.golang.org/generics-proposal
+
+2.Go and CPU Caches https://teivah.medium.com/go-and-cpu-caches-af5d32cc5592
+
+3.浅谈 go-zero 中批处理的设计 https://juejin.cn/post/6916898431353126919
+
+4.解密 Go 语言之通道 channel https://mp.weixin.qq.com/s/ZXYpfLNGyej0df2zXqfnHQ
+
+5.Go 的工作窃取调度 https://rakyll.org/scheduler/
+
+
+
+## gopherDaily--2021-01-13 
+- 1.Go官博：正式提出将泛型机制(类型参数)加入Go的proposal - https://blog.golang.org/generics-proposal
+- 2.2021，JuiceFS 开源啦 - https://juicefs.com/blog/cn/posts/juicefs-open-source/
+- 3.goland：关于在保存时运行go fmt命令 - https://blog.jetbrains.com/go/2021/01/12/running-go-fmt-on-save/
+- 4.Go http客户端的性能调优 - https://www.loginradius.com/blog/async/tune-the-go-http-client-for-high-performance/
+- 5.使用kubernetes调度虚拟机 - https://www.projectcalico.org/using-kubernetes-to-orchestrate-vms/
+- 6.如何让运行于k8s的应用使用外部的环境配置 - https://towardsdatascience.com/kubernetes-pattern-for-applications-with-external-environment-configuration-a42d7bdd7e97
+- 7.使用delve调试Go程序 - https://eleni.blog/2020/12/19/debugging-in-go-with-delve/
+- 8.使用Go实现的gRPC拦截器 - https://itnext.io/grpc-interceptors-e221aa4cc49
+- 9.Go函数的去混淆尝试 -  https://medium.com/walmartglobaltech/de-ofuscating-golang-functions-93f610f4fb76
+- 10.cloudflare公司的2020年总结 - https://blog.cloudflare.com/cloudflare-radar-2020-year-in-review/
+- 11.我看了很多”2021年最热门的编程语言”的视频后的总结: 如果您正在寻找新的后端语言和技术栈，请看看Go和Kubernetes - https://www.globalnerdy.com/2021/01/04/i-watched-a-lot-of-top-programming-languages-for-2021-videos-so-you-dont-have-to/
 
 ## go中文网每日资讯--2021-01-12
 
