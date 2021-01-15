@@ -6,6 +6,163 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-01-14
+一、#公众号：Go语言中文网
+
+1. [好吧，Uber 不使用 Elasticsearch，自己用 Go 造了个轮子](https://mp.weixin.qq.com/s/5tmQLQexOXi5QxPBT-9pfw)
+
+2. [基于 Go1.16 实现静态文件的 HTTP Cache](https://mp.weixin.qq.com/s/nmgCyv9o_VDlBHwmUpGPSA)
+
+3. [使用 Go 和 ReactJS 构建聊天系统（三）：前端实现](https://mp.weixin.qq.com/s/Yqh7eNaQnzWcJgiqad_slw)
+
+4. [Golang 时间操作大全](https://mp.weixin.qq.com/s/QKo7UpzW4dX_tT8Dj7SHgg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-13)](https://studygolang.com/topics/12962)
+
+三、#公众号：代码与远方
+
+1. [线程间到底共享了哪些进程资源？](https://mp.weixin.qq.com/s/j3SF5cM68F0nBmxCiAtQ-Q)
+
+四、#公众号：Golang来啦
+
+1. [不要使用 Go 默认的 HTTP 客户端（在生产环境中）](https://mp.weixin.qq.com/s/LjSlxdo5PFVJcUhH3UDU0A)
+
+五、#公众号： 微服务实践 
+
+1. [Windows下如何玩转火热的go-zero](https://mp.weixin.qq.com/s/vPZkojz6ly2jnyxhp-YpwA)
+
+六、#公众号：CloudNativeCommunity
+
+1. [2020十大边缘计算开源项目](https://mp.weixin.qq.com/s/Z3RLh1Eijm1WuqBzxJG4zQ)
+
+七、#公众号：polarisxu
+
+1. [用 Go 如何实现精准统计文章字数](https://mp.weixin.qq.com/s/1QcQolmK7kV27YmxBpmmZA)
+
+八、#公众号：云原生技术爱好者社区
+
+1. [使用Kubernetes和Istio构建大规模集群带来的挑战和解决方案](https://mp.weixin.qq.com/s/IIM5tKfuiQCwdloyPAknCg)
+
+九、PingCap
+
+1. [云原生数据库设计新思路](https://pingcap.com/blog-cn/new-ideas-for-designing-cloud-native-database/)
+
+
+## GOCN每日新闻--2021-01-14
+1.包的分层，而不是分组 https://www.gobeyond.dev/packages-as-layers/
+
+2.Go 实现的色标库 https://github.com/mazznoer/colorgrad
+
+3.基于 Github 自动部署 Go Web 服务 https://github.com/ironpeakservices/iron-chart-go
+
+4.Go 实现 io/fs 文件系统 https://github.com/jhchabran/gistfs
+
+5.5 分钟内学习 Go https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510
+
+
+## gopherDaily--2021-01-14
+1.Go官博：正式提案将泛型加入Go[译] - https://t.zsxq.com/UBYfE2N
+
+2.Go项目结构布局再探讨：将Go包作为层(layer)，而不是组(group) - https://www.gobeyond.dev/packages-as-layers/
+
+3.激荡60年——垃圾回收与Go的选择 - https://zhuanlan.zhihu.com/p/271108355
+
+4.gobook: 基于golive实现的在浏览器中运行的交互式解释器 - https://github.com/brendonmatos/gobook/
+
+5.GTA：检测受影响的依赖Go包 - https://digitalocean.com/blog/gta-detecting-affected-dependent-go-packages
+
+7.GistFS: 实现了go 1.16的 io/fs接口，支持从github gist读取文件 - https://github.com/jhchabran/gistfs
+
+5.Go色标库，支持自定义颜色渐变、预设梯度、硬边渐变等色彩方案 - https://github.com/mazznoer/colorgrad
+
+6.ROS2 Cookbook - https://github.com/mikeferguson/ros2_cookbook
+
+7.1000个计算机科学课程YouTube视频，助您完美完成大学计算机科学学业 - https://laconicml.com/computer-science-curriculum-youtube-videos/
+
+8.可嵌入到github account readme的GitHub帐户活动指标生成器 - https://github.com/lowlighter/metrics
+
+## 码农桃花源--2021-01-14
+### 文章分享
+1. [docekr 学习脑图](https://processon.com/view/5e9b2337f346fb4bdd762e91?fromnew=1#map)
+
+2. [go 栈内存的内存和逃逸分析](https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-stack-management/)
+
+3. [为什么kafka这么快](https://strikefreedom.top/why-kafka-is-so-fast)
+
+4. [go泛型的加入](https://mp.weixin.qq.com/s/oZ3TyNzVz0Obpm03rpeMuA)
+
+5. [panic blame](https://mp.weixin.qq.com/s/y9pVNtC6w8Fn0Xqq6EonCw)
+
+### 面试问题
+1. 说说半连接队列和 SYN Flood 攻击的关系
+> 1.三次握手前，服务端的状态从CLOSED变为LISTEN, 同时在内部创建了两个队列：半连接队列和全连接队列，即SYN队列和ACCEPT队列。
+半连接队列
+当客户端发送SYN到服务端，服务端收到以后回复ACK和SYN，状态由LISTEN变为SYN_RCVD，此时这个连接就被推入了SYN队列，也就是半连接队列。
+全连接队列
+当客户端返回ACK, 服务端接收后，三次握手完成。这个时候连接等待被具体的应用取走，在被取走之前，它会被推入另外一个 TCP 维护的队列，也就是全连接队列(Accept Queue)。
+SYN Flood 攻击原理
+SYN Flood 属于典型的 DoS/DDoS 攻击。其攻击的原理很简单，就是用客户端在短时间内伪造大量不存在的 IP 地址，并向服务端疯狂发送SYN。对于服务端而言，会产生两个危险的后果:
+1. 处理大量的SYN包并返回对应ACK, 势必有大量连接处于SYN_RCVD状态，从而占满整个半连接队列，无法处理正常的请求。
+2. 由于是不存在的 IP，服务端长时间收不到客户端的ACK，会导致服务端不断重发数据，直到耗尽服务端的资源。
+如何应对 SYN Flood 攻击？
+1. 增加 SYN 连接，也就是增加半连接队列的容量。
+2. 减少 SYN + ACK 重试次数，避免大量的超时重发。
+3. 利用 SYN Cookie 技术，在服务端接收到SYN后不立即分配连接资源，而是根据这个SYN计算出一个Cookie，连同第二次握手回复给客户端，在客户端回复ACK的时候带上这个Cookie值，服务端验证 Cookie 合法之后才分配连接资源。
+
+
+2. 介绍一下 TCP 报文头部的字段
+> 如何标识唯一标识一个连接？答案是 TCP 连接的四元组——源 IP、源端口、目标 IP 和目标端口。
+那 TCP 报文怎么没有源 IP 和目标 IP 呢？这是因为在 IP 层就已经处理了 IP 。TCP 只需要记录两者的端口即可。
+序列号
+即Sequence number, 指的是本报文段第一个字节的序列号。
+从图中可以看出，序列号是一个长为 4 个字节，也就是 32 位的无符号整数，表示范围为 0 ~ 2^32 - 1。如果到达最大值了后就循环到0。
+序列号在 TCP 通信的过程中有两个作用:
+1. 在 SYN 报文中交换彼此的初始序列号。
+2. 保证数据包按正确的顺序组装。
+ISN
+即Initial Sequence Number（初始序列号）,在三次握手的过程当中，双方会用过SYN报文来交换彼此的 ISN。
+ISN 并不是一个固定的值，而是每 4 ms 加一，溢出则回到 0，这个算法使得猜测 ISN 变得很困难。那为什么要这么做？
+如果 ISN 被攻击者预测到，要知道源 IP 和源端口号都是很容易伪造的，当攻击者猜测 ISN 之后，直接伪造一个 RST 后，就可以强制连接关闭的，这是非常危险的。
+而动态增长的 ISN 大大提高了猜测 ISN 的难度。
+确认号
+即ACK(Acknowledgment number)。用来告知对方下一个期望接收的序列号，小于ACK的所有字节已经全部收到。
+标记位
+常见的标记位有SYN,ACK,FIN,RST,PSH。
+SYN 和 ACK 已经在上文说过，后三个解释如下: FIN： 即 Finish，表示发送方准备断开连接。
+RST：即 Reset，用来强制断开连接。
+PSH： 即 Push, 告知对方这些数据包收到后应该马上交给上层的应用，不能缓存。
+窗口大小
+占用两个字节，也就是 16 位，但实际上是不够用的。因此 TCP 引入了窗口缩放的选项，作为窗口缩放的比例因子，这个比例因子的范围在 0 ~ 14，比例因子可以将窗口的值扩大为原来的 2 ^ n 次方。
+校验和
+占用两个字节，防止传输过程中数据包有损坏，如果遇到校验和有差错的报文，TCP 直接丢弃之，等待重传。
+可选项
+可选项的格式如下:
+常用的可选项有以下几个:
+• TimeStamp: TCP 时间戳，后面详细介绍。
+• MSS: 指的是 TCP 允许的从对方接收的最大报文段。
+• SACK: 选择确认选项。
+• Window Scale： 窗口缩放选项。
+
+
+
+3. Go Runtime什么时候从堆和从栈分配内存呢
+>对于生命周期仅在堆栈帧内的小对象，将分配到栈内存。
+对于逃逸到堆中但实际上是内联的小对象，分配在栈内存。
+对于将通过栈帧传递的小对象，在堆内存。
+对于大对象(>32KB)，堆内存。
+
+
+4. 简要介绍go运行时分配内存的策略。
+>对于小对象(<=32KB)， go运行时首先存在【cache】缓存中，然后是【central】中心，最后分配到【heap】堆中。
+对于大对象(>32KB)，直接分配到堆中。
+
+### 每日算法
+lc 1632 矩阵转换后的秩
+
+
 ## go中文网每日资讯--2021-01-13
 一、#公众号：Go语言中文网
 
