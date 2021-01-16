@@ -7,6 +7,103 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-01-15 
+一、#公众号：Go语言中文网
+
+1. [为什么要学习更多的编程语言？同时认为 Go 是最佳](https://mp.weixin.qq.com/s/V2_rYXql47qiq0GT8bvAqg)
+
+2. [使用 Go 和 ReactJS 构建聊天系统（四）：处理多客户端](https://mp.weixin.qq.com/s/Kizc1Hr6boNV2ryZci2Bbg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-14)](https://studygolang.com/topics/12972)
+
+三、#公众号：代码与远方
+
+1. [TCP 协议报文格式& tcpdump 抓包工具](https://mp.weixin.qq.com/s/8SbKFgJx5UsRZUKZemKM5A)
+
+四、#公众号：微服务实践
+
+1. [2020最佳人气项目之Go Web框架](https://mp.weixin.qq.com/s/AVk6x-E5QqR2KYpxb_QDQA)
+
+五、#公众号：Go招聘
+
+1. [医疗大数据行业 Top1 来招 Go 喽：有漂亮后端小姐姐](https://mp.weixin.qq.com/s/dVTbTw41pf8Nm9FiCJdIVw)
+
+六、#公众号：腾讯云原生
+
+1. [一文读懂 Kubernetes APIServer 原理](https://mp.weixin.qq.com/s/2Eym6GaKdcWD_6l05Q83aQ)
+
+七、#公众号：Go夜读
+
+1. [通过 MapReduce 降低服务响应时间](https://mp.weixin.qq.com/s/lviZsaxC-mnESYLkIJZv2Q)
+
+八、#公众号：阿里巴巴云原生
+
+1. [dubbo-go 白话文 | 从零搭建 dubbogo 和 dubbo 的简单用例](https://mp.weixin.qq.com/s/Uu6RiRF7rybUg-h6kyDqTw)
+
+九、mohuishou
+
+1. [Week03: Go并发编程(十) 深入理解 Channel](https://lailin.xyz/post/go-training-week3-channel.html)
+
+2. [Week03: Go并发编程(十一) 总结](https://lailin.xyz/post/go-training-week3-sum.html)
+
+## GOCN每日新闻--2021-01-15
+
+1.GO 恶意样本实例分析 https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458379543&idx=1&sn=fc1969c9926189fcd1f127baf3b381d2
+
+2.istio 微服务安全策略之 鉴权与 mTLS https://medium.com/trendyol-tech/istio-cross-cluster-microservice-security-authorization-mtls-cb3572963d90
+
+3.深入剖析 OpenTelemetry https://dmathieu.com/articles/development/dissecting-opentelemetry-tracing
+
+4.[新手向] 一次 Go 字符串转换优化实践 https://medium.com/better-programming/an-optimization-exercise-in-golang-43fea807441d
+
+5.gRPC 拦截器是什么,怎么用 https://itnext.io/grpc-interceptors-e221aa4cc49
+
+## gopherDaily--2021-01-15
+
+1.使用Go编写仿真器 - https://www.ardanlabs.com/blog/2021/01/writing-simulations-using-go.html
+
+2.牙医教你450行Go代码自制编程语言, 从EBNF开始 - https://zhuanlan.zhihu.com/p/341405385
+
+3.mnm: 一种电子邮件的替代品 - https://github.com/networkimprov/mnm
+
+4.使用Go轻松进行跨平台交叉编译 - https://opensource.com/article/21/1/go-cross-compiling
+
+5.播客：Cilium发明者Thomas Graf专访 - https://kubernetespodcast.com/episode/133-cilium/
+
+6.探索Go包的僵尸依赖问题 - https://dlorenc.medium.com/zombie-dependencies-77c34740a7a8
+
+7.Go中的Repository模式：驱动程序和可移植代码 - https://drgomesp.dev/notes/repository-pattern-in-go-drivers-and-portable-code/
+
+8.Go编写的git的semver插件 - https://github.com/chrisDeFouRire/go-git-semver
+
+9.开发人员：这些是2021年您将需要的最重要技能 - https://www.techrepublic.com/article/developers-these-are-the-top-skills-you-will-need-in-2021/
+
+10.为k3s增加NVIDIA GPU支持 - https://dev.to/mweibel/add-nvidia-gpu-support-to-k3s-with-containerd-4j17
+
+11.Go开发：业务逻辑的提取 - https://developer20.com/extracting-the-business-logic-project/
+
+12.Go，RabbitMQ、gRPC与Clean Architecture和微服务 - https://dev.to/aleksk1ng/go-rabbitmq-and-grpc-clean-architecture-microservice-2kdn
+
+
+## 码农桃花源--2021-01-15
+### 文章推荐
+1. [通过缓冲通道实现共享资源池](https://mp.weixin.qq.com/s/-d8shbek4r25jyzhevdF3g)
+
+2. [linux的启动流程](http://hopehook.com/blog/linux_boot)
+3. [简单的单点登录实现方案](http://hopehook.com/blog/single_sign_on)
+4. [tcp连接处于异常状态的一点总结](http://hopehook.com/blog/time_wait_close_wait)
+
+### 面试问题
+1. epoll与select的优缺点？
+
+2. 异步和非阻塞的区别？各自的优缺点
+
+### 每日算法
+lc114 二叉树展开为单链表 https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list
+
 ## go中文网每日资讯--2021-01-14
 一、#公众号：Go语言中文网
 
