@@ -7,6 +7,120 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-01-16
+
+
+一、#公众号：Go语言中文网
+
+1. [2021 年这 8 种编程语言最流行：Go 入榜原来是这个原因](https://mp.weixin.qq.com/s/ZPdQ4V89df2z0jdpNi_6eQ)
+
+2. [Go内存管理之代码的逃逸分析](https://mp.weixin.qq.com/s/aqOuxevlnZAeRzzVasT3Kg)
+
+3. [使用 Go 和 ReactJS 构建聊天系统（五）：优化前端](https://mp.weixin.qq.com/s/4-uQ_xjWTKAQTKa20lbK6w)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-15)](https://studygolang.com/topics/12978)
+
+三、#公众号：代码与远方
+
+1. [Golang是怎么利用 epoll 的](https://mp.weixin.qq.com/s/8SbKFgJx5UsRZUKZemKM5A)
+
+四、#公众号：多颗糖
+
+1. [软件架构基础 4: 你的架构需要考虑到的特性](https://mp.weixin.qq.com/s/qXZSd3-CKba856MqRmz1zg)
+
+五、#公众号：Golang梦工厂
+
+1. [踩坑日志之elasticSearch](https://mp.weixin.qq.com/s/9TTGQRTFSLJo9-APnNh-SQ)
+
+六、#公众号：k8s技术圈
+
+1. [简单示例说明 kube-proxy 如何与 iptables 配合使用](https://mp.weixin.qq.com/s/b4sXrx3n3DxK06zMtHyEqw)
+
+七、#公众号：GoOfficialBlog
+
+1. [高性能 Go 代码工坊（Part1）](https://mp.weixin.qq.com/s/aa195vK6D_f5v2G9n90-SA)
+
+八、#公众号：Go招聘
+
+1. [滴滴网约车增长团队来招人啦](https://mp.weixin.qq.com/s/8oFuH9PpTKukscNGG8zmHw)
+
+
+## gopherDaily--2021-01-16
+
+- 1.DigitalOcean团队：如何使用Go构建DigitalOcean API网关 - https://mauricio.github.io/2021/01/14/building-digitaloceans-api-gateway.html\
+- 2.使用quicktest进行Go代码测试 - https://rogpeppe.wordpress.com/2019/05/15/quicktest-wrap-testing-t-for-fun-and-profit/
+- 3.播客：和“CI/CD with Docker and Kubernetes”一书作者一起谈CI/CD - https://changelog.com/gotime/162
+- 4.用Go在语音通话中播放音频文件 - https://learn.vonage.com/blog/2021/01/14/play-an-audio-file-into-a-voice-call-with-go/
+- 5.在Go程序上应用seccomp filter - https://dev.bitolog.com/go-seccomp-filters-part-1/
+- 6.用于查找Go依赖包中漏洞的工具 - https://github.com/sonatype-nexus-community/nancy
+- 7.使用正确的工具构建kubernetes operator - https://www.openshift.com/blog/build-your-kubernetes-operator-with-the-right-tool
+- 8.使用Go实现的高性能lua web服务器 - https://github.com/Hyperspace-Logistics/heart
+- 9.2021年学习Go的三大资源 - https://blog.earthly.dev/top-3-resources-to-learn-golang-in-2021/
+- 10.Apple M1芯片上的汇编语言版helloworld - https://smist08.wordpress.com/2021/01/08/apple-m1-assembly-language-hello-world/
+- 11.Google机器学习速成课程 - https://developers.google.com/machine-learning/crash-course/
+
+## 码农桃花源--2021-01-16
+### 优质文章汇总
+1. [为什么redis快照使用子进程](https://draveness.me/whys-the-design-redis-bgsave-fork/)
+
+2. [go 内存分配原理](https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-memory-allocator/)
+
+3. [go语言资源自动回收技术](https://chai2010.cn/post/golang/go-gc-2013/)
+
+4. [panic blame](https://mp.weixin.qq.com/s/y9pVNtC6w8Fn0Xqq6EonCw)
+
+5. [go 栈内存的内存和逃逸分析](https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-stack-management/)
+
+6. [通过缓冲通道实现共享资源池](https://mp.weixin.qq.com/s/-d8shbek4r25jyzhevdF3g)
+
+### 面试问题
+1. epoll与select的优缺点？
+
+2. 异步和非阻塞的区别？各自的优缺点
+
+3. 说说半连接队列和 SYN Flood 攻击的关系
+
+4. 介绍一下 TCP 报文头部的字段
+
+5. Go Runtime什么时候从堆和从栈分配内存呢
+
+6. 简要介绍go运行时分配内存的策略。
+
+7. epoll原理
+
+8. Linux的Native AIO机制
+
+9. 一台 Linux 系统初始化环境后需要做一些什么安全工作
+
+10. 什么叫 CC 攻击？什么叫 DDOS 攻击？
+
+11. 什么是网站数据库注入？
+
+12. 联合索引是什么？为什么需要注意联合索引中的顺序？
+
+13. 如何设计一门编程语言？
+
+14. 如何通过Redis实现分布式锁？
+
+15. 多机Redis怎样保证数据的一致性？
+
+16. 讲解下Redis的线程模型
+
+## GOCN每日新闻--2021-01-16 
+
+1.epoll 在 Golang 中的应用 https://segmentfault.com/a/1190000038994423
+
+2.Go netpoller 原生网络模型之源码全面揭秘 https://mp.weixin.qq.com/s/3kqVry3uV6BeMei8WjGN4g
+
+3.Go 并发编程 (十) 深入理解 Channel https://lailin.xyz/post/go-training-week3-channel.html
+
+4.Go 指针的使用限制和突破之路 https://mp.weixin.qq.com/s/SpVTl64W1Exy8fuN15-kmA
+
+5.深入理解 Go Context http://www.cnblogs.com/itbsl/p/14277002.html
+
+
 
 ## go中文网每日资讯--2021-01-15 
 一、#公众号：Go语言中文网
