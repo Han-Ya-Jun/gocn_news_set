@@ -7,6 +7,69 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-01-17
+
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 78 期 — 这道关于 goroutine 的题](https://mp.weixin.qq.com/s/kma8hvdLVPIkZnKw_MaSKg)
+
+2. [使用 Go 和 ReactJS 构建聊天系统（六）：Docker 部署](https://mp.weixin.qq.com/s/CLna0qjhis0FJ4bn_sKffA)
+
+3. [真香！使用 VSCode 进行 Go 远程开发调试](https://mp.weixin.qq.com/s/KK0R0GWuBUV7CRYcV2KOrg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-16)](https://studygolang.com/topics/12987)
+
+三、#公众号：代码与远方
+
+1. [Golang并发模型之GMP浅尝](https://mp.weixin.qq.com/s/seBvLitFxCF5TiVDfM2X4Q)
+
+四、#公众号：polarisxu
+
+1. [钉钉 6.0 发布会上提到的 Low-Code 是个什么鬼？](https://mp.weixin.qq.com/s/B6DjmOHy0UdIVRbbUlWDcQ)
+
+五、#公众号：Golang语言开发栈
+
+1. [Golang 语言的 goroutine 调度器模型 GPM](https://mp.weixin.qq.com/s/DZVn-5n-yB-swE0J4CjcbQ)
+
+六、Awesome Go
+
+1. [Awesome Go Newsletter-243](https://go.libhunt.com/newsletter/243)
+
+## GOCN每日新闻--2021-01-17
+
+1.如何优化 Go HTTP client 的性能 https://www.loginradius.com/blog/async/tune-the-go-http-client-for-high-performance/
+
+2.优化 SQLite 在 Go 中的性能 https://turriate.com/articles/making-sqlite-faster-in-go
+
+3.Go 依赖包影响检测工具 GTA https://www.digitalocean.com/blog/gta-detecting-affected-dependent-go-packages
+
+4.从 Go 代码中抽离业务逻辑的实践 https://developer20.com/extracting-the-business-logic-project/
+
+5.软件包的僵尸依赖 https://dlorenc.medium.com/zombie-dependencies-77c34740a7a8
+
+## gopherDaily--2021-01-17
+1.剖析如何使用OpenTelemetry进行Go服务的追踪 - https://dmathieu.com/articles/development/dissecting-opentelemetry-tracing/
+
+2.一文弄懂使用multipart/form-data实现文件上传与下载 - https://mp.weixin.qq.com/s/EX_3Lub22dkTdenl_Z5cmg
+
+3.油管视频：ethtool netlink Go包详解系列 - https://www.youtube.com/playlist?list=PLwYCB5_B6y-_Mc78bv9EjfvNRJNGxs9Ur
+
+4.duf: Go实现的跨平台磁盘工具 - https://www.cyberciti.biz/open-source/command-line-hacks/duf-disk-usage-free-utility-for-linux-bsd-macos-windows/
+
+5.Go实现的按日期的活动热图 - https://github.com/nikolaydubina/calendarheatmap
+
+6.使用Go实现rest服务part1: 标准库 - https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/
+
+7.Go时间和日期使用完全指南 - https://golangbyexample.com/all-about-time-and-date-golang/
+
+8.文本索引库bleve发布v2.0.0 - https://github.com/blevesearch/bleve 10.facebook开源新冠机器学习诊断辅助工具 - https://github.com/facebookresearch/CovidPrognosis
+
+
+
+
 ## go中文网每日资讯--2021-01-16
 
 
