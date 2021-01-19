@@ -8,6 +8,99 @@
 # gocn_news_set_2021
 
 
+
+## go中文网每日资讯--2021-01-18
+
+一、#公众号：Go语言中文网
+
+1. [Gopher 可能不知晓 epoll 是什么鬼？看看该文](https://mp.weixin.qq.com/s/f67G4qm7zzu4amscfCzpzA)
+
+2. [入门教程：花 5 分钟学习 Go 语言](https://mp.weixin.qq.com/s/vH60scwPKxzYDf1wmcvRJg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-17)](https://studygolang.com/topics/12989)
+
+三、#公众号：代码与远方
+
+1. [记一次内存泄漏的解决](https://mp.weixin.qq.com/s/yfb47FLqaox8aHenwHg7NA)
+
+四、#公众号：polarisxu
+
+1. [第 78 期周刊题目解析：答题正确率有点低](https://mp.weixin.qq.com/s/1FiX1WU6GDkZrFxC-b8k8Q)
+
+五、#公众号：字节跳动技术团队
+
+1. [字节跳动 Go RPC 框架 KiteX 性能优化实践](https://mp.weixin.qq.com/s/Xoaoiotl7ZQoG2iXo9_DWg)
+
+六、#公众号：微服务实践
+
+1. [go-zero 是如何追踪你的请求链路](https://mp.weixin.qq.com/s/hJEWcWc3PnGfWfbPCHfM9g)
+
+七、#公众号：Go招聘
+
+1. [京东基础架构也在用 Go？看看啥要求~](https://mp.weixin.qq.com/s/eBoOeSWUPqV4qLYlczSFtg)
+
+八、#公众号：wegoer
+
+1. [golang sync.Pool在1.14中的优化](https://mp.weixin.qq.com/s/KbPELnB1an_7v_RyVtjpag)
+
+九、#公众号：新亮笔记
+
+1. [Go - 基于 GORM 获取当前请求所执行的 SQL 信息](https://mp.weixin.qq.com/s/zDXEkO9AQK5INf0JcNQITg)
+
+
+## GOCN每日新闻--2021-01-18
+
+1.在 Go 中打造基于事件的调度器 https://medium.com/wesionary-team/building-basic-event-scheduler-in-go-134c19f77f84
+
+2.在你的项目中使用 Uber 的 Zip https://medium.com/@gustavo.nabakseixas/go-using-uber-zap-in-your-application-135756f23bdc
+
+3.在 Go 1.16 中使用 HTTP 提供压缩静态资源服务 https://dev.to/vearutop/serving-compressed-static-assets-with-http-in-go-1-16-55bb
+
+4.Go 的 Pipe 应用场景，往服务器提交 multipart 请求 https://segmentfault.com/a/1190000039005031
+
+5.聊聊 gorm 的 OnConflict https://segmentfault.com/a/1190000039006695
+
+
+
+## gopherDaily--2021-01-18
+1.Go编码建议与技巧 - https://github.com/cristaloleg/go-advice
+
+2.油管视频：数据结构的Go语言实现系列 - https://www.youtube.com/watch?v=3DYIgTC4T1o&list=PL0q7mDmXPZm7s7weikYLpNZBKk5dCoWm6
+
+3.Go实现的chatbot框架 - https://github.com/jaimeteb/chatto/
+
+4.Go语言开发微服务的工具包 - https://medium.com/@georgefrancisjr/the-golang-microservice-toolkit-7521516ee4b
+
+5.Go语言实现的类Ruby on Rails的test fixtures库 - https://github.com/go-testfixtures/testfixtures
+
+6.goroutine profile指南 - https://github.com/felixge/go-profiler-notes/blob/main/goroutine.md
+
+7.Go和Java谁更快？这是一个错误的问题 - https://levelup.gitconnected.com/is-go-faster-than-java-a-wrong-question-to-ask-adfbe0b071cb
+
+8.用KubeFATE在K8s上部署联邦学习FATE v1.5 - https://mp.weixin.qq.com/s/t95Cq8jGNxp9AUwjQgGY-A
+
+9.部署Kubernetes高可用集群的一件式工具 - https://github.com/fanux/sealos
+
+
+## 码农桃花源--2021-01-18
+
+### 文章分享
+1. [websocket协议的测试与学习](http://hopehook.com/blog/websocket)
+
+2. [基于内存数据库的角标系统设计](https://blog.dengqinghua.net/badge_system.html)
+
+3. [go语言42章经之levelDB和BoltDB](https://www.jianshu.com/p/cf26558f2706)
+
+### 面试问题
+1. zero copy的实现机制
+2. 对于大文件，为什么cp比mv慢很多
+3. 讲一下linux的内核线程、轻量级进程、用户线程
+4. pthread创建的线程是用户线程吗？
+### 每日算法
+lc37 解数独 https://leetcode-cn.com/problems/sudoku-solver/
+
 ## go中文网每日资讯--2021-01-17
 
 一、#公众号：Go语言中文网
