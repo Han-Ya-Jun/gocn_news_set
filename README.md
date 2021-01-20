@@ -61,23 +61,8 @@
 
 5.伪随机数据生成器 https://github.com/brianvoe/gofakeit
 
-## 码农桃花源--2021-01-19
-## 文章推荐
-1. [代码规范](https://tonybai.com/2019/10/12/uber-go-style-guide/)
 
-2. [go实现分布式撮合交易系统](http://xiaorui.cc/archives/6429)
-
-3. [redis精确去重记数](https://mp.weixin.qq.com/s/W0ZSNjoZQjrlk69vqOD0_Q)
-
-4. [如何用go实现一个分布式数据库](https://mp.weixin.qq.com/s/l0vl2v1INk2nYkCL2xFRvw)
-
-## 面试问题
-1. TCP报文中时间戳的作用？
-
-2. TCP 的超时重传时间是如何计算的？
-## 每日算法
-lc1036 逃离大迷宫
-## gopherDaily--2021-01-18
+## gopherDaily--2021-01-19
 1.为什么服务网格要淡出人们的视线？ - https://go.forrester.com/blogs/why-the-service-mesh-should-fade-out-of-sight/
 
 2.将CA根证书嵌到Go程序中 - https://breml.github.io/blog/2021/01/17/embed-ca-root-certificates-in-go-programs/
@@ -95,6 +80,24 @@ lc1036 逃离大迷宫
 8.软件工作估算多为假研究 - http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/
 
 9.可控制的神经网络文本生成 - https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html
+
+## 码农桃花源--2021-01-19
+## 文章推荐
+1. [代码规范](https://tonybai.com/2019/10/12/uber-go-style-guide/)
+
+2. [go实现分布式撮合交易系统](http://xiaorui.cc/archives/6429)
+
+3. [redis精确去重记数](https://mp.weixin.qq.com/s/W0ZSNjoZQjrlk69vqOD0_Q)
+
+4. [如何用go实现一个分布式数据库](https://mp.weixin.qq.com/s/l0vl2v1INk2nYkCL2xFRvw)
+
+## 面试问题
+1. TCP报文中时间戳的作用？
+
+2. TCP 的超时重传时间是如何计算的？
+## 每日算法
+lc1036 逃离大迷宫
+
 
 ## go中文网每日资讯--2021-01-18
 
