@@ -6,8 +6,95 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-01-19 
+
+一、#公众号：Go语言中文网
+
+1. [项目实战：使用 Go 构建 GraphQL API](https://mp.weixin.qq.com/s/bPeAxcrgK3SVIZT2t6JbvQ)
+
+2. [Golang程序性能分析（一）pprof和go-torch
+](https://mp.weixin.qq.com/s/cXoYe4mJhmVcHQePaBDM1w)
+
+3. [分布式事务之底层原理揭秘](https://mp.weixin.qq.com/s/jJBlSHLTvxNPl3maYMpccQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-18)](https://studygolang.com/topics/12993)
+
+三、#公众号：代码与远方
+
+1. [10张图让你彻底理解回调函数](https://mp.weixin.qq.com/s/SBFX9pMj0_D4ABKZqf-bTA)
+
+四、#公众号：polarisxu
+
+1. [图书《Go 语言标准库》更新了：io/fs 包讲解](https://mp.weixin.qq.com/s/8ukhxjSPqK5e9wSJyKGTZA)
+
+五、#公众号：Golang来啦
+
+1. [Go 语言常见的坑](https://mp.weixin.qq.com/s/DfoGMjmjyd6mIMa_DMeF4A)
+
+六、#公众号：奇伢云存储
+
+1. [Go 的 defer 的特性还是有必要要了解下的！！！](https://mp.weixin.qq.com/s/Lwq46_PekjTQTuTZ38gPHQ)
+
+七、#公众号：技术岁月
+
+1. [直播分享：智能风控决策引擎系统架构设计与开发实践](https://mp.weixin.qq.com/s/fLWSErokhuSY1cHPDbBV0Q)
+
+八、#公众号：k8s技术圈
+
+1. [Kubernetes 几个常见对象概述图](https://mp.weixin.qq.com/s/XGvtAjUEfP3NyS_l8I4YpA)
+
+九、#公众号：CloudNativeCommunity
+
+1. [直播预告 | 云原生 Kubernetes 架构分析与最佳实践](https://mp.weixin.qq.com/s/LPkUVBWsM9MbYi6b7ghPfg)
 
 
+## GOCN每日新闻--2021-01-19 
+1.深度解密 Go 语言之 sync.pool https://juejin.cn/post/6918378263345627149
+
+2.深度解密 Go 语言之 sync.map https://juejin.cn/post/6918378938691649544
+
+3.用 Go 写 init 服务 https://dev.to/__mrvik__/series/10418
+
+4.深度解密 Go 语言之 pprof https://juejin.cn/post/6844903992720359432
+
+5.伪随机数据生成器 https://github.com/brianvoe/gofakeit
+
+## 码农桃花源--2021-01-19
+## 文章推荐
+1. [代码规范](https://tonybai.com/2019/10/12/uber-go-style-guide/)
+
+2. [go实现分布式撮合交易系统](http://xiaorui.cc/archives/6429)
+
+3. [redis精确去重记数](https://mp.weixin.qq.com/s/W0ZSNjoZQjrlk69vqOD0_Q)
+
+4. [如何用go实现一个分布式数据库](https://mp.weixin.qq.com/s/l0vl2v1INk2nYkCL2xFRvw)
+
+## 面试问题
+1. TCP报文中时间戳的作用？
+
+2. TCP 的超时重传时间是如何计算的？
+## 每日算法
+lc1036 逃离大迷宫
+## gopherDaily--2021-01-18
+1.为什么服务网格要淡出人们的视线？ - https://go.forrester.com/blogs/why-the-service-mesh-should-fade-out-of-sight/
+
+2.将CA根证书嵌到Go程序中 - https://breml.github.io/blog/2021/01/17/embed-ca-root-certificates-in-go-programs/
+
+3.带自托管swagger-ui的Go服务器 - https://github.com/flowchartsman/swaggerui
+
+4.自动为CRD(CustomResourceDefinition)生成文档 - https://github.com/crdsdev/doc
+
+5.最通俗易懂的Kubernetes存储详解 - https://zhuanlan.zhihu.com/p/345159490
+
+6.聊聊Gartner 2021战略技术趋势——分布式云 - https://mp.weixin.qq.com/s/UFdRcgSwisKV1imYYQNfqw
+
+7.2021年的Kubernetes安全策略更新 - https://www.accurics.com/blog/terrascan-blog/kubernetes-security-in-2021-policy-update-1/
+
+8.软件工作估算多为假研究 - http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/
+
+9.可控制的神经网络文本生成 - https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html
 
 ## go中文网每日资讯--2021-01-18
 
