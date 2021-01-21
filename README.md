@@ -6,6 +6,91 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-01-20
+一、#公众号：Go语言中文网
+
+1. [Go 1.15.7 新鲜出炉：修复安全问题，建议升级](https://mp.weixin.qq.com/s/L1b3tUPiZXP3CKdKrHOfEQ)
+
+2. [Golang程序性能分析（二）在Echo和Gin框架中使用pprof
+](https://mp.weixin.qq.com/s/D9p3_oITWgVTKzriA_66_Q)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-19)](https://studygolang.com/topics/12997)
+
+三、#公众号：代码与远方
+
+1. [神秘！申请内存时底层发生了什么？](https://mp.weixin.qq.com/s/3h6SloPLy1ZLWHoTsZ64Pw)
+
+四、#公众号：Go招聘
+
+1. [3年后端经验，1年Go经验，这个待遇如何？【一起教育】在线教育招人](https://mp.weixin.qq.com/s/2SoNs1_PLWqflEiKep7A0g)
+
+五、#公众号：Golang来啦
+
+1. [原来这样使用 Go HTTP 客户端才能获取更高性能](https://mp.weixin.qq.com/s/vamtQSnvYwgqf1adbqPY6w)
+
+六、#公众号：网管叨bi叨
+
+1. [常用的分布式唯一ID生成方案](https://mp.weixin.qq.com/s/BNCaeEu-XRqbR-z6VM1QPg)
+
+七、#公众号：vivo互联网技术
+
+1. [MySQL 5.6.35 索引优化导致的死锁案例解析](https://mp.weixin.qq.com/s/T5e-gb0MXxjBwbjGg6jIMg)
+
+
+
+## GOCN每日新闻--2021-01-20
+
+1. 字节跳动 Go RPC 框架 KiteX 性能优化实践 https://juejin.cn/post/6918907317975482381
+
+2. 如何处理 go 中的循环导入 https://jogendra.dev/import-cycles-in-golang-and-how-to-deal-with-them
+
+3. Go 中的并发 https://medium.com/swlh/concurrency-in-go-1af9349b1103
+
+4. 使用无服务器框架编写 REST API https://medium.com/@marioarizaj97/golang-rest-api-using-serverless-framework-450d9e3e44ad
+
+5. 从根上理解高性能、高并发 (五)：深入操作系统，理解高并发中的协程 https://juejin.cn/post/6918990052115218446
+
+
+## 码农桃花源--2021-01-20
+### 文章分享
+1. [etcd实现服务注册和发现](https://mp.weixin.qq.com/s/ZhJnjgQ2cOCrYn47MW2d8g)
+
+2. [redis实现自动输入完成](https://www.cnblogs.com/like-minded/p/5239444.html)
+
+3. [用 subsetting 限制连接池中的连接数量](https://mp.weixin.qq.com/s/x86WcfDaTZMV8uZQ7HEI_g)
+
+4. [元编程与表达能力](https://draveness.me/metaprogramming/)
+
+### 面试问题
+1. UDP如何实现可靠传输？
+2. read 是等待数据到达，那么write呢；怎么判断缓冲区不够的
+3. UDP丢包原因、解决方法
+### 每日算法
+
+检查子树 https://leetcode-cn.com/problems/check-subtree-lcci/
+
+
+## gopherDaily--2021-01-20 
+- 1.Go io/ioutil包将被废弃，相关功能将挪到io包和os包中 - https://www.srcbeat.com/2021/01/golang-ioutil-deprecated/
+- 2.数据库是如何使用mmap的，以BoltDB为例 - https://brunocalza.me/but-how-exactly-databases-use-mmap/
+- 3.Go服务的非阻塞并行模式 - http://www.goldsborough.me/go/2020/12/06/12-24-24-non-blocking_parallelism_for_services_in_go/
+- 4.Pglet-后端开发人员的Web UI框架 - https://github.com/pglet/pglet
+- 5.Go实现的持续profiling平台 - https://github.com/pyroscope-io/pyroscope
+- 6.使用kubeadm部署高可用Kubernetes集群 - https://tansanrao.com/kubernetes-ha-cluster-with-kubeadm/
+- 7.2020年ML和NLP研究重点回顾 - https://ruder.io/research-highlights-2020/
+- 8.状态机的当前状态 - https://googleprojectzero.blogspot.com/2021/01/the-state-of-state-machines.html
+- 9.播客：Kubernetes时代的数据管理是什么？- https://thenewstack.io/what-is-data-management-in-the-kubernetes-age/
+- 10.我是如何自愿重新构造Internet电子邮件的 - https://changelog.com/posts/how-i-volunteered-to-rearchitect-internet-email
+- 11.理解边缘计算 - https://www.redhat.com/en/topics/edge-computing
+- 12.brave浏览器将成为首个支持ipfs协议的浏览器 - https://www.zdnet.com/article/brave-becomes-first-browser-to-add-native-support-for-the-ipfs-protocol/
+- 13.码云gitee 2020开源年报 - https://www.oschina.net/news/127132/gitee-2020-report
+
+
+
+
+
 ## go中文网每日资讯--2021-01-19 
 
 一、#公众号：Go语言中文网
