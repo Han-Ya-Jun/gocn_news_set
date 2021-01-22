@@ -6,6 +6,97 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-01-21
+一、#公众号：Go语言中文网
+
+1. [一道关于 goroutine 的面试题，65% 的人都答错了](https://mp.weixin.qq.com/s/OsQQOxAjlC8P7_NMOsWW0w)
+
+2. [Go 语言常见的坑](https://mp.weixin.qq.com/s/ByekiY9AbfRqB0REwLgsDg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-20)](https://studygolang.com/topics/13002)
+
+三、#公众号：代码与远方
+
+1. [在 Kubernetes 中部署高可用 Harbor 镜像仓库](https://mp.weixin.qq.com/s/b81syz3tefrMQiGMX_ij2g)
+
+四、#公众号：Go招聘
+
+1. [字节的这个 Go 招聘，待遇 25-50k，跨度好大呀~](https://mp.weixin.qq.com/s/biK565Eeg_FNUZbqUON7oQ)
+
+五、#公众号：Golang来啦
+
+1. [如何配置 sql.DB 才能获取更好的性能？](https://mp.weixin.qq.com/s/TucHkKuc2umLs6DGPkFGUg)
+
+2. [快报：Go 1.16 将会废弃 io/ioutil 包！](https://mp.weixin.qq.com/s/Wp8ARk6XP7pu9ULsPy9N0A)
+
+六、#公众号：脑子进煎鱼了
+
+1. [一文吃透 Go 语言解密之接口 interface](https://mp.weixin.qq.com/s/vSgV_9bfoifnh2LEX0Y7cQ)
+
+七、#公众号：微服务实践
+
+1. [企业项目迁移go-zero实战（一）](https://mp.weixin.qq.com/s/7hC_WPrAWNT5igvOkiM0qQ)
+
+八、#公众号：k8s技术圈
+
+1. [[译] 利用 eBPF 支撑大规模 K8S Service](https://mp.weixin.qq.com/s/KnNcM2OaBqOgfVDghaHy8g)
+## GOCN每日新闻--2021-01-21
+1.Go 1.15.7 发布 https://golangtutorial.dev/news/go-1.15.7-and-go-1.14.14-released/
+
+2.第二期 Go 开源说实录：GORM 剖析与最佳实践 https://mp.weixin.qq.com/s/Hg4K_VHbQSfArnvhiObAIw
+
+3.使用 google/wire 对 Go 项目进行依赖注入 https://juejin.cn/post/6919748196809834503
+
+4.再见 go-micro！企业项目迁移 go-zero 全攻略（一）https://juejin.cn/post/6919837050304725000
+
+5.gin 框架实践连载番外篇 | 3 天打造专属 Cache(Third day) https://juejin.cn/post/6919657039920627726
+
+## gopherDaily--2021-01-21
+1.Go中常见的CRUD设计 - https://www.gobeyond.dev/crud/
+
+2.Go 1.15.7和1.14.14发布，主要修复了安全漏洞 - https://groups.google.com/g/golang-announce/c/mperVMGa98w?pli=1
+
+3.官博：Go中的命令路径的安全性 by Russ Cox - https://blog.golang.org/path-security
+
+4.traefik2和opentracing - https://medium.com/@wshihadeh/traefik-2-and-open-tracing-da5c483486e3
+
+5.2020年Go和C++中的错误与异常处理 - https://dr-knz.net/go-errors-vs-exceptions-2020.html
+
+6.Go对persistent memory的原生支持的提案 - https://github.com/golang/go/issues/43810
+
+7.使用Gebug调试AWS Lambda Functions - https://moshe-beladev-mb.medium.com/debug-aws-lambda-functions-with-gebug-bc643788c247
+
+8.istio的复杂性让很多用户选择了linkerd - https://thenewstack.io/istios-complexity-leads-some-users-to-linkerd/
+
+9.AWS Go SDK发布2.0版本 - https://aws.amazon.com/cn/blogs/developer/aws-sdk-for-go-version-2-general-availability/
+
+10.红帽将针对小型生产工作负载的免费RHEL - https://www.redhat.com/en/blog/new-year-new-red-hat-enterprise-linux-programs-easier-ways-access-rhel
+
+11.vim交互式在线学习 - https://www.vim.so/
+
+12.生产中的Rust：1Password案例 - https://serokell.io/blog/rust-in-production-1password
+
+
+## 码农桃花源--2021-01-21
+### 文章推荐
+1. [内存问题的探讨](https://juejin.cn/post/6903363887496691719)
+
+2. [go1.14基于信号的抢占式调度实现原理](http://xiaorui.cc/archives/6535)
+
+3. [go map分析](https://mp.weixin.qq.com/s/5-WlzKLRGksEfqhDT3G3rQ)
+
+4. [Go服务的非阻塞并行模式](http://www.goldsborough.me/go/2020/12/06/12-24-24-non-blocking_parallelism_for_services_in_go/)
+
+### 面试问题
+1. Go语言局部变量分配在栈还是堆？
+2. 简述一下你对Go垃圾回收机制的理解？
+3. 简述一下golang的协程调度原理?
+### 每日算法
+lc1531 压缩字符串 II
+
 ## go中文网每日资讯--2021-01-20
 一、#公众号：Go语言中文网
 
