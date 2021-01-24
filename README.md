@@ -6,7 +6,80 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
-## go中文网每日资讯--2021-01-23 😛
+
+## go中文网每日资讯--2021-01-24
+一、#公众号：Go语言中文网
+
+1. [Go 项目推荐：分分钟生成一个全栈 Web 项目（Go，Angular/React/Vue）](https://mp.weixin.qq.com/s/u7GV9JIa6C_XbLgq-ZkX3g)
+
+2. [Go语言爱好者周刊：第 79 期 — 真出现这样的问题就很无语](https://mp.weixin.qq.com/s/HwfRmHZgDPeikFmA61fyzg)
+
+3. [Golang程序性能分析（三）用pprof分析gRPC服务的性能](https://mp.weixin.qq.com/s/69AYucF1i6D3O-ds2Hetlw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-23)](https://studygolang.com/topics/13021)
+
+三、#公众号：代码与远方
+
+1. [Containerd 的前世今生和保姆级入门教程](https://mp.weixin.qq.com/s/GwPpiw-nG5-o5VdC09KmJQ)
+
+四、#公众号：网管叨bi叨
+
+1. [内存对齐 | 原来字段顺序还能影响结构体占用的内存空间](https://mp.weixin.qq.com/s/l3T5p_iw3S9nm635ezflGQ)
+
+五、#公众号：polarisxu
+
+1. [关于 Go 是否会成为美国出口管制的讨论](https://mp.weixin.qq.com/s/f_dEKys-pFKm03Wde7e-MQ)
+
+六、#公众号：wegoer
+
+1. [Golang unsafe.Pointer使用原则以及 uintptr 隐藏的坑](https://mp.weixin.qq.com/s/Z69DmbG6kVBFoODoE6mDrA)
+
+七、#公众号：aoho求索
+
+1. [几款符合 OpenTracing 规范的分布式链路追踪组件介绍与选型](https://mp.weixin.qq.com/s/Jn6RPCvHIj986olCWG1o5g)
+
+八、#公众号：k8s技术圈
+
+1. [实现一个容器镜像白名单的准入控制器 | 视频文字稿](https://mp.weixin.qq.com/s/pzn2Nz-KNgcINNnGn9JGew)
+
+九、鸟窝
+
+1. [Go embed 简明教程](https://colobu.com/2021/01/17/go-embed-tutorial/)
+
+十、Awesome Go
+
+1. [Awesome Go Newsletter-244](https://go.libhunt.com/newsletter/244)
+## gopherDaily--2021-01-24 😛
+- 1.自维护的Swagger规范 - https://slimdevl.gitlab.io/post/2021-01-12-auto-swagger
+- 2.如何使用Go对helm chart进行单元测试 - https://blog.heyal.co.uk/unit-testing-helm-charts/
+- 3.pion: 我们是如何让WebRTC的开发变得更容易的 - https://www.slideshare.net/SeanDuBois3/how-can-we-make-webrtc-easier
+- 4.经典旧文：探索Go byte解析API - https://mdlayher.com/blog/exploring-byte-parsing-apis-in-go/
+- 5.无人机，虚拟现实和多人NES游戏: Pion WebRTC带给你的乐趣 - https://www.slideshare.net/SeanDuBois3/drones-virtual-reality-and-multiplayer-nes-games-the-fun-you-can-have-with-pion-webrtc
+- 6.DDD实现之路 - https://mp.weixin.qq.com/s/bDMX35eYkIwJ62o5fqHJ9w
+- 7.GoDate.io服务：帮助开发者将更熟悉的日期模式(%Y-%m-%d)转换为GO的日期模式 - https://godate.io/
+- 8.dyff: 用于yaml文件的diff工具 - https://github.com/homeport/dyff
+- 9.Docker Kubernetes 101 - https://gitlab.com/swiftdiaries/docker-k8s-basics
+- 10.编程语言发明人还是系列杀手？- https://vole.wtf/coder-serial-killer-quiz/
+- 11.Firecracker: 在不到一秒钟的时间内启动虚拟机 - https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/
+- 12.张小龙演讲实录：1.2万字复盘微信十年 - https://mp.weixin.qq.com/s/0gfqmdcDKswDERHxp4Ek5A
+- 13.5G时代边缘计算的基本形态 - https://mp.weixin.qq.com/s/EJJeHFkLAhJqkvmBX3au2A
+
+ 
+
+## GOCN每日新闻--2021-01-24
+1.Golang 是怎么利用 epoll 的 https://mp.weixin.qq.com/s/KnzFLs-TbtWPEg8AMlgMdg
+
+2.源码剖析 panic 与 recover，看不懂你打我好了！ https://mp.weixin.qq.com/s/mzSCWI8C_ByIPbb07XYFTQ
+
+3.深入理解原子操作的本质 https://blog.fanscore.cn/p/34/
+
+4.Go 中的 SSRF 攻防战 https://mp.weixin.qq.com/s/b6Ar_yLwDlj7EhzStXqQnQ
+
+5.Unicode 和 UTF-8 是什么关系？本文为你解惑 https://mp.weixin.qq.com/s/6w0FYXN11wbuyj1IptAKEw
+
+## go中文网每日资讯--2021-01-23
 一、#公众号：Go语言中文网
 
 1. [从这个问题谈起：channel 的哪些操作会引发 panic？](https://mp.weixin.qq.com/s/RVBeIjOf5I2WLcPi06JVmg)
