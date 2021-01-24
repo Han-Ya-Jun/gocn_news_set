@@ -6,6 +6,73 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-01-23 😛
+一、#公众号：Go语言中文网
+
+1. [从这个问题谈起：channel 的哪些操作会引发 panic？](https://mp.weixin.qq.com/s/RVBeIjOf5I2WLcPi06JVmg)
+
+2. [如何配置 sql.DB 才能获取更好的性能？](https://mp.weixin.qq.com/s/j4qnTOC4vzAc6-D5DmZ57A)
+
+3. [对未初始化的的chan进行读写，会怎么样？为什么？](https://mp.weixin.qq.com/s/zqfGjzKzoDTCyGCPRyHBXg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-22)](https://studygolang.com/topics/13014)
+
+三、#公众号：代码与远方
+
+1. [有了这款图形管理界面，一分钟内配置 10 个 WireGuard 客户端不是梦](https://mp.weixin.qq.com/s/r7TpQtqjzqYUMe_Eqc7qGg)
+
+四、#公众号：Go招聘
+
+1. [深圳福利超棒云计算公司招Go喽，初中高级我们全都要](https://mp.weixin.qq.com/s/pOAkgbuupKdDE9vUgjS_cw)
+
+五、#公众号：微服务实践
+
+1. [别再问我们用什么画图的了！问就是excalidraw](https://mp.weixin.qq.com/s/byF_ZXGnzmxHriO0eb7rmQ)
+
+六、#公众号：五分选手
+
+1. [初探 Go 的编译命令执行过程](https://mp.weixin.qq.com/s/g_j3zDr-5doUqhd4lk3eAQ)
+
+七、#公众号：薯条的自我修养
+
+1. [[Golang]如何优雅管理系统中的几十个UDF(API)](https://mp.weixin.qq.com/s/YYXIEIqWNxuVNRcyYJe3Aw)
+
+八、#公众号：图解源码
+
+1. [分布式任务编排之数据分片与路由](https://mp.weixin.qq.com/s/kT2NThf9W0-N_2zBzoXhDQ)
+
+九、#公众号：Golang梦工厂
+
+1. [源码剖析panic与recover，看不懂你打我好了！](https://mp.weixin.qq.com/s/mzSCWI8C_ByIPbb07XYFTQ)
+## GOCN每日新闻--2021-01-23
+
+1.k8s-client-go 源码剖析 (三) https://segmentfault.com/a/1190000039065952
+
+2.图书《Go 语言标准库》更新了：io/fs 包讲解 https://mp.weixin.qq.com/s/8ukhxjSPqK5e9wSJyKGTZA
+
+3.Go 进阶 52:开发扩展 SSH 的使用领域和功能 https://mojotv.cn/golang/ssh-pty-im
+
+4.Golang WaitGroup 原理深度剖析 https://www.cyhone.com/articles/golang-waitgroup/
+
+5.前端转 Go 的朋友应该会喜欢这个框架 https://mp.weixin.qq.com/s/5fRhPSVKyigvG5a5lUgADw
+## gopherDaily--2021-01-23
+- 1.带你提前体验Go 1.16 io/fs包 - https://benjamincongdon.me/blog/2021/01/21/A-Tour-of-Go-116s-iofs-package/
+- 2.支持Go的开源的Native persistent memory实现 - https://github.com/jerrinsg/go-pmem
+- 3.Go播客：通过CUE配置赋能开发人员 - https://changelog.com/gotime/163
+- 4.将fuzzing test以一等公民身份加入Go的设计草案 - https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md
+- 5.为什么我的Go api比Node api慢十倍 - https://jason150.medium.com/golang-why-my-go-api-was-10x-slower-than-node-api-b9433d01c490
+- 6.理解Go re-slicing - https://dev.to/gholami1313/re-slicing-in-golang-bp0
+- 7.安全的电邮系统替代品(实验性) - https://github.com/bitmaelum/bitmaelum-suite
+- 8.用于Go练手的Go项目idea - https://smoqadam.me/posts/a-few-ideas-for-your-next-go-project/
+- 9.我们是如何将linux移植到apple M1芯片上的 - https://corellium.com/blog/linux-m1
+- 10.与克劳德-香农共度一万小时：天才如何思考、工作和生活 - https://medium.com/the-mission/10-000-hours-with-claude-shannon-12-lessons-on-life-and-learning-from-a-genius-e8b9297bee8f
+- 11.github 2020安全特性总结 - https://github.blog/2021-01-11-github-security-features-highlights-from-2020/
+- 12.关于Go出口管制的讨论 - https://groups.google.com/g/golang-dev/c/RDlJVoki8R0
+
+
+
 
 ## go中文网每日资讯--2021-01-22
 一、#公众号：Go语言中文网
