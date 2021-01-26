@@ -7,6 +7,88 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-01-25
+一、#公众号：Go语言中文网
+
+1. [知乎问答：为什么字节跳动选择使用 Go 语言？](https://mp.weixin.qq.com/s/qSRPEST7N1u8E0X90T-9ZA)
+
+2. [如何优雅管理 Go 系统中的几十个 API](https://mp.weixin.qq.com/s/vgb-bvEaFn4-AQpchtC3pw)
+
+3. [Go 并发编程-信号量的使用方法和其实现原理](https://mp.weixin.qq.com/s/Pc9iWLvW7kfP-19QnaYYVA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-24)](https://studygolang.com/topics/13023)
+
+三、#公众号：代码与远方
+
+1. [Go 指针的使用限制和突破之路](https://mp.weixin.qq.com/s/5_h7pAbRM3apby09Jk3fuA)
+
+四、#公众号： GoOfficialBlog
+
+1. [高性能 Go 代码工坊（Part2)](https://mp.weixin.qq.com/s/rSaQJZJPh6lK_zkVPuQZlg)
+
+五、#公众号： Golang来啦
+
+1. [Golang 定时器使用方法汇总](https://mp.weixin.qq.com/s/imo4ojsaoaUi_OiUUq2HCg)
+
+六、#公众号：新亮笔记
+
+1. [Go - httpclient 常用操作](https://mp.weixin.qq.com/s/IxvzNPI18OEYmCL5uH4jCA)
+
+七、#公众号：微服务实践
+
+1. [企业项目迁移go-zero实战（二）](https://mp.weixin.qq.com/s/Bbg48ixPprHpW-aJ7FuPZw)
+
+八、#公众号： Go夜读
+
+1. [【预告】Don't be clever - understand memory ordering](https://mp.weixin.qq.com/s/55-R6q2H08jImXkf6h39IA)
+
+九、#公众号：五分选手
+
+1. [深入解析 Go 中 Slice 底层实现](https://mp.weixin.qq.com/s/8b6FudzXStKN3d6p8wYSqQ)
+## GOCN每日新闻--2021-01-25 
+1.阿里技术专家对 SRE 和稳定性保障的理解 https://gocn.vip/topics/11566
+
+2.从代码到部署微服务实战（一）https://gocn.vip/topics/11564
+
+3.Golang 程序性能分析（三）用 pprof 分析 gRPC 服务的性能 https://mp.weixin.qq.com/s/69AYucF1i6D3O-ds2Hetlw
+
+4.Containerd 的前世今生和保姆级入门教程 https://mp.weixin.qq.com/s/GwPpiw-nG5-o5VdC09KmJQ
+
+5.内存对齐 | 原来字段顺序还能影响结构体占用的内存空间 https://mp.weixin.qq.com/s/l3T5p_iw3S9nm635ezflGQ
+
+
+
+## gopherDaily--2021-01-25
+- 1.将Go进程的指标数据实时可视化 - https://nakabonne.dev/posts/gosivy/
+- 2.将godoc.org重定向到pkg.go.dev即将开始 - https://www.srcbeat.com/2021/01/godocs/
+- 3.pipecd/pipe: 声明性Kubernetes，无服务器和基础架构应用程序的持续交付工具- https://github.com/pipe-cd/pipe
+- 4.油管视频：以Gopher视角看Devops - https://www.youtube.com/watch?v=yczwWzkbFAQ&feature=youtu.be
+- 5.Springer出版的Go新书：Nonsequential and Distributed Programming with Go - https://www.springer.com/gb/book/9783658297817
+- 6.toplist: Go语言编写的抓取热门网站热门头条的聚合网站工具 - https://github.com/tophubs/TopList
+- 7.MinDoc: 基于beego框架的接口在线文档管理系统 - https://github.com/lifei6671/mindoc
+- 8.谈谈对 SRE 的理解 - https://mp.weixin.qq.com/s/PR0lDxqDf_I-myeQbIliCg
+- 9.使用 DDD 指导微服务拆分的逻辑 - https://mp.weixin.qq.com/s/_OSkf2PqUgkKTcDqHjGBaw
+- 10.Deskreen: 将带有网络浏览器的任何设备变为计算机的第二个屏幕 - https://github.com/pavlobu/deskreen
+- 11.Linux Kernel修bug训练营 - https://mentorship.lfx.linuxfoundation.org/project/7671f900-a622-4bbc-956b-f4c336704478
+- 12.为什么疫情过后在家工作会持续下去 - https://nbloom.people.stanford.edu/sites/g/files/sbiybj4746/f/why_wfh_stick1_0.pdf
+- 13.pip去除对python2的支持 - https://pip.pypa.io/en/stable/news/#id1
+- 14.在软件行业从业6年后的反思 - https://chriskiehl.com/article/thoughts-after-6-years
+
+## 码农桃花源--2021-01-25
+### 文章分享
+1 [为什么集群需要Overlay网络] https://mp.weixin.qq.com/s/x7jLgThS2uwoPJcqsJE29w
+2 [5种IO模型] https://mp.weixin.qq.com/s/R9X5vvIzL-41VsiWqGaa8Q
+3 [提高客户端并发量] https://mp.weixin.qq.com/s/KtpVIwYTbRC1H7nBEQsN2Q
+### 面试问题
+1 请问Redis的rehash怎么做的，为什么要渐进rehash，渐进rehash又是怎么实现的?
+2 请你来说一说Redis的定时机制怎么实现的
+### 每日算法
+lc468 验证IP地址 https://leetcode-cn.com/problems/validate-ip-address/
+
+
 ## go中文网每日资讯--2021-01-24
 一、#公众号：Go语言中文网
 
