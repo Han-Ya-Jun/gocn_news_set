@@ -7,6 +7,101 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-01-26
+
+一、#公众号：Go语言中文网
+
+1. [Go 中的 SSRF 攻防战：对没看错，不是 CSRF](https://mp.weixin.qq.com/s/nTmdf9wseJgKem2oNksubw)
+
+2. [Go 1.17 要增加的模糊测试是什么鬼？通过本文了解下](https://mp.weixin.qq.com/s/CWwBl0A2hTJsr4VoBlZyjQ)
+
+3. [Golang 定时器使用方法汇总](https://mp.weixin.qq.com/s/i8XWQgsgySIneZ6G_GPzuw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-25)](https://studygolang.com/topics/13031)
+
+三、#公众号：代码与远方
+
+1. [说出来你可能不信，内核这家伙在内存的使用上给自己开了个小灶！](https://mp.weixin.qq.com/s/fCNfKEmgwuqrKPc-hTMhUA)
+
+四、#公众号：Golang语言开发栈
+
+1. [每位 Gopher 都应该了解的 Golang 语言的垃圾回收算法](https://mp.weixin.qq.com/s/gkBg742lpBVRBhTPhOQ7hg)
+
+五、#公众号：Golang来啦
+
+1. [图解 Slice 操作](https://mp.weixin.qq.com/s/FymHB5hERd29ypUOCZaRJA)
+
+六、#公众号：xueyuanjun
+
+1. [开篇：为什么学习 Go 语言](https://mp.weixin.qq.com/s/F2-nQEGEBqAnCi3Mbrn5cw)
+
+七、#公众号：Go招聘
+
+1. [字节跳动教育业务研发岗太缺人了吧！！测试开发也招 Go](https://mp.weixin.qq.com/s/Zm5ZgNDFUmMiflwjovIiGA)
+
+八、#公众号：polarisxu
+
+1. [函数是一等公民，这到底在说什么？](https://mp.weixin.qq.com/s/H3iuhkvQWonZbi7AzmokSA)
+
+九、#公众号：脑子进煎鱼了
+
+1. [一文吃透 Go 语言解密之上下文 context](https://mp.weixin.qq.com/s/A03G3_kCvVFN3TxB-92GVw)
+
+十、#公众号：云加社区
+
+1. [hash+跳表，玩转Redis有序集合](https://mp.weixin.qq.com/s/y1b0zvpJRJWbjx-8AOkEPw)
+
+## GOCN每日新闻--2021-01-26
+
+1.Go 开源说：KubeVela 标准化的云原生平台构建引擎 https://mp.weixin.qq.com/s/f4aZtYoom58MxgH33tzzcA
+
+2.扩展 Kubernetes 到 7500 节点 https://openai.com/blog/scaling-kubernetes-to-7500-nodes/
+
+3.利用 Zig 扩展 Go 跨平台编译 https://dev.to/kristoff_it/zig-makes-go-cross-compilation-just-work-29ho
+
+4.UI 库 fyne 2.0 发布，支持数据绑定等多项改进 https://github.com/fyne-io/fyne/releases/tag/v2.0.0
+
+5.go-financial：尝试移植 numpy-financial 至 Go https://github.com/razorpay/go-financial
+
+## gopherDaily--2021-01-26
+- 1.我对Go语言编程的个人抱怨 - https://boyter.org/posts/my-personal-complaints-about-golang/
+ - 2.使用zig帮助Go解决涉cgo的跨平台编译问题 - https://dev.to/kristoff_it/zig-makes-go-cross-compilation-just-work-29ho
+ - 3.Go调试过程如何设置条件断点 - https://trstringer.com/go-conditional-breakpoints/
+ - 4.Ragel：状态机编译器，可生成Go状态机代码 - https://dev.ms/2021/01/ragel-state-machine-compiler/
+ - 5.在Go应用的version信息中包含最后一次git commit信息 - https://web3.coach/golang-include-last-git-commit-in-your-go-program-version
+ - 6.Wprecon-CMS: Wordpress中的漏洞识别工具，100％Go语言开发 - https://www.kitploit.com/2021/01/wprecon-vulnerability-recognition-tool.html
+ - 7.HAProxy Kubernetes Ingress Controller发布1.5版本 - https://www.haproxy.com/blog/announcing-haproxy-kubernetes-ingress-controller-1-5/
+ - 8.Go内部ABI规范 - https://go.googlesource.com/go/+/refs/heads/dev.regabi/src/cmd/compile/internal-abi.md
+ - 9.解析go interface - https://itnext.io/interfaces-in-go-5c6e38b81b41
+ - 10.OpenShift 4.7发布 - https://itnext.io/interfaces-in-go-5c6e38b81b41
+ - 11.斯坦福机器学习系统设计公开课 - https://stanford-cs329s.github.io/syllabus.html
+ - 12.GOPS：轻松跟踪您的Go服务 - http://kokizzu.blogspot.com/2021/01/gops-trace-your-golang-service-with-ease.html
+ - 13.跨平台Go GUI开发工具包fyne v2.0.0介绍 - https://fyne.io/blog/2021/01/25/introducing-fyne-v2.0.html
+ - 14.go-financial: numpy-financial的Go版本 - https://github.com/razorpay/go-financial
+ 
+ ## 码农桃花源--2021-01-26
+ ### 文章推荐
+1. [知识点复习：map深层解析](https://mp.weixin.qq.com/s/2CDpE5wfoiNXm1agMAq4wA)
+
+2. [基于饶大的slice总结](https://www.yuque.com/wuguoguoya/iq0d3v/yvrs2g)
+
+3. [go context解密](https://mp.weixin.qq.com/s/A03G3_kCvVFN3TxB-92GVw)
+
+4. [为什么 0.1 + 0.2 = 0.300000004](https://draveness.me/whys-the-design-floating-point-arithmetic/)
+
+5. [Go netpoller 原生网络模型之源码全面揭秘](https://mp.weixin.qq.com/s/3kqVry3uV6BeMei8WjGN4g)
+
+### 面试问题
+1. 聚簇索引什么特点，为什么这样，顺序查询的实现，回表查询，联合索引特性
+
+2. 大表分页查询,10亿行数据，查找第N页数据，怎么优化
+
+3. 如何分库分表
+
+### 每日算法
+lc273 整数转换英文表示
 
 ## go中文网每日资讯--2021-01-25
 一、#公众号：Go语言中文网
@@ -80,8 +175,11 @@
 ## 码农桃花源--2021-01-25
 ### 文章分享
 1 [为什么集群需要Overlay网络] https://mp.weixin.qq.com/s/x7jLgThS2uwoPJcqsJE29w
+
 2 [5种IO模型] https://mp.weixin.qq.com/s/R9X5vvIzL-41VsiWqGaa8Q
+
 3 [提高客户端并发量] https://mp.weixin.qq.com/s/KtpVIwYTbRC1H7nBEQsN2Q
+
 ### 面试问题
 1 请问Redis的rehash怎么做的，为什么要渐进rehash，渐进rehash又是怎么实现的?
 2 请你来说一说Redis的定时机制怎么实现的
