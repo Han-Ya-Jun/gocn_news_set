@@ -7,6 +7,118 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-01-27
+
+一、#公众号：Go语言中文网
+
+1. [米国的 EAR 是否会影响 Go？](https://mp.weixin.qq.com/s/N_T116afufWWJmja1Dmd2g)
+
+2. [项目实战：用 Go 创建一个简易负载均衡器](https://mp.weixin.qq.com/s/pe0CQa3tdrUmC86OSRBNeg)
+
+3. [分布式系统全局唯一ID生成器：Go 实现](https://mp.weixin.qq.com/s/FtLc9Y-pvTyw4iakfKDNNQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-26)](https://studygolang.com/topics/13034)
+
+三、#公众号：代码与远方
+
+1. [内存对齐 | 原来字段顺序还能影响结构体占用的内存空间](https://mp.weixin.qq.com/s/O8-WUQcGHXuAoKoOVY4L1w)
+
+四、#公众号： polarisxu 
+
+1. [百度终于重视码农了：专门为开发者准备的搜索](https://mp.weixin.qq.com/s/_zrLrVvDVzRYTz10oBb9xA)
+
+五、#公众号：Go招聘
+
+1. [听说阿里云被Go边缘化了，还不进来瞧瞧](https://mp.weixin.qq.com/s/scvgOa-CcF3is8a0kxJeBA)
+
+六、#公众号：码农桃花源
+
+1. [[译]提案：在Go语言中增加对持久化内存的支持](https://mp.weixin.qq.com/s/iXIf87-jjNrczai_bJXeGQ)
+
+七、#公众号：脑子进煎鱼了
+
+1. [人生关键角色转变：走向职场人](https://mp.weixin.qq.com/s/n_pXZv2mIPEnkM2k2g3z9A)
+
+八、#公众号：多颗糖
+
+1. [软件架构基础 5 架构特性实战: 订餐系统](https://mp.weixin.qq.com/s/ggbHDjCNZUiMINIDHZ1cvQ)
+
+九、#公众号：CloudNativeCommunity
+
+1. [网易开源 Slime：让 Istio 服务网格变得更加高效与智能](https://mp.weixin.qq.com/s/UK-9G-RhLokIGw2icZIxUg)
+
+十、#公众号：k8s技术圈
+
+1. [自动管理 Admission Webhook TLS 证书](https://mp.weixin.qq.com/s/C3GNoegG8o2j2iLX_pMPSQ)
+2. [如何编写一个 CSI 插件](https://mp.weixin.qq.com/s/mya3BfH9yIrkXrdXoSUIRQ)
+
+
+
+
+## GOCN每日新闻--2021-01-27
+
+1.Go internal ABI specification https://go.googlesource.com/go/+/refs/heads/dev.regabi/src/cmd/compile/internal-abi.md
+
+2.Error vs Exception，对比 Go 和 C++ https://dr-knz.net/go-errors-vs-exceptions-2020.html
+
+3.采访 Anderson Queiroz：Go 是 21 世纪最完美的语言 https://hackernoon.com/interview-with-anderson-queiroz-golang-is-the-perfect-language-for-the-21st-century-xmc433jo
+
+4.Go 时间处理库 https://github.com/golang-module/carbon
+
+5.在 Go 项目中优雅的使用 gorm v2 https://segmentfault.com/a/1190000039097157
+
+## gopherDaily--2021-01-27
+
+1.将Kubernetes集群扩展为7500个节点 by OpenAI - https://openai.com/blog/scaling-kubernetes-to-7500-nodes/
+
+2.通过对O’Reilly在线学习的分析，看2021编程，运维，人工智能和云的发展趋势 - https://www.oreilly.com/radar/where-programming-ops-ai-and-the-cloud-are-headed-in-2021/
+
+3.Go编译器和运行时会议记录常设issue，方便社区了解Go编译器演进的最新情况 - https://github.com/golang/go/issues/43930
+
+4.Go语言的SQL实战(第一部分)，不用ORM - https://www.gobeyond.dev/real-world-sql-part-one/
+
+5.Slack公司是如何使用vitness扩展数据存储的- https://slack.engineering/scaling-datastores-at-slack-with-vitess/6.
+
+6.Kubernetes中的服务发现- https://iximiuz.com/en/posts/service-discovery-in-kubernetes
+
+7.使用正确的工具构建kubernetes operator - https://www.openshift.com/blog/build-your-kubernetes-operator-with-the-right-tool
+
+8.开源的Uber的概念验证 - https://github.com/ro31337/libretaxi
+
+9.depaware: 输出你的Go源码所有依赖，并标记所属平台以及是否使用cgo/unsafe - https://github.com/tailscale/depaware
+
+10.波士顿动力机器狗的模拟器工具 - https://taras-borovets.medium.com/simulation-tools-for-boston-dynamics-spot-28a10d88e325
+
+11.LAMBDA：终极Excel工作表功能 - https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/
+
+12.使用Go追踪城市的天气 - https://medium.com/ensias-it/tracking-the-weather-in-major-moroccan-cities-with-go-4907ffdc9c34
+
+13.hego: 性能卓越的几种元启发式算法（黑盒优化算法）的Go实现 - https://github.com/ccssmnn/hego
+
+
+## 码农桃花源--2021-01-27
+### 文章分享
+1 [深度解密go语言之sync.pool] https://juejin.cn/post/6918378263345627149
+
+2 [go语言中一些可能的内存泄漏场景] https://gfw.go101.org/article/memory-leaking.html
+
+3 [实战go内存泄漏] https://lessisbetter.site/2019/05/18/go-goroutine-leak/
+
+4 [Etcd Raft架构设计和源码剖析1] https://lessisbetter.site/2019/08/19/etcd-raft-sources-arch/
+
+### 面试题
+1 读已提交和可重复读底层实现的区别？
+
+2 请问怎么实现线程池
+
+3 说一下linux内核中的Timer 定时器机制
+
+### 每日一题
+lc421 数组中两个数的最大异或值 https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/
+
+ 
 ## go中文网每日资讯--2021-01-26
 
 一、#公众号：Go语言中文网
