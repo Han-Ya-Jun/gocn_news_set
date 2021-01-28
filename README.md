@@ -6,6 +6,108 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-01-28
+一、#公众号：Go语言中文网
+
+1. [青岛竟然也招 Go，这待遇如何，能招到吗？](https://mp.weixin.qq.com/s/nMbUv9nG-FcGPUFcUgtzcw)
+
+2. [Go 官方 Slice 教程图解版](https://mp.weixin.qq.com/s/yPObPprVmjRoDvS2UF3Hpg)
+
+3. [Go更细粒度的读写锁设计](https://mp.weixin.qq.com/s/VEnL7oDM-SX29iVEK_CMig)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-27)](https://studygolang.com/topics/13042)
+
+三、#公众号：代码与远方
+
+1. [函数是一等公民，这到底在说什么？](https://mp.weixin.qq.com/s/VHtiQF_8Yh3OaB7yy2N0Pw)
+
+四、#公众号：polarisxu 
+
+1. [从网友对 MySQL 手册的一个疑问聊起](https://mp.weixin.qq.com/s/EwLTpzIbtRE3Mlt0OtRyVg)
+
+五、#公众号：k8s技术圈
+
+1. [18张图揭秘高性能Linux服务器内存池技术是如何实现的](https://mp.weixin.qq.com/s/YRppRaTtOI_sr0oKpi40yA)
+
+六、#公众号：Golang梦工厂
+
+1. [详解并发编程基础之原子操作(atomic包)](https://mp.weixin.qq.com/s/PQ06eL8kMWoGXodpnyjNcA)
+
+七、#公众号：CloudNativeCommunity
+
+1. [“寒武纪大爆发” 之后的云原生，2021 年走向何处？](https://mp.weixin.qq.com/s/XkE3nlp4naENRFSmyutErA)
+
+八、#公众号：网管叨bi叨
+
+1. [来了解一下K8S的Operator模式](https://mp.weixin.qq.com/s/r2sxN4lEHwYNJCGeN8Pukw)
+
+九、#公众号：Golang语言开发栈
+
+1. [Golang 语言的标准库 log 包怎么使用？](https://mp.weixin.qq.com/s/_R-xcuyHOc_iCx2Bd_pA5w)
+
+## GOCN每日新闻--2021-01-28
+
+1.在 Go 1.16 版本使用 Embed https://lakefs.io/working-with-embed-in-go/
+
+2.Go 实现的基于分布式块的视频代码转换器 https://github.com/bkenio/tidal
+
+3.大型本地数据中心网络启动服务器 https://github.com/cybozu-go/sabakan
+
+4.Go 实现的获取外汇汇率和货币转换 API https://github.com/peterhellberg/fixer
+
+5.Golang 语言的标准库 log 包怎么使用 https://mp.weixin.qq.com/s/_R-xcuyHOc_iCx2Bd_pA5w
+
+
+## gopherDaily--2021-01-28
+
+1. Go与Scala深度对比 - https://medium.com/datadriveninvestor/a-comparative-study-of-programming-languages-go-and-scala-d17ccdce2a06
+
+2. 区块链的后端教程(Go语言版) -  https://web3.coach/blockchain/backend-tutorial
+
+3. Berty:一款安全的点对点消息传递应用程序 - https://github.com/berty/berty
+
+4. 体验Go 1.16版本中的embed(文件嵌入) - https://lakefs.io/working-with-embed-in-go/
+
+5. Litestream：用于SQLite的独立流复制工具 - https://github.com/benbjohnson/litestream
+
+6. 访问和操作reddit的Go API - https://github.com/vartanbeno/go-reddit
+
+7. WebRTC成为W3C和IETF标准 - https://web.dev/webrtc-standard-announcement/
+
+8. 关于在编译器标志的控制下直接在master分支提交Go泛型实现的提案 - https://github.com/golang/go/issues/43931
+
+9. LZ4压缩算法的Go实现 - https://github.com/pierrec/lz4
+
+10. cillium团队开源基于github的团队管理实用程序 - https://github.com/cilium/team-manager
+
+11. 使用Go在GCP上创建一个Compute Engine实例 - https://andrebritopassos.medium.com/using-golang-to-create-a-compute-engine-instance-in-gcp-4095d6a31dae
+
+12. Google修复了严重的Go Windows RCE漏洞 - https://www.bleepingcomputer.com/news/security/google-fixes-severe-golang-windows-rce-vulnerability/
+
+13. 使用go-fuzz和libfuzzer对Go包进行随机测试 - https://academy.fuzzinglabs.com/fuzzing-go-package-go-fuzz-libfuzzer
+
+
+## 码农桃花源--2021-01-28
+### 文章推荐
+1. [知识点复习：map+哈希碰撞](https://draveness.me/golang/docs/part2-foundation/ch03-datastructure/golang-hashmap/)
+
+2. [web框架gin源码解读](https://gocn.vip/topics/9319)
+
+3. [在Go语言中增加对持久化内存的支持](https://mp.weixin.qq.com/s/iXIf87-jjNrczai_bJXeGQ)
+
+4. [go编程模式](https://coolshell.cn/)
+
+### 面试问题
+1. 消息是否按照时间有序，kafka分区的数据是否有序，如何保证有序
+
+2. redis和mysql数据一致性怎么保证
+
+3. 分布式锁应用场景，哪些坑, 如何避免
+
+### 每日算法
+lc1383 最大的团队表现值
 
 ## go中文网每日资讯--2021-01-27
 
