@@ -60,6 +60,61 @@
 5.如何将 Containerd 用作 Kubernetes runtime https://www.upyun.com/tech/article/611/1.html
 
 
+## gopherDaily--2021-01-29
+1.Go 1.16 rc1发布 - https://groups.google.com/g/golang-announce/c/U_FUHY4wuSc/m/3_Vw3oqpAgAJ
+
+2.体验Go 1.16中增加的ReadDir和DirEntry - https://benhoyt.com/writings/go-readdir/
+
+3.拥抱Go类型系统 - https://www.gopherguides.com/articles/embracing-the-go-type-system
+
+4.微服务测试架构。没有端到端测试，您能否睡得好？- https://threedots.tech/post/microservices-test-architecture/
+
+5.如何使用Kubernetes设置和管理日志 - https://iamondemand.com/blog/how-to-set-up-and-manage-logs-with-kubernetes
+
+6.开源，但不对贡献者开放 by boltdb作者 - https://changelog.com/news/open-source-but-closed-to-contributions-jGyl
+
+7.通过cgo实现GObjects并使它们可被C代码访问 - https://tinyzimmer.github.io/posts/exporting-gobject-from-go/
+
+8.Go播客：为何技术人员的写作功底很重要 - https://changelog.com/gotime/164
+
+9.如何监控kube-proxy以保证k8s集群网络可用 - https://sysdig.com/blog/monitor-kube-proxy/
+
+10.在Lenovo ThinkPad X1 Nano（第一代）上运行OpenBSD - https://jcs.org/2021/01/27/x1nano
+## 码农桃花源--2021-01-29
+### 质文章汇总
+1 [提高客户端并发量](https://mp.weixin.qq.com/s/KtpVIwYTbRC1H7nBEQsN2Q)
+
+2 [go context解密](https://mp.weixin.qq.com/s/A03G3_kCvVFN3TxB-92GVw)
+
+3 [实战go内存泄漏](https://lessisbetter.site/2019/05/18/go-goroutine-leak/)
+
+4 [map+哈希碰撞](https://draveness.me/golang/docs/part2-foundation/ch03-datastructure/golang-hashmap/)
+
+5 [linux内核是如何巧妙的初始化各个模块的](https://mp.weixin.qq.com/s/qdBsv3vK-Suczt7gEmI6Dw)
+
+6 [linux服务器内存池三种实现方式](https://mp.weixin.qq.com/s/-E7xhoqIkF_BCAF8q-Nk8w)
+
+### 面试问题
+1 请问Redis的rehash怎么做的，为什么要渐进rehash，渐进rehash又是怎么实现的?
+
+2 大表分页查询,10亿行数据，查找第N页数据，怎么优化
+
+3 请问怎么实现线程池
+
+4 读已提交和可重复读底层实现的区别？
+
+5 消息是否按照时间有序，kafka分区的数据是否有序，如何保证有序
+
+6 分布式锁应用场景，哪些坑, 如何避免
+
+7 聚簇索引什么特点，为什么这样，顺序查询的实现，回表查询，联合索引特性
+
+8 redis AOF、RDB、复制功能如何处理过期键
+
+9 redis每个对象都有引用计数，有哪些用途
+
+
+
 ## gopherDaily--2021-01-30
 1.我们为什么从Python切换到Go - https://getstream.io/blog/switched-python-go/
 
