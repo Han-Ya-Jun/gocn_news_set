@@ -6,6 +6,88 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-01-29
+一、#公众号：Go语言中文网
+
+1. [2020年Go语言盘点：新冠大流行阻挡不了Go演进的步伐](https://mp.weixin.qq.com/s/HeMzxOUl96VPul1tpccYeQ)
+
+2. [Go 语言实现的标准化的云原生平台构建引擎：KubeVela](https://mp.weixin.qq.com/s/phckhi1kmVUUnF-bo8ha7A)
+
+3. [提案：在Go语言中增加对持久化内存的支持](https://mp.weixin.qq.com/s/SWbgYJPfOf2_Fbl7TAFaYw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-28)](https://studygolang.com/topics/13047)
+
+三、#公众号：代码与远方
+
+1. [来了解一下 Kubernetes 的 Operator 模式](https://mp.weixin.qq.com/s/tPWmnDdm7uCrRvmB2XUy0g)
+
+四、#公众号：Go招聘
+
+1. [推荐一个阿里 Go 实习岗：别错过跟着大牛提升的机会](https://mp.weixin.qq.com/s/VoFsMw2xlmXJ3DnlDQcG3g)
+
+五、#公众号：Golang技术分享
+
+1. [append扩容机制](https://mp.weixin.qq.com/s/ZVIsw1X9BJV1dgpesD3g0w)
+
+六、#公众号：Golang梦工厂
+
+1. [详解并发编程之sync.Once的实现(附上三道面试题)](https://mp.weixin.qq.com/s/gT9bNsNhU189PsURJyzsmQ)
+
+七、#公众号：码农桃花源
+
+1. [事故现场之依赖了不该依赖的 host ip](https://mp.weixin.qq.com/s/8p_17yym6KJlWGRg1nThHA)
+
+八、#公众号：微服务实践
+
+1. [Go夜读年度最佳技术分享视频](https://mp.weixin.qq.com/s/Kux278HF8Gu3cNH1XzSOQA)
+
+九、#公众号：Golang语言开发栈
+
+1. [Golang 语言三方库 lumberjack 日志切割组件怎么使用？](https://mp.weixin.qq.com/s/gGnovwzS1ucW3Afxcytp_Q)
+## GOCN每日新闻--2021-01-29
+
+1.Go 1.16 rc1 released https://groups.google.com/g/golang-announce/c/U_FUHY4wuSc/m/3_Vw3oqpAgAJ?pli=1
+
+2.一文吃透 Go 语言解密之上下文 context https://mp.weixin.qq.com/s/A03G3_kCvVFN3TxB-92GVw
+
+3.分布式延时任务调度系统设计与 golang 实现 https://mp.weixin.qq.com/s/bDb1xY2CFT0bIgOUWpoROA
+
+4.Go 精妙的互斥锁设计 https://mp.weixin.qq.com/s/j0NCgrU6M8ps0zIOkOT3FQ
+
+5.如何将 Containerd 用作 Kubernetes runtime https://www.upyun.com/tech/article/611/1.html
+
+
+## gopherDaily--2021-01-30
+1.我们为什么从Python切换到Go - https://getstream.io/blog/switched-python-go/
+
+2.Go并发模式: lock与waitgroup - https://goworks.netlify.app/posts/go-concurrency/locks/
+
+3.体验go 1.16 io/fs包 - https://benjamincongdon.me/blog/2021/01/21/A-Tour-of-Go-116s-iofs-package/
+
+4.油管视频：使用delve调试Go - https://www.youtube.com/watch?v=a1SneuI65O0
+
+5.一组用于Go的Unix套接字高级软件包 - http://ghostsre.com/2021/01/27/uds-unix-domain-socket-packages/
+
+6.在Go中使用缓存重用昂贵的计算 - https://rauljordan.com/2021/01/05/reuse-expensive-computation-with-in-progress-caches.html
+
+7.Squzy-一个用Go和Bazel编写的高性能开源监视、事件和警报系统 - https://github.com/squzy/squzy
+
+8.基于Filecoin和IPFS的多层文件存储API Powergate发布v2.0.0 - https://github.com/textileio/powergate
+
+9.Linux内核维护者和研究员Shuah Khan专访 - https://www.linuxfoundation.org/en/blog/interview-with-shuah-khan-kernel-maintainer-linux-fellow/
+
+10.NASA开源的下一代飞行任务控制框架，用于在桌面和移动设备上实现数据可视化 - https://github.com/nasa/openmct
+
+11.Go服务与Postgres数据库的通信 - https://itnext.io/communication-between-go-service-and-postgres-database-both-running-in-docker-ae0fd53a25b8
+
+12.使用JWT在Go Echo中进行用户身份验证 - https://webdevstation.com/posts/user-authentication-with-go-using-jwt-token/
+
+13.如何通过GitHub Apps以正确的方式与GitHub集成 - https://www.openfaas.com/blog/integrate-with-github-apps-and-faasd/
+
+ 
 ## go中文网每日资讯--2021-01-28
 一、#公众号：Go语言中文网
 
