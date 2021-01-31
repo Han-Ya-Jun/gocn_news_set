@@ -7,7 +7,74 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
- 
+
+## go中文网每日资讯--2021-01-31
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 80 期 — 认真思考下为什么？](https://mp.weixin.qq.com/s/QlOaiA2AO_BmW0vRzNcsCQ)
+
+2. [Go 中的函数是一等公民，这到底在说什么？](https://mp.weixin.qq.com/s/j2nSJMEMKBbWdVwIIDZsqw)
+
+3. [漫画 | 花了七天时间测试，我彻底搞明白了 TCP 的这些内存开销!](https://mp.weixin.qq.com/s/RyV2jmg-cvo2Hxilzr-1mg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-01-30)——Go工程化(一) 架构整洁之道阅读笔记](https://studygolang.com/topics/13058)
+
+三、#公众号：代码与远方
+
+1. [带你深入理解内存对齐最底层原理](https://mp.weixin.qq.com/s/1UOIrBs-KXr9VAAPx32X0Q)
+
+四、#公众号：吴亲强的深夜食堂
+
+1. [Go每周一刷第四周](https://mp.weixin.qq.com/s/M436y_I6x47_7MJwZ8z8NA)
+
+五、#公众号：五分选手
+
+1. [如何设计并实现一个线程安全的 Map ？(上篇)](https://mp.weixin.qq.com/s/bbdFo5q4xRXzHRM_Rg7IJQ)
+
+## GOCN每日新闻--2021-01-31
+
+1.Go 1.16 的两个实用更新 https://benhoyt.com/writings/go-readdir/
+
+2.拥抱 Go 类型系统 https://www.gopherguides.com/articles/embracing-the-go-type-system
+
+3.可视化 Go 程序性能数据 https://nakabonne.dev/posts/gosivy/
+
+4.不要给 Go 代码使用 LGPL https://www.makeworld.gq/2021/01/lgpl_go.html
+
+5.数据库是如何使用 mmap 的 https://brunocalza.me/but-how-exactly-databases-use-mmap/
+
+## gopherDaily--2021-01-31
+1. 构建微服务的十大Go框架和库 - https://keccikun.medium.com/top-10-framework-golang-library-to-build-microservice-391a2bb4c2cb
+
+2. 不要将LGPL许可证用于Go代码 - https://www.makeworld.gq/2021/01/lgpl_go.html
+
+3. 反方观点：Go尚未准备好用来开发企业应用以及其原因 - https://medium.com/@afondmitro/golang-is-not-ready-for-enterprise-systems-yet-and-heres-why-c0ee72069963
+
+4. DJ Bernstein的cdb常量数据库库的Pure Go实现 - https://github.com/jbarham/cdb
+
+5. 新轮子：纯Go实现的mysql sql引擎 - https://github.com/dolthub/go-mysql-server
+
+6. go worker池的一个demo实现 - https://www.pixelstech.net/article/1611483826-Demo-on-creating-worker-pool-in-GoLang
+
+7. 使用goroutine解决使用firebase的局限 - https://ncona.com/2021/01/dealing-with-firestore-10-limit-with-in-operator
+
+8. Go与rust实现同一个功能上的细致比较 - https://manse.cloud/posts/rust-go-department-directory/
+
+9. systemk: vitual kubelet的systemd后端 - https://github.com/virtual-kubelet/systemk
+
+10. 为什么机器学习算法难以优化以及如何解决？https://engraved.ghost.io/why-machine-learning-algorithms-are-hard-to-tune/
+
+11. Google开源的图形API调试器 - https://github.com/google/gapid
+
+12. 为什么从PHP迁移到Go - https://www.netgate.com/blog/pfsense-plus-pfsense-ce-dev-insights-direction.html
+
+13. go module入门 - https://www.makeworld.gq/2020/11/go_modules.html
+
+14. 使用Go操作MongoDB - https://levelup.gitconnected.com/working-with-mongodb-using-golang-754ead0c10c
+
+
 ## go中文网每日资讯--2021-01-30 
 一、#公众号：Go语言中文网
 
