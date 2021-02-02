@@ -65,6 +65,26 @@
 5.来了解一下 K8S 的 Operator 模式 https://mp.weixin.qq.com/s/r2sxN4lEHwYNJCGeN8Pukw
 
 
+## gopherDaily--2021-02-01
+1.利用Go 2泛型(试验语法)为真实项目添加泛型支持 - https://benburkert.com/posts/on-go2-generics/
+
+2.Go 1.16在go二进制文件中嵌入静态文件 - https://www.akmittal.dev/posts/go-embed-files/
+
+3.如何使用//go:embed - https://blog.carlmjohnson.net/post/2021/how-to-use-go-embed/
+
+4.Go实现的快速，安全，可靠的系统备份工具，可备份诸如MySQL，PostgreSQL，Redis，etcd等 - https://github.com/Clivern/Walrus
+
+5.可用于Go的类Django模板语法的模板语言 - https://github.com/flosch/pongo2
+
+6.配置和实现Kubernetes audit Webhook - https://dev.bitolog.com/implement-audits-webhook/
+
+7.高性能PHP到Go IPC桥接器, 支持从PHP调用Go服务方法 - https://github.com/spiral/goridge
+
+8.仅使用Go及其模板来编写交互式、实时Web应用程序，无需js - https://github.com/jfyne/live
+
+9.crun: C语言编写的快速，低内存占用的OCI容器运行时 - https://github.com/containers/crun
+
+10.为什么我使用Lisp，而且你也该这么做 - https://mendhekar.medium.com/why-i-still-lisp-and-you-should-too-18a2ae36bd8
 
 ## 码农桃花源--2021-02-01
 ### 文章分享
