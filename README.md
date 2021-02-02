@@ -7,6 +7,113 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-02-02
+
+一、#公众号：Go语言中文网
+
+1. [苦于没有 Go 实战项目？也许本文的一些想法可以试试](https://mp.weixin.qq.com/s/iAPe91YZEhVQZJ3QupDGFw)
+
+2. [Go - 实现项目内链路追踪](https://mp.weixin.qq.com/s/jzuKFYAy9jLBY_Vr5XuZUQ)
+
+3. [一文带你解密 Go 语言之通道 channel](https://mp.weixin.qq.com/s/Ih4FOi4hx4GgS8Pq7bjRJA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-01)—— Go1.16 即将正式发布，以下变更你需要知道](https://studygolang.com/topics/13068)
+
+三、#公众号：代码与远方
+
+1. [虚机软中断竟然是可一个CPU使劲造？](https://mp.weixin.qq.com/s/QnoHc0kuU8h5wQKZNCb_-A)
+
+四、#公众号：k8s技术圈
+
+1. [面向 Kubernetes 开发者的设置指南](https://mp.weixin.qq.com/s/RjkZj9cI_2qigC4s_2YcOQ)
+
+五、#公众号：CloudNativeCommunity
+
+1. [网易轻舟如何基于 Istio 实现微服务架构演进](https://mp.weixin.qq.com/s/XOY8VK09Q_QrhoL42WL5VQ)
+
+六、#公众号：多颗糖
+
+1. [条分缕析 Raft 算法](https://mp.weixin.qq.com/s/lUbVBVzvNVxhgbcHQBbkkQ)
+
+七、#公众号：脑子进煎鱼了
+
+1. [Go1.16 新特性：一文快速上手 Go embed](https://mp.weixin.qq.com/s/aBPrBHl9BpbvbJyatB3Vww)
+
+八、#公众号：Go招聘
+
+1. [腾讯云存储/NoSQL 招聘 Go：腾讯喜欢开源作者](https://mp.weixin.qq.com/s/1b_c_HMecePUkf_OZ3jviw)
+
+九、#公众号：Golang技术分享
+
+1. [一个容易让gopher理解不当的小细节](https://mp.weixin.qq.com/s/nPq8dF1WU1hyacpPZHLpLQ)
+
+十、#公众号：奇伢云存储
+
+1. [深入剖析 defer 原理篇 —— 函数调用的原理？](https://mp.weixin.qq.com/s/Y-gqH7ya5s4vfFQ5PY0qFw)
+
+
+## GOCN每日新闻--2021-02-02
+
+1.在 VS Code Go 扩展中默认启用 Gopls https://blog.golang.org/gopls-vscode-go
+
+2.一个摄像头多条流 https://medium.com/an-idea/there-can-be-only-one-one-camera-multiple-streams-7a1142a35905
+
+3.Rust FFI 和 Go FFI（cgo）对比 https://wutch.medium.com/rust-ffi-vs-golang-ffi-cgo-59e6ea3a83c6
+
+4.Go - 实现项目内链路追踪 https://segmentfault.com/a/1190000039146970
+
+5.node-fluent-ffmpeg Go 语言版本 https://github.com/modfy/go-fluent-ffmpeg
+
+## gopherDaily--2021-02-02
+
+1. 官博：VsCode Go扩展默认将启用gopls - https://blog.golang.org/gopls-vscode-go
+
+2. 详解Go中的文件描述符 - https://jjba.dev/posts/go-file-descriptors/
+
+3. Go服务端渲染胜过Javascript - https://jjba.dev/posts/go-ssr-wins-over-javasscript/
+
+4. 究竟什么是云原生(cloud native) by microsoft channel9 - https://channel9.msdn.com/Shows/The-Cloud-Native-Show/What-is-Cloud-Native-Really
+
+5. 油管视频：精通Go标准库系列 - https://www.youtube.com/playlist?list=PLLf6iaZKV_xsp2EKR7cgRZFW5u9yVuzBi
+
+6. 为下一个大型项目选择Go的7个理由 - https://www.a3logics.com/blog/reason-to-choose-golang
+
+7. 可以跟随鼠标移动做眼动的gopher - https://egonelbre.com/js/gopher/
+
+8. 使用operator管理多集群kubernetes - https://thenewstack.io/manage-multicluster-kubernetes-with-operators/
+
+9. Go1.16 filesystem接口的S3存储实现 - https://github.com/jszwec/s3fs
+
+10. ubuntu团队正在开发一种新的ubuntu图形安装工具，该工具使用了flutter，可能在21.10版本中发布 - https://www.omgubuntu.co.uk/2021/02/ubuntu-is-working-on-a-brand-new-installer
+
+11. 为指定接口定义自动生成对应的接口实现 - https://instamock.tcardenas.me/
+
+12. 如何在3小时内建立我的第一个混合边缘设施 - https://vrany.fun/how-ive-built-my-first-hybrid-edge-setup-in-3-hours.html
+
+## 码农桃花源--2021-02-02
+### 文章分享
+1.  [nginx平滑的基于权重轮询算法分析](https://tenfy.cn/2018/11/12/smooth-weighted-round-robin/)
+
+2. [linux iostat查看磁盘io速率](https://tenfy.cn/2019/07/10/linux-monitoring-iostat/)
+
+3. [复习:go channel](https://mp.weixin.qq.com/s/90Evbi5F5sA1IM5Ya5Tp8w)
+
+4. [复习：go panic recover](https://draveness.me/golang/docs/part2-foundation/ch05-keyword/golang-panic-recover/)
+
+### 面试问题
+1. 100个球，一次只能拿2-5个，你先拿，我后拿，怎么保证你能拿到最后一个球?
+
+2. 布隆过滤器怎么设置m,n,k的值，怎么合理安排key(用户和item越来越多，怎么保证内存不会爆)
+
+3. 聚簇索引什么特点，为什么这样，顺序查询的实现，回表查询，联合索引特性
+
+### 每日算法
+lc 902: 最大为 N 的数字组合
+
+
 ## go中文网每日资讯--2021-02-01
 一、#公众号：Go语言中文网
 
