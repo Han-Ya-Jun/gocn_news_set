@@ -7,6 +7,107 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-02-03 
+一、#公众号：Go语言中文网
+
+1. [图解 Go GOMAXPROCS 和实时更新](https://mp.weixin.qq.com/s/Zqh6eFRo5TU01kQg35Hbdw)
+
+2. [在校生的万字长文：gRPC 实操指南（golang）](https://mp.weixin.qq.com/s/ZUQQEn4SVLYcIdbW-6YFZQ)
+
+3. [Go 中使用 JSON 时，如何区分空字段和未设置字段](https://mp.weixin.qq.com/s/OGIAUkRvwkMYI3jGipzLPA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-02)——Go1.16 新特性：一文快速上手 Go embed](https://studygolang.com/topics/13073)
+
+三、The Go Blog
+
+1. [Gopls on by default in the VS Code Go extension](https://blog.golang.org/gopls-vscode-go)
+
+四、#公众号：k8s技术圈
+
+1. [在 Kubernetes 上手动部署 Prometheus](https://mp.weixin.qq.com/s/Uv1imI8m_-parJabOknxaA)
+
+五、#公众号：CloudNativeCommunity
+
+1. [网易轻舟如何基于 Istio 实现微服务架构演进](https://mp.weixin.qq.com/s/XOY8VK09Q_QrhoL42WL5VQ)
+
+六、#公众号：微服务实践
+
+1. [go-zero解读与最佳实践（上）](https://mp.weixin.qq.com/s/WZPxxtH3N5r-fktZ2XRN3w)
+
+七、#公众号：网管叨bi叨
+
+1. [内联函数和编译器对Go代码的优化](https://mp.weixin.qq.com/s/Or4FmVAf9nvMQzPct87Ecw)
+
+八、#公众号：polarisxu
+
+1. [Go 开发者 Top 6 IDE：你知道几个，又用哪个？](https://mp.weixin.qq.com/s/-z3jyFpsHh67MfPc4V9QWQ)
+
+九 、#公众号：Golang语言开发栈 
+
+1. [Golang 语言标准库 bytes 包怎么使用？](https://mp.weixin.qq.com/s/EP-QmnwJVWVmpTbPfUnJ2g)
+
+## GOCN每日新闻--2021-02-03
+1.18 张图解密新时代内存分配器 TCMalloc https://juejin.cn/post/6924899045353881608
+
+2.使用 MAC API 来开发 MAC APP https://dev.to/progrium/use-mac-apis-and-build-mac-apps-with-go-ap6
+
+3.详解 Go 内联优化 https://juejin.cn/post/6924249254752059406
+
+4.如何发布一个新的 Modules https://juejin.cn/post/6923740678736314375
+
+5.快速开发一个 graphql 应用 https://github.com/ohler55/graphql-test-tool/blob/develop/example/solid-quick.md
+
+## gopherDaily--2021-02-03
+1.Go vs. Rust：2021年我们更应该使用哪门语言？- https://codersera.com/blog/go-vs-rust/
+
+2.Go 1.16在openbsd平台上将通过libc进行系统调用 - https://utcc.utoronto.ca/~cks/space/blog/programming/Go116OpenBSDUsesLibc
+
+3.Azure SDK添加更多语言支持，包括Go - https://visualstudiomagazine.com/articles/2021/02/02/azure-sdk.aspx
+
+4.使用Go与mac api构建mac应用 - https://dev.to/progrium/use-mac-apis-and-build-mac-apps-with-go-ap6
+
+5.Go event sourcing框架 - https://github.com/eventually-rs/eventually-go
+
+6.O’Reilly Go新书《Learning Go》预售 - https://www.amazon.com/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216/
+
+7.新手为什么要学习Go - https://hackernoon.com/why-should-you-go-with-golang-newbies-guide-s69y3wkk
+
+8.编写好的软件文档的指南 - https://documentation.divio.com/
+
+9.播客：cilium: 可编程linux网络 - https://softwareengineeringdaily.com/2021/02/02/cilium-programmable-linux-networking-with-dan-wendlant-and-thomas-graf/
+
+10.通过10个小型项目更好地利用Linux - https://carltheperson.com/posts/10-things-linux
+
+11.使用安全的内核内缓存和栈前处理来加速Memcached - https://www.usenix.org/conference/nsdi21/presentation/ghigoff
+
+12.机器学习新手必须知道的术语 - https://twitter.com/PrasoonPratham/status/1356508751822548992
+
+13.数据科学学习路线 - https://github.com/therealsreehari/Learn-Datascience-for-Free
+
+
+## 码农桃花源--2021-02-03
+### 文章分享
+1 [linux内核同步之memory barrier](http://www.wowotech.net/kernel_synchronization/memory-barrier.html)
+
+2 [linux内存管理之反向映射](https://www.cnblogs.com/arnoldlu/p/8335483.html)
+
+3 [复习：mysql加锁语句分析](https://mp.weixin.qq.com/s/wSlNZcQkax-2KZCNEHOYLA)
+
+4 [复习：为什么tcp协议有粘包问题](https://draveness.me/whys-the-design-tcp-message-frame/)
+
+### 面试问题
+1 什么是零拷贝
+
+2 假设销售团队拥有一张账目表account,表中每行记录记录着销售员2016年到2018年每个月的销售额,如果销售员当月没有销售额,则不录入到表中,目前管理员想查看下2018年每个月都有销售额的销售人员的总销售额, 那么sql语句是？
+
+3 http请求的处理过程
+
+4 事务的隔离级别 底层是如何实现的
+
+### 每日算法
+lc424 替换后的最长重复字符 https://leetcode-cn.com/problems/longest-repeating-character-replacement/
 
 ## go中文网每日资讯--2021-02-02
 
