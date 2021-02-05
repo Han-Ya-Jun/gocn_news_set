@@ -7,6 +7,98 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-02-04
+一、#公众号：Go语言中文网
+
+1. [一文详解如何在调试过程中查找 Goroutine](https://mp.weixin.qq.com/s/3dKlH8tfopLYYGdUW8lN_A)
+
+2. [一个有意思的 Gopher](https://mp.weixin.qq.com/s/LQ57M_VxcbsHFY-RCirHLw)
+
+3. [Go指针的使用限制和突破之路](https://mp.weixin.qq.com/s/sycCiquVvW6_0Z0tWf1PeA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-03)——Go 开发者 Top 6 IDE：你知道几个，又用哪个？](https://studygolang.com/topics/13078)
+
+三、#公众号：polarisxu
+
+1. [怎么知道某个 API 是在哪个 Go 版本添加的？这个功能如何实现的](https://mp.weixin.qq.com/s/kbIhf3MRphlT_YxrSMKE6g)
+
+四、#公众号：k8s技术圈
+
+1. [Kubernetes 部署 MySQL 主从服务](https://mp.weixin.qq.com/s/Uv1imI8m_-parJabOknxaA)
+
+五、#公众号：CloudNativeCommunity
+
+1. [服务网格比较：Istio vs Linkerd](https://mp.weixin.qq.com/s/l1-6jxk_fUH4Inqwx-0p8g)
+
+六、#公众号：码农桃花源
+
+1. [Go channel 的妙用](https://mp.weixin.qq.com/s/jAUfqu-5nbs8hcua_F7ueQ)
+
+七、#公众号：Go招聘
+
+1. [百度个人云 Go 职位面试，看考察了什么内容？](https://mp.weixin.qq.com/s/X7l3ny96pFNtbKcXovoI2w)
+
+## GOCN每日新闻--2021-02-04 
+1.内联函数和编译器对 Go 代码的优化 https://juejin.cn/post/6924888439577903117
+
+2.图解 Go GOMAXPROCS 和实时更新 https://mp.weixin.qq.com/s/Zqh6eFRo5TU01kQg35Hbdw
+
+3.如何在 Go 中编写无错误的 Goroutine https://itnext.io/how-to-write-bug-free-goroutines-in-go-golang-59042b1b63fb
+
+4.Go 构建和链接器的时间表 https://medium.com/a-journey-with-go/go-builds-linkers-timeline-b312084ddf7d
+
+5.Go 中的测试模式 https://eric-fritz.com/articles/testing-patterns-in-go/
+
+
+## gopherDaily--2021-02-04
+1.Go语言的当前状态(2021.2.3) - https://blog.jetbrains.com/go/2021/02/03/the-state-of-go/
+
+2.Go泛型提案进入”likely accept”阶段 - https://github.com/golang/go/issues/43651#issuecomment-772720103
+
+3.你应该使用Go的七个理由 - https://itnext.io/7-reasons-you-should-try-use-go-5fb4714015d1
+
+4.Go官方文档：如何开发和发布module - https://tip.golang.org/doc/modules/developing
+
+5.油管视频：纯Go的unikernel - https://www.youtube.com/watch?v=aOEl5BCfHv0&list=PLGN1AjiJJv0kcScq6hZ0Y2SwjJmBJ3j4U
+
+6.服务网格比较：linkerd vs. istio - https://mp.weixin.qq.com/s/l1-6jxk_fUH4Inqwx-0p8g
+
+7.纯Go编写的全功能kafka客户端 - https://github.com/twmb/franz-go
+
+8.terraform-provider-kubernetes和terraform-provider-helm发布2.0版本 - https://www.hashicorp.com/blog/announcing-version-2-0-kubernetes-and-helm-providers-for-hashicorp-terraform
+
+10.Calico与高性能数据平面VPP的结合 - https://fosdem.org/2021/schedule/event/sdn_calicovpp/
+
+11.2020，facebook开源回顾 - https://www.oschina.net/news/128816/fb-open-source-2020-year-review
+
+## 码农桃花源--2021-02-04
+### 文章分享
+1.  [go channel 的妙用](https://mp.weixin.qq.com/s/jAUfqu-5nbs8hcua_F7ueQ)
+
+2. [为什么 HugePages 可以提升数据库性能 ](https://draveness.me/whys-the-design-linux-hugepages/)
+
+3. [复习:go 调度器](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-goroutine/)
+
+4. [复习：go 内存分配](https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-memory-allocator/)
+
+### 面试问题
+1. channel什么时候会引发panic
+
+2. 字符串打印时，%v 和 %+v 的区别
+
+3. var a []int和a := []int{}是否有区别
+
+4. 如何用channel实现一个令牌桶？
+
+5. 函数返回局部变量的指针是否安全？
+
+6. 简述一下golang的协程调度原理?
+
+### 每日算法
+lc 1224: 最大相等频率
+
 ## go中文网每日资讯--2021-02-03 
 一、#公众号：Go语言中文网
 
