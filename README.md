@@ -7,6 +7,100 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-02-05 
+
+一、#公众号：Go语言中文网
+
+1. [四舍五入在 Go 语言中为何如此困难](https://mp.weixin.qq.com/s/hEHLOcvmUynK5eqJ1OhbCw)
+
+2. [一个容易让 gopher 理解不当的小细节](https://mp.weixin.qq.com/s/Pj_lkclBwau0rIwAbimSjQ)
+
+3. [Go：分布式锁实现原理与最佳实践](https://mp.weixin.qq.com/s/lrSQBK-Kihkj6994kQFpUQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-04)——Go channel 的妙用](https://studygolang.com/topics/13083)
+
+三、#公众号：转角遇到GitHub
+
+1. [我做了一个Go语言的微服务工具包](https://mp.weixin.qq.com/s/wyysxxZnUXY_O_ZrckdSfw)
+
+四、#公众号：吴亲强的深夜食堂
+
+1. [Golang 中 nil==nil 是对是错？](https://mp.weixin.qq.com/s/G-TMl7ih4-9yGnoBVvmFWg)
+
+五、#公众号：腾讯技术工程
+
+1. [Go与C的桥梁：CGO入门剖析与实践](https://mp.weixin.qq.com/s/AMv5IVBPU2lAY_qUwskk4g)
+
+六、Awesome Go Newsletter
+
+1. [Issue 246 - pfSense is moving away from PHP to Go](https://go.libhunt.com/newsletter/246) 
+
+七、#公众号：Go招聘
+
+1. [金山云招这么多Gopher？福利还真香](https://mp.weixin.qq.com/s/ct_W79AS7iWmXV2LW1bNzQ)
+ 
+订阅公众号: 亚军进化史
+
+## GOCN每日新闻--2021-02-05 
+
+1.Go 泛型提案有望被接受，已进入"Likely Accept"状态 https://www.oschina.net/news/129061/go-generics-proposal-moves-to-likely-accept
+
+2.快速构建 Go GraphQL 应用 https://github.com/ohler55/graphql-test-tool/blob/develop/example/solid-quick.md
+
+3.Golang 全球使用现状 https://blog.jetbrains.com/go/2021/02/03/the-state-of-go/
+
+4.关于 Golang 不错的博客 https://dev.to/draft/the-best-golang-blogs-4ih7
+
+5.聊聊 dubbo-go-proxy 的 authorityFilter https://segmentfault.com/a/1190000039174575
+
+## gopherDaily--2021-02-05
+1.errors不是exceptions - https://dev.to/swyx/errors-are-not-exceptional-1g0b
+
+2.适用于Go的原生Mac API - https://github.com/progrium/macdriver
+
+3.一种简单实用的构建Go应用程序的项目结构 - https://mbvisti.medium.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189
+
+4.JFrog在5月1日将关闭Bintray，JCenter，GoCenter和ChartCenter服务，使用JFrog GoCenter作为GOPROXY的gopher可以切换到其他GOPROXY服务 - https://jfrog.com/blog/into-the-sunset-bintray-jcenter-gocenter-and-chartcenter/
+
+5.paco: Go语言实现的静态编译型语言，目标是C - https://github.com/pacolang/paco
+
+6..100行代码的压缩前缀树: 50% smaller - https://mp.weixin.qq.com/s/AHPvyMFR67jlkm8QyjpT5g
+
+7.reactssr: 实现服务端的react app渲染 - https://github.com/tmc/reactssr
+
+8.docker将docker distribution(镜像仓库)捐献给CNCF - https://www.docker.com/blog/donating-docker-distribution-to-the-cncf/
+
+9.pvc-autoresizer: k8s原生的、具备自动扩展Persistent Volume Claims (PVCs)能力的工具 - https://blog.kintone.io/entry/pvc-autoresizer
+
+10.如何雇用高级开发人员：给予他们更多的自主权 - https://hiringengineersbook.com/post/autonomy/
+
+11.MinIO为什么赢得混合云 - https://blog.min.io/why-minio-wins-the-hybrid-cloud/
+
+12.2021年的Web开发预测 - https://thenewstack.io/6-web-development-predictions-for-2021/
+
+
+## 码农桃花源--2021-02-05
+### 文章分享
+[goroutine 并发控制与通信](https://strikefreedom.top/goroutine-concurrency-control-and-communication)
+
+2 [进程/线程切换究竟需要多少开销](https://mp.weixin.qq.com/s/zZbk9p-0HyICiFGDBaaRTw)
+
+3 [为了追求高性能，CPU、内存、IO都做了哪些努力](https://mp.weixin.qq.com/s/P-mPAWxScFAThoNF3M2y3A)
+
+4 [你可能不知道的SSH的妙用](https://mp.weixin.qq.com/s/uesOCt9gmdST-HpwYTKsIw)
+
+### 面试问题
+1 IO模型了解吗？讲下select/poll/epoll？各自优劣、底层实现、使用场景？
+
+2 优雅关闭tcp连接，说一下shutdown和close？
+
+3 异步日志的实现原理
+
+### 每日算法
+lc639 解码方法2 https://leetcode-cn.com/problems/decode-ways-ii/
+
 ## go中文网每日资讯--2021-02-04
 一、#公众号：Go语言中文网
 
