@@ -7,6 +7,116 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-02-06 
+一、#公众号：Go语言中文网
+
+1. [10 年 Java 经验者：你应该尝试 Go 的 7 个理由](https://mp.weixin.qq.com/s/UCtXcFr4XdE8WwJYK016gg)
+
+2. [Go 1.15.8 发布](https://mp.weixin.qq.com/s/sXJDOC5bhqfpI3qieCXi1g)
+
+3. [golang 性能诊断看这篇就够了](https://mp.weixin.qq.com/s/TjOxsotZ68XpKQviNlqQmQ)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-05)——Golang 中 nil==nil 是对是错？](https://studygolang.com/topics/13090)
+
+三、#公众号：代码与远方
+
+1. [Clubhouse 上手教程](https://mp.weixin.qq.com/s/if7XfHXT6lBzGHS1eh4klA)
+
+四、#公众号：吴亲强的深夜食堂
+
+1. [我是如何从 php 转型写 go 的](https://mp.weixin.qq.com/s/LsfowCRzB3uQx_xXCAbbkA)
+
+五、#公众号：k8s技术圈
+
+1. [Go-Zero 短链项目 DevOps 实战，利用 Drone CI/CD 打通上云（Kubernetes）迭代流程](https://mp.weixin.qq.com/s/4BevaU2VOoTBrpSfxnhfrg)
+
+六、#公众号：五分选手 
+
+1. [如何设计并实现一个线程安全的 Map ？(下篇)](https://mp.weixin.qq.com/s/YESwlVafMgdmhn918GL_yA)
+ 
+
+## GOCN每日新闻--2021-02-06 
+
+1.Go 与 C 的桥梁：CGO 入门剖析与实践 https://mp.weixin.qq.com/s/AMv5IVBPU2lAY_qUwskk4g
+
+2.Go embed 简明教程 https://colobu.com/2021/01/17/go-embed-tutorial/
+
+3.手撸 golang 行为型设计模式 模板方法模式 https://segmentfault.com/a/1190000039181355
+
+4.聊聊 dubbo-go-proxy 的 recoveryFilter https://segmentfault.com/a/1190000039181809
+
+5.brew3.0.0 发布 https://brew.sh/2021/02/05/homebrew-3.0.0/
+
+## gopherDaily--2021-02-06 
+
+- 1.Go 1.15.8和Go 1.14.15发布 - https://groups.google.com/g/golang-announce/c/rUbPPotvaFM/m/H4ZrXHUmBAAJ
+- 2.使用Go语言开发的利与弊 - https://codism.io/pros-and-cons-of-golang-development
+- 3.点对点应用开发库libp2p入门 - https://dev.to/feliperosa/getting-started-with-libp2p-in-go-4hoa
+- 4.Go语法速查表 - https://github.com/a8m/golang-cheat-sheet
+- 5.您不需要Dockerfile即可构建Go容器 - https://petomalina.medium.com/you-dont-need-a-dockerfile-to-build-a-go-container-a511617235bf
+- 6.Github上最受欢迎的Go入门项目列表 - https://www.agiratech.com/blog/top-golang-github-projects-and-repositories-to-get-started
+- 7.使用Go将数据从Postgres数据库流式传输到Web - https://itnext.io/stream-data-from-postgres-to-web-using-go-backend-bd7d7527fe27
+- 8.经典旧文：不要将对可写文件的关闭传给defer - https://www.joeshaw.org/dont-defer-close-on-writable-files/
+- 9.适用于Go的AWS开发工具包中的AWS SSO支持 - https://aws.amazon.com/cn/blogs/developer/aws-sso-support-in-the-aws-sdk-for-go/
+- 10.brew 3.0.0发布，支持M1芯片 - https://brew.sh/2021/02/05/homebrew-3.0.0/
+- 11.使用OpenFaaS function扩展和自动化自托管gitea - https://www.openfaas.com/blog/gitea-faas/
+
+
+## 码农桃花源--2021-02-06
+### 优质文章汇总
+1. [图解slub](http://www.wowotech.net/memory_management/426.html)
+
+2. [nginx平滑的基于权重轮询算法分析](https://tenfy.cn/2018/11/12/smooth-weighted-round-robin/)
+
+3. [linux内存管理之反向映射](https://www.cnblogs.com/arnoldlu/p/8335483.html)
+
+4. [go channel 的妙用](https://mp.weixin.qq.com/s/jAUfqu-5nbs8hcua_F7ueQ)
+
+5. [goroutine 并发控制与通信](https://strikefreedom.top/goroutine-concurrency-control-and-communication)
+
+### 面试问题
+1. linux内核的启动过程
+
+2.  redis为什么需要AOF文件重写功能？
+
+3. redis重写AOF文件的过程是否会影响服务器处理客户端请求吗？
+
+4.  redis设置AOF重写缓冲区解决什么问题？
+
+5. 100个球，一次只能拿2-5个，你先拿，我后拿，怎么保证你能拿到最后一个球
+
+6. 布隆过滤器怎么设置m,n,k的值，怎么合理安排key(用户和item越来越多，怎么保证内存不会爆)
+
+7. 聚簇索引什么特点，为什么这样，顺序查询的实现，回表查询，联合索引特性
+
+8.  什么是零拷贝
+
+9. 假设销售团队拥有一张账目表account,表中每行记录记录着销售员2016年到2018年每个月的销售额,如果销售员当月没有销售额,则不录入到表中,目前管理员想查看下2018年每个月都有销售额的销售人员的总销售额, 那么sql语句是？
+
+10. http请求的处理过程
+
+11. 事务的隔离级别 底层是如何实现的
+
+12. channel什么时候会引发panic
+
+13. 字符串打印时，%v 和 %+v 的区别
+
+14. var a []int和a := []int{}是否有区别
+
+15. 如何用channel实现一个令牌桶？
+
+16. 函数返回局部变量的指针是否安全？
+
+17. 简述一下golang的协程调度原理?
+
+18.  IO模型了解吗？讲下select/poll/epoll？各自优劣、底层实现、使用场景？
+
+19. 优雅关闭tcp连接，说一下shutdown和close？
+
+20. 异步日志的实现原理
+
 ## go中文网每日资讯--2021-02-05 
 
 一、#公众号：Go语言中文网
