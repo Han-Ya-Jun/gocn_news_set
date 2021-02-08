@@ -7,6 +7,89 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-02-07
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 81 期 — 这次两道题](https://mp.weixin.qq.com/s/V-lGseqHIsBJsezZGo8r4Q)
+
+2. [标准库 API 从哪个版本开始？显示的版本号如何实现的](https://mp.weixin.qq.com/s/HMyaYFQgFeKOJ0CmdPw4rA)
+
+3. [Golang 中 nil==nil 是对是错？](https://mp.weixin.qq.com/s/lr4muKB9En4U7o1LMCM7AA)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-06)—— 想了解注册 Clubhouse的看这篇就够了](https://studygolang.com/topics/13095)
+
+三、mohuishou
+
+1. [Go工程化(二) 项目目录结构](https://lailin.xyz/post/go-training-week4-project-layout.html)
+
+四、#公众号：k8s技术圈
+
+1. [kubebuilder 进阶使用教程](https://mp.weixin.qq.com/s/2SG3UtjJfLJvrB9OnX6hLg)
+
+五、#公众号：阿里巴巴云原生
+
+1. [无责任畅想：云原生中间件的下一站](https://mp.weixin.qq.com/s/EWR6xwbf53XHZ8O3m2bdVA)
+
+六、#公众号：五分选手 
+
+1. [面试中 LRU / LFU 的青铜与王者](https://mp.weixin.qq.com/s/xkZTT9SrPqWZ2d9K3ODOig)
+
+七、#公众号：脑子进煎鱼了
+
+1. [Go1.16 新特性：详解内存管理机制的变更，你需要了解](https://mp.weixin.qq.com/s/l4oEJdskbWpff1E3tTNUxQ)
+
+八、#公众号：polarisxu
+
+1. [聊聊近期出版或将出版的几本 Go 图书](https://mp.weixin.qq.com/s/8sgn-skCiB8eajjYkSXVgA)
+
+九、#公众号：微服务实践
+
+1. [缓存设计的好，服务基本不会倒](https://mp.weixin.qq.com/s/ueo9zNMx1OO4cScebORN9Q)
+
+## GOCN每日新闻--2021-02-07
+
+1.golang 依赖注入工具 wire 指南 https://segmentfault.com/a/1190000039185137
+
+2.聊聊 dubbo-go-proxy 的 timeoutFilter https://segmentfault.com/a/1190000039185175
+
+3.Go1.16 新特性：详解内存管理机制的变更，你需要了解 https://mp.weixin.qq.com/s/l4oEJdskbWpff1E3tTNUxQ
+
+4.Golang sync.Cond 条件变量源码分析 https://www.cyhone.com/articles/golang-sync-cond/
+
+5.手撸 golang 行为型设计模式 策略模式 https://segmentfault.com/a/1190000039184068
+
+
+## gopherDaily--2021-02-07
+1.油管视频：自Go 1.14版本以来，Go语言都有哪些新变化(覆盖go1.15和go1.16) - https://youtu.be/pNd_BM0Tg4E 关注公众号：iamtonybai，发送“gostate2021”，可获取该视频对应幻灯片；
+
+2.Magma：一个开源软件平台，可为网络运营商提供开放，灵活和可扩展的移动核心网络解决方案 - https://github.com/magma/magma
+
+3.Go Devroom@FOSDEM 2021视频汇总 - https://www.youtube.com/playlist?list=PLvPgJa3brKQZJFlgINzX-XowwzETNJju0
+
+4.Go at Tailscale by Brad Fitzpatrick - https://www.youtube.com/watch?v=csbE6G9lZ-U&feature=youtu.be
+
+5.Go实现的changelog生成器 - https://github.com/git-chglog/git-chglog
+
+6.如何为go二进制文件制作非常小的容器 - https://www.mirantis.com/blog/how-to-make-very-small-containers-for-golang-binaries/
+
+7.本地开发用的集群(kind, microk8s, k3s, minikube…)，你该如何选择 - https://www.dex.dev/dex-videos/development-clusters
+
+8.集合多家 API 的新一代图床 - https://github.com/0xDkd/auxpi
+
+9.kube-batch: kubernetes批处理任务调度器 - https://github.com/kubernetes-sigs/kube-batch
+
+10.influxdb的docker监控模板 - https://www.influxdata.com/blog/getting-headstart-with-docker-monitoring-template/
+
+11.MIT最新机器学习入门公开课 - http://introtodeeplearning.com/
+
+12.请为开源项目添加ARCHITECTURE.md文档 - https://matklad.github.io/2021/02/06/ARCHITECTURE.md.html
+
+13.用于检查各种协议下从本地计算机到远程目标的连接的小工具 - https://github.com/Ripolak/chk
+
+14.Go中的请求映射控制器 - https://johnpili.com/controller-request-mapping-in-golang/
+
 ## go中文网每日资讯--2021-02-06 
 一、#公众号：Go语言中文网
 
