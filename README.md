@@ -7,6 +7,72 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-02-08
+一、#公众号：Go语言中文网
+
+1. [图解 Go Select 语句的执行顺序](https://mp.weixin.qq.com/s/Elk2u0UZXoW1Hbn03QfNEg)
+
+2. [我是如何从 php 转型写 go 的](https://mp.weixin.qq.com/s/21itkewCnJt2YA7BlhsTDQ)
+
+3. [人人可制作红包封面：送一些 gopher 图给大家做封面](https://mp.weixin.qq.com/s/vEUZJfdYQczryctofBqrdw)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-07)——Go1.16 新特性：详解内存管理机制](https://studygolang.com/topics/13103)
+
+三、#公众号：奇伢云存储
+
+1. [Golang 最细节篇 — 解密 defer 原理，究竟背着程序猿做了多少事情？](https://mp.weixin.qq.com/s/V4gzczqFThb2W0A_Iel0BQ)
+
+四、#公众号：Golang梦工厂
+
+1. [源码剖析sync.WaitGroup(文末思考题你能解释一下吗?)](https://mp.weixin.qq.com/s/r9g4ZQLTYJ5QGvBmVIM8YA)
+
+
+五、#公众号：Golang来啦
+
+1. [使用 Go 语言 context 包的取消功能](https://mp.weixin.qq.com/s/gpcibIUz2BP3xlTR-P8Xbg)
+
+六、#公众号：真没什么逻辑
+
+1. [为什么 OLAP 需要列式存储](https://mp.weixin.qq.com/s/bIU8Jm0U9EBJckQHk6mcuQ)
+
+七、#公众号：TonyBai
+
+1. [Go语言学习技术路线图2021发布了！](https://mp.weixin.qq.com/s/mHBRk48fIFP7XVa5qppmCg)
+
+八、#公众号：polarisxu
+
+1. [今年春晚要搞事情：Gopher 们想要什么书，你来定](https://mp.weixin.qq.com/s/Ht2aZdCihov3OmYMXj_jlQ)
+
+## GOCN每日新闻--2021-02-08 
+
+1.Go 实现各类限流算法 https://mp.weixin.qq.com/s/GOZkM2PGctqim4sp_uIEsg
+
+2.缓存设计的好，服务基本不会倒 https://mp.weixin.qq.com/s/ueo9zNMx1OO4cScebORN9Q
+
+3.Go channel 的妙用 https://mp.weixin.qq.com/s/jAUfqu-5nbs8hcua_F7ueQ
+
+4.手撸 golang 行为型设计模式 责任链模式 https://my.oschina.net/ioly/blog/4949868
+
+5.我们如何使用日志记录 https://scene-si.org/2021/02/07/how-we-use-logging/
+
+
+## gopherDaily--2021-02-08
+
+- 1.Go实现各类限流算法 - https://mp.weixin.qq.com/s/GOZkM2PGctqim4sp_uIEsg
+- 2.Go module与私有库指南 - https://dev.to/johanlejdung/a-mini-guide-go-modules-and-private-repositories-4c7o
+- 3.在Go中如何使用logging - https://scene-si.org/2021/02/07/how-we-use-logging/
+- 4.Go Without Wires - https://deadprogram.github.io/fosdem-2021/
+- 5.关于Go中的错误检查 - http://sigusr2.net/check-for-go-errors.html
+- 6.删除k8s命名空间的隐患 - https://www.openshift.com/blog/the-hidden-dangers-of-terminating-namespaces
+- 7.使用caddy构建一个kubernetes ingress controller - https://dgraph.io/blog/post/building-a-kubernetes-ingress-controller-with-caddy/
+- 8.使用Go构建rest服务part4: 使用openapi和swagger - https://eli.thegreenplace.net/2021/rest-servers-in-go-part-4-using-openapi-and-swagger
+- 9.一个基于Fyne GUI的轻量级密码管理工具 - https://github.com/Gyro7/Osiris-pwm
+- 10.基于base64和sql的高性能token刷新方案 - https://cornesteenhuis.medium.com/blazing-fast-refresh-tokens-using-base64-encoding-sql-a82a559f0689
+- 11.ssh隧道原理图解 - https://robotmoon.com/ssh-tunnels/
+
+
 ## go中文网每日资讯--2021-02-07
 一、#公众号：Go语言中文网
 
