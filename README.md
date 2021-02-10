@@ -7,6 +7,65 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-02-09
+一、#公众号：Go语言中文网
+
+1. [Go：符号表是什么？如何利用](https://mp.weixin.qq.com/s/_jxmbfML5bkqUjFcC7MBKg)
+
+2. [使用 Go 语言 context 包的取消功能](https://mp.weixin.qq.com/s/7Pjc3xAqzWE6lQbXw5eGaA)
+
+3. [今年春晚要搞事情：Gopher 们想要什么书，你来定](https://mp.weixin.qq.com/s/v-Rd5VtyW-NWXijsctCTIg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-08)——Go语言学习技术路线图2021发布了！](https://studygolang.com/topics/13109)
+
+三、#公众号：阿里巴巴云原生
+
+1. [seata-golang 接入指南](https://mp.weixin.qq.com/s/cwkfYA2rgNIbHom5Yoeizg)
+
+四、#公众号：转角遇到GitHub
+
+1. [Redis为什么变慢了？一文讲透如何排查Redis性能问题](https://mp.weixin.qq.com/s/03db2yrWhggnrLfwd8YOiw)
+
+五、#公众号：码农桃花源
+
+1. [我和我们的每日分享](https://mp.weixin.qq.com/s/2t-YWEmigU2kiARFFsV8RQ)
+
+六、#公众号： Golang技术分享
+
+1. [gRPC使用简介](https://mp.weixin.qq.com/s/lKRL7038Upyjtrg4QNsSDw)
+
+七、#公众号： 爱因诗贤 
+
+1. [MySQL学习笔记-日志和索引相关问题小结](https://mp.weixin.qq.com/s/0jGMFxQy5ZQJ0xFZpNZ5aw)
+
+
+## GOCN每日新闻--2021-02-09
+1.bilibili 基于 golang 的规则引擎 https://xie.infoq.cn/article/40bfff1fbca1867991a1453ac
+
+2.2021 Go 趋势报告 https://gocn.vip/topics/11650
+
+3.Go 语言命令行执行路径的安全性 https://gocn.vip/topics/11648
+
+4.手撸 golang 行为型设计模式 状态模式 https://my.oschina.net/ioly/blog/4951438
+
+5.为什么 OLAP 需要列式存储 https://mp.weixin.qq.com/s/bIU8Jm0U9EBJckQHk6mcuQ
+
+
+## gopherDaily--2021-02-09
+- 1.使用Go重新实现AlphaGo(AlphaZero) - https://github.com/gorgonia/agogo
+- 2.go-ipfs和go-libp2p维护者的开源项目贡献和维护经验之谈 - https://stebalien.com/blog/letters-from-a-maintainer/
+- 3.初学者应该在2021年学习Go的7个关键原因 - https://qvault.io/2021/02/08/why-learn-golang-in-2021/
+- 4.一个不错的Go博客 - https://gochronicles.com/
+- 5.Go TDD的反模式 - https://quii.gitbook.io/learn-go-with-tests/meta/anti-patterns
+- 6.使用Go实现端点威胁检测和响应工具系列 - https://codeyourweb.medium.com/golang-for-computer-security-building-an-edr-part1-processes-memory-35e2fec36454
+- 7.面向比特币SV开发人员的Go代码库的集合 - https://gobitcoinsv.com/
+- 8.Mat Ryer 重启bitbar开发，这次用Go - https://github.com/matryer/bitbar/issues/607
+- 9.Rust语言基金会成立！- https://foundation.rust-lang.org/posts/2021-02-08-hello-world/ Google加入 - https://opensource.googleblog.com/2021/02/google-joins-rust-foundation.html
+- 10.揭秘 Consul Streaming - https://medium.com/criteo-engineering/consul-streaming-whats-behind-it-6f44f77a5175
+- 11.notify: 一个简单、用于将通知发送到各种消息服务(支持mail,slack,microsoft team等)的Go库 - https://github.com/nikoksr/notify
+
 ## go中文网每日资讯--2021-02-08
 一、#公众号：Go语言中文网
 
