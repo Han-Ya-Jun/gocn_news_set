@@ -6,6 +6,54 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-02-11 
+一、#公众号：Go语言中文网
+
+1. [为 Go 打造一个原生 GUI 程序是一种什么体验？](https://mp.weixin.qq.com/s/t7WU7Zg4u2dhlb6S3yRjVA)
+
+2. [除夕快乐！别忘了今晚的 Gopher 晚会直播](https://mp.weixin.qq.com/s/-Xifq5sBQ9bNm9iipbWmQw)
+
+3. [Golang WaitGroup 原理深度剖析](https://mp.weixin.qq.com/s/CkSd2aldYaoLbd-IKhkpWg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-10)——除夕夜 Go 爱好者线上聚会，就差你!](https://studygolang.com/topics/13116)
+
+三、#公众号：Go 夜读
+
+1. [Go泛型方案已被采纳](https://mp.weixin.qq.com/s/23uc_RzFfKNJX8kCpITuRw)
+
+四、Gopher春晚
+
+1. Gopher 春晚B站直播地址：https://live.bilibili.com/21343173
+
+## GOCN每日新闻--2021-02-11 
+
+1.Go 泛型方案被接受 https://github.com/golang/go/issues/43651#issuecomment-776944155
+
+2.分布式事务框架 seata-golang 接入指南 https://mp.weixin.qq.com/s/cwkfYA2rgNIbHom5Yoeizg
+
+3.Go 与 Swift 对比 https://techbiason.com/go-vs-swift/
+
+4.为什么 Go 编译这么快 https://devrajcoder.medium.com/why-go-compiles-so-fast-772435b6bd86
+
+5.手撸 golang 行为型设计模式 中介者模式 https://segmentfault.com/a/1190000039202770
+
+## gopherDaily--2021-02-11
+- 1.Go泛型提案被Accept！- https://github.com/golang/go/issues/43651#issuecomment-776944155
+- 2.为什么Go编译速度这么快 - https://devrajcoder.medium.com/why-go-compiles-so-fast-772435b6bd86
+- 3.使用28行代码手写实现互斥锁 - https://medium.com/@cheshirysh/handmade-mutex-in-28-lines-of-go-205ff5b13dbc
+- 4.使用D3js和Go实现时间线chart - https://itnext.io/how-to-create-d3js-v6-timeline-1a32e586fe56
+- 5.Go实现的网络包嗅探工具 - https://github.com/pwdz/WirePenguin
+- 6.logit: 将json格式的log聚合存储 - https://github.com/life4/logit
+- 7.播客：故意破坏事情| Google产品与策略主管、Hugo之父Steve Francia专访 - https://www.gremlin.com/blog/podcast-break-things-on-purpose-steve-francia-product-and-strategy-lead-at-google/
+- 8.Go functional option惯用法的原理 - https://www.youtube.com/watch?v=SPcO06ZxkGU&feature=youtu.be
+- 9.经典旧文：分布式系统的模式 - https://martinfowler.com/articles/patterns-of-distributed-systems/
+- 10.经典旧文系列：Khan Academy向Go迁移的故事 - https://blog.khanacademy.org/go-services-one-goliath-project/
+- 11.Go与swift深度对比 -  https://techbiason.com/go-vs-swift/
+
+
 ## go中文网每日资讯--2021-02-10 
 一、#公众号：Go语言中文网
 
