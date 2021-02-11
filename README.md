@@ -6,6 +6,67 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-02-10 
+一、#公众号：Go语言中文网
+
+1. [除夕夜 Go 爱好者线上聚会，就差你！](https://mp.weixin.qq.com/s/AWztZA6KoC2cfVBPxuslPg)
+
+2. [Dave 大神解释 Go 1.14 中接口的菱形组合](https://mp.weixin.qq.com/s/nPYfxCV0E2u42S9BlObp9Q)
+
+3. [Go - 实现项目内链路追踪(二)](https://mp.weixin.qq.com/s/_NTvKmlBd37z5lfW_rDx1g)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-09)——Rust语言基金会成立Google加入](https://studygolang.com/topics/13109)
+
+三、#公众号：MoeLove
+
+1. [写给小白的 kubectl 入门](https://mp.weixin.qq.com/s/7zHxV8j5tKy5M8O2-ZM48A)
+
+四、#公众号：学而思网校技术团队
+
+1. [学而思网校技术团队年度合辑|热门文章尽收眼底](https://mp.weixin.qq.com/s/Ct1UpNK6YxF2jJFPCrGJjQ)
+
+五、#公众号：k8s技术圈
+
+1. [一文搞定快速使用 Docker Compose 玩转 Traefik v2](https://mp.weixin.qq.com/s/7vBneUW2tM8s0D4dTwk5yA)
+
+六、#公众号：Gol招聘
+
+1. [加入米哈游，技术宅拯救世界](https://mp.weixin.qq.com/s/vQK4NE1v0nbqswrMDpfefQ)
+
+2. [Gopher牛年晚会来啦](https://mp.weixin.qq.com/s/JukOoQ4i286w2SKFc-EwOQ)
+
+七、#公众号：Kirito的技术分享
+
+1. [聊聊中间件开发](https://mp.weixin.qq.com/s/7uhs2Rv3tSv20C1woVCY4g)
+
+## GOCN每日新闻--2021-02-10
+1.Go 1.16 即将到来的函数：ReadDir 和 DirEntry https://mp.weixin.qq.com/s/fUizpO3brKPkd2dRrOJI0A
+
+2.Go 中进行阻塞分析 https://github.com/felixge/go-profiler-notes/blob/main/block.md
+
+3.基于设计的仓库安全开发 https://threedots.tech/post/repository-secure-by-design/
+
+4.tcpdog: 基于 eBPF 的 TCP 观测 https://github.com/mehrdadrad/tcpdog
+
+5.Go 中使用 RabbitMQ 客户端 https://qvault.io/2020/04/29/connecting-to-rabbitmq-in-golang/
+
+
+## gopherDaily--2021-02-10 
+- 1.详解Go锁剖析(block profiling) - https://github.com/felixge/go-profiler-notes/blob/main/block.md
+- 2.体验新泛型语法 - https://kylelemons.net/blog/2020/06/17/generics-test-drive/
+- 3.使用Go构建hotwire应用(区别于Client Side Rendering，介于CSR和Servier Side Rendering之间) - https://www.akmittal.dev/posts/hotwire-go/
+- 4.下一代函数调度程序Reactr，可嵌入Go应用程序中或作为独立的FaaS服务器运行，支持Go和WebAssembly - https://blog.suborbital.dev/introducing-reactr-the-next-generation-function-scheduler
+- 5.聊聊使用Go开发区块链 - https://www.welcometothejungle.com/en/articles/btc-interview-go-blockchain-golang
+- 6.如何向Go结构动态注入依赖 - https://itnext.io/golang-runtime-service-options-dependencies-1c23b4ed95ae
+- 7.使用Bazel轻松编写模糊测试 - https://opensource.googleblog.com/2021/02/writing-fuzz-tests-with-ease-using-bazel.html
+- 8.Open Policy Agent从CNCF毕业 - https://blog.openpolicyagent.org/open-policy-agent-graduates-in-the-cloud-native-computing-foundation-f00145202a99
+- 9.go-json: 高性能且兼容encoding/json的json编解码库 - https://github.com/goccy/go-json
+- 10.使用go webassembly扩展envoy proxy -  https://tufin.medium.com/extending-envoy-proxy-with-golang-webassembly-e51202809ba6
+- 11.tcpdog: 基于eBPF的TCP观察工具 - https://github.com/mehrdadrad/tcpdog
+- 12.通过设计确保存储库的安全：如何更好地睡眠而不担心安全漏洞 - https://threedots.tech/post/repository-secure-by-design/
+- 13.零依赖的终极fake数据生成器(for go) - https://github.com/jaswdr/faker
 
 ## go中文网每日资讯--2021-02-09
 一、#公众号：Go语言中文网
