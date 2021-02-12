@@ -7,6 +7,54 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-02-12
+
+一、#公众号：Go语言中文网
+
+1. [除夕夜，Russ Cox 宣布泛型提案被接受](https://mp.weixin.qq.com/s/1L5o1OdurO_7XgoVNj_8pw)
+
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-11)——Go泛型方案已被采纳](https://studygolang.com/topics/13119)
+
+三、#公众号：架构之家
+
+1. [微信技术总监：11亿日活的超大型系统架构之道！13页ppt详解!](https://mp.weixin.qq.com/s/3D2DHUzvHTKVaFqFDul5Iw)
+
+四、#公众号：后端早读课
+
+1. [树 Story —— 红黑树](https://mp.weixin.qq.com/s/0fryPMNIB_u_niKiJkOIwA)
+
+五、#公众号：k8s技术圈
+
+1. [通过 Traefik 使用 Kubernetes Service APIs 进行流量路由](https://mp.weixin.qq.com/s/xZoSBS_Qt6cNoPyw2oVFdA)
+## GOCN每日新闻--2021-02-12 
+
+1.Golang 汇编器快速上手指南 https://golang.org/doc/asm
+2.在 VS Code Go 扩展中启用 Gopls https://blog.golang.org/gopls-vscode-go
+
+2.Go 实现的 HDFS 客户端 https://github.com/colinmarc/hdfs
+
+3.使用 Go，html 和 javascript 快速构建动态 Web 应用程序的模板 https://github.com/adnaan/gomodest-template
+
+4.Go 实现的简历剪裁工具 Resume https://github.com/penguingovernor/go-resume
+
+
+
+## gopherDaily--2021-02-12
+- 1.官方文档：管理go module依赖 - https://tip.golang.org/doc/modules/managing-dependencies
+- 2.图形界面的Kubernetes Network Policy编辑工具 - https://editor.cilium.io/
+- 3.我为什么构建Litestream - https://litestream.io/blog/why-i-built-litestream/
+- 4.Doit数据库增加了对更改列类型的支持 - https://www.dolthub.com/blog/2021-02-10-introducing-type-changes/
+- 5.go-resume: 简历创建工具 - https://github.com/penguingovernor/go-resume
+- 6.Go播客：不恰当的语言提案 - https://changelog.com/gotime/166
+- 7.Gopher与Raspberry Pi 400 - https://changelog.com/posts/were-giving-away-mark-bates-raspberry-pi-400
+- 8.用于实现gin annotation的命令行工具 - https://github.com/1-st/gin-annotation
+- 9.Beej的网络编程指南 - https://beej.us/guide/bgnet/html/
+- 10.服务网格的零信任安全性 - https://thenewstack.io/zero-trust-security-with-service-mesh/
+- 11.k8s失败故事集锦 - https://k8s.af/
+- 12.Go项目布局：一个参考设计 - https://dev.to/royal_bhati/package-layout-for-a-go-web-app-4oea
 ## go中文网每日资讯--2021-02-11 
 一、#公众号：Go语言中文网
 
