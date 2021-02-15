@@ -7,6 +7,120 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-02-14 
+一、#公众号：Go语言中文网
+
+1. [Go语言爱好者周刊：第 82 期 — 情人节快乐](https://mp.weixin.qq.com/s/eMUctTKq1tg9JPSGNeghUw)
+
+2. [5个golang中易犯的错误](https://mp.weixin.qq.com/s/pc4TvGrkYc09UCdAFsq3Qw)
+
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-12)——官方文档：管理go module依赖](https://studygolang.com/topics/13122)
+
+三、#公众号： Go语言充电站
+
+1. [一个程序员是怎么获得第二收入的？](https://mp.weixin.qq.com/s/Dqjqe36i7pRkOvl6WgawKg)
+
+
+## gopherDaily--2021-02-14 
+- 1.Go 1.16中如何撤回(retract) 特定版本go module - https://golangtutorial.dev/tips/retract-go-module-versions/
+- 2.优化Go中的结构体尺寸（对齐/填充），实现更高效的内存布局 - https://itnext.io/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61
+- 3.以单件方式创建和获取数据库实例 - https://mp.weixin.qq.com/s/V1fl3Vhey0EdnYq0OwaSng
+- 4.基于Redis Cluster的分布式锁实现以互斥方式操作共享资 - https://mp.weixin.qq.com/s/vhhARqk0QT0sltJQMi_s7w
+- 5.wasmer 1.0: 一个Go WebAssembly运行时的实现 - https://github.com/wasmerio/wasmer-go
+- 6.油管视频：Go一小时入门指南 - https://www.youtube.com/watch?v=N0fIANJkwic&feature=youtu.be
+- 7.基于libp2p的命令行对等数据传输工具 - https://github.com/dennis-tra/pcp
+- 8.ntopng，InfluxDB和Grafana：创建仪表盘的分步指南 - https://www.ntop.org/ntop/ntopng-influxdb-and-grafana-a-step-by-step-guide-to-create-dashboards/
+- 9.全内存缓存的etcd v3客户端 - https://github.com/tailscale/tailetc
+- 10.如何使用docker本地安全扫描 - https://brianchristner.io/how-to-use-docker-scan/
+- 11.在Linux内核中发现一个隐藏了24年的bug - https://engineering.skroutz.gr/blog/uncovering-a-24-year-old-bug-in-the-linux-kernel/
+- 12.Go“圣经”读后感 - https://developer20.com/reviews/go-programming-language/
+
+## GoCN 每日新闻 (2021-02-14)
+
+1. GO 免杀初探 https://www.cnblogs.com/Xy--1/p/14399930.html
+
+2. Go 切片的泛型初体验 https://eli.thegreenplace.net/2021/generic-functions-on-slices-with-go-type-parameters
+
+3. Go 语言中时间轮的实现 https://www.luozhiyun.com/archives/444
+
+4. mdconv:　一款终端使用的 markdown 转换器,支持转为 HTML 和 PDF https://github.com/Palexer/mdconv
+
+5. kiara: 一个 Pub Sub 的抽象库,支持 Redis,NATS https://github.com/genkami/kiara
+
+
+## go中文网每日资讯--2021-02-13 
+一、#公众号：Go语言中文网
+
+1. [聊聊近期出版或将出版的几本 Go 图书](https://mp.weixin.qq.com/s/qmoGI34rPsWCmzSTtQJFFw)
+
+2. [64位平台下，Go 指针自身的大小为什么是8字节？](https://mp.weixin.qq.com/s/0n_VETR5WbouoUSU1EKr_g)
+
+3. [Go channel 的妙用](https://mp.weixin.qq.com/s/54jSUG_yfgx_T2-6L64VXA)
+
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-02-12)——官方文档：管理go module依赖](https://studygolang.com/topics/13122)
+
+三、#公众号：TonyBai
+
+1. [基于Redis Cluster的分布式锁实现以互斥方式操作共享资源](https://mp.weixin.qq.com/s/vhhARqk0QT0sltJQMi_s7w)
+
+四、Awesome Go Newsletter
+
+1. [ Issue 247 - Learn Go with Tests - TDD Anti-patterns](https://go.libhunt.com/newsletter/247)
+
+
+## GOCN每日新闻--2021-02-13 
+
+1.Golang sync.Cond 条件变量源码分析 https://www.cyhone.com/articles/golang-sync-cond/
+
+2.Go 工程化 (一) 架构整洁之道阅读笔记 https://lailin.xyz/post/go-training-week4-clean-arch.html
+
+3.Go embed 简明教程 https://colobu.com/2021/01/17/go-embed-tutorial/
+
+4.Golang 汇编器快速上手指南 https://mp.weixin.qq.com/s/ibdEHnAdC51e25ofAQ-uCA
+
+5.Golang WaitGroup 原理深度剖析 https://mp.weixin.qq.com/s/CkSd2aldYaoLbd-IKhkpWg
+
+
+
+
+## gopherDaily--2021-02-13
+1.数据库中的buffer池是如何工作的：一个Go示范实现 - https://brunocalza.me/how-buffer-pool-works-an-implementation-in-go/
+
+2.如何使用Go将文本转化为图像 - https://johnpili.com/generate-text-to-image-in-go/
+
+3.Go内幕：切片的不变性和内存布局 - https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/
+
+4.GoLand 2021.1 EAP 3发布，支持go 1.16的go:embed - https://blog.jetbrains.com/go/2021/02/12/goland-2021-1-eap-3/
+
+5.Go GC Pacer重设计的草案 - https://github.com/golang/go/issues/44167
+
+6.一种测试Web应用程序的简单方法: 使用K6工具 - https://webdevstation.com/posts/an-easy-way-to-loadtest-your-web-apps/
+
+7.使用“Let’s Encrypt”获取安全的HTTPS隧道 - https://inlets.dev/blog/2021/02/11/secure-letsencrypt-tunnel.html
+
+8.rqlite发布5.10.0后的性能变化 - https://www.philipotoole.com/rqlite-5-10-0-released-comparing-its-disk-usage-to-5-6-0/
+
+9.使用CockroachDB和gorm构建Go应用 - https://www.cockroachlabs.com/docs/v20.2/build-a-go-app-with-cockroachdb-gorm
+
+10.为什么Ruby 3没有更快？- https://www.fastruby.io/blog/ruby/performance/why-wasnt-ruby-3-faster.html
+
+11.Xor过滤器：比Bloom过滤器更快更小 - https://lemire.me/blog/2019/12/19/xor-filters-faster-and-smaller-than-bloom-filters/
+
+12.cloudflare：将rocksdb的内存分配器切换到tcmalloc后的效果 - https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use/
+
+13.Go图像抖动算法库 - https://github.com/makeworld-the-better-one/dither
+
+14.linux内存管理FAQ - http://landley.net/writing/memory-faq.txt
+
+
+
 ## go中文网每日资讯--2021-02-12
 
 一、#公众号：Go语言中文网
@@ -29,6 +143,7 @@
 五、#公众号：k8s技术圈
 
 1. [通过 Traefik 使用 Kubernetes Service APIs 进行流量路由](https://mp.weixin.qq.com/s/xZoSBS_Qt6cNoPyw2oVFdA)
+
 ## GOCN每日新闻--2021-02-12 
 
 1.Golang 汇编器快速上手指南 https://golang.org/doc/asm
