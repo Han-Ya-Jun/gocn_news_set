@@ -8,6 +8,54 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2021-02-15 
+
+
+一、#公众号：Go语言中文网
+
+1.[我与sync.Once的爱恨纠缠](https://mp.weixin.qq.com/s/7IrUm-jxIlgmOLe9Tao4DA)
+
+2.[深入剖析 defer 原理篇 —— 函数调用的原理？](https://mp.weixin.qq.com/s/Tl67RsMVkaRIbmKCl0z-Ow)
+
+3.[K8s中Pod的服务发现](https://mp.weixin.qq.com/s/tjKSq79nrzOt9mLX24dblQ)
+
+二、#公众号：亚军进化史
+
+1.[Go技术日报(2021-02-14)——一个程序员是怎么获得第二收入的？ - Go语言中文网 - Golang中文社区](https://studygolang.com/topics/13132)
+
+三、#公众号：polarisxu
+
+1.[Rust 的第一印象](https://polarisxu.studygolang.com/posts/rust/rust-first-impression/)
+
+## GOCN每日新闻--2021-02-15 
+1.Go 结构体内存优化指南 https://itnext.io/structure-size-optimization-in-golang-alignment-padding-more-effective-memory-layout-linters-fffdcba27c61
+
+2.Go 1.16 中的 module retract 特性 https://golangtutorial.dev/tips/retract-go-module-versions/
+
+3.用 Go 带你了解缓冲池的工作原理 https://brunocalza.me/how-buffer-pool-works-an-implementation-in-go/
+
+4.BoltDB 作者讲述他为何要开发 Litestream https://litestream.io/blog/why-i-built-litestream/
+
+5.Go 官方最新的依赖管理指南 https://golang.org/doc/modules/managing-dependencies
+ 
+## gopherDaily--2021-02-15 
+- 1.深入理解Go测试覆盖率 - https://eleni.blog/2021/01/24/deep-diving-in-the-go-coverage-profile/
+- 2.深入了解Go的基准测试 - https://medium.com/better-programming/we-measure-the-power-of-cars-computers-and-cellphones-but-what-about-code-91ed5583f298
+- 3.Go微服务项目的结构布局 - https://gochronicles.com/project-structure/
+- 4.在controller-runtime和client-go中进行速率限制 - https://danielmangum.com/posts/controller-runtime-client-go-rate-limiting/
+- 5.对gorm2的opentracing支持 - https://github.com/go-gorm/opentracing
+- 6.使用Go开发azure函数(part1) - https://www.hildeberto.com/2021/01/azure-function-golang.html
+- 7.使用Goroutine并行搜索价格 - https://www.hildeberto.com/2021/02/golang-sync-goroutine.html
+- 8.Terratest：一个可以轻松地为基础结构代码编写自动化测试的Go库 - https://github.com/gruntwork-io/terratest
+- 9.在Windows中使用Go语言基于Ebiten库创建绘画游戏 - https://shores.dev/paint-game-in-golang/
+- 10.作为软件工程师必须要知道的有关kafka的那些事儿 - https://levelup.gitconnected.com/kafka-for-engineers-975feaea6067
+- 11.iptables：Kubernetes服务如何将流量定向到Pod - https://dustinspecker.com/posts/iptables-how-kubernetes-services-direct-traffic-to-pods/
+- 12.Julia 1.6: 自Julia 1.0起都发生了什么变化？ - https://www.oxinabox.net/2021/02/13/Julia-1.6-what-has-changed-since-1.0.html
+- 13.图解函数语言编程 - https://david-peter.de/cube-composer/
+- 14.我的vim Go开发环境 - https://philo.top/2021/02/14/golangvimdev/
+- 15.Go实现的源IP地址过滤器 - https://www.refactoredtelegram.net/2021/01/a-simple-source-ip-address-filter-in-go/
+- 16.受Ruby Rails启发的Go logging - https://aaronvb.com/articles/rails-inspired-logging-in-go
+- 17.可信编程 – 华为引领Rust语言开发的实践和愿景 - https://trusted-programming.github.io/2021-02-07/index-cn.html
 ## go中文网每日资讯--2021-02-14 
 一、#公众号：Go语言中文网
 
