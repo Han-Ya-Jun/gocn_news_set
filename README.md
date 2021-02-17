@@ -6,7 +6,56 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-02-16 
 
+
+一、#公众号：Go语言中文网
+
+1.[Go 语言标准库中 atomic.Value 的前世今生](https://mp.weixin.qq.com/s/9aNfjX2UMQKLLgSW037_uQ)
+
+2.[解密 defer 原理，究竟背着程序猿做了多少事情？](https://mp.weixin.qq.com/s/3-32J0bs2_PbQ74ywMymnw)
+
+3.[搭一个K8s集群](https://mp.weixin.qq.com/s/-mZDL5CRe6Ub7HDuPn7eEw)
+
+二、#公众号：亚军进化史
+
+1.[Go技术日报(2021-02-15)——Rust 的第一印象](https://mp.weixin.qq.com/s/Tk93E-bkOx8ByhMjxWk1bg)
+
+三、#公众号：Go招聘
+
+1.[golang 面试题：能说说 uintptr 和 unsafe.Pointer的区别吗？](https://mp.weixin.qq.com/s/zY-sqds-DhbdqzKq4pAupg)
+
+四、#公众号：分布式实验室
+
+1.[Kubernetes CRD开发实践](https://mp.weixin.qq.com/s/AdSaTEt_l8eePlH0q_jNZg)
+
+五、#公众号：捡田螺的小男孩
+
+1.[MySQL索引底层：B+树详解](https://mp.weixin.qq.com/s/t7l76dVQdBecc-y4EdNTLg)
+
+
+## GOCN每日新闻--2021-02-16 
+1.在浏览器中部署 Go HTTP 服务器 https://github.com/nlepage/go-wasm-http-server
+
+2.在 Go 中开发可用于生产的 REST API https://tutorialedge.net/courses/go-rest-api-course/
+
+3.内联函数和编译器对 Go 代码的优化 https://mp.weixin.qq.com/s/Or4FmVAf9nvMQzPct87Ecw
+
+4.使用 Go 语言编写的使用 K6 工具进行 Web 应用程序负载测试的简便方法 https://webdevstation.com/posts/an-easy-way-to-loadtest-your-web-apps/
+
+5.pdfcpu：Go PDF 处理器 https://github.com/pdfcpu/pdfcpu
+
+## gopherDaily--2021-02-16
+- 1.Go项目结构布局详解 - https://manfred.life/golang-project-layout
+- 2.Kubernetes的Pod如何获得一个IP地址 - https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/
+- 3.油管视频：以图形化方式理解Kubernetes - https://www.youtube.com/watch?v=9dyiSiyET3I&feature=youtu.be
+- 4.终端应用的自动暗模式 - https://arslan.io/2021/02/15/automatic-dark-mode-for-terminal-applications/
+- 5.油管视频：Go语法教程 by Ardan Labs - https://www.youtube.com/playlist?list=PLADD_vxzPcZATO4tDU_nHApxTEJyxskiS
+- 6.基于redis构建无服务go api - https://medium.com/upstash/serverless-golang-api-with-redis-9e7af456dc82
+- 7.mdconv: markdown格式的命令行转换工具，支持将md格式转换为pdf或html - https://github.com/Palexer/mdconv
+- 8.signoz: 开源的可观察性平台 - https://github.com/SigNoz/signoz
+- 9.用Mocks解释Go的接口 - https://bencane.com/2021/02/15/golangs-interfaces-explained-with-mocks/
+- 10.使用tinygo编译目标为Gameboy Advance ROM的应用 - https://remyhax.xyz/posts/gba-blog/
 
 ## go中文网每日资讯--2021-02-15 
 
