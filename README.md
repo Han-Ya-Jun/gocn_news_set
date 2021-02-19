@@ -80,18 +80,18 @@
 5.  [supervisor](https://www.yuque.com/wegoer/set/supervisor)
 
 ### 面试问题
-• channel 发送和接收元素的本质是什么
-• channel 在什么情况下会引起资源泄漏
-• channel 底层的数据结构是什么
-• channel 有哪些应用
-• 什么是 CSP
-• 从 channel 接收数据的过程是怎样的
-• 从一个关闭的 channel 仍然能读出数据吗
-• 关于 channel 的 happened-before 有哪些
-• 关闭一个 channel 的过程是怎样的
-• 向 channel 发送数据的过程是怎样的
-• 如何优雅地关闭 channel
-• 操作 channel 的情况总结
+1. channel 发送和接收元素的本质是什么
+2. channel 在什么情况下会引起资源泄漏
+3. channel 底层的数据结构是什么
+4. channel 有哪些应用
+5. 什么是 CSP
+6. 从 channel 接收数据的过程是怎样的
+7. 从一个关闭的 channel 仍然能读出数据吗
+8. 关于 channel 的 happened-before 有哪些
+9. 关闭一个 channel 的过程是怎样的
+10. 向 channel 发送数据的过程是怎样的
+11. 如何优雅地关闭 channel
+12. 操作 channel 的情况总结
 ### 每日算法
 lc891 子序列宽度之和
 
