@@ -6,6 +6,218 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+
+## go中文网每日资讯--2021-02-19 
+
+
+一、Go语言中文网
+
+1. [Go语言中文网牛年春晚回放来咯！！！](https://mp.weixin.qq.com/s/xxbn0mXyJHIse3AAFnupXA)
+
+2. [Go招聘：加入米哈游，技术宅拯救世界](https://mp.weixin.qq.com/s/gx9ZhmVPdfOqGpPUSWeEJQ)
+
+3. [你真的了解 sync.Mutex吗](https://mp.weixin.qq.com/s/lGRCaR9z4xlpU5f_ezkhzw)
+
+二、MoeLove
+
+1. [从Go的二进制文件中获取其依赖的模块信息](https://mp.weixin.qq.com/s/f2ojUG1bMQo-es6jmuX96w)
+
+三、码农桃花源
+
+1. [那些年我们一起追过的大佬](https://mp.weixin.qq.com/s/x2W8Rf1e-a9dSYE53Lu1DA)
+
+四、脑子进煎鱼了
+
+1. [Go1.16 新特性：Go mod 的后悔药，仅需这一招](https://mp.weixin.qq.com/s/0g89yj9sc1oIz9kS9ZIAEA)
+
+五、奇伢云存储
+
+1. [Go 最新资讯：Go 1.16 正式发布，支持 macOS ARM64 架构](https://mp.weixin.qq.com/s/Ezg6yPuVSdu9j6B7Hs0m2A)
+
+六、多颗糖
+
+1. [条分缕析 Raft 算法(续)：日志压缩和性能优化](https://mp.weixin.qq.com/s/Gck3dIfQ7VH_wd6kyNXarw)
+
+七、polarisxu
+
+1. [Go1.17 快报：将移除 GOPATH](https://mp.weixin.qq.com/s/Lwt5c9Z5TD7TAg7-Yt6wAA)
+
+## GOCN每日新闻--2021-02-19
+1. Go1.16 新功能：Go Module 支持版本撤回 https://gocn.vip/topics/11667
+2. 从 Go 的二进制文件中获取其依赖的模块信息 https://juejin.cn/post/6930762439201914893
+3. 在 2 分钟内使用 Go 复制 100 万个 redis 键 https://medium.com/amboss/copy-redis-keys-in-minutes-with-golang-3c06f3cd3af8
+4. 两个简单的步骤帮 web 服务创建 Swagger 文档 https://levelup.gitconnected.com/creating-a-swagger-documented-go-web-server-in-two-easy-steps-59f1118bd247
+5. 使用 go kit 创建微服务 https://dev.to/eminetto/microservices-in-go-using-the-go-kit-jjf
+
+
+## gopherDaily--2021-02-19
+- 1.使用Go六年来犯过的那些错误 - https://henvic.dev/posts/my-go-mistakes/
+- 2.如何使用COBRA来实现简易的Go CLI命令行选项 - https://ethicalhackingguru.com/how-i-use-cobra-for-easy-golang-cli-flags/
+- 3.在Go的世界里，即使不用的东西，也要付出代价 - https://notes.volution.ro/v1/2021/02/notes/378ae6f6/
+- 4.在Go中阻止SQL注入以及其他安全问题 - https://blog.sqreen.com/preventing-sql-injections-in-go-and-other-vulnerabilities/
+- 5.如何使用Go连接到以太坊网络 - https://www.quiknode.io/guides/web3-sdks/how-to-connect-to-ethereum-network-using-go
+- 6.LakeFS的存储设计 - https://lakefs.io/concrete-graveler-committing-data-to-pebbledb-sstables/
+- 7.Go机器学习框架的性能基准测试对比 - https://github.com/nikolaydubina/go-ml-benchmarks
+- 8.如何在Go中使用MQTT - https://levelup.gitconnected.com/how-to-use-mqtt-with-go-89c617915774
+- 9.Gitlab-Runner的工作原理 - https://medium.com/scum-gazeta/explaining-gitlab-runner-research-12cbfe9938cd
+- 10.io_uring与epoll性能对比 - https://github.com/axboe/liburing/issues/189
+- 11.在Go中何时以及如何使用iota - https://www.gopherguides.com/articles/how-to-use-iota-in-golang
+- 12.Tracee：Linux的运行时安全和取证工具。它使用Linux eBPF技术在运行时跟踪系统和应用程序，并分析收集的事件以检测可疑的行为模式 - https://github.com/aquasecurity/tracee
+- 13.Go播客：阅读文档的艺术 - https://changelog.com/gotime/167
+
+
+## 码农桃花源--2021-02-19
+### 文章分享
+1.  [interview questions](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
+
+2.  [那些年一起追过的大佬 大佬文章合集](https://mp.weixin.qq.com/s/x2W8Rf1e-a9dSYE53Lu1DA)
+
+3.  [go mod](https://mp.weixin.qq.com/s/0g89yj9sc1oIz9kS9ZIAEA)
+
+4.  [复习 饶大的interface十问](https://mp.weixin.qq.com/s/EbxkBokYBajkCR-MazL0ZA)
+
+5.  [supervisor](https://www.yuque.com/wegoer/set/supervisor)
+
+### 面试问题
+• channel 发送和接收元素的本质是什么
+• channel 在什么情况下会引起资源泄漏
+• channel 底层的数据结构是什么
+• channel 有哪些应用
+• 什么是 CSP
+• 从 channel 接收数据的过程是怎样的
+• 从一个关闭的 channel 仍然能读出数据吗
+• 关于 channel 的 happened-before 有哪些
+• 关闭一个 channel 的过程是怎样的
+• 向 channel 发送数据的过程是怎样的
+• 如何优雅地关闭 channel
+• 操作 channel 的情况总结
+### 每日算法
+lc891 子序列宽度之和
+
+## go中文网每日资讯--2021-02-18 
+
+
+一、#公众号：Go语言中文网
+
+1.[Go：gops 如何与 runtime 交互？](https://mp.weixin.qq.com/s/xyG7KYb72qIbmdEZep35Sg)
+
+2.[Go：以单件方式创建和获取数据库实例](https://mp.weixin.qq.com/s/iwCfAHBWXJwVq6uZrEkv1g)
+
+3.[肝了一上午的Golang之Plan9入门](https://mp.weixin.qq.com/s/9bn0foYfqJPtNdRI0NIleQ)
+
+二、#公众号：微服务实践
+
+1.[Go 大数据生态迎来重要产品 CDS](https://mp.weixin.qq.com/s/3sjY-rjdFgsKscD6i7QOIA)
+
+三、#公众号：薯条的自我修养
+
+1.[如何提高代码的可读性 学习笔记](https://mp.weixin.qq.com/s/LW0osX6gvtKHf5Vqnv9u6w)
+
+四、#公众号：远赴星辰
+
+1.[Redis 多线程网络模型全面揭秘](https://mp.weixin.qq.com/s/pm2NsPzTO4lJQfGUC4-sJQ)
+
+五、#公众号：k8s技术圈
+
+1.[Go 1.16 使用 Embed 嵌入静态资源-视频版](https://mp.weixin.qq.com/s/c86IHWh5iJECjl1DZ9vLsw)
+
+六、#公众号：Golang梦工厂
+
+1.[源码剖析sync.cond(条件变量的实现机制）](https://mp.weixin.qq.com/s/szSxatDakPQMUA8Vm9u3qQ)
+
+## GOCN每日新闻--2021-02-18 
+1.微服务架构中的延迟任务 https://itnext.io/deferred-tasks-in-a-microservice-architecture-8e7273089ee7
+
+2.如何在 Go 中构建一个线程安全的队列 https://dev.to/har130798/how-to-build-a-thread-safe-queue-in-go-lbh 
+3.手撸 Go 基本数据结构与算法哈希表 https://segmentfault.com/a/1190000039219752
+
+4.如何在 Go 中使用 MQTT https://levelup.gitconnected.com/how-to-use-mqtt-with-go-89c617915774
+
+5.一个高效、正确的图像抖动处理类库 https://github.com/makeworld-the-better-one/dither
+
+## gopherDaily--2021-02-18
+- 1.Go 1.16版本正式发布! - https://blog.golang.org/go1.16
+- 2.油管视频：五分钟详解Go 1.16 embed包 - https://www.youtube.com/watch?v=mBNIZHHi5Rg&feature=youtu.be
+- 3.经典旧文：Go内存压舱石：我是如何学会不再担心和爱上这堆东西的？ - https://blog.twitch.tv/en/2019/04/10/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2/
+- 4.infracost: Terraform项目的云成本估算工具 - https://github.com/infracost/infracost
+- 5.使用Ego轻松构建机密Go应用(基于Intel SGX: 安全扩展指令集) - https://github.com/edgelesssys/ego
+- 6.为什么Go编程语言现在会流行？- https://techaffinity.com/blog/why-use-go-for-you-project/
+- 7.最佳Go书籍列表 - https://topminisite.com/blog/best-golang-book-to-learn
+- 8.微服务架构中的延迟任务(deferred task) - https://itnext.io/deferred-tasks-in-a-microservice-architecture-8e7273089ee7
+- 9.通过多容器pod(边车模式)扩展k8s上的应用 - https://learnk8s.io/sidecar-containers-patterns
+- 10.git submodules操作详解 - https://chrisjean.com/git-submodules-adding-using-removing-and-updating/
+- 11.将代码转换为可定制的漂亮图片 - https://ray.so/
+- 12.WatchDog：揭露开展了两年的加密劫持活动 - https://unit42.paloaltonetworks.com/watchdog-cryptojacking/
+- 13.使用TinyGo将2004年的孩之宝Millennium Falcon套装转换为蓝牙播放器/音频可视化器 - https://www.hackster.io/alankrantas/the-falcon-audio-visualizer-a-tinygo-project-260360
+- 14.orion: 下一代自动测试工具 - https://ivan-corrales-solera.medium.com/orion-a-next-generation-automation-testing-tool-4ea53eeb2517
+- 15.在Go应用程序中使用“103提早提示”状态代码 - https://dunglas.fr/2021/02/using-the-103-early-hints-status-code-in-go-applications/
+
+
+## go中文网每日资讯--2021-02-17
+
+一、#公众号：Go语言中文网
+
+1.[来了来了！Go1.16 重磅发布](https://mp.weixin.qq.com/s/eqquyrWN0CqEzmwXquRlAA)
+
+2.[Go官博：正式提案将泛型加入Go](https://mp.weixin.qq.com/s/TXUMh5nfCNLaTRIifnMLDA)
+
+二、#公众号：亚军进化史
+
+1.[Go技术日报(2021-02-16)——解密 defer 原理，究竟背着程序猿做了多少事情？](https://mp.weixin.qq.com/s/LURYMXsBNQa6Ccd7MNucIw)
+
+三、#公众号：Go招聘
+
+1.[Go语言中文网牛年春晚回放来咯！！！](https://mp.weixin.qq.com/s/IWsv8__Xj1aj-XrzLuTrBg)
+
+四、#公众号：脑子进煎鱼了
+
+1.[速报：Go1.16 正式发布，新版本特性详解合集](https://mp.weixin.qq.com/s/DwmYIhuy45u7pmo8PwIgoQ)
+
+五、#公众号：GoOfficialBlog
+
+1.[Go 1.16 is released, Apple silicon M1 可以放心买啦](https://mp.weixin.qq.com/s/-dfC4YuIHAoYWxgKErMyqQ)
+
+六、#公众号：后端早读课
+
+1.[树 Story —— 多路查找树](https://mp.weixin.qq.com/s/QJ9l233XMQsiGS3ySRIcxg)
+
+七、#公众号：k8s技术圈
+
+1.[Kubernetes 应用性能分析工具 - Kubectl Flame](https://mp.weixin.qq.com/s/N26J78uk_cjxyqqqsNignA)
+
+
+## GOCN每日新闻--2021-02-17
+1.Go 1.16 正式发布 https://blog.golang.org/go1.16
+
+2.以层的方式而不是组的方式进行包管理 https://mp.weixin.qq.com/s/l0fvcMMpBmMo0WLqHhwmjQ
+
+3.使用 go-kit 构建微服务 https://eltonminetto.dev/en/post/2021-02-06-microservices-gokit/
+
+4.signoz: 开源 Datadog 替代品 https://github.com/SigNoz/signoz
+
+5.GopherCon TW 2020 https://space.bilibili.com/756684/channel/detail?cid=169470
+
+
+
+## gopherDaily--2021-02-17 
+
+- 1.Go可执行文件大小比较：从Go 1.7.6到Go 1.16rc1 - https://itnext.io/size-comparison-of-go-executables-9b4ae2aaebb5
+- 2.在Go 1.16可执行文件中嵌入一个javascript web站点 - https://blog.lawrencejones.dev/golang-embed/
+- 3.使用go kit实现Go微服务 - https://eltonminetto.dev/en/post/2021-02-06-microservices-gokit/
+- 4.在Go中实现和使用文件锁 - https://magdy.dev/blog/2021/02/07/file-locking-in-go-part-i/
+- 5.使用Go context和WaitGroup优雅处理goroutine - https://justbartek.ca/p/golang-context-wg-go-routines/
+- 6.油管视频：Service Mesh（和Istio）在多kubernetes集群网络中的应用方法 - https://www.youtube.com/watch?v=9kl7CR8MH-w
+- 7.Coil v2：提供原生网络性能的k8s cni网络插件 - https://blog.kintone.io/entry/coilv2
+- 8.kubernetes无服务框架大比较 - https://www.vshn.ch/en/blog/a-very-quick-comparison-of-kubernetes-serverless-frameworks
+- 9.OpenTelemetry规范发布1.0 - https://medium.com/opentelemetry/opentelemetry-specification-v1-0-0-tracing-edition-72dd08936978
+- 10.esme: 通过json配置生成一个模拟rest服务 - https://github.com/stkr89/esme
+- 11.以太坊: 为什么无状态如此重要 - https://dankradfeist.de/ethereum/2021/02/14/why-stateless.html
+- 12.开源技能比专有技能更有价值 - https://searchapparchitecture.techtarget.com/news/252496117/Survey-Open-source-skills-more-valued-than-proprietary-ones
+- 13.解析微服务 - https://thenewstack.io/primer-microservices-explained/
+
+
+
 ## go中文网每日资讯--2021-02-16 
 
 
