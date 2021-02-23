@@ -64,6 +64,33 @@
 - 8.Kubernetes 原生 CI/CD 构建框架 Argo 详解！ - https://mp.weixin.qq.com/s/DErVsooKplJf1zDPvGvkfQ
 - 9.区块链详解 - https://mp.weixin.qq.com/s/JxJio0cd_I1Q24KKzR6-PA
 - 10.自定义gomock matcher加强go 单元测试 - https://dev.to/techschoolguru/how-to-write-stronger-unit-tests-with-a-custom-go-mock-matcher-55pc
+
+
+## 码农桃花源--2021-02-20
+### 文章分享
+1 [微服务系统的服务发现机制](https://segmentfault.com/a/1190000004960668?utm_source=sf-related)
+2 [微服务设计学习之服务发现](https://segmentfault.com/a/1190000021132907?utm_source=sf-related)
+3 [看图学etcd](https://segmentfault.com/a/1190000020742981?utm_source=sf-related)
+4 [复习：go语言之interface](https://draveness.me/golang/docs/part2-foundation/ch04-basic/golang-interface/)
+### 面试问题
+1 redis 的过期策略都有哪些？内存淘汰机制都有哪些？手写一下LRU代码实现？
+
+2 redis 的并发竞争问题是什么？如何解决这个问题？了解 Redis 事务的 CAS 方案吗？
+
+3 HTTP的keep-alive是干什么的？
+
+4 HTTP2相对于HTTP1.x有什么优势和特点？
+
+5 为什么常说 TCP 有粘包和拆包的问题而不说 UDP ？
+
+6 介绍一下Linux 中进程的几种状态
+
+7 针对网站访问慢，怎么去排查？怎么去解决？
+
+### 每日算法
+lc381 设计数据结构：O(1)时间插入、删除、获取随机元素。
+
+
 ## go中文网每日资讯--2021-02-20 
 
 一、Go语言中文网
