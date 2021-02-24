@@ -7,6 +7,105 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-02-23
+
+一、Go语言中文网
+
+1. [Go 高效截取字符串的一些思考](https://mp.weixin.qq.com/s/WtZ93UrpMiEZDSK80CBrWQ)
+
+2. [一文完全掌握 Go math/rand](https://mp.weixin.qq.com/s/vufx-L2CkqXa9RTC45wpCg)
+
+3. [Go 语言实战：命令行程序（1）](https://mp.weixin.qq.com/s/SwDW1ILmsILnC6m9lOEa_A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-22)——Go 工程化(三) 依赖注入框架 wire](https://mp.weixin.qq.com/s/AAHtIn0kBDnbz3BXPGyGNQ)
+
+三、脑子进煎鱼了
+
+1. [灵魂拷问 Go 语言：这个变量到底分配到哪里了？](https://mp.weixin.qq.com/s/mFfza7DayFqsiS93Ep15BA)
+
+四、Go 夜读
+
+1. [【本周四 19 点预告】如何让业务应用享受云原生的红利？](https://mp.weixin.qq.com/s/rPMnzmULr8R2eNT0MwsrGw)
+
+五、多颗糖
+
+1. [【MIT 6.824】学习笔记 1： MapReduce](https://mp.weixin.qq.com/s/I0PBo_O8sl18O5cgMvQPYA)
+
+六、真没什么逻辑
+
+1. [如何保证数据中心服务器的时间一致 · OSDI 2020](https://mp.weixin.qq.com/s/JmAF0ZxZ7c59KDlC3uyHJg)
+
+七、阿里云云栖号
+
+1. [高可用的本质](https://mp.weixin.qq.com/s/jTIk6XjsCEWTIgArJ3IpTg)
+
+八、Go招聘
+
+1. [行业黑马直聘golang开发工程师啦，全额五险一金等你来！](https://mp.weixin.qq.com/s/c6NB3Klw6XPdeUK5VTgsKg)
+
+2. [安全企业竹云科技来寻Gopher了](https://mp.weixin.qq.com/s/_qWxAfI32gsHj30s1uncUA)
+
+九、polarisxu
+
+1. [从 go-chi 框架撤回所有主版本聊 Go1.16 的新特性](https://mp.weixin.qq.com/s/mBJ3hQ6oR1V9YtdXpkTnow)
+
+## GOCN每日新闻--2021-02-23
+1. Kubernetes Kubernetes vs Docker:了解 2021 年的容器 https://gocn.vip/topics/11691
+
+2.构建微服务的十大 Golang 框架和库 https://mp.weixin.qq.com/s/tPnb0QrLEIZnLyPcMX4EGw
+
+3.Go 不是一种简单的编程语言 https://www.arp242.net/go-easy.html
+
+4.灵魂拷问 Go 语言：这个变量到底分配到哪里了？ https://mp.weixin.qq.com/s/mFfza7DayFqsiS93Ep15BA
+
+5.使用 Go 将音频文件添加至彩铃 https://learn.vonage.com/blog/2021/01/14/play-an-audio-file-into-a-voice-call-with-go
+
+
+## gopherDaily--2021-02-23
+1.观点：Go并不是一门容易的语言 - https://www.arp242.net/go-easy.html
+
+2.REST API设计的最佳实践 - https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/
+
+3.mubeng: 高性能代理检查器和IP旋转器 - https://github.com/kitabisa/mubeng
+
+4.IPCDump: Guardicore用于Linux IPC检查的新开源工具，基于gobpf - https://www.guardicore.com/labs/ipcdump-guardicores-new-open-source-tool-for-linux-ipc-inspection/
+
+5.Calico项目：将k8s安全作为SaaS - https://thenewstack.io/project-calico-kubernetes-security-as-saas/
+
+6.驯服CORS和单页应用 - https://vernonkeenan.com/index.php/2021/02/22/i-had-a-go-cors-and-single-page-app-ordeal-so-you-dont-have-to/
+
+7.使用mozilla rr工具调试Go测试 - http://choly.ca/post/debugging-go-with-rr/
+
+8.gRPC与Go教程 - https://pmihaylov.com/grpc-with-go-crash-course/
+
+9.深度学习如何选择激活函数 - https://machinelearningmastery.com/choose-an-activation-function-for-deep-learning/
+
+11.费曼物理学讲义 - https://www.feynmanlectures.caltech.edu/I_toc.html
+## 码农桃花源--2021-02-23
+### 文章分享
+1.  [复习 GPM](https://mp.weixin.qq.com/s/JOjUWp15JbEu54VJHY8i_A)
+
+2.  [峰云阅读书单](http://xiaorui.cc/archives/3342)
+
+3.  [grpc](http://xiaorui.cc/archives/7013)
+
+4.  [如何设计一个云原生应用的架构](https://strikefreedom.top/how-to-design-an-architecture-of-cloud-native-application)
+
+5.  [四种部署方式](https://www.yuque.com/wuguoguoya/iq0d3v/yusa4i)
+
+### 面试问题
+1. context 如何被取消
+
+2. context 是什么
+
+3. context 有什么作用
+
+4. context.Value 的查找过程是怎样的
+### 每日算法
+lc44 通配符匹配
+
 ## go中文网每日资讯--2021-02-22
 
 一、#公众号：Go语言中文网
