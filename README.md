@@ -7,6 +7,97 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-02-24 
+
+一、Go语言中文网
+
+1. [滴滴：如何提高代码的可读性，以 Go 为例！](https://mp.weixin.qq.com/s/FUOUEWOFr-NMJkqZHHengw)
+
+2. [为什么要有字节序？用 Go 解释下](https://mp.weixin.qq.com/s/ZBE5JDPyHuIGRScSfQhO1A)
+
+3. [Go 语言实战：命令行程序（2）](https://mp.weixin.qq.com/s/CLtKN25UFVmeWKh6ULDq8w)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-23)——从 go-chi 框架撤回所有主版本聊 Go1.16 的新特性](https://mp.weixin.qq.com/s/HqVtuWehRkykF-g4Kw-VOQ)
+
+三、Go招聘
+
+1. [成都招聘 Go 开发工程师的真不少](https://mp.weixin.qq.com/s/8kU7UlwiDh0sc4_HAdXLIQ)
+
+四、云加社区
+
+1. [从bug中学习：六大开源项目告诉你go并发编程的那些坑](https://mp.weixin.qq.com/s/PmUlFFhf6taeqveLtbHJNQ)
+
+五、k8s技术圈
+
+1. [下一代镜像构建工具 Buildkit 简介](https://mp.weixin.qq.com/s/Y961wEqbXa9zavski-rWLg)
+
+2. [高级Go研发工程师 - 头条医疗部门](https://mp.weixin.qq.com/s/pzhE3PuK8pOa_N_5yEjrwQ)
+
+六、polarisxu
+
+1. [克制挺难的](https://mp.weixin.qq.com/s/Dfclabvj-sea3dMurKzF5w)
+
+七、腾讯技术工程
+
+1. [​网络 IO 演变发展过程和模型介绍](https://mp.weixin.qq.com/s/EDzFOo3gcivOe_RgipkTkQ)
+
+八、xueyuanjun
+
+1. [Go 函数式编程篇（四）：通过高阶函数实现装饰器模式](https://mp.weixin.qq.com/s/WacP4-wvX1zuocDPBaCx6A)
+
+九、FreeWheel
+
+1. [技术天地 | 中台技术解析之 – FreeWheel核心业务团队的测试实践](https://mp.weixin.qq.com/s/i922PtGNs-qd7Er9ztYyzw)
+
+## GOCN每日新闻--2021-02-24 
+1.TiDB 条分缕析 Raft 算法 https://gocn.vip/topics/11698
+
+2.Go 高效截取字符串的一些思考 https://mp.weixin.qq.com/s/WtZ93UrpMiEZDSK80CBrWQ
+
+3.什么是大端序和小端序，为什么要有字节序 https://mp.weixin.qq.com/s/ri2tt4nvEJub-wEsh0WPPA
+
+4.从 go-chi 框架撤回所有主版本聊 Go1.16 的新特性 https://mp.weixin.qq.com/s/mBJ3hQ6oR1V9YtdXpkTnow
+
+5.Go 工程化 依赖注入框架 wire https://lailin.xyz/post/go-training-week4-wire.html
+
+## gopherDaily--2021-02-24
+- 1.新提案：Go 1.17在go test框架中原生增加对fuzz test的支持 - https://github.com/golang/go/issues/44551
+- 2.在Kubernetes上快速开发Go微服务 - https://blog.getambassador.io/go-kubernetes-rapidly-developing-golang-microservices-bfe36cfb5893
+- 3.从C#转到Go进行后端开发 - https://aluma.io/resources/blog/switching-from-c-to-go-for-backend-development
+- 4.利用go 1.16 embed特性实现单文件web应用 - https://philidor.dev/blog/go-embed-usecase/
+- 5.go-kafka客户端使用入门 -  https://darkodjalevski.me/posts/go-client-for-apache-kafka/
+- 6.jackal: 支持xmpp的即时消息server - https://github.com/ortuman/jackal
+- 7.Go发布/订阅指南 - https://www.ably.io/blog/pubsub-golang
+- 8.你应该为企业级应用选择什么架构 - https://kodytechnolab.com/software-architecture-for-enterprise-applications
+- 9.超越数据库：第1部分-内存中数据库索引的工作方式 - https://sopin.dev/2021/01/01/Databases-Beyond-the-data-Part-1/
+- 10.热爱在linux写代码的5个理由 - https://opensource.com/article/21/2/linux-programming
+- 11.针对开发者和开放源代码作者的免费服务列表 - https://free-for.dev/
+- 12.关于消息传递和嵌入式消息传递 - https://ielgohary.github.io/blog-embedded-messaging.html
+- 13.Git是我的伙伴: 高效使用git的原则 - https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/
+- 14.d3.js作者的10年开源感悟 - https://observablehq.com/@mbostock/10-years-of-open-source-visualization
+- 15.将源码转换为图片的命令行工具 - https://github.com/matsuyoshi30/germanium
+
+## 码农桃花源--2021-02-24
+### 文章分享
+1 [复习：Linux内核是如何巧妙的初始化各个模块的](https://mp.weixin.qq.com/s/qdBsv3vK-Suczt7gEmI6Dw)
+
+2 [复习：为什么redis快照使用子进程](https://draveness.me/whys-the-design-redis-bgsave-fork/)
+
+3 [微服务架构之rpc框架](https://mp.weixin.qq.com/s/jUgmW3oflsTwyX-6kNZCfw)
+
+### 面试问题
+1 redis使用单线程模型，为什么效率也很高？
+
+2 redis为什么删除缓存而不是更新缓存？
+
+3 如何保证缓存和数据库的双写一致性？
+
+4 redis快照实现的底层原理
+
+### 每日算法
+lc375 猜数字II
 ## go中文网每日资讯--2021-02-23
 
 一、Go语言中文网
