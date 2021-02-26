@@ -7,6 +7,96 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-02-25 
+
+一、Go语言中文网
+
+1. [悄悄告诉你：很可能Go 1.17就能尝试泛型](https://mp.weixin.qq.com/s/iapssANWbSvcOX2qEwI2JQ)
+
+2. [Go 1.16 新特性：撤回模块版本，还有另类用法](https://mp.weixin.qq.com/s/wMUV0J8S-c0HFay6t28r5g)
+
+3. [Go 语言实战：命令行（3）CLI 框架](https://mp.weixin.qq.com/s/zPm5_9e3mPN8J71gB0e_Gg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-24)——滴滴：如何提高代码的可读性，以 Go 为例！](https://mp.weixin.qq.com/s/ZSjAVAExWLrqPZuk-t5Rrg)
+
+三、Go招聘
+
+1. [字节跳动招 Go 要求这么低的吗？这么缺人？](https://mp.weixin.qq.com/s/wizc4W9yo0-3hI5s_nh32A)
+
+四、taowen
+
+1. [代码防腐](https://mp.weixin.qq.com/s/85yWLNQmq99SbBopwNd2MQ)
+
+五、k8s技术圈
+
+1. [Prometheus 通过 consul 实现自动服务发现](https://mp.weixin.qq.com/s/8V4HhbVJ4MVqZOZK3Q_RMA)
+
+六、TonyBai
+
+1. [Go 1.16中值得关注的几个变化](https://mp.weixin.qq.com/s/UPNn4G_m0zfvJgWxEVl_Tw)
+
+七、脑子进煎鱼了
+
+1. [最新提案：维持 GOPATH 的传统使用方式（Go1.17 移除 GOPATH）](https://mp.weixin.qq.com/s/AzfKHfs6AOolxutdVpZibw)
+
+八、polarisxu
+
+1. [Go 官方应该搞一个类似 Rustup 的管理工具](https://mp.weixin.qq.com/s/uqKl8u8Tyz1-d0Ew3dpVJQ)
+
+## gopherDaily--2021-02-25
+- 1.Go官博：context与struct - https://blog.golang.org/context-and-structs
+- 2.泛型的另一个窘境 - https://matklad.github.io//2021/02/24/another-generic-dilemma.html
+- 3.Go 1.16都有哪些变化 - https://blog.logrocket.com/whats-new-in-go-1-16/
+- 4.拥抱Go 和云原生的日志系统实践 - https://www.infoq.cn/article/FD43uBOtQ4sq1dTAHxpu
+- 5.用Go编写的第二代Matrix家庭服务器 - https://github.com/matrix-org/dendrite
+- 6.为什么我们选自tidb作为mysql的替代品 - https://dzone.com/articles/top-car-trading-platform-chooses-scale-out-database-as-mysql-alternative
+- 7.tailscale官博：module、大单体与微服务 - https://tailscale.com/blog/modules-monoliths-and-microservices/
+- 8.运行时动态构建结构体类型示例 - https://github.com/itsubaki/gostruct
+- 9.https://github.com/itsubaki/gostruct
+- 10.机器学习中数据准备技术的框架 - https://machinelearningmastery.com/framework-for-data-preparation-for-machine-learning/
+- 11.Playstation 2 架构 - https://www.copetti.org/writings/consoles/playstation-2/
+- 12.创建一个oracle的docker容器镜像 - https://dzone.com/articles/create-an-oracle-database-docker-image
+
+## 码农桃花源--2021-02-25
+### 文章分享
+1.  [Go netpoller 原生网络模型之源码全面揭秘](https://strikefreedom.top/go-netpoll-io-multiplexing-reactor)
+
+2.  [gomaxprocs调高引起调度性能损耗](http://xiaorui.cc/archives/6334)
+
+3.  [复习 深入理解WaitGroup](https://lailin.xyz/post/go-training-week3-waitgroup.html)
+
+4.  [go 栈内存的内存和逃逸分析](https://draveness.me/golang/docs/part3-runtime/ch07-memory/golang-stack-management/)
+
+### 面试问题
+1. Go指针和unsafe.Pointer有什么区别
+
+2. 如何利用unsafe包修改私有成员
+
+3. 如何利用unsafe获取slice&map的长度
+
+4. 如何实现字符串和byte切片的零拷贝转换
+
+### 每日算法
+lc891 子序列宽度之和
+
+
+
+## GOCN每日新闻--2021-02-25
+1.context 和 struct https://blog.golang.org/context-and-structs 
+
+2.Go 1.17 中将新增对 fuzz test 的支持 https://github.com/golang/go/issues/44551
+
+3.aluma 从 C# 转到 Go 进行后端开发的经验 https://aluma.io/resources/blog/switching-from-c-to-go-for-backend-development 
+
+4.快速构建稳固的 Go GraphQL 应用程序 https://github.com/ohler55/graphql-test-tool/blob/develop/example/solid-quick.md
+
+5.在 Kubernetes 上快速开发 Go 微服务 https://blog.getambassador.io/go-kubernetes-rapidly-developing-golang-microservices-bfe36cfb5893
+
+
+
+
 ## go中文网每日资讯--2021-02-24 
 
 一、Go语言中文网
