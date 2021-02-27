@@ -7,6 +7,96 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-02-26 
+
+一、Go语言中文网
+
+1. [类似csv的数据日志组件设计与Go实现](https://mp.weixin.qq.com/s/qCVKQCl-LxUbGyQ7HP0sDg)
+
+2. [Go 并发编程 — 深入浅出 sync.Pool ，围观最全的使用姿势，理解最深刻的原理](https://mp.weixin.qq.com/s/7VKtfZPOuo36OGNFYV-L3g)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-25)——悄悄告诉你：很可能 Go 1.17 就能尝试泛型](https://mp.weixin.qq.com/s/mB4vzjCqD64R9_suldVZoQ)
+
+三、Golang技术分享
+
+1. [如何有效地测试Go代码](https://mp.weixin.qq.com/s/_2oqgVaq7vCgMBDWYCASIw)
+
+四、学而思网校技术团队
+
+1. [探索Golang协程实现——从v1.0开始](https://mp.weixin.qq.com/s/rYwN5gZXQVvbQ6NZCHC7cA)
+
+五、云加社区
+
+1. [从Paxos到Raft，分布式一致性算法解析](https://mp.weixin.qq.com/s/JfJ8R8qrT-g6G7MDN9Tk6g)
+
+六、Go招聘
+
+1. [实习生Gopher给大家送一份微芯研究院面经](https://mp.weixin.qq.com/s/m5-vhsqEc0o-tRrTUXfF2Q)
+
+2. [上海扩博智能招Gopher，奖金真不少](https://mp.weixin.qq.com/s/R1vkcT1qnMbQPF3oasY7LA)
+
+七、k8s技术圈
+
+1. [运维架构师与运维开发工程师 - DaoCloud](https://mp.weixin.qq.com/s/0Ns3O1q6aEX-HSPNC9j2Dg)
+
+八、TechPaper
+
+1. [Go 还是需要泛型的](https://mp.weixin.qq.com/s/JlNlq8KAZ3jULwkPpXuxzQ)
+
+九、The Go Blog
+
+1. [Contexts and structs](https://blog.golang.org/context-and-structs)
+## GOCN每日新闻--2021-02-26
+1.探索 "io/fs" 提高测试性能和可测试性 https://www.gopherguides.com/articles/golang-1.16-io-fs-improve-test-performance
+
+2.Go 还是需要泛型的 https://mp.weixin.qq.com/s/JlNlq8KAZ3jULwkPpXuxzQ
+
+3.用 Go 实现事件驱动应用 https://engineering.linecorp.com/zh-hant/blog/20210226-golang-event-driven
+
+4.Great video about Pointers in Go https://www.reddit.com/r/golang/comments/lsb9jc/great_video_about_pointers_in_go/
+
+5.JSON 互操作性漏洞探析 https://labs.bishopfox.com/tech-blog/an-exploration-of-json-interoperability-vulnerabilities
+
+## gopherDaily--2021-02-26
+- 1.Go 1.16中值得关注的几个变化 - https://mp.weixin.qq.com/s/UPNn4G_m0zfvJgWxEVl_Tw
+- 2.使用io/fs提升测试性能和可测性 - https://www.gopherguides.com/articles/golang-1.16-io-fs-improve-test-performance
+- 3.Go时间与日期格式化完全指南 - https://yourbasic.org/golang/format-parse-string-time-date-example/
+- 4.对低级I/O进行基准测试：C，C ++，Rust，Go，Java，Python - https://medium.com/star-gazers/benchmarking-low-level-i-o-c-c-rust-golang-java-python-9a0d505f85f7
+- 5.Go module管理：实用指南 - https://medium.com/@adiach3nko/package-management-with-go-modules-the-pragmatic-guide-c831b4eaaf31
+- 6.gitlab-ci基础入门 - https://techsquad.rocks/blog/gitlab_ci_basics/
+- 7.在Kubernetes集群上以零停机时间发布和回滚更新 - https://www.fosstechnix.com/rolling-out-and-rolling-back-updates-with-zero-downtime-on-kubernetes-cluster/
+- 8.经典旧文：将happy path向左对齐 - https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88
+- 9.Go播客：那些不该加入go的提案2 - https://changelog.com/gotime/168
+- 10.clang LTO(Link Time Optimization) 合并(merge)到linux 5.12内核，后者性能将得到提升 - https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=79db4d2293eba2ce6265a341bedf6caecad5eeb3
+- 11.如何使用kong gateway的jwt插件实现服务鉴权 - https://konghq.com/blog/jwt-kong-gateway
+- 12.常见的Nginx错误配置使您的Web服务器容易受到攻击 - https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/
+- 13.Web软件的未来是HTML-over-WebSockets - https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/
+- 14.终端命令行形式的密钥管理器 - https://github.com/GGP1/kure
+- 15.零依赖的高并发Go应用框架 -https://github.com/autom8ter/machine
+- 16.油管视频：详解Go指针 - https://www.youtube.com/watch?v=sTFJtxJXkaY
+
+
+### 文章分享
+1 [redis IO多线程介绍](http://xiaorui.cc/archives/6918)
+
+2 [复习：先有线程还是先有协程？](https://mp.weixin.qq.com/s/UDGVOq1RaP7BRvP0cgd_bg)
+
+3 [k8s的架构设计与实现原理](https://draveness.me/understanding-kubernetes/)
+
+4 [grpc那些事儿](http://xiaorui.cc/archives/7013)
+
+### 面试问题
+1 多线程的优点有哪些？带来了哪些问题？
+
+2 死锁产生的条件？如何避免？
+
+3 redis缓存穿透和缓存击穿的区别？分别如何解决？
+
+### 每日算法
+lc212 单词搜索II
 ## go中文网每日资讯--2021-02-25 
 
 一、Go语言中文网
