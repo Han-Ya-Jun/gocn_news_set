@@ -8,6 +8,135 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2021-02-27 
+
+
+一、Go语言中文网
+
+1. [你还缺 Go 实战项目吗？送你一个 Go 构建数字写作社区的开源项目](https://mp.weixin.qq.com/s/65SbmgTbTRPP8-_8wa40Bg)
+
+2. [从 Go 语言一个文件描述符错误讲起](https://mp.weixin.qq.com/s/MGMWkOON3DBkSjBKxGr7Kw)
+
+3. [创业公司招 Go，奖金真不少](https://mp.weixin.qq.com/s/zfxhmINexqkNUNPnfC6nbQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-26)——​Go 还是需要泛型的](https://mp.weixin.qq.com/s/fInRC5AMy-6OkmkGF4Hq7w)
+
+三、nanko的快乐小窝
+
+1. [​Goalng 校招面经](https://mp.weixin.qq.com/s/Ojz3qRCrZwmkyO9B_4k17Q)
+
+四、taowen
+
+1. [编程就是压缩](https://mp.weixin.qq.com/s/suRIYWo84TORN3lMx4QLwA)
+
+五、k8s技术圈
+
+1. [Go 工程师 – CODING(腾讯系)](https://mp.weixin.qq.com/s/76-89Ii0ep1kvQC1GFNXFg)
+
+2. [如何利用开源框架实现运维编排](https://mp.weixin.qq.com/s/wplsNFuF42ZlLXN-z3h_zw)
+
+六、GoOfficialBlog
+
+1. [The Go Blog: 关于 context 的一点最佳实践](https://mp.weixin.qq.com/s/ayySDQNTRlxjHuiAsaIwhw)
+
+七、奇伢云存储
+
+1. [Go 并发编程 — 有趣的sync.Pool原理动画](https://mp.weixin.qq.com/s/PeVkQN5sHR2d3fgmgoMt3Q)
+
+八、xueyuanjun
+
+1. [Go 函数式编程篇（七）：基于管道技术实现函数的流式调用](https://mp.weixin.qq.com/s/9P1AV6d_Cc4pH9DNJeEHHg)
+
+九、polarisxu
+
+1. [金三银四，聊聊换工作的那些事](https://mp.weixin.qq.com/s/kaOIwV50zUvHv8tIjejFxA)
+
+
+## GOCN每日新闻--2021-02-27
+
+1.Golang 指针讲解 https://youtu.be/sTFJtxJXkaY
+
+2.Go 实现都配置管理 cli COGS https://github.com/Bestowinc/cogs/
+
+3.golang os.File 的加密替换文件，存储的文件将具有 768 位加密 https://github.com/kuking/seof
+
+4.go 实现的快速，安全，可靠的系统备份 https://github.com/Clivern/Walrus
+
+5.Jupyter 交互的 Go 编程 https://github.com/yunabe/lgo
+
+## gopherDaily--2021-02-27 
+- 1.Go观察：一个julia开发人员重新回归go - https://erik-engheim.medium.com/golang-observations-6421f760498b
+- 2.基于kqueue编写一个简单的tcp server - https://dev.to/frosnerd/writing-a-simple-tcp-server-using-kqueue-cah
+- 3.快速构建Solid Go GraphQL应用程序 - https://github.com/ohler55/graphql-test-tool/blob/develop/example/solid-quick.md
+- 4.我如何每周花费4小时便成为Kubernetes的维护者 - https://opensource.com/article/21/2/kubernetes-maintainer
+- 5.使用Go构建容器镜像 - https://ahmet.im/blog/building-container-images-in-go/index.html
+- 6.Go声明式BDD(行为驱动测试) - https://medium.com/lensesio/declarative-bdd-with-golang-3f5f6a1ac5a8
+- 7.为go-sql-server实现一个windows function - https://www.dolthub.com/blog/2021-02-26-implementing-window-functions/
+- 8.Go与设计模式 - https://medium.com/swlh/design-patterns-in-go-d90e7866deff
+- 9.deferfuzz: 用于对Go defer/panic/recover进行fuzztest - https://github.com/mdempsky/deferfuzz
+- 10.Google承认Kubernetes容器技术是如此复杂 - https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/
+- 11.油管视频：爬行机器人制作指南 - https://www.youtube.com/watch?v=anp15oVASc4&feature=youtu.be
+- 12.10个必读的机器学习文章 - https://elvissaravia.substack.com/p/10-must-read-ml-blog-posts
+
+## 码农桃花源--2021-02-27
+### 优质文章汇总
+1. [看图学etcd](https://segmentfault.com/a/1190000020742981?utm_source=sf-related)
+
+2. [复习 GPM](https://mp.weixin.qq.com/s/JOjUWp15JbEu54VJHY8i_A)
+
+3. [复习：为什么redis快照使用子进程](https://draveness.me/whys-the-design-redis-bgsave-fork/)
+
+4. [Go netpoller 原生网络模型之源码全面揭秘](https://strikefreedom.top/go-netpoll-io-multiplexing-reactor)
+
+5. [k8s的架构设计与实现原理](https://draveness.me/understanding-kubernetes/)
+### 面试问题
+
+1. 多线程的优点有哪些？带来了哪些问题？
+
+2. 死锁产生的条件？如何避免？
+
+3. redis缓存穿透和缓存击穿的区别？分别如何解决？
+
+4. Go指针和unsafe.Pointer有什么区别
+
+5. 如何利用unsafe包修改私有成员
+
+6. 如何利用unsafe获取slice&map的长度
+
+7. 如何实现字符串和byte切片的零拷贝转换
+
+8. redis使用单线程模型，为什么效率也很高？
+
+9.  redis为什么删除缓存而不是更新缓存？
+
+10.  如何保证缓存和数据库的双写一致性？
+
+11. redis快照实现的底层原理
+
+12.  context 如何被取消
+
+13.  context 是什么
+
+14.  context 有什么作用
+
+15.  context.Value 的查找过程是怎样的
+
+
+16. redis 的过期策略都有哪些？内存淘汰机制都有哪些？手写一下LRU代码实现？
+
+17.  redis 的并发竞争问题是什么？如何解决这个问题？了解 Redis 事务的 CAS 方案吗？
+
+18. HTTP的keep-alive是干什么的？
+
+19. HTTP2相对于HTTP1.x有什么优势和特点？
+
+20. 为什么常说 TCP 有粘包和拆包的问题而不说 UDP ？
+
+21. 介绍一下Linux 中进程的几种状态
+
+22. 针对网站访问慢，怎么去排查？怎么去解决？
 ## go中文网每日资讯--2021-02-26 
 
 一、Go语言中文网
