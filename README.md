@@ -6,6 +6,79 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-02-28 
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 84 期 — 有人在写Go泛型图书了](https://mp.weixin.qq.com/s/LdQ1sPIVVm_YAsJvIuy3Lw)
+
+2. [Go 官方应该搞一个类似 Rustup 的管理工具](https://mp.weixin.qq.com/s/OZDmzdC1SMQ7jt-iByhkmA)
+
+3. [一文搞懂 Go 如何利用multipart/form-data实现文件的上传与下载](https://mp.weixin.qq.com/s/OHzXxfcBaf5RNT4dA38LCQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-27)——关于 context 的一点最佳实践](https://mp.weixin.qq.com/s/wQjMLNMXAPnapm_Xx6E_Rw)
+
+三、新亮笔记
+
+1. [Go - 代码生成工具](https://mp.weixin.qq.com/s/hFasUWIE_mTIIC-tjWUXzg)
+
+四、面向信仰编程
+
+1. [内存管理设计精要 - 面向信仰编程](https://draveness.me//system-design-memory-management)
+
+五、技术琐话
+
+1. [基于Golang的高性能撮合引擎：从思路到MVP](https://mp.weixin.qq.com/s/DvUh0igObcRsyEWrg1NMAw)
+
+六、Golang Weekly
+
+1. [Awesome Go Newsletter - Issue 249, Feb 25, 2021 | LibHunt](https://go.libhunt.com/newsletter/249)
+
+2. [Golang Weekly Issue 351: February 26, 2021](https://golangweekly.com/issues/351)
+## GOCN每日新闻--2021-02-28
+1.基于 Golang 的高性能撮合引擎：从思路到 MVP https://mp.weixin.qq.com/s/DvUh0igObcRsyEWrg1NMAw
+
+2.如何有效地测试 Go 代码 https://mp.weixin.qq.com/s/_2oqgVaq7vCgMBDWYCASIw
+
+3.手撸 golang 基本数据结构与算法 图的最短路径 贝尔曼 - 福特算法
+https://segmentfault.com/a/1190000039299119
+
+4.一套轻量级 Go 微服务框架- kratos https://github.com/go-kratos/kratos
+
+5.golang 知识总结 https://www.cnblogs.com/darope/p14455404.html#at
+
+## gopherDaily--2021-02-28
+1.过去几年，使用Go编写的新恶意软件增长了2000％，并且已经被APT(国家级黑客组织)和电子犯罪组织所采用 - https://www.zdnet.com/article/go-malware-is-now-common-having-been-adopted-by-both-apts-and-e-crime-groups/
+
+2.一文弄清楚NATS, NATS Streaming和NATS JetStream的区别 - https://gcoolinfo.medium.com/comparing-nats-nats-streaming-and-nats-jetstream-ec2d9f426dc8
+
+3.适用于Go应用程序的PostgreSQL Aiven - https://aiven.io/blog/aiven-for-postgresql-for-your-go-application
+
+4.Go webassembly运行时引擎wasmer-go 发布1.0 - https://wasmer.io/posts/wasmer-go-embedding-1.0
+
+5.可追溯的和安全的错误代码填充代码的工具 - https://github.com/vsrc/isecode
+
+6.油管视频：Go泛型介绍 - https://www.youtube.com/watch?v=x3KULj5406g&list=PLEcwzBXTPUE_YQR7R0BRtHBYJ0LN3Y0i3&index=1
+
+7.bit: Go实现的git全功能客户端 - https://github.com/chriswalz/bit
+
+8.显示你最常用的shell命令 - https://github.com/irevenko/tsukae
+
+9.Go Testify: 如何在失败的测试上强制测试退出 - http://blog.muya.co.ke/golang-testify-force-test-exit/
+
+10.经典旧文：在Go中如何创建常量map、切片和数组 - https://qvault.io/2019/10/21/golang-constant-maps-slices/
+
+11.Chain Replication with Apportioned Queries(CRAQ)的Go实现 - https://github.com/despreston/go-craq
+
+12.nginx日志探索工具(in Rust) - https://github.com/Canop/rhit
+
+13.CTO资料速查表 - https://github.com/kuchin/awesome-cto
+
+14.油管视频：五小时搞定pytorch - https://www.youtube.com/watch?v=c36lUUr864M&feature=youtu.be
+
+15.vim高级指南 - https://thevaluable.dev/vim-advanced/
 
 
 ## go中文网每日资讯--2021-02-27 
