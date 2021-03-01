@@ -47,7 +47,7 @@ https://segmentfault.com/a/1190000039299119
 
 4.一套轻量级 Go 微服务框架- kratos https://github.com/go-kratos/kratos
 
-5.golang 知识总结 https://www.cnblogs.com/darope/p14455404.html#at
+5.golang 知识总结 https://www.cnblogs.com/darope/p/14455404.html
 
 ## gopherDaily--2021-02-28
 1.过去几年，使用Go编写的新恶意软件增长了2000％，并且已经被APT(国家级黑客组织)和电子犯罪组织所采用 - https://www.zdnet.com/article/go-malware-is-now-common-having-been-adopted-by-both-apts-and-e-crime-groups/
