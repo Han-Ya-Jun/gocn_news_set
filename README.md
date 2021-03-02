@@ -6,6 +6,90 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-03-01 
+
+
+一、Go语言中文网
+
+1. [Uber 的 zap 库是如何做到高性能的？](https://mp.weixin.qq.com/s/y8XH4gTo_7l0FkMJe9zxiA)
+
+2. [一份 Go 面经：答案期待一起完善](https://mp.weixin.qq.com/s/CGERaA_hZEjvpSpvzotu9Q)
+
+3. [官发博文：进一步阐明关于 context 的最佳实践](https://mp.weixin.qq.com/s/Xv88vljtnDIRuLM0J_NSpA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-28)——golang 知识总结](https://mp.weixin.qq.com/s/eFWJWx6XlDlfjVe6hlXReg)
+
+三、微服务实践
+
+1. [使用Prometheus搞定微服务监控](https://mp.weixin.qq.com/s/kfI36sEV_lLASbdpu_4S4w)
+
+四、Go招聘
+
+1. [你可能不了解，这两年跨境电商很火的：招 Go 了](https://mp.weixin.qq.com/s/UKAPNHGbWoCPzFirFfWJ5g)
+
+五、polarisxu
+
+1. [那些 Go 语言实现的语言现在发展怎么样了？](https://mp.weixin.qq.com/s/jIdBxFlNnJ_XaGOOsUf_3w)
+
+六、码农桃花源
+
+1. [Go mod 七宗罪](https://mp.weixin.qq.com/s/CBiebXjBcik2pHQnbnB51A)
+
+七、云加社区
+
+1. [详解Go语言调度循环源码实现](https://mp.weixin.qq.com/s/WZqiGvIMyR7QYmGgSWg60g)
+
+八、奇伢云存储
+
+1. [Go 并发编程 — sync.Pool 源码级原理剖析 [2] 终结篇](https://mp.weixin.qq.com/s/u0HZYgPVec9CET5d4wTPbA)
+
+
+九、Golang梦工厂
+
+1. [高并发系统的限流策略：漏桶和令牌桶(附源码剖析)](https://mp.weixin.qq.com/s/fURwiSTeEE_Wvc95Q_fHnA)
+## GOCN每日新闻--2021-03-01 
+1.常用的分布式唯一 ID 生成方案 https://mp.weixin.qq.com/s/BNCaeEu-XRqbR-z6VM1QPg
+
+2.高并发系统的限流策略：漏桶和令牌桶 (附源码剖析) https://mp.weixin.qq.com/s/fURwiSTeEE_Wvc95Q_fHnA
+
+3.Golang 语言怎么处理错误？ https://mp.weixin.qq.com/s/DUvLkO5tLUCOp2IeVjgbeg
+
+4.Kubernetes 节点资源不足的高效管理 https://medium.com/kubernetes-tutorials/efficient-node-out-of-resource-management-in-kubernetes-67f158da6e59
+
+5.简单的本地 go git-crypt 实现 https://github.com/jbuchbinder/go-git-crypt
+
+## gopherDaily--2021-03-01
+- 1.令我疯狂的Go JSON陷阱，但我已学会应对 - http://okigiveup.net/golang-json-gotchas-that-drove-me-crazy-but-i-have-learned-to-deal-with/
+- 2.利用适配器模式将redigo无缝切换为go-redis - https://www.hildeberto.com/2021/02/adapter-go-redis.html
+- 3.使用GO和Gorilla Mux进行CRUD操作 - https://pulkitkaushik.medium.com/crud-operations-using-golang-with-gorilla-mux-f1ee6addec4c
+- 4.Go工具链介绍 - https://dev.to/honeybadger/an-introduction-to-go-tooling-3cl8
+- 5.chkb：可以将你的键盘变成可编程键盘的Go工具 - https://github.com/MetalBlueberry/chkb
+- 6.边缘计算云原生开源方案选型比较 - https://mp.weixin.qq.com/s/wl-7ZRUu3l97wpbRAKjQpw
+- 7.基于kubeedge的AI套件 - https://github.com/kubeedge/sedna
+- 8.在使用kubernetes之前为什么要看看hashicorp nomad - https://atodorov.me/2021/02/27/why-you-should-take-a-look-at-nomad-before-jumping-on-kubernetes/
+- 9.5G技术栈的开源状况 - https://github.blog/2021-02-23-open-source-in-the-5g-stack/
+
+## 文章分享
+1 [内存对齐底层原理](https://mp.weixin.qq.com/s/F0NTfz-3x3UxQeF-GSavRg)
+
+2 [从文件中读取一个字节引发的磁盘IO](https://mp.weixin.qq.com/s/LcuWAg10hxZjCoyR1cMJSQ)
+
+3 [复习：如何理解高并发的协程](https://mp.weixin.qq.com/s/UDGVOq1RaP7BRvP0cgd_bg)
+
+## 面试问题
+1 redis的同步机制
+
+2 redis有哪几种对象类型，分别适用于什么场景？
+
+3 最新的redis 6.0用了多线程，是怎么实现的
+
+4 redis的跳表了解吗，数据结构是怎么样的，查询的时间复杂度是多少
+
+## 每日算法
+lc377 组合优化IV
 ## go中文网每日资讯--2021-02-28 
 
 一、Go语言中文网
