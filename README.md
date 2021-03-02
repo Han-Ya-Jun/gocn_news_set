@@ -7,6 +7,98 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-03-02
+
+
+一、Go语言中文网
+
+1. [惊！Go 编写的恶意软件剧增 2000%](https://mp.weixin.qq.com/s/JtX9ltxHjBm7u3f4h9Nk9Q)
+
+2. [gin框架的几种热加载方法，你值得拥有](https://mp.weixin.qq.com/s/09k6MDYyvJn3tWOqZvJY0Q)
+
+3. [通过实例理解Go标准库http包是如何处理keep-alive连接的](https://mp.weixin.qq.com/s/APjWx-im0LVHdjJt9UkPHw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-01)——常用的分布式唯一 ID 生成方案](https://mp.weixin.qq.com/s/g8cuCA8Ac_wn4hS8kLs2IQ)
+
+三、Go招聘
+
+1. [鹅厂游戏业务招Go这要求，你符合吗？](https://mp.weixin.qq.com/s/Vzeo6YKSArYq29d4WrDflw)
+
+四、CloudNativeCommunity
+
+1. [2021年 Istio 大型“入坑”指南](https://mp.weixin.qq.com/s/WwB49tVZibBEkKOkCVwrBw)
+
+五、真没什么逻辑
+
+1. [内存管理设计精要](https://mp.weixin.qq.com/s/lx0vX-4wlQWxxfj017T9HA)
+
+六、Golang梦工厂
+
+1. [空结构体引发的大型打脸现场](https://mp.weixin.qq.com/s/dNeCIwmPei2jEWGF6AuWQw)
+
+七、mohuishou
+
+1. [Go工程化(四) API 设计上: 项目结构 & 设计](https://lailin.xyz/post/go-training-week4-api-design.html)
+
+八、No Headback
+
+1. [why do we need generics?](https://xargin.com/why-do-we-need-generics/)
+
+## GOCN每日新闻--2021-03-02
+1.寻找 Go 依赖中的那个邪恶包 https://michenriksen.com/blog/finding-evil-go-packages/
+
+2.使用 Go + Kqueue 实现一个简单的 TCP Server https://dev.to/frosnerd/writing-a-simple-tcp-server-using-kqueue-cah
+
+3.感受下适配器模式的优势 https://www.hildeberto.com/2021/02/adapter-go-redis.html
+
+4.用 Go 实现 NATs 模式下的实时订阅 https://medium.com/swlh/nats-keep-alive-subscription-in-golang-a80073949371
+
+5.Go 范型使用介绍 https://quii.gitbook.io/learn-go-with-tests/meta/intro-to-generics
+## gopherDaily--2021-03-02
+1. 通过测试学习Go泛型 - https://quii.gitbook.io/learn-go-with-tests/meta/intro-to-generics
+
+2. 微软文档教程：使用Go控制流 - https://docs.microsoft.com/en-us/learn/modules/go-control-flow/
+
+3. 使用Go开发的类twitter后端 - https://github.com/arman-aminian/twitter-backend
+
+4. 寻找恶意的Go包 - https://michenriksen.com/blog/finding-evil-go-packages/
+
+5. 使用Go进行明智抽象的初学者指南 - https://jonahwintergolang.medium.com/a-beginners-guide-to-sensible-abstractions-using-golang-4faabbabb838
+
+6. 使用Go、React和WebSocket实现在线协作编辑 - https://medium.com/heuristics/collaborative-form-editor-using-websockets-web-sockets-in-golang-and-react-20d123f40447
+
+7. 使用Temporal.io编排微服务架构 - https://spiralscout.com/blog/temporal-workflow-and-microservices
+
+8. 使用Go和yaml实现的kubernetes模式 - https://github.com/sharadbhat/KubernetesPatterns
+
+9. Aqua精彩的四年！ - https://blog.aquasec.com/liz-rice-cloud-native-open-source
+
+10. 基础分布式系统论文推荐列表 - http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html
+
+11. 文字转换为流程图 - https://flowchart.fun/
+
+
+## 码农桃花源--2021-03-02
+### 文章分享
+1 [高并发下的“too many open files”](https://mp.weixin.qq.com/s/GBn94vdL4xUL80WYrGdUWQ)
+
+2 [write一个文件后会引发多大的写IO](https://mp.weixin.qq.com/s/qEsK6X_HwthWUbbMGiydBQ)
+
+3 [复习：图解slab](http://www.wowotech.net/memory_management/426.html)
+### 面试问题
+1 Redis 为什么在对数据进行快照持久化时会需要使用子进程
+
+2 redis如何保证重写后的数据库状态和AOF文件一致？
+
+3 Etcd满足了CAP中哪两个特性？应用场景？
+
+### 每日算法
+
+lc220 存在重复元素
+
 ## go中文网每日资讯--2021-03-01 
 
 
