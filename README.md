@@ -7,6 +7,104 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-03-05
+
+
+一、Go语言中文网
+
+1. [Go：使用 Delve 和 Core Dump 调试代码](https://mp.weixin.qq.com/s/bwC12L1_h0Vl4e1wk50Fjw)
+
+2. [图解Go语言Context](https://mp.weixin.qq.com/s/i3kFGzbaCT9uwdF1Rd3Hpw)
+
+3. [boss: 这小子还不会使用validator库进行数据校验，开了～](https://mp.weixin.qq.com/s/rleIt9uVn0-OobCuOhnlqQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-04)——一文快速了解 Go+，还有机会和创始人面基](https://mp.weixin.qq.com/s/fS2lzlVIJ8eKHsKeKCyTCA)
+
+三、Go招聘
+
+1. [【上海招聘】数据隐私很重要：招 gopher 保驾护航](https://mp.weixin.qq.com/s/NZmCcj5Pf2PvPCEP4Lsj-Q)
+
+四、学而思网校技术团队
+
+1. [解读从HTTP1.1到HTTP3的进化过程](https://mp.weixin.qq.com/s/COrEqpciflmRBLQykEfZDA)
+
+五、k8s技术圈
+
+1. [Kubernetes 原生 CI/CD 构建框架 Argo 详解！](https://mp.weixin.qq.com/s/Rxq4cTIq-5AIC-k1DWYAMQ)
+
+六、脑子进煎鱼了
+
+1. [Go 面试题： new 和 make 是什么，差异在哪？](https://mp.weixin.qq.com/s/tZg3zmESlLmefAWdTR96Tg)
+
+七、奇伢云存储
+
+1. [Linus Torvalds 命名 [ 冰封荒原 ] 版 Linux 内核的思考](https://mp.weixin.qq.com/s/xZsxYhUmZV5-vrAD6Cb8Bw)
+
+八、MoeLove
+
+1. [K8S 生态周报| Docker v20.10.5 发布，修复 Bug 及提升稳定性](https://mp.weixin.qq.com/s/3LPNJDiBRpRZd09kK3J0XQ)
+
+
+
+## GOCN每日新闻--2021-03-05
+
+1. 曹大吐槽 Go mod https://mp.weixin.qq.com/s/N-mztlf9ARJUXd9wJGC4BQ
+
+2. VS Code 中添加 Snippet 提高 Golang 编辑效率 https://gocn.vip/topics/11737
+
+3. 实现一个更全面的 Golang 版本的布谷鸟过滤器 https://gocn.vip/topics/11741
+
+4. 探索 Go1.16 io/fs 包以提高测试性能和可测试性 https://gocn.vip/topics/11740
+
+5. 即時效能分析工具 Pyroscope https://gocn.vip/topics/11742
+
+
+## gopherDaily--2021-03-05
+
+1.Go中的5个常见错误：初学者在编写Go时错过的好模式列表 - https://deepsource.io/blog/common-mistakes-in-go/
+
+2.Go事件溯源(event sourcing)框架 - https://github.com/eventually-rs/eventually-go
+
+3.在Red Hat Enterprise Linux上使用delve调试Go程序 - https://developers.redhat.com/blog/2021/03/03/using-delve-to-debug-go-programs-on-red-hat-enterprise-linux/
+
+4.油管视频：使用WebRTC实现一个在线浏览器多人游戏 - https://www.youtube.com/watch?v=PLmauY3ky4g
+
+5.油管视频：解开Kubernetes网络策略的神秘面纱 - https://www.youtube.com/watch?v=LoljdaEaHjY&t=100s
+
+6.使用Go、grpc、kafka等实现整洁架构 - https://dev.to/aleksk1ng/go-kafka-grpc-and-mongodb-microservice-with-metrics-and-tracing-448d
+
+7.使用Go将文字嵌入图片中 - https://josemyduarte.github.io/2021-02-28-quotes-on-images-with-go/
+
+8.关于基于Go的恶意软件，您需要了解什么 - https://nationalcybersecuritynews.today/what-you-need-to-know-about-golang-based-malware-malware-ransomware-hacking/
+
+9.观点：自服务的k8s namespace将改变游戏规则 - https://itnext.io/self-service-kubernetes-namespaces-are-a-game-changer-19bd2f59f06b
+
+10.git项目中被禁止使用的C函数 - https://github.com/git/git/blob/master/banned.h
+
+## 码农桃花源--2021-03-05
+### 文章分享
+1.[go反模式] https://colobu.com/2020/05/26/golang-anti-pattern-yuezudaipao/
+
+2.[如何配置sql.DB获取更好的性能] https://colobu.com/2020/05/18/configuring-sql-DB-for-better-performance-2020/
+
+3.[复习 g0 栈和用户栈如何完成切换] https://mp.weixin.qq.com/s/sGR_VF13Czd9VuvHb-96iA
+
+4.[属于曹大的书评] https://www.yuque.com/wegoer/we-reading/epck8l
+### 面试问题
+1. new和make的区别
+
+2. 引用类型都有哪些
+
+3. go的内存模型中，为什么小对象多了会造成gc压力
+
+4. 将10阶对称矩阵压缩存储到一维数组A中，则数组A的长度最少为
+### 每日算法
+lc239 滑动窗口最大值
+
+
 ## go中文网每日资讯--2021-03-04
 
 
