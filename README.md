@@ -7,6 +7,112 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-03-06
+
+一、Go语言中文网
+
+1. [使用Go进行日志分析并生成excel,再也不担心做日志分析了](https://mp.weixin.qq.com/s/MGeM8XfaIpKSwh9cL5Ti-A)
+
+2. [详解 Go 反射并实战一例](https://mp.weixin.qq.com/s/V2hcadvRmjy6Lr9bUoBLmw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-05)——Go 面试题： new 和 make 是什么，差异在哪？](https://mp.weixin.qq.com/s/JygINRQJj6swuUcuwVw-lA)
+
+三、k8s技术圈
+
+1. [基于 Kubernetes 的微服务项目设计与实现](https://mp.weixin.qq.com/s/AMWjZuJxYVAvHEKznxt-2w)
+
+四、polarisxu
+
+1. [【内推】一大波 Go 相关职位涌来：金山办公 wps 招聘](https://mp.weixin.qq.com/s/zt2RJwCst7Back7k8IKZfg)
+
+五、Go招聘
+
+1. [955 不加班公司名单](https://mp.weixin.qq.com/s/DfrwMYrTWsQaB9RQKHwySg)
+
+六、mohuishou
+
+1. [Go工程化(五) API 设计下: 基于 protobuf 自动生成 gin 代码](https://lailin.xyz/post/go-training-week4-protoc-gen-go-gin.html)
+
+2. [Go工程化(六) 配置管理 - Mohuishou](https://lailin.xyz/post/go-training-week4-config.html)
+
+
+## GOCN每日新闻--2021-03-06
+1.Go channel 的妙用 https://gocn.vip/topics/11747
+
+2.详解 Go 反射并实战一例 https://mp.weixin.qq.com/s/V2hcadvRmjy6Lr9bUoBLmw
+
+3.Deep Learning 部署 TVM Golang 运行时 Runtime https://blog.51cto.com/15103030/2648898
+
+4.Golang+chromedp+goquery 简单爬取动态数据 https://www.cnblogs.com/xiaomotong/p/14488865.html
+
+5.GoLang+Elasticsearch 普通分页过滤查询 https://blog.51cto.com/15103030/2649175
+
+## gopherDaily--2021-03-06 
+- 1.Go中的5个常见错误：初学者在编写Go时错过的好模式列表 - https://deepsource.io/blog/common-mistakes-in-go/
+- 2.Go事件溯源(event sourcing)框架 - https://github.com/eventually-rs/eventually-go
+- 3.在Red Hat Enterprise Linux上使用delve调试Go程序 - https://developers.redhat.com/blog/2021/03/03/using-delve-to-debug-go-programs-on-red-hat-enterprise-linux/
+- 4.油管视频：使用WebRTC实现一个在线浏览器多人游戏 - https://www.youtube.com/watch?v=PLmauY3ky4g
+- 5.油管视频：解开Kubernetes网络策略的神秘面纱 - https://www.youtube.com/watch?v=LoljdaEaHjY&t=100s
+- 6.使用Go、grpc、kafka等实现整洁架构 - https://dev.to/aleksk1ng/go-kafka-grpc-and-mongodb-microservice-with-metrics-and-tracing-448d
+- 7.使用Go将文字嵌入图片中 - https://josemyduarte.github.io/2021-02-28-quotes-on-images-with-go/
+- 8.关于基于Go的恶意软件，您需要了解什么 - https://nationalcybersecuritynews.today/what-you-need-to-know-about-golang-based-malware-malware-ransomware-hacking/
+- 9.观点：自服务的k8s namespace将改变游戏规则 - https://itnext.io/self-service-kubernetes-namespaces-are-a-game-changer-19bd2f59f06b
+- 10.git项目中被禁止使用的C函数 - https://github.com/git/git/blob/master/banned.h
+
+## 码农桃花源--2021-03-06
+### 优质文章汇总
+1. [内存对齐底层原理](https://mp.weixin.qq.com/s/F0NTfz-3x3UxQeF-GSavRg)
+
+2. [复习：图解slab](http://www.wowotech.net/memory_management/426.html)
+
+3. [图解linux网络包接收过程](https://mp.weixin.qq.com/s/GoYDsfy9m0wRoXi_NCfCmg)
+
+4. [复习 g0 栈和用户栈如何完成切换](https://mp.weixin.qq.com/s/sGR_VF13Czd9VuvHb-96iA)
+
+5. [属于曹大的书评](https://www.yuque.com/wegoer/we-reading/epck8l)
+
+### 面试问题
+
+1. redis的同步机制
+
+2. redis有哪几种对象类型，分别适用于什么场景？
+
+3. 最新的redis 6.0用了多线程，是怎么实现的
+
+4. redis的跳表了解吗，数据结构是怎么样的，查询的时间复杂度是多少
+
+5.  Redis 为什么在对数据进行快照持久化时会需要使用子进程
+
+6. redis如何保证重写后的数据库状态和AOF文件一致？
+
+7. Etcd满足了CAP中哪两个特性？应用场景？
+
+8. MVCC是什么，是如何实现的，算法说一下？
+
+9. mysql的隔离级别有几种，默认的隔离级别是什么，互联网常用的隔离级别是什么？
+
+10. B+树索引的最底层单元是什么？什么决定了B+树的高度？B+树的叶子节点是单向链表还是双向链表?
+
+11. B树和B+树区别
+
+12. 聚集索引与非聚集索引
+
+13. 非聚集索引一定回表查询吗(覆盖索引)?
+
+14. 使用过 Redis 分布式锁么，它是什么回事？
+
+15. 假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？
+
+16. new和make的区别
+
+17. 引用类型都有哪些
+
+18. go的内存模型中，为什么小对象多了会造成gc压力
+
+19. 将10阶对称矩阵压缩存储到一维数组A中，则数组A的长度最少为
+
 
 ## go中文网每日资讯--2021-03-05
 
