@@ -7,6 +7,63 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-03-07 
+
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 85 期 — 女神节快乐](https://mp.weixin.qq.com/s/OQDZSSIMcDhC1IAylyZNLQ)
+
+2. [如何快速成为go语言 contributor](https://mp.weixin.qq.com/s/ITJeSW-kUT5SFAhAaTt0cg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-06)——955 不加班公司名单](https://mp.weixin.qq.com/s/sgzDHFb4PcwbGdBU2huNFQ)
+
+三、吴亲强的深夜食堂
+
+1. [Go 语言的参数传递](https://mp.weixin.qq.com/s/lOQHBJ-oUf9YsnGw4zkmig)
+
+四、luozhiyun很酷
+
+1. [Go中定时器实现原理及源码解析](https://mp.weixin.qq.com/s/B83rfy9nkO4w0_FjyFn4MQ)
+
+五、新亮笔记
+
+1. [管理认知（一）](https://mp.weixin.qq.com/s/gufAKJWDcRQA0vgRFTwcmw)
+
+六、mohuishou
+
+1. [Go工程化(七) Go Module](https://mp.weixin.qq.com/s/w7-usetlAnfpnFmfJNb7rw)
+
+七、GolangWeekly
+
+1. [Awesome Go Newsletter - Issue 250, Mar 04, 2021 | LibHunt](https://go.libhunt.com/newsletter/250)
+
+2. [Golang Weekly Issue 352: March 5, 2021](https://golangweekly.com/issues/352)
+## GOCN每日新闻--2021-03-07
+1.Go 中定时器实现原理及源码解析 https://www.luozhiyun.com/archives/458
+
+2.Go 工程化 (七) Go Module http://lailin.xyz/post/go-training-week4-go-module.html
+
+3.Alluxio 助力 Kubernetes，加速云端深度学习 https://mp.weixin.qq.com/s/te2QMhcK0Gi_P9yGyvvlFA
+
+4.Go 面向对象编程篇（五）：接口定义及实现 https://mp.weixin.qq.com/s/UdFbW0r8B8nzcb9jT97_ZA
+
+5.手撸 golang GO 与微服务 ChatServer 之 1 https://segmentfault.com/a/1190000039358823
+
+## gopherDaily--2021-03-07 
+- 1.Redmonk 2021.1月编程语言排行榜，Go排名第16 - https://redmonk.com/sogrady/2021/03/01/language-rankings-1-21/
+- 2.Web开发人员眼中Go的优势、劣势与威胁- https://blog.codonomics.com/2021/03/go-strengths-weaknesses-and-threats.html
+- 3.Go实现Bridge模式 - https://golangbyexample.com/bridge-design-pattern-in-go/
+- 4.Go包/module vanity url服务器 - https://github.com/nofeaturesonlybugs/goovus
+- 5.if-else-switch by Robert C. Martin (Uncle Bob) - http://blog.cleancoder.com/uncle-bob/2021/03/06/ifElseSwitch.html
+- 6.如何在GKE的Kubernetes上使用Nginx入口设置内部和外部负载均衡器 - https://spltech.co.uk/how-to-setup-multiple-ingress-controller-with-nginx-ingress-on-gke/
+- 7.通过网络管道攻击Kubernetes集群：第1部分 - https://www.cyberark.com/resources/threat-research-blog/attacking-kubernetes-clusters-through-your-network-plumbing-part-1
+- 8.Go实现的社区搜索引擎 - https://github.com/cblgh/lieu
+- 9.使用多容器pod扩展Kubernetes上的应用程序 - https://learnk8s.io/sidecar-containers-patterns
+- 10.将多个VirtualServices附加到Istio Gateway - https://learncloudnative.com/blog/2020-11-23-multiple-vs-gateway
+- 11.AWS S3当年的设计决策内幕 - https://cacm.acm.org/magazines/2021/3/250706-a-second-conversation-with-werner-vogels/fulltext
 ## go中文网每日资讯--2021-03-06
 
 一、Go语言中文网
