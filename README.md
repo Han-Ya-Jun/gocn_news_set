@@ -6,6 +6,199 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-03-09 
+
+
+一、Go语言中文网
+
+1. [Go：死锁是如何触发的？](https://mp.weixin.qq.com/s/ZezoXyGn0HA-8j7yForU6Q)
+
+2. [Go垃圾回收系列之三：并行标记执行模式](https://mp.weixin.qq.com/s/QwZLXfKpFU1OvrJJvsjlzA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-08)——Go 并发编程(一) goroutine](https://mp.weixin.qq.com/s/r4O9hJSYAI8I9k0iLbRvVA)
+
+三、真没什么逻辑
+
+1. [Facebook 集群调度管理系统 · OSDI 2020](https://mp.weixin.qq.com/s/9ge-Ro79sl63k0lSuiE2Yw)
+
+四、k8s技术圈
+
+1. [MongoDB 常用运维实践总结](https://mp.weixin.qq.com/s/CZEOpI2WSKZH-FdT4zvJFQ)
+
+五、CloudNativeCommunity
+
+1. [网络研讨会视频 &amp; PPT 分享 | GitOps 及 OAM 的落地实践](https://mp.weixin.qq.com/s/3O9QDnQE4X56d4mXZ9R2zg)
+
+六、mohuishou
+
+1. [Go工程化(八) 单元测试](https://mp.weixin.qq.com/s/UBCiGXGA8DA0V_jegB0VGQ)
+
+2. [Go工程化(二) 项目目录结构](https://mp.weixin.qq.com/s/_yCG3hs3iFxZVUQ6YMhpaA)
+
+3. [Go工程化(一) 架构整洁之道阅读笔记](https://mp.weixin.qq.com/s/XwrLHuWyo0lypT1NGaRh7A)
+
+七、Go招聘
+
+1. [单身的Gopher快来‘探探’路](https://mp.weixin.qq.com/s/wCMKDJfcZQ0gAaLIjqXr7A)
+ 
+## GOCN每日新闻--2021-03-09 
+
+1.从 bug 中学习：六大开源项目告诉你 go 并发编程的那些坑 https://mp.weixin.qq.com/s/FDV77dO9nwtPltmx5cB7Lw
+
+2.从 MPG 线程模型，探讨 Go 语言的并发程序 https://segmentfault.com/a/1190000039371156
+
+3.手撸 golang GO 与微服务 ChatServer 之 3 压测与诊断 https://segmentfault.com/a/1190000039370281
+
+4.Go reflection 三定律与最佳实践 https://mp.weixin.qq.com/s/uGWQLTQuZDZokVNmwwA7bA
+
+5.生成艺术图的 Go 库 https://github.com/jdxyw/generativeart
+
+
+
+## gopherDaily--2021-03-09
+1.如何在Go中组织项目结构 - https://www.dudley.codes/posts/2021.02.23-golang-struct-organization/
+
+2.gohugo作者Steve Francia专访：gohugo起源、学习go的技巧和开源贡献 - https://www.gremlin.com/blog/podcast-break-things-on-purpose-steve-francia-product-and-strategy-lead-at-google/
+
+3.DeepValueNetwork是一个由其社区管理和托管的点对点数据库网络 - https://github.com/deepvalue-network/software
+
+4.遵循最佳实践可能让你的程序变慢 - https://stackoverflow.blog/2021/03/03/best-practices-can-slow-your-application-down/
+
+5.如何用Go为envoy构建一个Filter - https://github.com/myteksi/ego-demo
+
+6.k9s: kubernetes的命令行UI - https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f
+
+7.pg: Go ORM库，专注于PostgreSQL的特性和性能 - https://github.com/go-pg/pg
+
+8.在数据中寻找趋势 - 使用Go实现线性回归 - https://synchrodynamic.com/finding-trends-in-data-golang-linear-regression/
+
+9.使用Consul时提供过期DNS条目的好处 - https://blog.cloudflare.com/the-benefits-of-serving-stale-dns-entries-when-using-consul/
+
+10.耶鲁公开课：游戏理论 - https://oyc.yale.edu/economics/econ-159
+
+11.为什么软件项目需要的时间比你想象的要长：一个统计模型 - https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html
+
+## 码农桃花源--2021-03-09
+### 文章分享
+1 [dubbo-go如何实现路由策略功能](https://segmentfault.com/a/1190000022523595?utm_source=sf-related)
+
+2 [造轮子-golang哈希表实现](https://segmentfault.com/a/1190000039219752)
+
+
+3 [五福背后的3D引擎](https://segmentfault.com/a/1190000039304848)
+
+### 面试题
+1 输入 ping IP 后敲回车，发包前会发生什么？
+
+2 关于 epoll 和 select 的区别，哪些说法是正确的？（多选）
+
+A. epoll 和 select 都是 I/O 多路复用的技术，都可以实现同时监听多个 I/O 事件的状态。
+
+B. epoll 相比 select 效率更高，主要是基于其操作系统支持的I/O事件通知机制，而 select 是基于轮询机制。
+
+C. epoll 支持水平触发和边沿触发两种模式。
+
+D. select 能并行支持 I/O 比较小，且无法修改。
+
+### 每日算法
+lc895 最大频率栈 https://leetcode-cn.com/problems/maximum-frequency-stack/
+
+## go中文网每日资讯--2021-03-08 
+
+一、Go语言中文网
+
+1. [我是如何在 Go 中构建 Web 服务的](https://mp.weixin.qq.com/s/lrG-sakk5EfMSLfoJV-Hyw)
+
+2. [Go垃圾回收系列之二：标记准备](https://mp.weixin.qq.com/s/UjGmc9SkUlI48Gl3yVGlSA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-07)——Go 工程化(七) Go Module](https://mp.weixin.qq.com/s/u1jlP2e5rDuy0D4lkcaUYQ)
+
+三、脑子进煎鱼了
+
+1. [问个 Go 问题，字符串 len == 0 和 字符串== &quot;&quot; ，有啥区别？](https://mp.weixin.qq.com/s/rMygbfaLAF5NF206uEUJKA)
+
+四、mohuishou
+
+1. [Go并发编程(一) goroutine](https://mp.weixin.qq.com/s/NJCXUit5tuISl4WSkT5hpA)
+
+2. [Go并发编程(二) Go 内存模型](https://mp.weixin.qq.com/s/toN5tUXnF6sExPb0d78jxQ)
+
+3. [Go并发编程(三) data race](https://mp.weixin.qq.com/s/BYOYE6KCtcuKoI3fCjcO7A)
+
+五、转角遇到GitHub
+
+1. [NutsDB：又一个 Go  内嵌型 K/V 数据库](https://mp.weixin.qq.com/s/8sCNEwchLseycZQh5-oAWQ)
+
+六、taowen
+
+1. [打造杰出软件开发团队的12条指导建议](https://mp.weixin.qq.com/s/fdsczP9vB0XFWMdwtChyEQ)
+
+七、微服务实践
+
+1. [还在用crontab? 分布式定时任务了解一下](https://mp.weixin.qq.com/s/liZl74BeSH56fzqAwjsFeA)
+
+八、k8s技术圈
+
+1. [Kubernetes 原生 CI/CD 构建框架 Tekton 详解！](https://mp.weixin.qq.com/s/jokzB9MgyAl6ZfxJbbgxnQ)
+
+九、五分选手
+
+1. [Go reflection 三定律与最佳实践](https://mp.weixin.qq.com/s/uGWQLTQuZDZokVNmwwA7bA)
+
+
+## GOCN每日新闻--2021-03-08 
+
+1.[Go 分布式定时任务框架 ](https://segmentfault.com/a/1190000039361384)
+
+2.[Go 问题：字符串 len==0 和字符串== "" 有啥区别？](https://mp.weixin.qq.com/s/rMygbfaLAF5NF206uEUJKA)
+
+3.[手撸 golang GO 与微服务 ChatServer 之 2 ](https://segmentfault.com/a/1190000039362149)
+
+4.[Go 项目中代码组织的两种模式 ](https://mp.weixin.qq.com/s/MB9TDhiZi9vuSnOBX-XdoQ)
+
+5.[Docker 容器技术搭建百万并发压测环境 ](https://mp.weixin.qq.com/s/xbzNpVyOrCD7KWA1Ng3emA)
+
+
+
+## gopherDaily--2021-03-08 
+- 1.[使用Go构建Web前端]( https://philippta.github.io/web-frontends-in-go/)
+
+- 2.[Go并发模式：pipeline ](https://yuliangunawan19.medium.com/go-concurrency-pattern-pipelines-5935ffaf33fb)
+- 3.[带语法高亮的go doc]( https://github.com/ravener/gopherdoc)
+- 4.[将CockroachDB从dep迁移到go module](https://www.cockroachlabs.com/blog/dep-go-modules/) 
+- 5.[Go错误、panic和recover]( https://dev.to/seventech/error-panic-and-recover-in-golang-486l)
+- 6.[k8s本地开发环境候选者比较 ](https://itnext.io/kubernetes-local-playground-alternatives-e1a590632b9f)
+- 7.[油管视频：探索k3s和k3sup ](https://www.youtube.com/watch?v=_1kEF-Jd9pw)
+- 8.[在k8s内运行ghost博客实战 ](https://blog.appstack.one/how-to-run-ghost-blog-inside-kubernetes/)
+- 9.[如何备份fabric区块链网络 ](https://allyourfeeds.com/blockchain/news/how-to-take-a-backup-for-your-hyperledger-fabric-network)
+- 10.[hyperledger介绍2021版 ](https://decrypt.co/resources/hyperledger)
+
+
+## 码农桃花源--2021-03-08
+### 文章分享
+1 [grpc从实践到原理](https://eddycjy.com/posts/go/talk/2019-06-29-talking-grpc/)
+
+2 [dubbo-go云原生引擎探索](https://segmentfault.com/a/1190000025122783)
+
+3 [golang 撮合引擎 从思路到MVP](https://mp.weixin.qq.com/s/DvUh0igObcRsyEWrg1NMAw)
+
+### 面试问题
+1 从 innodb 的索引结构分析，为什么索引的 key 长度不能太长？
+
+2 innodb关键特性
+
+3 MySQL 的数据如何恢复到任意时间点？
+
+4 讲一讲mvcc的redo log、undo log，和binlog有什么不同
+
+### 每日算法
+lc891 子序列宽度之和
+
+
 
 ## go中文网每日资讯--2021-03-07 
 
