@@ -6,6 +6,98 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-03-10
+
+
+一、Go语言中文网
+
+1. [360 加大 Go 招聘，Go 形势大好！你来吗？](https://mp.weixin.qq.com/s/F5SP2s1PrEHx_3IyszCC1Q)
+
+2. [Go垃圾回收系列之四：根对象与全局扫描](https://mp.weixin.qq.com/s/UzfOqRY7DSUC9qCoN9CJPA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-09)——从 MPG 线程模型，探讨 Go 语言的并发程序](https://mp.weixin.qq.com/s/VWgx8_NWxBgTAtij81g4Tw)
+
+三、polarisxu
+
+1. [polarisxu 对话无闻](https://mp.weixin.qq.com/s/RZdSx8C36QdG59XdqQ2svg)
+
+四、腾讯技术工程
+
+1. [2021 有哪些不容错过的后端技术趋势](https://mp.weixin.qq.com/s/EuqJ2Q9CAWSJ0rTc_p_gjg)
+
+五、网管叨bi叨
+
+1. [如何优雅地关闭Kubernetes集群中的Pod](https://mp.weixin.qq.com/s/fbQ2vdJ4bDJdOrhNFChOsQ)
+
+六、Gopher指北
+
+1. [今天看了一道很有意思的切片输出面试题](https://mp.weixin.qq.com/s/G8MrTgwH88ABB-OOYreXIA)
+
+七、Go招聘
+
+1. [计算机系统最底层、最具挑战的领域招 Go，敢不敢来？](https://mp.weixin.qq.com/s/N8J7V_GHjXR5F7bpJH2wLg)
+
+
+## GOCN每日新闻--2021-03-10
+1.Golang 泛型初探 https://gocn.vip/topics/11759
+
+2.TiKV + SPDK，探索存储的性能极限 https://gocn.vip/topics/11760
+
+3.Go 垃圾回收系列之三：并行标记执行模式 https://mp.weixin.qq.com/s/QwZLXfKpFU1OvrJJvsjlzA
+
+4.Golang 的内存对齐 https://studygolang.com/articles/33789
+
+5.Golang 并发模式之扇入 FAN-IN 和扇出 FAN-OUT https://studygolang.com/articles/33808
+
+## gopherDaily--2021-03-10
+1.Go自动化测试介绍 - https://dev.to/salesforceeng/intro-to-automated-testing-in-go-4mjl
+
+2.kglb: dropbox开源的用Go开发的基于ip_vs的四层负载均衡器 - https://github.com/dropbox/kglb
+
+3.使用Go标准库heap包 - https://klotzandrew.com/blog/using-the-go-heap-interface
+
+4.vscode-go将staticcheck作为默认lint工具 - https://github.com/golang/vscode-go/commit/fd0328225d16ecc97e09e72c8c354cf106928984
+
+5.使用依赖注入进行Go mock测试 - https://medium.com/everything-full-stack/golang-test-mocking-using-dependency-injection-f48cddbcf6dd
+
+6.在表驱动测试中使用Gomock进行mock测试 - https://gogoapps.io/blog/mocking-with-gomock-in-table-driven-tests/
+
+7.使用go构建一个微型API - https://www.moonclash.com/simple-go-api/
+
+8.数据科学学习路线 - https://docs.google.com/document/d/1Gstaq13qxnk2inIYWVnvpI0ohhK1wuhVwsBzYs1vEno/edit
+
+9..Red Hat OpenShift 4.7：旨在简化和加速应用程序现代化 - https://www.redhat.com/en/about/press-releases/red-hat-refines-kubernetes-both-traditional-and-cloud-native-applications-latest-version-red-hat-openshift
+
+10.机器学习和深度学习数据集 - https://sebastianraschka.com/blog/2021/ml-dl-datasets.html
+全球最具创新力的公司2021 - https://www.fastcompany.com/90603436/the-worlds-most-innovative-companies-2021
+
+## 码农桃花源--2021-03-10
+### 文章分享
+1 [dubbo-go如何实现路由策略功能](https://segmentfault.com/a/1190000022523595?utm_source=sf-related)
+
+2 [造轮子-golang哈希表实现](https://segmentfault.com/a/1190000039219752)
+
+3 [五福背后的3D引擎](https://segmentfault.com/a/1190000039304848)
+
+### 面试题
+1 输入 ping IP 后敲回车，发包前会发生什么？
+
+2 关于 epoll 和 select 的区别，哪些说法是正确的？（多选）
+
+A. epoll 和 select 都是 I/O 多路复用的技术，都可以实现同时监听多个 I/O 事件的状态。
+
+B. epoll 相比 select 效率更高，主要是基于其操作系统支持的I/O事件通知机制，而 select 是基于轮询机制。
+
+C. epoll 支持水平触发和边沿触发两种模式。
+
+D. select 能并行支持 I/O 比较小，且无法修改。
+
+### 每日算法
+lc895 最大频率栈 https://leetcode-cn.com/problems/maximum-frequency-stack/
+
 ## go中文网每日资讯--2021-03-09 
 
 
@@ -54,7 +146,6 @@
 4.Go reflection 三定律与最佳实践 https://mp.weixin.qq.com/s/uGWQLTQuZDZokVNmwwA7bA
 
 5.生成艺术图的 Go 库 https://github.com/jdxyw/generativeart
-
 
 
 ## gopherDaily--2021-03-09
