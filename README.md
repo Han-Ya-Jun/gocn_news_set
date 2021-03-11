@@ -6,6 +6,106 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-03-11 
+
+一、Go语言中文网
+
+1. [虽然有争议，但 Go 还是需要泛型的](https://mp.weixin.qq.com/s/UEGI0Zl6XuSGLDzMG6tnng)
+
+2. [白话Go内存模型：Happen-Before](https://mp.weixin.qq.com/s/vTQWxScEo4u6zaFHY9hQ0A)
+
+3. [Go 语言的参数传递](https://mp.weixin.qq.com/s/6EkOBPhSDo5GWlteiH-RZA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-10)——2021 有哪些不容错过的后端技术趋势](https://mp.weixin.qq.com/s/1KdZLOEKS6Llu_GYeV53kA)
+
+三、polarisxu
+
+1. [快一个月，Go1.16 才发现了比较严重的 Bug，但这个 Bug 有点 Low。。。](https://mp.weixin.qq.com/s/AddZm8qaWBY-Hgexq6tWkA)
+
+四、Go招聘
+
+1. [什么？腾讯招前端竟然希望熟悉 Go](https://mp.weixin.qq.com/s/a_fYCkgzmVkieU8YvreJ-w)
+
+五、分布式实验室
+
+1. [容器网络其实并不难](https://mp.weixin.qq.com/s/1hyCPrDb88q-kPSFaP-TPA)
+
+六、mohuishou
+
+1. [Go工程化(九) 项目重构实践](https://mp.weixin.qq.com/s/fZBh6QyRbV7O-rgyoOJblg)
+
+七、The Go Blog
+
+1. [Go Developer Survey 2020 Results](https://blog.golang.org/survey2020-results)
+
+八、k8s技术圈
+
+1. [k8s调度器启动流程分析 | 视频文字稿](https://mp.weixin.qq.com/s/olfA6Ty1vjkRGLj1KudUEw)
+
+2. [k8s调度器启动流程分析](https://mp.weixin.qq.com/s/qmgMdrC8LxEUdyHW1J_aXA)
+
+
+## GOCN每日新闻--2021-03-11 
+
+1.Go 1.16.1/1.15.9 版本发布，修复两处安全问题 https://groups.google.com/g/golang-announce/c/MfiLYjG-RAw/m/zzhWj5jPAQAJ
+
+2.2020 年 Go 开发者调研结果公开 https://blog.golang.org/survey2020-results
+
+3.Golang 在即刻后端的实践 https://mp.weixin.qq.com/s/cepoYJR5Xeloan31-D1iQg
+
+4.netaddr.IP: 一个新 Go IP 地址类型 https://tailscale.com/blog/netaddr-new-ip-type-for-go/
+
+5.使用 Godot 和 Nakama 构建在线多人游戏 https://heroiclabs.com/blog/announcements/godot-fishgame/
+
+
+
+## gopherDaily--2021-03-11 
+- 1.Go与eBPF入门 - https://networkop.co.uk/post/2021-03-ebpf-intro/
+- 2.Go 1.16.1和Go 1.15.9发布 - https://groups.google.com/g/golang-announce/c/MfiLYjG-RAw/m/zzhWj5jPAQAJ?pli=1
+- 3.使用Go实现gRPC长期流式传输(long-lived streaming) - https://dev.bitolog.com/grpc-long-lived-streaming/
+- 4.netaddr.IP：Go的新IP地址类型 - https://tailscale.com/blog/netaddr-new-ip-type-for-go/
+- 5.使用flag.Func(Go 1.16引入)自定义命令行标志 - https://www.alexedwards.net/blog/custom-command-line-flags
+- 6.cosign: 为镜像库中的容器签名，验证和存储, sigstore子项目 - https://github.com/sigstore/cosign
+- 7.在Go中创建证书颁发机构(CA)和签名证书 - https://shaneutt.com/blog/golang-ca-and-signed-cert-go/
+- 8.接纳Kubernetes需要转变思维方式（第1部分） - https://www.thoughtworks.com/insights/blog/mindset-shift-needed-kubernetes-adoption-part-1
+- 9.Go语言的mTLS入门指南 - https://venilnoronha.io/a-step-by-step-guide-to-mtls-in-go
+- 10.在k8s上根据rabbitmq中消息数量自动扩展Celery - https://learnk8s.io/scaling-celery-rabbitmq-kubernetes
+- 11.人工智能神经网络中的多模态神经元 by openai - https://openai.com/blog/multimodal-neurons/
+- 12.使用basecamp规划我的生活 - https://world.hey.com/tassia/how-i-use-basecamp-to-organize-my-life-3e71de07
+
+## 码农桃花源--2021-03-11
+### 文章分享
+1. [汇编指令简单学习](https://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483693&idx=1&sn=e5398ae82e2f3484bea5e8858b1a9cd7&scene=19#wechat_redirect)
+
+2. [内存的简单复习](http://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483669&idx=1&sn=39a43fbb3c60a58084d01928ae228b71&scene=19#wechat_redirect)
+
+3. [寄存器的简单复习](https://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483660&idx=1&sn=ea75d8fdb4b2e0eac03449d63172fe3e&scene=19#wechat_redirect)
+
+4. [以上我发的是我最近慢慢学习go调度的文章，看完饶大的文章有的地方还是不懂，看看别的大佬文章拓宽一下思维，如果不喜欢这样的系列可以跟我说，明天我换别的文章] 
+
+5. [群友推荐有意思的题目] https://mp.weixin.qq.com/s?__biz=MzkyMDAzNjQxMg==&mid=2247484139&idx=1&sn=259c87bb327142d1d6ba21927acde276&scene=21#wechat_redirect
+
+### 面试问题
+看完文章的问题 就当我是面试官好了
+1. mov %rdx, (%rax)与mov %rdx, %rax 的区别
+
+2. 函数与被调用函数如何转换(call 和 ret命令)
+
+3. 大小端存储方式是什么样子的
+
+4. 内存中分四个区域布局是？
+
+5. A方法调用B方法调用C方法的栈内存是如何变化的的？
+
+### 学习笔记
+栈：https://www.yuque.com/wuguoguoya/iq0d3v/gctugx
+汇编： https://www.yuque.com/wuguoguoya/iq0d3v/mkrsrd
+
+
+
+
 
 ## go中文网每日资讯--2021-03-10
 
