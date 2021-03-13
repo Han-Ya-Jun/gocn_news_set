@@ -6,6 +6,83 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-03-12 
+
+一、Go语言中文网
+
+1. [Go 实现的语言了解下【文末福利】](https://mp.weixin.qq.com/s/Aam7AVhgAZyO3WKHV1YuMw)
+
+2. [Go1.16.1 发布：这个 Bug 有点 Low](https://mp.weixin.qq.com/s/m68JeildlCg0cQ88CWLvUg)
+
+3. [Go垃圾回收系列之五：栈与栈对象](https://mp.weixin.qq.com/s/69ZvRHAwVdNzGXpXLRk6lQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-11)——k8s 调度器启动流程分析](https://mp.weixin.qq.com/s/L2uIv5GPqLZ25V9VX33ixw)
+
+三、taowen
+
+1. [代码写得不好，不要总觉得是自己抽象得不好](https://mp.weixin.qq.com/s/8T0rrl5dkwtYB_XCbAhACQ)
+
+四、多颗糖
+
+1. [【MIT 6.824】学习笔记4: 主从复制(Primary/Backup Replication)](https://mp.weixin.qq.com/s/pnJbd46gEPTpZLF1QYF-mg)
+
+五、Go招聘
+
+1. [珠海怎么样？好几个 Go 相关职位等你来](https://mp.weixin.qq.com/s/11wwK7L1Sfh_64eHVQAPUg)
+
+2. [两天功夫，Go发布1.16.1，接着又发布1.16.2](https://mp.weixin.qq.com/s/0Y48f2OTVmCLnBzVn2s8ZQ)
+
+六、Go101
+
+1. [Go文档和代码阅读神器Golds已更新到0.2.x版本了](https://mp.weixin.qq.com/s/uVX1hQzE6Qc0p-JiTd5ytQ)
+
+## GOCN每日新闻--2021-03-12
+1.Go 1.16.2 and Go 1.15.10 发布 https://groups.google.com/g/golang-announce/c/ZWvSr9XM4wM
+
+2.WebAssembly + Go 系列（2）WASI，WebAssembly 不止于 Web https://segmentfault.com/a/1190000039397525
+
+3.Dolt 像 Git 一样操作数据库 https://github.com/dolthub/dolt
+
+4.有道 Kubernetes 容器 API 监控系统设计和实践 https://segmentfault.com/a/1190000039390685
+
+5.Go 一步步实现 TLS 双向认证 https://venilnoronha.io/a-step-by-step-guide-to-mtls-in-go
+
+## gopherDaily--2021-03-12
+- 1.2020年Go官网开发者调查结果发布！- https://blog.golang.org/survey2020-results
+- 2.Go语言语法速查表 - https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/golang.md
+- 3.go.mod模块文件中Go版本行为的权衡 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesGoVersionWhy
+- 4.我们为什么从python迁移到Go - https://softwareengineeringdaily.com/2021/03/03/why-we-switched-from-python-to-go/
+- 5.2021年使用GO Buffalo的API：从零部署 - https://dev.to/alexmercedcoder/api-with-go-buffalo-in-2021-from-zero-to-deploy-5642
+- 6.在Go中实现NATS保活订阅 - https://medium.com/swlh/nats-keep-alive-subscription-in-golang-a80073949371
+- 7.Go代码到C#代码转换器及策略 - https://go2cs.net/ConversionStrategies.html
+- 8.模拟竞争条件以了解多线程（Go）的挑战 - https://dsinecos.github.io/blog/Challenges-of-multithreading
+- 9.破解kubernetes节点代理 - http://arthurchiao.art/blog/cracking-k8s-node-proxy/
+- 10.欧洲最大的时尚电子商务公司如何使用GraphQL - https://engineering.zalando.com/posts/2021/03/how-we-use-graphql-at-europes-largest-fashion-e-commerce-company.html
+## 码农桃花源--2021-03-13
+### 文章分享
+1. [go语言调度，函数调用过程](https://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483723&idx=1&sn=772960aa0d5ae4aa6921e9ff43fcb99f&scene=19#wechat_redirect)
+
+2. [内存重排](https://mp.weixin.qq.com/s/r9yC78exkDbXs7Et2pC5PA)
+
+3. [昨天那道问题如果没回答上来，复习一下吧](https://mp.weixin.qq.com/s/MTZ0C9zYsNrb8wyIm2D8BA)
+
+4. [问题链接](https://mp.weixin.qq.com/s?__biz=MzkyMDAzNjQxMg==&mid=2247484139&idx=1&sn=259c87bb327142d1d6ba21927acde276&scene=21#wechat_redirect)
+
+### 面试题
+1. Go语言的栈空间管理是怎么样的
+
+2. Go的GPM如何调度
+
+3. Go的Slice如何扩容
+
+4. Go中CAS是怎么回事
+
+### 每日算法
+lc1383	最大的团队表现值
+
 ## go中文网每日资讯--2021-03-11 
 
 一、Go语言中文网
