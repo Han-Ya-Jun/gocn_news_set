@@ -47,27 +47,33 @@
 5.使用 SQL 查询文件系统 https://github.com/kashav/fsql
 
 ## gopherDaily--2021-03-13
-1.如何成为Go开发人员：6步职业指南 - https://dev.to/educative/how-to-become-a-golang-developer-6-step-career-guide-476n
+1.为什么go的存在让docker变得没有必要 - https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html
 
-2.Go 1.16.2和Go 1.15.10紧急发布 - https://groups.google.com/g/golang-announce/c/ZWvSr9XM4wM/m/t8wy_q5_AgAJ
+2.Rust vs. Go：为什么强强联合会更好 - https://t.zsxq.com/emuzvJy
 
-3.go sqlite支持apple M1 - https://pkg.go.dev/modernc.org/sqlite#hdr-Changelog
+3.accelerated-container-image: 论文”DADI: Block-Level Image Service for Agile and Elastic Application Deployment “的开源实现。它以iSCSI块设备的形式提供基于块的层的序列合并视图。它可以用于容器加速，支持按需获取图像数据，而无需在容器运行前下载和解压整个图像。通过OverlayBD图像格式，我们可以瞬间冷启动一个容器。- https://github.com/alibaba/accelerated-container-image
 
-4.paper: 自动检测和修复Go软件系统中的并发性错误 - https://songlh.github.io/paper/gcatch.pdf
+4.Golds：一个Go本地文档服务器、文档生成工具以及go代码阅读工具 - https://go101.org/article/tool-golds.html
 
-5.掌握Go html模板基础 - https://philipptanlak.com/mastering-html-templates-in-go-the-fundamentals/
+5.netbootd是一个轻量级的网络启动服务器，支持无人值守的操作系统安装 - https://github.com/DSpeichert/netbootd
 
-6.在Cloud Run上构建大型聊天服务器 - https://ahmet.im/blog/cloud-run-chat-server/
+6.图解OAuth2 - https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
 
-7.云原生应用交付–2021年我们的发展方向 - https://medium.com/dynatrace-engineering/cloud-native-app-delivery-where-were-heading-in-2021-c0a413610352
+7.使用gitlab ci/cd在k8s上构建和部署应用 - https://piotrminkowski.com/2020/10/19/gitlab-ci-cd-on-kubernetes/
 
-8.拆解和修复etcd集群 - https://itnext.io/breaking-down-and-fixing-etcd-cluster-d81e35b9260d
+8.GitOps的魅力不止于眼前的一切 - https://www.weave.works/blog/theres-more-to-gitops-than-meets-the-eye
 
-9.使用tinygo开发webassembly程序 - https://sendilkumarn.com/blog/tiny-go-wasm/
+9.微软开源低代码平台语言Fx - https://thenewstack.io/microsoft-open-sources-the-power-fx-language-for-customizing-logic-in-low-code-apps/
 
-10.经典旧文：SOLID Go设计 - https://dave.cheney.net/2016/08/20/solid-go-design
+10.终结k8s namespace的隐藏危险 - https://www.openshift.com/blog/the-hidden-dangers-of-terminating-namespaces
 
-11.我为什么不喜欢tailwind css - https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/
+11.rust vs. c性能比较 - https://kornel.ski/rust-c-speed
+
+12.Linkerd中的协议检测和不透明端口 - https://www.cncf.io/blog/2021/03/10/protocol-detection-and-opaque-ports-in-linkerd/
+
+13.bombardier: 跨平台高性能http性能基准测试工具 - https://github.com/codesenberg/bombardier
+
+14.用实时观察器扩展数组 - https://khal.web.id/2021/03/13/go-extending-array-with-a-real-time-observer/
 
 ## 码农桃花源--2021-03-13
 ### 优质文章汇总
