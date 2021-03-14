@@ -7,6 +7,126 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+
+## go中文网每日资讯--2021-03-13 
+一、Go语言中文网
+
+1. [Go 官方 2020 年开发者调查报告](https://mp.weixin.qq.com/s/mw3ktRLNL9H4m32Es_nU_A)
+
+2. [Kubernetes 稳定性保障手册 -- 极简版](https://mp.weixin.qq.com/s/Udl25deXsEo7qc_2MAmpFg)
+
+3. [Go垃圾回收之六：扫描灰色对象](https://mp.weixin.qq.com/s/7rK307CTWE72LHRpgVP_9Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-12)——Go1.16.1 发布：这个 Bug 有点 Low](https://mp.weixin.qq.com/s/ndp-ahd1FOe1q4OsjtVCTw)
+
+三、脑子进煎鱼了
+
+1. [Go 爱好者福利，《Go 语言编程之旅》正式开源！](https://mp.weixin.qq.com/s/Nt1Bd-G7rqrwM8_JbEkAag)
+
+四、k8s技术圈
+
+1. [阿里云与华为云边缘 K8S 使用对比总结](https://mp.weixin.qq.com/s/4JAWNV5ARaChGc5dLZfMTg)
+
+五、xueyuanjun
+
+1. [Go 数据结构和算法篇（一）：链表](https://mp.weixin.qq.com/s/Zvdxs0Ag2_xrnMJ9wC1MFQ)###
+
+## GOCN每日新闻--2021-03-13
+
+1.对抗僵尸依赖 https://dlorenc.medium.com/zombie-dependencies-77c34740a7a8
+
+2.入门 Go 和 eBPF https://networkop.co.uk/post/2021-03-ebpf-intro/
+
+3.掌握 Go HTML Templates https://philipptanlak.com/mastering-html-templates-in-go-the-fundamentals/
+
+4.如何使用 Golang 处理 MySQL 的 binlog https://zhuanlan.zhihu.com/p/335964345
+
+5.使用 SQL 查询文件系统 https://github.com/kashav/fsql
+
+## gopherDaily--2021-03-13
+1.如何成为Go开发人员：6步职业指南 - https://dev.to/educative/how-to-become-a-golang-developer-6-step-career-guide-476n
+
+2.Go 1.16.2和Go 1.15.10紧急发布 - https://groups.google.com/g/golang-announce/c/ZWvSr9XM4wM/m/t8wy_q5_AgAJ
+
+3.go sqlite支持apple M1 - https://pkg.go.dev/modernc.org/sqlite#hdr-Changelog
+
+4.paper: 自动检测和修复Go软件系统中的并发性错误 - https://songlh.github.io/paper/gcatch.pdf
+
+5.掌握Go html模板基础 - https://philipptanlak.com/mastering-html-templates-in-go-the-fundamentals/
+
+6.在Cloud Run上构建大型聊天服务器 - https://ahmet.im/blog/cloud-run-chat-server/
+
+7.云原生应用交付–2021年我们的发展方向 - https://medium.com/dynatrace-engineering/cloud-native-app-delivery-where-were-heading-in-2021-c0a413610352
+
+8.拆解和修复etcd集群 - https://itnext.io/breaking-down-and-fixing-etcd-cluster-d81e35b9260d
+
+9.使用tinygo开发webassembly程序 - https://sendilkumarn.com/blog/tiny-go-wasm/
+
+10.经典旧文：SOLID Go设计 - https://dave.cheney.net/2016/08/20/solid-go-design
+
+11.我为什么不喜欢tailwind css - https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/
+
+## 码农桃花源--2021-03-13
+### 优质文章汇总
+1. [golang 撮合引擎 从思路到MVP](https://mp.weixin.qq.com/s/DvUh0igObcRsyEWrg1NMAw)
+
+2. [造轮子-golang哈希表实现](https://segmentfault.com/a/1190000039219752)
+
+3. [dubbo-go如何实现路由策略功能](https://segmentfault.com/a/1190000022523595?utm_source=sf-related)
+
+4. [redis cluster实现分布式锁](https://tonybai.com/2021/02/13/operate-with-shared-resources-in-a-mutually-exclusive-way-through-distributed-lock-implemented-by-redis-cluster/)
+
+5. [汇编指令简单学习](https://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483693&idx=1&sn=e5398ae82e2f3484bea5e8858b1a9cd7&scene=19#wechat_redirect)
+
+6. [go语言调度，函数调用过程](https://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483723&idx=1&sn=772960aa0d5ae4aa6921e9ff43fcb99f&scene=19#wechat_redirect)
+### 面试问题
+1. Go语言的栈空间管理是怎么样的
+
+2. Go的GPM如何调度
+
+3. Go的Slice如何扩容
+
+4. Go中CAS是怎么回事
+
+5. mov %rdx, (%rax)与mov %rdx, %rax 的区别
+
+6. 函数与被调用函数如何转换(call 和 ret命令)
+
+7. 大小端存储方式是什么样子的
+
+8. 内存中分四个区域布局是？
+
+9. A方法调用B方法调用C方法的栈内存是如何变化的的？
+
+10. nmap扫描如何进行扫描。发包与协议，握手和不握手，哪些协议握手，哪些不握手. 如何不直接接触目标服务器探测对方端口是否开放
+
+11. mysql的读写分离与主从同步
+
+12.  mysql如何保证一致性与持久性
+
+13.  输入 ping IP 后敲回车，发包前会发生什么？
+
+14. 从 innodb 的索引结构分析，为什么索引的 key 长度不能太长？
+
+15. innodb关键特性
+
+16. MySQL 的数据如何恢复到任意时间点？
+
+17. 讲一讲mvcc的redo log、undo log，和binlog有什么不同
+
+18. 关于 epoll 和 select 的区别，哪些说法是正确的？（多选）
+
+A. epoll 和 select 都是 I/O 多路复用的技术，都可以实现同时监听多个 I/O 事件的状态。
+
+B. epoll 相比 select 效率更高，主要是基于其操作系统支持的I/O事件通知机制，而 select 是基于轮询机制。
+
+C. epoll 支持水平触发和边沿触发两种模式。
+
+D. select 能并行支持 I/O 比较小，且无法修改
+
 ## go中文网每日资讯--2021-03-12 
 
 一、Go语言中文网
@@ -61,7 +181,7 @@
 - 8.模拟竞争条件以了解多线程（Go）的挑战 - https://dsinecos.github.io/blog/Challenges-of-multithreading
 - 9.破解kubernetes节点代理 - http://arthurchiao.art/blog/cracking-k8s-node-proxy/
 - 10.欧洲最大的时尚电子商务公司如何使用GraphQL - https://engineering.zalando.com/posts/2021/03/how-we-use-graphql-at-europes-largest-fashion-e-commerce-company.html
-## 码农桃花源--2021-03-13
+## 码农桃花源--2021-03-12
 ### 文章分享
 1. [go语言调度，函数调用过程](https://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483723&idx=1&sn=772960aa0d5ae4aa6921e9ff43fcb99f&scene=19#wechat_redirect)
 
