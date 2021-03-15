@@ -8,6 +8,77 @@
 # gocn_news_set_2021
 
 
+## gopherDaily--2021-03-14
+- 1.为什么go的存在让docker变得没有必要 - https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html
+- 2.Rust vs. Go：为什么强强联合会更好 - https://t.zsxq.com/emuzvJy
+- 3.accelerated-container-image: 论文”DADI: Block-Level Image Service for Agile and Elastic Application Deployment “的开源实现。它以iSCSI块设备的形式提供基于块的层的序列合并视图。它可以用于容器加速，支持按需获取图像数据，而无需在容器运行前下载和解压整个图像。通过OverlayBD图像格式，我们可以瞬间冷启动一个容器。- https://github.com/alibaba/accelerated-container-image
+- 4.Golds：一个Go本地文档服务器、文档生成工具以及go代码阅读工具 - https://go101.org/article/tool-golds.html
+- 5.netbootd是一个轻量级的网络启动服务器，支持无人值守的操作系统安装 - https://github.com/DSpeichert/netbootd
+- 6.图解OAuth2 - https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
+- 7.使用gitlab ci/cd在k8s上构建和部署应用 - https://piotrminkowski.com/2020/10/19/gitlab-ci-cd-on-kubernetes/
+- 8.GitOps的魅力不止于眼前的一切 - https://www.weave.works/blog/theres-more-to-gitops-than-meets-the-eye
+- 9.微软开源低代码平台语言Fx - https://thenewstack.io/microsoft-open-sources-the-power-fx-language-for-customizing-logic-in-low-code-apps/
+- 10.终结k8s namespace的隐藏危险 - https://www.openshift.com/blog/the-hidden-dangers-of-terminating-namespaces
+- 11.rust vs. c性能比较 - https://kornel.ski/rust-c-speed
+- 12.Linkerd中的协议检测和不透明端口 - https://www.cncf.io/blog/2021/03/10/protocol-detection-and-opaque-ports-in-linkerd/
+- 13.bombardier: 跨平台高性能http性能基准测试工具 - https://github.com/codesenberg/bombardier
+- 14.用实时观察器扩展数组 - https://khal.web.id/2021/03/13/go-extending-array-with-a-real-time-observer/
+
+
+## GOCN每日新闻--2021-03-14
+
+1.Go 编写的带有实时分析器的负载测试工具 https://www.reddit.com/r/golang/comments/m4j04y/a_load_testing_tool_with_a_realtime_analyzer/
+
+2.我如何在 Go 中构建 Web 前端 https://philipptanlak.com/web-frontends-in-go/
+
+3.Go maps 和 switches https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html
+
+4.为什么我们不使用 Docker https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html
+
+5.Rust vs Go 为什么他们在一起会更好 https://thenewstack.io/rust-vs-go-why-theyre-better-together/
+
+
+## go中文网每日资讯--2021-03-14 
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 86 期 — 这道题考察什么？](https://mp.weixin.qq.com/s/VWcooMEaCsESpBXLU5c7jg)
+
+2. [Go 空结构体引发的大型打脸现场](https://mp.weixin.qq.com/s/lZMZroOhqvDKDCEsaGPfrQ)
+
+3. [还在用crontab? 分布式定时任务了解一下](https://mp.weixin.qq.com/s/IftPwlmubjwGQz1KYTHIIQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-13)——Go 官方 2020 年开发者调查报告](https://mp.weixin.qq.com/s/S8UO4NM1d4HMlub-mJhm_w)
+
+三、董泽润的技术笔记
+
+1. [HOL blocking 困扰两个月的问题](https://mp.weixin.qq.com/s/8gajOBLJCHxlVWeyAzgW2w)
+
+四、xueyuanjun
+
+1. [Go 数据结构和算法篇（二）：栈](https://mp.weixin.qq.com/s/NEsgLvdgOkp9JRNnNlSC1A)
+
+五、polarisxu
+
+1. [为什么 Go1.16.1 发布的第二天又发布 1.16.2？](https://mp.weixin.qq.com/s/mbMCxhmz8pF8VUMKm3XYtA)
+
+六、Go招聘
+
+1. [Go Interview Weekly - 2021/03/14](https://mp.weixin.qq.com/s/TGrbynJczOtE4VNuzaHuWw)
+
+七、奇伢云存储
+
+1. [深度剖析 Linux cp 的秘密](https://mp.weixin.qq.com/s/bLiqURdK_dtgr0GqU7yD9w)
+
+八、Go Weekly
+
+1. [Awesome Go Newsletter - Issue 251, Mar 11, 2021 | LibHunt](https://go.libhunt.com/newsletter/251)
+
+2. [Golang Weekly Issue 353: March 12, 2021](https://golangweekly.com/issues/353)
+
+
 
 ## go中文网每日资讯--2021-03-13 
 一、Go语言中文网
@@ -47,33 +118,27 @@
 5.使用 SQL 查询文件系统 https://github.com/kashav/fsql
 
 ## gopherDaily--2021-03-13
-1.为什么go的存在让docker变得没有必要 - https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html
+1.[如何成为Go开发人员：6步职业指南 ](https://dev.to/educative/how-to-become-a-golang-developer-6-step-career-guide-476n)
 
-2.Rust vs. Go：为什么强强联合会更好 - https://t.zsxq.com/emuzvJy
+2.[Go 1.16.2和Go 1.15.10紧急发布 ](https://groups.google.com/g/golang-announce/c/ZWvSr9XM4wM/m/t8wy_q5_AgAJ)
 
-3.accelerated-container-image: 论文”DADI: Block-Level Image Service for Agile and Elastic Application Deployment “的开源实现。它以iSCSI块设备的形式提供基于块的层的序列合并视图。它可以用于容器加速，支持按需获取图像数据，而无需在容器运行前下载和解压整个图像。通过OverlayBD图像格式，我们可以瞬间冷启动一个容器。- https://github.com/alibaba/accelerated-container-image
+3.[go sqlite支持apple M1]( https://pkg.go.dev/modernc.org/sqlite#hdr-Changelog)
 
-4.Golds：一个Go本地文档服务器、文档生成工具以及go代码阅读工具 - https://go101.org/article/tool-golds.html
+4.[paper: 自动检测和修复Go软件系统中的并发性错误 ](https://songlh.github.io/paper/gcatch.pdf)
 
-5.netbootd是一个轻量级的网络启动服务器，支持无人值守的操作系统安装 - https://github.com/DSpeichert/netbootd
+5.[掌握Go html模板基础]( https://philipptanlak.com/mastering-html-templates-in-go-the-fundamentals/)
 
-6.图解OAuth2 - https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
+6.[在Cloud Run上构建大型聊天服务器 ](https://ahmet.im/blog/cloud-run-chat-server/)
 
-7.使用gitlab ci/cd在k8s上构建和部署应用 - https://piotrminkowski.com/2020/10/19/gitlab-ci-cd-on-kubernetes/
+7.[云原生应用交付–2021年我们的发展方向]( https://medium.com/dynatrace-engineering/cloud-native-app-delivery-where-were-heading-in-2021-c0a413610352)
 
-8.GitOps的魅力不止于眼前的一切 - https://www.weave.works/blog/theres-more-to-gitops-than-meets-the-eye
+8.[拆解和修复etcd集群 ](https://itnext.io/breaking-down-and-fixing-etcd-cluster-d81e35b9260d)
 
-9.微软开源低代码平台语言Fx - https://thenewstack.io/microsoft-open-sources-the-power-fx-language-for-customizing-logic-in-low-code-apps/
+9.[使用tinygo开发webassembly程序]( https://sendilkumarn.com/blog/tiny-go-wasm/)
 
-10.终结k8s namespace的隐藏危险 - https://www.openshift.com/blog/the-hidden-dangers-of-terminating-namespaces
+10.[经典旧文：SOLID Go设计]( https://dave.cheney.net/2016/08/20/solid-go-design)
 
-11.rust vs. c性能比较 - https://kornel.ski/rust-c-speed
-
-12.Linkerd中的协议检测和不透明端口 - https://www.cncf.io/blog/2021/03/10/protocol-detection-and-opaque-ports-in-linkerd/
-
-13.bombardier: 跨平台高性能http性能基准测试工具 - https://github.com/codesenberg/bombardier
-
-14.用实时观察器扩展数组 - https://khal.web.id/2021/03/13/go-extending-array-with-a-real-time-observer/
+11.[我为什么不喜欢tailwind css ](https://www.aleksandrhovhannisyan.com/blog/why-i-dont-like-tailwind-css/)
 
 ## 码农桃花源--2021-03-13
 ### 优质文章汇总
