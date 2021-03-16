@@ -7,6 +7,97 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-03-15 
+
+
+一、Go语言中文网
+
+1. [不要在生产环境使用 http.DefaultServerMux？](https://mp.weixin.qq.com/s/ldMdmrC32f0o8pQvpPzvCw)
+
+2. [Go垃圾回收系列之七：标记终止与调步算法](https://mp.weixin.qq.com/s/_KizBohpXYiYp0LZO4TQOw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-14)——Go 空结构体引发的大型打脸现场](https://mp.weixin.qq.com/s/pLpwgLA_c5Cpq4ibH3nIcQ)
+
+三、Go招聘
+
+1. [Go 笔试题精选 一： 25 道选择题](https://mp.weixin.qq.com/s/U1EV6qfyvU9gDg9sIDGqww)
+
+四、k8s技术圈
+
+1. [调度器调度队列之 activeQ 分析 | 视频文字稿](https://mp.weixin.qq.com/s/0s4cBAGw4YsU3qEUrr8dVw)
+
+五、代码与远方
+
+1. [CPU 空闲时在干嘛？](https://mp.weixin.qq.com/s/Y0MrsluNeuqAXPLQQrvv4w)
+
+六、ServiceMesher
+
+1. [IstioCon 2021 回顾及 PPT 下载](https://mp.weixin.qq.com/s/Az8Ivznp1l6zHewzcFqyeA)
+
+七、脑子进煎鱼了
+
+1. [Go 群友提问：学习 defer 时很懵逼，这道不会做！](https://mp.weixin.qq.com/s/lELMqKho003h0gfKkZxhHQ)
+
+八、码农桃花源
+
+1. [&quot;go build -X&quot; 的妙用](https://mp.weixin.qq.com/s/uzaymD5izrBJMKDrn9OpBw)
+
+九、MoeLove
+
+1. [万字长文：彻底搞懂容器镜像构建](https://mp.weixin.qq.com/s/zAWr4ezK5kjGVzUqs2eg2Q)
+
+十、奇伢云存储
+
+1. [有趣的3个动画揭开Linux cp的秘密](https://mp.weixin.qq.com/s/rlSi-y0xQE_V-UxBU2AKmA)
+## GOCN每日新闻--2021-03-15 
+1.让 json 解析更简单高效的 GJSON https://gocn.vip/topics/11778
+
+2.使用观察者模式来观察本地文件的修改 https://www.hildeberto.com/2021/03/observer-design-pattern-golang.html
+
+3."go build -X" 的妙用 https://mp.weixin.qq.com/s/uzaymD5izrBJMKDrn9OpBw
+
+4.Kubernetes 稳定性保障手册（极简版) https://mp.weixin.qq.com/s/DK1BfzY-Ou-_xB6aGO6yTw
+
+5.tiktik: tiktok 终端客户端 https://github.com/irevenko/tiktik
+
+
+## gopherDaily--2021-03-15
+- 1.Go单一仓库的多module实战 - https://irilivibi.medium.com/golang-multimodule-monorepo-tutorial-3f5cf10e9b9a
+- 2.2021年的CI/CD战争：最流行的技术一览 - https://blog.thundra.io/the-ci/cd-war-of-2021-a-look-at-the-most-popular-technologies
+- 3.Go播客：谈谈Go代码生成 - https://changelog.com/gotime/170
+- 4.将你的Go开发环境容器化系列 - https://www.docker.com/blog/containerize-your-go-developer-environment-part-1/
+- 5.使用Go构建和推送docker镜像 - https://www.loginradius.com/blog/async/build-push-docker-images-golang/
+- 6.常用Go并发模式汇总 - https://github.com/lotusirous/go-concurrency-patterns
+- 7.TikTok终端工具：可浏览和下载TikTok视频 - https://github.com/irevenko/tiktik
+- 8.sqlfuzz: 生成随机数据并加载到SQL表中以备后续测试 - https://github.com/PumpkinSeed/sqlfuzz
+- 9.etcd v3全内存缓存client端 - https://github.com/tailscale/tailetc
+- 10.Kubernetes中的CPU限制和节流 - https://medium.com/omio-engineering/cpu-limits-and-aggressive-throttling-in-kubernetes-c5b20bd8a718
+- 11.远程工作真正对您的工程生产力有什么影响 - https://www.okayhq.com/blog/what-remote-work-really-does-to-your-engineering-productivity
+- 12.使用Go与AWS S3开发应用教程 - https://tutorialedge.net/courses/go-aws-s3-course/
+## 码农桃花源--2021-03-15
+### 文章分享
+1 [编译原理初学者指南](https://mp.weixin.qq.com/s/ZTxVG6KG-4vzbvclC_Q1LQ)
+
+2 [编译原理概述](https://draveness.me/golang/docs/part1-prerequisite/ch02-compile/golang-compile-intro/)
+
+3 [DNS是使用tcp还是udp协议](https://www.cnblogs.com/lsgxeva/p/8321192.html)
+
+4 [复习：etcd如何实现mvcc](https://mp.weixin.qq.com/s/mW4juWcLbkcJ7aoHbXNbQA)
+
+### 面试题
+1.epoll与select的优缺点？
+
+2.http请求的处理过程
+
+3.事务的隔离级别 底层是如何实现的
+
+### 每日算法
+lc1781 所有子字符串美丽值之和 https://leetcode-cn.com/problems/sum-of-beauty-of-all-substrings/
+
+
+
 
 ## gopherDaily--2021-03-14
 - 1.为什么go的存在让docker变得没有必要 - https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html
