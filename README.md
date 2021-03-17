@@ -7,6 +7,107 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-03-17 
+
+
+一、Go语言中文网
+
+1. [关于emoji，Go语言可以这么操作](https://mp.weixin.qq.com/s/sZh9h2gb1X9Gu03A3OexmA)
+
+2. [Go并发编程 — sync.Once 单实例模式的思考](https://mp.weixin.qq.com/s/37gV23UVHRA5SYeMEA5Q9w)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-16)——Go 面试题：Go interface 的一个 “坑” 及原理分析](https://mp.weixin.qq.com/s/cyFHBeqFqbZajxHHHNq2Tw)
+
+三、奇伢云存储
+
+1. [Go并发编程 — sync.Once 单实例模式的思考](https://mp.weixin.qq.com/s/ELnUQL-EnK8w8EpdbZKDWA)
+
+四、腾讯云CDN
+
+1. [QUIC专题 | 谈谈QUIC协议原理](https://mp.weixin.qq.com/s/pa5lLcNtsEYRBHrUAJYcJA)
+
+五、微服务实践
+
+1. [一招让Kafka达到最佳吞吐量](https://mp.weixin.qq.com/s/lM1kkrQkXu6eIwVESwsa-w)
+
+六、PingCap
+
+1. [事务前沿研究 | 隔离级别的追溯与究明，带你读懂 TiDB 的隔离级别（上篇） | PingCAP](https://pingcap.com/blog-cn/take-you-through-the-isolation-level-of-tidb-1/)
+
+七、k8s技术圈
+
+1. [DevOps 工程师 - 汇丰软件开发 | 云原生招聘](https://mp.weixin.qq.com/s/MKVBONWugmd_jS1ihgGYJQ)
+
+八、转角遇到GitHub
+
+1. [终于不用愁了，GitHub 上的这些面试题项目我给你找好了](https://mp.weixin.qq.com/s/AqW9UFjuUopxJaehgMRFdg)
+
+九、xueyuanjun
+
+1. [Go 数据结构和算法篇（五）：插入排序](https://mp.weixin.qq.com/s/bfEsbHgk4sONbUc2MTXpiA)
+
+十、Go招聘
+
+1. [这个小公司是要招 Go 负责人？待遇你觉得如何？](https://mp.weixin.qq.com/s/J7xrhAnZ9pENCCwIjgZtyg)
+## GOCN每日新闻--2021-03-17
+1.Go 中新的安全政策提案 https://github.com/golang/go/issues/44918
+
+2.大多数情况下可读性更重要 https://bitfieldconsulting.com/golang/slower
+
+3.Go mod 中版本管理的权衡 https://utcc.utoronto.ca/~cks/space/blog/programming/GoModulesGoVersionWhy
+
+4.gRPC 长链接实践指南 https://dev.bitolog.com/grpc-long-lived-streaming/
+
+5.硬核论文:自动检测和修复 Go 中的并发错误 https://songlh.github.io/paper/gcatch.pdf
+
+
+## gopherDaily--2021-03-17
+
+1.Go vs. Node.js - https://medium.com/codex/golang-vs-node-js-214a9f9d0e00
+
+2.如何在本地使用docker安全扫描 - https://brianchristner.io/how-to-use-docker-scan/
+
+3.报告发现Go对公司的成功变得越来越重要 - https://sdtimes.com/softwaredev/report-finds-go-is-becoming-more-critical-to-a-companys-success/
+
+4.如何自动重新加载Go应用 - https://iaziz786.medium.com/how-to-auto-reload-golang-applications-480f8dc43412
+
+5.为什么我们不使用docker - https://launchyourapp.meezeeworkouts.com/2021/03/why-we-dont-use-docker-we-dont-need-it.html
+
+6.Go实现的命令行网络诊断工具 - https://github.com/mehrdadrad/mylg
+
+7.semaphore: Go实现的Ansible UI工具 - https://github.com/ansible-semaphore/semaphore
+
+8.理解Kubernetes中的Taints和Tolerations - https://medium.com/kubernetes-tutorials/making-sense-of-taints-and-tolerations-in-kubernetes-446e75010f4e
+
+9.roumon: 使用pprof和termui实现的通用goroutine监视器 - https://github.com/becheran/roumon
+
+10.停止谈论多云和混合云，开始谈论集成 - https://thenewstack.io/stop-talking-about-multicloud-and-hybrid-cloud-and-start-talking-about-integration/
+
+11.所有事情的摩尔定律 - https://moores.samaltman.com/
+
+12.AIOps vs. MLOps：差别在哪里 - https://opensource.com/article/21/2/aiops-vs-mlops
+
+13.2021年最佳人工智能和机器学习书籍 - https://www.educateai.org/the-best-artificial-intelligence-and-machine-learning-books-in-2021/
+
+## 码农桃花源--2021-03-17
+### 文章分享
+1 [sendfile：linux中的零拷贝](https://www.cnblogs.com/pengdonglin137/articles/7995528.html)
+
+2 [linux内核全新异步IO引擎io_uring(下)](https://aijishu.com/a/1060000000185685#item-3)
+
+3 [超大文件http断点续传的实现](https://blog.csdn.net/ababab12345/article/details/80490621)
+
+### 面试问题
+1 如果已经建立了TCP连接，但是Client端突然出现故障了怎么办？
+
+2 server端出现大量TIME_WAIT状态的连接的原因
+
+### 每日算法
+leetcode 5703 最大平均通过率 https://leetcode-cn.com/problems/maximum-average-pass-ratio/
+
+
 ## go中文网每日资讯--2021-03-16
 一、Go语言中文网
 
