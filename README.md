@@ -7,6 +7,87 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-03-16
+一、Go语言中文网
+
+1. [用Go看到进程中发生的系统调用](https://mp.weixin.qq.com/s/b9TlrMU8skpIlpmk5ph-4A)
+
+2. [Go垃圾回收系列之八：辅助标记](https://mp.weixin.qq.com/s/E5GJtxfU20N6oWasqvXVQw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-15)——Go 笔试题精选 一： 25 道选择题](https://mp.weixin.qq.com/s/WKED5g02V45bAn0NBlZfpQ)
+
+三、polarisxu
+
+1. [周末看完这本 gRPC 的书后，我决定送 10 本给读者](https://mp.weixin.qq.com/s/sWDeK2de5pTLU1wrXYGAIA)
+
+四、TechPaper
+
+1. [一个特征系统的迭代与实现](https://mp.weixin.qq.com/s/vUP4LAA7gAYDo91Wd5rSQQ)
+
+五、真没什么逻辑
+
+1. [为什么 Kubernetes 要替换 Docker](https://mp.weixin.qq.com/s/03RsI1JbjxiizjHnxrK7RQ)
+
+六、taowen
+
+1. [不要以 DRY 之名，发明低代码 DSL 去残害你的同事](https://mp.weixin.qq.com/s/S7BbDwVpq6LKlXoEWx-I5A)
+
+七、脑子进煎鱼了
+
+1. [Go 面试题：Go interface 的一个 “坑” 及原理分析](https://mp.weixin.qq.com/s/vNACbdSDxC9S0LOAr7ngLQ)
+
+八、即时通讯技术圈
+
+1. [一套亿级用户的IM架构技术干货(上篇)：整体架构、服务拆分等](https://mp.weixin.qq.com/s/WxB9fH1I8CJgfcuVGtzlQQ)
+
+九、Go招聘
+
+1. [快来AiBee跟果果小姐姐做同事啦](https://mp.weixin.qq.com/s/zK2FyXMLocwKRXcV5q-LBw)
+
+## GOCN每日新闻--2021-03-16 
+1.NBIO 第二弹 —— 支持 Non-Blocking HTTP 1.x https://gocn.vip/topics/11779
+
+2.还在用 crontab? 分布式定时任务了解一下 https://mp.weixin.qq.com/s/IftPwlmubjwGQz1KYTHIIQ
+
+3.Go 空结构体引发的大型打脸现场 https://mp.weixin.qq.com/s/lZMZroOhqvDKDCEsaGPfrQ
+
+4.用 Go 看到进程中发生的系统调用 https://mp.weixin.qq.com/s/b9TlrMU8skpIlpmk5ph-4A
+
+5.如何优雅地关闭 Kubernetes 集群中的 Pod https://blog.gruntwork.io/zero-downtime-server-updates-for-your-kubernetes-cluster-902009df5b33
+
+## gopherDaily--2021-03-16
+- 1.Rust vs. Go：为什么强强联合会更好 - https://mp.weixin.qq.com/s/Nx-5e8ssiga4Bjfe6BGSOw
+- 2.观点：优化Go应用性能就是在浪费时间 - https://bitfieldconsulting.com/golang/slower
+- 3.性能比较：使用Python，Go，C++，C，AWK，Forth和Rust做单词计数 - https://benhoyt.com/writings/count-words/
+- 4.教程：使用Ent和gqlgen构建GraphQL服务器 - https://entgo.io/docs/tutorial-setup/
+- 5.遵循eBPF的“超级能力”的承诺 - https://thenewstack.io/liz-rice-following-the-superpower-promise-of-ebpf/
+- 6.可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具 - https://github.com/wxbool/video-srt-windows
+- 7.在AKS上的Statefulset中增加volumeClaimTemplates磁盘大小 - https://adamrushuk.github.io/increasing-the-volumeclaimtemplates-disk-size-in-a-statefulset-on-aks/
+- 8.使用Go设计和实现WebSocket服务器 - https://medium.com/geekculture/designing-a-websocket-server-in-golang-reformers-golang-implementation-strategy-bcd2dc9e368e
+- 9.REST vs. GraphQL vs. gRPC - https://www.danhacks.com/software/grpc-rest-graphql.html
+- 10.wormhole-gui: Wormhole-gui是magic-wormhole的跨平台图形界面，使您可以轻松地在设备之间共享文件，文件夹和文本 - https://github.com/Jacalz/wormhole-gui
+- 11.swift语言试验增加actor并发支持 - https://github.com/apple/swift-evolution/blob/main/proposals/0306-actors.md
+- 12.可解释性与神经科学：六个主要优点使人工神经网络比生物学神经网络更易于研究 - http://colah.github.io/notes/interp-v-neuro/
+## 码农桃花源--2021-03-16
+### 文章分享
+1 [linux内核全新异步IO引擎io_uring(上)](https://aijishu.com/a/1060000000185659)
+
+2 [浅谈如何构建知识体系](https://mp.weixin.qq.com/s/E0u7LmT__x4R9mWNxfDDjA)
+
+3 [分布式系统底层原理](https://mp.weixin.qq.com/s/KKrxuVCrjlXXWMPTXQ-fvA)
+
+### 面试题
+1.TCP收到RST报文的几种情况？
+
+2.说说半连接队列和 SYN Flood 攻击的关系
+
+3.介绍一下 TCP 报文头部的字段
+
+### 每日算法
+lc5704 好子数组的最大分数 https://leetcode-cn.com/problems/maximum-score-of-a-good-subarray/
+
 ## go中文网每日资讯--2021-03-15 
 
 
