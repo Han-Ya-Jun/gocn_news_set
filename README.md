@@ -7,6 +7,112 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-03-18 
+
+
+一、Go语言中文网
+
+1. [优化Go应用性能就是在浪费时间？你怎么看](https://mp.weixin.qq.com/s/jJM0N5yk9kk4w92yI8jjoQ)
+
+2. [Kubernetes 稳定性保障手册 -- 日志专题](https://mp.weixin.qq.com/s/KIauQSWz1BBfuqyIvbKBWg)
+
+3. [为什么 Go1.16.1 发布的第二天又发布 1.16.2？](https://mp.weixin.qq.com/s/ppUffaFo3k75yRwD7N6KNA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-17)——一招让 Kafka 达到最佳吞吐量](https://mp.weixin.qq.com/s/rKEEAlOQ3IlRX3pqtmSs4Q)
+
+三、k8s技术圈
+
+1. [Kubernetes APIServer 限流方案](https://mp.weixin.qq.com/s/f5FHyM-h_BWrCadk_G1I2A)
+
+2. [资深运维工程师 - 尔湾科技](https://mp.weixin.qq.com/s/q2AVBiTrZ--nstqzFFtaHw)
+
+四、polarisxu
+
+1. [map 和 switch 如何选？match 又是什么？](https://mp.weixin.qq.com/s/MaovIWtQWVp9ZZL1DlppOQ)
+
+五、xueyuanjun
+
+1. [Go 数据结构和算法篇（六）：选择排序](https://mp.weixin.qq.com/s/G5tHf61lmYHNrqIRPEv7lA)
+
+六、Go招聘
+
+1. [北京超高福利公司招Go，你心动吗？](https://mp.weixin.qq.com/s/0IrzVAjPJo4JyCzUyWziog)
+
+七、Golang技术分享
+
+1. [Go函数调用惯例](https://mp.weixin.qq.com/s/XD8PUr9lm3DH6GqFZTA5cg)
+
+八、脑子进煎鱼了
+
+1. [Go 语言中的一等公民：看似普通的函数，凭什么？](https://mp.weixin.qq.com/s/NPPzcfp7I50XcDMnR5bU9w)
+
+九、鸟窝
+
+1. [Go代码覆盖率工具介绍](https://colobu.com/2021/03/15/go-cover-introduction/)
+
+## GOCN每日新闻--2021-03-18 
+1.Go 中的单元测试 mock 我是如何做的 https://dev.to/chseki/how-i-mock-unit-tests-in-golang-3dcp
+
+2.如何测试使用了 time.Now() 的函数 https://medium.com/go-for-punks/how-to-test-functions-that-use-time-now-ea4f2453d430
+
+3.GoPath 模式和 GoMoudle 模式的相爱相杀 https://segmentfault.com/a/1190000039650091
+
+4.在 vscode 中 go 编码发生的问题整理 https://segmentfault.com/a/1190000039657544
+
+5.一个 Go 编写的高效图片像素化工具 https://github.com/eleby/pixelizer
+
+
+
+## gopherDaily--2021-03-18
+1.你应该使用Microsoft Dapr构建事件驱动微服务的五个理由 - https://medium.com/event-driven-utopia/5-reasons-why-you-should-use-microsoft-dapr-to-build-event-driven-microservices-cb2202c579a0
+
+2.如何在Go中实现百万级UDP通信 - https://mp.weixin.qq.com/s/BuZwjRNwuKx19PU6E95Oeg
+
+3.Go module官方参考指南 - https://golang.org/ref/mod
+
+4.Go播客：专访Mat Ryer: 从想法到执行 - https://ardanlabs.buzzsprout.com/1466944/8152259-from-idea-to-execution-with-mat-ryer
+
+5.不太可能的数据库迁移 - https://tailscale.com/blog/an-unlikely-database-migration/
+
+6.服务网格领域的创新与变革- https://thenewstack.io/innovation-and-changes-in-the-service-mesh-landscape-an-invitation-to-solocon/
+
+7.为什么高级工程师厌恶代码评审 - https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757
+
+8.Go cache开源项目的benchmark对比 - https://github.com/vmihailenco/go-cache-benchmark
+
+9.goverter: 用于创建类型安全转换器的工具 - https://github.com/jmattheis/goverter
+
+10.让Go程序爱上json和yaml - https://sharpend.io/blog/teaching-go-programs-to-love-json-and-yaml/
+
+11.Mockc：用于Go的类型安全的编译阶段mock测试生成器 - https://github.com/KimMachineGun/mockc
+
+
+
+## 码农桃花源--2021-03-18
+### 文章分享
+1. [Go语言调度器之创建main goroutine](https://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483776&idx=1&sn=a74df39487b4ff22073e97eeb59d48ed&scene=19#wechat_redirect)
+
+2. [QUIC原理](https://mp.weixin.qq.com/s/Bm_4M-QCcWYRqv1V8a-J-A)
+
+3. [为什么kubernetes要替换docker](https://mp.weixin.qq.com/s/03RsI1JbjxiizjHnxrK7RQ)
+
+4. [中高级golang面试题](https://www.bilibili.com/video/BV12p4y1W7Dz?t=1965)
+
+### 面试题
+1. 什么时候会抢占P
+
+2. 当在M上运行的goroutine发生阻塞时，会怎么工作
+
+3. 多个线程与多个M如何一一对应？
+
+4. 汇编 操作对比 mov %rdx, %rax   与  mov %rdx, (%rax)
+
+### 每日算法
+lc1224	最大相等频率
+
+
 ## go中文网每日资讯--2021-03-17 
 
 
