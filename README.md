@@ -7,6 +7,117 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-03-19 
+
+一、Go语言中文网
+
+1. [Go招聘：跟果果小姐姐做同事机会来了](https://mp.weixin.qq.com/s/Pk1G3Cc8lcRd_Afib-h-xA)
+
+2. [Go垃圾回收系列之九：内存屏障](https://mp.weixin.qq.com/s/0Vc7-RzMBZJ2oi6_odJdsw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-18)——map 和 switch 如何选？match 又是什么？](https://mp.weixin.qq.com/s/U6pwinkKS2CHwdDh0FIssg)
+
+三、polarisxu
+
+1. [发现 go version 的一个另类用法：你肯定想不到](https://mp.weixin.qq.com/s/RnV752Aez0Xdgscw38kNYw)
+
+四、腾讯云CDN
+
+1. [专题 | QUIC在CDN节点间的技术落地](https://mp.weixin.qq.com/s/ojxhrXxGHgRT1gs4z2zUCg)
+
+五、腾讯技术工程
+
+1. [腾讯广告 3000+万行大代码库主干开发实战](https://mp.weixin.qq.com/s/GZkGfwrfMTzrMfki8LKbIw)
+
+六、分布式系统之美
+
+1. [TiDB Operator 源码阅读 (一) 序](https://mp.weixin.qq.com/s/nr3BP9ys6qwe-9rWyv5E1w)
+
+2. [TiDB Operator 源码阅读 (二) Operator 模式](https://mp.weixin.qq.com/s/MP9QfgBVGIlEtP2AMWzsJw)
+
+七、xueyuanjun
+
+1. [Go 数据结构和算法篇（七）：归并排序](https://mp.weixin.qq.com/s/fGAnnZxjH_A2ULJDAxxTgA)
+
+八、CloudNativeCommunity
+
+1. [IstioCon2021 回顾及开源项目 GetIstio 介绍视频回顾](https://mp.weixin.qq.com/s/MuZdLXHUC2HcKdl40GmZuw)
+
+九、Golang技术分享
+
+1. [面试题型系列：滑动窗口技巧](https://mp.weixin.qq.com/s/EzXqwy1Wew7ZrkSQx7-zfA)
+
+十、Go招聘
+
+1. [Go 笔试题精选 二： 25 道选择题](https://mp.weixin.qq.com/s/RPHTsKdXKqHM_JywR5kxvA)
+
+
+## GOCN每日新闻--2021-03-19 
+1.Go 参数校验 https://github.com/liangyaopei/checker
+
+2.Go 函数调用惯例 https://mp.weixin.qq.com/s/XD8PUr9lm3DH6GqFZTA5cg
+
+3.如何在 Go 中实现百万级 UDP 通信 https://mp.weixin.qq.com/s/BuZwjRNwuKx19PU6E95Oeg
+
+4.Go 特殊字符的 string 怎么转 byte？https://xie.infoq.cn/article/14e4b4b1db4616499065d9112
+
+5.让 Go 程序爱上 json 和 yaml https://sharpend.io/blog/teaching-go-programs-to-love-json-and-yaml
+
+
+## gopherDaily--2021-03-19
+1.为什么已经有了Kubernetes的你会需要Istio？ - https://thenewstack.io/why-do-you-need-istio-when-you-already-have-kubernetes/
+
+2.依赖注入工具代码生成器wire入门 - https://mp.weixin.qq.com/s/hd5QnZQhvjAFza8gae1DiA
+
+3.mattermost开源的看板工具，可自托管，可作为Trello，Notion和Asana的替代 - https://github.com/mattermost/focalboard
+
+4.Go播客：聊聊go:embed - https://changelog.com/gotime/171
+
+5.开源图书：如何设计程序(2nd) - https://htdp.org/2018-01-06/Book/
+
+6.提案：微软开源的事件驱动微服务框架Dapr加入CNCF - https://github.com/cncf/toc/pull/617
+
+7.如何使用Go构建Web前端 - https://philipptanlak.com/web-frontends-in-go/
+
+8.声明式的错误处理 - https://github.com/serhiy-t/errf
+
+9.使用prometheus收集Go应用指标 - https://gabrieltanner.org/blog/collecting-prometheus-metrics-in-golang
+
+10.Karpenter是为Kubernetes构建的节点自动缩放器，可以在任何地方的任何Kubernetes集群中运行 - https://github.com/awslabs/karpenter
+
+11.看看即将加入Go的泛型 - https://devmarkpro.com/generic-in-golang
+
+12.使用kubernetes configmaps，第1部分：卷挂载 - https://itnext.io/working-with-kubernetes-configmaps-part-1-volume-mounts-f0ace283f5aa
+
+13.google brotli压缩算法的Go实现 - https://github.com/andybalholm/brotli
+
+14.ArgoCD + KubeVela：具有以开发人员为中心的经验的GitOps - https://www.cncf.io/blog/2020/12/22/argocd-kubevela-gitops-with-developer-centric-experience/
+
+
+## 码农桃花源--2021-03-19
+### 文章分享
+1. [Go语言调度器之调度main goroutine](https://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483783&idx=1&sn=1128dbd7794d7d53c37abab94771a7d7&scene=19#wechat_redirect)
+
+2. [go函数的一等公民](https://mp.weixin.qq.com/s/NPPzcfp7I50XcDMnR5bU9w)
+
+3. [go build -x](https://mp.weixin.qq.com/s/uzaymD5izrBJMKDrn9OpBw)
+
+### 面试题
+
+1. 为什么在创建goroutine的newproc函数要传入参数大小
+
+2. 什么时候调用的main函数？
+
+3. g0到main goroutine的转换过程
+
+### 每日算法
+lc1377	T 秒后青蛙的位置
+
+
+
 ## go中文网每日资讯--2021-03-18 
 
 
