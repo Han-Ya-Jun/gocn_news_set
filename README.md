@@ -6,6 +6,75 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-03-21 
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 87 期 — 螃蟹会夹土拨鼠吗？](https://mp.weixin.qq.com/s/4HI78Yd1ENVFCWHCESlPBg)
+
+2. [Go 笔试题精选一： 25 道选择题](https://mp.weixin.qq.com/s/akJLEx_pllOFvR27ICl2mQ)
+
+3. [Go垃圾回收系列之十：实战一例频繁GC的性能问题](https://mp.weixin.qq.com/s/G46cYgG4NKuGh54hai0yNw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-20)——破解 50 大 Go 语言面试题](https://mp.weixin.qq.com/s/CRC9LYMl19yxiyiFcSL3kQ)
+
+三、luozhiyun很酷
+
+1. [Go语言GC实现原理即源码分析](https://mp.weixin.qq.com/s/yU0N_KOw34BHkyp1VdTMqA)
+
+四、奇伢云存储
+
+1. [图解 MongoDB Sharding 读写](https://mp.weixin.qq.com/s/SQ9IakXtz-gMXdmLIk_XnQ)
+
+五、k8s技术圈
+
+1. [Thanos Receive 模块介绍](https://mp.weixin.qq.com/s/ql5VJPiBO7kpi8BCKdfK0A)
+
+六、新亮笔记
+
+1. [管理认知（三）](https://mp.weixin.qq.com/s/nxg8hxe8pBCiPJ8PbFw4Nw)
+
+七、Go招聘
+
+1. [Go Interview Weekly - 2021/03/21](https://mp.weixin.qq.com/s/tK32DJ3JooJJvMkN3VhNcw)
+
+八、Golang Weekly
+
+1. [Golang Weekly Issue 354: March 19, 2021](https://golangweekly.com/issues/354)
+
+2. [Awesome Go Newsletter - Issue 252, Mar 18, 2021 | LibHunt](https://go.libhunt.com/newsletter/252)
+## GOCN每日新闻--2021-03-21
+1.我用 go-zero 一周实现了一个中台系统，已开源！ https://gocn.vip/topics/11806
+
+2.TiDB Operator 源码阅读 (二) Operator 模式 https://gocn.vip/topics/11803
+
+3.GO 实现一个简单的博客 https://dev.to/mark_saward/a-simple-blog-in-go-2dhp
+
+4.在 Go PT 中构建区块链工作量证明 https://dev.to/nheindev/building-a-blockchain-in-go-pt-ii-proof-of-work-eel
+
+5.用 Go 构建一个 SQL 解析器 https://blog.51cto.com/15127564/2666790
+
+## gopherDaily--2021-03-21
+- 1.对Go 1.16 io/fs设计的第一感觉：得劲儿 -  https://t.zsxq.com/aImIUvr
+- 2.2020年Go开发者调查结果(译) - https://mp.weixin.qq.com/s/4eGn0rdiaDQakodX9cAm9A
+- 3.使用go module管理私有仓库依赖 - https://1pkg.github.io/posts/private_repository_dependency_management_with_gomod/
+- 4.Go实现的极简blog系统 - https://www.josephspurrier.com/polar-bear-blog
+- 5.在Go中强制使用构造函数 - https://ranfdev.com/blog/enforcing-use-of-constructor-in-go/
+- 6.使用Go构建基于CLI的文件重命名工具 - https://medium.com/swlh/building-cli-based-file-renaming-tool-with-golang-e3c6a16eedf6
+- 7.在Go中使用高级RabbitMQ客户端 - https://dev.to/qvault/using-a-high-level-rabbitmq-client-in-golang-4mcl
+- 8.结构化并发编程与可能有害的go语句 - https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/
+- 9.将k8s通信迁移为gRPC - https://blog.cloudflare.com/moving-k8s-communication-to-grpc/
+- 10.如何开始为开源项目做贡献 - https://towardsdatascience.com/how-to-start-contributing-to-open-source-projects-10d0517b13d8
+- 11.Kubernetes Pod如何获取IP地址 - https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/
+- 12.curl 23岁了 - https://daniel.haxx.se/blog/2021/03/20/curl-is-23-years-old-today/
+
+
+
+
+
 ## go中文网每日资讯--2021-03-20 
 
 
