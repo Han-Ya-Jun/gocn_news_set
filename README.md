@@ -7,6 +7,104 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-03-23 
+
+一、Go语言中文网
+
+1. [吐槽 Go 依赖管理：Go Module 之痛](https://mp.weixin.qq.com/s/p1iCWg__JoFsHv8oDtyL0g)
+
+2. [使用Prometheus搞定微服务监控](https://mp.weixin.qq.com/s/1OCW38T2xW5D5Las-Nl6uw)
+
+3. [context使用不当引发的一个bug](https://mp.weixin.qq.com/s/Lp3sToRKuk79yzDdPf9-eQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-22)——Go 泛型尝鲜](https://mp.weixin.qq.com/s/0q_WYnYim172yL_t49swJg)
+
+三、云原生技术爱好者社区
+
+1. [Service Mesh与Istio简述](https://mp.weixin.qq.com/s/-QB4p4w0O9p5_FPmlk0B-Q)
+
+四、架构之家
+
+1. [基于Golang的云原生日志采集服务设计与实践](https://mp.weixin.qq.com/s/fHJ10roQrwIwgm_urF9TyQ)
+
+五、程序员牛不牛
+
+1. [我还不懂什么是分布式事务](https://mp.weixin.qq.com/s/e6QMPfobdf0jDX8CX4vQrA)
+
+六、k8s技术圈
+
+1. [Kubernetes master 节点快炸了!!!](https://mp.weixin.qq.com/s/dUzOpecspViYTbf0JHutHA)
+
+七、mohuishou
+
+1. [Go并发编程(十二) Singleflight](https://mp.weixin.qq.com/s/tORa8F7jxCUvF97dujHx0Q)
+
+八、CloudNativeCommunity
+
+1. [加入 Istio 官方翻译组织的历程记录](https://mp.weixin.qq.com/s/sdJ5tDI-QqXqFkvQzEOoOA)
+
+九、真没什么逻辑
+
+1. [集群管理系统 Mesos 的设计原理 · NSDI &#39;11](https://mp.weixin.qq.com/s/0euIwN7r-KH0S8Yb_wN35g)
+
+十、Go招聘
+
+1. [Go 泛型尝鲜](https://mp.weixin.qq.com/s/jQ3BIJq3Xyi_KmyxmVZMRA)
+
+2. [成都 Go 是要起飞吗？最近职位真不少](https://mp.weixin.qq.com/s/AtvFknQPYGjAs4lFCmwVKw)
+
+## GOCN每日新闻--2021-03-23 
+
+1.手撸 golang GO 与微服务 ES-CQRS 模式之 1 https://segmentfault.com/a/1190000039691281
+
+2.Go 语言 GC 实现原理即源码分析 https://mp.weixin.qq.com/s/yU0N_KOw34BHkyp1VdTMqA 
+3.Go 并发编程 (十二) Singleflight https://mp.weixin.qq.com/s/tORa8F7jxCUvF97dujHx0Q
+
+4.对 Go 1.16 io/fs 设计的第一感觉：得劲儿！ https://mp.weixin.qq.com/s/_pUtGQSl_oSRnmmfROJ6ZQ
+
+5.go 语言 copy-on-write 技术实现 https://mp.weixin.qq.com/s/OoWZnJQaQ5xnzLDFsig_SQ
+
+
+
+## gopherDaily--2021-03-23
+1.Go语言的黑暗角落 - https://rytisbiel.com/2021/03/06/darker-corners-of-go/
+
+2.Go语言的生态系统 - https://henvic.dev/posts/go/
+
+3.Go并发代码评审checklist - https://github.com/code-review-checklists/go-concurrency
+
+4.软件事务存储：通往无锁编程天堂的阶梯？ - https://medium.com/@talhof8/software-transactional-memory-a-stairway-to-lock-free-programming-heaven-9ca1f4dce23f
+
+5.Apache Kafka和Go：入门 - https://medium.com/swlh/apache-kafka-with-golang-227f9f2eb818
+
+6.一个简单的Go自动“重试器” - https://adityarama1210.medium.com/go-background-automatic-retry-function-d6989af3bbf7
+
+7.一次Go应用的性能优化实践 - https://betterprogramming.pub/an-optimization-exercise-in-golang-43fea807441d
+
+8.Go实现的全功能socks5服务器 - https://github.com/realzhangliu/socks5-go
+
+9.在命令行终端查看github状态 - https://github.com/irevenko/octotui
+
+10.使用k8s和concourse-ci构建持续交付流水线 - https://blog.alterway.fr/en/building-a-continious-deployment-pipeline-with-kubernetes-and-concourse-ci.html
+
+## 码农桃花源--2021-03-23
+### 文章分享
+1 [linux下一种高效多定时器](https://blog.csdn.net/u014026685/article/details/821803722)
+
+2 [为什么linux需要swapping](https://draveness.me/whys-the-design-linux-swapping/)
+
+3 [为什么TCP/IP数据包需要分片](https://draveness.me/whys-the-design-tcp-segment-ip-packet/)
+
+### 面试题
+1 页高速缓存的作用？怎样保证缓存一致性
+
+2 zerocopy的实现机制
+
+### 每日算法
+lc815 公交路线 https://leetcode-cn.com/problems/bus-routes/
+
 ## go中文网每日资讯--2021-03-22 
 
 一、Go语言中文网
