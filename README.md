@@ -7,6 +7,104 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-03-24 
+
+
+一、Go语言中文网
+
+1. [Go 中基于 IP 地址的 HTTP 请求限流](https://mp.weixin.qq.com/s/aj_hULmeqy3whILr2ytECQ)
+
+2. [图解unicode、utf8和utf8mb4](https://mp.weixin.qq.com/s/gmKGAFBNU97BnQUFZRv1_w)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-23)——context使用不当引发的一个bug](https://mp.weixin.qq.com/s/tRhnEuguO5YqiUrmYs1WEw)
+
+三、腾讯技术工程
+
+1. [MySQL 深入学习总结](https://mp.weixin.qq.com/s/sRFmW57KUY3yyyRkyw0L4A)
+
+四、TechPaper
+
+1. [在业务系统中寻求技术含量](https://mp.weixin.qq.com/s/acTlfzQjYf7_hq46R-ZBPg)
+
+五、CloudNativeCommunity
+
+1. [专访 CNCF 大使王炜：让云原生开发回归原始而又简单](https://mp.weixin.qq.com/s/kOjfCPhHRpU1Th6C-lItcw)
+
+六、k8s技术圈
+
+1. [Thanos Receive 实现 Prometheus (几乎)无状态化](https://mp.weixin.qq.com/s/py5BYM5rFdeN6sTYnzsyug)
+
+七、xueyuanjun
+
+1. [Go 数据结构和算法篇（十）：二分查找的变形版本](https://mp.weixin.qq.com/s/bEJ6Ihc8jNFPd7sUmupjEw)
+
+八、脑子进煎鱼了
+
+1. [再见 Go 面试官：GMP 模型，为什么要有 P？](https://mp.weixin.qq.com/s/an7dml9NLOhqOZjEGLdEEw)
+
+九、Go招聘
+
+1. [50k的Go招聘是什么要求？](https://mp.weixin.qq.com/s/kKEduz_MEnVpA_QQ0AzxCA)
+
+## GOCN每日新闻--2021-03-24 
+1.网络流量抓包库 gopacket 介绍 https://mp.weixin.qq.com/s/ZutgJ40nug_9bNsZj1u9Kw
+
+2.需要注意的 GO 网络包默认设置 https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/
+
+3.基于 Golang 的云原生日志采集服务设计与实践 https://mp.weixin.qq.com/s/fHJ10roQrwIwgm_urF9TyQ#at
+
+4.再见 Go 面试官：GMP 模型，为什么要有 P？ https://mp.weixin.qq.com/s/an7dml9NLOhqOZjEGLdEEw
+
+5.来了！Go 官方 Slice 教程图解版 https://mp.weixin.qq.com/s/GLEdRAOG24I38Zn9nh8F-Q
+
+
+## gopherDaily--2021-03-24
+1.Go网络相关包默认机制下的那些“坑” - https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/
+
+2.我为什么爱上Go - https://rejmank.com/post/why-i-started-to-fall-in-love-with-go
+
+3.更好的Go logging - https://codeengineered.com/blog/2021/better-go-logging/
+
+4.何实现Go JWT身份验证和授权 - https://www.bacancytechnology.com/blog/golang-jwt
+
+5.那些年我們追的 Goroutine Pool - https://medium.com/17media-tech/%E9%82%A3%E4%BA%9B%E5%B9%B4%E6%88%91%E5%80%91%E8%BF%BD%E7%9A%84-goroutine-pool-e8d211757ee
+
+6.2021，属于Golang和Gopher的全新纪元 - https://mp.weixin.qq.com/s/zAnXPdd5LvL1EsjNkC21vg
+
+7.《Go in action》联合作者William Kennedy发布了开源书籍《Ultimate Go Notebook》- https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg/edit
+
+8.2021年云原生的10大预测-DevOps大会主题演讲 - https://www.oicheryl.com/2021/03/23/10-predictions-for-cloud-native-in-2021-the-devops-conference/
+
+9.AWS Lambda：每种语言的冷启动持续时间 - https://mikhail.io/serverless/coldstarts/aws/languages/
+
+10.MinIO推出了连续可用性和主动-主动存储桶复制 - https://blog.min.io/active-active-replication/
+
+11.Rust安全编程 - https://iris-project.org/pdfs/2021-rustbelt-cacm-final.pdf
+
+12.来自贝尔实验室的Plan 9 - https://www.bell-labs.com/institute/blog/plan-9-bell-labs-cyberspace/
+
+
+## 码农桃花源--2021-03-24
+### 文章分享
+1 [mongoDB高可用架构剖析](https://mp.weixin.qq.com/s/jLsviuQ0wCcsmkskXSFdEQ)
+
+2 [为什么mongoDB使用B树/LSM树，而不是B+树](https://blog.csdn.net/weixin_41987908/article/details/105255119)
+
+3 [系统调用的三种方式及性能开销分析](https://draveness.me/whys-the-design-syscall-overhead/)
+
+### 面试题
+1.linux的内核线程、轻量级进程、用户线程
+
+2.手写atoi函数
+
+3.linux消息队列的本质
+
+### 每日算法
+lc83 删除链表重复元素 https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/
+
+
 ## go中文网每日资讯--2021-03-23 
 
 一、Go语言中文网
