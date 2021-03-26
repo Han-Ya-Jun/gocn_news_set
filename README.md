@@ -7,6 +7,110 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-03-25 
+
+一、Go语言中文网
+
+1. [终于来了！go tip已经可以使用泛型了](https://mp.weixin.qq.com/s/U781UlKO_30wOaufngKj3Q)
+
+2. [为什么 Kubernetes 要替换 Docker](https://mp.weixin.qq.com/s/4ke9F5h__kG9BoGnzGDoUg)
+
+3. [RabbitMQ Go客户端教程1——HelloWorld](https://mp.weixin.qq.com/s/KSr-soJ9Ls-GWyMdtiPVVA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-24)——在业务系统中寻求技术含量](https://mp.weixin.qq.com/s/jB_6aPmCz7vy48LSCo1oPA)
+
+三、董泽润的技术笔记
+
+1. [聊聊并发安全](https://mp.weixin.qq.com/s/8qXfm0UqK4R1tJyK0_zYQg)
+
+四、转角遇到GitHub
+
+1. [又一本在线免费的 Go 语言图书](https://mp.weixin.qq.com/s/Z01xRLy9dMVbHpejKN1RpA)
+
+五、多颗糖
+
+1. [【MIT 6.824】学习笔记 5: 2021 Raft 实现细节](https://mp.weixin.qq.com/s/djjfz2oGosoj7fChEe9AdQ)
+
+六、Golang技术分享
+
+1. [Go函数闭包底层实现](https://mp.weixin.qq.com/s/kfNcrLZlb5LRi6ILsohwUA)
+
+七、真没什么逻辑
+
+1. [Google 数据中心的电力超售 · OSDI &#39;20](https://mp.weixin.qq.com/s/JdS8ZH0g_Elr1Q0i1PKWlw)
+
+八、HHFCodeRv
+
+1. [这可能是最容易理解的 Go Mutex 源码剖析](https://mp.weixin.qq.com/s/irXUkd9CZMInTUTu7pbriQ)
+
+九、CloudNativeCommunity
+
+1. [文末赠书 | 深度解析DDD中台和微服务设计](https://mp.weixin.qq.com/s/038RfEa5NgUSex0OTFQOkw)
+
+
+
+## GOCN每日新闻--2021-03-25 
+
+1.Go Mysql Driver 集成 Seata-Golang 解决分布式事务问题 https://gocn.vip/topics/11831
+
+2.对 Go 1.16 io/fs 设计的第一感觉：得劲儿 https://gocn.vip/topics/11825
+
+3.深入研究 Go interface 底层实现 https://halfrost.com/go_interface/
+
+4.内存管理设计精要 https://draven.co/system-design-memory-management/
+
+5.Go Buffer 重用，避免频繁内存分配 https://ningto.com/post/36D5C2DAD3C2BEBD5F601A7A2ED43188
+
+
+## gopherDaily--2021-03-25
+1.Go免费电子书：《Practical Go lession》- https://www.practical-go-lessons.com/
+
+2.使用Go从头构建一个BitTorrent客户端 - https://blog.jse.li/posts/torrent/
+
+3.使用Go Ebiten重写老旧的flash游戏 - https://github.com/TheTophatDemon/Feta-Feles-Remastered
+
+4.Go中常见的反模式 - https://deepsourcehq.hashnode.dev/common-anti-patterns-in-go
+
+5.令人难以置信的快速代理检查器和IP旋转器 - https://github.com/kitabisa/mubeng
+
+6.Cytora公司Go学术工程blog - https://medium.com/engineering-at-cytora/cytora-golang-academy-part-one-e736944b28e5
+
+7.惠普开源structex: Go结构注释，支持编码和解码；支持位域打包，自描述布局参数和对齐方式 - https://github.com/HewlettPackard/structex
+
+8.Go开发者合同费率 - https://hetvi-samani.medium.com/golang-developer-contract-rates-f3d2fae8088
+
+9.构建浏览器推送通知服务：长轮询和Web套接字协议 - https://medium.com/swlh/building-a-browser-push-notification-service-http-long-polling-and-the-web-socket-protocol-5e83cd1420c1
+
+10.通往Go高手之路：单元测试 - https://medium.com/digio-australia/road-to-go-pro-unit-test-69591a553412
+
+11.go stacktrace信息输出库的对比 - https://dev.to/stevenacoffman/comparison-golang-stacktrace-error-library-output-2fph
+
+
+## 码农桃花源--2021-03-25
+### 文章分享
+1. [Go语言调度器之非main goroutine的退出](https://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483789&idx=1&sn=182631d0d1390a57daea7293133d9ff6&scene=19#wechat_redirect)
+
+2. [go mutex源码剖析](https://mp.weixin.qq.com/s/irXUkd9CZMInTUTu7pbriQ)
+
+3. [为什么goroutine没有id](https://mp.weixin.qq.com/s/qFAtgpbAsHSPVLuo3PYIhg)
+
+
+### 面试题
+1. 为什么goroutine没有id
+
+2. g0到main goroutine的转换过程
+
+3. 非main goroutine是如何返回到goexit函数的
+
+4. mcall函数如何从用户goroutine切换到g0继续执行
+
+### 每日算法
+lc871	最低加油次数
+
+
 ## go中文网每日资讯--2021-03-24 
 
 
