@@ -6,7 +6,102 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-03-26
 
+一、#公众号：Go语言中文网
+
+1. Go 构建 CLI 实践: 在 ETL 中使用扇出模式 https://mp.weixin.qq.com/s/4tiiZzr_b4OucAQLFXwLAQ
+
+2. RabbitMQ Go教程2——工作队列 https://mp.weixin.qq.com/s/4Jln0-2kMi7bsTdl0qoTRA
+
+二、#公众号：亚军进化史
+
+1. Go技术日报(2021-03-25)——最容易理解的 Go Mutex 源码剖析 https://mp.weixin.qq.com/s/TpIUIS5NS_Ndj4XhuCNNuA
+
+三、#公众号：Gopher指北
+
+1. 有趣！一行代码居然无法获取请求的完整URL https://mp.weixin.qq.com/s/hn3pfcGBG7HyPZnCwTmMhA
+
+四、#公众号：腾讯云CDN
+
+1. 专题 | 深挖腾讯云CDN QUIC的性能优化 https://mp.weixin.qq.com/s/cZfZEtnpizmxa66ni5wHnQ
+
+五、#公众号：腾讯技术工程
+
+1. 快速实现一个分布式定时器 https://mp.weixin.qq.com/s/ggPftQm2ewGOJwlRDQGgDQ
+
+六、#公众号：mohuishou
+
+1. Go可用性(一) 隔离设计 https://mp.weixin.qq.com/s/9NtAlIh6bfSlA2ILqIzdDQ
+
+七、#公众号：MoeLove
+
+1. Docker 构建镜像实践及原理（下篇） https://mp.weixin.qq.com/s/TDQxbB0yFzd5PleS3knnEg
+
+八、#公众号：k8s技术圈
+
+1. Pod 拓扑分布约束使用及调度原理 https://mp.weixin.qq.com/s/xyqqCo0qRgAR7vd6NzeQQQ
+
+九、#公众号：奇伢云存储
+
+1. Go 存储基础 — 文件 IO 的姿势 https://mp.weixin.qq.com/s/EkcUJns0gDe8mNgrRMj8Eg
+
+十、#公众号：脑子进煎鱼了
+
+1. 难以驾驭的 Go timer，一文带你参透计时器的奥秘 https://mp.weixin.qq.com/s/gxX-q2EvgWZEWe-deRITSw
+
+## GOCN每日新闻--2021-03-26 
+1. Golang 号称最快的 Json 解析器速度可达 5623ns/op   https://my.oschina.net/u/3081398/blog/4997334
+
+2. Go 语言交叉编译工具 gox   https://juejin.cn/post/6844903865175769102
+
+3. go os/exec 简明教程  https://colobu.com/2020/12/27/go-with-os-exec/
+
+4. Go 构建 CLI 实践: 在 ETL 中使用扇出模式  https://mp.weixin.qq.com/s/4tiiZzr_b4OucAQLFXwLAQ
+
+5. 真正的 Websocket 百万连接，以及 HTTPS 支持  https://gocn.vip/topics/11815
+
+## gopherDaily--2021-03-26
+1.Go语言的“黑暗角落”：盘点学习Go语言时遇到的那些陷阱[译] - https://t.zsxq.com/UR7a2vB
+
+2.Go播客：Go设计哲学 - https://changelog.com/gotime/172
+
+3.油管视频：如何在Go中使用OpenTelemetry开始分布式追踪 - https://www.youtube.com/watch?v=yQpyIrdxmQc
+
+4.使用Go构建一个简单的区块链系列 - https://dev.to/nheindev/build-the-hello-world-of-blockchain-in-go-bli
+
+5.IstioCon2021 回顾及开源项目 GetIstio 介绍视频回顾 - https://mp.weixin.qq.com/s/MuZdLXHUC2HcKdl40GmZuw
+
+6.Dapr能否引领云原生中间件的未来？ - https://mp.weixin.qq.com/s/KSln4MPWQHICIDeHiY-nWg
+
+7.现代应用服务器基础 - https://itnext.io/modern-application-server-basics-58a9aa8e9600
+
+8.wayland协议的go实现 - https://github.com/rajveermalviya/go-wayland
+
+9.sqlite不是一个玩具数据库 - https://antonz.org/sqlite-is-not-a-toy-database/
+
+10.用于k8s pod间流量sniff的kubectl插件 - https://github.com/eldadru/ksniff
+
+11.finops简介 - https://dzone.com/articles/a-short-introduction-to-finops
+
+
+## GOCN每日新闻--2021-03-26
+### 文章分享
+1. [Go goroutine调度策略](https://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483801&idx=1&sn=ef7f872afccf148661cbd5a3d3b5b0a2&scene=19#wechat_redirect)
+
+2. [go和syscall](https://mp.weixin.qq.com/s/YPiYNPa3xVD9Il1HeB5pTw)
+
+3. [go mod 七宗罪](https://mp.weixin.qq.com/s/CBiebXjBcik2pHQnbnB51A)
+
+### 面试题
+1. 什么时候会发生调度？
+
+2. 使用什么策略来挑选下一个进入运行的goroutine
+
+3. 如何把挑选出来的goroutine放到CPU上运行
+
+### 每日算法
+lc1012 至少有 1 位重复的数字
 
 ## go中文网每日资讯--2021-03-25 
 
