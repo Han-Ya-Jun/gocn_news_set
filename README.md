@@ -6,6 +6,108 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-03-27
+一、Go语言中文网
+
+1. [对 Go 代码进行分析，常用这个技术：AST](https://mp.weixin.qq.com/s/gKnaHxoiBZrBMsXKsz2kvw)
+
+2. [这可能是最容易理解的 Go Mutex 源码剖析**](https://mp.weixin.qq.com/s/BZvfNn_Vre7o2T8BZ4LLMw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-26)——Go 可用性(一) 隔离设计](https://mp.weixin.qq.com/s/4S_tbGNORvFD9NcqOQJ3eQ)
+
+三、InfoQ
+
+1. [一年增加1.2w星，Dapr能否引领云原生中间件的未来？](https://mp.weixin.qq.com/s/KSln4MPWQHICIDeHiY-nWg)
+
+四、光华路程序猿
+
+1. [阅读go源码,你需要了解这几个编译器指示](https://mp.weixin.qq.com/s/HcGFFrjWkBDbwxBKfjn9Dg)
+
+五、Go招聘
+
+1. [360竞对招Go，居然还不加班](https://mp.weixin.qq.com/s/J6ydS_p8KdZ6t8zgnZCV1Q)
+
+## GOCN每日新闻--2021-03-27
+1.Intellij 插件新秀【CommentShell】， 让你的注释运行起来 https://gocn.vip/topics/11835
+ 
+2.面对不可避免的故障，我们造了一个 “上帝视角” 的控制台 https://gocn.vip/topics/11837
+
+3.Go 存储基础 — 文件 IO 的姿势 https://mp.weixin.qq.com/s/EkcUJns0gDe8mNgrRMj8Eg
+
+4.大红大紫的 Golang 真的是后端开发中的万能药吗？ https://bbs.huaweicloud.com/blogs/250592
+
+5.Go 可用性 (一) 隔离设计 https://mp.weixin.qq.com/s/9NtAlIh6bfSlA2ILqIzdDQ
+
+
+
+## gopherDaily--2021-03-27
+1.使用Go实现可用select监听的队列 - https://mp.weixin.qq.com/s/bV097lsHfdIaJFLYjaYYFA
+
+2.Go语言marshal机制探秘 - https://alabeduarte.com/the-semantics-of-marshalling-in-go/
+
+3.Go module的日常 - https://jayconrod.com/posts/118/life-of-a-go-module
+
+4.使用Go进行模块化编程- 第1部分：在init()中注册 - https://entropy.cat/modular-programming-in-go-part-1-the-register-on-init-pattern/
+
+5.在k3s上使用rook - https://itnext.io/using-rook-on-a-k3s-cluster-8a97a75ba25e
+
+6.使用Go开发一个简单的以太坊智能合约 - https://towardsdev.com/creating-a-simple-ethereum-smart-contract-in-golang-138b9439f64e
+
+7.2021流行的无服务优先是什么 - https://thenewstack.io/what-is-serverless-first-in-2021/
+
+8.使用Go和WebAssembly构建渐进式Web应用 - https://github.com/maxence-charriere/go-app
+
+9.teller: 开发人员使用的密码管理器 - https://github.com/spectralops/teller
+
+10.go实现的web爬虫 - https://github.com/yields/ant
+
+11.2021后端开发人员学习指南 - https://twitter.com/dermayank/status/1375381056283496451
+
+## 码农桃花源--2021-03-27
+### 优质文章汇总
+1. [内核如何管理内存](https://manybutfinite.com/post/how-the-kernel-manages-your-memory/)
+
+2. [为什么TCP/IP数据包需要分片](https://draveness.me/whys-the-design-tcp-segment-ip-packet/)
+
+3. [系统调用的三种方式及性能开销分析](https://draveness.me/whys-the-design-syscall-overhead/)
+
+4. [Go语言调度器之非main goroutine的退出](https://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483789&idx=1&sn=182631d0d1390a57daea7293133d9ff6&scene=19#wechat_redirect)
+
+5. [Go goroutine调度策略](https://mp.weixin.qq.com/s?_biz=MzU1OTg5NDkzOA==&mid=2247483801&idx=1&sn=ef7f872afccf148661cbd5a3d3b5b0a2&scene=19#wechat_redirect)
+
+### 面试问题
+1. epoll单次收包没有收完怎么处理？
+
+2. 讲一下redis的线程模型
+
+3. 多机redis如何保证数据一致性
+
+4. 页高速缓存的作用？怎样保证缓存一致性
+
+5. zerocopy的实现机制
+
+6. linux的内核线程、轻量级进程、用户线程
+
+7. 手写atoi函数
+
+8. linux消息队列的本质
+
+9. 为什么goroutine没有id
+
+10. g0到main goroutine的转换过程
+
+11. 非main goroutine是如何返回到goexit函数的
+
+12. mcall函数如何从用户goroutine切换到g0继续执行
+
+13. 什么时候会发生调度？
+
+14. 使用什么策略来挑选下一个进入运行的goroutine
+
+15. 如何把挑选出来的goroutine放到CPU上运行
+
 ## go中文网每日资讯--2021-03-26
 
 一、#公众号：Go语言中文网
