@@ -6,6 +6,71 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-03-28
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 88 期 — 这次还会做错？](https://mp.weixin.qq.com/s/pgIoGnOd0CMPHFc4HD0xFA)
+
+2. [Go函数调用惯例](https://mp.weixin.qq.com/s/f2Zu-sj-i4nO0wmmOBkoUg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-27)——2021后端开发人员学习指南](https://mp.weixin.qq.com/s/q-UaKpbhoQf0a1gE9_pbLA)
+
+三、薯条的自我修养
+
+1. [用汇编带你看Golang里到底有没有值类型、引用类型](https://mp.weixin.qq.com/s/7_p-T7WCW1YxalFmGl-ipg)
+
+四、xueyuanjun
+
+1. [Go 数据结构和算法篇（十二）：字符串匹配之 KMP 算法](https://mp.weixin.qq.com/s/Xs4_Q7d0tXbVhign_dii9A)
+
+五、Golang语言开发栈
+
+1. [Golang 语言中的非类型安全指针](https://mp.weixin.qq.com/s/MvULt7x0m4IBmz1bNzLvCQ)
+
+六、网管叨bi叨
+
+1. [使用 PDB 避免 Kubernetes 集群中断](https://mp.weixin.qq.com/s/BFeMRF4WmPMFbnut8LPYhA)
+
+
+## GOCN每日新闻--2021-03-28
+1.Go 序列化语义 https://alabeduarte.com/the-semantics-of-marshalling-in-go/
+
+2.深入 Go nil https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/
+
+3.ant: 功能丰富的 Go 爬虫框架 https://github.com/yields/ant
+
+4.teller: 开源统一密钥管理服务 https://github.com/spectralops/teller
+
+5.Walrus: 安全快速的可靠备份实现 https://github.com/Clivern/Walrus
+
+
+
+## gopherDaily--2021-03-28
+1.掉入Go nil坑 - https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/
+
+2.Go、Rust、C++和Zig语言的生产力对比 - https://zserge.com/posts/better-c-benchmark/
+
+3.编写简洁的Go代码 - https://github.com/Pungyeon/clean-go-article
+
+4.Javascript开发人员学Go指南 - https://dev.to/cali3192/learning-go-from-javascript-4n6e
+
+5.使用conda创建go虚拟环境 - https://ostechnix.com/create-golang-virtual-environments-using-conda-in-linux/
+
+6.Go语言基础总结 - https://towardsdev.com/learning-golang-9297e2eee49a
+
+7.在命令行终端测试打字水平的工具 - https://github.com/maaslalani/typer
+
+8.Go MessagePack编解码库 - https://github.com/vmihailenco/msgpack
+
+10.Kubernetes成为基础架构管理的新标准 - https://tanzu.vmware.com/content/blog/kubernetes-as-the-new-standard-for-infrastructure-management
+
+11.任何人都可以用任何编程语言解决的实际项目列表 - https://github.com/karan/Projects
+
+12.通过学习事物的工作原理来提高编程水平 - https://jvns.ca/blog/learn-how-things-work/
+
 ## go中文网每日资讯--2021-03-27
 一、Go语言中文网
 
