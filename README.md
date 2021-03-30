@@ -7,6 +7,111 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-03-29
+一、Go语言中文网
+
+1. [Go 那么多数值类型，应该选哪个？](https://mp.weixin.qq.com/s/zCWzCBnszJ032h5qchk8cA)
+
+2. [RabbitMQ Go客户端教程3—发布/订阅](https://mp.weixin.qq.com/s/nsouScE11fVqelxznEdGhA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-28)——Golang 语言中的非类型安全指针](https://mp.weixin.qq.com/s/srsAMY7Ny1-ubU1Gqq32mw)
+
+三、mohuishou
+
+1. [Go可用性(二) 限流1: 令牌桶原理及使用](https://mp.weixin.qq.com/s/xDk54SE-JPOsokFg12OKfA)
+
+四、微服务实践
+
+1. [一文搞懂如何实现 Go 超时控制](https://mp.weixin.qq.com/s/5Q05d6OwvS-Zj-yNGwoh8A)
+
+五、Go招聘
+
+1. [Go Interview Weekly - 2021/03/28](https://mp.weixin.qq.com/s/iFNVOYHbULoN-J6cFDG7pg)
+
+六、Golang梦工厂
+
+1. [面试官：你能用Go写段代码判断当前系统的存储方式吗？](https://mp.weixin.qq.com/s/ffEsTpO-tyNZFR5navAbdA)
+
+七、Golang技术分享
+
+1. [Go中看似简单的WaitGroup源码设计，竟然暗含这么多知识？](https://mp.weixin.qq.com/s/V2x0Nw3Y8lZxHYJh_yQ0dQ)
+
+
+
+
+## GOCN每日新闻--2021-03-29
+- 1.通过系统建模探索Kubernetes网络模型 - https://dominik-tornow.medium.com/kubernetes-networking-22ea81af44d0
+
+- 2.Goroutine泄漏防治神器: goleak - https://mp.weixin.qq.com/s/3iPqxiK2mf9Fl5CSZ9U7RQ
+
+- 3.油管视频：在2021年开始将Go用于DevOps！- https://www.youtube.com/watch?v=7pLqIIAqZD4
+
+- 4.Bramble简介：Go实现的联合GraphQL网关 - https://movio.co/blog/building-a-new-api-platform-for-movio/
+
+- 5.构建一个超简约的Docker镜像以运行你的Go应用 - https://dev.to/chseki/build-a-super-minimalistic-docker-image-to-run-your-golang-app-33j0
+
+- 6.2021年可观测性发展的预测 - https://blog.newrelic.com/technology/2021-tech-predictions
+
+- 7.为什么我讨厌submodule - https://abildskov.io/2021/03/28/why-i-hate-submodules/
+
+- 8.为什么小对象存储很重要 - https://blog.min.io/small_objects
+
+- 9.在Kubernetes集群上以零停机时间发布和回滚更新 - https://www.fosstechnix.com/rolling-out-and-rolling-back-updates-with-zero-downtime-on-kubernetes-cluster/
+
+- 10.将TFLite与Go和GANs模型一起使用的简短示例 - https://derekg.github.io/tflite.html
+
+- 11.你应该知道的20个Linux监视命令 - https://www.fosstechnix.com/linux-monitoring-commands/
+
+- 12.使用OpenAI的CLIP和Siren（隐式神经表示网络）生成文本到图像的简单命令行工具 - https://github.com/lucidrains/deep-daze
+
+## gopherDaily--2021-03-29
+
+- 1.通过系统建模探索Kubernetes网络模型 - https://dominik-tornow.medium.com/kubernetes-networking-22ea81af44d0
+
+- 2.Goroutine泄漏防治神器: goleak - https://mp.weixin.qq.com/s/3iPqxiK2mf9Fl5CSZ9U7RQ
+
+- 3.油管视频：在2021年开始将Go用于DevOps！- https://www.youtube.com/watch?v=7pLqIIAqZD4
+
+- 4.Bramble简介：Go实现的联合GraphQL网关 - https://movio.co/blog/building-a-new-api-platform-for-movio/
+
+- 5.构建一个超简约的Docker镜像以运行你的Go应用 - https://dev.to/chseki/build-a-super-minimalistic-docker-image-to-run-your-golang-app-33j0
+
+- 6.2021年可观测性发展的预测 - https://blog.newrelic.com/technology/2021-tech-predictions
+
+- 7.为什么我讨厌submodule - https://abildskov.io/2021/03/28/why-i-hate-submodules/
+
+- 8.为什么小对象存储很重要 - https://blog.min.io/small_objects
+
+- 9.在Kubernetes集群上以零停机时间发布和回滚更新 - https://www.fosstechnix.com/rolling-out-and-rolling-back-updates-with-zero-downtime-on-kubernetes-cluster/
+
+- 10.将TFLite与Go和GANs模型一起使用的简短示例 - https://derekg.github.io/tflite.html
+
+- 11.你应该知道的20个Linux监视命令 - https://www.fosstechnix.com/linux-monitoring-commands/
+
+- 12.使用OpenAI的CLIP和Siren（隐式神经表示网络）生成文本到图像的简单命令行工具 - https://github.com/lucidrains/deep-daze
+
+
+## 码农桃花源--2021-03-29
+1.[CPU的缓存一致性问题及解决方案](https://mp.weixin.qq.com/s/PDUqwAIaUxNkbjvRfovaCg)
+
+2 [优化https的手段](https://mp.weixin.qq.com/s/gGOuIvrDuCP057v8KhTgXQ)
+
+3 [go并发编程常见的坑](https://mp.weixin.qq.com/s/FDV77dO9nwtPltmx5cB7Lw)
+
+### 面试题
+1 什么是阻塞队列？如何使用阻塞队列来实现生产者-消费者模型？
+
+2 实现生产者、消费者模型，10个生产者，10个消费者，队列容量为30个
+
+3 Chrome是多进程还是多线程的？为什么一个单页面崩溃会导致所有页面崩溃？
+
+### 每日算法
+lc329 矩形的最长递增路径
+https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/
+
+
 ## go中文网每日资讯--2021-03-28
 一、Go语言中文网
 
