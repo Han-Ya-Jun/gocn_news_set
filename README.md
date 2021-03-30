@@ -42,29 +42,15 @@
 
 
 ## GOCN每日新闻--2021-03-29
-- 1.通过系统建模探索Kubernetes网络模型 - https://dominik-tornow.medium.com/kubernetes-networking-22ea81af44d0
+1.Golang 语言中的非类型安全指针 https://mp.weixin.qq.com/s/MvULt7x0m4IBmz1bNzLvCQ
 
-- 2.Goroutine泄漏防治神器: goleak - https://mp.weixin.qq.com/s/3iPqxiK2mf9Fl5CSZ9U7RQ
+2.Goroutine 泄漏防治神器 goleak https://mp.weixin.qq.com/s/3iPqxiK2mf9Fl5CSZ9U7RQ
 
-- 3.油管视频：在2021年开始将Go用于DevOps！- https://www.youtube.com/watch?v=7pLqIIAqZD4
+3.Go 实现的联合 GraphQL 网关 https://movio.co/blog/building-a-new-api-platform-for-movio/
 
-- 4.Bramble简介：Go实现的联合GraphQL网关 - https://movio.co/blog/building-a-new-api-platform-for-movio/
+4.我的 Go 最基础总结 https://towardsdev.com/learning-golang-9297e2eee49a
 
-- 5.构建一个超简约的Docker镜像以运行你的Go应用 - https://dev.to/chseki/build-a-super-minimalistic-docker-image-to-run-your-golang-app-33j0
-
-- 6.2021年可观测性发展的预测 - https://blog.newrelic.com/technology/2021-tech-predictions
-
-- 7.为什么我讨厌submodule - https://abildskov.io/2021/03/28/why-i-hate-submodules/
-
-- 8.为什么小对象存储很重要 - https://blog.min.io/small_objects
-
-- 9.在Kubernetes集群上以零停机时间发布和回滚更新 - https://www.fosstechnix.com/rolling-out-and-rolling-back-updates-with-zero-downtime-on-kubernetes-cluster/
-
-- 10.将TFLite与Go和GANs模型一起使用的简短示例 - https://derekg.github.io/tflite.html
-
-- 11.你应该知道的20个Linux监视命令 - https://www.fosstechnix.com/linux-monitoring-commands/
-
-- 12.使用OpenAI的CLIP和Siren（隐式神经表示网络）生成文本到图像的简单命令行工具 - https://github.com/lucidrains/deep-daze
+5.Go 的黑暗角落 https://rytisbiel.com/2021/03/06/darker-corners-of-go/
 
 ## gopherDaily--2021-03-29
 
