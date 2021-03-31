@@ -7,6 +7,110 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-03-30
+一、Go语言中文网
+
+1. [对Go 1.16 io/fs设计的第一感觉：得劲儿！](https://mp.weixin.qq.com/s/CMzCHOMeOThzuDMTZzP0AA)
+
+2. [RabbitMQ Go客户端教程4——路由](https://mp.weixin.qq.com/s/NHO3ORUZavqjEXfx_k7W9g)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-29)——Goroutine 泄漏防治神器 goleak](https://mp.weixin.qq.com/s/Q3Yp76gJJmlP_ZZm6RAj4w)
+
+三、TechPaper
+
+1. [Go 应用优化指北](https://mp.weixin.qq.com/s/J1PdpX4Mr6crR6cZMAqecQ)
+
+四、polarisxu
+
+1. [Go周刊题解：切片的另类初始化 — 该题正确率出奇的低](https://mp.weixin.qq.com/s/QZdRU7rA93PrJRfSmhACAg)
+
+五、k8s技术圈
+
+1. [Kubernetes APIServer 机制概述](https://mp.weixin.qq.com/s/aPcPx8rZ4nL5hUAgy7aovg)
+
+六、CloudNativeCommunity
+
+1. [分布式系统在 Kubernetes 上的进化](https://mp.weixin.qq.com/s/dtFsp1ano9blR12TcLmY1w)
+
+七、真没什么逻辑
+
+1. [你该如何为 Kubernetes 定制特性](https://mp.weixin.qq.com/s/0XZa2KBubdNtN6sJTonluA)
+
+八、脑子进煎鱼了
+
+1. [手撕 Go 面试官：Go 结构体是否可以比较，为什么？](https://mp.weixin.qq.com/s/HScH6nm3xf4POXVk774jUA)
+
+九、码农桃花源
+
+1. [喜提 Go Contributor](https://mp.weixin.qq.com/s/vMM2tKEGJUproWMhycVtog)
+
+十、Golang技术分享
+
+1. [区区一个单例就想阻止我拿大厂offer？](https://mp.weixin.qq.com/s/2kxEHYJLLi4-0lqmTww0kA)
+
+## GOCN每日新闻--2021-03-30
+ 1.内存管理设计精要 https://mp.weixin.qq.com/s/ytm8UiulueXgFALPjdlGrQ
+ 
+ 2.Go 网络包默认值下的陷阱 https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/
+ 
+ 3.该如何为 Kubernetes 定制特性 https://mp.weixin.qq.com/s/0XZa2KBubdNtN6sJTonluA
+ 
+ 4.Go 应用优化指北 https://mp.weixin.qq.com/s/ZTWJjbXfWygUD8Js-fTaBQ
+ 
+ 5.Go 中的"优雅"的错误处理 https://juejin.cn/post/6944996155277672478
+
+
+## gopherDaily--2021-03-30
+ - 1.Go语言的“黑暗角落”：盘点学习Go语言时遇到的那些陷阱 - https://mp.weixin.qq.com/s/fRL1wmOFtoeYQsNjPnZ30g
+ 
+ - 2.Go中集合类型的高阶函数 - https://sergio-franco.me/posts/higher-order-collections/
+ 
+ - 3.Go数据类型-第一部分 - https://medium.com/star-gazers/data-structures-with-go-part-i-3e2c3d950cd4
+ 
+ - 4.x/crypto/openpgp包被建议作废 -  https://github.com/golang/go/issues/44226
+ 
+ - 5.创建一个protoc插件以使用progengen生成Go代码 - https://rotemtam.com/2021/03/22/creating-a-protoc-plugin-to-gen-go-code/
+ 
+ - 6.油管视频：高性能log库zap - https://www.youtube.com/watch?v=oKMktsJXNIk
+ 
+ - 7.Go中生成的依赖项注入容器- https://github.com/sarulabs/dingo
+ 
+ - 8.使用Go和vue.js开发社交应用 - https://medium.com/nerd-for-tech/social-application-with-vue-js-and-go-64978f7c381f
+ 
+ - 9.经典旧文：为Go项目贡献你的知识和技能 -  https://medium.com/@IndianGuru/contribute-your-time-expertise-to-go-3b61760fabbc
+ 
+ - 10.nerdctl: 适用于Containerd的、与docker兼容的cli - https://medium.com/nttlabs/nerdctl-359311b32d0e
+ 
+ - 11.没有人在乎你用什么编程语言 - https://georgestocker.com/2021/03/28/no-one-gives-a-shit-what-programming-language-you-use/
+ 
+ - 12.您的专业下降比您想象的要快（很多） - https://www.theatlantic.com/magazine/archive/2019/07/work-peak-professional-decline/590650/
+ 
+ - 13.实际的OSI模型 - https://computer.rip/2021-03-27-the-actual-osi-model.html
+ 
+ - 14.如何在Alpine Linux上配置静态IP地址 - https://www.cyberciti.biz/faq/how-to-configure-static-ip-address-on-alpine-linux/
+
+## 码农桃花源--2021-03-30
+### 文章分享
+1 [内核中cgroup的工作机制](https://mp.weixin.qq.com/s/XXUtFbwkcLC7K7aydOSAwA)
+
+2 [Serverless 与轻量级虚拟化 Firecracker](https://draveness.me/papers-firecracker/)
+
+3 [“浅谈”CPU cache](http://www.wowotech.net/memory_management/458.html)
+
+### 面试题
+1 描述一下TCP是怎么发送文件的
+
+2 MySQL为什么用B+数，不用二叉查找树、红黑树。
+
+3 策略模式、装饰模式、适配器模式、代理模式
+
+### 每日算法
+lc315 计算右侧小于当前元素的个数 
+https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/
+
 ## go中文网每日资讯--2021-03-29
 一、Go语言中文网
 
