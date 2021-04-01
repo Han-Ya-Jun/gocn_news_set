@@ -7,6 +7,116 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-03-31
+
+一、Go语言中文网
+
+1. [重磅发布：第一本包含泛型的 Go 图书](https://mp.weixin.qq.com/s/8YZzVtdSxegT6K956sf0oA)
+
+2. [RabbitMQ Go客户端教程5——topic](https://mp.weixin.qq.com/s/wZD7D187DmS1RjZuxebbcw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-03-30)——Go 应用优化指北](https://mp.weixin.qq.com/s/8lcDwohk1UVFJkRIHYrP_w)
+
+三、Gopher指北
+
+1. [今天看了一道很有意思的切片输出面试题（二）](https://mp.weixin.qq.com/s/O5533KWvDkyrsiCpBRP9EA)
+
+四、polarisxu
+
+1. [一本 Go 新书：美国盗版图书这么厉害？](https://mp.weixin.qq.com/s/CSgQDfW9v_-tmbGkkQDqQg)
+
+五、CloudNativeCommunity
+
+1. [手把手教你玩转 Kubeflow on EKS（一）](https://mp.weixin.qq.com/s/1ofdU3kZNQAnOlJC2T98Hg)
+
+六、TonyBai
+
+1. [Go语言中常见的几种反模式[译]](https://mp.weixin.qq.com/s/BKPXIrubvoPCqAhH2Kv3Zw)
+
+七、TechPaper
+
+1. [依赖反转相关](https://mp.weixin.qq.com/s/cahh0DvCl6ua3TsckcYh3g)
+
+八、微服务实践
+
+1. [用 Go + WebSocket 快速实现一个 chat 服务](https://mp.weixin.qq.com/s/8pBKZ8Mx_P2QyCBT_nvNuw)
+
+九、k8s技术圈
+
+1. [kube-apiserver 重启引起的全量对象更新](https://mp.weixin.qq.com/s/aE9sitph2HoLnX4ixl7RtA)
+
+十、奇伢云存储
+
+1. [存储入门进阶推荐：存储技术通关看这几本书](https://mp.weixin.qq.com/s/zyNb5N05un8w5AakAXv8Kg)
+
+十一、Go招聘
+
+1. [风水轮流转：这次大广州 Gopher 走一波，福利还不错哦](https://mp.weixin.qq.com/s/t6-fLG1LPthb13kY1SSh_Q)
+
+
+
+## GOCN每日新闻--2021-03-31
+
+1.Go 如何知道 time.Now 的时间 https://tpaschalis.github.io/golang-time-now/
+
+2.构建一个超简约的 Docker 镜像运行 Golang App https://dev.to/chseki/build-a-super-minimalistic-docker-image-to-run-your-golang-app-33j0
+
+3.Go 中集合的高阶函数 https://sergio-franco.me/posts/higher-order-collections/
+
+4.go 实现的 url 短链接服务 https://github.com/adhocore/urlsh
+
+5.go 实现的构建虚拟网络工具 https://github.com/gravitl/netmaker
+
+
+
+## gopherDaily--2021-03-31
+
+1.http.Client的连接行为控制 - https://t.zsxq.com/3VbIMbU
+
+2.Go time.Now的工作原理 - https://tpaschalis.github.io/golang-time-now/
+
+3.我如何快速创建小型Go应用 - https://adhoc.team/2021/03/29/simple-web-app-in-golang/
+
+4.netmaker: 一站式创建安全、快速的专用网络将任何计算机连接在一起，并从中央服务器管理多个网络 - https://github.com/gravitl/netmaker
+
+5.播客：基于Go技术栈构建初创企业 - https://okteto.com/blog/build-your-startup-with-go/
+
+6.Yearning: SQL审核平台 - https://github.com/cookieY/Yearning
+
+7.学习Go的十大网站 - https://dev.to/pluralsight/the-top-10-places-to-learn-go-3lhp
+
+8.Go开发的优势与劣势 - https://codism.io/pros-and-cons-of-golang-development
+
+9.经典旧文：理解你的nil - http://jeremymikkola.com/posts/2017_03_29_know_your_nil.html
+
+10.分布式系统在 Kubernetes 上的进化 - https://mp.weixin.qq.com/s/dtFsp1ano9blR12TcLmY1w
+
+11.机器学习数学学习速查表 - https://twitter.com/MLsummaries/status/1376631183589699586
+
+12免费电子书：逆向工程指南 - https://0xinfection.github.io/reversing/reversing-for-everyone.pdf
+
+## 码农桃花源--2021-03-31
+### 文章分享
+1 [linux任务调度器的演进](http://www.wowotech.net/process_management/scheduler-history.html)
+
+2 [为什么linux需要虚拟内存](https://draveness.me/whys-the-design-os-virtual-memory/)
+
+3 [文件系统和裸块设备的page cache问题](http://www.wowotech.net/filesystem/439.html)
+
+### 面试题
+1 从用户态与内核态的角度讲一下同步IO和异步IO
+
+2 举例说明进程间通信
+
+3 TCP的网络拥塞控制机制，滑动窗口如何确定
+
+### 每日算法
+lc140 单词拆分
+https://leetcode-cn.com/problems/word-break-ii/
+
+
 
 ## go中文网每日资讯--2021-03-30
 一、Go语言中文网
