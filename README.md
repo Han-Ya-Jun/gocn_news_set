@@ -8,6 +8,98 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2021-04-02 
+
+
+一、Go语言中文网
+
+1. [那些想替代 C 的语言怎么样？Go、Rust、C++ 和 Zig 生产力对比](https://mp.weixin.qq.com/s/jUWLmeqwVJyI9HTw66yLiA)
+
+2. [Go 1.16.3 发布](https://mp.weixin.qq.com/s/lOfOw7y3qxqtuGmO-T937A)
+
+3. [RedMonk 编程语言排行榜，说 Go 正走向衰退](https://mp.weixin.qq.com/s/QLoet9MHPCdSdJ3t-Q13Iw)
+
+4. [Go 面试题：滑动窗口技巧](https://mp.weixin.qq.com/s/F0UhJBqMBl8IQCjF10AgvQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-01)—— 令牌桶的实现 rate/limt](https://mp.weixin.qq.com/s/tWH8FhDZev9Cjfp0weaNTg)
+
+三、polarisxu
+
+1. [「Hello, World」发明者的传奇人生 — 文末送书](https://mp.weixin.qq.com/s/vGDU8okV30XHZCvFEJR4Sg)
+
+四、字节跳动技术团队
+
+1. [火山引擎 Redis 云原生实践](https://mp.weixin.qq.com/s/VCpuZ0lvgSgfvG7voBl9fw)
+
+五、云原生技术爱好者社区
+
+1. [Kubernetes常见面试问题总结](https://mp.weixin.qq.com/s/tgP-Vk8O83UbxlHCfjIHgQ)
+
+六、脑子进煎鱼了
+
+1. [再见 Go 面试官：单核 CPU，开两个 Goroutine，其中一个死循环，会怎么样？](https://mp.weixin.qq.com/s/h27GXmfGYVLHRG3Mu_8axw)
+
+七、Go招聘
+
+1. [西安也是起飞的节奏，大厂狂招Gopher](https://mp.weixin.qq.com/s/Fha7qOzLreG1aoKJ7oFyjA)
+
+
+## GOCN每日新闻--2021-04-02 😛
+1.Golang 语言的编程技巧之类型 https://mp.weixin.qq.com/s/NwJY4-QULFT8Cd5R2un6cw
+
+2.context 使用不当引发的一个 bug https://mp.weixin.qq.com/s/FkgPzlwJtVUvCL_O7M-_jw
+
+3.Go 函数闭包底层实现 https://mp.weixin.qq.com/s/w5aq4PuLG1tT57nRzuzaFw
+
+4.go 中 semaphore 源码解读 https://boilingfrog.github.io/2021/04/02/semaphore/
+
+5.你能用 Go 写段代码判断当前系统的存储方式吗？ https://mp.weixin.qq.com/s/ffEsTpO-tyNZFR5navAbdA
+
+
+## gopherDaily--2021-04-02 
+- 1.spaghetti：基于Web的交互式的Go包依赖分析工具 - https://github.com/adonovan/spaghetti
+- 2.Go原生支持fuzz test的提案被accept - https://github.com/golang/go/issues/44551
+- 3.用于Go语言开发的Top 10 IDE和工具 -  https://www.mindinventory.com/blog/golang-ide-tools-for-go-development/
+- 4.使用Promtail, Loki, Grafana搭建k8s日志分析系统 - https://itnext.io/logging-in-kubernetes-with-loki-and-the-plg-stack-93b27c90ec34
+- 5.google开源的与容器镜像仓库交互的go包与命令行工具 - https://github.com/google/go-containerregistry
+- 6.go tip版本已经实现基于寄存器的ABI规范(以前是基于栈的) - https://github.com/golang/go/issues/40724#issuecomment-811561715
+- 7.Go 1.16.3和Go 1.15.11 发布 -  https://groups.google.com/g/golang-announce/c/wVRzkWSQpO0/m/EUykHAm0CAAJ
+- 8.Go设计草案：Go漏洞数据库 - https://go.googlesource.com/proposal/+/master/design/draft-vulndb.md
+- 9.使用Go和kotlin重写alda - https://blog.djy.io/why-im-rewriting-alda-in-go-and-kotlin/
+- 10.云提供商的CPU基准测试 - https://thenewstack.io/cpu-benchmarks-for-cloud-providers-intel-vs-amd-vs-amazons-arm-based-graviton2/
+- 11.Go泛型设计又有新简化：约束中的type关键字被去掉 - https://github.com/golang/go/issues/45346
+
+
+
+## 码农桃花源--2021-04-02
+### 文章分享
+1. [go 被动调动一](https://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483817&idx=1&sn=18e0f78465a67e4d87a27065607401e4&scene=19#wechat_redirect)
+
+2. [go 为服务的破坏](https://mp.weixin.qq.com/s/2fuJbXHDmve52mwXXvfxHQ)
+
+3. [go 如果你的+-*/一起用](https://mp.weixin.qq.com/s/kMFfSkKbV7w0lwPOgGK-CQ)
+
+### 面试题
+
+1.
+ ```go
+ v := new(int)
+    *v = 2
+    println(5/+-*v)
+```
+输出什么？
+
+2. 当在M上运行的goroutine发生阻塞时，会怎么工作
+
+3. g0，m0 的作用
+
+4. 什么时候会抢占P
+
+### 每日算法
+lc1307 口算难题
+
 ## go中文网每日资讯--2021-04-01 
 
 一、Go语言中文网
