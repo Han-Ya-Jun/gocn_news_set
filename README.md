@@ -6,7 +6,53 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-04-03 
 
+一、Go语言中文网
+
+1. [Hugo作者、Go核心团队成员Steve Francia谈诞生13年的Go语言：生态系统、演化与未来[译]](https://mp.weixin.qq.com/s/P5_wFaNgWkoNZKA7w3g_xA)
+
+2. [Go中看似简单的WaitGroup源码设计，竟然暗含这么多知识？](https://mp.weixin.qq.com/s/NYusaV42VyYtMByD-JuA3A)
+
+3. [Go 存储基础 — 文件 IO 的姿势](https://mp.weixin.qq.com/s/kHGxXEz7lahDeXhrDxvmHw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-02)——Go 1.16.3 发布](https://mp.weixin.qq.com/s/YzhYbyFQmDrO90-OT8zhkA)
+
+三、k8s技术圈
+
+1. [Prometheus Operator 安装配置|最新版](https://mp.weixin.qq.com/s/vUsi4OrVopav46QHEBDNsA)
+
+2. [高级 SRE/DevOps 专家 - 理想汽车 | 云原生招聘](https://mp.weixin.qq.com/s/B1d6qBrhiAZNYcLcdluJkA)
+
+
+
+
+## GOCN每日新闻--2021-04-03 
+1.Go map vs switch https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html
+
+2.Go nil 类型的理论与实践 https://utcc.utoronto.ca/~cks/space/blog/programming/GoNilIsTypedSortOf
+
+3.Go http handler 的小细节 https://vladimir.varank.in/notes/2021/03/little-things-of-go-http-handlers/
+
+4.一个 Go module 的生命流程 https://jayconrod.com/posts/118/life-of-a-go-module
+
+5.Go 自动测试实践 https://dev.to/salesforceeng/intro-to-automated-testing-in-go-4mjl
+
+## gopherDaily--2021-04-03 
+- 1.Go 应用优化指北 -  https://mp.weixin.qq.com/s/J1PdpX4Mr6crR6cZMAqecQ
+- 2.在线重加载Go应用 - https://github.com/cosmtrek/air
+- 3.油管视频：理解Go内存分配：栈与堆 - https://www.youtube.com/watch?v=ZMZpH4yT7M0
+- 4.不要在集成测试中使用build tag - https://peter.bourgon.org/blog/2021/04/02/dont-use-build-tags-for-integration-tests.html
+- 5.2021年，Go还值得初学者学习吗 - https://medium.com/geekculture/is-golang-worth-learning-for-beginners-in-2021-2d189ea3419e
+- 6.Go与rabbitmq实例 - https://dev.to/koddr/working-with-rabbitmq-in-golang-by-examples-2dcn
+- 7.semver版本号解析工具 - https://github.com/hashicorp/go-version
+- 8.Omniparser：原生的GoETL解析器，支持提取各种格式的输入数据 - https://github.com/jf-tech/omniparser
+- 9.Argo Workflows 3.0发布 - https://www.cncf.io/blog/2021/04/02/argo-workflows-3-0-released/
+- 10.71张图详解IP 地址、IP 路由、分片和重组、三层转发、ARP、ICMP - https://mp.weixin.qq.com/s/e0MsxZn0-hZ5KIOUF8p6IA
+- 11.单个C源文件的http server - https://unix4lyfe.org/darkhttpd/
+- 12.Go是一门伟大的编程语言 - https://drewdevault.com/2021/04/02/Go-is-a-great-language.html
 
 ## go中文网每日资讯--2021-04-02 
 
