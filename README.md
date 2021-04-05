@@ -6,6 +6,52 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+
+## go中文网每日资讯--2021-04-04 
+
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 89 期 — 泛型又有变动](https://mp.weixin.qq.com/s/XMc_wMGgLgCXRJecGMx93g)
+
+2. [不知道如何组织项目结构，这个项目也许可以给你启发](https://mp.weixin.qq.com/s/PUBshhETz7kcJ-0VNhpvdw)
+
+3. [面试官：你能用Go写段代码判断当前系统的存储方式吗？](https://mp.weixin.qq.com/s/JNef8fGc3jyHqdqgCoYkPg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-03)——揭秘WaitGroup源码设计](https://mp.weixin.qq.com/s/pNM2su7jeBn7UYvEMkY3_A)
+
+三、云原生技术爱好者社区
+
+1. [Linkerd、Consul、Istio、Kuma、Traefik、AWS App服务网格全方位对比](https://mp.weixin.qq.com/s/22OYzOGhygIFU09ofZ1hig)
+
+四、网管叨bi叨
+
+1. [gRPC的平滑关闭和在Kubernetes上的服务摘流方案总结](https://mp.weixin.qq.com/s/lCTyZgSK3b-rJtV9l6PNYA)
+## GOCN每日新闻--2021-04-04 
+1.针对前端开发者的 Go 入门指南 https://medium.com/star-gazers/golang-for-frontend-developers-beginner-guide-to-golang-87aa036b932f
+
+2.系统受控 - 如何自动化集成测试 https://medium.com/bumble-tech/system-under-control-how-to-automate-integration-tests-52383be28d07
+
+3.Go 与 RabbitMQ 集成示例 https://dev.to/koddr/working-with-rabbitmq-in-golang-by-examples-2dcn
+
+4.成为更好的 Gopher 值得收藏的一些书签 https://dev.to/rubenwap/must-bookmarks-to-become-good-in-go-ln8
+
+5.Go 包依赖分析工具 https://github.com/adonovan/spaghetti
+
+## gopherDaily--2021-04-04 
+- 1.大厂Go语法50问 - https://www.readfog.com/a/1631467208759676928
+- 2.基于docker-compose在google云上运行集成测试 - https://threedots.tech/post/running-integration-tests-on-google-cloud-build/
+- 3.利用接口在Go中模拟测试外部API - https://levelup.gitconnected.com/utilizing-the-power-of-interfaces-when-mocking-and-testing-external-apis-in-golang-1178b0db5a32
+- 4.漂亮的终端布局的样式定义(基于TUI) -  https://github.com/charmbracelet/lipgloss
+- 5.分布式操作系统不存在 - https://nivenly.com/lib/2021-04-02-operating-system-interface/
+- 6.Windows 10上不用Docker的Windows容器（使用containerd） - https://www.jamessturtevant.com/posts/Windows-Containers-on-Windows-10-without-Docker-using-Containerd/
+- 7.网络错误配置扫描器 - https://github.com/SpectralOps/netz
+- 8.使用go开发一个区块链：持久化 - https://dev.to/nheindev/building-a-blockchain-in-go-pt-iii-persistence-3884
+- 9.互联网测速命令行工具 - https://github.com/adhocore/fast
+- 10.编程语言引发了隐私问题 - https://www.bleepingcomputer.com/news/security/most-loved-programming-language-rust-sparks-privacy-concerns/
 ## go中文网每日资讯--2021-04-03 
 
 一、Go语言中文网
