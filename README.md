@@ -6,7 +6,103 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-04-06 
 
+一、Go语言中文网
+
+1. [Go：使用 Ebiten 在 2D 视频游戏中进行图像渲染](https://mp.weixin.qq.com/s/KMPpwMiAoXoh0eicVjwblA)
+
+2. [Go垃圾回收系列之十一：finalizer的妙用](https://mp.weixin.qq.com/s/E076Svi1EAkEz63d1jVpKw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-05)——图形化展示go包依赖关系](https://mp.weixin.qq.com/s/YnQst2VnoaZh0eGux2rJsA)
+
+三、 MoeLove
+
+1. [深入源码彻底搞懂 Docker 镜像](https://mp.weixin.qq.com/s/AHR_IRAbytB46nCgYvrFiw)
+
+四、ServiceMesher
+
+1. [是否选择多集群 —— 使用服务网格的集群间通信](https://mp.weixin.qq.com/s/Kn4KDlwMAmDvzr-dRv95dw)
+
+五、luozhiyun很酷
+
+1. [一文教你搞懂 Go 中栈操作](https://mp.weixin.qq.com/s/H9ZYnJevZAnFaNsIH2wbjQ)
+
+六、k8s技术圈
+
+1. [API 网关 gRPC-Gateway V2 初探](https://mp.weixin.qq.com/s/Mse5UTek6lUmqBxN5ry6iQ)
+
+七、脑子进煎鱼了
+
+1. [你知道 Go 结构体和结构体指针调用有什么区别吗？](https://mp.weixin.qq.com/s/g-D_eVh-8JaIoRne09bJ3Q)
+
+八、Golang梦工厂
+
+1. [如何平滑切换线上Elasticsearch索引](https://mp.weixin.qq.com/s/8VQxK_Xh-bkVoOdMZs4Ujw)
+
+九、GoOfficialBlog
+
+1. [高性能 Go 代码工坊（Part3)](https://mp.weixin.qq.com/s/74FQ0PB-idCVLa_hKyQuag)
+
+十、微服务实践
+
+1. [极速精简 Go 版 Logstash](https://mp.weixin.qq.com/s/UeeSZi_-ZiiHf3P4tmyszw)
+
+十一、技术岁月
+
+1. [服务注册发现之服务注册中心设计原理与Golang实现](https://mp.weixin.qq.com/s/ZWJBuszbaso1KuE9BjNBHg)
+
+## GOCN每日新闻--2021-04-06 
+
+1.揭秘腾讯内部 Go Modules Proxy 服务 https://mp.weixin.qq.com/s/GuUHq3uyPiMCQg_G1odAWA
+
+2.像大神一样调试 Go https://juejin.cn/post/6947868469270577159
+
+3.一文教你搞懂 Go 中栈操作 https://www.luozhiyun.com/archives/513
+
+4.Goroutine 实现并发应该思考的问题 https://juejin.cn/post/6947548031793233957
+
+5.让 Go 程序以 systemd 服务运行 https://khanakia.medium.com/golang-running-a-go-binary-as-a-systemd-service-on-ubuntu-18-04-in-10-minutes-without-docker-e5a1e933bb7e
+
+## gopherDaily--2021-04-06 
+- 1.Go语言的“十条戒律” - https://bitfieldconsulting.com/golang/commandments
+
+- 2.pterm: 强大的控制台输出美化包 - https://github.com/pterm/pterm
+
+- 3.标准库context包探秘 - https://steveazz.xyz/blog/import-context/
+
+- 4.使用Go构建一个基础区块链 - https://levelup.gitconnected.com/how-to-build-a-basic-blockchain-in-go-c5745ea06456
+
+- 5.通过goroutine加速你的go应用 - https://betterprogramming.pub/golang-basics-speed-up-your-program-with-goroutines-4ce84945aba8
+
+- 6.为什么我从wordpress迁移到gohugo - https://sspaeti.com/blog/why-i-moved-away-from-wordpress/
+
+- 7.packiffer: 跨平台包嗅探器 - https://github.com/massoudasadi/packiffer
+
+- 8.docuowl: Go实现的文档生产工具 - https://github.com/docuowl/docuowl
+
+- 9.云原生世界的服务网格 - https://thenewstack.io/service-meshes-in-the-cloud-native-world/
+
+- 10.Git作为一个NoSql数据库 - https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/
+
+## 码农桃花源--2021-04-06
+### 文章分享
+1. [工作线程的唤醒及创建](https://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483822&idx=1&sn=82e9328c3bb1d1153145261d932ab54b&scene=19#wechat_redirect)
+
+2. [bad file descriptor](https://xargin.com/case-bad-file-descriptor/)
+
+3. [Go netpoller 原生网络模型之源码全面揭秘](https://zhuanlan.zhihu.com/p/91042195)
+### 面试题
+1. Go语言的栈空间管理是怎么样的
+
+2. 堆内存管理怎么分配的
+
+3. 栈的内存是怎么分配的
+
+### 每日算法
+lc600 不含连续1的非负整数
 
 ## go中文网每日资讯--2021-04-05 
 
