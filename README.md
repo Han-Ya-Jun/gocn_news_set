@@ -6,6 +6,110 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-04-07 
+
+一、Go语言中文网
+
+1. [使用Go实现可用select监听的队列](https://mp.weixin.qq.com/s/GeM_W3Ea7uHCCgbfrHGHsg)
+
+2. [&quot;go build -X&quot; 的妙用](https://mp.weixin.qq.com/s/nd0ynZfRbgIZktG5TkfWbg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-06)——高性能 Go 代码工坊](https://mp.weixin.qq.com/s/a3-OlgMhkWhoenN1s5C4Rg)
+
+三、MoeLove
+
+1. [K8S 生态周报| Prometheus v2.26 发布, 带来众多实用特性](https://mp.weixin.qq.com/s/w4tqY3G01icJKodD6MF1Cw)
+
+四、吴亲强的深夜食堂
+
+1. [使用 Go 每分钟处理百万请求](https://mp.weixin.qq.com/s/BPCxSYEr6ww2F0b9tqPdSQ)
+
+五、k8s技术圈
+
+1. [kube-scheduler 的 Cache 解析](https://mp.weixin.qq.com/s/xIw4RZUjl2SMzxCRfW3fig)
+
+六、polarisxu
+
+1. [答应我，这次一定彻底搞懂 Go 中的类型别名](https://mp.weixin.qq.com/s/vtgFEXkjaItmkqUzcj64tg)
+
+七、mohuishou
+
+1. [Go可用性(四) 限流3: 漏桶算法](https://mp.weixin.qq.com/s/dJ3hiuA-8BdNF_ENL-WIUg)
+
+八、Golang梦工厂
+
+1. [源码剖析类型断言是如何实现的！附性能损耗测试](https://mp.weixin.qq.com/s/dq5PVHdMBMkbyGSxN28DHA)
+
+九、Golang技术分享
+
+1. [算法系列：广度优先搜索](https://mp.weixin.qq.com/s/p4nDIF6jWTnv5Q8QRKKjpQ)
+
+十、奇伢云存储
+
+1. [存储基础 — 文件描述符 fd 究竟是什么？](https://mp.weixin.qq.com/s/hLq7Pp8CkJD9B-Xqym50dA)
+
+十一、刻舟求荐
+
+1. [第 0002 荐：Fiber，超高性能的Go Web框架](https://mp.weixin.qq.com/s/o70a_zlA43pvbzzbyDXjtg)
+
+十二、Go招聘
+
+1. [gopher们都想有个好未来？那就来这吧](https://mp.weixin.qq.com/s/Le4-3rAjGyFdNyRRUAG4vg)
+
+## GOCN每日新闻--2021-04-07 
+
+1.GAPI 网关 gRPC-Gateway V2 初探 https://mp.weixin.qq.com/s/Mse5UTek6lUmqBxN5ry6iQ
+
+2.【dubbo-go 源码解析】URL：如何应用到 Dubbo-go？https://juejin.cn/post/6948214701470220301
+
+3.使用 Go 实现可用 select 监听的队列 https://mp.weixin.qq.com/s/GeM_W3Ea7uHCCgbfrHGHsg
+
+4.Go ast https://www.jianshu.com/p/443bd82863f8
+
+5.如何规范使用 Design Pattern With Go 设计模式 - 工厂模式 https://www.jianshu.com/p/f6cbc8a44d73
+
+## gopherDaily--2021-04-07
+1.go webrtc项目pion的创始人专访 - https://webrtchacks.com/how-go-based-pion-attracted-webrtc-mass-qa-with-sean-dubois/
+
+2.Chaos Mesh 云原生混沌工程测试平台 - https://mp.weixin.qq.com/s/cXz7zbASAWx_m4JnFxC1qQ
+
+3.是否选择多集群 —— 使用服务网格的集群间通信 - https://mp.weixin.qq.com/s/Kn4KDlwMAmDvzr-dRv95dw
+
+4.为什么k8s上对象存储很重要 - https://blog.min.io/why-kubernetes-managed
+
+5.k8s官博：作废PodSecurityPolicy: https://kubernetes.io/blog/2021/04/06/podsecuritypolicy-deprecation-past-present-and-future/
+
+6.KubeLinter 是一种静态分析工具，可检查k8s YAML 文件和helm chart，以确保其中应用程序符合最佳实践 - https://github.com/stackrox/kube-linter
+
+7.使用Go实现一个自定义go linter - https://developer20.com/custom-go-linter/
+
+8.Go实现的rss阅读工具 - https://gitlab.com/microo8/photon
+
+9.我讨厌PostgreSQL的 10 件事 - https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791
+
+10.使用Go语言在电子表格中生成从属下拉列表 - https://dzone.com/articles/quick-tutorial-generate-dependent-drop-list-in-spr
+
+11.google开源下一代音频编解码器：Lyra - https://github.com/google/lyra
+
+## 码农桃花源--2021-04-07
+### 文章分享
+1. [write文件一个字节后何时发起写磁盘IO](https://mp.weixin.qq.com/s/qEsK6X_HwthWUbbMGiydBQ)
+
+2. [zk一致性原理](https://www.cnblogs.com/sunddenly/p/4138580.html)
+
+3. [操作系统三大调度算法] https://mp.weixin.qq.com/s/JWj6_BF9Xc84kQcyx6Nf_g
+
+### 面试题
+1. redis的zset是如何实现的？为什么只在数据量小的时候用ziplist
+
+2. 知道哪些限流算法？
+
+### 每日算法
+lc222 完全二叉树的节点个数
+
 ## go中文网每日资讯--2021-04-06 
 
 一、Go语言中文网
