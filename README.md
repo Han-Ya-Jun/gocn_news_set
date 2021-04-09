@@ -7,6 +7,106 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-04-08 
+
+一、Go语言中文网
+
+1. [【文末送书】你知道 Go 之父 Ken&amp;Rob 之前的故事吗？](https://mp.weixin.qq.com/s/BzheVWnEnFNQywaGxMZWDw)
+
+2. [服务注册中心设计原理与Golang实现](https://mp.weixin.qq.com/s/WZ6HG-ZLFiBJLbE29vTr3g)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-07)——使用 Go 每分钟处理百万请求](https://mp.weixin.qq.com/s/4EMPHBjsJiasHGqLNQKkOw)
+
+三、Gopher指北
+
+1. [今天看了一道很有意思的切片输出面试题（三）](https://mp.weixin.qq.com/s/qdABTKsNjeG7KpKFRaKMww)
+
+四、polarisxu
+
+1. [Rust 劝退系列 01：打造开发环境](https://mp.weixin.qq.com/s/2GGY_q90NqMd_A2SssOKog)
+
+五、TechPaper
+
+1. [RLock 过程被调出的悲剧](https://mp.weixin.qq.com/s/AGJpvfbB1GoMZ0IRQdFRUQ)
+
+六、脑子进煎鱼了
+
+1. [跟读者聊 Goroutine 泄露的 N 种方法，真刺激！](https://mp.weixin.qq.com/s/ql01K1nOnEZpdbp--6EDYw)
+
+七、xueyuanjun
+
+1. [Go 数据结构和算法篇（十四）：哈希表、哈希函数、哈希冲突和哈希算法](https://mp.weixin.qq.com/s/It1Rtci_A3dwZp1l3ZT90w)
+
+八、k8s技术圈
+
+1. [Go + gRPC-Gateway(V2) 构建微服务实战系列，小程序登录鉴权服务](https://mp.weixin.qq.com/s/P9WBtE4rZ2wepT5OtLjKGw)
+
+九、Go招聘
+
+1. [Baidu职位来啦，高薪不加班还真香](https://mp.weixin.qq.com/s/_lcrbfGZiciKbhnTzwIbgw)
+
+
+
+## GOCN每日新闻--2021-04-08 
+
+1.Go time.Now 是如何获取当前时间的？ https://tpaschalis.github.io/golang-time-now/
+
+2.跟读者聊 Goroutine 泄露的 N 种方法，真刺激！ https://mp.weixin.qq.com/s/ql01K1nOnEZpdbp--6EDYw
+
+3.RLock 过程被调出的悲剧 https://mp.weixin.qq.com/s/AGJpvfbB1GoMZ0IRQdFRUQ
+
+4.用 vscode 在 k8s 中调试微服务 https://blog.getambassador.io/debugging-go-microservices-in-kubernetes-with-vscode-a36beb48ef1
+
+5.Go + gRPC-Gateway(V2) 构建微服务实战系列，小程序登录鉴权服务 https://mp.weixin.qq.com/s/P9WBtE4rZ2wepT5OtLjKGw
+
+
+
+## gopherDaily--2021-04-08
+
+1.Go泛型语法又出“幺蛾子”：引入type set概念和移除type list中的type关键字 - https://mp.weixin.qq.com/s/W8KMDXHy4tU8kVrgFKkmXg
+
+2.Go运行时与标准库源码分析 - https://github.com/cch123/golang-notes
+
+3.Go并发模式 - https://medium.com/engineering-at-cytora/cytora-golang-academy-part-three-e53af7d7d3e1
+
+4.在WSL 2的k3s上部署rancher - https://boxofcables.dev/deploying-rancher-on-k3s-on-wsl2/
+
+5.将现有应用通过隧道连接到公有云的简单方法 - https://inlets.dev/blog/2021/04/07/simple-hybrid-cloud.html
+
+6.揭秘腾讯内部 Go Modules Proxy 服务 - https://mp.weixin.qq.com/s/GuUHq3uyPiMCQg_G1odAWA
+
+7.AWS Go Cloud Development Kit 发布 - https://aws.amazon.com/cn/blogs/developer/getting-started-with-the-aws-cloud-development-kit-and-go/
+
+8.与gitlab交互的go client api - https://github.com/xanzy/go-gitlab
+
+9.Argo CD v2.0发布 - https://www.cncf.io/blog/2021/04/07/argo-cd-2-0-released/
+
+10.为什么我的go api比node api慢10倍 - https://jason150.medium.com/golang-why-my-go-api-was-10x-slower-than-node-api-b9433d01c490
+
+11.非官方microsoft team go api包 - https://github.com/fossteams/teams-api
+
+## 码农桃花源--2021-04-08
+### 文章分享
+1. [调度系统设计概念精要](https://draveness.me/system-design-scheduler/)
+
+2. [iftop流量监控](https://www.cnblogs.com/chenqionghe/p/10680075.html)
+
+3. [redis性能问题排查指南](https://mp.weixin.qq.com/s/rw42cFbJXwPtsGiqkFErfw)
+
+### 面试题
+1. 讲一下http协议，cookie的跨域
+
+2. 哈希冲突的解决方式
+
+3. 平时用过库函数sort吗，内部使用什么排序算法
+
+### 每日算法
+lc424 替换后的最长重复字符
+
+
+
 ## go中文网每日资讯--2021-04-07 
 
 一、Go语言中文网
