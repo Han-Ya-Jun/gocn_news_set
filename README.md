@@ -7,6 +7,40 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## gopherDaily--2021-04-10 
+- 1.使用libbpfgo构建eBPF应用 - https://blog.aquasec.com/libbpf-ebpf-programs
+- 2.错误标记：替代“面向行为进行错误断言”的方案 - https://npf.io/2021/04/errorflags/
+- 3.迈向企业级核心场景的 TiDB 5.0 - https://pingcap.com/blog-cn/tidb-5.0-ga-is-now/
+- 4.Go程序配置利器-viper库 - https://mp.weixin.qq.com/s/_2H6L-pTXrIS1XH3tQvDMQ
+- 5.创建带tls支持的go https server - https://eli.thegreenplace.net/2021/go-https-servers-with-tls/
+- 6.使用go、kafka和eventrouter监视k8s集群事件 - https://hackernoon.com/monitor-your-kubernetes-cluster-events-with-eventrouter-golang-and-kafka-wh2a35l0
+- 7.Go json编解码解析 - http://saidvandeklundert.net/2021-04-02-go-json/
+8.记录一次使用Go和nginx建立gRPC服务时遇到的误导性错误 - https://kennethjenkins.net/posts/go-nginx-grpc/
+- 8.datadog开源的go stack输出解析工具 - https://github.com/DataDog/gostackparse
+- 9.linux内核将支持apple M1 - https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf
+- 10.用树莓派构建构建生长盒, 实时分享植物生长的进展 - https://blog.alexellis.io/iot-growbox/
+
+## GOCN每日新闻--2021-04-09 
+
+1.Go 泛型语法又出 “幺蛾子”：引入 type set 概念和移除 type list 中的 type 关键字
+https://gocn.vip/topics/11895
+
+2.Go 程序配置利器-viper 库 https://gocn.vip/topics/11898
+
+3.GoLand 2021.1 新增功能 https://www.jetbrains.com/go/promo/whatsnew/
+
+4.Go 可用性 (四) 限流 3: 漏桶算法 https://lailin.xyz/post/go-training-week6-4-leaky-bucket.html
+
+5.Golang+Protobuf+PixieJS 开发 Web 多人在线射击游戏 (原创翻译)
+https://www.cnblogs.com/hacker-linner/p/14631031.html
+
+
+
+
+
+
+
+
 ## go中文网每日资讯--2021-04-08 
 
 一、Go语言中文网
