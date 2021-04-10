@@ -7,6 +7,7 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
 ## gopherDaily--2021-04-10 
 - 1.使用libbpfgo构建eBPF应用 - https://blog.aquasec.com/libbpf-ebpf-programs
 - 2.错误标记：替代“面向行为进行错误断言”的方案 - https://npf.io/2021/04/errorflags/
@@ -19,6 +20,43 @@
 - 8.datadog开源的go stack输出解析工具 - https://github.com/DataDog/gostackparse
 - 9.linux内核将支持apple M1 - https://git.kernel.org/pub/scm/linux/kernel/git/soc/soc.git/commit/?h=for-next&id=0d5fe4b31785b732b71e764b55cda5c8d6e3bbbf
 - 10.用树莓派构建构建生长盒, 实时分享植物生长的进展 - https://blog.alexellis.io/iot-growbox/
+
+## go中文网每日资讯--2021-04-09 
+
+一、Go语言中文网
+
+1. [Go 惯用模式：函数选项模式](https://mp.weixin.qq.com/s/58rdkWbWpA4OnvQJF4u_ew)
+
+2. [最清晰易懂的 Go WaitGroup 剖析](https://mp.weixin.qq.com/s/P8Dvy4iAPKywMH6ZlMF19Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-08)——RLock 过程被调出的悲剧](https://mp.weixin.qq.com/s/3lOpZN7KCks0rUE5yMfbJA)
+
+三、学而思网校技术团队
+
+1. [redis基本原理及缓存应用实践](https://mp.weixin.qq.com/s/WptwD1HPmC0rymZYPyqEWg)
+
+四、CloudNativeCommunity
+
+1. [是否选择多集群 —— 使用服务网格的集群间通信](https://mp.weixin.qq.com/s/pZ2bMCnbt8TBCaoXfDs9QA)
+
+五、k8s技术圈
+
+1. [Prometheus Operator 使用 AlertmanagerConfig 进行报警配置](https://mp.weixin.qq.com/s/bGcYo67lCXIiSZCszZCAUA)
+
+六、多颗糖
+
+1. [【MIT 6.824】学习笔记 6: ZooKeeper 设计原理](https://mp.weixin.qq.com/s/Qk23ADoyCyHijgZi45Haug)
+
+七、polarisxu
+
+1. [GoLand 2021.1 重磅发布：新特性试用报告](https://mp.weixin.qq.com/s/Wt1ADroTJmWUL9bcpZ44pw)
+
+八、Go招聘
+
+1. [高薪不加班的远程工作了解一下？](https://mp.weixin.qq.com/s/eMt7vHflqzbOM27NmSxxVw)
+
 
 ## GOCN每日新闻--2021-04-09 
 
@@ -36,8 +74,49 @@ https://www.cnblogs.com/hacker-linner/p/14631031.html
 
 
 
+## gopherDaily--2021-04-09
+1.Go构建混淆工具 - https://github.com/burrowers/garble
+
+2.谷歌全球一致性授权系统的开源Go实现 - https://github.com/ory/keto
+
+3.什么是Fuzz Testing? - https://blog.fuzzbuzz.io/what-is-fuzz-testing/
+
+4.播客：定位开源：Prometheus的两位维护者朱利安·皮沃托和理查德·哈特曼访谈 - https://www.emilyomier.com/podcast/positioning-open-source-prometheus
+
+5.单人技术初创公司背后的架构 - https://anthonynsimon.com/blog/one-man-saas-architecture/
+
+6.在分布式系统中实现可靠的双写 - https://engineering.razorpay.com/achieving-reliable-dual-writes-in-distributed-systems-cb9ff3b9bfc1
+
+7.发布MinIO Kubernetes Operator和Operator Console - https://blog.min.io/minio-kubernetes-operator/
+
+8.如何使用k8s和glusterFS实现分布式系统 - https://betterprogramming.pub/how-to-implement-your-distributed-filesystem-with-glusterfs-and-kubernetes-83ee7f5f834f
+
+10.jennifer：go代码生成器 - https://github.com/dave/jennifer
+
+11.kubernetes 1.21发布 - https://kubernetes.io/blog/2021/04/08/kubernetes-1-21-release-announcement/
+
+12.IntelliJ Rust更新说明 - https://blog.jetbrains.com/rust/2021/04/08/intellij-rust-updates-for-2021-1/
+
+13.为什么长命令行选项用两个破折号开始？ - https://blog.djmnet.org/2019/08/02/why-do-long-options-start-with/
 
 
+## 码农桃花源--2021-04-09
+### 文章分享
+1. [工作线程的唤醒及创建](https://mp.weixin.qq.com/s?__biz=MzU1OTg5NDkzOA==&mid=2247483822&idx=1&sn=82e9328c3bb1d1153145261d932ab54b&scene=19#wechat_redirect)
+
+2. [读锁调度导致高延迟的 case 一例](https://mp.weixin.qq.com/s/MI2B9cnbuu-vqiz_JhD0CQ)
+
+3. [煎鱼的goroutine泄漏](https://mp.weixin.qq.com/s/ql01K1nOnEZpdbp--6EDYw)
+
+### 面试题
+1. Goroutine 泄露原因
+
+2. 如何定位gouroutine泄漏
+
+3. 之前问过的调度循环
+
+### 每日算法
+lc1307  口算难题
 
 
 
