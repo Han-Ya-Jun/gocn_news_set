@@ -6,8 +6,37 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-04-10 
 
+一、Go语言中文网
 
+1. [错过金三，别错过银四：看看这个Go招聘你符合吗？](https://mp.weixin.qq.com/s/MD6a3l6yWoKgiQ8Q1kztBA)
+
+2. [使用 Go 每分钟处理百万请求](https://mp.weixin.qq.com/s/-gKgduM8Cw_GGYyzrzSbXw)
+
+3. [有趣！一行 Go 代码居然无法获取请求的完整URL](https://mp.weixin.qq.com/s/7PnD--vHTQlDqNuINYMoSQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-09)——GoLand 2021.1 重磅发布](https://mp.weixin.qq.com/s/OMprvyghrgSnF2S19Mbu2A)
+
+三、吴亲强的深夜食堂
+
+1. [etcd 实战基础篇(一)](https://mp.weixin.qq.com/s/Z9flTpcP4I1sAqxwzV_7NQ)
+
+四、TonyBai
+
+1. [Go语言“十诫”[译]](https://mp.weixin.qq.com/s/YcmNN6DwQiI7b0Pj0Co-vg)
+## GOCN每日新闻--2021-04-10 
+1.Go 程序配置利器-viper 库 https://gocn.vip/topics/11898
+
+2.服务注册中心设计原理与 Golang 实现 https://mp.weixin.qq.com/s/WZ6HG-ZLFiBJLbE29vTr3g#at
+
+3.基于 Golang 的云原生日志采集服务设计与实践 https://mp.weixin.qq.com/s/3sCyWg-HwfZ4ymm8T9s4zg#at
+
+4.Go 进阶 40:2FA-Google-Authenticator 双因素认证后端实现 https://mojotv.cn/go/golang-2fa
+
+5.错误标志 https://npf.io/2021/04/errorflags/
 ## gopherDaily--2021-04-10 
 - 1.使用libbpfgo构建eBPF应用 - https://blog.aquasec.com/libbpf-ebpf-programs
 - 2.错误标记：替代“面向行为进行错误断言”的方案 - https://npf.io/2021/04/errorflags/
