@@ -6,6 +6,77 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-04-11 
+
+一、Go语言中文网
+
+1. [这个Go开源工具有点意思](https://mp.weixin.qq.com/s/s6NpA9AaziFTb3wqjsqd5A)
+
+2. [Go语言爱好者周刊：第 90 期](https://mp.weixin.qq.com/s/Qa60JCXfGGiCjc6b5CZmbQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-10)——Go语言“十诫”[译]](https://mp.weixin.qq.com/s/YnWiYoa3PrE6_tI5SX44Jg)
+
+三、薯条的自我修养
+
+1. [睡前故事|用Bitmap与AST做一个配置化时长系统](https://mp.weixin.qq.com/s/zWZILWkojj8PDJ8dfs5SWQ)
+
+四、k8s技术圈
+
+1. [OpenKruise Cloneset 使用](https://mp.weixin.qq.com/s/D448uNOnk62vVfdamLREpg)
+
+五、网管叨bi叨
+
+1. [Go语言内部包--控制包成员的对外暴露](https://mp.weixin.qq.com/s/XNiP6EpJGEJGVb55ZpI9oQ)
+
+六、鸟窝
+
+1. [rpcx支持websocket协议了!](https://colobu.com/2021/04/11/support-websocket-in-rpcx/)
+
+七、Go招聘
+
+1. [4/5-4/11股文请接收](https://mp.weixin.qq.com/s/0R-Y_I45xAAC9gu8D5QOwA)
+
+八、Golang Weekly
+
+1. [Golang Weekly Issue 357: April 9, 2021](https://golangweekly.com/issues/357)
+
+2. [Awesome Go Newsletter - Issue 255, Apr 08, 2021 | LibHunt](https://go.libhunt.com/newsletter/255)
+ 
+ 
+## GOCN每日新闻--2021-04-11 
+
+1.荣誉体验官，TiDB 5.0 在等你 https://gocn.vip/topics/11905
+
+2.GoLand 2021.1 重磅发布：新特性试用报告 https://studygolang.com/topics/13460
+
+3.使用 Go 每分钟处理百万请求 https://mp.weixin.qq.com/s/-gKgduM8Cw_GGYyzrzSbXw
+
+4.Go 语言 “十诫”[译] https://mp.weixin.qq.com/s/YcmNN6DwQiI7b0Pj0Co-vg
+
+5.rpcx 支持 websocket 协议了 https://colobu.com/2021/04/11/support-websocket-in-rpcx/
+
+
+
+
+## gopherDaily--2021-04-11 
+- 1.asynq: 为您的下一个Go项目提供简单、可靠、高效的分布式任务队列 - https://dev.to/koddr/asynq-simple-reliable-efficient-distributed-task-queue-for-your-next-go-project-4jhg
+- 2.Go播客：Go中测试的磨难 - https://changelog.com/gotime/174
+- 3.比较Helm和Kustomize  - https://harness.io/blog/devops/helm-vs-kustomize/
+- 4.我如何使用Go构建Iot系统的每一个部分 - https://dev.to/stanleynguyen/going-places-how-i-used-golang-for-literally-every-part-of-an-iot-system-19fm
+- 5.微服务注册中心产品ZooKeeper、Eureka、Consul、Nacos对比 - https://mp.weixin.qq.com/s/MNPy5TGarr2xdiljWsvbrA
+- 6.轻量级日志分析平台Loki实战 - https://mp.weixin.qq.com/s/DR6kDdor6rPjjSLSJOySNQ
+- 7.您的编程语言并不重要 - https://itnext.io/your-programming-language-does-not-matter-63a7ca4a6094
+- 8.一个开源的、支持定制的特性开关解决方案 - https://github.com/markphelps/flipt
+- 9.面向分布式基础设施的科学 - https://dl.acm.org/doi/abs/10.1145/3428662.3429744
+- 10.mongdb集群的k8s operator入门 - https://www.mongodb.com/blog/post/introducing-atlas-operator-kubernetes
+- 11.云数据湖 vs. 数据仓库 vs. 数据市场 - https://www.ibm.com/cloud/blog/cloud-data-lake-vs-data-warehouse-vs-data-mart
+- 12.Go Context: go语言中最有用的包之一 - https://levelup.gitconnected.com/context-in-golang-98908f042a57
+
+
+
 ## go中文网每日资讯--2021-04-10 
 
 一、Go语言中文网
