@@ -7,6 +7,94 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-04-12 
+
+一、Go语言中文网
+
+1. [极速精简 Go 版 Logstash](https://mp.weixin.qq.com/s/pYmp3ZVWhY_jbQc0mRDu-A)
+
+2. [Go 数据结构和算法篇（一）：链表](https://mp.weixin.qq.com/s/Cn39YN8R6jOJZS-istaTKA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-11)——rpcx支持websocket协议了!](https://mp.weixin.qq.com/s/JzM4lyxfRPutWL5_hHbzEA)
+
+三、CloudNativeCommunity
+
+1. [同程旅行大数据集群在 Kubernetes 上的服务化实践](https://mp.weixin.qq.com/s/iiWFqQ-_WTXJUzIGQ-qhdw)
+
+四、k8s技术圈
+
+1. [Dockerd资源泄露系列 - 内存&amp;FD泄露 - 1](https://mp.weixin.qq.com/s/nADu7VqNGjP00pSep3Do3A)
+
+五、MoeLove
+
+1. [K8S 生态周报| Kubernetes v1.21 发布, 带来新的内存管理器](https://mp.weixin.qq.com/s/zxGHQ8hDmzS4SCDXu8NkcA)
+
+六、微服务实践
+
+1. [更简的并发代码，更强的并发控制](https://mp.weixin.qq.com/s/jpZHqTKD5uukbMrSzzhtUw)
+
+七、GoOfficialBlog
+
+1. [高性能 Go 代码工坊（Part4)](https://mp.weixin.qq.com/s/HEE_9gq11fY8uwqFvrNFYw)
+
+八、分布式实验室
+
+1. [分布式系统在 Kubernetes 上的进化](https://mp.weixin.qq.com/s/10pKYUnw-xUsNl0OTejaMA)
+
+九、五分选手
+
+1. [深入 Go 并发原语 — Channel 底层实现](https://mp.weixin.qq.com/s/VyLyhtJCcLwpwhUpSCqJZA)
+
+十、polarisxu
+
+1. [Rust 劝退系列 02：第一个 Rust 程序](https://mp.weixin.qq.com/s/dUFJMEzOJGwM5YY8cP9MBQ)
+
+## GOCN每日新闻--2021-04-11 
+
+1.荣誉体验官，TiDB 5.0 在等你 https://gocn.vip/topics/11905
+
+2.GoLand 2021.1 重磅发布：新特性试用报告 https://studygolang.com/topics/13460
+
+3.使用 Go 每分钟处理百万请求 https://mp.weixin.qq.com/s/-gKgduM8Cw_GGYyzrzSbXw
+
+4.Go 语言 “十诫”[译] https://mp.weixin.qq.com/s/YcmNN6DwQiI7b0Pj0Co-vg
+
+5.rpcx 支持 websocket 协议了 https://colobu.com/2021/04/11/support-websocket-in-rpcx/
+
+## gopherDaily--2021-04-11
+0. 给expvarmon插上数据持久化的“翅膀”  - https://t.zsxq.com/ZJIuvF6
+1. 如何搭建Go Vim开发环境 - https://pmihaylov.com/vim-for-go-development/
+2. Go ANSI字符串解析器 - https://github.com/leaanthony/go-ansi-parser
+3. 使用Docker和Prometheus监控你的网速 - https://github.com/geerlingguy/internet-monitoring
+4. reproxy: Go实现的极简反向代理 - https://github.com/umputun/reproxy
+5. 经典旧文：minikube vs.kind vs. k3s，我究竟该用哪个？- https://brennerm.github.io/posts/minikube-vs-kind-vs-k3s.html
+6. dasel: 使用选择符(.)查询和修改数据结构中的字段，支持JSON, TOML, YAML, XML和CSV等 - https://github.com/TomWright/dasel
+7. MiSTer：一个开放的项目，旨在利用现代硬件重现各种经典计算机、游戏机和街机 - https://github.com/MiSTer-devel/Main_MiSTer/wiki
+8. 没人再关心操作系统了 - https://www.lastweekinaws.com/blog/nobody-cares-about-the-operating-system-anymore/
+9. 创建README的最简单方法 - https://readme.so/
+10. Docker起死回生了 - https://mp.weixin.qq.com/s/mB74MVYa9uxYgFb96kxl5w
+
+## gopherDaily--2021-04-12
+### 文章分享
+1. [go并发调度器解析之实现高性能协程库](https://zhuanlan.zhihu.com/p/37754274)
+
+2. [go语言gc部分源码解析](https://zhuanlan.zhihu.com/p/359582221)
+
+3. [2021年后端技术趋势](https://zhuanlan.zhihu.com/p/357532224)
+
+### 面试题
+1. 讲一下http协议，cookie的跨域
+
+2. 哈希冲突的解决方式
+
+3. 平时用过库函数sort吗，内部使用什么排序算法
+
+### 每日算法
+lc138 复制带随机指针的链表
+
 ## go中文网每日资讯--2021-04-11 
 
 一、Go语言中文网
