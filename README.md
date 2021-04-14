@@ -8,6 +8,101 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2021-04-13
+
+一、Go语言中文网
+
+1. [把 Go 当脚本语言用](https://mp.weixin.qq.com/s/7Svvbh1BRPkmlpZLpWP8FQ)
+
+2. [深度剖析 Go 的 nil](https://mp.weixin.qq.com/s/GP74nN6ptAwpvwq3BSZxaA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-12)—— Channel 底层实现](https://mp.weixin.qq.com/s/quk0wabAxZpza8F4ytgb6w)
+
+三、真没什么逻辑
+
+1. [CPU 和 GPU - 异构计算的演进与发展](https://mp.weixin.qq.com/s/xVJ_M_2aDxN90lCY9KpSFw)
+
+四、polarisxu
+
+1. [一道 Go 闭包题，面试官说原来自己答错了：面别人也涨知识](https://mp.weixin.qq.com/s/gfyW0pBIHsf2oYluQNbP8A)
+
+五、云原生技术爱好者社区
+
+1. [SRE最佳实践](https://mp.weixin.qq.com/s/OVToFabSR5kHwQjBEmDafQ)
+
+六、Go招聘
+
+1. [Go远程工作越来越多了，真羡慕](https://mp.weixin.qq.com/s/weIMgKlFinQvaqpHKXYi1g)
+
+七、李文周
+
+1. [Go语言中切片操作的那些技巧](https://mp.weixin.qq.com/s/362m-GsKqLmrh5kbHp4Maw)
+
+八、脑子进煎鱼了
+
+1. [详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？](https://mp.weixin.qq.com/s/YK-TD3bZGEgqC0j-8U6VkQ)
+
+九、分布式实验室
+
+1. [etcd分布式锁内存泄露](https://mp.weixin.qq.com/s/tAc-f5_b9MDBJJri7SqA6w)
+
+
+
+
+ 
+## GOCN每日新闻--2021-04-13
+1.Gopher China 2021 开启报名 https://gopherchina.org/
+
+2.MixGo v1.1 Go 快速开发标准工具 https://www.oschina.net/news/137106/mixgo-1-1-released
+
+3.深入 Go 并发原语 — Channel 底层实现 https://mp.weixin.qq.com/s/VyLyhtJCcLwpwhUpSCqJZA
+
+4.高性能 Go 代码工坊（Part4) https://mp.weixin.qq.com/s/HEE_9gq11fY8uwqFvrNFYw
+
+5.Go 语言内部包 -- 控制包成员的对外暴露 https://mp.weixin.qq.com/s/XNiP6EpJGEJGVb55ZpI9oQ
+
+## gopherDaily--2021-04-13
+1.深入 Go 并发原语 — Channel 底层实现 - https://github.com/halfrost/Halfrost-Field/blob/master/contents/Go/go_channel.md
+
+2.Go标准库flag包的“小陷阱” - https://mp.weixin.qq.com/s/5ZrZ35ycwtJE2if6rs9dEQ
+
+3.Go实现的可编译Go语法子集的玩具编译器 - https://benhoyt.com/writings/mugo/
+
+4.encore: 快速创建API和分布式系统的 Go 后端框架，使用静态分析和代码生成来减少您必须编写的样板 - https://github.com/encoredev/encore
+
+5.Go标准库sync.Cond详解 - https://dtyler.io/articles/2021/04/13/sync_cond/
+
+6.Go git代码托管工具gitea 1.14发布 - https://blog.gitea.io/2021/04/gitea-1.14.0-is-released/
+
+7.k3s上使用traefik实现ingress - https://itnext.io/ingress-with-treafik-on-k3s-53db6e751ed3
+
+8.从”战争游戏”到网络策略 - https://cilium.io/blog/2021/04/06/war-games-network-policy
+
+9.Go语言国际化的简便路径 - https://dev.to/koddr/an-easy-way-to-translate-your-golang-application-5ege
+
+10.weaviate: 云原生、模块化、实时矢量搜索引擎 - https://github.com/semi-technologies/weaviate
+
+11.aws开源opensearch，基于对elasticsearch和kibana的fork - https://aws.amazon.com/cn/blogs/opensource/introducing-opensearch/
+
+
+## 码农桃花源--2021-04-13
+### 文章分享
+1. [mysql分库分表及高可用集群经验——下](http://xiaorui.cc/archives/3923)
+
+2. [go内置数据结构原理] https://zhuanlan.zhihu.com/p/341945051
+
+3. [Git内部原理揭秘](https://mp.weixin.qq.com/s/UQKrAR3zsdTRz8nFiLk2uQ)
+### 面试题
+1. 三次握手详细过程？SYN攻击底层原理是什么？
+
+2. 四次挥手TIME_WAIT状态作用？为什么是2MSL？MSL和TTL什么关系？
+
+3. innoDB底层索引和行锁、表锁的关系
+### 每日算法
+最小跳跃次数 https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/
+
 ## go中文网每日资讯--2021-04-12 
 
 一、Go语言中文网
