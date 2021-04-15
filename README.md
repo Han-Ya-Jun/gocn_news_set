@@ -8,6 +8,86 @@
 # gocn_news_set_2021
 
 
+
+## go中文网每日资讯--2021-04-14
+
+一、Go语言中文网
+
+1. [又一个 Go 新书出版，送送送](https://mp.weixin.qq.com/s/QBFAwIwYMEJJMloW_yjsBw)
+
+2. [Go 数据结构和算法篇（二）：栈](https://mp.weixin.qq.com/s/Q2Ev1C4P825_9fvUOo2b3A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-13)——flag包的“小陷阱”](https://mp.weixin.qq.com/s/3ItWZFugW_AwZhRGAM0wRQ)
+
+三、polarisxu
+
+1. [大佬的思路很清晰：Go+的设计原来是怎么思考的](https://mp.weixin.qq.com/s/AuJv6wnMbo2iryXvopAFag)
+
+四、TechPaper
+
+1. [从代码自动生成文档](https://mp.weixin.qq.com/s/zM5wX4oPB3XKicZfKCCYhw)
+
+五、腾讯云原生
+
+1. [Dapr | 云原生的抽象与实现](https://mp.weixin.qq.com/s/4HHMVxa3l_gCsltoX4euyg)
+
+六、HHFCodeRv
+
+1. [看过这篇剖析，你还不懂 Go sync.Map 吗？](https://mp.weixin.qq.com/s/kblDTqKlUaTITIppigq9yA)
+
+七、TechPaper
+
+1. [从代码自动生成文档](https://mp.weixin.qq.com/s/zM5wX4oPB3XKicZfKCCYhw)
+
+八、Go招聘
+
+1. [没错，可以全职参与开源语言开发：国人开发的语言 Go+ 团队招人](https://mp.weixin.qq.com/s/9xlQsW5X57fBYLRkwOELxA)
+
+
+## gopherDaily--2021-04-14
+
+1.谷歌SRE工程团队如何使用Go - https://go.dev/solutions/google/sitereliability
+
+2.用Go解开Pprof标签的神秘面纱 - https://www.polarsignals.com/blog/posts/2021/04/13/demystifying-pprof-labels-with-go/
+
+3.在python中使用go共享库 - https://blog.kchung.co/faster-python-with-go-shared-objects/
+
+4.使用curl探索k8s - https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html
+
+5.使用bash手撸一份k8s cni插件 - https://www.altoros.com/blog/kubernetes-networking-writing-your-own-simple-cni-plug-in-with-bash/
+
+6.经典旧文：Go性能的那些事 - http://jmoiron.net/blog/go-performance-tales
+
+7.分分钟学习Go - https://learnxinyminutes.com/docs/go/
+
+8.inspr: 用于简单、快速和安全地开发分布式应用程序的应用网格(app mesh) - https://github.com/inspr/inspr
+
+9.类unix系统标准密码管理工具 - https://www.passwordstore.org/
+
+10.深入理解CORS：历史、工作原理和最佳实践 - https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/
+
+
+## 码农桃花源--2021-04-14
+### 文章分享
+1. [mysql分库分表及高可用集群经验——下](http://xiaorui.cc/archives/3923)
+
+2. [go内置数据结构原理](https://zhuanlan.zhihu.com/p/341945051)
+
+3. [Git内部原理揭秘](https://mp.weixin.qq.com/s/UQKrAR3zsdTRz8nFiLk2uQ)
+
+### 面试题
+1. 三次握手详细过程？SYN攻击底层原理是什么？
+
+2. 四次挥手TIME_WAIT状态作用？为什么是2MSL？MSL和TTL什么关系？
+
+3. innoDB底层索引和行锁、表锁的关系
+
+### 每日算法
+
+最小跳跃次数 https://leetcode-cn.com/problems/zui-xiao-tiao-yue-ci-shu/
+ 
 ## go中文网每日资讯--2021-04-13
 
 一、Go语言中文网
