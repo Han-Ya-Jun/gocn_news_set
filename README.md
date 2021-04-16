@@ -7,6 +7,116 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-04-15
+
+
+一、Go语言中文网
+
+1. [Goroutine 开启和退出到底做了什么？](https://mp.weixin.qq.com/s/_ngJ6QfZRK5sGTA-CfsORg)
+
+2. [Go 数据结构和算法篇（三）：队列](https://mp.weixin.qq.com/s/fI_cY7vnMsMTW6q32fuulQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-14)——Go+的设计原来是怎么思考的](https://mp.weixin.qq.com/s/JZfnnyPUQyhI0lMKMw8IpQ)
+
+三、奇伢云存储
+
+1. [推荐几个优秀的技术分享者，和他们在一起你也会优秀](https://mp.weixin.qq.com/s/jlYoDiFiMHgxgiR5XCcELw)
+
+四、k8s技术圈
+
+1. [Prometheus Operator 对接 Thanos](https://mp.weixin.qq.com/s/E614onyF2acjrke7vYUKMw)
+
+2. [阿里云SLS研发-可观察性方向 | 云原生招聘](https://mp.weixin.qq.com/s/nIbr7nd0uP8yZ0Fo381oVQ)
+
+五、脑子进煎鱼了
+
+1. [用 Go struct 不能犯的一个低级错误！](https://mp.weixin.qq.com/s/K5B2ItkzOb4eCFLxZI5Wvw)
+
+六、TechPaper
+
+1. [大型生产系统的问题定位](https://mp.weixin.qq.com/s/QtHEUzSdRBZpB0Yw3FtTiw)
+
+
+## GOCN每日新闻--2021-04-15
+1.Go 性能传说 http://jmoiron.net/blog/go-performance-tales
+
+2.通过 Go 揭开 pprof 神秘面纱 https://www.polarsignals.com/blog/posts/2021/04/13/demystifying-pprof-labels-with-go/
+
+3.通过 Go 共享对象加速 Python 程序 https://blog.kchung.co/faster-python-with-go-shared-objects/
+
+4.gotuna: 渐进式 Web 开发框架 https://github.com/gotuna/gotuna
+
+5.mugo: Go 子集玩具编译器并实现自我编译 https://benhoyt.com/writings/mugo/
+
+### 文章分享
+1. [活文档](https://mp.weixin.qq.com/s/Tkc_eisDB3SFwWLaWktB2Q)
+
+2. [go scheduler 主动调度](https://mp.weixin.qq.com/s/zA7KY_25NGjip9pP38RIvg)
+
+3. [go scheduler 抢占调度](https://mp.weixin.qq.com/s/i8DQ0HrO5Bt-qE5cX7c1ng)
+
+4. [系统调用执行时间过长的goroutine](https://mp.weixin.qq.com/s/If0-35Pt8dN7G1gD4L9-hw)
+
+
+### 面试题
+至此一个go scheduler 系列学习完成，你是否有跟我一起学习呢，今天明天我们总结复习一下所有跟scheduler有关的问题，下周开始新篇章
+
+• 为什么需要 P 这个组件，直接把 runqueues 放到 M 不行吗？
+
+• gpm到底是什么
+
+• scheduler是如何调度的
+
+• 什么时候会触发调度
+
+• 当在M上运行的goroutine发生阻塞时，会怎么工作
+
+• 为什么每个P都会对应一个g0，m0 (g0是用于调度每个线程中的goroutine，包括gc等等，拥有比较大的栈内存)
+
+• 什么时候会抢占P
+
+• 调度的本质
+
+• 多个线程与多个M如何一一对应？
+
+• 为什么要把工作线程与m对应
+
+• 为什么在创建goroutine的newproc函数要传入参数大小
+
+• 什么时候调用的main函数？
+
+• g0到main goroutine的转换过程
+
+• 非main goroutine是如何返回到goexit函数的；
+
+• mcall函数如何从用户goroutine切换到g0继续执行
+
+• 调度循环
+
+• 使用什么策略来挑选下一个进入运行的goroutine
+
+• 如何把挑选出来的goroutine放到CPU上运行
+
+• schdule的三种调度方式
+### 每日算法
+lc710  黑名单中的随机数
+
+## gopherDaily--2021-04-15
+- 1.给expvarmon插上数据持久化的“翅膀” - https://tonybai.com/2021/04/14/expvarmon-save-and-convert-to-xlsx
+- 2.Dapr | 云原生的抽象与实现 - https://mp.weixin.qq.com/s/4HHMVxa3l_gCsltoX4euyg
+- 3.Go panic惯用法 - https://stonecode.ca/idiomatic-panics/
+- 4.Go实现Couchbase原子计数器 - https://towardsdev.com/atomic-couchbase-counters-golang-817df91c41dc
+- 5.为什么Go可执行文件仍在变得越来越大(2021版) - https://dr-knz.net/go-executable-size-visualization-with-d3-2021.html
+- 6.经典演讲：设计原型 - by Robert Griesemer - https://www.youtube.com/watch?v=vLxX3yZmw5Q
+- 7.docker cli增加compose子命令 - https://docs.docker.com/compose/cli-command/
+- 8.使用ebpf扩展systemd安全特性 - https://kinvolk.io/blog/2021/04/extending-systemd-security-features-with-ebpf/
+- 9.pingme: 可向多个消息平台和电子邮件发送消息或警报的cli工具 - https://github.com/kha7iq/pingme
+- 10.为azure k8s定制core dump策略 - https://blog.nillsf.com/index.php/2020/12/06/customize-core-dump-in-azure-kubernetes/
+
+
+
 
 
 ## go中文网每日资讯--2021-04-14
