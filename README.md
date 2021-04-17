@@ -7,6 +7,82 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-04-16
+
+一、Go语言中文网
+
+1. [大佬的思路很清晰：Go+的设计原来是怎么思考的](https://mp.weixin.qq.com/s/at8L7bM64OmMK9qSAROqsQ)
+
+2. [gopher们都想有个好未来？那就来这吧](https://mp.weixin.qq.com/s/H3uksQ0i4cKfYA24bcIHsw)
+
+3. [Go 数据结构和算法篇（四）：冒泡排序](https://mp.weixin.qq.com/s/NPlesVsgptB7acPfli5vcg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-15)——大型生产系统的问题定位](https://mp.weixin.qq.com/s/2M5QWcffuK3PMPzsCPB47Q)
+
+三、k8s技术圈
+
+1. [Grafana 图表加速神器 - Trickster](https://mp.weixin.qq.com/s/TamLSfT4dVReqBt2_2YTvA)
+
+四、polarisxu
+
+1. [注释竟然还有特殊用途？一文解惑 //go:linkname 指令](https://mp.weixin.qq.com/s/4OlbpQwchWwxnQmSOL6xYA)
+
+五、奇伢云存储
+
+1. [读者问答：Go 编程怎么也有踩内存？](https://mp.weixin.qq.com/s/BJJ9jDUT7oB-B0o_dNmNvQ)
+
+六、Go招聘
+
+1. [当下最流行的全职开源，你不心动吗？](https://mp.weixin.qq.com/s/Tuf4tPRrCJ48Ml5Y6uCXBg)
+
+
+## gopherDaily--2021-04-16
+
+1.如何使用ArgoCD根据GitOps原则管理OpenFaaS功能 - https://www.openfaas.com/blog/bring-gitops-to-your-openfaas-functions-with-argocd/
+
+2.k8s集群上分布式应用的leader选举 - https://carlosbecker.dev/posts/k8s-leader-election
+
+3.分布式、自托管的云游戏服务平台 - https://github.com/giongto35/cloud-morph
+
+4.Go URL解码 - https://gosamples.dev/url-decode/
+
+5.播客：Gophercon提案的终极指南 - https://changelog.com/gotime/175
+
+6.k8s存储插件rook发布1.6版本 - https://blog.rook.io/rook-v1-6-storage-enhancements-2d5144c21b6a
+
+7.支持苹果M1的docker desktop发布 - https://www.docker.com/press-release/Docker-Desktop-for-M1-powered-Macs
+
+8.开源电子书: 用Go构建现代商业软件 - https://threedots.tech/go-with-the-domain/
+
+9.工程师的职业阶梯 - https://career-ladders.dev/engineering
+
+10.Go与jwt的安全集成 - https://dev.to/abrichak/jwt-and-go-how-to-integrate-them-with-security-requirements-eh5
+
+11.使用Go编写Kubernetes Admission Controller - https://dev.to/fdns/writing-a-kubernetes-admission-controller-4eko
+
+12.linux kernel对rust的支持情况 - https://security.googleblog.com/2021/04/rust-in-linux-kernel.html
+
+
+## 码农桃花源--2021-04-1６
+### 文章分享
+1. [go struct](https://mp.weixin.qq.com/s/K5B2ItkzOb4eCFLxZI5Wvw)
+
+2. [作为曹大粉丝，饶大能做到什么地步](https://mp.weixin.qq.com/s/g5AZxFOS9kwnAPmb3e3OUQ)
+
+3. [go scheduler 超级总结](https://www.yuque.com/wuguoguoya/iq0d3v/wurlky)
+###　面试题
+1. Go中对nil的Slice和空Slice的处理是一致的吗
+
+2. Go语言的栈空间管理是怎么样的
+
+3. 怎么限制Goroutine的数量
+### 每日算法
+lc710  不含连续1的非负整数
+
+
 ## go中文网每日资讯--2021-04-15
 
 
