@@ -7,6 +7,57 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-04-17 
+
+一、Go语言中文网
+
+1. [用 Golang 实现 RSA 加密和签名（有示例）](https://mp.weixin.qq.com/s/w976zzchogZy8xkWGN--Ww)
+
+2. [Go语言中切片操作的那些技巧](https://mp.weixin.qq.com/s/ElZUEgi-tiU63D4AFw9XMg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-16)——go scheduler 超级总结](https://mp.weixin.qq.com/s/xLDF4MY54qglO1SksMxAfw)
+
+三、图解源码
+
+1. [以应用为中心的云原生2.0白皮书学习笔记](https://mp.weixin.qq.com/s/9qUedU_6oDXpzAgWR07sMw)
+
+四、网管叨bi叨
+
+1. [Golang atomic.Value 的前世今生](https://mp.weixin.qq.com/s/UrLCyT7GTNJLi37sJU2PTg)
+
+五、腾讯云原生
+
+1. [如何使用 OpenTracing 在 TCM 中实现异步消息调用跟踪](https://mp.weixin.qq.com/s/_541vL4nHIXPx_ZKrx362g)
+## GOCN每日新闻--2021-04-17
+
+1.Golang 实现的 iOS 设备通信工具 https://github.com/electricbubble/gidevice
+
+2.在 Go 共享对象下的 python 更快 https://blog.kchung.co/faster-python-with-go-shared-objects/
+
+3.什么是 “同步条件” https://dtyler.io/articles/2021/04/13/sync_cond/
+
+4.Encore 用于构建分布式系统的 Go 框架 https://github.com/encoredev/encore
+
+5.Go 中的 URL 解码 https://gosamples.dev/url-decode/
+
+## gopherDaily--2021-04-17 
+- 1.使用go和netrasp管理网络设备 - https://networklore.com/hello-netrasp/
+- 2.email-verifier: 可上生产环境的邮箱地址校验器 - https://github.com/AfterShip/email-verifier
+- 3.分布式应用运行时Dapr是如何在阿里落地的 - https://mp.weixin.qq.com/s/Dsb7rwu5tRAizJ7Wdr23Fw
+- 4.go播客：聊聊Go应用的发布  - https://changelog.com/gotime/173
+- 5.Go应用程序漏洞分析 - https://developers.redhat.com/blog/2021/04/15/vulnerability-analysis-for-golang-applications-with-red-hat-codeready-dependency-analytics/
+- 6.解读如何仅用1台服务器支持百万DAU - https://mp.weixin.qq.com/s/wv19bUZW4U6wjw5DmCg3Yg
+- 7.网络信息收集工具 - https://github.com/edoardottt/scilla
+- 8.使用Terraform部署k8s系列 - https://blog.kasten.io/concepts-behind-terraform-and-kubernetes
+- 9.wasi: 让webassembly走出浏览器 - https://training.linuxfoundation.org/announcements/wasi-bringing-webassembly-way-beyond-browsers
+- 10.在生产环境部署机器学习模型 - https://www.kdnuggets.com/2019/06/approaches-deploying-machine-learning-production.html
+- 11.ftp 50岁了！ - https://www.filestash.app/2021/04/16/ftp-is-50-years-old/
+- 12.为什么linkerd没有使用envoy - https://www.cncf.io/blog/2020/12/11/why-linkerd-doesnt-use-envoy/
+- 13.linus对rust编写内核代码的回复 - https://lkml.org/lkml/2021/4/14/1099
+- 14.使用react和tailwind css实现的ubuntu桌面 - https://vivek9patel.github.io/
+
 
 ## go中文网每日资讯--2021-04-16
 
