@@ -7,6 +7,76 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-04-18 
+
+一、Go语言中文网
+
+1. [GoLand 2021.1 重磅发布：新特性不少，有些不错](https://mp.weixin.qq.com/s/0NjNNLAdZZjx8GPZXR1MjQ)
+
+2. [Go语言爱好者周刊：第 91 期 — Error 和 String 的题目](https://mp.weixin.qq.com/s/tJXF0JD6Dwm66Kl7xUCrRg)
+
+3. [Go 数据结构和算法篇（五）：插入排序](https://mp.weixin.qq.com/s/UV1oelB_h5zx20KCWD-Feg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-17)——切片操作的那些技巧](https://mp.weixin.qq.com/s/ZwlP-wLcStj1NBdAm16LGQ)
+
+三、k8s技术圈
+
+1. [多行日志收集管理搞不定？](https://mp.weixin.qq.com/s/yY6I2vhIn_jziuY4W4GBng)
+
+2. [精选中的精选 Github 项目](https://mp.weixin.qq.com/s/IdmBJCEQ6vm3Gqij2FhNeg)
+
+四、董泽润的技术笔记
+
+1. [时钟源为什么会影响性能](https://mp.weixin.qq.com/s/06SDQLzDprJf2AEaDnX-QQ)
+
+五、GoOfficialBlog
+
+1. [高性能 Go 代码工坊（Part5)](https://mp.weixin.qq.com/s/vn9KPDi2GWC1MzVSIw8xQg)
+
+六、吴亲强的深夜食堂
+
+1. [etcd 实战基础篇(二)](https://mp.weixin.qq.com/s/VCIPmAD5YSWz0DAuFqfwyg)
+
+七、Go招聘
+
+1. [4/12-4/18股文请接收](https://mp.weixin.qq.com/s/NY7wIkLOQiSceGG2m3Lf6w)
+
+八、Golang Weekly
+
+1. [Golang Weekly Issue 358: April 16, 2021](https://golangweekly.com/issues/358)
+
+2. [Awesome Go Newsletter - Issue 256, Apr 15, 2021 | LibHunt](https://go.libhunt.com/newsletter/256)
+## GOCN每日新闻--2021-04-18
+
+1.Go 测试的考验与困难 https://changelog.com/gotime/174
+
+2.教你自定义 Go 代码静态分析工具 https://developer20.com/custom-go-linter/
+
+3.Go 简洁架构示例 https://github.com/bxcodec/go-clean-arch
+
+4.支持多种协议的转发代理工具 glider https://github.com/nadoo/glider
+
+5.Go 设计模式之策略模式 https://triumph-job.medium.com/strategy-design-pattern-in-golang-722e1b145c5f
+
+
+
+## gopherDaily--2021-04-18 
+- 1.开发开源数据库的7年经验教训 - https://www.philipotoole.com/7-years-of-open-source-database-development-lessons-learned/
+- 2.Russ Cox指明“Go二进制文件变得越来越大”文章中信息有误 - https://news.ycombinator.com/item?id=26834128
+- 3.gitleaks: 扫描git仓库（或文件）中的敏感信息  - https://github.com/zricethezav/gitleaks
+- 4.Go中实现RSA加密和签名 - https://www.sohamkamani.com/golang/rsa-encryption/
+- 5.Go基于寄存器的ABI规范的改造基本完工，平均性能提升6% - https://github.com/golang/go/issues/40724#issuecomment-821758073
+- 6.Rancher, Red Hat OpenShift和 Weave Kubernetes 比较 - https://www.weave.works/a-comparison-of-rancher-red-hat-openshift-and-wkp/
+- 7.Go系统字体操作包 - https://github.com/go-swiss/fonts
+- 8.使用go实现一个反向代理 - https://developer20.com/writing-proxy-in-go/
+- 9.处于边缘的容器：它不是你想的那样 - https://blog.cloudflare.com/containers-on-the-edge/
+- 10.git和gitflow实践指南 - https://www.freecodecamp.org/news/practical-git-and-git-workflows/
+- 11.为何我们使用kanban而不是scrum - https://www.cloudzero.com/blog/why-cloudzero-uses-kanban
+- 12.为什么我们使用时序数据库提升安全监控能力 - https://thenewstack.io/why-using-a-time-series-database-improves-security-monitoring/
+
+
 ## go中文网每日资讯--2021-04-17 
 
 一、Go语言中文网
