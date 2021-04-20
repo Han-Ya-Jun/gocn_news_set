@@ -7,6 +7,113 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-04-19
+
+一、Go语言中文网
+
+1. [转 Go 的 PHPer 总是忘不了 PHP 的好？试试这个开源项目](https://mp.weixin.qq.com/s/o5wHJg8SlylaGJ_YPWu0hg)
+
+2. [Go 数据结构和算法篇（六）：选择排序](https://mp.weixin.qq.com/s/Paqrb2ywjyciwEzfo1VefQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-18)——高性能 Go 代码工坊（Part5)](https://mp.weixin.qq.com/s/xd0lCPnSvvN9wMOM8K577g)
+
+三、polarisxu
+
+1. [Rust 劝退系列 03：变量](https://mp.weixin.qq.com/s/VheT027N71946GyoT3BxTw)
+
+四、图解源码
+
+1. [统一运维平台的思考](https://mp.weixin.qq.com/s/mLnqR2kwGNiFLL39g-Ml8Q)
+
+五、微服务实践
+
+1. [一文带你更方便的控制 goroutine](https://mp.weixin.qq.com/s/FBo2Ghpb5rBETJP0tFVaXg)
+
+六、码农桃花源
+
+1. [深度阅读之《Mastering Go》](https://mp.weixin.qq.com/s/3JnJskE_bK6AeUSeQThhfg)
+
+七、脑子进煎鱼了
+
+1. [嗯，你觉得 Go 在什么时候会抢占 P？](https://mp.weixin.qq.com/s/WAPogwLJ2BZvrquoKTQXzg)
+
+八、k8s技术圈
+
+1. [揭秘高性能Linux服务器内存池技术是如何实现的](https://mp.weixin.qq.com/s/AkABAitHI_BBlH4AP_2fIQ)
+
+九、远赴星辰
+
+1. [虚拟内存精粹](https://mp.weixin.qq.com/s/Ghu-0Qc9PyEHHmIaRVtMyA)
+
+十、luozhiyun很酷
+
+1. [从栈上理解 Go 语言函数调用](https://mp.weixin.qq.com/s/-xn2i2depcN4uWT3wV63Pw)
+
+十一、Go招聘
+
+1. [我靠！Gopher推荐成功居然给0.5个BTC](https://mp.weixin.qq.com/s/iQpVTT378kHDX9xgIxT7rA)
+
+
+
+## GOCN每日新闻--2021-04-19
+1.hash 表在 go 语言中的实现 https://gocn.vip/topics/11937
+
+2.Go 语言内部包 -- 控制包成员的对外暴露 https://mp.weixin.qq.com/s/XNiP6EpJGEJGVb55ZpI9oQ
+
+3.gRPC 的平滑关闭和在 Kubernetes 上的服务摘流方案总结 https://mp.weixin.qq.com/s/lCTyZgSK3b-rJtV9l6PNYA
+
+4.Golang 语言中基础同步原语 Mutex 和 RWMutex 的区别 https://mp.weixin.qq.com/s/nU-WFszIP1Sk1rC4q5cI1A
+
+5.Go 语言中切片操作的那些技巧 https://mp.weixin.qq.com/s/ElZUEgi-tiU63D4AFw9XMg
+
+
+
+## gopherDaily--2021-04-19
+
+1.油管视频：一小时学习Go - https://www.youtube.com/watch?v=N0fIANJkwic
+
+2.谈谈go与gRPC的组合 - https://levelup.gitconnected.com/an-up-to-date-review-of-grpc-with-golang-b8cc78b584f7
+
+3.开发人员是如何在编码过程中进行命名的 - https://arxiv.org/pdf/2103.07487.pdf
+
+4.播客：开源但不开放贡献 - https://changelog.com/podcast/433
+
+5.Go: 快速构建应用的完美方案 - https://sagarjiyani3010.medium.com/googles-golang-the-perfect-solution-to-super-fast-building-5ed4de6caa95
+
+6.经典旧文：uber的go编程规范 - https://github.com/uber-go/guide/blob/master/style.md
+
+7.使用Go Ebiten库实现的Windows画图程序 - https://shores.dev/paint-game-in-golang/
+
+8.有用的go模板函数 - https://github.com/Masterminds/sprig
+
+9.如何赢得任何机器学习比赛 - https://medium.com/machine-learning-insights/how-to-win-any-ml-contest-244a12c62f30
+
+10.企业PaaS在企业架构中的角色 - https://thenewstack.io/the-role-of-eipaas-in-enterprise-architecture-part-1/
+
+11.微软rust入门教程 - https://docs.microsoft.com/zh-cn/learn/paths/rust-first-steps/
+
+
+## 码农桃花源--2021-04-19
+### 文章分享
+1. [设计模式在外卖营销业务中的实践](https://tech.meituan.com/2020/03/19/design-pattern-practice-in-marketing.html)
+
+2. [Go语言GC20问](https://mp.weixin.qq.com/s/o2oMMh0PF5ZSoYD0XOBY2Q)
+
+3. [Go协作与抢占](https://mp.weixin.qq.com/s/nib0OD-LvNG57JAs4vB9RA)
+
+### 面试题
+1. 空 struct{} 的用途
+
+2. 什么是协程泄露(Goroutine Leak)？
+
+3. 无缓冲的 channel 和有缓冲的 channel 的区别？
+
+### 每日算法
+lc1792 最大平均通过率 https://leetcode-cn.com/problems/maximum-average-pass-ratio/
+
+
 ## go中文网每日资讯--2021-04-18 
 
 一、Go语言中文网
