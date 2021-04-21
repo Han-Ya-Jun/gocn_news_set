@@ -7,6 +7,107 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-04-20 
+
+
+一、Go语言中文网
+
+1. [Go 中使用别名，简单且高效](https://mp.weixin.qq.com/s/xiSD2cmDC50qncqNL-7fEQ)
+
+2. [Go 数据结构和算法篇（七）：归并排序](https://mp.weixin.qq.com/s/kTLhl3hvbs-R_RR3VX0Xhw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-19)——深度阅读之《Mastering Go》](https://mp.weixin.qq.com/s/FTDS8eX_vUHrl67ZBHSsIQ)
+
+三、Go招聘
+
+1. [广告公司真香，不加班美女还多，文末有彩蛋哦](https://mp.weixin.qq.com/s/QXt72JsZgxl19AyvdHeKcg)
+
+四、薯条的自我修养
+
+1. [Go程序员进化史](https://mp.weixin.qq.com/s/FsTmsNBN7nM3vl5w6R1vJA)
+
+五、CloudNativeCommunity
+
+1. [云原生社区 meetup 第三期杭州站回顾及幻灯片下载](https://mp.weixin.qq.com/s/Ad3TMXmUV9ka7cA-M7zJnA)
+
+六、k8s技术圈
+
+1. [99.99%面试中被问的Go语言并发模式，你会如何回答 | 文末送书](https://mp.weixin.qq.com/s/q5AmA6JANvaTYuQ8Hx-kPQ)
+
+2. [开源持续性能剖析平台 Pyroscope](https://mp.weixin.qq.com/s/g5obUptQQwsBcJLLC7e4mg)
+
+七、云加社区
+
+1. [Redis 进阶笔记](https://mp.weixin.qq.com/s/o66KCbJUj4RsgXFjXzLzoQ)
+
+八、polarisxu
+
+1. [我又来推荐免费 Go 新书了：一本用 Go 讲架构的书](https://mp.weixin.qq.com/s/UqTvfvwhIHARnClCJftjMg)
+
+
+
+## GOCN每日新闻--2021-04-20
+
+1.TiDB 深度解读 Chaos Mesh https://gocn.vip/topics/11945
+
+2.Go 语言控制 CPU 占用率呈正弦曲线 https://juejin.cn/post/6953034008351473678
+
+3.如何在 Go 中优雅使用 packages https://jonathanseow.medium.com/working-with-packages-in-golang-5f247f49090f
+
+4.理解 NSQ consumer https://eriyantovetanusi.medium.com/nsq-consumer-101-b815267b5fec
+
+5.Triangula: 基于遗传算法的低多边形效果工具 https://github.com/RH12503/Triangula
+
+
+
+
+
+## gopherDaily--2021-04-20
+1.使用reflect包在反射世界里读写各类型变量 - https://mp.weixin.qq.com/s/KgUZGVF08yEO2oARryOLcg
+
+2.使用go embed在go中嵌入函数式编程引擎 - https://programmingfunl.wordpress.com/2021/04/19/using-funl-as-functional-core-embedded-in-go/
+
+3.go embed简明教程 - https://colobu.com/2021/01/17/go-embed-tutorial/
+
+4.尾部延迟可能比您想象的更重要 - https://brooker.co.za/blog/2021/04/19/latency.html
+
+5.分布式sql速查表，兼容PostgreSQL - https://blog.yugabyte.com/a-postgresql-compatible-distributed-sql-cheat-sheet-the-basics
+
+6.软件基础架构 2.0： 心愿单 - https://erikbern.com/2021/04/19/software-infrastructure-2.0-a-wishlist.html
+
+7.炫酷的比特币3D图形化查看工具 - https://symphony.iohk.io/en/
+
+8.高性能易用的网络扫描工具 - https://github.com/v-byte-cpu/sx
+
+9.制作可配置的Go应用 - https://www.hildeberto.com/2021/04/configurable-go-app.html
+
+10.谈谈 Kubernetes 的问题和局限性 - https://mp.weixin.qq.com/s/ULfmxZh2PBYK-298Xskf2Q
+
+11.开源产品登陆火星 - https://github.blog/2021-04-19-open-source-goes-to-mars/
+
+
+## 码农桃花源--2021-04-20
+### 文章分享
+1. [内存的读写指令重排] https://cch123.github.io/ooo/
+
+2. [Go语言内存分配] https://mp.weixin.qq.com/s/Hm8egXrdFr5c4-v--VFOtg
+
+3. [HugePages为什么能提高数据库性能] https://draveness.me/whys-the-design-linux-hugepages
+### 面试题
+1. 有了 GC，为什么还会发生内存泄露？
+
+2. Go 语言中对 GC 的触发时机
+
+3. 伪共享(false sharing)问题
+
+### 每日算法
+粉刷房子 https://leetcode-cn.com/problems/paint-house-iii/
+
+
+
 ## go中文网每日资讯--2021-04-19
 
 一、Go语言中文网
