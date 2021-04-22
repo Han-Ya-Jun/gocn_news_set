@@ -7,6 +7,92 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-04-21 
+
+一、Go语言中文网
+
+1. [代码会死循环吗？Go 异步抢占](https://mp.weixin.qq.com/s/NIYxzycAqHzeVSgU7ixhNg)
+
+2. [Go 数据结构和算法篇（八）：快速排序](https://mp.weixin.qq.com/s/XpwVsmG-Fd85T9qE1gFsEw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-20)——Go程序员进化史](https://mp.weixin.qq.com/s/nKv0TEs7U68XWFaraVgpnA)
+
+三、新亮笔记
+
+1. [Go - 一个对新手很友好的项目(带界面)](https://mp.weixin.qq.com/s/UKBFgNcseLO6b-8eFsGHXg)
+
+四、脑子进煎鱼了
+
+1. [生产环境遇到一个 Go 问题，整组人都懵逼了...](https://mp.weixin.qq.com/s/F9II4xc4yimOCSTeKBDWqw)
+
+五、k8s技术圈
+
+1. [Logging Operator - 优雅的云原生日志管理方案 (一)](https://mp.weixin.qq.com/s/01t87UphWxB7XJT8Go4Vgg)
+
+2. [Logging Operator - 优雅的云原生日志管理方案 (二)](https://mp.weixin.qq.com/s/4mcie165w-es7b8YWQVXcQ)
+
+六、奇伢云存储
+
+1. [存储基础 —— 磁盘 IO 为什么总叫你对齐？](https://mp.weixin.qq.com/s/rqq-GgZMMs5gj6p_VJqEVA)
+ 
+
+## GOCN每日新闻--2021-04-21 
+
+1.如何在 Go 中构建可配置的责任链 https://betterprogramming.pub/build-a-configurable-chain-of-responsibility-in-go-80a7cdcd1ab2
+
+2.i/o timeout ， 希望你不要踩到这个 net/http 包的坑 https://mp.weixin.qq.com/s/UBiZp2Bfs7z1_mJ-JnOT1Q
+
+3.嗯，你觉得 Go 在什么时候会抢占 P？ https://mp.weixin.qq.com/s/WAPogwLJ2BZvrquoKTQXzg
+
+4.9 款最佳开源网络监控工具 https://www.metricfire.com/blog/9-best-open-source-network-monitoring-tools
+
+5.简单的边缘代理服务器 https://github.com/umputun/reproxy
+
+
+## gopherDaily--2021-04-21
+
+1.编写好的单元测试：不要mock数据库连接 - https://qvault.io/clean-code/writing-good-unit-tests-dont-mock-database-connections/
+
+2.纯Go实现的浏览器和浏览器引擎 - https://github.com/danfragoso/thdwb
+
+3.Goldmark markdown解析器的pdf渲染工具 - https://github.com/stephenafamo/goldmark-pdf
+
+4.应用授权构建教程 - https://www.osohq.com/developers/authorization-academy
+
+5.学习Go之前你应该知道的10件事 - https://bitfieldconsulting.com/golang/how
+
+6.基于kratos微服务框架的电商应用demo - https://github.com/go-kratos/beer-shop
+
+7.Rob Pike提议Go增加简化创建简单类型的指针的语法 - https://github.com/golang/go/issues/45624
+
+8.飞书非官方Go SDK - https://github.com/go-lark/lark
+
+9.vcluster：在k8s集群中创建虚拟k8s集群 - https://github.com/loft-sh/vcluster
+
+10.grafana将开源许可证改为AGPLv3 - https://grafana.com/blog/2021/04/20/grafana-loki-tempo-relicensing-to-agplv3/
+
+11.NASA下一代月球车将运行大量开源软件 - https://www.technologyreview.com/2021/04/12/1022420/nasa-lunar-rover-viper-open-source-software/
+
+
+## 码农桃花源--2021-04-21
+### 文章分享
+1. [tcp连接处于异常状态的一点总结](http://hopehook.com/blog/time_wait_close_wait)
+
+2. [linux内核是如何巧妙的初始化各个模块的](https://mp.weixin.qq.com/s/qdBsv3vK-Suczt7gEmI6Dw)
+
+3. [为了变得更快，CPU，内存，IO做了哪些努力](https://mp.weixin.qq.com/s/P-mPAWxScFAThoNF3M2y3A)
+
+### 面试题
+1. cp和mv的区别，硬链接和软链接的区别
+
+2. 页高速缓存的作用？怎样保证缓存一致性
+
+3. zerocopy的实现机制
+
+### 每日算法
+lc815 公交路线 https://leetcode-cn.com/problems/bus-routes/
 
 ## go中文网每日资讯--2021-04-20 
 
