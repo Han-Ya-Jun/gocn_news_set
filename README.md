@@ -7,6 +7,100 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-04-22
+
+一、Go语言中文网
+
+1. [图文讲解：Go 中的循环是如何转为汇编的？](https://mp.weixin.qq.com/s/GRkXojUmoC4HuuR8wJ1Cjw)
+
+2. [Go 数据结构和算法篇（九）：二分查找](https://mp.weixin.qq.com/s/Q8HhYaCURrnBAvN6-Rmyug)
+
+二、亚军进化史
+
+1. [GO技术日报(2021-04-21)——Go 异步抢占](https://mp.weixin.qq.com/s/gM5gU7GoJKcASRDCVcmKHw)
+
+三、polarisxu
+
+1. [用 Go 搭建一个自己的照片管理神器](https://mp.weixin.qq.com/s/7rFJKE14cTIIIKI9ahQ38g)
+
+四、腾讯云CDN
+
+1. [大咖聊QUIC——快手CDN架构师沈坤](https://mp.weixin.qq.com/s/YofN_SM-fAL9EgEc9zHQ5Q)
+
+五、k8s技术圈
+
+1. [Fluentd 简明教程](https://mp.weixin.qq.com/s/C9Nq1qI41rqsnfcCbArF1g)
+
+2. [腾讯 PCG 中台容器开发 | 云原生招聘](https://mp.weixin.qq.com/s/qNsrBISMtGSqf3lHAsCbRQ)
+
+六、Go招聘
+
+1. [不加班还不够香？那见明星呢](https://mp.weixin.qq.com/s/UZ8XdmWK43TWFD1pnzSqww)
+
+七、GolangCoutributorClub
+
+1. [Go 语言源码贡献官方指导文档](https://mp.weixin.qq.com/s/dJ0t4owm3ChIljP4hL1e1Q)
+
+## GOCN每日新闻--2021-04-22 
+
+1.在 Go 中搜索和替换字符串的 5 个示例 https://dev.to/qvault/search-and-replace-strings-in-golang-top-5-examples-968
+
+2.Go 项目架构检查 https://github.com/fdaines/arch-go
+
+3.如何使用 Go 正确处理并发性和并行性 https://medium.com/analytics-vidhya/how-to-properly-handle-concurrency-and-parallelism-with-golang-89dd054b739f
+
+4.Python 运行 Go 代码 https://rene-manqueros.medium.com/running-go-code-from-python-a65b3ae34a2d
+
+5.Go 中使用位掩码 https://www.ardanlabs.com/blog/2021/04/using-bitmasks-in-go.html
+
+
+
+
+## gopherDaily--2021-04-22
+1.Go标准库http与fasthttp服务端性能比较 - https://t.zsxq.com/Rv7Y7Mj
+
+2.使用webrtc实现的命令行语音通讯 - https://github.com/smf8/kenny
+
+3.Go 1.17泛型语法样例集 - https://github.com/mattn/go-generics-example
+
+4.Go并发API模式 - https://marksalpeter.com/concurrent-api-patterns-in-go-52fcb5a9c681
+
+5.kubernetes node网络管理器 - https://github.com/kakao/network-node-manager
+
+6.与Kubernetes共存：API生命周期 - https://thenewstack.io/living-with-kubernetes-api-lifecycles-and-you/
+
+7.与Kubernetes共存：集群升级 - https://thenewstack.io/living-with-kubernetes-cluster-upgrades/
+
+8.ROS与docker指南 - https://roboticseabass.wordpress.com/2021/04/21/docker-and-ros/
+
+9.实时性能数据监控 - https://github.com/netdata/netdata
+
+10.从头学git - https://jwiegley.github.io/git-from-the-bottom-up/
+
+11.谷歌实现24/7无碳能源目标的新进展 - https://blog.google/outreach-initiatives/sustainability/new-progress-toward-our-247-carbon-free-energy-goal/
+
+12.新兴边缘云和计算基础设施 - https://thenewstack.io/emerging-edge-cloud-and-computing-infrastructure/
+
+13.油管视频：运行于windows subsystem for linux(WSL)的linux gui程序 - https://www.youtube.com/watch?v=f8_nvJzuaSU
+
+## 码农桃花源--2021-04-2２
+### 文章分享
+1. [go Map-Reduce编程模式](https://github.com/robpike/filter/blob/master/reduce.go)
+2. [分析Go程序的Off-CPU性能](https://colobu.com/2020/11/12/analyze-On-CPU-in-go/)
+3. [web框架gin源码解读](https://gocn.vip/topics/9319)
+4. [数据库19年1月月报](http://mysql.taobao.org/monthly/2019/01/01/)
+### 面试题
+1. Mysql索引用的是什么算法
+
+2. Mysql事务的基本要素
+
+3. Mysql的存储引擎
+
+###每日算法
+
+lc710  找到处理最多请求的服务器
+
 ## go中文网每日资讯--2021-04-21 
 
 一、Go语言中文网
