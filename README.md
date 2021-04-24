@@ -7,6 +7,116 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-04-23 
+
+一、Go语言中文网
+
+1. [Go 语言如何实现垃圾回收中的 Stop the World (STW)](https://mp.weixin.qq.com/s/0yIlm79EKgIUlL3TW_rcVw)
+
+2. [Go 数据结构和算法篇（十）：二分查找的变形版本](https://mp.weixin.qq.com/s/09ErIc5arIdqzFsWVHmqRw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-22)——大咖聊QUIC](https://mp.weixin.qq.com/s/iaXe1sTmoQ_5KO14QyjFIQ)
+
+三、TechPaper
+
+1. [事故驱动开发](https://mp.weixin.qq.com/s/I20sqkvLuWjVoPMaOZXjhw)
+
+四、polarisxu
+
+1. [世界读书日：分享我的 Go 语言书单](https://mp.weixin.qq.com/s/--Ea9Vz69JpRJBzFKxaxxQ)
+
+五、Go夜读
+
+1. [带你开始探究 Go iota](https://mp.weixin.qq.com/s/MwkeB-6OgoTw2JWFcu7bXA)
+
+六、GolangContributorClub
+
+1. [2021 中国 Go 语言开源贡献者峰会](https://mp.weixin.qq.com/s/-nzjufasWevwrWHf-2_iiA)
+
+七、脑子进煎鱼了
+
+1. [使用 Go defer 要小心这 2 个雷区！](https://mp.weixin.qq.com/s/ZEsWa4xUb0a7tWemVZMXVw)
+
+八、Go招聘
+
+1. [Go 在 AI 领域也火了？这招聘不错，薪资不低](https://mp.weixin.qq.com/s/ePqrEN40ch6NGShHRHPx2Q)
+## GOCN每日新闻--2021-04-23 
+
+1.Golang net/http 性能优化 https://gocn.vip/topics/11970
+
+2.Go 中的并发 API 模式 https://marksalpeter.com/concurrent-api-patterns-in-go-52fcb5a9c681
+
+3.Go 中的通道  https://juejin.cn/post/6953882304963936263
+
+4.Go 中的并发 https://juejin.cn/post/6953632279085776903
+
+5.为什么以及如何在 go 中写枚举 https://medium.com/qvault/how-and-why-to-write-enums-in-go-9c1a25649df0
+
+
+
+## gopherDaily--2021-04-23
+1.我是如何在3天内学完Go的 - https://dev.to/santiagova/how-i-learn-golang-in-3-days-3a1d
+
+2.Kubernetes加入网关类API - https://kubernetes.io/blog/2021/04/22/evolving-kubernetes-networking-with-the-gateway-api/
+
+3.使用go开发一个kong的插件 - https://konghq.com/blog/kong-gateway-go-plugin
+
+4.播客：与《Network Programming with Go》的作者聊聊TCP&UDP - https://changelog.com/gotime/176
+
+5.如何使用Go验证SSL证书 - https://www.freecodecamp.org/news/how-to-validate-ssl-certificates-in-go/
+
+6.Kubernetes原生网关系列：扩展envoy - https://dzone.com/articles/the-kubernetes-native-gateway-series-part-1-envoy
+
+7.在centos上搭建k8s集群 - https://dzone.com/articles/create-a-kubernetes-cluster-with-centos
+
+8.Cron表达式的Go解析工具 - https://github.com/adhocore/gronx
+
+9.Go项目的架构检查工具 - https://github.com/fdaines/arch-go
+
+10.使用Terraform在linode上设置k8s集群 - https://learnk8s.io/terraform-lke
+
+11.同时操作多个git仓库的工具 - https://github.com/gruntwork-io/git-xargs
+
+## 码农桃花源--2021-04-23
+### 文章分享
+1. [tcp hol blocking](https://mp.weixin.qq.com/s/KQV6yBvcd_gWDuVIFpJpcQ)
+
+2. [站长的书单](https://mp.weixin.qq.com/s/--Ea9Vz69JpRJBzFKxaxxQ)
+
+3. [事故驱动开发]  https://mp.weixin.qq.com/s/I20sqkvLuWjVoPMaOZXjhw	
+
+4. [数据库19年1月月报] http://mysql.taobao.org/monthly/2019/01/01/
+
+### 面试题
+1. 回答输出结果
+```go
+func main() {
+    //len 2, cap 2
+    s := []int{1,2}
+    fmt.Printf("s append before len=%d, cap=%d \n",len(s),cap(s))
+    s = append(s,4)
+    fmt.Printf("s append 4 len=%d, cap=%d \n",len(s),cap(s))
+    
+    s = append(s,5)
+    fmt.Printf("s append 5 len=%d, cap=%d \n",len(s),cap(s))
+        
+    s = append(s,6)
+    fmt.Printf("s append 6 len=%d, cap=%d \n",len(s),cap(s))
+    fmt.Println("====================")
+    s1 := []int{1,2}
+    fmt.Printf("s1 append before len=%d, cap=%d \n",len(s1),cap(s1))
+    s1 = append(s1, 4,5,6)
+    fmt.Printf("s1 append after  len=%d, cap=%d \n",len(s1),cap(s1))
+}
+```
+2. 什么是聚簇索引？何时使用聚簇索引与非聚簇索引
+
+3. 联合索引是什么？为什么需要注意联合索引中的顺序？
+
+### 每日算法
+反转字符串 写出最优解
 
 ## go中文网每日资讯--2021-04-22
 
