@@ -7,6 +7,124 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-04-24
+
+
+一、Go语言中文网
+
+1. [Go 在 AI 领域也火了？这招聘不错，薪资不低](https://mp.weixin.qq.com/s/eb_Ilz_G7vZHQwCVqLxToQ)
+
+2. [redis 跳表分析并用 Go 实现 — 碾压面试官](https://mp.weixin.qq.com/s/c3mOGotVOzUrl1P8r-PSxA)
+
+3. [源码剖析Go类型断言是如何实现的！附性能损耗测试](https://mp.weixin.qq.com/s/ZpdggO78kTX4bDHyKlzF-g)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-23)——站长的Go语言书单](https://mp.weixin.qq.com/s/230JbBZEngEtyNtBE5N03w)
+
+三、polarisxu
+
+1. [true != true？面试官，你坑人！！！](https://mp.weixin.qq.com/s/3cPsMRrsk4CaNAbpx283kw)
+
+四、吴亲强的深夜食堂
+
+1. [在Go中，你犯过这些错误吗](https://mp.weixin.qq.com/s/zMfukmRvVOXl9Fq3nyjgIg)
+
+五、后端技术指南针
+
+1. [Redis 6.0多线程探秘(上)](https://mp.weixin.qq.com/s/KQ_j4-3BP32aBH2-XOIw9Q)
+
+六、五分选手
+
+1. [什么是树状数组？现在就带你研究](https://mp.weixin.qq.com/s/gLne35DARbLIAUTGLPZEAQ)
+
+七、HHFCodeRv
+
+1. [这一次，彻底搞懂 Go Cond](https://mp.weixin.qq.com/s/2NsAl5yEPxwbpyATpuEa3Q)
+
+八、脑子进煎鱼了
+
+1. [一个新细节，Go 1.17 将允许切片转换为数组指针！](https://mp.weixin.qq.com/s/v1czjzlUsaSQTpAOG9Ub3w)
+
+九、Go招聘
+
+1. [愿你我同在阳光下出行，Gophers Coming](https://mp.weixin.qq.com/s/CfXknlNVZbnqP5QHaANVuA)
+
+## GOCN每日新闻--2021-04-24 
+
+1.Go 语言基础系列（八）：面向对象编程之接口 https://mp.weixin.qq.com/s/cJf660raLfQ4HmSijkD7RA
+
+2.go 语言的 31 个坑 https://www.jianshu.com/p/311649bb2894
+
+3.Go - 一个对新手很友好的项目 (带界面) https://juejin.cn/post/6954542723747708936
+
+4.聊聊 dbsync 的 jobs https://juejin.cn/post/6954359234528018445
+
+5.聊聊 dbsync 的 Schedulable https://juejin.cn/post/6953999719672578055
+
+
+## gopherDaily--2021-04-24
+1.Go正在为企业开发者提供动力：Go开发者调查的结果分析 - https://cloud.google.com/blog/topics/developers-practitioners/go-powering-enterprise-developers-developer-survey-results
+
+2.关于Go与Elixir语言的思考 - https://preslav.me/2021/04/23/between-golang-and-elixir/
+
+3.面向Go应用的统一存储层 - https://github.com/aos-dev/go-storage
+
+4.Go 1.17支持将一个切片转换为一个数组指针 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoConvertSliceToArray
+
+5.minio更换license：由Apache2换为AGPL 3.0 - https://github.com/minio/minio/commit/069432566fcfac1f1053677cc925ddafd750730a
+
+6.多语言gRPC性能测试结果，Go rpc实现随着cpu数量的增加而线性增加, cpu利用率也很线性 - https://github.com/LesnyRumcajs/grpc_bench/wiki/2021-04-13-bench-results
+
+7.kubernetes将版本发布次数从一年四次改为一年发布三次 - https://groups.google.com/g/kubernetes-announce/c/is_pjOd5hho
+
+8.高性能对象存储技术雷达 - https://gigaom.com/report/gigaom-radar-for-high-performance-object-storage/
+
+9.Go goroutine worker池考量 - https://adtac.in/2021/04/23/note-on-worker-pools-in-go.html
+
+10.油管视频：使用Fyne实现国际象棋游戏 - https://www.youtube.com/watch?v=zlPDWBLhn6c
+
+11.Kubernetes Dashboard的桌面应用(非官方) - https://github.com/trntv/kubernetes-dashboard-desktop-app
+
+
+## 码农桃花源--2021-04-24
+### 优质文章汇总
+1. [Go语言GC20问](https://mp.weixin.qq.com/s/o2oMMh0PF5ZSoYD0XOBY2Q)
+2. [Go语言内存分配](https://mp.weixin.qq.com/s/Hm8egXrdFr5c4-v--VFOtg)
+3. [tcp连接处于异常状态的一点总结](http://hopehook.com/blog/time_wait_close_wait)
+4. [数据库19年1月月报](http://mysql.taobao.org/monthly/2019/01/01/)
+5. [tcp hol blocking](https://mp.weixin.qq.com/s/KQV6yBvcd_gWDuVIFpJpcQ)
+
+### 面试问题
+1. 空 struct{} 的用途
+
+2. 什么是协程泄露(Goroutine Leak)？
+
+3. 无缓冲的 channel 和有缓冲的 channel 的区别？
+
+4. 有了 GC，为什么还会发生内存泄露？
+
+5. Go 语言中对 GC 的触发时机
+
+
+6. 伪共享(false sharing)问题
+
+7. cp和mv的区别，硬链接和软链接的区别
+
+8. 页高速缓存的作用？怎样保证缓存一致性
+
+9. zerocopy的实现机制
+
+10. Mysql索引用的是什么算法
+
+11. Mysql事务的基本要素
+
+12. Mysql的存储引擎
+
+13. 什么是聚簇索引？何时使用聚簇索引与非聚簇索引
+
+14. 联合索引是什么？为什么需要注意联合索引中的顺序？
+
 ## go中文网每日资讯--2021-04-23 
 
 一、Go语言中文网
@@ -53,7 +171,6 @@
 4.Go 中的并发 https://juejin.cn/post/6953632279085776903
 
 5.为什么以及如何在 go 中写枚举 https://medium.com/qvault/how-and-why-to-write-enums-in-go-9c1a25649df0
-
 
 
 ## gopherDaily--2021-04-23
