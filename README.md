@@ -6,7 +6,40 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-04-25 
 
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 92 期](https://mp.weixin.qq.com/s/IZo3-G07Us6q_XKi6EXxLg)
+
+2. [Go 数据结构和算法篇（十一）：字符串匹配之 BF 算法](https://mp.weixin.qq.com/s/PYIav0RQSGq8Vcc9JD8_cg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-24)——go 语言的 31 个坑](https://mp.weixin.qq.com/s/zn3iMrW4808zt-44stwgHA)
+
+三、k8s技术圈
+
+1. [应该了解的 10 个 Kubernetes 安全上下文配置](https://mp.weixin.qq.com/s/NFgQrvn_LyU0qQbhMZwDAQ)
+
+2. [招聘 SRE 工程师 - 合合信息 | 云原生招聘](https://mp.weixin.qq.com/s/lSOsp3fyAmfRo0egRPtshg)
+
+四、脑子进煎鱼了
+
+1. [Go 面试官：什么是协程，协程和线程的区别和联系？](https://mp.weixin.qq.com/s/vW5n_JWa3I-Qopbx4TmIgQ)
+
+五、Golang梦工厂
+
+1. [面试官：两个nil比较结果是什么？](https://mp.weixin.qq.com/s/Dt46eoEXXXZc2ymr67_LVQ)
+
+六、TonyBai
+
+1. [Go标准库http与fasthttp服务端性能比较](https://mp.weixin.qq.com/s/aX9_ZAXfDQZQZrkq-6DZew)
+
+七、Go招聘
+
+1. [4/19-4/25股文请接收](https://mp.weixin.qq.com/s/f8MWmVTwfpZBxiUu_stubA)
 ## go中文网每日资讯--2021-04-24
 
 
@@ -49,6 +82,47 @@
 九、Go招聘
 
 1. [愿你我同在阳光下出行，Gophers Coming](https://mp.weixin.qq.com/s/CfXknlNVZbnqP5QHaANVuA)
+
+
+## GOCN每日新闻--2021-04-25 
+1.rpcx 支持 websocket 协议了! https://colobu.com/2021/04/11/support-websocket-in-rpcx/
+
+2.Go 1.17 将允许将切片转换成数组指针 https://utcc.utoronto.ca/~cks/space/blog/programming/GoConvertSliceToArray
+
+3.interface 的类型断言是如何实现 https://segmentfault.com/a/119000003989416
+
+4.有趣的面试题：Go 语言中 nil 的比较结果 https://segmentfault.com/a/1190000039894167
+
+5.Uber 基于 GPU 的开源实时分析引擎 aresdb https://github.com/uber/aresdb
+
+
+## gopherDaily--2021-04-25
+1.微抽象：Go的函数钩子 - https://world.hey.com/mat/tiny-abstractions-function-hooks-in-go-92924f11
+
+2.Java真的比Go性能好吗？ - https://dabase.com/blog/2021/java-vs-go-load-test/
+
+3.kubectl-cost: 展示k8s集群负载情况的kubectl插件工具 - https://github.com/kubecost/kubectl-cost
+
+4.Go服务端渲染引擎与组件 - https://github.com/yuriizinets/go-ssc
+
+5.经典旧文：使用Go从头实现容器 - https://medium.com/@ssttehrani/containers-from-scratch-with-golang-5276576f9909
+
+6.Boyer-Moore高性能字符串搜索算法的go实现 - https://github.com/sarpdag/boyermoore
+
+7.k8s的主主PostgreSQL联邦集群 - https://blog.crunchydata.com/blog/active-active-postgres-federation-on-kubernetes
+
+8.cron表达式解析库 - https://github.com/adhocore/gronx
+
+9.业余编译器编写者的资源 - https://c9x.me/compile/bib/
+
+10.图形化展示Go应用module依赖的详细信息 - https://github.com/nikolaydubina/import-graph
+
+11.管理单体应用与微服务的可靠性：SRE的最佳实践 - https://stackpulse.com/blog/monoliths-vs-microservices-best-practices/
+
+12.我为什么要在2021年使用Go - https://medium.com/@mdcfrancis/why-do-i-write-golang-in-2021-3ab8f2fff31c
+
+
+
 
 ## GOCN每日新闻--2021-04-24 
 
