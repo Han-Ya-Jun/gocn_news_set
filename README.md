@@ -6,6 +6,107 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-04-26
+
+一、Go语言中文网
+
+1. [使用 timeout、deadline 和 context 取消参数使 Go net/http 服务更灵活](https://mp.weixin.qq.com/s/Wse5avtLhhtMeBTVRPNwow)
+
+2. [Go 数据结构和算法篇（十二）：字符串匹配之 KMP 算法](https://mp.weixin.qq.com/s/sBz1r5tvEYoX3cqupCdGRA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-25)——协程，协程和线程](https://mp.weixin.qq.com/s/AfRzKFd4j21cLsUY-972GA)
+
+三、吴亲强的深夜食堂
+
+1. [为什么我们需要在  Go 中使用 iota](https://mp.weixin.qq.com/s/HOkquS6bA1I18TyT1lR8zQ)
+
+四、polarisxu
+
+1. [Go 语言一些最佳实践：建议收藏](https://mp.weixin.qq.com/s/75e43zUD4ClpTQGZtZwU2Q)
+
+五、MoeLove
+
+1. [K8S 生态周报| Docker v20.10.6 发布， 修正了 K8S 中 dind 的异常行为](https://mp.weixin.qq.com/s/o--duARxH2AS04S8vCZcNw)
+
+六、CloudNativeCommunity
+
+1. [基准测试五宗罪](https://mp.weixin.qq.com/s/7QfzpQvIK-9hLsQAIcQyCg)
+
+七、Golang梦工厂
+
+1. [有趣的面试题：Go语言字符串的字节长度和字符个数](https://mp.weixin.qq.com/s/p0plkyH1OpiAhjE8Gxvpog)
+
+八、即时通讯技术圈
+
+1. [直播系统聊天技术(四)：百度直播的海量用户实时消息系统架构演进实践](https://mp.weixin.qq.com/s/xUR1_7vfsr8TkcZA72Trvg)
+
+
+
+
+
+## GOCN每日新闻--2021-04-26
+1.Go 泛型的示例代码 https://github.com/mattn/go-generics-example
+
+2.盘点一下 Go 语言的 “黑暗角落” https://mp.weixin.qq.com/s/XLvWg9kRoiR4WPhjXE5X_g
+
+3.golang 面向对象分析 https://www.cnblogs.com/457220157-FTD/p/14703692.html
+
+4.使用 Go defer 要小心这 2 个雷区！ https://mp.weixin.qq.com/s/ZEsWa4xUb0a7tWemVZMXVw
+
+5.Boyer-Moore 快速字符串搜索算法在 Go 中的实现 https://github.com/sarpdag/boyermoore
+
+
+
+## gopherDaily--2021-04-26
+1.使用Go开发一个代码生成器 - https://levelup.gitconnected.com/writing-a-code-generator-in-go-420e69151ab1
+
+2.油管视频：全面理解Go rune类型 - https://www.youtube.com/watch?v=7isCXLWPTqI
+
+3.Go实现的云盘系统 - https://github.com/eyebluecn/tank
+
+4.大白话认识 Kafka 背后优秀的架构设计 - https://mp.weixin.qq.com/s/ed-BTtLwOy_BmD946F3ioQ
+
+5.k8s CPU和内存分配的简单快速调整 - https://itnext.io/easy-and-fast-adjustment-of-kubernetes-cpu-and-memory-709394cc2cb1
+
+6.使用docker和git tag实现heroku式的部署 - https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/
+
+7.理解云复杂性的根源 - https://www.transposit.com/blog/understanding-the-roots-of-our-cloud-complexity/
+
+8.Slim：一个空间效率高效的数据类型的集合，可通过序列化API将数据持久化在磁盘上或用于传输 - https://github.com/openacid/slim
+
+9.Rust语言速查表 - https://cheats.rs/
+
+10.基于markdown的在线slide演示工具 - https://mark.show/#/
+
+11.swift语言在服务端的现状 - https://theswiftdev.com/swift-on-the-server-in-2020/
+
+
+
+
+## 码农桃花源--2021-04-26
+### 文章分享
+1. [Nginx架构分析](https://cloud.tencent.com/developer/article/1812708)
+
+2. [QUIC协议原理分析](https://cloud.tencent.com/developer/article/1017235?from=article.detail.1812708)
+
+3. [分布式定时器介绍](https://cloud.tencent.com/developer/article/1807494)
+
+### 面试题
+1. 进程间通信方法，共享内存用了什么系统调用？
+
+2. 段页式内存管理下的逻辑地址和物理地址转换
+
+3. 堆排序建堆的时间复杂度？
+
+4. 常用的GC有哪些？介绍一下Go语言的GC
+
+
+### 每日算法
+1011 在D天内送达包裹的能力
+
 ## go中文网每日资讯--2021-04-25 
 
 
