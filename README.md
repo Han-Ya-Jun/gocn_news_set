@@ -7,6 +7,104 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-04-27 
+
+
+一、Go语言中文网
+
+1. [图解 g0：特殊的 goroutine](https://mp.weixin.qq.com/s/_Tl1cGTdPxwSF1ctHc1yZg)
+
+2. [Go 数据结构和算法篇（十三）：字符串匹配之 Trie 树](https://mp.weixin.qq.com/s/myq1qAWREN_sKgWwIT_O4w)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-26)——Go 语言的 “黑暗角落”](https://mp.weixin.qq.com/s/6PtqhYFJExxLf12ySS19_w)
+
+三、polarisxu
+
+1. [Rust语言24个绝佳框架、项目及资料库](https://mp.weixin.qq.com/s/muLkr6ICfsbsRc-BVVtwGg)
+
+四、脑子进煎鱼了
+
+1. [用 Go map 要注意这 1 个细节，避免依赖他！](https://mp.weixin.qq.com/s/MzAktbjNyZD0xRVTPRKHpw)
+
+五、真没什么逻辑
+
+1. [为什么 Linux 和 macOS 不需要碎片整理](https://mp.weixin.qq.com/s/6UzsOL7NivThJTQOfJDNbQ)
+
+六、百度Geek说
+
+1. [百度商业大规模微服务分布式监控系统——凤睛](https://mp.weixin.qq.com/s/99fESnkMpiJsKJmTdN2G0g)
+
+七、k8s技术圈
+
+1. [使用 EFKLK 搭建 Kubernetes 日志收集工具栈](https://mp.weixin.qq.com/s/lPeYavvFJ6GdivkT0iwTGw)
+
+八、网管叨bi叨
+
+1. [Interceptor拦截器 -- gRPC生态里的中间件](https://mp.weixin.qq.com/s/kHW5t0bqLuJZUNNknBJnAA)
+
+九、Go招聘
+
+1. [一手资源在手，说Go就Go](https://mp.weixin.qq.com/s/t4bxO8PBUf0BLhlWFs-O_A)
+## GOCN每日新闻--2021-04-27
+
+1.基于 getty 的分布式事务框架 seata-golang 通信模型详解 https://blog.51cto.com/u_4313251/2731656
+
+2.Go 标准库 http 与 fasthttp 服务端性能比较 https://tonybai.com/2021/04/25/server-side-performance-nethttp-vs-fasthttp/
+
+3.Go 可用性 (五) 限流 4: 自适应限流 http://lailin.xyz/post/go-training-week6-4-auto-limiter.html
+
+4.Go 实现的云盘系统 https://github.com/eyebluecn/tank
+
+5.构建 golang 插件系统的利器--go-plugin https://gocn.vip/topics/11990
+
+
+## gopherDaily--2021-04-27
+
+
+1.一文看懂容器网络 - https://iximiuz.com/en/posts/container-networking-is-simple/
+
+2.Schema即代码：facebook Ent教程 - https://developers.facebook.com/blog/post/2021/04/26/eli5-ent-schema-as-code-go/
+
+3.超越块与文件：COSI开启kubernetes上的对象存储 - https://thenewstack.io/beyond-block-and-file-cosi-enables-object-storage-in-kubernetes/
+
+4.基于k8s persistent卷配置nfs - https://www.linuxtechi.com/configure-nfs-persistent-volume-kubernetes/
+
+5.图解Kubernetes中的服务发现 - https://iximiuz.com/en/posts/service-discovery-in-kubernetes/
+
+6.Karmada：多云多k8s集群应用编排 - https://github.com/karmada-io/karmada
+
+7.你可能需要配置Kubernetes liveness和readiness探针 - https://itnext.io/you-probably-need-liveness-and-readiness-probes-a52e213cd38b
+
+8.没有人关心你的漂亮代码 - https://felipecsl.com/2021/04/26/nobody-cares-about-your-beautiful-code.html
+
+9.使用goreleaser分发你的cli应用 - https://appliedgo.net/release/
+
+10.基于gocv的对象检测系统 - https://github.com/wimspaargaren/yolov3
+
+11.cilium支持arm64架构 - https://github.com/cilium/cilium/issues/9898#issuecomment-824218940
+
+## 码农桃花源--2021-04-27
+### 文章分享
+1. [Linux内存管理知识总结1](https://zhuanlan.zhihu.com/p/366957562)
+
+2. [Dapr—云原生的抽象与实现](https://www.imooc.com/article/316767)
+
+3. [console、terminal、tty都是啥？](http://www.wowotech.net/tty_framework/tty_concept.html)
+
+### 面试题
+1. 一致性hash算法知道吗？有什么用？
+
+2. 介绍一下linux的磁盘调度算法？noop算法和什么硬件搭配使用
+
+3. 事务ACID特性中的C(一致性)和CAP理论的C(一致性)有什么区别?
+
+4. 数据库的隔离性指的是什么？你知道哪些隔离级别？
+
+### 每日算法
+lc363 矩形区域不超过K的最大数值和
+
 ## go中文网每日资讯--2021-04-26
 
 一、Go语言中文网
