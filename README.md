@@ -7,6 +7,102 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+
+## go中文网每日资讯--2021-04-28 
+
+
+一、Go语言中文网
+
+1. [Go 语言中 runtime.KeepAlive() 方法的一些随笔](https://mp.weixin.qq.com/s/0-14E7Enk6TsZ1_vifznvA)
+
+2. [在Go中，你犯过这些错误吗](https://mp.weixin.qq.com/s/bzYTYwKN2J6rIMjfYn-eZA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-27)——图解 g0：特殊的 goroutine](https://mp.weixin.qq.com/s/eZYQyWREOFJS6x9-TzfXvA)
+
+三、polarisxu
+
+1. [Rust 劝退系列 04：基本数据类型](https://mp.weixin.qq.com/s/kHVGK2b0oAidORE5C8Yopg)
+
+四、Go招聘
+
+1. [Russ Cox 看不下去了：golang-standards/project-layout 不是 Go 标准布局](https://mp.weixin.qq.com/s/eZrIRO3Etu9vgZi7lkR81A)
+
+五、多颗糖
+
+1. [运行 3000 次都不出错的 MIT 6.824 Raft 实验](https://mp.weixin.qq.com/s/KuiSHx9iObnTtGYh4Gxbpg)
+
+六、Go夜读
+
+1. [性能优化究竟应该怎么做？](https://mp.weixin.qq.com/s/_69pA5aQPhqXCOJpmrSmQQ)
+
+七、逸言
+
+1. [领域驱动架构风格](https://mp.weixin.qq.com/s/nMkxatKgjQLLiEa5fFFxmg)
+
+八、No Headback
+
+1. [《写作的逻辑》简单读书笔记](https://xargin.com/notes-on-logic-writing/)
+
+
+
+## GOCN每日新闻--2021-04-28
+1.快速 TCP/UDP 通道 https://github.com/jpillora/chisel
+
+2.Golang 中并发 API 模式 https://tech.deliveryhero.com/concurrent-api-patterns-in-go/
+
+3.图解 g0：特殊的 goroutine https://mp.weixin.qq.com/s/_Tl1cGTdPxwSF1ctHc1yZg
+
+4.边开飞机边换引擎？我们造了个新功能保障业务流量无损迁移 https://gocn.vip/topics/11998
+
+5.用 Go map 要注意这 1 个细节，避免依赖 https://mp.weixin.qq.com/s/MzAktbjNyZD0xRVTPRKHpw
+
+## gopherDaily--2021-04-28
+1.Go web开发的当前状态 - https://tnotes.dev/posts/state-of-web-dev-in-golang
+
+2.Russ Cox：这不是Go项目的标准布局！ - https://github.com/golang-standards/project-layout/issues/117
+
+3.DRPC介绍：gRPC的替代者 - https://www.storj.io/blog/introducing-drpc-our-replacement-for-grpc
+
+4.使用Go和next.js开发可移植的应用 - https://v0x.nl/articles/portable-apps-go-nextjs
+
+5.大规模系统的逆向调试 - https://engineering.fb.com/2021/04/27/developer-tools/reverse-debugging/
+
+6.Go系统编程 - https://t.zsxq.com/bAuNZzF
+
+7.使用testify进行go包测试 - https://shores.dev/testify-golang-package-for-go/
+
+8.在遗留Go项目中启用go module会发生什么 - https://speakerdeck.com/line_developers_tw2/what-will-happen-when-you-enable-go-modules-on-the-legacy-go-projects
+
+9.第三方微信公众平台和微信商户平台Go SDK - https://github.com/chanxuehong/wechat
+
+10.开放的航班、航线等数据 - https://openflights.org/data.html
+
+11.k8s原生serverless框架 - https://github.com/kubeless/kubeless
+
+
+## 码农桃花源--2021-04-28
+### 文章分享
+1. [dealline调度器原理](http://www.wowotech.net/process_management/deadline-scheduler-1.html)
+
+2. [编译原理理论与实战](https://cloud.tencent.com/developer/article/1776822)
+
+3. [高性能队列——Disruptor](https://tech.meituan.com/2016/11/18/disruptor.html)
+
+### 面试题
+1. golang 的 runtime 机制?
+
+2. 如何获取 go 程序运行时的协程数量, gc 时间, 对象数, 堆栈信息?
+
+3. 对map进行并发访问，需要同步操作吗？
+
+### 每日算法
+lc1793 好子数组的最大分数 https://leetcode-cn.com/problems/maximum-score-of-a-good-subarray/
+
+
+
 ## go中文网每日资讯--2021-04-27 
 
 
