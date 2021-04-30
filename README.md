@@ -7,7 +7,100 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-04-29 
 
+一、Go语言中文网
+
+1. [Go 切片的一种有趣内存泄漏方式](https://mp.weixin.qq.com/s/gMt7hY9PEWW0XMt70vI84w)
+
+2. [Go 切片的一种有趣内存泄漏方式](https://mp.weixin.qq.com/s/gMt7hY9PEWW0XMt70vI84w)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-28)——在Go中，你犯过这些错误吗](https://mp.weixin.qq.com/s/IovH52ZlEfvOwW1PSrM-3w)
+
+三、码农桃花源
+
+1. [QUIC 协议在蚂蚁落地综述](https://mp.weixin.qq.com/s/PEfz04LHOjVrZK6K45OgzA)
+
+2. [KubeSphere 3.1.0 GA：混合多云走向边缘，让应用无处不在](https://mp.weixin.qq.com/s/jJsldNRijylB_EBUhOXULA)
+
+四、腾讯技术
+
+1. [“鹅厂老司机”谈破局：做自己的破壁人](https://mp.weixin.qq.com/s/UE5T29ZZmnvJ7_WA-ztgEQ)
+
+五、polarisxu
+
+1. [Go 真的也可以进行 GUI 开发：还有这样的图书呢](https://mp.weixin.qq.com/s/2kms7zoK39CL6aVSWrpAbQ)
+
+六、CloudNativeCommunity
+
+1. [Kubernetes 源码图解](https://mp.weixin.qq.com/s/s1vJu7TmANzE4r0se0OF0g)
+
+2. [云原生学院第19直播视频回放](https://mp.weixin.qq.com/s/c3akppn1E1BEfuLEwB-JKg)
+
+七、脑子进煎鱼了
+
+1. [Go 程序崩了？煎鱼教你用 PProf 工具来救火！](https://mp.weixin.qq.com/s/9yLd7kkYzmbCriolhbvK_g)
+
+
+## GOCN每日新闻--2021-04-29 
+1.GO 重复利用 Prepare 后的 stmt 来提高 MySQL 的执行效率  https://learnku.com/go/t/49736
+
+2.到处都是 GO111MODULE，这到底什么？ https://learnku.com/go/t/39086
+
+3.谈谈 Redis 的 9 种数据结构以及它们的内部编码实现  https://gobea.cn/blog/detail/OrJRxArd.html
+
+4.Golang 服务之坑：too many open files  https://gobea.cn/blog/detail/NoW32Qob.html 
+
+5.为什么 HTTPS 需要 7 次握手以及 9 倍时延  https://draveness.me/whys-the-design-https-latency/
+
+
+## gopherDaily--2021-04-29
+1.Go Json操作终极指南 - https://qvault.io/golang/json-golang/
+
+2.在生产环境使用dapr(分布式应用运行时) - https://blog.dapr.io/posts/2021/02/09/running-dapr-in-production-at-roadwork/
+
+3.加密UDP传输库 - https://github.com/balacode/udpt
+
+4.基于Gorgonia实现的生成式对抗性网络示例 - https://github.com/LdDl/gan-go
+
+5.从头构建一个kubectl plugin - https://www.pixelstech.net/article/1606901393-Build-a-Kubectl-Plugin-from-Scratch
+
+6.kubernetes: 使用拓扑感知路由的高效多区网络 - https://opensource.googleblog.com/2020/11/kubernetes-efficient-multi-zone.html
+
+7.我如何在Go中构造服务 - https://medium.com/@ott.kristian/how-i-structure-services-in-go-19147ad0e6bd
+
+8.Go语法树入门——开启自制编程语言和编译器之旅 - https://github.com/chai2010/go-ast-book
+
+9.hashicorp go-plugin构建golang插件系统 - https://mp.weixin.qq.com/s/N1BWGheV8ZIpO5L90vaZyg
+
+10.减少aws k8s账单的七个方法 - https://thenewstack.io/7-tips-for-cutting-down-your-aws-kubernetes-bill
+
+
+## 码农桃花源--2021-04-29
+### 文章分享
+1. [pprof](https://mp.weixin.qq.com/s/9yLd7kkYzmbCriolhbvK_g)
+
+2. [go map](https://mp.weixin.qq.com/s/MzAktbjNyZD0xRVTPRKHpw)
+
+3. [rust 01](https://mp.weixin.qq.com/s/2GGY_q90NqMd_A2SssOKog)	
+
+4. [数据库19年2月月报](http://mysql.taobao.org/monthly/2019/02/)
+
+### 面试题
+1. Redis 它的 5 种基础类型和 6 个数据结构说下。
+
+2. HyperLogLog、BitMap、GEO、Stream 有接触过吗？
+
+3. 什么时候用这些特殊数据结构？跳表又是什么，画一下？
+
+4. 为什么使用跳表？
+
+5. 为什么不用红黑树？
+
+### 每日算法
+反转字符串 写出最优解
 
 ## go中文网每日资讯--2021-04-28 
 
