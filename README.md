@@ -7,6 +7,99 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-04-30 
+一、Go语言中文网
+
+1. [Go 运行时调度器处理系统调用的巧妙方式](https://mp.weixin.qq.com/s/zyvCj2bC9aTkrFB_J_kQcA)
+
+2. [掌握 cgo 的字符串函数](https://mp.weixin.qq.com/s/RFMKhSmc22GwxeIeI8MAGQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-04-29)——QUIC 协议在蚂蚁落地综述](https://mp.weixin.qq.com/s/wboDsOAA_TuOx-rzyWmNnw)
+
+三、奇伢云存储
+
+1. [存储进阶—怎么才能保证 IO 数据的安全？](https://mp.weixin.qq.com/s/2lUjSnidY_RVQ4jNWGHvLw)
+
+四、腾讯云CDN
+
+1. [大咖聊QUIC—腾讯CDN技术总监李丛](https://mp.weixin.qq.com/s/-9JfPnnPL-mM5fNYXVksLw)
+
+五、k8s技术圈
+
+1. [KubeSphere 3.1.0 GA：混合多云走向边缘，让应用无处不在](https://mp.weixin.qq.com/s/lwEMVwJ1h1hL2N8mr3Bj1A)
+
+2. [k8s 内网和办公网络的打通实践](https://mp.weixin.qq.com/s/AHuGtMjfHo7-Wi_CBGiBkQ)
+
+六、polarisxu
+
+1. [五一快乐！Go 团队开始重视安全问题了](https://mp.weixin.qq.com/s/-Zv1QwM1lYNWEvIoUNjmXQ)
+
+七、技术琐话
+
+1. [如何提高代码的扩展性](https://mp.weixin.qq.com/s/KHgaB3K5ikz1caZkpaFZGA)
+
+八、Go招聘
+
+1. [国际电商福利好还不加班，爱了爱了](https://mp.weixin.qq.com/s/T7jhXipYkCezKN9LjK_sEQ)
+
+九、腾讯技术工程​
+
+1. [「直播回放」Go语言并发调度器和网络模型解析 - 知乎](https://www.zhihu.com/zvideo/1371214468270071808)
+
+十、Go夜读
+
+1. [视频回放-#113 性能优化究竟应该怎么做？- By 曹大](https://www.bilibili.com/video/BV1Z64y1m7uc)
+
+
+## gopherDaily--2021-04-30
+1.Go播客：使用Go构建初创公司技术栈 - https://changelog.com/gotime/177
+
+2.并行的表驱动测试 - https://www.gopherguides.com/articles/table-driven-testing-in-parallel
+
+3.litestream如何以0.03美元/月的价格替代了我的数据库服务器 - https://mtlynch.io/litestream/
+
+4.在Go中为什么以及如何实现枚举 - https://dev.to/qvault/how-and-why-to-write-enums-in-go-1lmb
+
+5.Go channel深度使用 - https://g14a.github.io/tags/channels/
+
+6.Redis实验室：为什么延迟不应该是人工智能时代的问题？ - https://thenewstack.io/redis-labs-why-latency-shouldnt-be-an-issue-in-the-age-of-ai/
+
+7.为什么Kubernetes需要istio - https://www.tetrate.io/blog/what-is-istio-and-why-does-kubernetes-need-it/
+
+8.优雅的Go rest api框架 - https://github.com/go-goyave/goyave
+
+9.编写高性能GraphQL应用的go包 - https://github.com/jensneuse/graphql-go-tools
+
+10.trivy: 一个针对容器镜像、Git存储库和文件系统的简单而全面的漏洞扫描器 - https://github.com/aquasecurity/trivy
+
+11.我们如何使用Golang和Dataflow构建一个金融犯罪特征库 - https://medium.com/sardineai/building-a-fincrime-feature-store-how-we-use-golang-and-dataflow-e1b8edc0f535
+
+## 码农桃花源--2021-04-30
+### 文章分享
+1. [编程模式 pipeline](https://coolshell.cn/articles/21228.html)
+
+2. [了解rust](https://coolshell.cn/articles/20845.html)
+
+3. [rust 02](https://mp.weixin.qq.com/s/dUFJMEzOJGwM5YY8cP9MBQ)
+
+4. [数据库19年2月月报](http://mysql.taobao.org/monthly/2019/02/)
+
+### 面试题
+1. redis 全局 Hash 表又是什么？如何扩容的？
+
+2. 什么是渐进式 rehash？Redis 怎么做到的？
+
+3. IO 多路复用是什么？多路是什么？复用了什么？
+
+4. AOF 和 RDB 又是什么？为什么 Redis 没有实现 WAL 机制？AOF 持久化策略有哪三种？你们是怎么选的？
+
+5. AOF 什么时候重写？为什么重写？
+### 每日算法
+反转字符串 写出最优解
+
+
 ## go中文网每日资讯--2021-04-29 
 
 一、Go语言中文网
