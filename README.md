@@ -7,6 +7,70 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-05-09 
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 94 期 — 这道题目别不会](https://mp.weixin.qq.com/s/_La7pqzLreCl50-9ASoBkQ)
+
+2. [goproxy 源码分析](https://mp.weixin.qq.com/s/qVIzxuu8yZv7arfr2E8Cmg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-08)——Go1.16.4 发布](https://mp.weixin.qq.com/s/Qv1WU-2JgMR1XeJZYXURyQ)
+
+三、k8s技术圈
+
+1. [使用 Loki 收集 Traefik 日志](https://mp.weixin.qq.com/s/L-dGf4dwr7b8hz4IM0qg8A)
+
+四、云原生技术爱好者社区
+
+1. [谈谈对K8S CNI、CRI和CSI插件的理解](https://mp.weixin.qq.com/s/vLfWUiZuap9RWjFuPfqMEg)
+
+五、TechPaper
+
+1. [nocode 和 lowcode](https://mp.weixin.qq.com/s/gvCQqNFaGSWCJv9XHMl94A)
+
+六、GoUpUp
+
+1. [Go 每日一库之 bytebufferpool](https://mp.weixin.qq.com/s/SVqpZubE_X4W8uAwmNV79w)
+
+七、Go招聘
+
+1. [面试官：Go 结构体是否可以比较，为什么？](https://mp.weixin.qq.com/s/S2nVZ-xmHqsTOyQp7jWWSg)
+
+2. [五一假期的股文来咯](https://mp.weixin.qq.com/s/oTqguz5KwHVky-3cXt8hLQ)
+
+
+
+
+## GOCN每日新闻--2021-05-09 
+
+1.Go 实现各类限流 https://juejin.cn/post/6959436201443426311
+
+2.如何使用 Github actions 测试 Go 代码 https://gfgfddgleb.medium.com/how-to-test-your-go-code-with-github-actions-f15881d46089
+
+3.Go 机器学习 https://towardsdatascience.com/golang-for-machine-learning-bd4bb84594ee
+
+4.为什么 Go 接口比 Java 和 C# 更好 https://khanakia.medium.com/why-go-interface-is-better-than-java-and-c-ece85aef0123
+
+5.Go JSON 终极指南 https://qvault.io/golang/json-golang/
+
+
+## gopherDaily--2021-05-09 
+- 1.当你去获取时，会发生什么–近距离观察Go模块的内部结构 - https://tobyokewole.medium.com/what-happens-when-you-go-get-a-closer-look-at-the-internals-of-go-modules-347780643292
+- 2.go中如何实现枚举 - https://marcofranssen.nl/how-to-do-enums-in-go
+- 3.如何在ipfs上建立单页web站点 - https://docs.ipfs.io/how-to/websites-on-ipfs/single-page-website/
+- 4.分析开源Helm chart的安全态势的主要趋势 - https://bridgecrew.io/blog/open-source-helm-security-research-part-2/
+- 5.通过kubernetes CSI获取HashiCorp Vault Secrets - https://www.hashicorp.com/blog/retrieve-hashicorp-vault-secrets-with-kubernetes-csi
+- 6.使用gitlab operator在k8s和openshift上部署gitlab - https://about.gitlab.com/releases/2021/04/22/gitlab-13-11-released/
+- 7.kubernetes手册 - https://www.freecodecamp.org/news/the-kubernetes-handbook/
+- 8.经典旧文：使用Go实现Clean Architecture  - https://eminetto.medium.com/clean-architecture-using-golang-b63587aa5e3f
+- 9.WebAssembly不仅仅是一个JavaScript的替代品  - https://thenewstack.io/kubecon-eu-why-webassembly-is-more-than-a-javascript-replacement/
+- 10.运维ETCD的经验教训 - https://docs.google.com/presentation/d/1uOpawkCoqPQuxD5MuEhXeCrJV1Nw9fopUBq2IRTvwcI/edit#slide=id.gc963048e26_0_73
+- 11.对Rust的第二印象 - https://deepu.tech/my-second-impression-of-rust/
+
+
 
 ## go中文网每日资讯--2021-05-08 
 
