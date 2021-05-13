@@ -6,6 +6,95 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-05-12
+
+一、Go语言中文网
+
+1. [Go：跨团队协作时如何共享对象](https://mp.weixin.qq.com/s/zJaruocUDSzld8ttDyawng)
+
+2. [template源码分析](https://mp.weixin.qq.com/s/HqcaFEXgQbcRyjYjI6oKGQ)
+
+二、mohuishou
+
+1. [6. kubebuilder 实战: status &amp; event](https://mp.weixin.qq.com/s/JuRlClCX7TnQKaW-Rr3Z7g)
+
+三、亚军进化史
+
+1. [Go技术日报(2021-05-11)——实现无限缓存的channel](https://mp.weixin.qq.com/s/bx_cWcT2MSBic6yV7Zq9bg)
+
+四、吴亲强的深夜食堂
+
+1. [如何优雅地实现并发编排任务](https://mp.weixin.qq.com/s/M88-VS_H7o754mw5Ra7BYg)
+
+五、k8s技术圈
+
+1. [Prometheus 二次开发之 API 接口](https://mp.weixin.qq.com/s/K7ERtE2KKflYSA9KJOukYg)
+
+六、云加社区
+
+1. [从TDSQL，看分布式数据库的技术之美](https://mp.weixin.qq.com/s/CbzlPmGJCQKi3UmvwjFC1Q)
+
+七、polarisxu
+
+1. [Go Team Leader — rsc大神新开源了一个库，增强模板功能](https://mp.weixin.qq.com/s/3DFejimkPY9tg9QQL2QTqw)
+
+八、Go招聘
+
+1. [Wow，联通数科也招Gopher了](https://mp.weixin.qq.com/s/tVY3AuUOYEnMKi7Km4eBCw)
+
+九、脑子进煎鱼了
+
+1. [Go 数组比切片好在哪？](https://mp.weixin.qq.com/s/zp1vdhGukEYKpzAdPt--Mw)
+
+2. [Go 缓存系列之 go-cache](https://mp.weixin.qq.com/s/dKlfwJ69s3fUBWYIV57hyg)
+
+十、奇伢云存储
+
+1. [Go 存储基础 — 内存结构体怎么写入文件？](https://mp.weixin.qq.com/s/mfNz7r76vZOOgiMSmuVeJA)
+
+十一、码农桃花源
+
+1. [深度解密Go语言之基于信号的抢占式调度](https://mp.weixin.qq.com/s/ESfbVoCGUIdpwFOfGyvz1w)
+## GOCN每日新闻--2021-05-12 
+1.实现无限缓存的 channel https://colobu.com/2021/05/11/unbounded-channel-in-go/
+
+2.Go RIP 协议简单的模拟实现 https://segmentfault.com/a/1190000039984330
+
+3.Golang 框架 gin 运行源码分析 https://mp.weixin.qq.com/s/D6Ls3fUZnmimg8EgBDuXcQ
+
+4.Golang MySQL 查询更轻松 https://mp.weixin.qq.com/s/Sdt_wYJCXepoUwIIy7h9yw
+
+5.golang 如何使用原生 RPC 及微服务简述 https://segmentfault.com/a/1190000039990286
+
+## gopherDaily--2021-05-12 
+- 1.Go并发：高级话题 - https://t.zsxq.com/yJMRjiI
+- 2.pprof++: 带有硬件性能监控的Go性能剖析器 by uber - https://eng.uber.com/pprof-go-profiler/
+- 3.Kubernetes中混沌工程的开源解决方案 - https://blog.flant.com/chaos-engineering-in-kubernetes-open-source-tools/
+- 4.用GoPacket对数据包进行捕获和程序化分析 - https://blog.apnic.net/2021/05/12/programmatically-analyse-packet-captures-with-gopacket/
+- 5.KrakenD：高性能API网关框架项目加入linux基金会 - https://www.krakend.io/blog/krakend-framework-joins-the-linux-foundation/
+- 6.跳出Go module的泥潭 - https://mp.weixin.qq.com/s/EndbbH0Cxw7jBmUOovs6Ew
+- 7.在Kubernetes上用多容器pod扩展应用程序 - https://learnk8s.io/sidecar-containers-patterns
+- 8.Popeye是一个实时扫描Kubernetes集群并报告部署资源和配置的潜在问题的工具 - https://github.com/derailed/popeye
+- 9.分布式账本技术（DLT）和数字凭证–完美的搭配 - https://www.memberpass.com/2021/05/distributed-ledger-technology-dlt-and-digital-credentials-a-perfect-match/
+- 10.通过microsoft learn零基础学习Go编程语言 - https://dev.to/azure/get-started-with-the-go-programming-language-with-microsoft-learn-no-experience-needed-1npg
+- 11.通过AI和机器学习扩大网络防御 - https://thenewstack.io/expanding-cyber-defense-through-ai-and-ml/
+
+## 码农桃花源--2021-05-12
+### 文章分享
+1. [云开发如何扛过大流量活动洪峰](https://mp.weixin.qq.com/s/WOhY_bTj213XP6tdUYQCZQ)
+
+2. [MySQL 学习](https://mp.weixin.qq.com/s/sRFmW57KUY3yyyRkyw0L4A)
+
+3. [煎鱼 数组比切片好在哪里](https://mp.weixin.qq.com/s/zp1vdhGukEYKpzAdPt--Mw)
+
+### 面试题
+1. Mysql联合索引最左匹配原则
+
+2. Mysql高可用方案有哪些
+
+3. TIME_WAIT的作用
+### 每日算法
+lc 1307 口算难题
 
 ## go中文网每日资讯--2021-05-11 
 
