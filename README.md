@@ -6,6 +6,206 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-05-14 
+
+
+一、Go语言中文网
+
+1. [Uber 使用 Go 的规模这么大？！都自己定制的 Go 编译器了](https://mp.weixin.qq.com/s/oJ6BD8AXbKKe_OBj9kCx6A)
+
+2. [Go：如何优雅地实现并发编排任务](https://mp.weixin.qq.com/s/5RhaUEk33kf4LkcZphyt_g)
+
+3. [grpc Go Client 源码分析](https://mp.weixin.qq.com/s/SQ22u7l17mWl2nQlSqvGXg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-13)——深度解密Go之信号抢占式调度](https://mp.weixin.qq.com/s/iWgFdyyvAt6kZPkU4x2TfQ)
+
+三、k8s技术圈
+
+1. [使用 Loki 进行日志报警(一)](https://mp.weixin.qq.com/s/s4g_lg9k1QjGa-GLRfZtEg)
+
+四、Go夜读
+
+1. [Go 程序运行时数据统计的可视化工具 statsviz](https://mp.weixin.qq.com/s/gaQhIo544VHYeGcKq34GIw)
+
+五、polarisxu
+
+1. [Rust 劝退系列 06：常量](https://mp.weixin.qq.com/s/y5WJbP8qcvdm4WASXEEibQ)
+
+六、码农桃花源
+
+1. [semaphore 的原理与实现](https://mp.weixin.qq.com/s/GB649snXQ5rDF2BXO9V55Q)
+
+七、mohuishou
+
+1. [8. kubebuilder 进阶: webhook](https://mp.weixin.qq.com/s/CFggTa7E91Rf1N1EZZpOBA)
+
+八、技术岁月
+
+1. [【直播】5.15（周六）9:00 聊聊风控系统构建演进过程~欢迎扫码报名](https://mp.weixin.qq.com/s/KctKKf0VUCt0AppLyEEtrg)
+
+九、脑子进煎鱼了
+
+1. [为什么 Go map 和 slice 是非线性安全的？](https://mp.weixin.qq.com/s/TzHvDdtfp0FZ9y1ndqeCRw)
+
+2. [深度剖析 Go 的 nil](https://mp.weixin.qq.com/s/wwpDqXZ8VsDL0N2IKjJNDA)
+ 
+## GOCN每日新闻--2021-05-14 
+1.熔断原理与实现 Golang 版 https://blog.51cto.com/u_15175878/2774901
+
+2.Golang 语言中怎么拦截系统信号和优雅退出 http server？ https://mp.weixin.qq.com/s/yvK42TntdzAI9S6kBFFZ-w
+
+3.关于如何组织 Go 项目结构的思考 https://changelog.com/posts/on-go-application-structure
+
+4.kubernetes 问题排查: 系统时间被修改导致 sandbox 冲突 https://mp.weixin.qq.com/s/DJMrRBP237BE69pTyrKmnQ
+
+5.可汗学院 Go 语言实践 https://blog.khanacademy.org/half-a-million-lines-of-go/
+
+
+## gopherDaily--2021-05-14
+1.编写50w行Go代码之后：可汗学院工程师的Go感悟 - https://blog.khanacademy.org/half-a-million-lines-of-go/
+
+2.为什么你应该在你的Go服务器处理程序中使用errgroup.WithContext - https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers/
+
+3.BuildKit CLI for kubectl是docker build的替代品 - https://container-registry.com/posts/productivity-lift-buildkit-cli-for-kubectl/
+
+4.docker和kubernetes是如何创建ip地址的 - https://dustinspecker.com/posts/how-do-kubernetes-and-docker-create-ip-addresses/
+
+5.Go语言eBPF入门 - https://networkop.co.uk/post/2021-03-ebpf-intro/
+
+6.k8s集群中如何切换容器运行时 - https://dev.to/stack-labs/how-to-switch-container-runtime-in-a-kubernetes-cluster-1628
+
+7.gohugo vs. jekyll，哪个才是你的菜 - https://draft.dev/learn/posts/hugo-vs-jekyll-which-is-right-for-your-blog
+
+8.mk48: go实现的开源游戏项目 - https://github.com/SoftbearStudios/mk48
+
+9.如何构建良好的远程工作文化 - https://liuandrewk.medium.com/how-to-build-a-good-remote-work-culture-5f482cd4f1dd
+
+10.油管视频：git和github教程 - https://www.youtube.com/watch?v=RGOj5yH7evk
+
+## 码农桃花源--2021-05-14
+### 文章分享
+1. [Go语言内存分配](https://mp.weixin.qq.com/s/Hm8egXrdFr5c4-v--VFOtg)
+
+2. [用100行Go代码实现容器](https://medium.com/@ssttehrani/containers-from-scratch-with-golang-5276576f9909)
+
+3. [图解kafka架构原理](https://mp.weixin.qq.com/s/4zH9kfuC6FYh4hYo0CLtTg)
+
+### 面试题
+1. 有了 GC，为什么还会发生内存泄露？
+
+2. kafka consumer是否可以消费指定分区消息？
+
+3. Kafka消息是采用Pull模式，还是Push模式？
+
+4. 什么时候用消息队列？怎么决定选 Kafka 还是 RocketMQ ？
+
+### 每日算法
+粉刷房子 https://leetcode-cn.com/problems/paint-house-iii/
+
+## go中文网每日资讯--2021-05-13 
+
+
+一、Go语言中文网
+
+1. [面试官：聊聊 defer 的工作原理。。。](https://mp.weixin.qq.com/s/oWlQU9c9z11CHdOwOMOHxA)
+
+2. [深度解密Go语言之基于信号的抢占式调度](https://mp.weixin.qq.com/s/xdhv24Lh-7smOT5ESw2dBw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-12)——跳出Go module的泥潭](https://mp.weixin.qq.com/s/Wgm33pXqt3i5NWUyZthllQ)
+
+三、董泽润的技术笔记
+
+1. [聊聊如何做技术分享](https://mp.weixin.qq.com/s/iRe1aGShDBeVhLhOSHwbMQ)
+
+四、polarisxu
+
+1. [Uber 使用 Go 的规模这么大？！都自己定制的 Go 编译器了](https://mp.weixin.qq.com/s/MO0WNlwecDVLx4QfWklamA)
+
+五、微服务实践
+
+1. [如何让消息队列达到最大吞吐量？](https://mp.weixin.qq.com/s/Y1qWYdzNs8EXCFu_DtBH9g)
+
+六、Go招聘
+
+1. [薪资比肩北上广，你会考虑回老家吗？急招哦](https://mp.weixin.qq.com/s/koCxSjX8tXMMY3Yn8c4KpA)
+
+七、mohuishou
+
+1. [7. kubebuilder 进阶: 测试](https://mp.weixin.qq.com/s/tcLIx3E0LyRkNhPO0U8zmg)
+
+八、薯条的自我修养
+
+1. [从0.5到1用golang上线一个web项目](https://mp.weixin.qq.com/s/ZqbDY3IjtH2s5_oeDvhQVQ)
+
+2. [从0到0.5用golang写一个web项目](https://mp.weixin.qq.com/s/XXLFwlmOUaD7a3hftYCd2A)
+ 
+
+> 来源: https://studygolang.com/go/godaily
+
+
+## GOCN每日新闻--2021-05-13 
+
+1.[译文 Go 的抢占式调度 ](https://gocn.vip/topics/12062)
+
+2.[深度解密 Go 语言之基于信号的抢占式调度 ](https://mp.weixin.qq.com/s/ESfbVoCGUIdpwFOfGyvz1w)
+
+3.[使用 Golang 的交叉编译 ](https://linux.cn/article-13385-1.html)
+
+4.[Go 无分支编码 ](https://mattnakama.com/blog/go-branchless-coding/)
+
+5.[Go 数组比切片好在哪？ ](https://mp.weixin.qq.com/s/zp1vdhGukEYKpzAdPt--Mw)
+
+> 来源：https://gocn.vip/topics/node18
+
+## gopherDaily--2021-05-13
+1.[minikube v1.20.0版本的一个bug ](https://t.zsxq.com/RbEufqr)
+
+
+2.[关于Go项目代码结构的思考 ](https://changelog.com/posts/on-go-application-structure)
+
+3.[使用Semgrep发现goroutine泄露](ttps://www.trailofbits.com/post/discovering-goroutine-leaks-with-semgrep)
+
+4.[Kubernetes的三个租户模型]( https://kubernetes.io/blog/2021/04/15/three-tenancy-models-for-kubernetes/)
+
+5.[经典旧文：对go测试的崇拜 ](https://danmux.com/posts/the_cult_of_go_test/)
+
+6.[Calico的可插拔式数据平面的重要性 ](https://thenewstack.io/the-importance-of-calicos-pluggable-data-plane/)
+
+7.[使用curl探索kubernetes](https://blog.tilt.dev/2021/03/18/kubernetes-is-so-simple.html) 
+
+8.[用eStargz加快在各种工具上pull容器镜像的速度 ](https://medium.com/nttlabs/lazy-pulling-estargz-ef35812d73de)
+
+9.[Kubernetes中AWS NLB超时的一个奇怪的案例 ](https://build.thebeat.co/a-curious-case-of-aws-nlb-timeouts-in-kubernetes-522bd88a3399)
+
+10.[为SQL数据库dolt构建fuzz testing](https://www.dolthub.com/blog/2021-05-12-dolt-and-fuzz-testing/) 
+
+11.[使用Go CDK(Cloud Development Kit )创建Elastic Kubernetes Service ](https://www.steveyackey.com/post/eks-cdk-go/)
+
+
+
+## 码农桃花源--2021-05-13
+### 文章分享
+1. [pause容器源码](https://mp.weixin.qq.com/s/2kkD6Dx40Ilu7HWpCe43hw)
+
+2. [MySQL 学习](https://mp.weixin.qq.com/s/sRFmW57KUY3yyyRkyw0L4A)
+
+3. [etcd 操作 boltdb 的优化实现](https://mp.weixin.qq.com/s/Cv1lagwtSkonQQes_0Sndw)
+
+### 面试题
+1. 负载均衡原理是什么
+
+2. LVS原理是什么
+
+3. 哪些排序算法是稳定的
+### 每日算法
+lc 1307 口算难题
+
+
 ## go中文网每日资讯--2021-05-12
 
 一、Go语言中文网
