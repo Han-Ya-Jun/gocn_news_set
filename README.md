@@ -6,7 +6,71 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-05-16
+一、Go语言中文网
 
+1. [单机内存内缓存怎么做？go-cache 了解下](https://mp.weixin.qq.com/s/LzfLySMPtbCO91q87UKRcQ)
+
+2. [Go语言爱好者周刊：第 95 期 — 自信点，这道题一定会](https://mp.weixin.qq.com/s/yBUlIhhGNSDUv7_J8Y0NmA)
+
+3. [从0写一个 Go Web 服务 (上)](https://mp.weixin.qq.com/s/vNUBJERfgmeV_qk_cdFoVQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-15)——服务注册中心和配置中心的选择](https://mp.weixin.qq.com/s/iRvT2ye1P_7JNnT6qQkE0Q)
+
+三、GoOfficialBlog
+
+1. [高性能 Go 代码工坊（Part7)](https://mp.weixin.qq.com/s/ptUH-9dvRlA558SNakIbFQ)
+
+四、k8s技术圈
+
+1. [使用 Loki 进行日志报警(二)](https://mp.weixin.qq.com/s/wO0w1f8ptZf4Rv1KQ6I1sw)
+
+五、网管叨bi叨
+
+1. [用Kubernetes搭建Etcd集群和WebUI](https://mp.weixin.qq.com/s/AkIvkW22dvqcdFXkiTpv8Q)
+
+六、吴亲强的深夜食堂
+
+1. [Leetcode:House Robber II](https://mp.weixin.qq.com/s/-mUMeklJdajaSxlpqJB0MA)
+
+七、幼麟实验室
+
+1. [深度探索Go语言（三）：动态派发](https://mp.weixin.qq.com/s/XLj_AKqETZy4cUBNiNZPBw)
+
+八、polarisxu
+
+1. [通过例子，让你彻底搞懂微服务的演化过程](https://mp.weixin.qq.com/s/wWBlrjUUn-tx0v7ZTkha1g)
+
+九、Go招聘
+
+1. [5月你好，第二股来喽](https://mp.weixin.qq.com/s/onnAaqM8GoaphEtZ-KHO6g)
+## GOCN每日新闻--2021-05-16 
+1.http.Client 的连接行为控制详解 https://mp.weixin.qq.com/s/2fAj_8vEQYLxddllqjsYFg
+
+2.unsafe.Pointer 和 uintptr 的区别和联系 https://mp.weixin.qq.com/s/l-ZQws4SH4QsvMhmJddiww
+
+3.Common anti-patterns in Go https://mp.weixin.qq.com/s/k-Use24-UCB3y_hV0tihVg
+
+4.详解 http.Handle 与 http.HandleFunc 区别 https://ckarchive.com/b/75u7h8h730p5
+
+5.i/o timeout ， 希望你不要踩到这个 net/http 包的坑 https://mp.weixin.qq.com/s/AKhRFKgs-I46Lnqhbk6Iog
+
+## gopherDaily--2021-05-16 
+- 1.当GOPATH与go module相遇时的混乱情况 - https://arxiv.org/pdf/2102.12105.pdf
+- 2.使用NATS作为http.RoundTripper的实现 - https://github.com/ripienaar/nats-roundtripper
+- 3.油管视频：用net包建立一个DIY代理 - https://www.youtube.com/watch?v=J4J-A9tcjcA
+- 4.使用Telepresence 2进行Kubernetes调试和本地开发 - https://codefresh.io/kubernetes-tutorial/telepresence-2-local-development/
+- 5.Kubernetes the Hard Way (azure版) - https://github.com/carlosonunez/kubernetes-the-hard-way-on-azure
+- 6.像top那样的容器度量数据采集工具 - https://github.com/bcicen/ctop
+- 7.UTF-8历史 by Rob Pike - http://doc.cat-v.org/bell_labs/utf-8_history
+- 8.10分钟内学会go - https://www.codingholygrail.com/learn-go-in-10-mins
+- 9.为Go项目逐步构建优化的Docker镜像 - https://www.codingholygrail.com/build-docker-image-for-golang-projects
+- 10.软件测试的角色 - https://blog.thundra.io/4-software-testing-roles
+- 11.在Rust中做不了的事情（以及该怎么做）- https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/
+
+ 
 ## go中文网每日资讯--2021-05-15 
 
 
