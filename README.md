@@ -6,6 +6,110 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-05-17
+
+
+一、Go语言中文网
+
+1. [也许是你从来没用过的利器：GODEBUG](https://mp.weixin.qq.com/s/lqOs34aMs7AYCxM_Jv0Hug)
+
+2. [从0开发上线一个web项目（下）](https://mp.weixin.qq.com/s/W5lHCgA_SzzyCoDaHDmz1Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-16)——高性能 Go 代码工坊（Part7)](https://mp.weixin.qq.com/s/RdrLC5r8mOCnWRjVqPi3-A)
+
+三、luozhiyun很酷
+
+1. [如何打造高性能的 Go 缓存库](https://mp.weixin.qq.com/s/G8LJ1HBuWoQfWV2dILi6Rg)
+
+四、Go夜读
+
+1. [【本周四预告】JetBrains GoLand 2021.1 新特性介绍](https://mp.weixin.qq.com/s/9DbBwdkBvECl11jSd-hbYw)
+
+五、奇伢云存储
+
+1. [用 Go struct 不能犯的一个低级错误！](https://mp.weixin.qq.com/s/EKbsUwLABjpadxPZ9AJGTg)
+
+六、Golang梦工厂
+
+1. [Go语言中new和make你使用哪个来分配内存？](https://mp.weixin.qq.com/s/XJ9O9O4KS3LbZL0jYnJHPg)
+
+七、k8s技术圈
+
+1. [同步secret和config到指定namespace](https://mp.weixin.qq.com/s/i1fI58MhbWnPx7RFftLXkg)
+
+八、微服务实践
+
+1. [缓存数据一致性 - 架构师峰会演讲实录](https://mp.weixin.qq.com/s/DhIv9RACxa5igJTYg4N1mA)
+
+九、mohuishou
+
+1. [9. kubebuilder 进阶: 源码分析](https://mp.weixin.qq.com/s/mlpNUwoqcNdT0kAowb_zrQ)
+
+十、Go招聘
+
+1. [咱Gopher好香啊，输入法、搜索Top行业招Gopher，还不快到碗里来？](https://mp.weixin.qq.com/s/HY4CpoPqXroMhJJ250quZQ)
+
+## GOCN每日新闻--2021-05-17
+1.如何管理多版本的 go   https://lakefs.io/managing-multiple-go-versions-with-go/
+
+2.一个 SQL 数据库只使用了 2000 行 golang 代码并且没有任何第三方依赖 https://github.com/auxten/go-sqldb
+
+3.使用 go 开发一个监控剪贴板的服务  https://www.reddit.com/r/golang/comments/ncsnj2/monitoring_clipboard_as_service_with_go/
+
+4. Gorm 复杂关系举例：  https://github.com/harranali/gorm-relationships-examples
+
+5.写了 500，000 行 go 代码之后  https://blog.khanacademy.org/half-a-million-lines-of-go
+
+6.* GopherChina 全部日程出炉 https://gc.gocn.vip
+
+
+
+## gopherDaily--2021-05-17
+1.Go http应用的错误处理 - https://www.joeshaw.org/error-handling-in-go-http-applications/
+
+2.使用 Open Telemetry为Go服务自动埋点 - https://varunksaini.com/auto-instrument-open-telemetry-go/
+
+3.关于（过早）优化的思考 - https://www.tnotes.dev/posts/thoughts-on-premature-optimization
+
+4.使用2000行go代码实现的sql关系数据库 - https://github.com/auxten/go-sqldb/blob/main/README-zh.md
+
+5.使用Go管理多个Go版本 - https://lakefs.io/managing-multiple-go-versions-with-go/
+
+6.Go算法基础 - https://yourbasic.org/algorithms/
+
+7.2021年最适合初学者学习的4种编程语言 - https://qvault.io/news/top-coding-languages-for-beginners/
+
+8.哪些公司使用了Go（按领域) - https://www.softkraft.co/companies-using-golang/
+
+9.面向云原生企业的统一事件驱动架构 - https://thenewstack.io/unified-event-driven-architecture-for-the-cloud-native-enterprise/
+
+10.Harbor仓库中锁定镜像避免误删的简便方法 - https://mp.weixin.qq.com/s/sj6Nj9etH-Z4B7GPjHOZng
+
+11.从几百个生产环境总结出的Redis性能问题排查解决手册 - https://mp.weixin.qq.com/s/WcY-h_vxXVca94Xnw0Wrgg
+
+## 码农桃花源--2021-05-17
+### 文章分享
+1. [MySQL一条语句的执行](https://www.yuque.com/u2278269/gq5x74/ubr2zr)
+
+2. [kafka知识导图](https://processon.com/view/5fff01bb6376897ae0b610ff#map)
+
+3. [go luki 日志报警](https://mp.weixin.qq.com/s/wO0w1f8ptZf4Rv1KQ6I1sw)
+
+### 面试题
+```sql
+select * from T where ID=10;
+```
+1. 简述这句话在MySQL的执行过程
+
+2. Mvcc和Redolog和Undolog以及Binlog有什么不同
+
+3. InnoDB的行锁模式
+
+### 每日算法
+盛最多水的容器
+
 ## go中文网每日资讯--2021-05-16
 一、Go语言中文网
 
