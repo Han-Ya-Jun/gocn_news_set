@@ -6,6 +6,107 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+
+## go中文网每日资讯--2021-05-18 😛
+
+
+一、Go语言中文网
+
+1. [写了50万行Go代码是一种什么样的体验？](https://mp.weixin.qq.com/s/pzoTAl8xA9sefI_Ckpv8PA)
+
+2. [国外似乎更喜欢几分钟学会系列：10分钟能学会 Go 吗？](https://mp.weixin.qq.com/s/ot7l6p_h5OEtpz-gDgwsyA)
+
+3. [用Kubernetes搭建Etcd集群和WebUI](https://mp.weixin.qq.com/s/NaU4N22vlQ2aIvxtwsYPfQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-17)——如何打造高性能的 Go 缓存库](https://mp.weixin.qq.com/s/FBRNkhODBia1TJBr4dwP3g)
+
+三、GoUpUp
+
+1. [你不知道的 Go 之 string](https://mp.weixin.qq.com/s/_R_2xJxSN8GRbgS-n3xApg)
+
+四、polarisxu
+
+1. [推荐一位高产的 Go 开源库作者](https://mp.weixin.qq.com/s/NlbUsovyqlIfnY9xQE-crA)
+
+五、k8s技术圈
+
+1. [Loki 查询语言 LogQL 使用](https://mp.weixin.qq.com/s/0dXT0fIreZk6_4ZL4S8lHg)
+
+六、Go招聘
+
+1. [Go缓冲系列之-free-cache](https://mp.weixin.qq.com/s/SwGTdFe9AgHPGqkDbZoUjQ)
+
+2. [券商公司招Gopher，不会炒股你觉得还有戏嘛？](https://mp.weixin.qq.com/s/MdBxyU7bfeuQzrUZS7YZzw)
+
+七、mohuishou
+
+1. [10. 总结](https://mp.weixin.qq.com/s/BJHTn2j2QiR5SgKErTiLzw)
+
+八、HHFCodeRv
+
+1. [Go sync.Pool 浅析](https://mp.weixin.qq.com/s/MTf_4WEvCnCMKeQC_Wm_xw)
+
+九、脑子进煎鱼了
+
+1. [一口气搞懂 Go sync.map 所有知识点](https://mp.weixin.qq.com/s/8aufz1IzElaYR43ccuwMyA)
+
+
+## GOCN每日新闻--2021-05-18
+
+1.强大的模糊测试工具 go-fuzz https://gocn.vip/topics/12075
+
+2.单机内存内缓存怎么做？go-cache 了解下 https://mp.weixin.qq.com/s/LzfLySMPtbCO91q87UKRcQ
+
+3.深度探索 Go 语言（三）：动态派发 https://mp.weixin.qq.com/s/XLj_AKqETZy4cUBNiNZPBw
+
+4.golang 日期与时间完全指南 https://qvault.io/golang/golang-date-time/
+
+5.GopherChina 全部议程和讲师出炉了  https://mp.weixin.qq.com/s/G_M4yw6VCTfF03b2L21ZGQ
+
+
+
+## gopherDaily--2021-05-18
+1.Go time和date操作完全指南 - https://qvault.io/golang/golang-date-time/
+
+2.Go原生对fuzzing test的支持在其开发分支已具备Beta测试条件 - https://go.googlesource.com/proposal/+/master/design/draft-fuzzing.md
+
+3.审校Learning Go - https://bitfieldconsulting.com/golang/jon-bodner-learning-go
+
+4.使用构建标志(build flag)以实现后向兼容 - https://play-with-go.dev/build-flags-backwards-compatibility_go115_en/
+
+5.用Repository模式实现数据库事务 - https://medium.com/wesionary-team/implement-database-transactions-with-repository-pattern-golang-gin-and-gorm-application-907517fd0743
+
+6.Go Crash Course：类型、转换和推理 - https://dev.to/moficodes/go-crash-course-part-4-types-conversion-and-inference-1np6
+
+7.kube-spawn：一个使用kubeadm和systemd-nspawn在Linux机器上创建多节点Kubernetes集群的工具 - https://github.com/kinvolk/kube-spawn
+
+8.Multus CNI能够将多个网络接口连接到Kubernetes中的pod - https://github.com/k8snetworkplumbingwg/multus-cni
+
+9.Linus Torvalds 谈为什么开源能解决最大的问题 - https://thenewstack.io/linus-torvalds-on-why-open-source-solves-the-biggest-problems/
+
+10.监控应用性能的安全边缘的技巧 - https://thenewstack.io/tips-for-monitoring-the-secure-edge-for-app-performance/
+
+## 码农桃花源--2021-05-18
+### 文章分享
+1. [事务隔离](https://www.yuque.com/u2278269/gq5x74/hmf9lc)
+
+2. [一次http请求经历了什么](https://maimai.cn/article/detail?fid=1605252795&efid=PETqhzTx3SaEyNnNtrEk9g&share_channel=2&use_rn=1)
+
+3. [go sync map](https://mp.weixin.qq.com/s/8aufz1IzElaYR43ccuwMyA)
+
+### 面试题
+1. 为什么读操作性能这么高，写操作性能低的可怕
+
+2. 一次 HTTP 请求到底经历了什么？
+
+3. 如何避免长事务的出现?
+### 每日算法
+三数之和
+
+
 ## go中文网每日资讯--2021-05-17
 
 
