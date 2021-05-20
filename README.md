@@ -6,9 +6,78 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-05-19
 
 
-## go中文网每日资讯--2021-05-18 😛
+一、Go语言中文网
+
+1. [小函数的调用开销需要考虑吗？Go 内联了解下](https://mp.weixin.qq.com/s/nW0Cye1G_A72fm7MuBAM1A)
+
+2. [LeetCode 啥题都有：Go 刷「打家劫舍」](https://mp.weixin.qq.com/s/IOC4uUXkT0QcgmguKPwehQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-18)——你不知道的 Go 之 string](https://mp.weixin.qq.com/s/6QlUlYwg06xBc572I0XznQ)
+
+三、董泽润的技术笔记
+
+1. [什么是好的一致性 hash 实现](https://mp.weixin.qq.com/s/5p--sMUfy4Kw7piw8heicA)
+
+四、polarisxu
+
+1. [盘点那些使用 Go 语言的国外公司](https://mp.weixin.qq.com/s/_3ef_wwuZG2BC9AHBjYGew)
+
+五、k8s技术圈
+
+1. [记一次 Kubernetes 节点内核问题排查](https://mp.weixin.qq.com/s/mDHXC98NU4_zBMUtuK6_HA)
+
+六、奇伢云存储
+
+1. [在Linux上，使用time优雅的统计程序运行时间](https://mp.weixin.qq.com/s/ugI6gXdRzgyFJOVvAKP41g)
+
+2. [深入理解mmap 0拷贝技术](https://mp.weixin.qq.com/s/ZmZdolLuZyiZOpiAzDqRlw)
+
+七、ServiceMesher
+
+1. [Istio 1.10 发布及官网改版](https://mp.weixin.qq.com/s/Lq6zF90FR-ohT9ON-88Z_Q)
+
+八、Go招聘
+
+1. [辣妹子、辣火锅、辣个工作，咱Gopher都值得拥有](https://mp.weixin.qq.com/s/wzb6YDt1BBw62X0MfTPOCg)
+
+## GOCN每日新闻--2021-05-19
+
+1.进程内缓存助你提高并发能力 https://gocn.vip/topics/12091
+
+2.Chaos Mesh® 在腾讯——腾讯互娱混沌工程实践 https://gocn.vip/topics/12092
+
+3.pprof++: 一个带有硬件监控的 Go Profiler https://mp.weixin.qq.com/s/-BSzD_wIEjHnHbs0xnsHXA
+
+4.graphjin: 基于数据库快速生成 GraphQL 服务器 https://github.com/dosco/graphjin
+
+5.Gmocker: 使用 JSON 文件生成 mock 服务器 https://github.com/Ananto30/mocker
+
+
+
+
+## gopherDaily--2021-05-19
+- 1.使用Viper和Consul来配置Go应用程序 - https://bencane.com/2021/05/18/using-viper-with-consul-to-configure-go-apps/
+- 2.利用Go进行游戏开发和运营 - https://technology.riotgames.com/news/leveraging-golang-game-development-and-operations
+- 3.油管视频：在Go中为Ethereum构建系统 - https://www.youtube.com/watch?v=oXgcPKhQy6w
+- 4.以太坊将于未来几个月完成向Proof-of-Stake的过渡，能耗将至少减少99.95% - https://blog.ethereum.org/2021/05/18/country-power-no-more/
+- 5.argocd的消息通知引擎 - https://github.com/argoproj-labs/argocd-notifications
+- 6.kubewarden: kubernetes policy引擎 - https://www.kubewarden.io/
+- 7.云原生远景：可观察性和分析 - https://thenewstack.io/the-cloud-native-landscape-observability-and-analysis/
+- 8.Envoy宣布支持Windows平台 - https://blog.envoyproxy.io/general-availability-of-envoy-on-windows-267e4544994a
+- 9.KOps增加了对Calico的eBPF数据平面的支持 - https://thenewstack.io/kops-adds-support-for-calicos-ebpf-dataplane/
+- 10.云部署模式：解释和比较5种主要模式 - https://launchdarkly.com/blog/cloud-deployment-models-explaining-and-comparing-the/
+- 11.构建和可视化你的第一个机器人：使用Duckiebot和Foxglove Studio开始学习机器人技术 - https://foxglove.dev/blog/building-and-visualizing-your-first-robot
+- 12.1Password支持linux - https://blog.1password.com/welcoming-linux-to-the-1password-family/
+- 13.为什么特性管理是软件交付的未来 - https://thenewstack.io/why-feature-management-is-the-future-of-software-delivery/
+
+
+
+## go中文网每日资讯--2021-05-18
 
 
 一、Go语言中文网
