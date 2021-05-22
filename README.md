@@ -7,6 +7,75 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-05-21
+一、Go语言中文网
+
+1. [94期Go周刊题解：做错了的一定看看 ](https://mp.weixin.qq.com/s/hFmwCc7fNzRLRZs9RCZ9cg)
+
+2. [你真的知道 Goroutine 是怎么来的吗？ ](https://mp.weixin.qq.com/s/edW9q7pKwRrYbI8uKxSMiQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-20)——初探 Golang 代码混淆 ](https://mp.weixin.qq.com/s/FaruKe5WwSKbo7crA4dFQg)
+
+三、k8s技术圈
+
+1. [kubernetes 实用技巧: 使用 ksniff 抓包 ](https://mp.weixin.qq.com/s/Z4zxadtE0gLSZ_aq00ov2Q)
+
+四、polarisxu
+
+1. [出 Rust 书了！！！ ](https://mp.weixin.qq.com/s/a0pwSZwPziD-JHnTi5KGiQ)
+
+五、互联网技术窝
+
+1. [细谈Go变量的内存分布](https://mp.weixin.qq.com/s/tL0-lg8KXJhROzC-N8Xhcg
+) 
+六、Go招聘
+
+1. [成都Gopher可真香，上班还能开黑打王者]( https://mp.weixin.qq.com/s/C06NmbVU0Mj5fYrmXMbIGw)
+
+
+## GOCN每日新闻--2021-05-21
+
+1.[golang 中的 AES 加密解密](https://youtu.be/Q2jsrhDS-JA)
+
+2.[Go 中实现的加密货币机器人](https://github.com/rodrigo-brito/ninjabot) 
+
+3.[Go 中同名的方法](https://youtu.be/UUVZb8ctSoU)
+
+4.[Go 实现的 JSON 类型检查工具]( https://github.com/Kangaroux/go-map-schema)
+
+5.[使用 Wails 在 Go 中构建桌面应用](https://youtu.be/Dg9rUXxNV-c)
+
+
+## gopherDaily--2021-05-21
+- 1.通过实例理解Go逃逸分析 - https://t.zsxq.com/qZrfYzn
+
+- 2.浅谈如何组织Go代码结构[译] - https://mp.weixin.qq.com/s/9_WQUpvHKli4btPqCA89Aw
+
+- 3.用NATS服务器v2.2.0+替换你的MQTT代理服务器 - https://nats.io/blog/replace-your-mqtt-broker-with-nats/
+
+- 4.为什么你要在2021年学习Go？ - https://invozone.com/blog/why-you-shoud-learn-golang-in-2021/
+
+- 5.油管视频：Prometheus是怎么存储数据的 - https://www.youtube.com/watch?v=qB40kqhTyYM
+
+- 6.gitpod使用caddy替换nginx - https://github.com/gitpod-io/gitpod/pull/3964
+
+- 7.一个go-ethereum的替代品 - https://github.com/binance-chain/bsc
+
+- 8.openshift中的镜像垃圾回收 - https://www.openshift.com/blog/image-garbage-collection-in-openshift
+
+- 9.改善你的Kubernetes授权：不要使用system:masters - https://blog.aquasec.com/kubernetes-authorization
+
+- 10.极端的HTTP性能优化：在4个vCPU的EC2实例上实现每秒120万API请求 - https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/
+
+- 11.基于Fyne Go UI框架的计算器 -  https://github.com/fyne-io/calculator
+
+- 12.使用signal.NotifyContext实现Go应用的优雅退出 - https://millhouse.dev/posts/graceful-shutdowns-in-golang-with-signal-notify-context
+
+
+
+
 
 ## go中文网每日资讯--2021-05-20
 
