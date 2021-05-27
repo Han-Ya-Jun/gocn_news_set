@@ -6,7 +6,154 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-05-26
 
+
+一、Go语言中文网
+
+1. [为什么Go程序占用那么大的虚拟内存？](https://mp.weixin.qq.com/s/tkAWtSJ4ebAUcQG9AmeXWA)
+
+2. [你不知道的 Go 之 string](https://mp.weixin.qq.com/s/6miIgsZN_Fh79Aixv5BlTg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-25)——Go 编码安全指南](https://mp.weixin.qq.com/s/9cu9R-7E1wqmCVg7O2hC8Q)
+
+三、脑子进煎鱼了
+
+1. [又吵起来了，Go 是传值还是传引用？](https://mp.weixin.qq.com/s/qsxvfiyZfRCtgTymO9LBZQ)
+
+2. [Go 编程怎么也有踩内存？](https://mp.weixin.qq.com/s/tXAP8_U63QLNj1h0ZMvXPw)
+
+四、云原生技术爱好者社区
+
+1. [kubectl debug | 调试Kubernetes的最简方法](https://mp.weixin.qq.com/s/8uN2MySGlgxTed5vwqfFlA)
+
+五、polarisxu
+
+1. [果然，连流程控制都这么另类](https://mp.weixin.qq.com/s/tO8CFBDZ2UsOonqARxOQUA)
+
+六、CloudNativeCommunity
+
+1. [带你走进云原生技术：云原生开放运维体系探索和实践](https://mp.weixin.qq.com/s/zasjqGBDjyeg91jVaa5Xwg)
+
+七、微服务实践
+
+1. [通用连接池帮你解决资源管理难题](https://mp.weixin.qq.com/s/X-xzEzlVrEKYo78eiHwDKw)
+
+八、Go 101
+
+1. [Go 1.17新特性](https://mp.weixin.qq.com/s/T14M_s5qOA6LKvWGgNa0Ow )
+
+九、吴亲强的深夜食堂
+
+1. [无限缓冲的channel(2)](https://mp.weixin.qq.com/s/wDrOBRaPqHx6g-Ir-Yx8kA)
+
+十、Go招聘
+
+1. [跟着Go圈女神一起管理时间](https://mp.weixin.qq.com/s/cbVh_dg0AqJRkeHMCZHGIQ)
+
+
+
+## GOCN每日新闻--2021-05-26
+
+1.如何运行并行功能测试 https://medium.com/fiverr-engineering/running-parallel-functional-tests-2f6609bfbf4e
+
+2.Go 中一些不曾注意的点 https://arash-cordi.medium.com/dark-corners-of-go-4e29aafcd4b9
+
+3.如何像专家一样编写 Golang 基准测试 https://hackernoon.com/how-to-write-benchmarks-in-golang-like-an-expert-0w1834gs
+
+4.详解 Go 空结构体的 3 种使用场景 https://mp.weixin.qq.com/s/zbYIdB0HlYwYSQRXFFpqSg
+
+5.Promtheus rules lint 工具 https://github.com/cloudflare/pint
+
+
+
+## gopherDaily--2021-05-26
+
+1.Go 1.17新特性 - https://mp.weixin.qq.com/s/T14M_s5qOA6LKvWGgNa0Ow
+
+2.详解Go语言的栈跟踪 - https://github.com/DataDog/go-profiler-notes/blob/main/stack-traces.md
+
+3.关于go结构体字段布局优化 - https://dev.to/deleplace/data-oriented-ant-in-go-3eki
+
+4.使用Go实现《Head First Design Patterns》中的设计模式 - https://faun.pub/head-first-design-patterns-using-go-introduction-d9f05a4c243a
+
+5.使用taildrop在终端间安全的发送文件 - https://tailscale.com/blog/sending-files-with-taildrop/
+
+6.Vanilla Kubernetes对Raspberry Pi来说真的太重了吗？ - https://www.talos-systems.com/blog/is-vanilla-kubernetes-really-too-heavy-for-the-raspberry-pi/
+
+7.使用Go, Gin, MySQL和Docker构建blog项目 - https://nizu.tech/go-blog-1
+
+8.20大Dockerfile最佳实践 - https://sysdig.com/blog/dockerfile-best-practices/
+
+9.在kubernetes上运行consul和vault - https://testdriven.io/blog/running-vault-and-consul-on-kubernetes/
+
+10.使用tekton构建云原生ci/cd - https://itnext.io/cloud-native-ci-cd-with-tekton-building-custom-tasks-663e63c1f4fb
+
+11.观点：是时候停止推荐clean code了 - https://qntm.org/clean
+
+12.关于编程语言的思考 - https://itnext.io/my-thoughts-about-programming-languages-43a8d23ead1f
+
+## 码农桃花源--2021-05-26
+## 文章分享
+1. [redis和IO多路复用](https://zhuanlan.zhihu.com/p/24252862)
+
+2. [mysql核心知识](https://zhuanlan.zhihu.com/p/363639169)
+
+## 面试题
+1、数据库的三范式是什么?
+
+2、DDL、DML、DCL、TCL分表代码什么含义？
+
+3、熟悉MySQL的整体架构吗？
+
+4、说说存储引擎 Inno DB和MyISAM的区别
+
+5、熟悉哪些日志文件？
+
+6、熟悉慢查询吗？
+
+7、MySQL优化手段有哪些？
+
+8、什么是事务？
+
+9、事务的四大特性是什么？
+
+10、说说Mysql的四种隔离级别
+
+11、MySQL默认隔离级别是哪个？
+
+12、知道MySQL中哪些锁？
+
+13、并发读写容易带来什么问题？
+
+14、说说你对MySQL中MVCC的认识
+
+16、是如何解决幻读的？
+
+17、MySQL索引数据结构有哪几种？
+
+18、有哪些类型的索引呢？
+
+19、Hash和BTree作为MySQL索引，说说你对此有什么想法？
+
+20、索引优化有哪些方式？
+
+21、哪些场景建议创建索引？
+
+22、哪些场景不建议使用索引？
+
+23、用过explain吗？怎么用的？
+
+24、熟悉MySQL锁优化吗？
+
+25、熟悉哪些MySQL调优策略？
+
+26、索引是什么？
+
+### 每日算法
+算法：「两数相加」：https://leetcode-cn.com/problems/add-two-numbers/
 
 ## go中文网每日资讯--2021-05-25
 
