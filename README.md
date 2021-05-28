@@ -6,6 +6,82 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+## go中文网每日资讯--2021-05-27
+
+一、Go语言中文网
+
+1. [如何让 Go 的缓存库 BigCache 更好用？](https://mp.weixin.qq.com/s/Zn1rP18GtmZsbaRnRfJ8ug)
+
+2. [在 Go 语言中，有时 nil 并不是一个 nil](https://mp.weixin.qq.com/s/_REGCKxs0ymIdZXN5a6Tgg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-26)——Go 1.17新特性](https://mp.weixin.qq.com/s/ot_48XSupyyZwfhXaz1vNA)
+
+三、k8s技术圈
+
+1. [AWS 容器服务的安全实践](https://mp.weixin.qq.com/s/GYMXc4HXBGOGgA_7mdenhA)
+
+2. [骚操作，这款工具可以把Kubernetes集群打包成一个镜像](https://mp.weixin.qq.com/s/ssZSMqogjP6CTOKOOR2e5Q)
+
+四、云加社区
+
+1. [总结 Kafka 背后的优秀设计](https://mp.weixin.qq.com/s/dfOP2MeBOqFqg_BdcJCYug)
+
+五、董泽润的技术笔记
+
+1. [硬核！如何在容器中做时间漫游者](https://mp.weixin.qq.com/s/PtYKA-lviJO6A2sXfEaNWA)
+
+六、码农桃花源
+
+1. [曹大带我学 Go（3）—— 如何用汇编打同事的脸](https://mp.weixin.qq.com/s/2Y3qPkysRLaWDcIyLOerZg)
+
+七、Go招聘
+
+1. [华顺信安招Gopher](https://mp.weixin.qq.com/s/xQoEj43nRNkW_g4caLs3XA)
+
+八、mohuishou
+
+1. [Go可用性(七) 总结: 一张图串联可用性知识点](https://mp.weixin.qq.com/s/OXopl6FpwtE6P-k0GEP9qA)
+
+
+## GOCN每日新闻--2021-05-27
+
+1.Go 基准测试 https://gocn.vip/topics/12126
+
+2.Go 指针 https://sher-chowdhury.medium.com/pointers-in-go-507ec33446b0
+
+3.Go 自定义 http 错误 https://dev.to/clavinjune/my-custom-http-error-in-golang-5ab
+
+4.Go 语言 JSON 使用技巧 https://www.liwenzhou.com/posts/Go/json_tricks_in_go
+
+5.Go 简单快速模板引擎 https://github.com/valyala/fasttemplate
+
+
+## gopherDaily--2021-05-27
+1.Go 1.18加入泛型后的Go函数式编程的未来 - https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/
+
+2.Go团队如何解bug[1]: 乱序执行与内存屏障 - https://mzh.io/how-go-core-team-debug-1-memory-model/
+
+3.提案：将Go移植到中科龙芯指令架构 - https://github.com/golang/go/issues/46229
+
+4.实验性Go重构工具rf - https://pkg.go.dev/rsc.io/rf
+
+5.成为Kubernetes专家的47件事 - https://ymmt2005.hatenablog.com/entry/k8s-things
+
+6.Go自动化测试介绍 - https://dev.to/salesforceeng/intro-to-automated-testing-in-go-4mjl
+
+7.油管视频：Go 还是 Rust，看Go专家与Rust专家的圆桌辩论 - https://www.youtube.com/watch?v=N-E-qtQhsHw
+
+8.欧洲电信巨头优先选择基于Kubernetes的开放云平台 - https://thenewstack.io/european-telecom-giants-prioritize-a-kubernetes-based-open-cloud-platform/
+
+9.5分钟内从零到入门Kubernetes - https://dev.to/ahmednader10/zero-to-kubernetes-in-5-mins-2hbp
+
+10.用这4个最佳实践提高你的CI/CD可观察性 - https://thenewstack.io/improve-your-ci-cd-observability-with-these-4-best-practices/
+
+
+
 ## go中文网每日资讯--2021-05-26
 
 
@@ -94,6 +170,9 @@
 11.观点：是时候停止推荐clean code了 - https://qntm.org/clean
 
 12.关于编程语言的思考 - https://itnext.io/my-thoughts-about-programming-languages-43a8d23ead1f
+
+
+
 
 ## 码农桃花源--2021-05-26
 ## 文章分享
