@@ -7,6 +7,104 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+
+
+## go中文网每日资讯--2021-05-28
+
+一、Go语言中文网
+
+1. [Go：近期两个开源免费好资源](https://mp.weixin.qq.com/s/wXrIztN5MXsNvBKg2LR3hA)
+
+2. [再次探讨 Go 的无限缓冲的channel](https://mp.weixin.qq.com/s/wZNLOywbQWdju_-7TN_48Q)
+
+3. [读者问答：Go 编程怎么也有内存问题？](https://mp.weixin.qq.com/s/51xEfULa1cWaltkTkg1cUA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-27)——Go可用性(七) 总结](https://mp.weixin.qq.com/s/rWD5H4JHVLcka0Xl7z1jOw)
+
+三、Go招聘
+
+1. [validator库你知多少？govalidator了解一下](https://mp.weixin.qq.com/s/FnvvREHWeN1UdRliFjxQ9A)
+
+2. [睡前故事|用Bitmap与AST做一个配置化时长系统](https://mp.weixin.qq.com/s/th5HgpibwZkRlj1EzxmMTw)
+
+四、Go夜读
+
+1. [理论结合实践详解 B+ 树存储引擎（PPT）（多图）](https://mp.weixin.qq.com/s/aSNdEkNdeCAC7O6b3coo-A)
+
+五、奇伢云存储
+
+1. [图解 | epoll怎么实现的](https://mp.weixin.qq.com/s/XW561JURm5zxsXHnD1lV6A)
+
+六、薯条的自我修养
+
+1. [硬核！如何在容器中做时间漫游者](https://mp.weixin.qq.com/s/dTVwpi60_URx1P9c1OPEug)
+
+七、k8s技术圈
+
+1. [Pod Terminating 状态排查](https://mp.weixin.qq.com/s/IattDivoyFSWCq26IV457g)
+
+八、杨旭技术专栏
+
+1. [Go 简单分布式系统 3.1 业务服务（1）](https://mp.weixin.qq.com/s/GzoMpMIUWtM2qNFp5xNiWQ)
+
+
+## GOCN每日新闻--2021-05-28
+1.NSQ 如何实现文件队列 https://reposkeeper.net/2020/11/nsq-disk-queue-implement.html
+
+2.Go sync.Pool 浅析 https://blog.csdn.net/haohongfan/article/details/116978613
+
+3.Golang 指针和 C++ 指针的简单剖析 https://juejin.cn/post/6967315069310861319
+
+4.在 Go 中使用位掩码 https://www.ardanlabs.com/blog/2021/04/using-bitmasks-in-go.html
+
+5.Go 中的垃圾收集 https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html
+
+
+## gopherDaily--2021-05-27
+1.鹅厂的Go编码安全指南 - https://github.com/Tencent/secguide/blob/main/Go%E5%AE%89%E5%85%A8%E6%8C%87%E5%8D%97.md
+
+2.OpenTelemetry Go应用入门 - https://speakerdeck.com/riferrei/opentelemetry-for-dummies-instrumenting-go-apps
+
+3.使用Go进行benchmark测试 - https://stonecode.ca/benchmarking-with-go/
+
+4.使用Go语言进行位操作 - https://www.ardanlabs.com/blog/2021/04/using-bitmasks-in-go.html
+
+5.基于eBPF的网络开源项目Cilium发布1.10 - https://cilium.io/blog/2021/05/20/cilium-110
+
+6.Linkerd和Istio的性能对比(2021版) - https://linkerd.io/2021/05/27/linkerd-vs-istio-benchmarks/
+
+7.使用Fio来判断你的存储是否足够快，以满足Etcd的需要 - https://www.ibm.com/cloud/blog/using-fio-to-tell-whether-your-storage-is-fast-enough-for-etcd
+
+8.Kubernetes API的优先级和公平性 - https://itnext.io/kubernetes-api-priority-and-fairness-b1ef2b8a26a2
+
+9.用于替代TCP的QUIC协议被IETF确定为RFC9000 - https://www.fastly.com/blog/quic-is-now-rfc-9000
+
+10.云的成本，一万亿美元的悖论 - https://a16z.com/2021/05/27/cost-of-cloud-paradox-market-cap-cloud-lifecycle-scale-growth-repatriation-optimization/
+
+## 码农桃花源--2021-05-28
+### 文章分享
+1. [分布式事务的实现原理](https://draveness.me/distributed-transaction-principle/)
+
+2. [facebook全球用户流量管理系统](https://draveness.me/papers-taiji/)
+
+3. [goroutine调度机制概览](https://zhuanlan.zhihu.com/p/244054940?utm_source=wechat_session&utm_medium=social&utm_oi=1034363224250163200&utm_campaign=shareopn)
+
+### 面试题
+1. 说说半连接队列和 SYN Flood 攻击的关系
+
+2. 介绍一下 TCP 报文头部的字段
+
+3. Go Runtime什么时候从堆和从栈分配内存呢
+
+4. 简要介绍go运行时分配内存的策略。
+### 每日算法
+ lc 1632 矩阵转换后的秩
+
+
+
 ## go中文网每日资讯--2021-05-27
 
 一、Go语言中文网
