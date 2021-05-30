@@ -7,8 +7,72 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-05-29
 
 
+一、Go语言中文网
+
+1. [国外竟然有这么多公司使用 Go](https://mp.weixin.qq.com/s/fKXIBfxvk1wgZMujuz9hWA)
+
+2. [Go 中如何让消息队列达到最大吞吐量？](https://mp.weixin.qq.com/s/K9qZVNP4AKsHNcrDyZq_eA)
+
+3. [Go 每日一库之 gotalk](https://mp.weixin.qq.com/s/VnpQilljVokGssECVyFjWw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-28)——validator库你知多少？](https://mp.weixin.qq.com/s/raQG5PZkxtOu9Qg2P_KO0w)
+
+三、k8s技术圈
+
+1. [Istio 完败？Linkerd 和 Istio 基准测试](https://mp.weixin.qq.com/s/7A7eXQONpiNdCrfwt1HfhQ)
+
+四、分布式实验室
+
+1. [9 种开源的服务网格比较](https://mp.weixin.qq.com/s/3XwKE1pLgMkiH7xuQix25w)
+
+五、aoho求索
+
+1. [如何在 Go-kit 和 Service Mesh 中进行服务注册与发现？](https://mp.weixin.qq.com/s/TZoq5CRQ_QIYTG4W_cU4dg)
+
+六、Go招聘
+
+1. [这可能是最容易理解的 Go Mutex 源码剖析](https://mp.weixin.qq.com/s/XUOQqQ-CRPJ9oxpharxPuQ)
+
+
+## GOCN每日新闻--2021-05-29
+1.dubbo-go v3 版本 go module 踩坑记 https://gocn.vip/topics/12136
+
+2.Go 高性能系列教程：读懂 pprof 生成的报告 https://gocn.vip/topics/12134
+
+3.K8s 工作负载图表工具 https://github.com/Trois-Six/k8s-diagrams
+
+4.灵活的 Go http client 库-Sling https://mp.weixin.qq.com/s/liCnGt0-me4cv-1WAJSSBQ
+
+5.go web client 单元测试实践 chttps://dev.to/chen/practical-unit-testing-web-client-in-go-1o2m
+
+
+## gopherDaily--2021-05-28
+1.为什么Go引入泛型后不会改变Go惯用法？- http://www.jerf.org/iri/post/2955
+
+2.GoLand 2021.2开发计划 - https://blog.jetbrains.com/go/2021/05/28/goland-2021-2-early-access-program-is-open/
+
+3.使用cobra和go实现shell命令补全 - https://jmtirado.net/shell-completion-with-cobra-and-go/
+
+4.dubbo-go v3版本go module踩坑记 - https://mp.weixin.qq.com/s/NFwL7YAtzkSsqZi8AYA6tw
+
+5.如何像专家那样写benchmark测试 - https://hackernoon.com/how-to-write-benchmarks-in-golang-like-an-expert-0w1834gs
+
+6.Go hosts文件操作包 - https://github.com/areYouLazy/libhosty
+
+7.Go实现的磁盘分析工具 - https://github.com/dundee/gdu
+
+8.如何在EKS上安装Cilium - https://miles-seth.medium.com/eks-unchained-with-ebpf-and-bottlerocket-1639b011a36a
+
+9.https://ongres.com/blog/63-node-eks-cluster-running-on-a-single-instance-with-firecracker/
+
+10.Kubernetes集群压力测试工具 - https://github.com/cloud-bulldozer/kube-burner
+
+11.不可变数据库immudb发布v1.0版本 - https://www.codenotary.com/blog/immudb-release-1-0/
 
 ## go中文网每日资讯--2021-05-28
 
