@@ -7,6 +7,79 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-05-30
+一、Go语言中文网
+
+1. [发现了众多 Go 好书](https://mp.weixin.qq.com/s/x6h8xpbn9kuV2wlk-wtULA)
+
+2. [Go语言爱好者周刊：第 97 期](https://mp.weixin.qq.com/s/6kXbi8OyubJv6opOomb4zg)
+
+3. [Go小知识：%v %+v %#v的区别](https://mp.weixin.qq.com/s/g4qgn1b_LvpvMqRZD-k8LA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-29)——读懂 pprof 生成的报告](https://mp.weixin.qq.com/s/OmUrwjFiQ99DJFaFgRfi4Q)
+
+三、k8s技术圈
+
+1. [优化 Kubernetes 横向扩缩容 HPA](https://mp.weixin.qq.com/s/x_yID1QFt8vV7ioy_o5LlA)
+
+四、后端技术指南针
+
+1. [Go语言内存逃逸之谜](https://mp.weixin.qq.com/s/zm5rp4DkgrWIduZAMhzNzA)
+
+五、奇伢云存储
+
+1. [图解 数据安全的3 种 IO 姿势](https://mp.weixin.qq.com/s/a-SQgKzVYVmJ-qWUXy7c8A)
+
+六、网管叨bi叨
+
+1. [在容器里设置GOMAXPROCS的正确姿势](https://mp.weixin.qq.com/s/kbZsJncgVZv30_TwVrLyLQ)
+
+七、一手代码一首诗
+
+1. [深挖Map的读写性能](https://mp.weixin.qq.com/s/quNpj1MQQwWCKeEENGinUg)
+
+八、TechPaper
+
+1. [消息队列解耦是骗小孩儿的](https://mp.weixin.qq.com/s/O0KGm3nVUSWMSKwHlPiJpg)
+
+九、Go招聘
+
+1. [五月最后1股—MySQL 是怎么实现 ACID 的](https://mp.weixin.qq.com/s/YUSbm0T6si-EqK2-wNLh8g)
+
+十、polarisxu
+
+1. [Go1.17这个新特性竟然是6年前提出来的](https://mp.weixin.qq.com/s/8Ju2-daS0s-esDAezP-lZw)
+
+## GOCN每日新闻--2021-05-30
+
+1.Go 高性能系列教程之二：性能评估和分析 https://gocn.vip/topics/12133
+
+2.深度理解 golang map https://juejin.cn/post/6967274139065253902
+
+3.sync.Pool 原理解析 https://juejin.cn/post/6965421491588431909
+
+4.Kratos 学习笔记 - 通过 layout 简单分析应用是如何跑起来的 https://juejin.cn/post/6967941646138736653
+
+5.来瞧一瞧 gRPC 的拦截器 https://segmentfault.com/a/1190000040087672
+
+
+
+## gopherDaily--2021-05-30
+- 1.Go性能剖析工具速查表 - https://steveazz.xyz/blog/go-performance-tools-cheat-sheet/
+ - 2.sealer：阿里开源的分布式应用打包交付运行的解决方案，可以把分布式应用及其数据库中间件等依赖一起打包发布 - https://github.com/alibaba/sealer
+ - 3.基于Go控制器的组件框架和热重载插件系统 - https://github.com/aperturerobotics/controllerbus
+ - 4.自动化的服务健康仪表板 - https://github.com/TwinProduction/gatus
+ - 5.CNCF的制品库hub - https://github.com/artifacthub/hub
+ - 6.Linux之父：我们不会用Rust取代C语言开发内核 - https://mp.weixin.qq.com/s/mVo3S_F0RoxCToawrTCnlA
+ - 7.基于KubeEdge实现中国移动10086客服云边协同平台 - https://mp.weixin.qq.com/s/pn0UEL2LFUN63__RVgHBLw
+ - 8.面向Kubernetes的红帽高级集群安全简介 - https://www.openshift.com/blog/a-brief-introduction-to-red-hat-advanced-cluster-security-for-kubernetes
+ - 9.阿里基于PostgreSQL开源的PolarDB - https://github.com/alibaba/PolarDB-for-PostgreSQL
+ - 10.奈飞性能架构师Brendan Gregg搬去澳大利亚 - http://www.brendangregg.com/blog/2021-05-29/moving-to-australia.html
+
+
 ## go中文网每日资讯--2021-05-29
 
 
