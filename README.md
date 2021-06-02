@@ -7,6 +7,113 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-06-01
+
+
+一、Go语言中文网
+
+1. [推荐一本免费的 Go 新书：用 Go 讲架构的书](https://mp.weixin.qq.com/s/SoqxlvEOyV6EtjKTWGEyxw)
+
+2. [Go 每日一库之 fasttemplate](https://mp.weixin.qq.com/s/_ZIB3H1kJwb8s53lIQ-7Sw)
+
+3. [在容器里设置GOMAXPROCS的正确姿势](https://mp.weixin.qq.com/s/jVyKb_3YS9ETX4JmIuhWJA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-05-31)——GM到GMP，Golang经历了什么？](https://mp.weixin.qq.com/s/C8div9JeTabqgp9dzVDe8w)
+
+三、微服务实践
+
+1. [自适应微服务治理背后的算法](https://mp.weixin.qq.com/s/OpF4JVWHA9W1v0yefeo56w)
+
+四、k8s技术圈
+
+1. [用 Rust 编写的 Git 极速终端 UI](https://mp.weixin.qq.com/s/NlVq30gs6qcdg3CQBS8-IA)
+
+五、新亮笔记
+
+1. [优雅地处理错误真是一门学问啊！](https://mp.weixin.qq.com/s/W_LsZtnjGIKQ-LB6EkRgBA)
+
+六、GoUpUp
+
+1. [Go 每日一库之 reflect](https://mp.weixin.qq.com/s/KoHYoQ0q9qVjOWLPAIWaAA)
+
+七、Go招聘
+
+1. [kubernetes面试相关总结(上)](https://mp.weixin.qq.com/s/33cKjVFf7pERyRHQtDwXoQ)
+
+2. [百度健康急招Gopher](https://mp.weixin.qq.com/s/5zyEHVz258IgnIpjOfFADQ)
+
+八、polarisxu
+
+1. [Go1.16 中的新函数 signal.NotifyContext 怎么用？](https://mp.weixin.qq.com/s/mnR_wADjyHtyjdkSwcnkSw)
+
+九、CloudNativeCommunity
+
+1. [蚂蚁开源 OceanBase，开源分布式数据库又迎新玩家](https://mp.weixin.qq.com/s/iDBpa3w2iP8XUr9fb-QWoA)
+
+十、码农桃花源
+
+1. [曹大带我学 Go（4）—— 初识 ast 的威力](https://mp.weixin.qq.com/s/K_iyVFOqg0_2wWmkvXgD8Q)
+
+##  GOCN每日新闻--2021-06-01
+
+1.Go 高性能系列教程之三：编译器优化 https://gocn.vip/topics/12144
+
+2.理解 Golang 中函数调用的原理 https://blog.51cto.com/u_15127695/2829851
+
+3.Go 微服务全链路跟踪详解 https://mp.weixin.qq.com/s/C6OtNYtskdPpfw-HsP76vQ
+
+4.自适应微服务治理背后的算法 https://mp.weixin.qq.com/s/OpF4JVWHA9W1v0yefeo56w
+
+5.消息队列解耦是骗小孩儿的 https://mp.weixin.qq.com/s/O0KGm3nVUSWMSKwHlPiJpg
+
+## gopherDaily--2021-06-01
+1.go channel惯用法 - https://blog.kevinhu.me/2021/05/31/31-go-channel-examples/
+
+2.经典旧文：k8s pod的request和limit的正确设置方法 - https://learnk8s.io/setting-cpu-memory-limits-requests
+
+3.用Go实现一个并发文件下载工具 - https://returnfn.com/lets-build-a-concurrent-file-downloader-in-go
+
+4.Go并发API模式 - https://tech.deliveryhero.com/concurrent-api-patterns-in-go/
+
+5.使用Go生成你自己的O’RLY动物书封面 - https://github.com/nanmu42/orly
+
+6.使用Go实现一个简单但强大的反向代理 - https://blog.joshsoftware.com/2021/05/25/simple-and-powerful-reverseproxy-in-go/
+
+7.使用falco分析k3s集群的审计日志 - https://github.com/developer-guy/falco-analyze-audit-log-from-k3s-cluster
+
+8.docker live视频：利用Cue和Buildkit重新思考应用交付问题 - https://docker.events.cube365.net/dockercon-live/2021/content/Videos/TamRA3F2zT8fycvq5
+
+9.阿里的Oceanbase开源 - https://github.com/oceanbase/oceanbase
+
+10.开源社区需要更多的安全空间和行为准则 - https://thenewstack.io/open-source-communities-need-more-safe-spaces-and-codes-of-conducts-now/
+
+
+## 码农桃花源--2021-06-01
+### 文章分享
+1. [高性能的goroutine池](https://www.yuque.com/u2278269/gq5x74/puzrkf)
+
+2. [流？I/O操作？阻塞？epoll?](https://www.kancloud.cn/aceld/golang/1958320)
+
+3. [曹大带你看ast](https://mp.weixin.qq.com/s/K_iyVFOqg0_2wWmkvXgD8Q)
+
+4. [最常用的调试 golang 的 bug以及性能问题的实践方法](https://www.kancloud.cn/aceld/golang/1958304)
+
+### 面试题
+1. 解决阻塞死等待的办法
+
+
+2. 如何分析golang程序的内存使用情况？
+
+3. 如何分析Golang程序的CPU性能情况
+
+### 每日算法
+「
+最长回文子串」：https://leetcode-cn.com/problems/longest-palindromic-substring/
+
+
+
 ## go中文网每日资讯--2021-05-31
 
 
