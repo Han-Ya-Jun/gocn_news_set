@@ -7,6 +7,104 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-06-02
+
+一、Go语言中文网
+
+1. [Go避坑指南：这些错误你犯过吗？](https://mp.weixin.qq.com/s/UPvMC-JD5qpE0_4MdczwwA)
+
+2. [LeetCode 啥题都有：Go 刷「打家劫舍」二](https://mp.weixin.qq.com/s/X8AYwdWJa90vRZX_PDFfqA)
+
+3. [Go基础：利用反射来修改变量的值](https://mp.weixin.qq.com/s/1bMNJmfLbjOgBGjofyBiJg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-01)—— 初识 ast 的威力](https://mp.weixin.qq.com/s/-qJ3_H-mi6BoRpKX-7erFA)
+
+三、脑子进煎鱼了
+
+1. [Go 开发要了解的 1 个内存模型细节](https://mp.weixin.qq.com/s/zwY0FaTZZuj4tTuvWubOww)
+
+2. [Go 并发编程 — 深入浅出 sync.Pool](https://mp.weixin.qq.com/s/1hLgu2XBBJkLzvI6pOR80g)
+
+四、k8s技术圈
+
+1. [使用 Flux+Flagger+Istio+Kubernetes 实战 GitOps 云原生渐进式(金丝雀)交付](https://mp.weixin.qq.com/s/1NrYXTvN5G8L1xdP4lVGtQ)
+
+五、幼麟实验室
+
+1. [【Golang】T和*T的方法集是啥关系？](https://mp.weixin.qq.com/s/wq6O4dyYC9dwzyUzNLkybg)
+
+六、polarisxu
+
+1. [牛逼，一位年轻有为的 Go 大佬！](https://mp.weixin.qq.com/s/RU7lPhQ8YceQ6BCNzpfZ3g)
+
+七、腾讯云原生
+
+1. [揭秘有状态服务上  Kubernetes 的核心技术](https://mp.weixin.qq.com/s/TvZZVow5H9HwMrNBLLoSsQ)
+
+八、Go夜读
+
+1. [MySQL：好好的索引，为什么要下推？](https://mp.weixin.qq.com/s/i2CWsDi8pqISGbwdn9Wm3g)
+
+
+
+## GOCN每日新闻--2021-06-02
+
+1.OpenKruise v0.9.0 版本发布：新增 Pod 重启、删除防护等重磅功能 https://gocn.vip/topics/12146
+
+2.Go 正则表达式库之 commonregex https://gocn.vip/topics/12143
+
+3.使用 httputil 反向代理在单个端口上托管 gRPC REST 和 HTML https://medium.com/james-reads-public-cloud-technology-blog/using-a-httputil-reverse-proxy-to-host-grpc-rest-html-on-a-single-port-9d3f629762b7
+
+4.Go 泛型在函数式编程中的应用 https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/
+
+5.从数据库创建 gRPC 服务器 https://github.com/walterwanderley/xo-grpc
+
+## gopherDaily--2021-06-02
+- 1.如何在Golang中正确地使用defer - https://qvault.io/golang/defer-golang/
+
+- 2.tstorage: go实现的时序数据库 - https://github.com/nakabonne/tstorage
+
+- 3.easegress: 全能型流量编排系统 - https://github.com/megaease/easegress
+
+- 4.Go函数作为“一等公民”的基础 - https://dev.to/andyhaskell/basics-of-first-class-functions-in-go-d5p
+ 
+- 5.calico网络插件集成WireGuard - https://thenewstack.io/calico-integration-with-wireguard-using-kops/
+
+- 6.kubernetes vs. openshift，你应该知道的事情 - https://faun.dev/c/stories/qudems/kubernetes-vs-openshift-this-is-what-you-need-to-know/
+
+- 7.Kubernetes: 选择最佳的自动伸缩策略 - https://learnk8s.io/kubernetes-autoscaling-strategies
+ 
+- 8.将redhat Keycloak打包到Distroless镜像中再部署在k8s上 - https://dev.to/stack-labs/keycloak-on-distroless-into-kubernetes-f5g
+
+- 9.破坏和修复Kubernetes - https://itnext.io/breaking-down-and-fixing-kubernetes-4df2f22f87c3
+
+- 10.DevOps网站如何打击加密货币矿工 - https://thenewstack.io/how-devops-sites-are-battling-cryptocurrency-miners/
+
+## 码农桃花源--2021-06-02
+### 文章分享
+1. [mysql 面试题](https://mp.weixin.qq.com/s?__biz=MzkzNTEwOTAxMA==&mid=2247484479&idx=1&sn=97358231f0f7086f0056fc5bb4e8afff&chksm=c2b24cc2f5c5c5d4935a4a0c0c8adb912a08e3aa7d7ac06f62dad5826e4093b732e4e3ff73b4&scene=178&cur_album_id=1512519209967271939#rd)
+
+2. [MySQL中binlog和redo log的一致性问题](https://blog.csdn.net/huangjw_806/article/details/100927097)
+
+3. [泽润大佬聊聊并发安全](https://mp.weixin.qq.com/s/8qXfm0UqK4R1tJyK0_zYQg)
+
+### 面试题
+1. 什么是间隙锁
+
+2. MySQL是怎么做到binlog和redo log的一致性的呢？
+
+3.  MySQL 自增主键什么情况下顺序会出现断裂？
+
+### 每日算法
+
+「N叉树的后序遍历」：https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/
+
+
+
+
 ## go中文网每日资讯--2021-06-01
 
 
