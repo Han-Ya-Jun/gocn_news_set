@@ -7,6 +7,153 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-06-04
+
+
+一、Go语言中文网
+
+1. [Go1.16.5 发布](https://mp.weixin.qq.com/s/-dYlKTEWuGTqIQYKQ3sETQ)
+
+2. [用 cgo 生成用于 cgo 的 C 兼容的结构体](https://mp.weixin.qq.com/s/bqUPN6wwua4x2_FOwyzkYg)
+
+3. [详解并发编程之sync.Once的实现(附上三道面试题)](https://mp.weixin.qq.com/s/S4xnlFgnU0kM3h1gOv774g)
+
+二、脑子进煎鱼了
+
+1. [一道 Go 闭包题，面试官说原来自己答错了：面别人也涨知识](https://mp.weixin.qq.com/s/OLgsdhXGEMltmjcpTW2ICw)
+
+三、董泽润的技术笔记
+
+1. [你真的了解 timeout 嘛？](https://mp.weixin.qq.com/s/GihBqN5m0vGxxvFdHWRc7Q)
+
+2. [格步科技招聘](https://mp.weixin.qq.com/s/h_EvR33U3c0bRQCIkkr7xQ)
+
+四、GoUpUp
+
+1. [Go 每日一库之 ants](https://mp.weixin.qq.com/s/ysG0q9LIYgWHIoY_LK-W9A)
+
+五、polarisxu
+
+1. [被黑惨了：一句话，说明自己会 Go，咋整？](https://mp.weixin.qq.com/s/igB7Zl-InaWdDCAX7OdVWQ)
+
+六、Go招聘
+
+1. [详解 Go 空结构体的 3 种使用场景](https://mp.weixin.qq.com/s/8NJLe_11uvu22HfDjKqKjQ)
+
+2. [小博居然被表白](https://mp.weixin.qq.com/s/Vc0QBmFVh5ct6ttTMqc-_w)
+
+七、taowen
+
+1. [噢，你的代码像一坨翔。然后呢？](https://mp.weixin.qq.com/s/mHDY9RbTAjsArqX3S5jxNw)
+
+八、吴亲强的深夜食堂
+
+1. [i/o timeout ， 希望你不要踩到这个net/http包的坑](https://mp.weixin.qq.com/s/Isjv1fTYd0m8yrjONINsWw)
+ 
+ 
+## GOCN每日新闻--2021-06-04
+1.Go 1.16.5 和 Go 1.15.13 发布 https://groups.google.com/g/golang-announce/c/RgCMkAEQjSI/m/r_EP-NlKBgAJ
+
+2.自动测试工具 Fuzzing 发布 beta  https://blog.golang.org/fuzz-beta
+
+3.OpenYurt v0.4.0 新特性发布：高效地管理边缘存储资源  https://gocn.vip/topics/12152
+
+4.stringer 命令，通过代码生成提高效率  https://mp.weixin.qq.com/s/Ik3PxNRbddtbm6E-Xo_rdA
+
+5.假如 Go 能说话，听听 GMP 的心声 https://mp.weixin.qq.com/s/eHXAPQkzwMTaLVrXESowBg
+
+
+## gopherDaily--2021-06-04
+1.Go原生fuzzing test开启beta测试 - https://blog.golang.org/fuzz-beta
+
+2.Go 1.16.5和Go 1.15.13发布 - https://groups.google.com/g/golang-announce/c/RgCMkAEQjSI/m/r_EP-NlKBgAJ
+
+3.vtprotobuf: 一个protobuf编译器，为ProtoBuf APIv2生成优化的marshaling和unmarshaling Go代码 - https://github.com/planetscale/vtprotobuf
+
+4.kubernetes水族馆 - https://medium.com/@AnneLoVerso/the-kubernetes-aquarium-6a3d1d7a2afd
+
+5.谷歌发布”Open Source Insights”站点，提供开源项目的依赖包的互动视图 - https://opensource.googleblog.com/2021/06/introducing-open-source-insights-project.html
+
+6.使用go-i18n实现Go国际化 - https://lokalise.com/blog/go-internationalization-using-go-i18n/
+
+7.gProfiler：结合多个采样分析器，对CPU开销进行统一的可视化分析，支持Go、Java和Python - https://github.com/Granulate/gprofiler
+
+8.Kubernetes资源大全 - https://kubernetesreadme.com/
+
+9.用Docker的Buildx Kubernetes驱动将构建时间减少一半 - https://releasehub.com/blog/cutting-build-time-in-half-docker-buildx-kubernetes
+
+10.经典旧文：理解linux网络协议栈 - https://www.privateinternetaccess.com/blog/linux-networking-stack-from-the-ground-up-part-1/
+
+11.docker公司开发人员从以办公室为中心到以远程为中心的历程 - https://www.docker.com/blog/our-journey-from-office-centric-to-remote-first/
+
+## 码农桃花源--2021-06-04
+### 文章分享
+1. [go编程模式](https://coolshell.cn/articles/21140.html)
+
+2. [mysql面试题](https://www.yuque.com/u2278269/gq5x74/nef7ro)
+
+3. [go修养之路](https://www.kancloud.cn/aceld/golang/1958303)
+
+### 面试题
+1. 输出什么
+```go
+package main
+import "fmt"
+func DeferFunc1(i int) (t int) {
+    t = i
+    defer func() {
+        t += 3
+    }()
+    return t
+}
+func DeferFunc2(i int) int {
+    t := i
+    defer func() {
+        t += 3
+    }()
+    return t
+}
+func DeferFunc3(i int) (t int) {
+    defer func() {
+        t += i
+    }()
+    return 2
+}
+func DeferFunc4() (t int) {
+    defer func(i int) {
+        fmt.Println(i)
+        fmt.Println(t)
+    }(t)
+    t = 1
+    return 2
+}
+func main() {
+    fmt.Println(DeferFunc1(1))
+    fmt.Println(DeferFunc2(1))
+    fmt.Println(DeferFunc3(1))
+    DeferFunc4()
+}
+```
+
+2.  new的变量在栈还是堆?
+
+3. 背景:我们现在有一张表,每天生成300W数据, 然后每天用delete xx where id = x 这样的方式来删除.
+> 不用truncate是因为DBA说truncate会重建自适应哈希索引,可能对整个库性能有影响.
+操作:
+这个表的主键id是递增的.
+当我执行 explain select min(id) from t 时,是走的全表扫描.
+而且我目前在从库执行这个sql,直接就卡住了.
+执行 explain select max(id) from t 时, 结果是 Select tables optimized away
+(目前最大id 5亿左右,实际数据量只有300W)
+问题:
+
+1. 为什么 min(id) 会是全表扫描呢? 是和存在大量的delete后未释放空间有关系吗?
+
+2. 像这种业务场景,mysql怎么处理比较快速呢? 使用rename 表名有什么风险吗?
+
+### 每日算法
+「N叉树的前序遍历」：https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/
+
 ## go中文网每日资讯--2021-06-03
 
 
