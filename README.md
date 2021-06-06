@@ -7,6 +7,71 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-06-05
+
+
+一、Go语言中文网
+
+1. [Go实战项目：打造一个七牛云图片处理服务](https://mp.weixin.qq.com/s/SEVpbHyhohX8tpX130T7lQ)
+
+2. [Go 中的动态作用域变量是什么鬼？](https://mp.weixin.qq.com/s/bU6U5LfRsPLAN7DSoVkbUA)
+
+3. [Leetcode 上的小偷太难了！！](https://mp.weixin.qq.com/s/xdEDhpTT9lyeyJZIXxduGQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-04)——Go 1.16.5 和 Go 1.15.13 发布](https://mp.weixin.qq.com/s/cIhuWRAyTkXqdz7iswj4Ng)
+
+2. [Go技术日报(2021-06-03)——Go 重构和转换工具](https://mp.weixin.qq.com/s/iVhk1EdzQvWboQXdf8HiAA)
+
+三、k8s技术圈
+
+1. [在 Kubernetes 上使用 Spinnaker 构建部署流水线](https://mp.weixin.qq.com/s/znkK6mJw3JNhUNkeEeRDrg)
+
+四、云原生技术爱好者社区
+
+1. [使用Kubernetes重新思考系统架构并减轻技术债务](https://mp.weixin.qq.com/s/BFf2MQQYUpNu8xZ-QqMcMw)
+
+
+
+## GOCN每日新闻--2021-06-05
+
+1.vtprotobuf: 高性能 gogoprotobuf 替代品，兼容 ProtoBuf APIv2 https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/
+
+2.『每周译 Go』Go 内存管理概述 https://mp.weixin.qq.com/s/PNRhtdS_gZVTtrkkRmx7yA
+
+3.LazyLRU 应用至生产环境 https://medium.com/bluecore-engineering/lazylru-laughing-all-the-way-to-production-19d2a053c3cb
+
+4.GoLand 发布 2021.2 EAP build #2 https://blog.jetbrains.com/go/2021/06/04/goland-2021-2-eap-build-2-is-here/
+
+5.photoprism：开源的 Google Photos 替代品 https://github.com/photoprism/photoprism
+
+
+## gopherDaily--2021-06-05
+1.生产环境被破坏：原因居然是在Go中进行前一个月的计算 - https://dev.to/nordcloud/how-a-calculation-of-previous-month-in-golang-can-break-production-1ppi
+
+2。为什么go工具链需要原生支持fuzz test - https://docs.google.com/document/d/1N-12_6YBPpF9o4_Zys_E_ZQndmD06wQVAM_0y9nZUIE/edit
+
+3.新提案：syscall包增加Syscall21和Syscall24 - https://github.com/golang/go/issues/46552
+
+4.panicparse v1.6.0发布在v2.0.1之后，作者咋想的？ - https://maruel.ca/post/panicparse-1.6.0/
+
+5.以太坊智能合约的go绑定 - https://www.metachris.com/2021/05/creating-go-bindings-for-ethereum-smart-contracts/
+
+6.新提案：添加net/netaddr包：增加新的IP地址类型 - https://github.com/golang/go/issues/46518
+
+7.Uber 的 API 网关架构[译] - https://mp.weixin.qq.com/s/Z6IwBkCc357u3OxWMDRH2g
+
+8.已成为RFC9000的QUIC协议的Go实现 - https://github.com/goburrow/quic
+
+9.terraform教程 by hashicorp learn - https://www.hashicorp.com/blog/new-terraform-tutorials-on-hashicorp-learn
+
+10.使用静态分析工具分析linux内核代码 - https://thenewstack.io/checking-linuxs-code-with-static-analysis-tools/
+
+11.如何在Go中使用chrono调度task - https://itnext.io/how-to-schedule-tasks-using-chrono-in-golang-16a39b14a79a
+
+
 ## go中文网每日资讯--2021-06-04
 
 
