@@ -8,6 +8,82 @@
 # gocn_news_set_2021
 
 
+
+## go中文网每日资讯--2021-06-06
+
+
+一、Go语言中文网
+
+1. [Go1.17这个新特性竟然是6年前提出来的](https://mp.weixin.qq.com/s/7OY_2FRpD0QvzuWTACVqyw)
+
+2. [Go语言爱好者周刊：第 98 期 — 附上期题解](https://mp.weixin.qq.com/s/MAaCJGqJlf9cY_c1Urtadw)
+
+3. [你不知道的 Go 之 const](https://mp.weixin.qq.com/s/EKnphU752SY1vp_O_qY1ag)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-05)——Go 内存管理概述](https://mp.weixin.qq.com/s/08ROk0QSZopAL6wZMN715A)
+
+三、k8s技术圈
+
+1. [Kubernetes 资源对象序列化实现](https://mp.weixin.qq.com/s/fJf1mtCR49XO7BOUn2FRTg)
+
+四、爱倒腾的程序员
+
+1. [人均估值5000万RMB，53岁程序员能做到的，你也能！](https://mp.weixin.qq.com/s/iT-wWGskSJdtAkJsOLJWuw)
+
+五、董泽润的技术笔记
+
+1. [我用kafka两年踩过的一些非比寻常的坑](https://mp.weixin.qq.com/s/18qn85grHRF7iIVobJVUwA)
+
+六、Go招聘
+
+1. [股友问：Kafka为什么会丢消息，如何解决呢？](https://mp.weixin.qq.com/s/qv4-KuUfv1UwuDzcFahW4w)
+
+
+
+## GOCN每日新闻--2021-06-06
+1.详解 Go 团队不建议用的 unsafe.Pointer https://mp.weixin.qq.com/s/8qtHdw2JiRQ1cXlzbJ0ANA
+
+2.新 Goland 插件支持 TinyGo https://blog.jetbrains.com/go/2021/06/02/tinygo-for-tiny-applications-discover-a-new-plugin-for-goland/
+
+3.使用 go-i18n 实现国际化 https://lokalise.com/blog/go-internationalization-using-go-i18n/
+
+4.awesome-go-orms https://github.com/d-tsuji/awesome-go-orms
+
+5.Go 实现终端 slide 展示工具 https://github.com/maaslalani/slides
+
+
+## gopherDaily--2021-06-06
+
+1.为什么要从头开始编写你自己的API网关 - https://itnext.io/why-should-you-write-your-own-api-gateway-from-scratch-378074bfc49e
+
+2.Go实现的基于命令行终端的slide演示工具 - https://github.com/maaslalani/slides
+
+3.promdump：支持读取和打印Prometheus持久性数据块，支持按时间范围过滤持久性块 - https://github.com/ihcsim/promdump
+
+4.搭建云原生配置中心的技术选型和落地实践 - https://mp.weixin.qq.com/s/_Ir3dhbWjl_miQba_RuayQ
+
+5.关于kubernetes configmap，初学者不可能知道的事情 - https://blog.gopaddle.io/2021/04/01/strange-things-you-never-knew-about-kubernetes-configmaps-on-day-one/
+
+6.微服务拆分之道 - https://mp.weixin.qq.com/s/oBfEwwOyrSwGag8zs8ljFA
+
+7.k8s ssl证书管理 - https://betterprogramming.pub/kubernetes-and-ssl-certificate-management-5f6a4b6f5ae9
+
+8.go orm开源项目大全 - https://github.com/d-tsuji/awesome-go-orms
+
+9.Kubernetes中的混沌工程开源解决方案 - https://blog.flant.com/chaos-engineering-in-kubernetes-open-source-tools/
+
+10.minideb: 一个基于Debian的极简镜像，专门用来作为容器的基础镜像 - https://github.com/bitnami/minideb
+
+11.油管视频：硬件破解教程 - https://www.youtube.com/playlist?list=PLoFdAHrZtKkhcd9k8ZcR4th8Q8PNOx7iU
+
+12.艰苦的工作和微薄的报酬给开源维护者带来压力 - https://www.zdnet.com/article/hard-work-and-poor-pay-stresses-out-open-source-maintainers/
+
+13.观点：你越快停止对OOP的学习，对你和你的软件就越有利 - https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software
+
+
+
 ## go中文网每日资讯--2021-06-05
 
 
