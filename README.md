@@ -7,7 +7,102 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-06-07
 
+
+一、Go语言中文网
+
+1. [Go 调度器的任务窃取（Work-Stealing）](https://mp.weixin.qq.com/s/trBAi976eaaTDcSzpAqPkQ)
+
+2. [通过实例理解Go逃逸分析](https://mp.weixin.qq.com/s/bR9shJGRXsRHJhh-GcY83A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-06)——微服务拆分之道](https://mp.weixin.qq.com/s/GgBhnYS1KYFHq4mzgIFj7w)
+
+三、脑子进煎鱼了
+
+1. [Go 凭什么不支持三元运算符？](https://mp.weixin.qq.com/s/LmHR7Y674dSo-Xa0tajL_w)
+
+2. [一文搞懂如何实现 Go 超时控制](https://mp.weixin.qq.com/s/S4d9CJYmViJT8EbhyNCIMg)
+
+四、Golang梦工厂
+
+1. [神奇的init函数](https://mp.weixin.qq.com/s/y-H0y1ahq8a_TgJ4c4otuQ)
+
+五、杨旭技术专栏
+
+1. [Go 简单分布式系统 3.3 服务发现（1）](https://mp.weixin.qq.com/s/QoDwEbl02nSHjRci8yRbyQ)
+
+六、Go招聘
+
+1. [Golang 并发编程核心篇 —— 内存可见性](https://mp.weixin.qq.com/s/vvKNAarcc3kz1hz9o4B1ZQ)
+
+七、腾讯技术工程
+
+1. [​手把手教你如何进行 Golang 单元测试](https://mp.weixin.qq.com/s/N5wby-aWWEPc7mHN_lN3lQ)
+
+八、云加社区
+
+1. [主干开发、主干发布，CI 如何为大型项目提供最优解？](https://mp.weixin.qq.com/s/mQihX1VbEEArHpcx6s5KFQ)
+
+九、奇伢云存储
+
+1. [自制文件系统 —— 03 Go实战：hello world 的文件系统](https://mp.weixin.qq.com/s/Yf6yBoEQe6ijMlPgZ6P2sA)
+
+十、码农桃花源
+
+1. [曹大带我学 Go（5）—— 哪里来的 goexit](https://mp.weixin.qq.com/s/xrDZ2Z7KkHL0vZ3k6KGcyg)
+
+## GOCN每日新闻--2021-06-07
+
+1.Code Review 引发的 Golang Memory Model 深入思考 https://juejin.cn/post/6970513766509182984
+
+2.Go 高性能系列教程之一：基准测试 https://gocn.vip/topics/12126
+
+3.监控是手段，而不是目的  https://www.robustperception.io/monitoring-is-a-means-not-an-end
+
+4.Calico 路由反射模式权威指南 https://mp.weixin.qq.com/s/hLiI9fsPQ7w4PS2ALff09g
+
+5.从栈上理解 Go 语言函数调用 https://www.cnblogs.com/luozhiyun/p/14844710.html
+
+
+## gopherDaily--2021-06-07
+
+- 1.Go context包的上下文 - https://asheetbhaskar.medium.com/context-about-context-package-in-golang-487ef60d9acc
+- 2.为什么服务跟踪将替代所有日志手段 - https://go.lightstep.com/rs/260-KGM-472/images/Tracing-Will-Replace-Logging-Guide.pdf
+- 3.内部服务的go单点登录方案 - https://github.com/buzzfeed/sso
+- 4.在Go中创建自定义logger - https://jilsonfreddy.medium.com/create-a-custom-application-logger-in-golang-cdd11ba106d5
+- 5.惊！这个 Go 开源项目号称「不改一行代码做秒杀」 - https://mp.weixin.qq.com/s/NSJmV-hBucaXoBAfD3TKLA
+- 6.一文讲懂服务的优雅重启和更新 - https://mp.weixin.qq.com/s/yryqf8SCzvt-BFj8j5bZ2w
+- 7.视频教程：Go初学者教程 - https://tutorialedge.net/courses/go-beginners-guide/
+- 8.Kubernetes单点登录指南 - http://www.talkingquickly.co.uk/kubernetes-sso-a-detailed-guide
+- 9.kubestr: 一个工具集合，用于发现、验证和评估你的kubernetes存储选项 - https://kubestr.io/
+- 10.除了编码之外，高级工程师所需技能的不完整清单 - https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
+- 11.主流分布式文件系统对比 - https://mp.weixin.qq.com/s/XgCjWKtqc2Mi_cqRj9_2xw
+
+
+
+
+## 码农桃花源--2021-06-07
+### 文章分享
+1. [互斥锁，自旋锁，悲观锁，乐观锁总结](https://blog.csdn.net/qq_34827674/article/details/108608566)
+
+2. [高并发服务遇 redis 瓶颈引发的事故](https://mp.weixin.qq.com/s/MtdU1xhOI5XkuSDrIYFRMA)
+
+3. [redis实现自动输入完成](https://www.cnblogs.com/like-minded/p/5239444.html)
+
+### 面试题
+1. redis分布式锁是如何实现的?
+
+2. 使用过redis做异步队列吗？如何用？有什么缺点？
+
+3. redis相比于memcached，有何优势？
+
+4. redis的数据淘汰策略？
+
+### 每日算法
+「二叉树的后序遍历」：https://leetcode-cn.com/problems/binary-tree-postorder-traversal/
 
 ## go中文网每日资讯--2021-06-06
 
