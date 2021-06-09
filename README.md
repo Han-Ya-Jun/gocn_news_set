@@ -7,6 +7,96 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-06-08
+
+
+一、Go语言中文网
+
+1. [字节跳动打造的轮子：Go 表单验证器](https://mp.weixin.qq.com/s/Oc90iCYyZGj5uDKhj8eGWw)
+
+2. [Go1.16 中的新函数 signal.NotifyContext 怎么用？](https://mp.weixin.qq.com/s/LLKgeGmhU_GpQQeivEvi1g)
+
+3. [Go 每日一库之 reflect](https://mp.weixin.qq.com/s/3kE_M9jKTG14t3KIlkqhgA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-07)——如何进行 Golang 单元测试](https://mp.weixin.qq.com/s/FJ26X5wrqFqB7XJEgMsV5w)
+
+三、码农桃花源
+
+1. [一个高逼格的 Go 招聘](https://mp.weixin.qq.com/s/lFrmy68XTF79kO3iCD9l6A)
+
+2. [你真的了解 timeout 吗？](https://mp.weixin.qq.com/s/SllMlL_94cir-x8Hw9D-8g)
+
+四、k8s技术圈
+
+1. [云原生 CI/CD 框架 Tekton 初体验](https://mp.weixin.qq.com/s/ZI9vWJ4giVsMhxZYHjjd5A)
+
+五、杨旭技术专栏
+
+1. [Go 简单分布式系统 3.4 服务发现（2）](https://mp.weixin.qq.com/s/dLtyKjJ5_p0aiyx9BMGEYg)
+
+2. [Go 简单分布式系统 3.5 服务发现（3）](https://mp.weixin.qq.com/s/SQbOS1xRECM2Oa-tXjEkfw)
+
+六、GoUpUp
+
+1. [Go 每日一库之 ants（源码赏析）](https://mp.weixin.qq.com/s/a84T6Hpbrhop7vQA01N1Bg)
+
+七、GolangContributorClub
+
+1. [2021 中国 Go 语言开源贡献者峰会预告](https://mp.weixin.qq.com/s/-FWxWGVJEVe8JPPcGqHxgw)
+
+八、HHFCodeRv
+
+1. [Go timer 是如何被调度的？](https://mp.weixin.qq.com/s/iseiQ20eIUR9i02fy1tFhg)
+
+九、polarisxu
+
+1. [一本花了2.5年写成的Go免费在线图书](https://mp.weixin.qq.com/s/Z97eT7FrqeJhygQwKvJaIw)
+
+十、Go招聘
+
+1. [一文带你深究无线缓冲channel的实现](https://mp.weixin.qq.com/s/7P3Gn7JFvMWUh0iuNExPKA)
+
+2. [东南亚最大的外卖出行公司招聘，这福利，酸了，酸了](https://mp.weixin.qq.com/s/wynt1zdgsRJywFva_gE5dA)
+
+## GOCN每日新闻--2021-06-08
+
+1.在 Golang 中创建自定义应用程序 logger https://jilsonfreddy.medium.com/create-a-custom-application-logger-in-golang-cdd11ba106d5
+
+2.在 Go 1.16+ 中构建 GUI 桌面应用程序 https://blog.ctrlshiftmake.com/build-tray-gui-desktop-application-go
+
+3.Go 实现为以太坊智能合约创建绑定 https://www.metachris.com/2021/05/creating-go-bindings-for-ethereum-smart-contracts/
+
+4.Go 中简单、可定制、分级且高效的日志记录 https://github.com/ermanimer/log
+
+5.Go 实现的发送原始 HTTP 请求的基准测试和压力测试工具 https://github.com/utkusen/reqstress
+
+
+## gopherDaily--2021-06-08
+1.为什么Go应该是你开发区块链的首选语言？ - https://www.rnssol.com/blog/why-golang-should-be-your-go-to-language-for-developing-blockchains
+
+2.微软招聘高级软件工程师参与Go官方编译器、工具生态开发 - https://careers.microsoft.com/us/en/job/1038385/Senior-Software-Engineer
+
+3.2021 中国 Go 语言开源贡献者峰会预告 - https://mp.weixin.qq.com/s/-FWxWGVJEVe8JPPcGqHxgw
+
+4.使用Go和cube.js构建你自己的网站分析工具 - https://itnext.io/build-your-own-website-analytics-with-cube-js-in-10-minutes-f195ed5d4d21
+
+5.使用Go 1.16构建桌面GUI应用 - https://blog.ctrlshiftmake.com/build-tray-gui-desktop-application-go
+
+6.最后测试(TLD)简介(Test-Last Development)：https://bitfieldconsulting.com/golang/test-last-development
+
+7.2021年及以后的DevOps预测 - https://harness.io/blog/devops/devops-predictions/
+
+8.Docker安全实践速查表 - https://cheatsheetseries.owasp.org/cheatsheets/Docker_Security_Cheat_Sheet.html
+
+9.提高开发人员的工作效率：BuildKit CLI for kubectl是docker build的替代品 - https://container-registry.com/posts/productivity-lift-buildkit-cli-for-kubectl/
+
+10.理解defer关键字 - https://syed-hasan-83344.medium.com/understanding-defer-keyword-in-go-lang-b02c7f406870
+
+11.开源项目维护不易，docz维护者的心路历程 - https://github.com/pedronauck/docz/issues/1634
+
 ## go中文网每日资讯--2021-06-07
 
 
