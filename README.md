@@ -8,6 +8,122 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2021-06-09
+
+
+一、Go语言中文网
+
+1. [编写友好的Go命令行应用程序](https://mp.weixin.qq.com/s/qOhdWkIG5lZG6hV7QHIsaQ)
+
+2. [优雅地处理Go错误真是一门学问啊！](https://mp.weixin.qq.com/s/_7AHxKJjiS2CRPM8dxdU1Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-08)——ants源码赏析](https://mp.weixin.qq.com/s/thPxVIT7-X0nccK4px3oPQ)
+
+三、GoUpUp
+
+1. [你不知道的 Go 之 pprof](https://mp.weixin.qq.com/s/pSD2k1uNH9WFZumw24I4uQ)
+
+四、脑子进煎鱼了
+
+1. [小技巧分享：在 Go 如何实现枚举？](https://mp.weixin.qq.com/s/4jvhRQvKlMiYweSOG6xCrA)
+
+2. [答应我，这次一定彻底搞懂 Go 中的类型别名](https://mp.weixin.qq.com/s/pd4KyjikYtZ6UX9jDpYdPw)
+
+五、GoOfficialBlog
+
+1. [Golang Fuzzing is Beta Ready](https://mp.weixin.qq.com/s/wR3B50lh5-CK5Zs9-zNnDg)
+
+六、polarisxu
+
+1. [match 是什么语法？PHP8 也加了](https://mp.weixin.qq.com/s/jUZkFMaC5FThEMHICBwllg)
+
+2. [灵魂拷问：Go 语言这个变量到底分配到哪里了？](https://mp.weixin.qq.com/s/nlpeaMsG90PQ-X44j6mKSg)
+
+七、APISIX云原生微服务网关
+
+1. [开源 API 网关架构分析](https://mp.weixin.qq.com/s/L3X3xfGggjf52a8GofFHEQ)
+
+2. [开源 API 网关架构分析](https://mp.weixin.qq.com/s/L3X3xfGggjf52a8GofFHEQ)
+
+八、杨旭技术专栏
+
+1. [Go 简单分布式系统 3.6 服务发现（4）依赖变化的通知](https://mp.weixin.qq.com/s/Gk43o-85uxbJbgSP7lJomg)
+
+九、码农桃花源
+
+1. [深度解密 Go math/rand](https://mp.weixin.qq.com/s/zQq9lEDLGPh7shvJLm0AuQ)
+
+十、远赴星辰
+
+1. [Go 语言中的零拷贝优化](https://mp.weixin.qq.com/s/SnO_pl8WUmWY9RBFZF7-rA)
+
+十一、Go招聘
+
+1. [东南亚最大的外卖出行公司招聘，这福利，酸了，酸了](https://mp.weixin.qq.com/s/wynt1zdgsRJywFva_gE5dA)
+
+2. [Top云厂商招Gopher，你看你行吗？](https://mp.weixin.qq.com/s/GE05WZBz2SqlwswUhZaJ-Q)
+
+
+## GOCN每日新闻--2021-06-09
+
+1.Go 语言中的零拷贝优化 https://developer.51cto.com/art/202106/665738.htm
+
+2.Go timer 是如何被调度的？ https://mp.weixin.qq.com/s/iseiQ20eIUR9i02fy1tFhg
+
+3.relite6.0.0 设计，让集群更具鲁棒性 https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/
+
+4.terraform v1.0.0 正式发布: 兼容性更好,稳定性更强 https://www.terraform.io/docs/language/v1-compatibility-promises.html
+
+5.小技巧分享：在 Go 如何实现枚举？ hhttps://mp.weixin.qq.com/s/4jvhRQvKlMiYweSOG6xCrA
+
+
+## gopherDaily--2021-06-09
+
+1.Terraform 1.0正式发布！- https://www.hashicorp.com/blog/announcing-hashicorp-terraform-1-0-general-availability
+
+2.godis: 纯Go实现的redis server - https://github.com/HDT3213/godis
+
+3.vault的轻量级Go客户端 - https://github.com/canidam/libvault
+
+4.Go实现的开源分布式关系数据库rqlite发布6.0.0 - https://www.philipotoole.com/rqlite-6-0-0-building-for-the-future/
+
+5.Netflix如何大规模地使用eBPF流量日志来了解网络情况 - https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
+
+6.Docker hub将停止提供免费镜像自动构建服务 - https://www.docker.com/blog/changes-to-docker-hub-autobuilds/
+
+7.kuma: Go实现的通用服务网格, CNCF sandbox项目 - https://github.com/kumahq/kuma
+
+8.使用Istio和Nginx ingress - https://www.giffgaff.io/tech/using-istio-with-nginx-ingress
+
+9.通过nginx的优雅退出了解k8s pod的生命周期 - https://itnext.io/kubernetes-nginx-php-fpm-graceful-shutdown-and-502-errors-b2878cc3df5d
+
+10.SQLite作者用C实现的webserver - https://sqlite.org/althttpd/doc/trunk/althttpd.md
+
+
+## gopherDaily--2021-06-09
+### 文章分享
+1. [Redis 面试集锦](https://www.yuque.com/u2278269/gq5x74/xalawt)
+
+2. [Redis 通用命令](https://www.yuque.com/u2278269/gq5x74/ud8u4y)
+
+3. [timeout](https://mp.weixin.qq.com/s/SllMlL_94cir-x8Hw9D-8g)
+
+### 面试题
+1. Redis 数据类型有哪些
+
+2. Redis List底层实现
+
+3. AOF 为什么要先执行命令再记日志呢 
+
+4. Redis AOF 三种写回策略
+
+### 每日算法
+「二叉树的后序遍历」：https://leetcode-cn.com/problems/binary-tree-postorder-traversal/
+
+
+
 ## go中文网每日资讯--2021-06-08
 
 
