@@ -8,6 +8,76 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2021-06-11
+
+
+一、Go语言中文网
+
+1. [go test 的这些用途你都懂吗？](https://mp.weixin.qq.com/s/rt737Zdt30sYw9Fk-5n71A)
+
+2. [源码剖析sync.WaitGroup(文末思考题你能解释一下吗?)](https://mp.weixin.qq.com/s/xT2NdxyMAyRteqtjQbbbyg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-10)——一文教你搞懂 Go 中栈操作](https://mp.weixin.qq.com/s/g_wo4KL5DIQ-7P-ea4ZzTw)
+
+三、奇伢云存储
+
+1. [图解｜进程怎么绑定 CPU](https://mp.weixin.qq.com/s/mbyHJNVyN_0mV5efa2DAXg)
+
+四、学而思网校技术团队
+
+1. [学而思网校直播课堂业务容器化演进](https://mp.weixin.qq.com/s/qsLld2ECUNdhsMLeXfYlDA)
+
+五、polarisxu
+
+1. [不怕烂尾！决定组织翻译这本 Go 图书](https://mp.weixin.qq.com/s/ry-qn0-7GuS0qb6ylU_4qA)
+
+六、脑子进煎鱼了
+
+1. [推荐一位 Go 布道师，另附几百道 Go 面试题](https://mp.weixin.qq.com/s/eHPKzXe5Dmw4rygd3uQ1_A)
+
+七、GoUpUp
+
+1. [Go 每日一库之 tunny](https://mp.weixin.qq.com/s/yXmnijfusgHhJiqXWlw54Q)
+
+八、腾讯技术工程
+
+1. [为什么磁盘存储引擎用 b+树来作为索引结构？](https://mp.weixin.qq.com/s/8gDVqlywLBl-MZa6XrtXug)
+
+九、Go招聘
+
+1. [运维开发有点香哦，广州Gopher这下又有福了](https://mp.weixin.qq.com/s/g737LlDDxsEnQDTd6wgy5Q)
+
+2. [kubernetes面试相关总结(下)](https://mp.weixin.qq.com/s/Tc292lVE1Lue267N5RdunA)
+
+
+## GOCN每日新闻--2021-06-11
+
+1.Go 1.17 beta 1 发布 (泛型支持) https://groups.google.com/g/golang-dev/c/TfpiXhSOMRM/m/wROPV0blAgAJ 
+2.如何使用 GitHub Actions 自动发布你的 Go 二进制应用 https://web3.coach/golang-github-actions-release-binaries-tutorial
+
+3.Go、WebAssembly、HTTP 请求和 Promises https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html
+
+4.GraphQL 聚合网关 Bramble https://github.com/movio/bramble
+
+5.最后测试开发模式介绍 https://bitfieldconsulting.com/golang/test-last-development
+
+
+
+## gopherDaily--2021-06-11
+
+- 1.Go 1.17beta1发布 - https://groups.google.com/g/golang-dev/c/TfpiXhSOMRM/m/wROPV0blAgAJ
+- 2.使用Go加快Postgres集成测试的速度 - https://www.maragu.dk/blog/speeding-up-postgres-integration-tests-in-go/
+- 3.播客：以不寻常的方式使用Go - https://changelog.com/gotime/183
+- 4.Harbor operator 1.0发布 - https://www.cncf.io/blog/2021/06/09/harbor-operator-1-0-is-available-now/
+- 5.使用Go编写简单的蒙特卡洛模拟 - https://itnext.io/write-simple-monte-carlo-simulation-5ceb4c9b0eb3
+- 6.Go官方语言服务器gopls发布 v0.7.0 - https://github.com/golang/tools/releases/tag/gopls/v0.7.0
+- 7.以TDD的方式用Go实现排序算法 - https://alabeduarte.com/test-driven-algorithms/sorting/
+- 8.经典旧文：为什么Go不是好语言 - https://yager.io/programming/go.html
+- 9.在Kubernetes上如何进行数据库变更的蓝绿部署 - https://piotrminkowski.com/2021/02/18/blue-green-deployment-with-a-database-on-kubernetes/
+- 10.开发人员无法修复不良的管理 - https://iism.org/article/developers-can-t-fix-bad-management-57
+
 
 
 ## go中文网每日资讯--2021-06-10
