@@ -8,6 +8,123 @@
 # gocn_news_set_2021
 
 
+
+## go中文网每日资讯--2021-06-13
+
+
+一、Go语言中文网
+
+1. [我这样升级 Go 版本，你呢？](https://mp.weixin.qq.com/s/pra9g1nIbzRnZ9KhodUGMw)
+
+2. [Go语言爱好者周刊：第 99 期 — 端午节快乐](https://mp.weixin.qq.com/s/TSgv-UStXC0NTqHwIk8YGg)
+
+3. [Go 模糊测试是什么？官方博文讲解](https://mp.weixin.qq.com/s/ypn17Ty74pWbhLSArmpbuQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-11)——Go 1.17beta1发布](https://mp.weixin.qq.com/s/lcZZfN6C7KPD0HadEKwi9Q)
+
+三、奇伢云存储
+
+1. [编程思考：对象生命周期的问题](https://mp.weixin.qq.com/s/6GEj1XmkX731yw4kDuPYaQ)
+
+四、polarisxu
+
+1. [站长8年前的Go代码竟然进大厂的项目里了](https://mp.weixin.qq.com/s/-j8ohEXPS6d6wqvQZxDz5g)
+
+五、Go招聘
+
+1. [端午安康—Go中如何实现文件监听？文末有红包彩蛋o](https://mp.weixin.qq.com/s/5kqmigJRCvvrhKLKBoW4SQ)
+
+## GOCN每日新闻--2021-06-13
+1.Go 系统监控利器-gopsutil https://gocn.vip/topics/12183
+
+2.Go 高性能系列教程之六：一些建议和实践 https://gocn.vip/topics/12187
+
+3.在 Go 中使用位掩码 https://www.ardanlabs.com/blog/2021/04/using-bitmasks-in-go.html
+
+4.Goroutine 泄漏 - 被遗弃的接收器 https://www.ardanlabs.com/blog/2018/12/goroutine-leaks-the-abandoned-receivers.html
+
+5.Go 初始化流程分析 https://juejin.cn/post/6969230952685895694
+
+## gopherDaily--2021-06-13
+- 1.Python vs Go:哪一个是最好的，为什么？- https://techbiason.com/go-vs-python/
+- 2.gitops成熟度模型 - https://www.weave.works/blog/the-gitops-maturity-model
+- 3.提高Kubernetes可理解性的5个技巧 - https://www.rookout.com/blog/5-tips-to-improve-kubernetes-understandability
+- 4.异步和持久化的推送通知服务，支持APNS、FCM、网络推送、Telegram和电子邮件 - https://github.com/pennersr/shove
+- 5.用OpenTracing、Jaeger和Ingress-NGINX在Kubernetes中设置分布式追踪功能 - https://awkwardferny.medium.com/setting-up-distributed-tracing-with-opentelemetry-jaeger-in-kubernetes-ingress-nginx-cfdda7d9441d
+- 6.Orkestra：一个云原生的发布编排和生命周期管理（LCM）平台 - https://github.com/Azure/orkestra
+- 7.使用kubeadm在Ubuntu的VirtualBox上创建一个Kubernetes 1.20集群 - https://kosyfrances.com/kubernetes-cluster/
+- 8.cve-2021-31440: 使用eBPF的Kubernetes容器漏洞 - https://www.tigera.io/blog/cve-2021-31440-kubernetes-container-escape-using-ebpf/
+- 9.你真的需要redis吗？如果只用PostgreSQL就可以实现呢？- https://spin.atomicobject.com/2021/02/04/redis-postgresql/
+- 10.vscode增加remote repositories插件，可直接从GitHub上浏览甚至编辑任何GitHub repo而无需先pull源码 - https://code.visualstudio.com/blogs/2021/06/10/remote-repositories
+
+
+## go中文网每日资讯--2021-06-12
+
+
+一、Go语言中文网
+
+1. [Go1.17 Beta1 发布](https://mp.weixin.qq.com/s/2UeuFECPBoxh2nUDxohVNg)
+
+2. [也许是 Go Context 最佳实践](https://mp.weixin.qq.com/s/8iBQWs7LAXEMCoXc5PpSaQ)
+
+3. [源码剖析sync.Cond(条件变量的实现机制）](https://mp.weixin.qq.com/s/uD_3C43zPqWI-VKfQfAzTw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-11)——Go 1.17beta1发布](https://mp.weixin.qq.com/s/lcZZfN6C7KPD0HadEKwi9Q)
+
+三、奇伢云存储
+
+1. [网络排障全景指南手册v1.0精简版pdf 发布](https://mp.weixin.qq.com/s/fR46xxkoGvMltV-8F0pMxA)
+
+2. [i/o timeout ， 希望你不要踩到这个net/http包的坑](https://mp.weixin.qq.com/s/5cVM5vM4zmltwb77p4NZKQ)
+
+四、k8s技术圈
+
+1. [为什么集群需要 Overlay 网络](https://mp.weixin.qq.com/s/a1omUj17yNVUuymh6DYpRQ)
+
+五、polarisxu
+
+1. [Go图书翻译：一个好消息，一个坏消息](https://mp.weixin.qq.com/s/wbXEq7NwxHkMIGBbY_dKUQ)
+
+六、杨旭技术专栏
+
+1. [Go 简单分布式系统 4.2 服务状态监控](https://mp.weixin.qq.com/s/kDd-BuDrKkV2odMoskmqzg)
+
+七、网管叨bi叨
+
+1. [分布式锁实现原理与最佳实践](https://mp.weixin.qq.com/s/M92bQQ4ESeE-RkiPiu-oRw)
+
+
+ 
+## GOCN每日新闻--2021-06-12
+1.Go 实现正向代理服务器 https://juejin.cn/post/6972563525361369125
+
+2.编写友好的 Go 命令行应用程序 https://mp.weixin.qq.com/s/qOhdWkIG5lZG6hV7QHIsaQ
+
+3.你不知道的 Go 之 const https://mp.weixin.qq.com/s/EKnphU752SY1vp_O_qY1ag
+
+4.Go 高性能系列教程之五：内存和垃圾回收 https://gocn.vip/topics/12186
+
+5.Go Race Detector with ThreadSanitizer https://medium.com/a-journey-with-go/go-race-detector-with-threadsanitizer-8e497f9e42db
+
+## gopherDaily--2021-06-12
+- 1.Go代码静态分析实战指南 -  https://github.com/amit-davidson/GopherCon2021IsraelStaticAnalysisWorkshop
+- 2.vagrant 3.0将使用Go重写 - https://www.hashicorp.com/blog/toward-vagrant-3-0
+- 3.如何使用Goland升级一个module的major版本号 - https://blog.jetbrains.com/go/2021/06/11/how-to-increment-the-major-version-of-a-go-module-using-goland/
+- 4.使用Go实现GraphQL服务器 - https://eli.thegreenplace.net/2021/rest-servers-in-go-part-7-graphql/
+- 5.Go 2D游戏引擎ebiten支持任天堂Switch游戏机 - https://ebiten.org/blog/nintendo_switch.html
+- 6.Go WebAssembly与Javascript的互操作 - https://withblue.ink/2020/10/03/go-webassembly-http-requests-and-promises.html
+- 7.使用本地Go库的Flutter - https://openprivacy.ca/discreet-log/09-flutter-with-native-go-libraries/
+- 8.通过测试学习Go - https://quii.gitbook.io/learn-go-with-tests/
+- 9.油管视频：使用eBPF跟踪Go代码 - https://www.youtube.com/watch?v=f1jr9nR25EA
+- 10.Go代码整洁之道 - https://dev.to/gopher/clean-go-code-53hn
+
+
+
+
 ## go中文网每日资讯--2021-06-11
 
 
@@ -50,6 +167,9 @@
 1. [运维开发有点香哦，广州Gopher这下又有福了](https://mp.weixin.qq.com/s/g737LlDDxsEnQDTd6wgy5Q)
 
 2. [kubernetes面试相关总结(下)](https://mp.weixin.qq.com/s/Tc292lVE1Lue267N5RdunA)
+
+
+
 
 
 ## GOCN每日新闻--2021-06-11
