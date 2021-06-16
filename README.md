@@ -7,6 +7,115 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+## go中文网每日资讯--2021-06-15
+
+
+一、Go语言中文网
+
+1. [GoLand 2021.2 EAP 发布](https://mp.weixin.qq.com/s/YKuur9QjU6BFnuHqqW5xDw)
+
+2. [图解 Go 逃逸分析](https://mp.weixin.qq.com/s/80pv2gpnbKMPNLDr3dnSCA)
+
+3. [高并发系统的限流策略：漏桶和令牌桶(附Go源码剖析)](https://mp.weixin.qq.com/s/w1z5nDZmb-bYV4E66e2rzw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-14)——Go 语言学习路线来啦](https://mp.weixin.qq.com/s/ZsucDNBf0NXA6th09_31jg)
+
+三、脑子进煎鱼了
+
+1. [Go 存储基础 — 内存结构体怎么写入文件？](https://mp.weixin.qq.com/s/Jeo23MdIljMr3X8sGs_nvA)
+
+四、mohuishou
+
+1. [localhost 就一定是 localhost 么?](https://mp.weixin.qq.com/s/DhuEN4XncTHtITyXAnmhug)
+
+五、MoeLove
+
+1. [K8S 生态周报| Docker v20.10.7 发布，修复了死锁和容器启动失败的问题](https://mp.weixin.qq.com/s/NudSiti0IADkpkoPcpGUeg)
+
+六、polarisxu
+
+1. [搭建了一个Go官网](https://mp.weixin.qq.com/s/7lkBRmjEkElvqHmJVVBWwQ)
+
+七、云加社区
+
+1. [分布式一致性算法Raft](https://mp.weixin.qq.com/s/9JnMQjjqb1Tjg3SUrRWoBQ)
+
+八、Go招聘
+
+1. [招聘：Golang 工程师  年薪40-100万，没有996和007！](https://mp.weixin.qq.com/s/rC44vuhx7p473rgkVk1Nyw)
+
+九、GoUpUp
+
+1. [为 tunny 提交的一次 PR](https://mp.weixin.qq.com/s/hxRaFtpMgvbTAfMfn70S5Q)
+
+十、Golang梦工厂
+
+1. [面试中如果这样写二分查找！](https://mp.weixin.qq.com/s/bLuqKWnTGlcxyhVK1913FQ)
+ 
+## GOCN每日新闻--2021-06-15
+
+1.从零学 Go：列表与字典 https://juejin.cn/post/6972316925795762183
+
+2.Go 1.16 如何使用 go:embed 资源文件内嵌功能 https://blog.jetbrains.com/go/2021/06/09/how-to-use-go-embed-in-go-1-16/
+
+3.Golang 如何调度你的程序的 https://juejin.cn/post/6972893426425528357
+
+4.初探 Golang ReverseProxy 源码 https://coderdao.github.io/2021/06/13/%E5%88%9D%E6%8E%A2-ReverseProxy-%E6%BA%90%E7%A0%81/
+
+5.在终端以幻灯片方式阅读 Markdown 文件 https://github.com/maaslalani/slides
+
+## gopherDaily--2021-06-15
+1.致力于打造精品Go社区且每天都有新内容的“gopher部落”为广大Gopher准备了端午节+618福利，福利一直持续到6月18日，先到先得！欢迎广大gopher加入！ - https://t.zsxq.com/bUZzJ27
+
+2.CUE是一种令人兴奋的配置语言 - https://bitfieldconsulting.com/golang/cuelang-exciting
+
+3.加载csv和excel（xlsx）文件并运行sql命令的命令行工具 - https://github.com/dhamith93/csv-sql
+
+4.eBPF内幕 by brendan gregg - https://brendangregg.com/blog/2021-06-15/bpf-internals.html
+
+5.mqtt协议安全检查工具 - https://github.com/SPuerBRead/mqtts
+
+6.使用纯go语言编写web应用的框架 - https://github.com/reusee/domui
+
+7.Go中值得怀疑的实现，以及它在rust中的表现如何：从Python开发者的角度来看 - https://faun.pub/questionable-implementation-in-golang-and-how-it-fares-with-rust-from-
+prospective-of-python-ddbdb594b364
+
+8.贝尔实验室的两位研究人员如何为现代编译器制定了规则 - https://thenewstack.io/how-two-bell-labs-researchers-set-the-rules-for-the-modern-compiler/
+
+9.2021 年 Kubernetes 的状况以及 CISO(首席信息安全官) 可以做些什么 - https://enterprisetalk.com/featured/the-state-of-kubernetes-in-2021-and-what-cisos-can-do-about-it/
+
+10.向数据湖仓一体(lakehouse)的演化 - https://databricks.com/blog/2021/05/19/evolution-to-the-data-lakehouse.html
+面向程序员的实用Reed-Solomon编码算法 - https://berthub.eu/articles/posts/reed-solomon-for-programmers/
+
+## 码农桃花源--2021-06-15
+### 文章分享
+
+1. [使用 litmus 验证内存重排](https://mp.weixin.qq.com/s/WOYC7KskgVOtBUc2WLqXkA)
+
+2. [go math/rand](https://mp.weixin.qq.com/s/zQq9lEDLGPh7shvJLm0AuQ)
+
+3. [pulsar](https://mp.weixin.qq.com/s/wITNF8Mwuf5Zeujo78s_ZQ)
+
+### 面试题
+
+1.Redis List底层实现
+
+2.Redis 宕机后如何实现快速恢复?
+
+3.Redis主从分布 主服务挂了会怎样(Sentinel 如何进行选举) 
+
+4.Redis为什么用跳表而不用平衡树？
+
+### 每日算法
+
+「二叉树的锯齿形层序遍历」：https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/
+
+
+
+
+
 ## go中文网每日资讯--2021-06-14
 
 
