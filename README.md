@@ -7,6 +7,123 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+
+## go中文网每日资讯--2021-06-16
+
+
+一、Go语言中文网
+
+1. [Go：字符串以及转换优化](https://mp.weixin.qq.com/s/PbmhUrfNu3slmnVyRK_KRw)
+
+2. [Go问题实战：时钟源为什么会影响性能](https://mp.weixin.qq.com/s/-czIqAldLTM4rp63g6O-Og)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-15)——图解 Go 逃逸分析](https://mp.weixin.qq.com/s/FfYQLjJ_cGppz8K_cN3SpQ)
+
+三、Go夜读
+
+1. [【本周四】第 116 期理论结合实践详解 LSM 树存储引擎（bitcask、moss、leveldb 等）](https://mp.weixin.qq.com/s/wddlMDTtedXcvYZK76j_gA)
+
+四、腾讯云原生
+
+1. [一篇文章带你搞懂 etcd 3.5 的核心特性](https://mp.weixin.qq.com/s/mhHPyCAmdbT5wXF0vBiGzQ)
+
+五、腾讯技术工程
+
+1. [一文带你理解云原生](https://mp.weixin.qq.com/s/yX0hgIOLuaKsAcrWfOfcUQ)
+
+六、CloudNativeCommunity
+
+1. [知名图片分享平台 Pinterest 如何有把握地扩展 Kubernetes](https://mp.weixin.qq.com/s/gzImUEAxLKTNjY_JFraODg)
+
+七、k8s技术圈
+
+1. [使用 kube-vip 搭建高可用 Kubernetes 集群](https://mp.weixin.qq.com/s/yNYWOY9HWvLuVPmT9XZInw)
+
+八、董泽润的技术笔记
+
+1. [Rust 居然允许变量 shadowing](https://mp.weixin.qq.com/s/CL40UIHgxam3KQ0iqMVHGA)
+
+2. [深度剖析 Go 的 nil](https://mp.weixin.qq.com/s/0WhlsrMk_-wBHsUldZ60sg)
+
+九、网管叨bi叨
+
+1. [详解Redis的架构演化之路（附16张图解）](https://mp.weixin.qq.com/s/NjFVo0ht9tk1g9fOkHniTA)
+
+十、Go招聘
+
+1. [厉害了我的Go!   快来看看这份书单吧！](https://mp.weixin.qq.com/s/-ADK6w-eOighcjUfmhFCkg)
+
+十一、GoUpUp
+
+1. [Go 每日一库之 bubbletea](https://mp.weixin.qq.com/s/Hwlxbm1hQ5HfzA3yakg1Ig)
+
+十二、脑子进煎鱼了
+
+1. [我要提高 Go 程序健壮性，Fuzzing 来了！](https://mp.weixin.qq.com/s/zdsrmlwVR0bP1Q_Xg_VlpQ)
+
+2. [一文带你由浅入深地解读 Go Zap 的高性能](https://mp.weixin.qq.com/s/zqYNu2uTJe1UXiWvm98dOw)
+
+## GOCN每日新闻--2021-06-16
+
+1.说说 Golang goroutine 并发那些事儿 https://blog.51cto.com/u_15162069/2907504
+
+2.fasthttp：比 net/http 快十倍的 Go 框架 (server 篇)  https://www.luozhiyun.com/archives/574
+
+3.详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？ https://segmentfault.com/a/1190000040181868
+
+4.一个 Gin 缓存中间件的设计与实现 https://www.cyhone.com/articles/gin-cache
+
+5.用于加载 csv 和 excel (xlsx) 文件并运行 sql 命令的命令行工具 https://github.com/dhamith93/csv-sql
+
+## gopherDaily--2021-06-16
+1.致力于打造精品Go社区且每天都有新内容的“gopher部落”为广大Gopher准备了端午节+618福利，福利一直持续到6月18日，先到先得！欢迎广大gopher加入！ - https://t.zsxq.com/bUZzJ27
+
+2.如何用signoz监控go应用 - https://signoz.io/blog/monitoring-your-go-application-with-signoz/
+
+3.2021年呈爆炸式增长的编程语言 - https://preettheman.medium.com/programming-languages-with-exploding-growth-in-2021-c5860e13050b
+
+4.Mmark: 面向IETF RFC文档的markdown处理器 - https://github.com/mmarkdown/mmark
+
+5.kubernetes与vm并行 - https://thenewstack.io/parallels-of-vms-and-kubernetes/
+
+6.基于BadgerDB和raft的分区容错key-value存储 - https://github.com/adityameharia/ravel
+
+7.gobrew: 另一个go版本管理器 - https://github.com/kevincobain2000/gobrew
+
+8.使用应用网关在Azure上实现Kubernetes ingress：如何在一台主机上暴露多个服务 - https://itnext.io/kubernetes-ingress-on-azure-using-the-application-gateway-2779b647deb5
+
+9.使用ytt, kbld和kapp部署k8s应用 - https://carvel.dev/blog/deploying-apps-with-ytt-kbld-kapp/
+
+10.使用 kube-vip 搭建高可用 Kubernetes 集群 - https://mp.weixin.qq.com/s/yNYWOY9HWvLuVPmT9XZInw
+
+11.我们如何使用metamonitoring Prometheus服务器来监控Grafana实验室的所有其他Prometheus服务器 - https://grafana.com/blog/2021/04/08/how-we-use-metamonitoring-prometheus-servers-to-monitor-all-other-prometheus-servers-at-grafana-labs/
+
+
+## 码农桃花源--2021-06-16
+### 文章分享
+
+1.[如何搞坏redis](https://mp.weixin.qq.com/s/YKAEjPVABpSxyxLieyqPsg)
+
+2.[redis 1-10一个系列推荐阅读](https://mp.weixin.qq.com/s/mkL7rs5AojIlcjlPwk2xBg)
+
+3.[超硬核redis面试题](https://mp.weixin.qq.com/s/YStMnPw8V_-cqBhQrHsN8Q)
+
+### 面试题
+
+1.Redis的字典是如何实现的？简述渐进式rehash过程
+
+2.谈谈对Redis的反应堆模式的认识
+
+3.谈谈Redis的ZIPLIST的底层设计和实现 
+
+4.谈谈对Redis的内存回收机制的理解
+
+### 每日算法
+
+「搜索旋转排序数组」：https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
+
 ## go中文网每日资讯--2021-06-15
 
 
