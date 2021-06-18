@@ -8,6 +8,100 @@
 # gocn_news_set_202
 
 
+## go中文网每日资讯--2021-06-17
+
+
+一、Go语言中文网
+
+1. [从一道题讲起：Go 的不可寻址值和切片](https://mp.weixin.qq.com/s/mY_Tf2M-su-urHw2ItbC1A)
+
+2. [女朋友问我：你知道Go语言参数传递是传值还是传引用吗？](https://mp.weixin.qq.com/s/f7tCrLn3Iah6WB5ANqmCsA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-16)——详解Redis的架构演化之路](https://mp.weixin.qq.com/s/yMVEW2rzwg_5ApX-BcGu-Q)
+
+三、polarisxu
+
+1. [Go1.17 新特性之切片变数组](https://mp.weixin.qq.com/s/cl-Qsj6oK_6MKuMZHSDV5Q)
+
+四、脑子进煎鱼了
+
+1. [回答我，停止 Goroutine 有几种方法？](https://mp.weixin.qq.com/s/tN8Q1GRmphZyAuaHrkYFEg)
+
+2. [招聘：Go 工程师  年薪40-100万，没有996和007！](https://mp.weixin.qq.com/s/ncXdLQA4muB9WRGPZa9YzA)
+
+五、HHFCodeRv
+
+1. [localhost 就一定是 localhost 么?](https://mp.weixin.qq.com/s/I69v_lX-Wx7jxx9ddjT2Og)
+
+六、码农桃花源
+
+1. [通过实例理解 Go 逃逸分析](https://mp.weixin.qq.com/s/wNIX6LeHnBsl1UQuRtmC1g)
+
+七、k8s技术圈
+
+1. [创建 Tekton 流水线](https://mp.weixin.qq.com/s/M08CrTEeriZwvNCjlaZdkg)
+
+八、好未来技术
+
+1. [服务网格在网校平台研发部的实践和思考](https://mp.weixin.qq.com/s/Lbu228IknOJy6lmhTxFtcQ)
+
+九、mohuishou
+
+1. [Go timer 是如何被调度的？](https://mp.weixin.qq.com/s/YXYCmypE5qCK2SG342tcpg)
+
+十、Go招聘
+
+1. [全球语音视频云服务提供商ZEGO招聘](https://mp.weixin.qq.com/s/SYxgH3o2gzMON1dTGvvMvQ)]
+
+
+
+
+ 
+## GOCN每日新闻--2021-06-17
+1.译文 Go 性能工具小抄 https://gocn.vip/topics/12198
+
+2.徒手用 Go 写个 Redis 服务器（Godis）https://www.cnblogs.com/xueweihan/p/14891859.html
+
+3.Go 所有设计模式的流程图与代码实现 https://dev.to/gopher/go-all-design-patterns-code-with-workflow-ea1
+
+4.详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？ https://eddycjy.com/posts/go/go-bootstrap0/
+
+5.一篇文章带你搞懂 etcd 3.5 的核心特性 https://mp.weixin.qq.com/s/AYdDdFfJMRvaye0Esh7ImQ
+
+
+
+## gopherDaily--2021-06-17
+1.致力于打造精品Go社区且每天都有新内容的“gopher部落”为广大Gopher准备了端午节+618福利，福利一直持续到6月18日，先到先得！欢迎广大gopher加入！ - https://t.zsxq.com/bUZzJ27
+
+2.傻瓜式的Go Vim开发环境安装与设置 - https://akondas.com/blog/Go-Vim-Setup-For-Dummies
+
+3.2021 SRE报告 - https://f.hubspotusercontent30.net/hubfs/5595333/Catchpoint-2021-SRE-Report.pdf
+
+4.LinDB: 用Go重新实现饿了么在用的分布式时序数据库 - https://github.com/lindb/lindb
+
+5.基于sql.DB和fs.FS实现的数据库迁移工具 - https://github.com/maragudk/migrate
+
+6.使用Telepresence 2进行k8s调试和本地开发 - https://codefresh.io/kubernetes-tutorial/telepresence-2-local-development/
+
+7.使用Sloth让SLO(service level objectives)更容易 - https://itnext.io/slos-should-be-easy-say-hi-to-sloth-9c8a225df0d4
+
+8.wasmer 2.0发布，性能提升50% - https://wasmer.io/posts/wasmer-2.0
+
+9.理解kubernetes架构 - https://dev.to/pghildiyal/understanding-kubernetes-architecture-2k0l
+
+10.Clusternet: 让你的k8s集群（包括公共、私人、混合、边缘等）管理像访问互联网一样容易 - https://github.com/clusternet/clusternet
+
+11.有史以来被复制最多的StackOverflow片段是有缺陷的! - https://programming.guide/worlds-most-copied-so-snippet.html
+
+12.我们对Knative的营销是否有误？- https://ahmet.im/blog/knative-positioning/
+
+13.使用k8s和istio进行多集群管理 - https://thenewstack.io/multicluster-management-with-kubernetes-and-istio/
+
+
+
+
 ## go中文网每日资讯--2021-06-16
 
 
@@ -65,6 +159,9 @@
 
 2. [一文带你由浅入深地解读 Go Zap 的高性能](https://mp.weixin.qq.com/s/zqYNu2uTJe1UXiWvm98dOw)
 
+
+
+
 ## GOCN每日新闻--2021-06-16
 
 1.说说 Golang goroutine 并发那些事儿 https://blog.51cto.com/u_15162069/2907504
@@ -76,6 +173,9 @@
 4.一个 Gin 缓存中间件的设计与实现 https://www.cyhone.com/articles/gin-cache
 
 5.用于加载 csv 和 excel (xlsx) 文件并运行 sql 命令的命令行工具 https://github.com/dhamith93/csv-sql
+
+
+
 
 ## gopherDaily--2021-06-16
 1.致力于打造精品Go社区且每天都有新内容的“gopher部落”为广大Gopher准备了端午节+618福利，福利一直持续到6月18日，先到先得！欢迎广大gopher加入！ - https://t.zsxq.com/bUZzJ27
@@ -99,6 +199,9 @@
 10.使用 kube-vip 搭建高可用 Kubernetes 集群 - https://mp.weixin.qq.com/s/yNYWOY9HWvLuVPmT9XZInw
 
 11.我们如何使用metamonitoring Prometheus服务器来监控Grafana实验室的所有其他Prometheus服务器 - https://grafana.com/blog/2021/04/08/how-we-use-metamonitoring-prometheus-servers-to-monitor-all-other-prometheus-servers-at-grafana-labs/
+
+
+
 
 
 ## 码农桃花源--2021-06-16
