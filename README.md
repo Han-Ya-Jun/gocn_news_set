@@ -7,6 +7,81 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+## go中文网每日资讯--2021-06-18
+一、Go语言中文网
+
+1. [Go 结构体的另类玩法：命名空间](https://mp.weixin.qq.com/s/8QRLiFMM8c5MX04f4ScUtA)
+
+2. [深入理解 Golang Map](https://mp.weixin.qq.com/s/gdzeDxD8zQopcIUYiLgjbw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-17)——通过实例理解 Go 逃逸分析](https://mp.weixin.qq.com/s/IXNSqiymGW0ONd-VP0id-g)
+
+三、MoeLove
+
+1. [Apache APISIX Ingress Controller 首个 GA 版本 v1.0 正式发布！](https://mp.weixin.qq.com/s/Ou_MS56MlySvlJuHFkWRqA)
+
+四、脑子进煎鱼了
+
+1. [说好 defer 在 return 之后执行，为什么结果却不是？](https://mp.weixin.qq.com/s/oP90maykSzMXjdnudOKdSw)
+
+五、polarisxu
+
+1. [不能错过的 Go 图书](https://mp.weixin.qq.com/s/FigQswolXHWO9py_gt8xYQ)
+
+2. [手撕 Go 面试官：Go 结构体是否可以比较，为什么？](https://mp.weixin.qq.com/s/lugf6FzOjkQC4txssLa_9g)
+
+六、k8s技术圈
+
+1. [WiFi 万能钥匙-容器技术高级工程师 | 云原生招聘](https://mp.weixin.qq.com/s/5G3d05YRAVAZhDCzRkEtTA)
+
+七、Go招聘
+
+1. [几张图讲清 Go 内存分配管理](https://mp.weixin.qq.com/s/ZBm36JvtQQJ3FO_SivTrSw)
+
+2. [百度健康急聘Gopher](https://mp.weixin.qq.com/s/xOJNa5EWXtYOIi_h76r32Q)
+
+
+## GOCN每日新闻--2021-06-18
+
+1.Golang 开发的一站式云原生 PaaS 平台 https://github.com/erda-project/erda
+
+2.深度剖析 Go 的 nil https://mp.weixin.qq.com/s/0WhlsrMk_-wBHsUldZ60sg
+
+3.浅入深解读 Go Zap 的高性能 https://mp.weixin.qq.com/s/zqYNu2uTJe1UXiWvm98dOw
+
+4.我要提高 Go 程序健壮性，Fuzzing 来了 https://mp.weixin.qq.com/s/zdsrmlwVR0bP1Q_Xg_VlpQ
+
+5.Go 问题实战：时钟源为什么会影响性能 https://mp.weixin.qq.com/s/-czIqAldLTM4rp63g6O-Og
+
+
+## gopherDaily--2021-06-18
+1.致力于打造精品Go社区且每天都有新内容的“gopher部落”为广大Gopher准备了端午节+618福利，福利一直持续到6月18日，先到先得！欢迎广大gopher加入！ - https://t.zsxq.com/bUZzJ27
+
+2.使用Redis和Go实现可扩展的事件流(event streaming) - https://ably.com/blog/event-streaming-with-redis-and-golang
+
+3.nancy：由Sonatype OSS Index提供的检查Go依赖项中漏洞的工具 - https://github.com/sonatype-nexus-community/nancy
+
+4.access-controller：“谷歌一致性全球授权系统”论文的一个实现 - https://github.com/authorizer-tech/access-controller
+
+5.云原生应用打包(CNAB)工具 - https://github.com/getporter/porter
+
+6.观点：全局变量不是问题 - https://stonecode.ca/global-variables-arent-the-problem/
+
+7.经典旧文：https://www.freecodecamp.org/news/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192/
+
+8.Go template使用的三个tip - https://krishbhanushali.medium.com/3-simple-techniques-using-go-templates-6718e2cc77e2
+
+10.在k8s上运行flink - https://medium.com/empathyco/running-apache-flink-on-kubernetes-10815a26559e
+
+11.使用kubernetes custom resources管理临时环境 - https://medium.com/beamdental/using-kubernetes-custom-resources-to-manage-our-ephemeral-environments-f298610893e1
+
+12.社区不等于营销——为什么我们要社区化，而不仅是市场化？ - https://cloudnative.to/blog/community-marketing-why-we-need-go-to-community-not-just-go-to-market/
+
+13.apache kafka入门（精美动画版）- https://www.gentlydownthe.stream/
+
+14.map[uint]bool and map[uint]struct{}性能比较 - https://itnext.io/set-in-go-map-bool-and-map-struct-performance-comparison-5315b4b107b
 
 ## go中文网每日资讯--2021-06-17
 
