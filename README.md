@@ -83,6 +83,32 @@
 
 14.map[uint]bool and map[uint]struct{}性能比较 - https://itnext.io/set-in-go-map-bool-and-map-struct-performance-comparison-5315b4b107b
 
+## 码农桃花源--2021-06-17
+### 文章分享
+- [redis skiplist实现](https://mp.weixin.qq.com/s?__biz=Mzg5MTYyNzM3OQ==&mid=2247483959&idx=1&sn=7cb4da8022cabb61ec7a222e0d2817ba&chksm=cfcb302bf8bcb93dde85f3b573d7811fd37af9973615d132e8ee81acd1752e2614e72e0431e9&scene=178&cur_album_id=1899308563211091969#rd)
+
+
+- [redis 面试题](https://zhuanlan.zhihu.com/p/364787132)
+
+
+- [Redis如何删除数量过万以上Key而不影响业务](https://maimai.cn/article/detail?fid=1605049738&efid=PD1d90-MQAF-0GlPVbRoQw&share_channel=2&use_rn=1)
+
+
+### 面试题
+
+- Redis 的哨兵有什么功能？
+
+- Redis 哨兵和集群的区别是什么？
+
+- 缓存命中率表示什么？
+
+- 假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？
+
+
+### 每日算法
+
+「x的平方根」：https://leetcode-cn.com/problems/sqrtx/
+
 ## go中文网每日资讯--2021-06-17
 
 
