@@ -7,6 +7,64 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+
+## go中文网每日资讯--2021-06-19
+一、Go语言中文网
+
+1. [一本花了2.5年写成的Go免费在线图书](https://mp.weixin.qq.com/s/6OFl3r7MynoRNt8KSptG2g)
+
+2. [不能错过的 Go 图书](https://mp.weixin.qq.com/s/Wunq6VA1vIQohsNJ6x8rsw)
+
+3. [站长8年前的Go代码竟然进大厂的项目里了](https://mp.weixin.qq.com/s/timJJRvAOul3oT8v4Hw4AA)
+
+二、飞雪无情
+
+1. [Go语言实现的在终端演示幻灯片工具](https://mp.weixin.qq.com/s/Y6-K4jgRfCIafgYn_6gphw)
+
+三、亚军进化史
+
+1. [Go技术日报(2021-06-18)——几张图讲清 Go 内存分配管理](https://mp.weixin.qq.com/s/4TVJTHw1jzYHqdRdwaq4wg)
+
+四、k8s技术圈
+
+1. [使用 Workspaces 加速 Tekton 流水线](https://mp.weixin.qq.com/s/c9xC36H8-vaxgmhp2JEaBw)
+
+
+## GOCN每日新闻--2021-06-19
+1.Golang 的自然语言处理包   https://pkg.go.dev/github.com/james-bowman/nlp
+
+2.把 vue.js 应用打包进 golang   https://hackandsla.sh/posts/2021-06-18-embed-vuejs-in-go/
+
+3.一个高性能 http benchemark 工具拥有实时的 web ui 和命令行展示 https://github.com/six-ddc/plow
+
+4. 类似于 curl 但是是用于 grpc 的，跟 grpc server 交互的命令行工具 https://github.com/fullstorydev/grpcurl
+
+5. 一个商业级别的构建部署监控平台  https://github.com/erda-project/erda
+
+
+## gopherDaily--2021-06-19
+
+1.将vue.js嵌入到Go二进制文件中 - https://hackandsla.sh/posts/2021-06-18-embed-vuejs-in-go/
+
+2.基于fasthttp实现的高性能http压测工具 - https://github.com/six-ddc/plow
+
+3.油管视频：Go编程之禅 - https://www.youtube.com/watch?v=yd_rtwYaXps
+
+4.go定长或变长二进制编码https://nakabonne.dev/posts/binary-encoding-go/
+
+5.go-vcr: 通过记录你的HTTP交互并重放，以提供快速、确定和准确的代码测试 - https://github.com/dnaeon/go-vcr
+
+6.2021年可观察性(observability)的现状 - https://www.honeycomb.io/blog/state-of-observability-2021/
+
+7.Go实现的具有位图索引的高性能、列式、内存存储库 - https://github.com/kelindar/column
+
+8.面向开发者的Kubernetes上的现代持续交付 - https://dev.to/gabrieltanner/modern-continuous-delivery-on-kubernetes-for-developers-5chf
+
+9.深入理解k8s集群的DNS服务 - https://medium.com/kubernetes-tutorials/kubernetes-dns-for-services-and-pods-664804211501
+
+10.github上项目的k8s最佳实践徽章代表什么 - https://www.fairwinds.com/blog/github-kubernetes-best-practices-badge
+
+
 ## go中文网每日资讯--2021-06-18
 一、Go语言中文网
 
@@ -41,6 +99,9 @@
 1. [几张图讲清 Go 内存分配管理](https://mp.weixin.qq.com/s/ZBm36JvtQQJ3FO_SivTrSw)
 
 2. [百度健康急聘Gopher](https://mp.weixin.qq.com/s/xOJNa5EWXtYOIi_h76r32Q)
+
+
+
 
 
 ## GOCN每日新闻--2021-06-18
@@ -83,7 +144,7 @@
 
 14.map[uint]bool and map[uint]struct{}性能比较 - https://itnext.io/set-in-go-map-bool-and-map-struct-performance-comparison-5315b4b107b
 
-## 码农桃花源--2021-06-17
+## 码农桃花源--2021-06-18
 ### 文章分享
 - [redis skiplist实现](https://mp.weixin.qq.com/s?__biz=Mzg5MTYyNzM3OQ==&mid=2247483959&idx=1&sn=7cb4da8022cabb61ec7a222e0d2817ba&chksm=cfcb302bf8bcb93dde85f3b573d7811fd37af9973615d132e8ee81acd1752e2614e72e0431e9&scene=178&cur_album_id=1899308563211091969#rd)
 
