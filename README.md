@@ -7,6 +7,67 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+## go中文网每日资讯--2021-06-20
+
+
+一、Go语言中文网
+
+1. [搭建了一个Go官网](https://mp.weixin.qq.com/s/S21fFc0U3K8ZPJx_vbeX2w)
+
+2. [Go语言爱好者周刊：第 100 期 — 父亲节快乐](https://mp.weixin.qq.com/s/ZC4HS1cssK1nal9VuGP6-A)
+
+二、薯条的编程修养
+
+1. [Mutex和上厕所居然有这么多异曲同工之妙](https://mp.weixin.qq.com/s/wh_JIPxmo1V2gm6AeK4idQ)
+
+三、亚军进化史
+
+1. [Go技术日报(2021-06-19)——基于fasthttp实现的高性能http压测工具](https://mp.weixin.qq.com/s/Y4_735gdz-Fv9lX0T_fY9w)
+
+四、k8s技术圈
+
+1. [使用 Tekton Sidecar 实现 Docker IN Docker 构建](https://mp.weixin.qq.com/s/3cWv3Djmr84ysU9GBzZbSQ)
+
+五、有赞技术团队
+
+1. [有赞TCP网络编程最佳实践](https://tech.youzan.com/you-zan-tcpwang-luo-bian-cheng-zui-jia-shi-jian/)
+
+六、云原生技术爱好者社区
+
+1. [A Big Picture of Kubernetes](https://mp.weixin.qq.com/s/xMlvQzfgFZGgghV31tTVyw)
+
+七、Go招聘
+
+1. [股友说：Redis 主从复制就这？另外下周股什么，留言区告诉我](https://mp.weixin.qq.com/s/W1bsgGVfHURYUuAUlfenjg)
+ 
+
+
+## GOCN每日新闻--2021-06-20
+
+1.Casnode: React + Beego 的开源论坛 https://github.com/casbin/casnode
+
+2.YoyoGo v1.7.2 发布,支持 Nacos&Apollo 配置中心   https://gocn.vip/topics/12216
+
+3.Go 结构体的另类玩法：命名空间   https://mp.weixin.qq.com/s/8QRLiFMM8c5MX04f4ScUtA
+
+4.Go1.17 新特性之切片变数组 https://polarisxu.studygolang.com/posts/go/dynamic/go1.17-slice-to-array/
+
+5.深入理解 Golang Map https://mp.weixin.qq.com/s/gdzeDxD8zQopcIUYiLgjbw
+
+
+## gopherDaily--2021-06-20
+- 1.有赞TCP网络编程最佳实践 - https://tech.youzan.com/you-zan-tcpwang-luo-bian-cheng-zui-jia-shi-jian/
+- 2.重写certificate parser，去除大部分反射，性能大幅提升 - https://github.com/golang/go/commit/51ff3a6965b3fc40aceebe90eaf15a8a1a00a452
+- 3.Go问题实战：时钟源为什么会影响性能 - https://mp.weixin.qq.com/s/-czIqAldLTM4rp63g6O-Og
+- 4.go实现的简单的视频会议工具 - https://github.com/boratanrikulu/quik.do
+- 5.在Go 1.16版本中使用embed - https://lakefs.io/working-with-embed-in-go/
+- 6.油管视频：IPFS工作原理 - https://www.youtube.com/watch?v=0IGzEYixJHk
+- 7.理解kubernetes operator模式 - https://iximiuz.com/en/posts/kubernetes-operator-pattern/
+- 8.Argo-CD自动驾驶仪：提供了一种安装Argo-CD和管理GitOps仓库的参考方式 - https://github.com/argoproj-labs/argocd-autopilot
+- 9.2021年应该知道的7个区块链趋势 -  https://blockchain.51cto.com/art/202106/666970.htm
+- 10.软件工程领域实用资料大全 - https://github.com/ixaxaar/awesome-engineering-management
+- 11.在k8s上运行vault和consul - https://testdriven.io/blog/running-vault-and-consul-on-kubernetes/
+- 12.超实用的基于ASCII字符的绘图工具 - https://asciiflow.com/
 
 ## go中文网每日资讯--2021-06-19
 一、Go语言中文网
