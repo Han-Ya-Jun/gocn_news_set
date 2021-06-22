@@ -7,6 +7,121 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+## go中文网每日资讯--2021-06-21
+
+
+一、Go语言中文网
+
+1. [为什么 Go 关心 unsafe.Pointer 和 uintptr 之间的差别](https://mp.weixin.qq.com/s/v37jHYwt-msNIwIntlRZPg)
+
+2. [Go：你真的了解 timeout 嘛？](https://mp.weixin.qq.com/s/dbZYwa7a9Q6I6-tb7T44QQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-20)——有赞TCP网络编程最佳实践](https://mp.weixin.qq.com/s/qBNZAGmlzbeN-bk-1AoRRw)
+
+三、k8s技术圈
+
+1. [阿里云容器服务-Kubernetes高级工程师 | 云原生招聘](https://mp.weixin.qq.com/s/TElu3901a77Kr3KvgWsRew)
+
+四、Go招聘
+
+1. [灵魂一问：unsafe 包真的不安全吗？](https://mp.weixin.qq.com/s/PtAWvFrEUC8qXT3b46F7Rg)
+
+五、CloudNativeCommunity
+
+1. [蚂蚁开源多运行时项目 Layotto 简介](https://mp.weixin.qq.com/s/IkvsQqpyCTVhnXOfUXswcA)
+
+六、脑子进煎鱼了
+
+1. [漫谈 MQ：要消息队列（MQ）有什么用？](https://mp.weixin.qq.com/s/UrAJrUBKHNG7-UAabsqLZA)
+
+2. [我无语了，Go 中 +-*/ 四个运算符竟然可以连着用](https://mp.weixin.qq.com/s/8GRq6At23fMho3BKkylcGw)
+
+七、董泽润的技术笔记
+
+1. [一次有趣的 Docker 容器网络排查](https://mp.weixin.qq.com/s/LtgGcS9b8X-TqbfaLfBldQ)
+
+2. [小技巧！如何用 systemtap 排查问题](https://mp.weixin.qq.com/s/f9bPJOW2OR-vwp5DlZsDZQ)
+
+八、PingCAP
+
+1. [TiDB 在网易游戏的应用实践](https://mp.weixin.qq.com/s/Zh6baRekrZSDWYtFna8ZZg)
+
+九、Go夜读
+
+1. [理论结合实践详解 lsm 树存储引擎（bitcask、moss、leveldb 等） PPT （多图）](https://mp.weixin.qq.com/s/QxTtNdtkrJxRhaxUEKTqSg)
+
+十、奇伢云存储
+
+1. [自制文件系统 — 04 HelloFS 进阶 分布式加密文件系统](https://mp.weixin.qq.com/s/rxabk_o5YuSko8SM8EdouA)
+
+
+## gopherDaily--2021-06-21
+
+1.Go语言零拷贝优化 - https://zhuanlan.zhihu.com/p/381788230
+
+2.使用harbor operator部署harbor - https://mp.weixin.qq.com/s/O7P3ODQlitjSPnOaKiJetQ
+
+3.观点：对Go语言的4个批判 - https://www.toptal.com/go/4-go-language-criticisms
+
+4.mahi: 多合一的HTTP服务，用于文件的上传、处理、服务和存储 - https://github.com/threeaccents/mahi
+
+5.Go实现的基于命令行的时间跟踪工具 - https://github.com/dominikbraun/timetrace
+
+6.掌握Git命令的本质 - https://mp.weixin.qq.com/s/f4dEz4ckDIo6dF51cqopIA
+
+7.授权（authorization）的架构挑战 - https://thenewstack.io/the-architectural-challenge-of-authorization/
+
+8.每个程序员都应该知道的关于SSD的事情 - https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html
+
+9.使用XMind图文并茂地记录的计算机科学基础知识 - https://github.com/smartkeyerror/psyduck
+
+10.常见unix命令的现代/更快/更安全的替代品集合 - https://github.com/ibraheemdev/modern-unix
+
+11.Kubernetes：对主要攻击的检验 - https://thenewstack.io/kubernetes-an-examination-of-major-attacks/
+
+12.修复由MongoDB损坏和Heketi/GlusterFS配置失败引起的生产故障 - https://tilsupport.wordpress.com/2021/03/14/fixing-production-down-caused-by-mongodb-corruption-and-heketi-glusterfs-failed-provisioning/
+
+## GOCN每日新闻--2021-06-21
+
+1.一切皆有可能——Golang 中的” ThreadLocal“库 https://mp.weixin.qq.com/s/CPthQSqUIO-u-VkTQSMVXA
+
+2.Golang 整洁接口最佳实践 https://mp.weixin.qq.com/s/eNoZTfh3L7mT-501g04YWQ
+
+3.使用 Github Action 自动发布 Go 程序 https://web3.coach/golang-github-actions-release-binaries-tutorial
+
+4.column: 位图索引高性能列式内存数据库 https://github.com/kelindar/column
+
+5.有赞 TCP 网络编程最佳实践 https://tech.youzan.com/you-zan-tcpwang-luo-bian-cheng-zui-jia-shi-jian/
+
+
+## 码农桃花源--2021-06-21
+### 文章分享
+
+- [上周股文](https://mp.weixin.qq.com/s/W1bsgGVfHURYUuAUlfenjg)
+
+
+- [redis 多线程网络模型](https://mp.weixin.qq.com/s/-op5WR1wSkgAuP7JYZWP8g)
+
+
+- [redis 分布式锁的实现](https://maimai.cn/article/detail?fid=1605049738&efid=PD1d90-MQAF-0GlPVbRoQw&share_channel=2&use_rn=1)
+
+
+
+### 面试题
+
+1.什么是内存抖动，有什么解决方案？
+
+2.Redis 宕机后如何实现快速恢复？
+
+3.GMP 模型中为什么需要 P？
+
+4. 简述 epoll 模型的底层数据结构以及工作流程？
+
+### 每日算法
+
+「堆排序」：https://leetcode-cn.com/problems/sort-an-array/
 ## go中文网每日资讯--2021-06-20
 
 
