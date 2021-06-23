@@ -7,6 +7,128 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+## go中文网每日资讯--2021-06-22
+
+
+一、Go语言中文网
+
+1. [Go项目推荐：一个快速安全的批量重命名开源工具](https://mp.weixin.qq.com/s/QOfLjr1RllbT0BPdqNNOzA)
+
+2. [一文讲懂 Go 服务的优雅重启和更新](https://mp.weixin.qq.com/s/_yIwbQCNxO-9CJvPqCAd1w)
+
+3. [在你的 Android 手机上运行 Golang 程序](https://mp.weixin.qq.com/s/EFHmjoTh0ji9Zc_YS6aPoQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-21)——Golang 整洁接口最佳实践](https://mp.weixin.qq.com/s/BMBRD7m8WabCTp5eOhgrLw)
+
+三、Golang来啦
+
+1. [gRPC入门指南 — 服务端流式RPC（二）](https://mp.weixin.qq.com/s/f2-yA_Q9wPOClndKEwakMw)
+
+四、polarisxu
+
+1. [Go1.17 快报之标准库越来越注重易用性](https://mp.weixin.qq.com/s/6MWl8eT0KetLpLql_YLf4A)
+
+2. [难以驾驭的 Go timer，一文带你参透计时器的奥秘](https://mp.weixin.qq.com/s/a481CXU6VymHTH8OOVimGQ)
+
+五、脑子进煎鱼了
+
+1. [编程思考：对象生命周期的问题](https://mp.weixin.qq.com/s/Hoy9cqHe9RZqEA5T9Dys5w)
+
+六、MoeLove
+
+1. [为什么我们需要一个容器镜像的包管理器](https://mp.weixin.qq.com/s/91jhyW5UrKLH12RYKSXBGQ)
+
+七、高可用架构
+
+1. [dubbogo 是如何炼成的？](https://mp.weixin.qq.com/s/attVemCAHybGm9xli9JlUw)
+
+八、Go夜读
+
+1. [Go 1.17 因安全问题修改的 URL query parsing](https://mp.weixin.qq.com/s/LM2zzbk1lr7KC0bV801qTw)
+
+九、GoUpUp
+
+1. [Go 每日一库之 ozzo-validation](https://mp.weixin.qq.com/s/TWlmXSl8xH5gMj0ziIkuYg)
+
+十、TGO鲲鹏会
+
+1. [B站数据平台负责人毛剑：从管理到下一线，优秀管理者应具备什么样的素质？](https://mp.weixin.qq.com/s/zyl5pjPiyE4FgCNH0HK2VA)
+
+十一、Go招聘
+
+1. [网易游戏招聘Gopher，这福利有点香哦](https://mp.weixin.qq.com/s/8ZVpsngJC2_GxfhD4mj3AQ)
+
+
+
+## GOCN每日新闻--2021-06-22
+
+1.向 Go 编译器开发代码 https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
+
+2.Go 减少内存分配 https://chris124567.github.io/2021-06-21-go-performance/
+
+3.Go 1.17 因安全问题修改的 URL query parsing https://mp.weixin.qq.com/s/LM2zzbk1lr7KC0bV801qTw
+
+4.Go 自然语言检测库 https://github.com/pemistahl/lingua-go
+
+5.在 Golang 中是锁或 Channel 还是 Atomic https://mp.weixin.qq.com/s/DNFAcTLtXO5UEkSZ-zCOKg
+
+
+## gopherDaily--2021-06-22
+
+1.Gopher夏季阅读清单 - https://github.com/ardanlabs/gotraining/tree/master/reading
+
+2.Dmitry Vyukov提交一个变更，该变更是的读写锁的写锁性能有40%以上的大幅提升 - https://go-review.googlesource.com/c/go/+/329769
+
+3.向Go编译器贡献代码实战指南（内容详尽） - https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
+
+4.在go中减少内存分配实战 - https://chris124567.github.io/2021-06-21-go-performance/
+
+5.Go语言中的竞态条件 - https://ercangercek.medium.com/race-conditions-in-golang-511314c0b85
+
+6.Dolt：一个100%兼容的、可直接替换的MySQL - https://www.dolthub.com/blog/2021-06-21-copying-mysqls-dumb-decisions/
+
+7.为实现云计算独立而需要考虑的5项开放技术 - https://thenewstack.io/5-open-technologies-to-consider-for-cloud-independence/
+
+8.超越块和文件：COSI使Kubernetes中的对象存储成为可能 - https://thenewstack.io/beyond-block-and-file-cosi-enables-object-storage-in-kubernetes/
+
+9.你不知道的关于Open Policy Agent的5件事 - https://thenewstack.io/5-things-you-didnt-know-about-open-policy-agent/
+
+10.Google消息应用简史 - https://www.theverge.com/2021/6/21/22538240/google-chat-allo-hangouts-talk-messaging-mess-timeline
+
+11.最准确的Go自然语言检测库，长文本和短文本均适用 - https://github.com/pemistahl/lingua-go
+
+
+## 码农桃花源--2021-06-22
+### 文章分享
+
+
+- [redis 47连问](https://zhuanlan.zhihu.com/p/364787132)
+
+
+- [用Go重新实现饿了么在用的分布式时序数据库](https://github.com/lindb/lindb)
+
+
+- [go 设计模式一  创建型](https://lailin.xyz/post/singleton.html)
+
+
+### 面试题
+
+- 说说 Redis 哈希槽的概念？
+
+- Redis 有哪几种数据“淘汰”策略？
+
+- 一个字符串类型的值能存储最大容量是多少？
+
+
+### 每日算法
+
+「二分查找」：https://leetcode-cn.com/problems/binary-search/
+
+
+
+
 ## go中文网每日资讯--2021-06-21
 
 
