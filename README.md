@@ -7,6 +7,150 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+## go中文网每日资讯--2021-06-23
+
+
+一、Go语言中文网
+
+1. [Go：随机数是怎样产生的？](https://mp.weixin.qq.com/s/lg0LhtK4CiM7-OC790aYCQ)
+
+2. [Go 语言保姆级教程（2021版上）](https://mp.weixin.qq.com/s/Q4mHlT3jjsh-D_PTgmPUvA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-22)——毛老师的管理之道](https://mp.weixin.qq.com/s/JmpBIeZqVdGiEydVY10_kA)
+
+三、码农桃花源
+
+1. [Go gomaxprocs 调高引起调度性能损耗](https://mp.weixin.qq.com/s/k9Zg3ji4Hp8dmYEkqx-gAg)
+
+四、腾讯技术工程
+
+1. [一文深入理解 Kubernetes](https://mp.weixin.qq.com/s/OXiqHvWJkmqz7FbclDd1jA)
+
+五、董泽润的技术笔记
+
+1. [小技巧！k8s 环境下调试服务](https://mp.weixin.qq.com/s/dSCNm-Yh1UQyaBz_J33UWQ)
+
+2. [Strace 解决性能问题案例一则](https://mp.weixin.qq.com/s/B7WWNNwZ23kVeXP8ufLnAQ)
+
+六、奇伢云存储
+
+1. [深度好文：进程和线程这 19 个问题太强了](https://mp.weixin.qq.com/s/wTicQwTu8Ta8gLv2fZ3rCA)
+
+七、k8s技术圈
+
+1. [GitLab 触发 Tekton 任务构建](https://mp.weixin.qq.com/s/Pc0DhHLtg-_n5vQ-IfzDCQ)
+
+八、云原生玩码部落
+
+1. [了解一下Go中的&quot;sb&quot;代码？](https://mp.weixin.qq.com/s/jXHqpNkTs6SwB9_JDIl85Q)
+
+九、MoeLove
+
+1. [开源项目的 5 年长跑，runc v1.0 终于正式发布！](https://mp.weixin.qq.com/s/NbJ8rsUBMNCyEygUqaxXpA)
+
+十、网管叨bi叨
+
+1. [Go语言的IO库那么多，我该怎么选？](https://mp.weixin.qq.com/s/TtN6NZ8hQ2AIf0C8wVzkjA)
+
+十一、脑子进煎鱼了
+
+1. [Go 缓冲系列之-free-cache](https://mp.weixin.qq.com/s/VmPIW6HhVrDyeADiRmkC_Q)
+
+十二、Go招聘
+
+1. [回答我，停止 Goroutine 有几种方法？](https://mp.weixin.qq.com/s/5y4Njz0tTLrO9rLPmbBT2A)
+
+2. [待遇比肩字节的招聘，你要来挑战嘛？](https://mp.weixin.qq.com/s/xv0dme8y2N9-R_ulmrfbpw)
+
+
+
+## GOCN每日新闻--2021-06-23
+
+1.如何在 Go 中正确使用基本身份验证 https://www.alexedwards.net/blog/basic-authentication-in-go
+
+2.Go 处理错误的方式 https://www.bacancytechnology.com/blog/golang-error-handling
+
+3.Go 实现的用于与源代码一起版本控制数据的工具 https://github.com/kevin-hanselman/dud/
+
+4.GO 抓取网页信息 https://javarustacean.wordpress.com/2021/06/21/web-scrapping-in-go/
+
+5.Go 实时 Web UI 和终端显示的高性能 HTTP 基准测试工具 https://github.com/six-ddc/plow
+
+## gopherDaily--2021-06-23
+1.Go语言错误处理之道 - https://www.bacancytechnology.com/blog/golang-error-handling
+
+2.用Go实现网络抓取 - https://javarustacean.wordpress.com/2021/06/21/web-scrapping-in-go/
+
+3.liqo: 实现跨Kubernetes集群的动态和分散的资源共享 - https://github.com/liqotech/liqo
+
+4。如何在Go中正确使用基本认证 - https://www.alexedwards.net/blog/basic-authentication-in-go
+
+5.OpenFaaS和Inlets作者Alex Ellis出版新书《Everyday Go》- https://blog.alexellis.io/i-wrote-a-book-about-golang/
+
+6.Dud：一个与源代码一起进行数据版本管理和建立数据管道的工具 - https://github.com/kevin-hanselman/dud/
+
+7.MOSN 子项目 Layotto：开启服务网格+应用运行时新篇章 - https://mp.weixin.qq.com/s/gKY7dsVRU0glf-n-fEsr3g
+
+8.traefik Go维护者指南 - https://doc.traefik.io/traefik/contributing/maintainers-guidelines/
+
+9.2021年的软件开发人员短缺即将到来 - https://cacm.acm.org/magazines/2021/7/253461-the-2021-software-developer-shortage-is-coming/fulltext
+
+10.三万字 | 2021 年 Rust 行业调研报告 - https://mp.weixin.qq.com/s/9rjeVgVzmrC0wWhV4wA9FA
+
+## 码农桃花源--2021-06-23
+### 文章分享
+
+
+- [k8s 调试小技巧](https://mp.weixin.qq.com/s/dSCNm-Yh1UQyaBz_J33UWQ)
+
+
+- [go nil到底是什么](https://github.com/lindb/lindb)
+
+
+- [go 设计模式一  创建型 工厂模式](https://lailin.xyz/post/factory.html)
+
+
+### 面试题
+
+##### reids总结：
+
+- 1.说说 Redis 哈希槽的概念？
+
+- 2.Redis 有哪几种数据“淘汰”策略？
+
+- 3.一个字符串类型的值能存储最大容量是多少？
+
+- 4.Redis 宕机后如何实现快速恢复？
+
+- 5.Redis 的哨兵有什么功能？
+
+- 6.Redis 哨兵和集群的区别是什么？
+
+- 7.缓存命中率表示什么？
+
+- 8.假如 Redis 里面有 1 亿个 key，其中有 10w 个 key 是以某个固定的已知的前缀开头的，如果将它们全部找出来？
+
+- 9.Redis的字典是如何实现的？简述渐进式rehash过程
+
+- 10.谈谈对Redis的反应堆模式的认识
+
+- 11.谈谈Redis的ZIPLIST的底层设计和实现
+ 
+- 12.谈谈对Redis的内存回收机制的理解
+
+- 13.Redis List底层实现
+
+- 14.Redis主从分布 主服务挂了会怎样(Sentinel 如何进行选举) 
+
+- 15.Redis为什么用跳表而不用平衡树？
+
+
+### 每日算法
+
+「买卖股票的最佳时机」：https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/
+
 ## go中文网每日资讯--2021-06-22
 
 
