@@ -7,6 +7,91 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+
+
+
+## go中文网每日资讯--2021-06-25
+一、Go语言中文网
+
+1. [Go: GC 是怎样监听你的应用的？](https://mp.weixin.qq.com/s/Nqr096q51NWbyN6VujFTzA)
+
+2. [面试官：你能用Go写段代码判断当前系统的存储方式吗？](https://mp.weixin.qq.com/s/RrpGbu5ld9mQect6vNExoQ)
+
+二、MoeLove
+
+1. [更优雅的 Kubernetes 集群事件度量方案](https://mp.weixin.qq.com/s/0V_qTDCgDoUWBiFYRSK_Ag)
+
+2. [[译]数据包在 Kubernetes 中的一生（3）](https://mp.weixin.qq.com/s/7z_fUgxwKfDzetJcOxDDRQ)
+
+三、脑子进煎鱼了
+
+1. [注释竟然还有特殊用途？一文解惑 //go:linkname 指令](https://mp.weixin.qq.com/s/_d1Q0Sx_KPrzEd4psPccMg)
+
+四、码农桃花源
+
+1. [分析 Go time.After 引起内存暴增 OOM 问题](https://mp.weixin.qq.com/s/jaIdqF0bFpHz_eyPsHjbwQ)
+
+五、GoUpUp
+
+1. [Go 每日一库之 dateparse](https://mp.weixin.qq.com/s/n9P65sFgfZF8Bbkc2-fhkA)
+
+六、polarisxu
+
+1. [重磅！Go 启用新的官方问答社区](https://mp.weixin.qq.com/s/nEWD2SBzTpCTe_kmpq2c1w)
+
+七、Go招聘
+
+1. [有问题，上知乎。找Gopher，来Go招聘](https://mp.weixin.qq.com/s/LZCpRFDgYFiuJOSE0GENPw)
+
+## GOCN每日新闻--2021-06-25
+1.项目中如何内嵌 Submodule https://medium.com/@RashadAnsari/working-with-go-sub-module-as-a-library-93e5db59a0f2
+
+2.Go 语言微服务开发快速上手指南 https://kaushalprajapati-25586.medium.com/golang-project-starter-60bfbbe63845
+
+3.为你的 Go 应用创建轻量级 Docker 镜像 http://www.cnblogs.com/you-men/p/14929232.html
+
+4.TDD 是如何帮助我们更好地开发 Go 代码,原理与实践 https://changelog.com/gotime/185
+
+5.Google 提出开源软件漏洞处理框架 https://security.googleblog.com/2021/06/announcing-unified-vulnerability-schema.html
+
+## gopherDaily--2021-06-25
+- 1.黑带Go程序员 - https://bitfieldconsulting.com/golang/black-belt
+- 2.谷歌宣布宣布开放源代码的统一漏洞模式 - https://security.googleblog.com/2021/06/announcing-unified-vulnerability-schema.html
+- 3.容忍容器镜像仓库的故障 - https://blog.kintone.io/entry/neco-registry
+- 4.红帽：人为错误是导致Kubernetes安全事故的主要原因 - https://thenewstack.io/red-hat-human-error-a-leading-cause-of-kubernetes-security-mishaps/
+- 5.分布式追踪是个麻烦事，原因在此 - https://thenewstack.io/distributed-tracing-is-a-hassle-heres-why/
+- 6.字节开源的高性能json编解码包 - https://github.com/bytedance/sonic
+- 7.深度 | 字节跳动微服务架构体系演进 - https://zhuanlan.zhihu.com/p/382833278
+- 8.JWT对用户会话是危险的–有一个解决方案 - https://redislabs.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/
+- 9.Windows 11介绍 - https://blogs.windows.com/windowsexperience/2021/06/24/introducing-windows-11/
+- 10.随着区块链炒作的消退，开发者对以太坊进行了认真的研究 - https://thenewstack.io/as-blockchain-hype-fades-developers-give-ethereum-a-serious-look/
+
+## 码农桃花源--2021-06-25
+### 文章分享
+
+- [channel 实现](https://halfrost.com/go_channel/)
+
+
+- [计算机网络常见面试题](https://mp.weixin.qq.com/s/xzPcrw5Eh3P-9NtnGd5ycg)
+
+
+- [go 设计模式三  原型模式](https://lailin.xyz/post/prototype.html)
+
+
+### 面试题
+
+1.计算机网络的各层协议及作用？
+
+2.为什么需要三次握手，而不是两次？或者是四次
+
+3.什么是 SYN洪泛攻击？如何防范？
+
+
+### 每日算法
+
+「字符串转换整数」：https://leetcode-cn.com/problems/string-to-integer-atoi/
+
+
 ## go中文网每日资讯--2021-06-24
 一、Go语言中文网
 
