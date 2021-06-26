@@ -7,6 +7,112 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+## go中文网每日资讯--2021-06-24
+一、Go语言中文网
+
+1. [图解 Go GC 内存标记法](https://mp.weixin.qq.com/s/t3SffaVmHUb_vqB9pn5yqA)
+
+2. [Go 语言保姆级教程（2021版下）](https://mp.weixin.qq.com/s/cSoPfFxPP7rR9AtDnSVWrg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-23)——一文深入理解 Kubernetes](https://mp.weixin.qq.com/s/04tZOu6G7fNIauSH1apyEw)
+
+三、k8s技术圈
+
+1. [Kubernetes 持续交付工作流管理软件 - Devtron](https://mp.weixin.qq.com/s/FFLUe-Uzw0ucEnpA2fIlOA)
+
+四、码农桃花源
+
+1. [Go gctrace引起 runtime 调度阻塞](https://mp.weixin.qq.com/s/eHEvVzmpPYXAQgcdd_B55w)
+
+五、polarisxu
+
+1. [这是要干嘛？！微软招 Go 编译器全职开发人员](https://mp.weixin.qq.com/s/gKeFG5mCLUsmXPPWratSGw)
+
+六、CloudNativeCommunity
+
+1. [《Istio 大咖说》第4期回放及问答整理|百度的 Istio 大规模生产落地实践](https://mp.weixin.qq.com/s/REJdsvwaiW7ZgFy5ATQRtA)
+
+七、脑子进煎鱼了
+
+1. [用 Go 来了解一下 Redis 通讯协议](https://mp.weixin.qq.com/s/pLwRiG1H_EAANadzz3VaLg)
+
+八、Go招聘
+
+1. [50KGopher的面试题是什么样的？](https://mp.weixin.qq.com/s/BXazVYFpDWKKQj9taRNc_g)
+
+九、Golang来啦
+
+1. [gRPC入门指南 — 客户端流式RPC（三）](https://mp.weixin.qq.com/s/06IQa335XPXDRa2qoz9mRg)
+
+## GOCN每日新闻--2021-06-24
+1.使用 Go 泛型的函数式编程 https://gocn.vip/topics/12233
+
+2.一文读懂 eBPF 对 Kubernetes 可观测的重要性 https://mp.weixin.qq.com/s/xsCvDbCuVyn6kT2BFtHAjg
+
+3.Golang 语言中的 channel 实现原理 https://mp.weixin.qq.com/s/6Q4lqlIBWl2g-EqU-M-rHw
+
+4.Go 性能工具小抄 https://gocn.vip/topics/12198
+
+5.23 种设计模式的 Go 语言实现（二）https://bbs.huaweicloud.com/blogs/280291
+
+
+## gopherDaily--2021-06-24
+1.通过实例理解Go Execution Tracer - https://t.zsxq.com/fYnIQ3N
+
+2.为什么企业应该使用Go编程语言？ - https://mobisoftinfotech.com/resources/blog/why-companies-use-golang/
+
+3.Go在stackoverflow建立官方文档频道 - https://blog.golang.org/stackoverflow
+
+4.devtron: k8s软件交付工作流 - https://github.com/devtron-labs/devtron
+
+5.致gohugo的情书 - https://akondas.com/blog/a-love-letter-to-hugo/#netlify-is-beautiful
+
+6.GoFiber：Express框架的高性能替代品 - https://dev.to/karanpratapsingh/introduction-to-go-fiber-2m0a
+
+6.Sidero是一个支持Kubernetes集群API的裸金属供应系统 - https://github.com/talos-systems/sidero
+
+7.为什么Golang是构建人工智能驱动的应用程序的主流编程语言？- https://medium.com/devtechtoday/why-golang-is-a-mainstream-programming-language-for-building-ai-powered-apps-805f29f08a1f
+
+8.pipeline: 一个帮助你在Go中创建流水线的库 - https://github.com/deliveryhero/pipeline
+
+9.使用WSL2 + Goland进行Go项目（Thanos）开发及测试 - https://hangzhi.github.io/2021/06/24/wsl2GolandThanosDev/
+
+10.使用go构建云应用教程 - https://www.golang.dk/courses/build-cloud-apps-in-go
+
+11.PlayStation架构 - https://www.copetti.org/writings/consoles/playstation/
+
+
+
+## 码农桃花源--2021-06-24
+### 文章分享
+
+- [今日面试题](https://www.yuque.com/u2278269/gq5x74/cfqx6z)
+
+
+- [vim操作命令大全](https://blog.csdn.net/weixin_37657720/article/details/80645991)
+
+
+- [go 设计模式二  建造者模式](https://lailin.xyz/post/builder.html)
+
+
+### 面试题
+
+1.进程和线程的区别？
+
+2.说说你了解的进程同步机制
+
+3.说说你了解的进程通信方式？
+
+
+### 每日算法
+
+「字符串转换整数」：https://leetcode-cn.com/problems/string-to-integer-atoi/
+
+
+
+
 ## go中文网每日资讯--2021-06-23
 
 
