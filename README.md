@@ -7,6 +7,84 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+## go中文网每日资讯--2021-06-26
+
+
+一、Go语言中文网
+
+1. [Go 问题排查实战: 请求无响应](https://mp.weixin.qq.com/s/-RmAIuPwT-bAwdKriwMg-w)
+
+2. [小技巧！Mac 环境下编译 Go 服务](https://mp.weixin.qq.com/s/XQ2D5OpxkUSH2V_MR3Htmg)
+
+3. [Go：神奇的init函数](https://mp.weixin.qq.com/s/xag2pzC8LDqhcjcXeNxVrA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-25)——Go语言微服务开发快速上手指南](https://mp.weixin.qq.com/s/ZgPRQm3Cuy-fHXTQq3hTYw)
+
+2. [Go技术日报(2021-06-24)——Go gctrace引起 runtime 调度阻塞](https://mp.weixin.qq.com/s/w5HP-zMO3RZ-VMv7parFDw)
+
+三、k8s技术圈
+
+1. [KubeSphere Helm 应用仓库源码分析](https://mp.weixin.qq.com/s/aXN-VHomqYuivch1hOrV4w)
+
+四、云原生技术爱好者社区
+
+1. [工业互联网大数据中心使用 KubeEdge 实践](https://mp.weixin.qq.com/s/iM8AUzvdhNuDA1yHYcfLHQ)
+
+五、码农桃花源
+
+1. [参加了 Go 贡献者大会](https://mp.weixin.qq.com/s/p7Ggli11gC8xkoxMi9UXaQ)
+
+六、Pearl的仲夏夜之梦
+
+1. [浅析Golang的调度器(一)](https://mp.weixin.qq.com/s/X1-zYDjINmJEWFYhBzSvEQ)
+
+2. [《Kubernetes In Action》阅读笔记(二)](https://mp.weixin.qq.com/s/Ik3MSHBbmitAq8qt7B3joQ)
+
+七、luozhiyun很酷
+
+1. [1.深入TiDB：初见TiDB](https://mp.weixin.qq.com/s/25OMDwCiXxbWytnHrV_gBQ)
+
+八、Go招聘
+
+1. [带有WebUI的HTTP Benchmark小工具你用过吗？](https://mp.weixin.qq.com/s/JQA4Noq2FQYISKJRwtl99A)
+
+
+## GOCN每日新闻--2021-06-26
+
+1.Go 1.17 弃用了 'go get'的传统用法 https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet
+
+2.用 Go 复制 MySQL 所有功能的替代品 https://www.dolthub.com/blog/2021-06-21-copying-mysqls-dumb-decisions/
+
+3.在你的 Android 手机上运行 Golang 程序 https://mp.weixin.qq.com/s/EFHmjoTh0ji9Zc_YS6aPoQ
+
+4.分布式锁实现原理与最佳实践 https://mp.weixin.qq.com/s/M92bQQ4ESeE-RkiPiu-oRw
+
+5.Go 语言的 IO 库那么多，我该怎么选？https://mp.weixin.qq.com/s/TtN6NZ8hQ2AIf0C8wVzkjA
+
+
+
+## gopherDaily--2021-06-26
+1.Go 1.17将废除 “go get “的传统用法 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndDeprecatingGoGet
+
+2.用Go建立一个成功的创业公司 - https://goingwithgo.com/2021/06/building-successful-startups-with-go/
+
+3.减少Go中内存分配的实践技巧 - https://chris124567.github.io/2021-06-21-go-performance/
+
+4.Diretiv：基于Kubernetes和Knative上运行的无服务器工作流和自动化引擎 - https://github.com/vorteil/direktiv
+
+5.Go实现的交互式shell - https://github.com/elves/elvish
+
+6.wiretrustee: 将您的设备连接到一个基于WireGuard的安全私有网状网络 - https://github.com/wiretrustee/wiretrustee
+
+7.Kubernetes API Server增加tracing(基于OpenTelemetry) - https://github.com/kubernetes/kubernetes/pull/94942
+
+8.私有云与公共云：k8s是如何改变平衡的 - https://thenewstack.io/private-vs-public-cloud-how-kubernetes-shifts-the-balance/
+
+9.使用Notary和OPA确保Kubernetes上的内容信任 - https://siegert-maximilian.medium.com/ensure-content-trust-on-kubernetes-using-notary-and-open-policy-agent-485ab3a9423c
+
+10.如何使技术面试不那么糟糕 - https://thenewstack.io/how-to-make-tech-interviews-suck-less/
 
 
 
