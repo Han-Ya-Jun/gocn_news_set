@@ -8,6 +8,100 @@
 # gocn_news_set_202
 
 
+
+## go中文网每日资讯--2021-06-28
+
+
+一、Go语言中文网
+
+1. [在 Golang 中使用 -w 和 -s 标志](https://mp.weixin.qq.com/s/aPP1Eb6jEJS7oKy4KZLI4g)
+
+2. [Go 监听信号退出并回收资源](https://mp.weixin.qq.com/s/Ca5ZG33NgIkKPSyVivwdsg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-27)——Gopher China2021大会观感](https://mp.weixin.qq.com/s/pM-5gXM2B1gxnQwoXIOGRA)
+
+三、k8s技术圈
+
+1. [K8s遇上Jenkins&amp;制品库](https://mp.weixin.qq.com/s/gjMZhVPhROPA49KFVcMgjA)
+
+四、奇伢云存储
+
+1. [自制文件系统 —— 05 总结：一切都为了狙击“文件”](https://mp.weixin.qq.com/s/x7WZmFULZ1AKXu6Kgw0P-Q)
+
+五、polarisxu
+
+1. [推荐三个Go实战开源项目](https://mp.weixin.qq.com/s/v_wonIeuxQWT_qPTGv7GIw)
+
+六、TonyBai
+
+1. [通过实例理解Go Execution Tracer](https://mp.weixin.qq.com/s/L7HiqA02g-l-b2pD6aRtbw)
+
+七、董泽润的技术笔记
+
+1. [我看 Gopher China 2021](https://mp.weixin.qq.com/s/Velw1jpnmsbX44G9CSBL3A)
+
+八、Golang梦工厂
+
+1. [学习channel设计：从入门到放弃](https://mp.weixin.qq.com/s/E2XwSIXw1Si1EVSO1tMW7Q)
+
+九、章老师说
+
+1. [Gopher China 分享：深入理解BFE](https://mp.weixin.qq.com/s/m8lXEnGIcApe8mrlNUmmCw)
+
+十、TechPaper
+
+1. [Gopher China 2021](https://mp.weixin.qq.com/s/m_qmqOKmRNqW5omrJ6ZxsA)
+
+十一、Pearl的仲夏夜之梦
+
+1. [浅析Golang的内存管理(一)](https://mp.weixin.qq.com/s/Y8m3tOOpUMFQGyq897oYiA)
+
+十二、Go招聘
+
+1. [Aibee开放大量Golang职位，快来和小姐姐做同事喽！](https://mp.weixin.qq.com/s/MD71qYFeCXQOrRgRvbgjUQ)
+
+
+
+## GOCN每日新闻--2021-06-28
+1.100 个 Go 经典错误 https://medium.com/solvingalgo/100-go-mistakes-2022-4debd9449a72
+
+2.减少你的 Go 程序内存占用 https://chris124567.github.io/2021-06-21-go-performance/
+
+3.深入浅出 Go 并发工作池 https://itnext.io/explain-to-me-go-concurrency-worker-pool-pattern-like-im-five-e5f1be71e2b0
+
+4.具有位图索引的内存列存储工具 column https://github.com/kelindar/column
+
+5.单机限流器 time/rate 库 https://gocn.vip/topics/12239
+
+
+## GOCN每日新闻--2021-06-28
+### 文章分享
+
+1.[如何在容器中做时间漫游者](https://mp.weixin.qq.com/s/c1MNwLIs6Z6luQiQmReJ7g)
+
+
+2.[channel底层实现] https://halfrost.com/go_channel/
+
+
+3.[go 设计模式 结构型 代理模式] https://lailin.xyz/post/proxy.html
+
+
+### 面试题
+
+1.为什么客户端的 TIME-WAIT 状态必须等待 2MSL 
+
+2.TIME-WAIT 状态过多会产生什么后果？怎样处理
+
+3.详细讲一下TCP的滑动窗口
+
+
+### 每日算法
+
+「寻找旋转排序数组中的最小值」：https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/
+
+
 ## go中文网每日资讯--2021-06-27
 
 
