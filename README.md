@@ -7,6 +7,119 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+## go中文网每日资讯--2021-06-29
+
+
+一、Go语言中文网
+
+1. [在 Go 中编写令人愉快的 HTTP 中间件](https://mp.weixin.qq.com/s/ZUdUdlrnndcCZnjwqC6PcQ)
+
+2. [这个好：Go 中国开发者团队](https://mp.weixin.qq.com/s/wTtmY0c_ykzND33fhiwXYQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-28)——Gopher China 2021](https://mp.weixin.qq.com/s/srDX0D5vI0hi95uWHOnbFg)
+
+三、k8s技术圈
+
+1. [Longhorn 微服务化存储初探](https://mp.weixin.qq.com/s/05o3zUbxWOzKp8xhvtAL7Q)
+
+四、Go夜读
+
+1. [第 117 期详解开源项目 rosedb 及存储模型](https://mp.weixin.qq.com/s/YHQapaVsMuEozewtnaehWw)
+
+五、脑子进煎鱼了
+
+1. [Go1.17 快报之标准库越来越注重易用性](https://mp.weixin.qq.com/s/MfiITK7gEe3hED5cZjRzJQ)
+
+六、polarisxu
+
+1. [详解 Go 空结构体的 3 种使用场景](https://mp.weixin.qq.com/s/qqfzFcLhb4SZjHLsYUqEHQ)
+
+七、奇伢云存储
+
+1. [深入理解Kafka的设计思想](https://mp.weixin.qq.com/s/vqC6qiT2SIvU4HPtEDyk2w)
+
+2. [大厂Golang语法50问!](https://mp.weixin.qq.com/s/gUPkqXi2FFrlC6IeMixAMg)
+
+八、MoeLove
+
+1. [10+款Redis容器化技术选型对比，K8S并非万金油](https://mp.weixin.qq.com/s/Njx43Atvf2QIKAtOCABLfA)
+
+九、CloudNativeCommunity
+
+1. [有了 NGINX 和 Kong，为什么还需要 Apache APISIX？](https://mp.weixin.qq.com/s/GVs3X1i5kW0QtXvtqdXBiw)
+
+十、Go招聘
+
+1. [看了这篇 Go map 并发不用慌](https://mp.weixin.qq.com/s/EZeNJPPiaHLbRfg5Hm0ohg)
+
+2. [【北京|深圳-腾讯微视】短视频Top企业招聘Gopher](https://mp.weixin.qq.com/s/qnh5LdNtVShO0qizWc7EJQ)
+
+
+## GOCN每日新闻--2021-06-29
+
+1.内存屏障 https://github.com/cch123/golang-notes/blob/master/memory_barrier.md
+
+2.深入 Go Module 之讨厌的 v2 https://colobu.com/2021/06/28/dive-into-go-module-2/
+
+3.Go 每日一库之 resty https://segmentfault.com/a/1190000040247099?utm_source=tag-newest
+
+4.哈啰在分布式消息治理和微服务治理中的实践 https://gocn.vip/topics/12235
+
+5.Go 初始化流程分析 https://juejin.cn/post/6969230952685895694
+
+## gopherDaily--2021-06-29
+1.通过实例理解Go Execution Tracer - https://mp.weixin.qq.com/s/L7HiqA02g-l-b2pD6aRtbw
+
+2.理解go.mod和go.num - https://janteshital.medium.com/understanding-go-mod-and-go-sum-5fd7ec9bcc34
+
+3.Fackbook Ent框架支持集成gPRC - https://entgo.io/blog/2021/06/28/gprc-ready-for-use/
+
+4.通俗解释一下什么是Go并发工作池模式 - https://itnext.io/explain-to-me-go-concurrency-worker-pool-pattern-like-im-five-e5f1be71e2b0
+
+5.Pinterest的Kubernetes扩展实战 - https://medium.com/pinterest-engineering/scaling-kubernetes-with-assurance-at-pinterest-a23f821168da
+
+6.iptables和ipvs模式下的kube-proxy性能比较 - https://www.projectcalico.org/comparing-kube-proxy-modes-iptables-or-ipvs/
+
+7.YoMo：一个开源的流式无服务器框架，用于构建低延迟的边缘计算应用 - https://github.com/yomorun/yomo
+
+8.DevSecOps：为什么不应该为了速度而牺牲安全？ - https://thenewstack.io/devsecops-why-security-shouldnt-be-sacrificed-for-speed/
+
+9.审视现代企业的GitOps - https://thenewstack.io/a-look-at-gitops-for-the-modern-enterprise/
+
+10.用Docker的Buildx将Kubernetes驱动构建时间减少一半 - https://releasehub.com/blog/cutting-build-time-in-half-docker-buildx-kubernetes
+
+11.devops管道与Kubernetes认证 - https://www.tremolosecurity.com/post/pipelines-and-kubernetes-authentication
+
+
+
+## 码农桃花源--2021-06-29
+### 文章分享
+
+- [redis ](https://mp.weixin.qq.com/s/k8agEub4qmhm3kX_TpETrA)
+
+
+- [go map并发](https://mp.weixin.qq.com/s/EZeNJPPiaHLbRfg5Hm0ohg)
+
+
+- [go 设计模式 结构型 桥接模式](https://lailin.xyz/post/bridge.html)
+
+- [http与https](https://www.cnblogs.com/xiaolincoding/p/12442435.html)
+
+
+### 面试题
+
+1.详细讲一下拥塞控制？ 
+
+2.详细讲一下拥塞控制？HTTPS 解决了 HTTP 的哪些问题？
+
+3.HTTPS 是如何解决上面的三个风险的
+
+
+### 每日算法
+
+「路径总和（非递归）」：https://leetcode-cn.com/problems/path-sum/
 
 
 ## go中文网每日资讯--2021-06-28
