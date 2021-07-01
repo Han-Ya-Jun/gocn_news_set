@@ -7,6 +7,77 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+
+## go中文网每日资讯--2021-06-30
+
+一、Go语言中文网
+
+1. [知乎热议：java太卷了，要不要转go啊？](https://mp.weixin.qq.com/s/Hb41qkaUTaXCCZrhQSO0QQ)
+
+2. [validator库你知多少？govalidator了解一下](https://mp.weixin.qq.com/s/AYfMAfHbFX40EQyLMbQ5EQ)
+
+3. [小技巧！k8s 环境下调试服务](https://mp.weixin.qq.com/s/cfMC02OgArnxgPrjAM_4NQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-29)——深入理解Kafka的设计思想](https://mp.weixin.qq.com/s/xRfXGJVyXGvHlnycUH8xlA)
+
+三、polarisxu
+
+1. [这本 Go 新书挺期待的](https://mp.weixin.qq.com/s/ZDMHec34ixqMaVo365InHg)
+
+四、APISIX云原生微服务网关
+
+1. [差之毫厘：etcd 3 完美支持 HTTP 访问？](https://mp.weixin.qq.com/s/BS69w8aJdK2B6IJYN4g0AQ)
+
+五、后端技术指南针
+
+1. [图解|深入理解跳表及其在Redis中的应用](https://mp.weixin.qq.com/s/0Pm1n-tHGSRUht8bWVGjWQ)
+
+六、鸟窝
+
+1. [深入Go Module之go.mod文件解析](https://colobu.com/2021/06/28/dive-into-go-module-1/)
+
+2. [深入Go Module之讨厌的v2](https://colobu.com/2021/06/28/dive-into-go-module-2/)
+
+七、HHFCodeRv
+
+1. [开发中的一些坑](https://mp.weixin.qq.com/s/HR3ZrByrc50Pl3B52lvJcQ)
+
+八、Golang来啦
+
+1. [gRPC入门指南 — 双向流式RPC（四）](https://mp.weixin.qq.com/s/a5QxxEoyVwq-lnJR8dLlAA)
+
+九、Go招聘
+
+1. [Go中的error居然可以这样封装](https://mp.weixin.qq.com/s/q2VrY8ksNsmYzvqhUNv72A)
+
+## GOCN每日新闻--2021-06-30
+
+1.TiDB Operator 源码阅读 (四) 组件的控制循环 https://gocn.vip/topics/12253
+
+2.golang 垃圾回收器如何标记内存？ https://mp.weixin.qq.com/s/4mGWTzxvWMqGxgoHf4o2jA
+
+3.深入 Go 语言内部做技术优化，我学到了什么？https://mp.weixin.qq.com/s/HuGudn8ViKXAz0mIawquyQ
+
+4.通过实例理解 Go Execution Tracer https://mp.weixin.qq.com/s/L7HiqA02g-l-b2pD6aRtbw
+
+5.Go timer 是如何被调度的？https://mp.weixin.qq.com/s/eRWPdWWBDyc9TZHB3u197Q
+
+
+## gopherDaily--2021-06-30
+1.硬件内存模型: 为Go内存模型的演化建立背景 by Russ Cox - https://research.swtch.com/hwmm#introduction
+
+2.实现Go流水线模式 - https://zhimin-wen.medium.com/golang-pipeline-in-practise-6007dafbb85f
+
+3.用于音乐创作的基于文本的编程语言Alda2发布 - https://blog.djy.io/announcing-alda-2/
+
+4.Go: sync.Map的LoadAndDelete和LoadOrStore。为什么需要它们？- https://dev.to/sreramk/go-loadanddelete-and-loadorstore-in-sync-map-why-are-they-needed-30f7
+
+5.如何在Linux上建立一个etcd集群 - 初学者指南 - https://devopscube.com/setup-etcd-cluster-linux/
+
+6.开放源代码许可证：谁掌握着权力？ - https://thenewstack.io/open-source-licenses-who-holds-the-power/
+
 ## go中文网每日资讯--2021-06-29
 
 
