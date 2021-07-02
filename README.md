@@ -7,6 +7,107 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+## go中文网每日资讯--2021-07-01
+一、Go语言中文网
+
+1. [Go 字符串中的潜在问题](https://mp.weixin.qq.com/s/_ScaGaB8mr2aSyQjL-VIaA)
+
+2. [Go 每日一库之 ants](https://mp.weixin.qq.com/s/wjs6GJsK6c31rb_QbNATRg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-06-30)——深入Go Module](https://mp.weixin.qq.com/s/nN-qAHBEbP0AahwS6z7xPg)
+
+三、k8s技术圈
+
+1. [Prometheus Discovery 之 K8S 代码分析](https://mp.weixin.qq.com/s/0QWCFM6aeprb3JfW82wVMA)
+
+四、CloudNativeCommunity
+
+1. [《Istio 大咖说》直播回放 | 腾讯云服务网格生产落地最佳实践](https://mp.weixin.qq.com/s/7EezmabChBTN7flSs2S42A)
+
+五、奇伢云存储
+
+1. [Go语言的IO库那么多，我该怎么选？](https://mp.weixin.qq.com/s/l-l2GFsuNWxJiXg2xSnBwA)
+
+六、脑子进煎鱼了
+
+1. [《漫谈 MQ》设计 MQ 的 3 个难点](https://mp.weixin.qq.com/s/_QZ1mOtSFECab7TkvPePvQ)
+
+2. [自制文件系统 — 来看看文件系统的样子](https://mp.weixin.qq.com/s/7qq3AugMKqjlwx26PT20sw)
+
+七、码农桃花源
+
+1. [从 wiscKey 看 LSMtree 的不足](https://mp.weixin.qq.com/s/HRyak0gNdeisf0KpoY4lsA)
+
+八、GoOfficialBlog
+
+1. [官方 Go Collective 入驻 Stack Overflow](https://mp.weixin.qq.com/s/VRnm5yIQDDGRG0yimNgi-g)
+
+九、腾讯云原生
+
+1. [云原生应用负载均衡系列 (2): 入口流量分发、容错与高可用调度](https://mp.weixin.qq.com/s/0f9Z8yIsT7-iJ2AUHfgqiw)
+
+
+
+## GOCN每日新闻--2021-07-01
+
+1.减少 Golang 程序的内存分配 https://chris124567.github.io/2021-06-21-go-performance/
+
+2.Redis 和 Golang 的可扩展事件流 https://ably.com/blog/event-streaming-with-redis-and-golang
+
+3.Go context 入门学习 https://dev.to/gopher/getting-started-with-go-context-l7g
+
+4.Golang 底层实现系列——map 的底层实现 https://segmentfault.com/a/1190000040269520
+
+5.通过浏览器运行 cmd 命令、启动 steam https://juejin.cn/post/6979391468309839879
+
+## gopherDaily--2021-07-01
+
+1.硬件内存模型[译] - https://colobu.com/2021/06/30/hwmm/
+
+2.请不要在比较密码哈希值时使用等值比较运算符 - https://nowhereref.com/posts/please-dont-use-equal-operator-when-comparing-password-hashes/
+
+3.使用Go开发代码的原因 - https://dev.to/abdadeel/reason-for-developing-in-go-5g0c
+
+4.2021年最具进步性的编程技术 - https://www.instinctools.com/blog/top-most-progressive-programming-technologies-in-2021
+
+5.经典旧文：神秘的SetFinalizer - https://lk4d4.darth.io/posts/finalizers/
+
+6.新的勒索软件突出了网络攻击者对Golang语言的广泛采用 - https://www.zdnet.com/article/this-new-malware-highlights-widespread-adoption-of-golang-language-by-cyberattackers/
+
+7.Golang vs. Node.js: 谁在后端框架之战中胜出？- https://javascript.plainenglish.io/golang-vs-node-js-who-trumps-the-battle-of-backend-frameworks-e5fc31faa3b5
+
+8.https://ploffay.medium.com/five-years-evolution-of-open-source-distributed-tracing-ec1c5a5dd1ac
+
+9.公布Kubernetes社区小组年度报告 - https://kubernetes.io/blog/2021/06/28/announcing-kubernetes-community-group-annual-reports/
+
+10.Go语言批判列表 - https://github.com/ksimka/go-is-not-good
+
+## 码农桃花源--2021-07-01
+### 文章分享
+
+1.[MQ 面试题](https://www.yuque.com/u2278269/gq5x74/zi680f)
+
+2.[漫谈MQ](https://mp.weixin.qq.com/s/_QZ1mOtSFECab7TkvPePvQ)
+
+3. [云原声](https://mp.weixin.qq.com/s/yX0hgIOLuaKsAcrWfOfcUQ)
+
+### 面试题
+
+1.在使用 MQ 消息队列时，如何确保消息不丢失？ 
+
+
+2.怎么解决消息被重复消费的问题？
+
+
+3.如何处理消息积压问题？
+
+
+### 每日算法
+「路径总和（非递归）」: https://leetcode-cn.com/problems/path-sum/
+
+
 
 ## go中文网每日资讯--2021-06-30
 
