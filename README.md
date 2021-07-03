@@ -7,6 +7,81 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+
+
+## go中文网每日资讯--2021-07-02
+
+
+一、Go语言中文网
+
+1. [全面分析Uber的高性能日志库Zap](https://mp.weixin.qq.com/s/ghCINPYXo7Xsm_aIXhlbmA)
+
+2. [听说Mutex源码是出名的不好看，我不信，来试一下](https://mp.weixin.qq.com/s/gLnKwcSjjR1aCsuhiJZOfg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-01)——Redis 和 Golang 的可扩展事件流](https://mp.weixin.qq.com/s/iLpBAxp7nTStdkLqpbR2mg)
+
+三、polarisxu
+
+1. [惊呆了！Go 代码的第一次提交竟然是 1972 年。。。](https://mp.weixin.qq.com/s/LlX1a2DoaYjTEChc7Dbyqg)
+
+四、董泽润的技术笔记
+
+1. [你真的了解 Load Balance 嘛](https://mp.weixin.qq.com/s/nif6blio5ksQNbOF5hfsSQ)
+
+五、高可用架构
+
+1. [聊聊知乎订单系统迁移](https://mp.weixin.qq.com/s/x9MfWM2yzTf-CMPJLE01Tw)
+
+六、杨旭技术专栏
+
+1. [[Go语言] 检查枚举值的合理性](https://mp.weixin.qq.com/s/aFioobOWlWtl3kWB14Pclw)
+
+七、吴亲强的深夜食堂
+
+1. [如何在 go 中实现一个 worker-pool?](https://mp.weixin.qq.com/s/VEevmkq2cbYUakYO1zvU9Q)
+
+八、GoUpUp
+
+1. [Go 每日一库之 colly](https://mp.weixin.qq.com/s/L8BmzqbuptCEgU9468C6ig)
+
+九、Go招聘
+
+1. [回响科技招聘 | 潮玩社区由你来打造](https://mp.weixin.qq.com/s/utVTOWRpD6hQoDTyIH1-JA)
+
+## GOCN每日新闻--2021-07-02
+
+1.『每周译 Go』硬件内存模型 https://mp.weixin.qq.com/s/t0mWCya8DH0hXl21viAIRA
+
+2.函数传递指针真的比传值效率高吗 https://juejin.cn/post/6979939230810112030
+
+3.请不要使用==符号比较哈希密码 https://nowhereref.com/posts/please-dont-use-equal-operator-when-comparing-password-hashes/
+
+4.Gopher China 2021 https://mp.weixin.qq.com/s/m_qmqOKmRNqW5omrJ6ZxsA
+
+5.听说 Mutex 源码是出名的不好看，我不信，来试一下 https://mp.weixin.qq.com/s/kTlpaV22vaprJSEZy8KPsw
+
+
+
+## gopherDaily--2021-07-02
+1.github copilot的Go编码实践 - https://github.com/Pisush/copilot-go-experiments
+
+2.构建和保护Go和Gin开发的网络应用程序 - https://developer.okta.com/blog/2021/02/17/building-and-securing-a-go-and-gin-web-application
+
+3.编写高质量的Go应用程序的三种方法 - https://www.cobyeastwood.com/posts#writingProgramsInGolang
+
+4.油管视频：为事件驱动的系统设计有效载荷 - https://www.youtube.com/watch?v=tn7I17XlNEI
+
+5.golang 垃圾回收器如何标记内存？ - https://mp.weixin.qq.com/s/4mGWTzxvWMqGxgoHf4o2jA
+
+6.解密Go的fmt.Sprintf和Printf - https://faun.pub/golangs-fmt-sprintf-and-printf-demystified-4adf6f9722a2
+
+7.全链路压测体系建设方案的思考与实践 - https://mp.weixin.qq.com/s/BF8Q6eiLZyESMyPovk70jw
+
+
+
+
 ## go中文网每日资讯--2021-07-01
 一、Go语言中文网
 
