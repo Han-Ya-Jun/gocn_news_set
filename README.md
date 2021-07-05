@@ -8,6 +8,75 @@
 # gocn_news_set_202
 
 
+## go中文网每日资讯--2021-07-04
+
+
+一、Go语言中文网
+
+1. [一本 Go 新书](https://mp.weixin.qq.com/s/GfZxuc6zTVaeuAxmtQN_fQ)
+
+2. [Go语言爱好者周刊：第 102 期](https://mp.weixin.qq.com/s/Sjeb3j1Un2mO-m_J-u1oNw)
+
+3. [通过 Go 学习浮点数精度](https://mp.weixin.qq.com/s/ezMI6SZnb9uTrbmBu5EUDw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-02)——你真的了解 Load Balance 嘛？](https://mp.weixin.qq.com/s/QiN8bMAvLQz0wgFfAbCgXQ)
+
+2. [Go技术日报(2021-07-03)——亿级系统的Redis缓存如何设计？？？](https://mp.weixin.qq.com/s/w21MZ5wBa6Ruw0uG8Hfo5Q)
+
+三、奇伢云存储
+
+1. [堆排序，怎么个堆法？](https://mp.weixin.qq.com/s/IWI3Gy_KhAshFiZaeaKl6w)
+
+2. [Go timer 是如何被调度的？](https://mp.weixin.qq.com/s/F8-74FozAqD2dPkw9HrDHQ)
+
+四、云原生技术爱好者社区
+
+1. [关于多集群Kubernetes的一些思考](https://mp.weixin.qq.com/s/haBM1BSDWLhRYBJH4cJHvA)
+
+五、TechPaper
+
+1. [Go 语言中的一些非常规优化](https://mp.weixin.qq.com/s/X7OU9JjSThB5IZF_KVT1Jg)
+
+六、鸟窝
+
+1. [深入Go Module之未说的秘密](https://colobu.com/2021/07/04/dive-into-go-module-3/)
+
+## GOCN每日新闻--2021-07-04
+
+1.Golang 中的一些非常规优化 https://mp.weixin.qq.com/s/X7OU9JjSThB5IZF_KVT1Jg
+
+2.使用 tableflip 实现应用的优雅热升级 https://gocn.vip/topics/12270
+
+3.netlink 是 Go 和内核模块之间优秀的通信兵 https://gocn.vip/topics/12268
+
+4.在 go 中实现一个 worker-pool https://mp.weixin.qq.com/s/0-cbZVAWgiTWIEcd4bInQA
+
+5.亿级系统的 Redis 缓存如何设计 https://mp.weixin.qq.com/s/bkXnbQIpI_GdX4BHkAhPUA
+
+## gopherDaily--2021-07-04
+1.使用go-metrics在Go应用中增加度量 - https://t.zsxq.com/VzJURr7
+
+2.使用Go从头开始编写一个时序数据库引擎 - https://nakabonne.dev/posts/write-tsdb-from-scratch/
+
+3.如何在你的产品中加入eBPF的可观察性 - https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html
+
+4.经常提交，事后完善，一次发布：Git最佳实践 - https://sethrobertson.github.io/GitBestPractices/
+
+5.cue项目迁移到github.com/cue-lang/cue - https://github.com/cue-lang/cue/issues/1078
+
+6.创建Kubernetes mutating和validating网络钩子的Go框架 - https://github.com/slok/kubewebhook
+
+7.Kubernetes的readiness探测–例子和常见的陷阱 - https://itnext.io/kubernetes-readiness-probes-examples-common-pitfalls-136e3a9a058d
+
+8.因copilot滥用github用户代码数据而放弃github - https://thelig.ht/abandoning-github/
+
+9.不为人知的SQLite的故事 - https://corecursive.com/066-sqlite-with-richard-hipp/
+
+10.github copilot: 一个强大的、有争议的开发者自动完成器 - https://thenewstack.io/github-copilot-a-powerful-controversial-autocomplete-for-developers/
+
+
 ## go中文网每日资讯--2021-07-03
 
 
