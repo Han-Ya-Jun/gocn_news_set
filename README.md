@@ -7,6 +7,96 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+## go中文网每日资讯--2021-07-05
+
+
+一、Go语言中文网
+
+1. [在 Go 中我是如何组织包的](https://mp.weixin.qq.com/s/Y-tQ8AYMGHEgXphKVK1afA)
+
+2. [Golang net/rpc 包的深度解读和学习](https://mp.weixin.qq.com/s/Ojm1FLtNG6ogVrUaaQzqVw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-04)——深入Go Module之未说的秘密](https://mp.weixin.qq.com/s/hvsYI-_9qw1OzBnOvlJy4w)
+
+三、奇伢云存储
+
+1. [深入理解 Linux 的 epoll 机制](https://mp.weixin.qq.com/s/LGMNEsWuXjDM7V9HlnxSuQ)
+
+四、k8s技术圈
+
+1. [Prometheus 中使用 PrometheusAlert 进行聚合报警](https://mp.weixin.qq.com/s/VF1P4lQ53NQciuvm2wPHBw)
+
+2. [Pod 高性能网络分析|回放|云原生公开课](https://mp.weixin.qq.com/s/N7CE-IXainwcA6bwUTqYHA)
+
+五、新亮笔记
+
+1. [关于处理电商系统订单状态的流转，分享下我的技术方案（附带源码）](https://mp.weixin.qq.com/s/7xOeQKomT9GVTUghyZgaxA)
+
+六、脑子进煎鱼了
+
+1. [技巧分享：多 Goroutine 如何优雅处理错误？](https://mp.weixin.qq.com/s/NX6kVJP-RdUzcCmG2MF31w)
+
+2. [惊呆了！Go 代码的第一次提交竟然是 1972 年。。。](https://mp.weixin.qq.com/s/InNA3e8UkpCJlE2fr-p9gA)
+
+七、码农桃花源
+
+1. [优化 Golang 分布式行情推送的性能瓶颈](https://mp.weixin.qq.com/s/DF8GeW2Nx3s9yjzcvEunJA)
+
+八、Golang梦工厂
+
+1. [面试官：你能聊聊string和[]byte的转换吗？](https://mp.weixin.qq.com/s/jztwFH6thFdcySzowXOH_Q)
+
+九、技术岁月
+
+1. [微服务注册中心分布式集群设计原理与 Golang 实现](https://mp.weixin.qq.com/s/xvI1hLqZ0ev1_l_vQMOsIg)
+
+十、网管叨bi叨
+
+1. [Golang官方限流器的用法详解](https://mp.weixin.qq.com/s/S3_YEyhLcaAUuaSabXdimw)
+
+十一、polarisxu
+
+1. [Go项目实战：从零构建一个并发文件下载器](https://mp.weixin.qq.com/s/MxjLrYfvgk5kdi43xm6kVA)
+
+十二、Go招聘
+
+1. [CloudFine多云转晴 寻找优秀的你](https://mp.weixin.qq.com/s/CzJSmvXrb7D6p6i1nxjH1A)
+
+
+## GOCN每日新闻--2021-07-05
+1.自建的视频网站管理器，支持 b 站，YouTube  https://github.com/horahoradev/horahora
+
+2.golang pipeline 实战 https://itnext.io/golang-pipeline-in-practise-6007dafbb85f
+
+3.简单 web 框架 dragon  https://github.com/azerothyang/dragon
+
+4. golang 实现的 spotify 客户端  https://github.com/brianstrauch/spotify-cli
+
+5. mock mongo-go-driver  https://medium.com/@victor.neuret/mocking-the-official-mongo-golang-driver-5aad5b226a78
+
+
+## gopherDaily--2021-07-05
+1.Myreads：一个使用Go、React与Typescript、HarperDB、基于JWT的认证和Docker的数字书架 - https://pratikjagrut.hashnode.dev/myreads-a-digital-bookshelf-using-golang-react-with-typescript-harperdb-jwt-based-auth-and-docker
+
+2.使用Go, Gin, MySQL和Docker开发blog项目 - https://dev.to/umschaudhary/blog-project-with-go-gin-mysql-and-docker-part-1-3cg1
+
+3.用OpenTelemetry和Jaeger进行分布式追踪 - https://medium.com/@iqfarhad/distributed-tracing-with-opentelemetry-and-jaeger-e21e53b5c24e
+
+4.OpenShift 4.8增加Serverless支持 - https://thenewstack.io/red-hat-openshift-4-8-adds-serverless-functions-pipelines-as-code/
+
+5.如何在VS代码中打开任何Repo而不克隆它 - https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/
+
+6.单一云 vs 多云 + 混合云 - https://blog.min.io/monoclouds-vs-multiclouds-hybridclouds/
+
+7.GitLab正在为DevSecOps设定标准 - https://about.gitlab.com/blog/2021/06/01/gitlab-is-setting-standard-for-devsecops/
+
+8.什么是Polaris？Kubernetes开源配置验证 - https://www.cncf.io/blog/2021/07/01/what-is-fairwinds-polaris-kubernetes-open-source-configuration-validation/
+
+9.探索k8s operator模式 - https://iximiuz.com/en/posts/kubernetes-operator-pattern/
+
+
 
 ## go中文网每日资讯--2021-07-04
 
