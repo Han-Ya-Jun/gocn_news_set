@@ -7,6 +7,108 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+
+
+## go中文网每日资讯--2021-07-06
+
+
+一、Go语言中文网
+
+1. [Go开源实战项目推荐：用来练手挺好](https://mp.weixin.qq.com/s/UJXbqcH9bO7utZJxXxWgUg)
+
+2. [如何选择一门编程语言](https://mp.weixin.qq.com/s/M-NlM8lzzL7IZJMNi0hIIw)
+
+3. [你真的了解 Load Balance 嘛](https://mp.weixin.qq.com/s/90nd-rh2P4QJF8fDPu3CVg)
+
+二、CloudNativeCommunity
+
+1. [云原生社区 meetup 第五期成都站视频及 PPT 分享](https://mp.weixin.qq.com/s/_Uf9dLa5yH5LpQcQgWAc8A)
+
+三、TonyBai
+
+1. [使用go-metrics在Go应用中增加度量](https://mp.weixin.qq.com/s/pFTLGOsyl5DgohbSTBSr-w)
+
+四、亚军进化史
+
+1. [Go技术日报(2021-07-05)——从零构建一个并发文件下载器](https://mp.weixin.qq.com/s/d8kwhR5OK4RZs7CGRCKYpg)
+
+五、polarisxu
+
+1. [小技巧分享：在 Go 如何实现枚举？](https://mp.weixin.qq.com/s/JJ2XmFK28FJwzhD-mYk8Iw)
+
+六、董泽润的技术笔记
+
+1. [真实环境下大内存 Go 服务性能优化一例](https://mp.weixin.qq.com/s/jGGCccMOx4s5asG2IXWNMQ)
+
+七、腾讯技术
+
+1. [技术人员的修炼手册](https://mp.weixin.qq.com/s/hK8i1Vl5xdFRX2SnNCUDKg)
+
+八、yifhao
+
+1. [几行代码为老板省百万-某高并发服务GOGC及UDP Pool优化](https://mp.weixin.qq.com/s/EuJ3Pw0s24Nr1h2edn5Sgg)
+
+九、脑子进煎鱼了
+
+1. [Go 中的 error 居然可以这样封装](https://mp.weixin.qq.com/s/-X8MKIQFRXmENsdwyRXcCg)
+
+十、Go招聘
+
+1. [在Go中如何用Redlock实现分布式锁呢？](https://mp.weixin.qq.com/s/e8sUwTBfgzXdCXd3ViCNdw)
+
+
+## GOCN每日新闻--2021-07-06
+1.GopherChina 2021 Ian 说完整泛型实现将在 Go1.18 发布 (会议实录) https://mp.weixin.qq.com/s/RFfa-A0DomH2pXz4arAVnA
+
+2.ADBTuiFM-基于 tui 的 ADB 文件管理器  https://github.com/darkhz/adbtuifm
+
+3.Semverbot 用 GoLang 编写的 semver 版本管理 CLI 工具 https://github.com/restechnica/semverbot
+
+4.多 Goroutine 如何优雅处理错误？https://mp.weixin.qq.com/s/NX6kVJP-RdUzcCmG2MF31w
+
+5.优化 Golang 分布式行情推送的性能瓶颈  https://mp.weixin.qq.com/s/DF8GeW2Nx3s9yjzcvEunJA
+
+
+## gopherDaily--2021-07-06
+1.Myreads：一个使用Go、React与Typescript、HarperDB、基于JWT的认证和Docker的数字书架 - https://pratikjagrut.hashnode.dev/myreads-a-digital-bookshelf-using-golang-react-with-typescript-harperdb-jwt-based-auth-and-docker
+
+2.使用Go, Gin, MySQL和Docker开发blog项目 - https://dev.to/umschaudhary/blog-project-with-go-gin-mysql-and-docker-part-1-3cg1
+
+3.用OpenTelemetry和Jaeger进行分布式追踪 - https://medium.com/@iqfarhad/distributed-tracing-with-opentelemetry-and-jaeger-e21e53b5c24e
+
+4.OpenShift 4.8增加Serverless支持 - https://thenewstack.io/red-hat-openshift-4-8-adds-serverless-functions-pipelines-as-code/
+
+5.如何在VS代码中打开任何Repo而不克隆它 - https://www.freecodecamp.org/news/you-can-now-edit-anything-on-github-in-vs-code-without-cloning/
+
+6.单一云 vs 多云 + 混合云 - https://blog.min.io/monoclouds-vs-multiclouds-hybridclouds/
+
+7.GitLab正在为DevSecOps设定标准 - https://about.gitlab.com/blog/2021/06/01/gitlab-is-setting-standard-for-devsecops/
+
+8.什么是Polaris？Kubernetes开源配置验证 - https://www.cncf.io/blog/2021/07/01/what-is-fairwinds-polaris-kubernetes-open-source-configuration-validation/
+
+9.探索k8s operator模式 - https://iximiuz.com/en/posts/kubernetes-operator-pattern/
+
+## 码农桃花源--2021-07-06
+### 文章分享
+
+1.[https 开篇](https://halfrost.com/https-begin/)
+
+2.[redis 哨兵 故障自动转移](https://hellokangning.github.io/zh/post/redis-sentinel-automatic-failover/)
+
+3.[go性能优化](https://mp.weixin.qq.com/s/yX0hgIOLuaKsAcrWfOfcUQ)
+
+### 面试题
+
+1.什么是无状态协议，HTTP 是无状态协议吗，怎么解决
+
+2.HTTPS 是如何建立连接的？其间交互了什么？
+
+3.说说 HTTP/1.1 相比 HTTP/1.0 提高了什么性能？HTTP/2 做了什么优化？HTTP/3 做了哪些优化？
+
+
+每日算法
+「算法：「奇偶链表」：https://leetcode-cn.com/problems/odd-even-linked-list/
+
 ## go中文网每日资讯--2021-07-05
 
 
