@@ -7,6 +7,145 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+
+## go中文网每日资讯--2021-07-09
+
+
+一、Go语言中文网
+
+1. [详解 Go 语言 Protobuf 之 Message](https://mp.weixin.qq.com/s/Q8peFKy8Ftv21E4qmjNCXQ)
+
+2. [Go cmd 服务无法退出的小坑](https://mp.weixin.qq.com/s/4FEt052_CmWCkWLecOgxWg)
+
+二、polarisxu
+
+1. [搞 Go 要了解的 2 个 Header，你知道吗？](https://mp.weixin.qq.com/s/PszksqM4-c-mhQt-TUsMSQ)
+
+三、脑子进煎鱼了
+
+1. [给，你要的 Go 学习路线图来啦](https://mp.weixin.qq.com/s/ZQDr_f0-7yOptOQr46dvQQ)
+
+四、牛儿吃草仗剑天涯
+
+1. [一文读懂 分布式链路追踪系统 Jaeger](https://mp.weixin.qq.com/s/IdAQT3tNsCsGFwOXLf7Anw)
+
+五、网管叨bi叨
+
+1. [学习channel设计：从入门到放弃](https://mp.weixin.qq.com/s/wWF27OnOUf-GM0UKDfrqUA)
+
+六、Go招聘
+
+1. [关于Go Test这些小技巧，Gopher应该知道](https://mp.weixin.qq.com/s/HzET8y7lRa7NzJhB49ATtg)
+
+七、董泽润的技术笔记
+
+1. [弱智的 MySQL NULL](https://mp.weixin.qq.com/s/hmro3mAmEWDgpanH3DsPpQ)
+
+## GOCN每日新闻--2021-07-09
+1.编程语言内存模型 https://research.swtch.com/plmm
+
+2.关于 Golang 的 4 个小秘密 https://mp.weixin.qq.com/s/LLJh8CGhRqR3Zu8wPfIxRQ
+
+3.Golang 官方限流器的用法详解 https://mp.weixin.qq.com/s/S3_YEyhLcaAUuaSabXdimw
+
+4.map 的底层实现 https://segmentfault.com/a/1190000040269520
+
+5.Tekton 与 Argo CD 结合实现 GitOps https://mp.weixin.qq.com/s/8jCdM3w3rDpAxLuDkLHn8g
+
+
+## 码农桃花源--2021-07-09
+### 文章分享
+
+1.[FormData 和 Content-Type: multipart/form-data](https://www.cnblogs.com/nicholaswang/p/11459860.html)
+
+2.[图解 Redis | 不就是 AOF 持久化嘛](https://www.cnblogs.com/xiaolincoding/p/14816503.html)
+
+3.[rosedb 及存储模型](https://mp.weixin.qq.com/s/MzBfTuqIaz2ny1B54-iYfw)
+
+### 面试题
+
+1.Go指针和unsafe.Pointer有什么区别
+
+2.如何利用unsafe包修改私有成员
+
+3.如何利用unsafe获取slice&map的长度
+
+4.如何实现字符串和byte切片的零拷贝转换
+
+
+### 每日算法
+
+「环形链表 II」：https://leetcode-cn.com/problems/linked-list-cycle-ii/
+
+
+## go中文网每日资讯--2021-07-08
+
+
+一、Go语言中文网
+
+1. [类似 Go 中的表格驱动测试的步骤驱动评估](https://mp.weixin.qq.com/s/saIuPyEW_yFNrcnP8qG0LQ)
+
+2. [你不知道的 Go 之 pprof](https://mp.weixin.qq.com/s/w6mx89xggITalSOHvx4vPA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-07)——dtm: 国人开源的分布式事务框架](https://mp.weixin.qq.com/s/AGPt0LV5VCXFIiz0jEZ_gA)
+
+三、CloudNativeCommunity
+
+1. [如何调试 Kubernetes 中的微服务 ——proxy、sidecar 还是 service mesh？](https://mp.weixin.qq.com/s/cPmlXiKDtqFBWRc-Wg5Ypw)
+
+四、luozhiyun很酷
+
+1. [endless 如何实现不停机重启 Go 程序？](https://mp.weixin.qq.com/s/VQdRsb-uL2XKB2N0cW6chQ)
+
+五、k8s技术圈
+
+1. [Tekton 与 Argo CD 结合实现 GitOps](https://mp.weixin.qq.com/s/8jCdM3w3rDpAxLuDkLHn8g)
+
+六、脑子进煎鱼了
+
+1. [微服务的灾难：拆的很爽，但服务太小...](https://mp.weixin.qq.com/s/QxxOeOZPiKAXGc73D8wqXA)
+
+七、polarisxu
+
+1. [网友很强大，发现了Go并发下载的Bug](https://mp.weixin.qq.com/s/g_v9ZOotpMfvgQtM5GqB-g)
+ 
+
+## GOCN每日新闻--2021-07-08
+1.私有化仓库的 GO 模块使用实践 https://zhuanlan.zhihu.com/p/384621827
+
+2.Go 阅读清单 https://github.com/qichengzx/gopher-reading-list-zh_CN
+
+3.sync.RWMutex 实现和使用说明 https://sreramk.medium.com/go-sync-rwmutex-internals-and-usage-explained-9eb15865bba
+
+4.Go 使用 WasmEdge 嵌入 WASM https://www.secondstate.io/articles/extend-golang-app-with-webassembly-rust/
+
+5.go-doudou 去中心化微服务敏捷开发框架 https://github.com/unionj-cloud/go-doudou
+
+
+
+
+## gopherDaily--2021-07-08
+1.端到端跟踪的三种方法 - https://rakyll.medium.com/three-ways-to-trace-end-to-end-f61181d6db63
+
+2.开启云原生MOSN新篇章—融合Envoy和Go生态 - https://mp.weixin.qq.com/s/IDrvSsdXTzwriAlpDAOQPg
+
+3.用Go在2分钟内复制100万个Redis key - https://medium.com/amboss/copy-redis-keys-in-minutes-with-golang-3c06f3cd3af8
+
+4.Calico：利用新的eBPF数据平面的多种优势 - https://www.tigera.io/blog/calico-enterprise-leverage-multiple-benefits-from-the-new-ebpf-data-plane
+
+5.油管视频：后端迁移的工具和技术 - https://www.youtube.com/watch?v=LD3zB5rYn3I
+
+6.用Go编写的Elf二进制感染器 - https://github.com/sad0p/d0zer
+
+7.数据结构可视化 - https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
+
+8.在部署到Kubernetes时运行数据库迁移 - https://andrewlock.net/deploying-asp-net-core-applications-to-kubernetes-part-7-running-database-migrations/
+
+
+
+
 ## go中文网每日资讯--2021-07-07
 
 
