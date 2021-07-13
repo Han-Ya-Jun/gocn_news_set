@@ -7,7 +7,108 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+## go中文网每日资讯--2021-07-12
 
+
+一、Go语言中文网
+
+1. [Go 微服务中的熔断器和重试](https://mp.weixin.qq.com/s/4-n-mpSPrT8kbxRT1qv0Xw)
+
+2. [Go 每日一库之 tunny](https://mp.weixin.qq.com/s/Qvh_-TI3Dglp3-ddqC_L1A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-10)——使用反馈控制优化goroutines的数量](https://mp.weixin.qq.com/s/xQrfb071auTY3uahnlwNPg)
+
+2. [Go技术日报(2021-07-11)——为什么大公司里的垃圾系统也能保持稳定](https://mp.weixin.qq.com/s/SMwW1zL0wnDHODJWsoD0pQ)
+
+三、脑子进煎鱼了
+
+1. [一起聊聊 Go Context 的正确使用姿势](https://mp.weixin.qq.com/s/5JDSqNIimNrgm5__Z4FNjw)
+
+2. [Go项目实战：从零构建一个并发文件下载器](https://mp.weixin.qq.com/s/28CjAeINvlvNqLXP0g2oMw)
+
+四、Golang梦工厂
+
+1. [编程模式之Go如何实现装饰器](https://mp.weixin.qq.com/s/B_VYr3I525-vjHgzfW3Jhg)
+
+五、网管叨bi叨
+
+1. [试了试Docker桌面应用自带的K8s集群，一个字“简单”](https://mp.weixin.qq.com/s/Bq2Yckr6QkqFC7i7MCMhGA)
+
+六、Golang技术分享
+
+1. [你有考虑过defer Close() 的风险吗](https://mp.weixin.qq.com/s/7J6zEj_5gksZbFy0ANlvwg)
+
+七、李文周
+
+1. [Go结构体的内存对齐](https://mp.weixin.qq.com/s/gYL9nKIXEKgnZP8BHNADAA)
+
+八、董泽润的技术笔记
+
+1. [Rust 让人迷惑的 “借用”](https://mp.weixin.qq.com/s/F7nkdhUed-M2bhWnN3hiEg)
+
+九、奇伢云存储
+
+1. [Linux fd 系列 — eventfd 是什么？](https://mp.weixin.qq.com/s/7pp3_XdJoffrw9dxoCmnSw)
+
+十、码农桃花源
+
+1. [Go 超时引发大量 fin-wait2](https://mp.weixin.qq.com/s/eePELhDUfUZbHD72SuqmYw)
+
+十一、k8s技术圈
+
+1. [KubeVela 上手体验 - 让云端应用交付更加丝滑](https://mp.weixin.qq.com/s/Xmn8SIPhgU50_UK5ZjP9GA)
+
+十二、polarisxu
+
+1. [这个工具真好：看看你的Go项目依赖有无漏洞](https://mp.weixin.qq.com/s/pzCefw0g82f6fNqiW3wqEg)
+
+十三、Go招聘
+
+1. [Go日志库zero-log大解剖](https://mp.weixin.qq.com/s/knayd7gQSChyDfSJCxh3uA)
+
+
+## GOCN每日新闻--2021-07-12
+
+1.学习 channel 设计：从入门到放弃 https://mp.weixin.qq.com/s/wWF27OnOUf-GM0UKDfrqUA
+
+2.Golang 官方限流器的用法详解 https://mp.weixin.qq.com/s/S3_YEyhLcaAUuaSabXdimw
+
+3.亿级系统的 Redis 缓存如何设计？ https://mp.weixin.qq.com/s/bkXnbQIpI_GdX4BHkAhPUA
+
+4.面试官：你能聊聊 string 和 [] byte 的转换吗？https://mp.weixin.qq.com/s/gl7bM4M1b2howHnplop8FA
+
+5.Golang 语言中怎么解码 4 种常见 JSON 格式数据？https://mp.weixin.qq.com/s/Oy4cHyROIrkAl9tixzfQ6g
+
+## 码农桃花源--2021-07-12
+### 文章分享
+
+1.[grpc基本概念] https://mp.weixin.qq.com/s/I2QHEBO26nGqhGwIw281Pg
+
+2.[图解 内存管理] https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247485033&idx=1&sn=bf9ba7aca126ad186922c57a96928593&chksm=f98e42c3cef9cbd514df38d04deb5e7a9ea67dbd478da75fc4a7636ee90b1384d65f68eb23f5&scene=178&cur_album_id=1408057986861416450#rd
+
+### 面试题
+
+1.单片机的 CPU 是否直接操作内存的「物理地址」?如果是的话，操作系统是如何解决这个问题呢？
+
+2.操作系统是如何管理虚拟地址与物理地址之间的关系？
+
+3.分段为什么会产生内存碎片的问题
+
+4.分段为什么会导致内存交换效率低的问题？
+
+5.分页是怎么解决分段的内存碎片、内存交换效率低的问题？
+
+6.内核空间与用户空间的区别
+
+7.不同的用户空间对应的是否是相同的内核空间
+
+
+### 每日算法
+算法：「反转链表」：https://leetcode-cn.com/problems/reverse-linked-list/
+
+ 
 ## go中文网每日资讯--2021-07-11
 
 
