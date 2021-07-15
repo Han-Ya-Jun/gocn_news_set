@@ -7,6 +7,192 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+## go中文网每日资讯--2021-07-14
+
+
+一、Go语言中文网
+
+1. [Go1.16.6 发布](https://mp.weixin.qq.com/s/7DnxMeJr7TAQjfwGIMIoTQ)
+
+二、Go中文网日报
+
+1. [📖 Go相关公众号文章每日推荐【2021-07-13】 - Go语言中文网 - Golang中文社区](https://studygolang.com/topics/13959)
+
+三、脑子进煎鱼了
+
+1. [深入理解 Linux 的 epoll 机制](https://mp.weixin.qq.com/s/GEoG23wz2JfQQQ9MgoM8tg)
+
+四、MoeLove
+
+1. [万字长文：彻底搞懂容器镜像构建](https://mp.weixin.qq.com/s/9bspPi69ZgUMQi2cfZFIbg)
+
+五、polarisxu
+
+1. [一起聊聊 Go Context 的正确使用姿势](https://mp.weixin.qq.com/s/ohqLkq5n6dzOrmrBvc6tOA)
+
+六、腾讯技术工程
+
+1. [浅谈 Protobuf 编码](https://mp.weixin.qq.com/s/enDUynhZ1Pnzg_4xEjR21A)
+
+七、TonyBai
+
+1. [一文告诉你如何用好uber开源的zap日志库](https://mp.weixin.qq.com/s/cU5y465F7bhzVk6cHp0qVA)
+
+八、mohuishou
+
+1. [一个普通 Go 开发的三年](https://mp.weixin.qq.com/s/78xBFKZEM0lupUVdzYVA7A)
+
+九、微服务实践
+
+1. [听说过对 Go map 做 GC 吗？](https://mp.weixin.qq.com/s/s65P0ikv8v-dgI0fXg3F7g)
+
+十、GoUpUp
+
+1. [Go 每日一库之 net/http（基础和中间件）](https://mp.weixin.qq.com/s/OubTTnP1-4MvQMD0qakZxA)
+
+十一、鸟窝
+
+1. [[译]更新Go内存模型](https://colobu.com/2021/07/13/Updating-the-Go-Memory-Model/)
+
+十二、Go招聘
+
+1. [诺瓦科技诚聘Gopher，共同创造智能视界](https://mp.weixin.qq.com/s/Psgfopy8j5sZFX-l9uk4WQ)
+
+2. [如何提高代码的可读性 学习笔记](https://mp.weixin.qq.com/s/_fg_oS74DEd4jKqJFHKHzg)
+
+
+## GOCN每日新闻--2021-07-14
+1.使用 Go 编写一个 VPN 工具 https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/
+
+2.Go、微服务和 Twirp https://reshefsharvit.medium.com/golang-microservices-and-twirp-5ef495278ddf
+
+3.MIME 头分析工具 mimeheader https://github.com/aohorodnyk/mimeheader
+
+4.Go 布尔表达式索引器库 https://github.com/csimplestring/bool-expr-indexer
+
+5.Go GTK4 绑定生成器 https://github.com/diamondburned/gotk4
+
+
+## gopherDaily--2021-07-14
+- 1.编程语言内存模型[译] -  https://colobu.com/2021/07/11/Programming-Language-Memory-Models/
+- 2.livekit: Go实现的基于WebRTC的分布式视频/音频聊天室 - https://github.com/livekit/livekit-server
+- 3.testza: Go的全功能测试框架! 支持断言、mock、输出捕捉等 - https://github.com/MarvinJWendt/testza/
+- 4.Go http router框架横向对比 - https://benhoyt.com/writings/go-routing/
+- 5.WebAssembly旨在消除文件系统 - https://thenewstack.io/webassembly-aims-to-eliminate-the-file-system/
+- 6.改善Kubernetes开发的有用工具 - https://blog.usejournal.com/useful-tools-for-better-kubernetes-development-87820c2b9435
+- 7.gan-go: 通过Gorgonia在Go中使用生成对抗性网络(GAN) - https://github.com/LdDl/gan-go
+- 8.用WasmEdge和YoMo进行实时数据流的AI推理 - https://www.secondstate.io/articles/yomo-wasmedge-real-time-data-streams/
+- 9.Go-clean-template：用于Go服务的clean architecture模板 - https://evrone.com/go-clean-template
+- 10.代码搜索的未来 by sourcegraph (刚获得由安德烈森 · 霍洛维茨领投的1.25亿刀D轮投资)- https://about.sourcegraph.com/blog/the-future-of-code-search/
+
+
+
+
+## go中文网每日资讯--2021-07-13
+
+
+一、Go语言中文网
+
+1. [图解 Go 协程，操作系统线程和 CPU 管理](https://mp.weixin.qq.com/s/INW0vr9_9cQhbTBR5ho0Sw)
+
+2. [Go 依赖注入：为什么把 dig 迁移到 wire](https://mp.weixin.qq.com/s/bHXRSpiIhycoQLN5oz0QMA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-12)——grpc基本概念](https://mp.weixin.qq.com/s/vxni2e0UPXQTPzrm-l7_HA)
+
+三、k8s技术圈
+
+1. [Prometheus 存储层的演进](https://mp.weixin.qq.com/s/TaE2mfJMHLMnw-NLYZRqhA)
+
+四、Golang梦工厂
+
+1. [大厂Golang语法50问!](https://mp.weixin.qq.com/s/gp-4KCc0JcuSA05jXpVYuA)
+
+五、HHFCodeRv
+
+1. [我为什么从 C++ 转到了 Go ?](https://mp.weixin.qq.com/s/2jEwYZJYQLtBYO5pq4bhwA)
+
+六、polarisxu
+
+1. [Rust + Go 双剑合璧：WebAssembly 领域应用](https://mp.weixin.qq.com/s/501wCGxATJ0J7kGZqsKiJw)
+
+2. [Go1.16.6 发布：又一个小问题引发安全 Bug](https://mp.weixin.qq.com/s/s1q6YKzFX0FLec394es-0g)
+
+七、董泽润的技术笔记
+
+1. [如何用 Go 实现 JIT Compiler](https://mp.weixin.qq.com/s/ubxfUg9qAqlBmi-Yw0H-fw)
+
+2. [一文解惑 //go:linkname 指令](https://mp.weixin.qq.com/s/0rOBzMeFHKS0MLRtYGhHvw)
+
+八、Go夜读
+
+1. [Go 紧急修复 crypto/tls 安全问题](https://mp.weixin.qq.com/s/WC0VSOzDk5XTXcc5tLP6fg)
+
+九、Go语言进阶
+
+1. [日志库的使用姿势](https://mp.weixin.qq.com/s/rqmrkUiDtorzEIN00ObbLg)
+
+十、腾讯云中间件
+
+1. [Kratos技术系列｜从Kratos设计看Go微服务工程实践](https://mp.weixin.qq.com/s/ZCoc3qA_r1fKzPOURA2V2g)
+ 
+
+
+## GOCN每日新闻--2021-07-13
+
+1.Go 1.16.6 and Go 1.15.14 are released https://groups.google.com/g/golang-announce/c/n9FxMelZGAQ/m/4ZhvTx0dAQAJ
+
+2.更新 Go 内存模型 https://research.swtch.com/gomm
+
+3.Go 依赖注入：为什么把 dig 迁移到 wire https://mp.weixin.qq.com/s/bHXRSpiIhycoQLN5oz0QMA
+
+4.编程模式之 Go 如何实现装饰器 https://mp.weixin.qq.com/s/B_VYr3I525-vjHgzfW3Jhg
+
+5.Go 不是 C，所以没有极快的方法来合并切片 https://github.com/go101/go101/wiki/Go-is-not-C,-so-there-is-not-an-extreme-fast-way-to-merge-slices
+
+
+
+## gopherDaily--2021-07-13
+- 1.更新Go内存模型 by Russ Cox - https://research.swtch.com/gomm
+- 2.Go 1.16.6和1.15.14发布 - https://groups.google.com/g/golang-announce/c/n9FxMelZGAQ/m/4ZhvTx0dAQAJ
+- 3.Hashicorp开源cap：一个认证包的集合 - https://github.com/hashicorp/cap
+- 4.Go的典型项目目录结构的历史与原因 - https://www.reddit.com/r/golang/comments/oiwht8/reasoninghistory_of_gos_typical_project_directory/
+- 5.使用Istio和Kind的多集群流量镜像 - https://piotrminkowski.com/2021/07/12/multicluster-traffic-mirroring-with-istio-and-kind/
+- 6.理解Go类型嵌入 - https://octo.vmware.com/golang-embedding/
+- 7.成为更好的Go开发者的7个课题（和GitHub存储库) - https://dev.to/avelino/7-subjects-and-github-repositories-to-become-a-better-go-developer-3kb3
+- 8.在Go项目中运行的便捷命令 - https://github.com/nikolaydubina/go-recipes
+- 9.2D游戏引擎Ebiten作者的8年心路历程（日语) - https://note.com/hajimehoshi/n/nc09751f2dbf9
+- 10.在混合云和多云之间做出选择时需要考虑的问题 - https://thenewstack.io/what-to-consider-when-choosing-between-hybrid-and-multicloud/
+
+## 码农桃花源--2021-07-13
+### 文章分享
+
+1.[redis ](https://mp.weixin.qq.com/s/mFqn6bQvh2OAxoguY7OGJw)
+
+2.[图解 进程与线程](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247485175&idx=1&sn=eda03758d4e810afd897ade44c19a508&chksm=f98e425dcef9cb4b3da63e6054f34d5012068b16eb3503d7e5a93bc2a857f1e5116ff793f1d9&scene=178&cur_album_id=1408057986861416450#rd)
+
+### 课后问题
+
+1. 进程的五种状态变迁图，七种的呢，是什么样子的？
+
+2. PCB(进程控制块)包含了什么信息？
+
+3. 寄存器，内存，硬盘哪个更快
+
+4. 进程的上下文切换到底是切换什么呢？
+
+5. TCB是什么
+
+6. 内核空间与用户空间的区别
+
+7. 进程的调度时机
+
+
+### 每日算法
+
+算法：「反转链表」：https://leetcode-cn.com/problems/reverse-linked-list/
+
 ## go中文网每日资讯--2021-07-12
 
 
