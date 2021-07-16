@@ -7,6 +7,103 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_202
 
+## go中文网每日资讯--2021-07-15
+一、Go语言中文网
+
+1. [Go 项目从 Travis 迁移至 GitHub Actions](https://mp.weixin.qq.com/s/P8-ob4F70J03Hv_CQvJVcw)
+
+2. [Go结构体的内存对齐](https://mp.weixin.qq.com/s/qHeM_eJ33m-vH6CmqUYnOg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-14)——Go1.16.6 发布](https://mp.weixin.qq.com/s/a6Qrnn5yirQUl70kP47r3w)
+
+三、k8s技术圈
+
+1. [Argo Rollouts 基于 Analysis 的渐进式发布](https://mp.weixin.qq.com/s/13HOX1j0DcjdH8v8-IVUKA)
+
+四、Golang梦工厂
+
+1. [赏析Singleflight设计](https://mp.weixin.qq.com/s/JUkxGbx1Ufpup3Hx08tI2w)
+
+五、polarisxu
+
+1. [Rust 所有权很难？这个开源工具帮你理解](https://mp.weixin.qq.com/s/ga5EES5wxfvQscJJaw97fw)
+
+六、董泽润的技术笔记
+
+1. [再批 MySQL JSON](https://mp.weixin.qq.com/s/nIpzfpggA1VWNiRBZVTm1A)
+
+七、码农桃花源
+
+1. [曹大带我学 Go（7）—— 如何优雅地指定配置项](https://mp.weixin.qq.com/s/qwzhLKnSAYlRT7oeE93CPg)
+
+八、脑子进煎鱼了
+
+1. [微服务的灾难：折磨人的环境！](https://mp.weixin.qq.com/s/h2tC7X1SEdX2tPnzCV_hWw)
+
+2. [Go1.16.6 发布：又一个小问题引发安全 Bug](https://mp.weixin.qq.com/s/6vxsF2N9LbswnIYCGMsXeQ)
+
+九、网管叨bi叨
+
+1. [用Kubernetes搭建便携式开发环境之MongoDB](https://mp.weixin.qq.com/s/99Bp1GouUKoZVZ6_uF7msw)
+
+十、Go招聘
+
+1. [详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？](https://mp.weixin.qq.com/s/1cKn0fhd_b_kh4Oy3UvYMA)
+
+
+
+
+
+## GOCN每日新闻--2021-07-15
+1.编写高质量的 Go benchmarks 并不容易 https://github.com/go101/go101/wiki/Writing-qualified-Go-benchmarks-is-not-easy
+
+2.安全计数的多种方式 https://brunocalza.me/there-are-many-ways-to-safely-count/
+
+3.Go 中的流水线模式 https://ketansingh.me/posts/pipeline-pattern-in-go-part-1/
+
+4.探究 sync.RWMutex https://sreramk.medium.com/go-sync-rwmutex-internals-and-usage-explained-9eb15865bba#d1f6-c1e9f1b394e4
+
+5.轻量级依赖注入框架 di https://github.com/go-tk/di
+
+
+
+## 码农桃花源--2021-07-15
+### 文章分享
+
+1.[go g0/m0 ](https://mp.weixin.qq.com/s/1cKn0fhd_b_kh4Oy3UvYMA)
+
+2.[图解 多线程操作同一个资源](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247485264&idx=1&sn=78585cbabd1e0c333b43a3abd2b2ff64&chksm=f98e43facef9caecb8681562a1465fc5e1657b4bd332c6370289454b95737484cdbccd7b8076&scene=178&cur_album_id=1408057986861416450#rd)
+
+### 思考问题
+
+1. 怎样理解同步与互斥
+
+2. 科学家就餐问题：5 个老大哥哲学家，闲着没事做，围绕着一张圆桌吃面；
+巧就巧在，这个桌子只有 5 支叉子，每两个哲学家之间放一支叉子；
+
+哲学家围在一起先思考，思考中途饿了就会想进餐；
+
+奇葩的是，这些哲学家要两支叉子才愿意吃面，也就是需要拿到左右两边的叉子才进餐；
+
+吃完后，会把两支叉子放回原处，继续思考；
+
+那么问题来了，如何保证哲学家们的动作有序进行，而不会出现有人永远拿不到叉子呢？
+
+3. 读者-写者的问题描述：
+「读-读」允许：同一时刻，允许多个读者同时读
+
+「读-写」互斥：没有写者时读者才能读，没有读者时写者才能写
+
+「写-写」互斥：没有其他写者时，写者才能写
+
+
+### 每日算法
+算法：「反转链表」：https://leetcode-cn.com/problems/reverse-linked-list/
+
+
+
 ## go中文网每日资讯--2021-07-14
 
 
