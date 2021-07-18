@@ -5,7 +5,93 @@
 # [gocn_news_set_2019](gocn_news_set_2019.md)
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
-# gocn_news_set_202
+# gocn_news_set_2021
+
+## go中文网每日资讯--2021-07-17
+一、#公众号：Go语言中文网
+
+1. [Go每日一库之 gocache](https://mp.weixin.qq.com/s/G0b9AslZCUzTiViaRt9fgg)
+
+2. [golang pprof label 使用简介](https://mp.weixin.qq.com/s/AlqkqZS8LyXIbdqgdbSoHg)
+
+二、#公众号：亚军进化史
+
+1. [Go技术日报(2021-07-15)——你知道 g0，m0 是什么吗?](https://mp.weixin.qq.com/s/kXAhW0fQdzMBjE6TPtYY_w)
+
+三、#公众号：奇伢云存储
+
+1. [程序员简历应该怎么写？（附简历模板)](https://mp.weixin.qq.com/s/hAaBzP4PaCY0KLHGN-d19g)
+
+四、#公众号：CloudNativeCommunity
+
+1. [在 Kubernetes 上部署应用时如何更新数据库](https://mp.weixin.qq.com/s/zdEpUSv--hZsTmX4BC7Zqg)
+
+五、#公众号：董泽润的技术笔记
+
+1. [面试必备常见存储引擎与锁的分类，请查收](https://mp.weixin.qq.com/s/IIC3rM9PxaEyiICnjBIoPg)
+
+2. [赏析 Singleflight 设计](https://mp.weixin.qq.com/s/Ym_EGo1OlqQLD1_lvqCmLQ)
+
+六、#公众号：MoeLove
+
+1. [如何用K8S临时容器来调试pods](https://mp.weixin.qq.com/s/AN7My0x1sYxu75jugb3JKw)
+
+七、#公众号：腾讯技术工程
+
+1. [带你快速了解 Docker 和 Kubernetes](https://mp.weixin.qq.com/s/ji0Pj00xeHOeispNhsPKZw)
+
+八、#公众号：GoOfficialBlog
+
+1. [掌门下一代容器发布系统](Triton https://mp.weixin.qq.com/s/Olh57ONjOlaenVqFuTXvbw)
+
+九、#公众号：Go招聘
+
+1. [Go程序内存分配过多？试试本文的方法](https://mp.weixin.qq.com/s/nQMgB76ecuF86TtO1NjiOA)
+
+十、#公众号：polarisxu
+
+1. [Go1.17 新特性：新版构建约束](https://mp.weixin.qq.com/s/1JfYNZR8dH2eaCRuLJmJcg)
+
+
+
+
+## GOCN每日新闻--2021-07-17
+
+1.Golang 官方认可的 websocket 库-gorilla/websocket  https://gocn.vip/topics/12349
+
+2.Go 内存模型  https://colobu.com/2021/07/13/Updating-the-Go-Memory-Model/
+
+3.如何提高缓存系统的内存利用率和可扩展性   https://draveness.me/papers-segcache/
+
+4.浅谈 Protobuf 编码  https://mp.weixin.qq.com/s/enDUynhZ1Pnzg_4xEjR21A
+
+5.深入浅出 Linux 惊群：现象、原因和解决方案  https://mp.weixin.qq.com/s/dQWKBujtPcazzw7zacP1lg
+
+
+## gopherDaily--2021-07-17
+ - 1.2021 GopherChina上字节跳动分享的Go 网络库上的实践中提到的netpoll库开源 - https://github.com/cloudwego/netpoll
+ 
+ - 2.Go实现的全能公链thinkium - https://github.com/ThinkiumGroup/go-thinkium
+ 
+ - 3.私有化仓库的 GO 模块使用实践 - https://zhuanlan.zhihu.com/p/384621827
+ 
+ - 4.在Go中构建商业应用: Three Dot实验室联合创始人专访 -  https://goingwithgo.com/2021/07/building-business-applications-in-golang-three-dots-labs/
+ 
+ - 5.比较现代的容器镜像生成器：Jib、Buildpacks和Docker - https://community.suse.com/posts/comparing-modern-day-container-image-builders-jib-buildpacks-and-docker
+ 
+ - 6.充分利用Fleet和Rancher进行Kubernetes GitOps持续集成和交付 - https://digitalis.io/blog/kubernetes/kubernetes-gitops-continuous-integration-and-delivery-with-fleet-and-rancher/
+ 
+ - 7.内置go语言扩展引擎的Go web服务器 - https://github.com/i-rme/GOP-Server/
+ 
+ - 8.Go实现的包数据编辑工具 - https://remyhax.xyz/posts/golang-packet-editing/
+ 
+ - 9.The programming languages I like and why I like them -
+ 
+ - 10.kubernetes配置模式：kubernetes controler模式 - https://developers.redhat.com/blog/2021/05/05/kubernetes-configuration-patterns-part-2-patterns-for-kubernetes-controllers
+ - 11.stealthpool提供了一个内存池，它在堆外分配的块不会被垃圾收集器追踪到 - https://github.com/Link512/stealthpool
+
+
+
 
 ## go中文网每日资讯--2021-07-15
 一、Go语言中文网
