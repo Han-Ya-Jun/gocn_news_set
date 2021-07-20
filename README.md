@@ -7,6 +7,111 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+
+## go中文网每日资讯--2021-07-19
+
+
+一、Go语言中文网
+
+1. [听说过对 Go map 做 GC 吗？](https://mp.weixin.qq.com/s/fTyfcBhRGNo3Q3Gl12_XNw)
+
+2. [echo 框架解析客户端IP的坑](https://mp.weixin.qq.com/s/uhmAe4cxVa7-3O6RITQVYA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-18)——面试官：熔断降级原理是什么？](https://mp.weixin.qq.com/s/sS3DimpYAZk1UEVzSbAUPw)
+
+三、luozhiyun很酷
+
+1. [2.深入TiDB：入口代码分析及调试 TiDB](https://mp.weixin.qq.com/s/4tIVJP0DR5dfb9fOG-iOuA)
+
+四、polarisxu
+
+1. [厉害了我的 Go：国人开源的推荐系统](https://mp.weixin.qq.com/s/eN5I067dJpvUIVT7V5YUAA)
+
+五、CloudNativeCommunity
+
+1. [服务网格联网：使用案例、最佳实践和顶级服务网格选择比较](https://mp.weixin.qq.com/s/JicqKtuNlZ1FsuHyx-EjLw)
+
+六、Golang梦工厂
+
+1. [面试官：小松子知道什么是内联函数吗？](https://mp.weixin.qq.com/s/t4-LXNF8l4OWM3jiqizdew)
+
+七、k8s技术圈
+
+1. [镜像搬运工具 Skopeo 使用](https://mp.weixin.qq.com/s/tj0niGcJ2nmpQQoh_wyGAA)
+
+八、董泽润的技术笔记
+
+1. [Rust 让人难以理解的 lifetime](https://mp.weixin.qq.com/s/tX4ghbGuY3p25t1HofPCIg)
+
+2. [深入理解 Linux 的 epoll 机制](https://mp.weixin.qq.com/s/m48o56BigLUp1RgmWySfKA)
+
+九、脑子进煎鱼了
+
+1. [微服务的灾难：测试越来越痛苦...](https://mp.weixin.qq.com/s/ogi_pnmzRsjA5pic1arEjw)
+
+2. [Go程序内存分配过多？试试本文的方法](https://mp.weixin.qq.com/s/zBHPYJWnGf67Ex8i4cV8Eg)
+
+十、码农桃花源
+
+1. [曹大带我学 Go（8）—— 一个打点引发的事故](https://mp.weixin.qq.com/s/8puLJSJ3GeXnmDlMxdzGgQ)
+
+十一、Golang来啦
+
+1. [gRPC入门指南 — 通过TLS建立安全连接（五）](https://mp.weixin.qq.com/s/Qa3YZcfl-JaJ6iQd3mXptQ)
+
+十二、Go招聘
+
+1. [助力你成为更好Gopher的7个Go库](https://mp.weixin.qq.com/s/UWrs05EoIapwSCS11aJH7w)
+
+## GOCN每日新闻--2021-07-19
+
+1.面试官：小松子知道什么是内联函数吗？ https://mp.weixin.qq.com/s/t4-LXNF8l4OWM3jiqizdew
+
+2.一文搞懂 Go 语言的 plugin https://tonybai.com/2021/07/19/understand-go-plugin
+
+3.Go 程序内存分配过多？试试本文的方法 https://mp.weixin.qq.com/s/nQMgB76ecuF86TtO1NjiOA
+
+4.字节跳动开发的高性能非阻塞 I/O 网络框架，专注于 RPC 场景 https://github.com/cloudwego/netpoll
+
+5.Gort 是为 chatops 从头设计的聊天机器人框架 https://github.com/getgort/gort
+
+
+## gopherDaily--2021-07-19
+
+- 1.Gorse：一个开箱即用的开源推荐系统 - https://github.com/zhenghaoz/gorse
+- 2.Go管道线模式实现第二部分 - https://ketansingh.me/posts/pipeline-pattern-in-go-part-2/
+- 3.根据公开的GitHub存储库，最受欢迎的编程语言 - https://www.reddit.com/r/dataisbeautiful/comments/om66b5/oc_most_popular_programming_languages_according/
+- 4.Gort是一个从头开始为聊天机器人设计的go框架 - https://github.com/getgort/gort
+- 5.Mesh VPN是如何工作的？用Go编写我自己的VPN工具来寻找答案 - https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/
+- 6.深入理解sync.Map工作原理 - https://sreramk.medium.com/go-inside-sync-map-how-does-sync-map-work-internally-97e87b8e6bf
+- 7.使用公司内部的Kubernetes金丝雀控制器逐步发布代码 - https://doordash.engineering/2021/04/14/gradual-code-releases-using-an-in-house-kubernetes-canary-controller/
+- 8.Linux I/O 原理和 Zero-copy 技术全面揭秘 - https://strikefreedom.top/linux-io-and-zero-copy
+- 9.学习Go语言的21个理由 - https://www.golang4us.com/2020/10/why-learn-go.html
+
+
+## 码农桃花源--2021-07-19
+### 文章分享
+
+[go 曹大带我学go](https://mp.weixin.qq.com/s/8puLJSJ3GeXnmDlMxdzGgQ)
+
+[图解 进程间通信](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247485318&idx=1&sn=0da0a684639106f548e9d4454fd49904&chksm=f98e432ccef9ca3ab4e10734fd011c898785f18d842ec3b148c7a8ee500790377858e0dbd8d6&scene=178&cur_album_id=1408057986861416450#rd)
+
+[go 流行repo](https://mp.weixin.qq.com/s/UWrs05EoIapwSCS11aJH7w)
+
+### 思考问题
+
+1. 进程间通信都有什么机制
+
+2. 不同主机间进程通信有什么机制
+
+
+### 每日算法
+算法：「二分查找」：https://leetcode-cn.com/problems/binary-search/
+
+
 ## go中文网每日资讯--2021-07-18
 
 
