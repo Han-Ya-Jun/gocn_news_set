@@ -9,6 +9,87 @@
 
 
 
+
+## go中文网每日资讯--2021-07-20
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 104 期 — Go1.17 RC1发布](https://mp.weixin.qq.com/s/xlEeovtq9hSRsEdx7kwhAw)
+
+2. [golang benchmark源码分析](https://mp.weixin.qq.com/s/n9x4FxFLOwG8FMNIqI8e1Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-19)——国人开源的推荐系统](https://mp.weixin.qq.com/s/tW5Hx3rJixamIHQvUu-osQ)
+
+三、脑子进煎鱼了
+
+1. [网友很强大，发现了Go并发下载的Bug](https://mp.weixin.qq.com/s/Kd4np83CKEOLQ3K0eWxlKg)
+
+四、网管叨bi叨
+
+1. [我用休眠做并发控制，搞垮了下游服务](https://mp.weixin.qq.com/s/ZjDnYTBH6Wyn3k8MbZqGOw)
+
+五、k8s技术圈
+
+1. [记一次 K8S 排错实战过程](https://mp.weixin.qq.com/s/aO-f8wHu6EOB2le-nRD7gA)
+
+六、MoeLove
+
+1. [直播预告｜云原生场景下企业API 网关选型及落地实践](https://mp.weixin.qq.com/s/zGpesHBm3hOCIarG4Q8xWQ)
+
+2. [图解 Deployment Controller 工作流程](https://mp.weixin.qq.com/s/T7X-_dKV1qx2eNG-wtaT3Q)
+
+七、polarisxu
+
+1. [为什么 Go map 和 slice 是非线性安全的？](https://mp.weixin.qq.com/s/lD6kI6ZT_ZqBfC-13kFfnw)
+
+八、微服务实践
+
+1. [一文搞懂一致性hash的原理和实现](https://mp.weixin.qq.com/s/dpwC4TAAO1CdlPWIC_KFUg)
+
+九、GoUpUp
+
+1. [Go 每日一库之 gorilla/mux](https://mp.weixin.qq.com/s/aCj8VjYtcthVOJNfWefFBA)
+
+十、Go招聘
+
+1. [面试题：如何更新 Go Module 项目的依赖 — 解决问题的方法很重要](https://mp.weixin.qq.com/s/WJqwndZ3ORy8tlX6Kl6cWQ)
+
+
+## GOCN每日新闻--2021-07-20
+
+1.Go 每日一库之 gorilla/mux https://segmentfault.com/a/1190000040371581
+
+2.PHP 转 Go 速学手册 https://mp.weixin.qq.com/s/aC0P3OfwrQ5VamQIyj9Kxg
+
+3.深度分析 Golang sync.Pool 底层原理 https://www.cyhone.com/articles/think-in-sync-pool/
+
+4.一文搞懂一致性 hash 的原理和实现 https://gocn.vip/topics/12361
+
+5.《2021 开发者生态系统现状》https://blog.jetbrains.com/zh-hans/blog/2021/07/16/the-state-of-developer-ecosystem-2021/
+
+
+## gopherDaily--2021-07-20
+1.JetBrains发布《2021开发者生态系统现状》,2021年开发者学习的前5种语言是JavaScript、Python、TypeScript、Java和Go。开发者计划采用或迁移到的前5种语言是Go、Kotlin、TypeScript、Python和
+
+2.Rust。增长最快的5种语言是Python、TypeScript、Kotlin、SQL和Go - https://www.jetbrains.com/zh-cn/lp/devecosystem-2021/
+
+3.一文搞懂Go语言的plugin - https://tonybai.com/2021/07/19/understand-go-plugin
+
+4.与Spring Cloud 完全兼容的Ease Mesh开源 - https://github.com/megaease/easemesh
+
+5.深入了解Kubernetes的部署策略 - https://www.educative.io/blog/kubernetes-deployments-strategies
+
+6.播客：Go的语义导入版本管理（SIV）以及”v2+问题 “ - https://changelog.com/gotime/188
+
+7.Go mutex的一旋二饿三唤醒机制 - https://www.readfog.com/a/1640714721498861568
+
+8.简化的Go接口: 一个被误解的野兽 - https://briankovacs.medium.com/golang-interfaces-60e459ebd7c0
+
+9.LyftLearn: 建立在Kubernetes上的ML模型训练基础设施 - https://eng.lyft.com/lyftlearn-ml-model-training-infrastructure-built-on-kubernetes-aef8218842bb
+
+
 ## go中文网每日资讯--2021-07-19
 
 
