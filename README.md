@@ -8,7 +8,87 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2021-07-21
 
+
+一、Go语言中文网
+
+1. [用Go构建一个快速的现代化网络爬虫](https://mp.weixin.qq.com/s/sDKLzCiZzh4Od-4xd_J8tA)
+
+2. [Go 每日一库之 bubbletea](https://mp.weixin.qq.com/s/OlP0eMwdjWDBBE1eapERNg)
+
+二、Go语言中文网 - Golang中文社区
+
+1. [📖 Go相关公众号文章每日推荐【2021-07-20】 ](https://studygolang.com/topics/13996)
+
+三、polarisxu
+
+1. [Rust 不能做的事情，用什么替代？](https://mp.weixin.qq.com/s/I73xlEMRabE_0jcYS0NDFg)
+
+四、董泽润的技术笔记
+
+1. [小技巧！Wireshark 让调试 grpc 不再困难](https://mp.weixin.qq.com/s/BdcFRO58ytrtcpYZVT1ymQ)
+
+五、奇伢云存储
+
+1. [技巧分享：多 Goroutine 如何优雅处理错误？](https://mp.weixin.qq.com/s/nHnZ86OESvLvggnCA393kg)
+
+六、小白debug
+
+1. [动图图解！代码执行send成功后，数据就发出去了吗？](https://mp.weixin.qq.com/s/SRzJ4ABooeJ-Lnmotuu60w)
+
+七、脑子进煎鱼了
+
+1. [提了 3 年，Go1.17 终于增强构建约束！](https://mp.weixin.qq.com/s/5kLFIuI0UJl_o8vMmZNfoA)
+
+2. [Linux fd 系列 — eventfd 是什么？](https://mp.weixin.qq.com/s/9S1kYiDs6aVQXVtPY_fTBg)
+
+八、码农桃花源
+
+1. [曹大带我学 Go（9）—— 开始积累自己的工具库](https://mp.weixin.qq.com/s/MS0LY9pf3m6p56MtlYyN6A)
+
+九、Go招聘
+
+1. [Go中签名采坑记](https://mp.weixin.qq.com/s/QRg51DgV8TQKfrbcEpfTsw)
+
+
+
+
+## GOCN每日新闻--2021-07-21
+
+1.使用 TiDB 构建实时应用 https://gocn.vip/topics/12365
+
+2.100 Go Mistackes：How to Avoid Them https://gocn.vip/topics/12364
+
+3.用 Go 轻松完成一个 TCC 分布式事务，保姆级教程 https://gocn.vip/topics/12363
+
+4.Go 并发下载的 Bug https://mp.weixin.qq.com/s/Kd4np83CKEOLQ3K0eWxlKg
+
+5.记一次 K8S 排错实战过程 https://mp.weixin.qq.com/s/aO-f8wHu6EOB2le-nRD7gA
+
+
+## 码农桃花源--2021-07-21
+### 文章分享
+
+[go 曹大带我学go](https://mp.weixin.qq.com/s/MS0LY9pf3m6p56MtlYyN6A)
+
+[图解 文件系统](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247485446&idx=1&sn=2c525f008622b98bc08a66f2b4dcfee8&chksm=f98e4caccef9c5bafe0a69378623049a1cf37fbb8b61b65922f772e2170f98292b914a4268e5&scene=178&cur_album_id=1408057986861416450#rd)
+
+[慢 sql ](https://mp.weixin.qq.com/s/p1avvT4AnyXlKbRVMRAqBQ)
+
+[Wireshark 调试grpc](https://mp.weixin.qq.com/s/BdcFRO58ytrtcpYZVT1ymQ)
+
+### 思考问题
+
+1.文件数据是如何存储在磁盘的呢
+
+2.如果要保存一个数据块，应该放在硬盘上的哪个位置呢？
+
+3.常见的文件的 I/O 分类举例几个
+
+
+### 每日算法
+算法：「寻找旋转排序数组中的最小值」：https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/
 
 ## go中文网每日资讯--2021-07-20
 
