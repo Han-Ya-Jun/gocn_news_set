@@ -7,6 +7,75 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-07-22
+
+
+一、Go语言中文网
+
+1. [使用 Hugo 和 Github Pages 创建你的开发者作品集](https://mp.weixin.qq.com/s/SN_Ulgoa1N3gBnSSKB13vA)
+
+2. [gRPC入门指南 — 简单RPC（一）](https://mp.weixin.qq.com/s/FidFpVSY1QRqCwFf3YvNsQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-21)—— 开始积累自己的工具库](https://mp.weixin.qq.com/s/IlmuaDeSydCkezUWhUmSKA)
+
+三、奇伢云存储
+
+1. [浅析 Go  IO 的知识框架](https://mp.weixin.qq.com/s/JniBMBw__WLbYtigj3eiXQ)
+
+四、脑子进煎鱼了
+
+1. [面试官：小松子知道什么是内联函数吗？](https://mp.weixin.qq.com/s/TaiRDMt0yaG89meT0eaghw)
+
+五、董泽润的技术笔记
+
+1. [Grab 格步北京 7月31 号线下招聘会](https://mp.weixin.qq.com/s/WIxEHAV6_S98fCmdvZrrJw)
+
+六、polarisxu
+
+1. [用 Go 造一个 Redis：推荐两个开源项目供参考](https://mp.weixin.qq.com/s/-xtreimiPbOuiq_bbsA3KA)
+
+七、GoOfficialBlog
+
+1. [深入理解 Kubernetes Deletion](https://mp.weixin.qq.com/s/14Y5oOeb38SNCZ67v0f2TA)
+
+八、Xargin
+
+1. [曹大的Go 语言笔记](https://go.xargin.com/)
+
+九、Go招聘
+
+1. [Go 群友提问：Goroutine 数量控制在多少合适，会影响 GC 和调度？](https://mp.weixin.qq.com/s/JCMr09WjWZz5FGiZWHkr0A)
+
+
+## GOCN每日新闻--2021-07-22
+1.sync.Map 内部是如何工作的 https://sreramk.medium.com/go-inside-sync-map-how-does-sync-map-work-internally-97e87b8e6bf
+
+2.numb 数字与单位转换工具 https://github.com/nkanaev/numb
+
+3.vim go 视频教程 https://youtu.be/7zCCnT9a58k
+
+4.实现优雅重启的工具 endless https://github.com/fvbock/endless
+
+5.纯 go 实现的 telegram 客户端 https://github.com/gotd/td
+
+
+## gopherDaily--2021-07-22
+
+- 1.Go实现的音视频聊天平台livekit的性能优化实践 - https://blog.livekit.io/going-beyond-a-single-core-4a464d20d17a
+- 2.Hotswap:建立在go plugin基础上的go语言代码热更解决方案 - https://github.com/edwingeng/hotswap/blob/main/README.zh-CN.md
+- 3.在Go中进行灵活的mocking测试 - https://medium.com/safetycultureengineering/flexible-mocking-for-testing-in-go-f952869e34f5
+- 4.我们是如何建立EGo的 - https://blog.edgeless.systems/how-we-built-ego-c02220360503
+- 5.torpar是Torrent Paradise的TUI Go客户端，Torrent Paradise是去中心化的DHT Torrent搜索网站 - https://github.com/varbhat/torpar
+- 6.etcd如何在有Kubernetes和没有Kubernetes的情况下工作 - https://learnk8s.io/etcd-kubernetes
+- 7.用链式结构简化raft - https://decentralizedthoughts.github.io/2021-07-17-simplifying-raft-with-chaining/
+- 8.Kubernetes是我们这一代的Multics - http://www.oilshell.org/blog/2021/07/blog-backlog-2.html
+- 9.创建你自己的mysqld exporter - https://percona.community/blog/2021/07/21/create-your-own-exporter-in-go/
+- 10.从C、C++和Rust中使用WebAssembly线程 - https://web.dev/webassembly-threads/
+
+
+
 
 ## go中文网每日资讯--2021-07-21
 
