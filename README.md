@@ -7,6 +7,116 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-07-25
+
+
+一、Go语言中文网
+
+1. [Go项目实战：动手实现一个并发下载器](https://mp.weixin.qq.com/s/hnc40uyAje4KCYigbhJKWQ)
+
+2. [通过 Go 搞懂一致性hash的原理和实现](https://mp.weixin.qq.com/s/eY-ARZfhsutoloxcflba0Q)
+
+3. [第三方库 go-sql-driver 源码浅析](https://mp.weixin.qq.com/s/hou5JTwld9xaVK9Ad9FBjw)
+
+二、k8s技术圈
+
+1. [Kubernetes 资源清单静态分析工具 - KubeLinter](https://mp.weixin.qq.com/s/-0TdBlrJUApmicnGeNQ3VA)
+
+三、机智的程序员小熊
+
+1. [Go语言：i/o timeout ， 希望你不要踩到这个net/http包的坑](https://mp.weixin.qq.com/s/OI1TXa3JeSdMJV4aM19ZJw)
+
+2. [极简Go语言玩算法：hot100-easy高频（二）](https://mp.weixin.qq.com/s/v0aUWbIKLS8XIgxvpgtGHQ)
+
+四、小白debug
+
+1. [面试高频：Go语言死锁与goroutine泄露问题谈论](https://mp.weixin.qq.com/s/fQzh20WpD_OhX7HUElaYGg)
+
+五、章老师说
+
+1. [《万亿级流量转发 - BFE核心技术与实现》开始预售](https://mp.weixin.qq.com/s/JR5Y8dN9gUsFi2W5VY_VhA)
+
+六、TechPaper
+
+1. [都 2021 了，你还忘记关闭 http body?](https://mp.weixin.qq.com/s/CcnW7FvY1yzU4HI-QK7ymQ)
+
+七、脑子进煎鱼了
+
+1. [浅析 Go  IO 的知识框架](https://mp.weixin.qq.com/s/vYR_QRCoqB5fiwQJY1roOg)
+
+八、码农桃花源
+
+1. [MQ 正在变成臭水沟](https://mp.weixin.qq.com/s/k0D-6uZ8CfjGX6rRGZFEdw)
+
+九、GoUpUp
+
+1. [Go 每日一库之 gorilla/securecookie](https://mp.weixin.qq.com/s/iLujqBgOFSUMNnaKv9f_xg)
+
+十、Go招聘
+
+1. [利好！又有二线城市招聘Go工程师](https://mp.weixin.qq.com/s/TQFyc0-jpyhEqwjWAygjBQ)
+
+
+
+## GOCN每日新闻--2021-07-25
+
+1.分析和优化 Go 程序内存使用 https://medium.com/safetycultureengineering/analyzing-and-improving-memory-usage-in-go-46be8c3be0a8
+
+2.Github 支持 Go 依赖库安全审查 https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/
+
+3.Go 网络程序支持更新不中断服务 https://wutch.medium.com/zero-downtime-api-in-golang-d5b6a52cc0ed
+
+4.NodeJs 和 go 中使用 consul 做服务发现 https://juejin.cn/post/6988411873985036325
+
+5.chapel 语言 vs Go  https://benchmarksgame-team.pages.debian.net/benchmarksgame/fastest/chapel-go.html
+
+
+## gopherDaily--2021-07-24
+1.用Go进行实时视频采集(无需cgo) - https://medium.com/learning-the-go-programming-language/realtime-video-capture-with-go-65a8ac3a57da
+
+2.GitHub为Go社区带来Go module供应链安全功能 - https://github.blog/2021-07-22-github-supply-chain-security-features-go-community/
+
+3.easytcp: 一个用Go编写的轻量级TCP框架 - https://github.com/DarthPestilane/easytcp
+
+4.Go实现的断路器 - https://ioshellboy.medium.com/circuit-breakers-in-golang-1779da9b001
+
+5.2021年5种最需要的新编程语言 - https://www.technotification.com/2018/08/new-demanding-programming-languages.html
+
+6.为什么你应该从第一天起就将应用建立在Kubernetes上？- https://stackoverflow.blog/2021/07/21/why-you-should-build-on-kubernetes-from-day-one/
+
+7.Kubernetes：对主要攻击的考察 - https://thenewstack.io/kubernetes-an-examination-of-major-attacks/
+
+8.成功实现Kubernetes技术转型的10个步骤 - https://thenewstack.io/10-steps-to-a-successful-kubernetes-technical-transformation/
+
+9.在HashiCorp Nomad中运行重复的批处理作业(job) - https://www.hashicorp.com/blog/running-duplicate-batch-jobs-in-hashicorp-nomad
+
+10.让你成为更好码农的八种方法 - https://newrelic.com/blog/nerd-life/8-ways-become-a-better-coder
+
+11.Rust 2021开启公测 - https://blog.rust-lang.org/2021/07/21/Rust-2021-public-testing.html
+
+## 码农桃花源--2021-07-23
+### 文章分享
+
+[go metux图解](https://mp.weixin.qq.com/s/xTtfwO0N96hUc9hucb9xwg)
+
+[图解 敲键盘A，操作系统发生了什么](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247485498&idx=1&sn=6948f309461ea83c691892949c8272dd&chksm=f98e4c90cef9c5861ae3747780ea74eeab79eb84d8bc16c8a389d2a29ec606acdf1295cae3b9&scene=178&cur_album_id=1408057986861416450#rd)
+
+[go reflection](https://halfrost.com/go_reflection/)
+
+### 思考问题
+
+1.控制器是有三类寄存器
+
+2.键盘敲入字母时，操作系统期间发生了什么？
+
+3.对于Mutex直接Unlock操作为什么会panic?
+
+
+### 每日算法
+算法：「有效的完全平方根」：https://leetcode-cn.com/problems/valid-perfect-square/
+
+
 ## go中文网每日资讯--2021-07-22
 
 
