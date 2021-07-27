@@ -8,6 +8,119 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2021-07-26
+
+一、Go语言中文网
+
+1. [Go1.17 新特性之切片变数组](https://mp.weixin.qq.com/s/1kdHR59nVMqt0LBNPXQZeA)
+
+2. [Golang 函数和 C 函数深度对比](https://mp.weixin.qq.com/s/Yv4pTmJInPlYQnG1l1uQEg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-25)——Go语言死锁与goroutine泄露问题谈论](https://mp.weixin.qq.com/s/fTcVTFMbUaIt_mokSk2PMQ)
+
+三、Gopher指北
+
+1. [讲的是切片，但好像又不只是切片？](https://mp.weixin.qq.com/s/2MGYuqT_Xzy2_MwteQruQw)
+
+四、polarisxu
+
+1. [一道关于 len 函数的诡异 Go 面试题解析](https://mp.weixin.qq.com/s/1fAmtwDTc7Gv8sGilKdGTQ)
+
+五、腾讯技术工程
+
+1. [5000 万行以上大型代码仓库工程实践](https://mp.weixin.qq.com/s/opCnSlnKYhrNkjP8xN-EGA)
+
+六、Golang技术分享
+
+1. [Gopher一定要会的代码自动化检查](https://mp.weixin.qq.com/s/h6cez-1E-WumjI7FetlpFQ)
+
+七、脑子进煎鱼了
+
+1. [一个 Demo 学会使用 Go Delve 调试](https://mp.weixin.qq.com/s/Yz_p0S5N4ubf8wxLm5wbmQ)
+
+八、吴亲强的深夜食堂
+
+1. [买股票的最佳时间(Leetcode)](https://mp.weixin.qq.com/s/VdSciF41E1ksSDgZq_y1cA)
+
+九、董泽润的技术笔记
+
+1. [你真的了解泛型 Generic 嘛？](https://mp.weixin.qq.com/s/4PlneTYivBoBdZCBLso6jw)
+
+十、Golang来啦
+
+1. [Go 语言实现安全计数的若干种方法](https://mp.weixin.qq.com/s/9fZUEJSLLnq0sn_6Y9YZ-g)
+
+十一、Golang梦工厂
+
+1. [读者提问：反射是如何获取结构体成员信息的？](https://mp.weixin.qq.com/s/gEgwFlTvOO4yhwc8BnRHQQ)
+
+
+
+## GOCN每日新闻--2021-07-26
+
+1.Go 中的.NET LINQ 功能 https://github.com/ahmetb/go-linq
+
+2.在 Go 中构建事件驱动的应用程序 https://github.com/ThreeDotsLabs/watermill/
+
+3.Go 实现的 protobuf 文件生成器 https://github.com/p1gd0g/rediloper
+
+4.Go 用于带注释的 TODO 注释的静态代码分析器 https://github.com/preslavmihaylov/todocheck/tree/v0.4.0
+
+5.Go 语言的调试器 Delve https://github.com/go-delve/delve
+
+## gopherDaily--2021-07-26
+1.Go经典阻塞式TCP协议流解析的实践 - https://t.zsxq.com/N7m66uJ
+
+2.在Go中访问PostgreSQL数据库 - https://eli.thegreenplace.net/2021/accessing-postgresql-databases-in-go/
+
+3.Go中实现零停机的API - https://wutch.medium.com/zero-downtime-api-in-golang-d5b6a52cc0ed
+
+4.实现不中断go应用的干净而简单的热重载 - https://itnext.io/clean-and-simple-hot-reloading-on-uninterrupted-go-applications-5974230ab4c5
+
+5.基于Go构建高可扩展的云原生PaaS（附PPT下载）- https://mp.weixin.qq.com/s/5u3W8kPAUo6FE98qlk5OAA
+
+6.浏览器：一个本地主机网关。使用WebAssembly和Go进行客户端端口扫描 - https://avi-lumelsky.medium.com/identify-website-users-by-client-port-scanning-using-webassembly-and-go-e9798b4aa05c
+
+7.经典旧文：Go实现工厂模式 - https://www.sohamkamani.com/golang/2018-06-20-golang-factory-patterns/
+
+8.hdfs的go客户端 - https://github.com/colinmarc/hdfs
+
+9.APM和云原生应用的演化 - https://www.ibm.com/cloud/blog/the-evolution-of-apm-and-cloud-native-applications
+
+10.Go实现的强大的语言集成查询（LINQ）库 - https://github.com/ahmetb/go-linq
+
+11.开源的私有LTE和5G网络介绍 - https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks
+
+12.Rust性能手册 - https://blues-star.github.io/perf-book-zh/title-page.html
+
+13.DB operator: 用于创建数据库，并通过自定义资源保持数据库在集群中可用 - https://github.com/kloeckner-i/db-operator
+
+
+## 码农桃花源--2021-07-26
+### 文章分享
+
+1.[go 曹大分析channel](https://github.com/cch123/golang-notes/blob/master/channel.md)
+
+2.[图解 进程调度算法](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247485564&idx=1&sn=b1673a5da4fab943a8a0d27ca1f1fb5c&chksm=f98e4cd6cef9c5c0429a9a3dec153121726f41f6cff36395594fabaad5e5a98ec7b59f29b2c1&scene=178&cur_album_id=1408057986861416450#rd)
+
+3.[body close](https://mp.weixin.qq.com/s/CcnW7FvY1yzU4HI-QK7ymQ)
+
+
+
+
+### 思考问题
+
+1.如果有多个channel同时唤醒同一个goroutine，这个并发控制是怎么做的？
+
+2.为什么向 channel 发数据的时候，会直接把数据从一个 goroutine 的栈拷贝到另一个 goroutine 的栈？
+
+
+### 每日算法
+算法：「有效的完全平方根」：https://leetcode-cn.com/problems/valid-perfect-square/
+
+
 ## go中文网每日资讯--2021-07-25
 
 
