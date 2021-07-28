@@ -7,7 +7,66 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-07-27
 
+
+一、Go语言中文网
+
+1. [Go程序内存分配过多？试试本文的方法](https://mp.weixin.qq.com/s/UWxWMbAEP0wdvPIWwz8yqw)
+
+2. [小技巧！Wireshark 让调试 grpc 不再困难](https://mp.weixin.qq.com/s/nQ-0n8g7d4nXscjyw_n57w)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-26)——你真的了解泛型 Generic 嘛？](https://mp.weixin.qq.com/s/y-gxs81VwYuvXwpb8Yx-aA)
+
+三、脑子进煎鱼了
+
+1. [编程模式之 Go 如何实现装饰器](https://mp.weixin.qq.com/s/8dvOlbUczZtfrsE0CoLSkw)
+
+四、Golang梦工厂
+
+1. [回答我，停止 Goroutine 有几种方法？](https://mp.weixin.qq.com/s/Mif59KBpuPgURDZzSsuJ6w)
+
+五、小白debug
+
+1. [Redis 面霸篇：从高频问题透视核心原理](https://mp.weixin.qq.com/s/XqmdKdL2k4IuQUoFGYgAaw)
+
+六、机智的程序员小熊
+
+1. [hystrix-go——微服务里的“及时止损”](https://mp.weixin.qq.com/s/XgKnf4mFymfGSO85tXBxeA)
+
+2. [极简Go语言玩算法（四）：二叉树最大深度、买卖股票最佳时机](https://mp.weixin.qq.com/s/uZFqSOCdikiyPAPKhNgciw)
+
+七、k8s技术圈
+
+1. [Istio 流量管理之故障注入](https://mp.weixin.qq.com/s/gpgOOhHRGglwGw9rWaQb2g)
+
+八、polarisxu
+
+1. [详解 Go 团队不建议用的 unsafe.Pointer](https://mp.weixin.qq.com/s/26eV4NxqiiE8mwzmgrz8eA)
+
+九、奇伢云存储
+
+1. [Linux 编辑器之神 vim 的 IO 存储原理](https://mp.weixin.qq.com/s/RRiKcbqlclkyXRj4GjRaCA)
+
+十、Go招聘
+
+1. [全网最全的Go书单来喽](https://mp.weixin.qq.com/s/eZ0qQmSpu2bLjb02sAW3ag)
+
+
+## GOCN每日新闻--2021-07-27
+1.非协作式抢占的实现 https://mp.weixin.qq.com/s/EfDmwKilzVLAR-gH_7yzDQ 2.Go 应用优化指北 https://mp.weixin.qq.com/s/UpPfkoDQW6qiKcZSRjikwg
+
+2.一个 Demo 学会使用 Go Delve 调试 https://mp.weixin.qq.com/s/Yz_p0S5N4ubf8wxLm5wbmQ
+
+3.如何化解 Kubernetes 网络的复杂性？https://mp.weixin.qq.com/s/_uQZlD7MtpqacqyxCZ4m1g
+
+4.gofu- 一个脚本语言工具包 https://github.com/codr7/gofu
+
+
+
+ 
 ## go中文网每日资讯--2021-07-26
 
 一、Go语言中文网
