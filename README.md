@@ -7,6 +7,95 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-07-28
+
+一、Go语言中文网
+
+1. [JetBrains 发布 2021 调查报告：Go 是最想学习的语言](https://mp.weixin.qq.com/s/FdEOv5cyvHnUhl5smCifig)
+
+2. [Go爱好者周刊题解：关于 len 函数的问题](https://mp.weixin.qq.com/s/8rt0546rBZYh9WW-CyhmeA)
+
+3. [gRPC入门指南 — 客户端流式RPC（三）](https://mp.weixin.qq.com/s/BTe8-_6oP5DOw3D5j4DQ9Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-07-27)——全网最全的Go书单来喽](https://mp.weixin.qq.com/s/qtLcKg_o6pbCwz2Yfdgqwg)
+
+三、Golang梦工厂
+
+1. [Go cmd 服务无法退出的小坑](https://mp.weixin.qq.com/s/22C2387AYz980Ye_0w_E1A)
+
+四、码农桃花源
+
+1. [你真的了解泛型 Generic 嘛？](https://mp.weixin.qq.com/s/7XuPNDZixXd4_I_b9rJnZA)
+
+五、董泽润的技术笔记
+
+1. [读者提问：反射是如何获取结构体成员信息的？](https://mp.weixin.qq.com/s/Buubo2WCQw-o6wCqOWHTSw)
+
+六、xueyuanjun
+
+1. [Go 数据结构和算法篇（十五）：二叉树的定义和存储](https://mp.weixin.qq.com/s/iIc9AB65H3VsQVBvANHKvQ)
+
+七、脑子进煎鱼了
+
+1. [学会使用 GDB 调试 Go 代码](https://mp.weixin.qq.com/s/O9Ngzgg9xfHMs5RSK5wHQQ)
+
+2. [Linux 编辑器之神 vim 的 IO 存储原理](https://mp.weixin.qq.com/s/Y1I6Yl4XTFw5uqae6nYkXA)
+
+八、polarisxu
+
+1. [全网最全的Go书单来喽](https://mp.weixin.qq.com/s/2IEN4ftrmxU9Va0-cuVmbA)
+
+九、机智的程序员小熊
+
+1. [讲透Go中的并发接收控制结构select](https://mp.weixin.qq.com/s/qtUYE4PNCh1gkV6H_NzryA)
+
+2. [字节跳动高频算法TopK](https://mp.weixin.qq.com/s/eoXqpCzdtmh84MH2LXMZ-g)
+
+十、Golang来啦
+
+1. [使用Go语言时，谨防锁拷贝！](https://mp.weixin.qq.com/s/zLbd0PclO9g6W0dg7pT3AQ)
+
+
+
+ 
+## GOCN每日新闻--2021-07-28
+
+1.Go 经典阻塞式 TCP 协议流解析的实践 https://tonybai.com/2021/07/28/classic-blocking-network-tcp-stream-protocol-parsing-practice-in-go
+
+2.学会使用 GDB 调试 Go 代码 https://mp.weixin.qq.com/s/O9Ngzgg9xfHMs5RSK5wHQQ
+
+3.【译】GitHub 为 Go 社区带来供应链安全功能 https://gocn.vip/topics/12386
+
+4.Go cmd 服务无法退出的小坑 https://mp.weixin.qq.com/s/22C2387AYz980Ye_0w_E1A
+
+5.powerproto: 一款多功能 proto 工具 https://github.com/storyicon/powerproto
+
+
+
+
+
+## gopherDaily--2021-07-28
+- 1.Go基于IO多路复用的TCP协议流解析实践 - https://t.zsxq.com/fiqZRNb
+- 2.将Go作为Rust中的脚本语言 - https://github.com/oxfeeefeee/goscript
+- 3.Go经典阻塞式TCP协议流解析的实践 - https://tonybai.com/2021/07/28/classic-blocking-network-tcp-stream-protocol-parsing-practice-in-go/
+- 4.分布式应用运行时dapr发布v1.3.0 - https://blog.dapr.io/posts/2021/07/27/dapr-v1.3-is-now-available/
+- 5.用于生产的动态Go仪表盘 - https://www.youtube.com/watch?v=Uk1hscXhlY0
+- 6.AKS与Calico网络政策 - https://joachim8675309.medium.com/aks-with-calico-network-policies-8cdfa996e6bb
+- 7.实时可视化Go进程度量数据 - https://nakabonne.dev/posts/gosivy/
+- 8.go实现的chip8模拟器 - https://github.com/anthonygedeon/chip8
+- 9.AKS与Calico网络策略 - https://joachim8675309.medium.com/aks-with-calico-network-policies-8cdfa996e6bb
+- 10.对比strftime的Go Datetime速查表 - https://dev.to/coolgoose/golang-datetime-cheatsheet-from-strftime-3j5
+- 11.为什么options模式对安全有好处  - https://www.youtube.com/watch?v=eyVDTmB9tpE
+- 12.MIT公开课：软件系统的性能工程 - https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf
+- 13.可观察性设计和架构：基本原理 - https://thenewstack.io/observability-design-and-architecture-the-fundamentals/
+
+
+
+
+
+
 ## go中文网每日资讯--2021-07-27
 
 
