@@ -7,6 +7,85 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-07-29
+
+
+一、Go语言中文网
+
+1. [Go：语法糖的代价](https://mp.weixin.qq.com/s/-lps3sl-riDOLxUIUyIrWA)
+
+2. [超实用的 gRPC 客户端调试工具](https://mp.weixin.qq.com/s/dG49wTV2UAXQUC-KQ9ggBA)
+
+二、董泽润的技术笔记
+
+1. [TCP 连接的前世今生](https://mp.weixin.qq.com/s/v8Z1NlDUreVa0kViAt85Sg)
+
+三、奇伢云存储
+
+1. [32 道 MySQL 面试题总结（含答案解析）](https://mp.weixin.qq.com/s/ex-mtzT15rQJ565U-q9l4w)
+
+四、polarisxu
+
+1. [Go开源项目推荐：500行代码确认请求时间花在哪](https://mp.weixin.qq.com/s/s2JJFKl5GRWuWynfPdr7Ow)
+
+五、TechPaper
+
+1. [《微服务架构设计模式》的一点总结](https://mp.weixin.qq.com/s/TLZR252J7EHcR8h_vEsXrA)
+
+六、Go编程点滴
+
+1. [Go语言学习路线 - 7.进阶篇:一名软件工程师的价值沉淀](https://mp.weixin.qq.com/s/ivA5Z2-cPTDs9Zjd87rpAg)
+
+七、xueyuanjun
+
+1. [Go 数据结构和算法篇（十六）：二叉树的遍历](https://mp.weixin.qq.com/s/NeOdEynfgGC5ZaC6yGIcjQ)
+
+八、脑子进煎鱼了
+
+1. [JetBrains 发布 2021调查报告：咱Gopher不爱做饭？？？](https://mp.weixin.qq.com/s/Bdnwu3iAoBBqwOMKmL7GAw)
+
+九、Golang来啦
+
+1. [一个 demo 学会 workerPool](https://mp.weixin.qq.com/s/YCl7r7l3Ty3wbnImVWRLxg)
+
+十、Go招聘
+
+1. [京东零售|系统优化部虚位以待，就等你来优化](https://mp.weixin.qq.com/s/djXRa861KB7WsNDXaO_lrQ)
+
+## GOCN每日新闻--2021-07-29
+
+1.端到端追踪的三种方式 https://rakyll.medium.com/three-ways-to-trace-end-to-end-f61181d6db63 
+2.分布式系统的 “脑裂” 到底是个什么玩意？ https://segmentfault.com/a/1190000040420527
+
+3.一个有趣的 Go 内存问题 https://boyter.org/posts/interesting-go-memory-issue/
+
+4.我们是如何构建 EGO 的 https://github.com/edgelesssys/ego
+
+5.如何设计短网址系统? https://juejin.cn/post/6990270005749219359
+
+
+
+
+
+
+## gopherDaily--2021-07-29
+
+- 1.将Kubernetes YAML替换为纯Go - https://github.com/kris-nova/naml
+- 2.用SSH密钥和Go加密数据 -  https://earthly.dev/blog/encrypting-data-with-ssh-keys-and-golang/
+- 3.谷歌云Pub/Sub和NATS的比较 - https://binx.io/blog/2021/07/26/a-comparison-of-google-cloud-pubsub-and-nats/
+- 4.使用gRPC-Gateway的CORS头文件 - https://fale.io/blog/2021/07/28/cors-headers-with-grpc-gateway
+- 5.Go是太简单了？还是仍然太复杂？ - https://appliedgo.com/blog/is-go-too-simple-or-still-too-complicated
+- 6.Kubernetes的NVIDIA设备插件，支持显示集群中每个节点上的GPU数量，追踪你的GPU的健康状况， 在你的Kubernetes集群中运行支持GPU的容器 - https://github.com/NVIDIA/k8s-device-plugin
+- 7.Linkerd正式从CNCF毕业 - https://linkerd.io/2021/07/28/announcing-cncf-graduation/
+- 8.在Kubernetes上运行的虚拟桌面基础设施 - https://github.com/kvdi/kvdi
+- 9.Kubernetes命名空间可视化工具 -  https://github.com/viralpoetry/kubesurveyor
+- 10.开源Windows应用编辑SumatraPDF 15年的经验教训 - https://blog.kowalczyk.info/article/2f72237a4230410a888acbfce3dc0864/lessons-learned-from-15-years-of-sumatrapdf-an-open-source-windows-app.html
+- 11.Kubernetes就业市场报告（2021年第二季度) - https://kube.careers/report-2021-q2
+
+
+
+
+
 ## go中文网每日资讯--2021-07-28
 
 一、Go语言中文网
