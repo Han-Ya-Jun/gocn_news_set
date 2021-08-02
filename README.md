@@ -7,6 +7,67 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2021-08-01
+
+
+一、Go语言中文网
+
+1. [谷歌出品：帮助发现Go项目漏洞的工具](https://mp.weixin.qq.com/s/C2jqW2emwIkATbj8uck0LA)
+
+2. [Go语言爱好者周刊：第 106 期 — 一道 LeetCode 题目](https://mp.weixin.qq.com/s/g1ZSm37P3yP80-S7rXsE7Q)
+
+3. [Go：一个95分位延迟要求5ms的场景，如何做性能优化](https://mp.weixin.qq.com/s/YRNdaLdJsSTfgOpMBW1PCQ)
+
+二、码农桃花源
+
+1. [解决 GraphQL 的限流难题](https://mp.weixin.qq.com/s/1zg07w9HtTA7zP6SOC2snA)
+
+三、董泽润的技术笔记
+
+1. [连接一个 IP 不存在的主机时，握手过程是怎样的？](https://mp.weixin.qq.com/s/bgYSoL4KMCyGGs3Ipvccrg)
+
+四、奇伢云存储
+
+1. [博客站点来了](https://mp.weixin.qq.com/s/73VxfRY-f-uBfDhrQIGSVw)
+
+2. [Golang官方限流器的用法详解](https://mp.weixin.qq.com/s/9uxuhfaL-qL7kKNBttiMpA)
+
+五、k8s技术圈
+
+1. [使用 EndpointSlice 扩展 Kubernetes 网络](https://mp.weixin.qq.com/s/GJmLVzZHonXMAziW9u0rXA)
+
+六、TechPaper
+
+1. [《Go 语言高级编程》的故事](https://mp.weixin.qq.com/s/7sSXOkIYxkJSrTUDTZs-Kw)
+ 
+
+
+
+## GOCN每日新闻--2021-08-01
+1.谷歌出品：帮助发现 Go 项目漏洞的工具 https://mp.weixin.qq.com/s/C2jqW2emwIkATbj8uck0LA
+
+2.一个 95 分位延迟要求 5ms 的场景，如何做性能优化 https://mp.weixin.qq.com/s/j3zr3alRpHdKh4tUKHqrKQ
+
+3.Go 基于 I/O 多路复用的 TCP 协议流解析实践 https://mp.weixin.qq.com/s/FH1fiK3-3fnkUxM6MA5Y8w
+
+4.Go 经典阻塞式 TCP 协议流解析的实践 https://mp.weixin.qq.com/s/NG3f-KkjtJBTVdRHQKLXOg
+
+
+## gopherDaily--2021-07-31
+- 1.Go基于I/O多路复用的TCP协议流解析实践 - https://tonybai.com/2021/07/31/io-multiplexing-model-tcp-stream-protocol-parsing-practice-in-go
+- 2.揭开Go中HTTP Handler的神秘面纱 - https://medium.com/geekculture/demystifying-http-handlers-in-golang-a363e4222756
+- 3.用Go进行音频编程 - https://www.youtube.com/watch?v=3-PGN23rjzA
+- 4.K8s容器中的时区 - https://zhimin-wen.medium.com/timezones-in-k8s-container-ca22f24d2f42
+- 5.Go集成测试框架，用于Kong Kubernetes APIs和控制器 - https://github.com/Kong/kubernetes-testing-framework
+- 6.用Go和WebAssembly构建的粒子模拟 - https://github.com/mvrilo/go-particles
+- 7.使用ArgoCD的多集群GitOps - https://www.infracloud.io/blogs/multicluster-gitops-argocd/
+- 8.研究结果：顶尖机构测试软件的6种方式 - https://thenewstack.io/research-findings-6-ways-top-organizations-test-software/
+- 9.用git bisect run在半小时内找到内核性能退坡的方法 - https://ldpreload.com/blog/git-bisect-run
+- 10.为什么你的庞大的技术团队没有交付成果 - https://blog.usejournal.com/why-your-huge-tech-team-isnt-delivering-3851be27712c
+- 11.Honeycomb高绩效团队的秘诀 - https://changelog.com/shipit/11
+
+
 ## go中文网每日资讯--2021-07-29
 
 
