@@ -8,6 +8,92 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2021-08-02
+
+
+一、Go语言中文网
+
+1. [Go 程序中的非 Go 后缀文件](https://mp.weixin.qq.com/s/1-2CP-S3apnHP0hMR6E1SA)
+
+2. [gRPC入门指南 — 通过TLS建立安全连接（五）](https://mp.weixin.qq.com/s/sewEgpDI4Vx_z1esQh79Ug)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-01)——帮助发现 Go 项目漏洞的工具](https://mp.weixin.qq.com/s/Zer-j_ocCKRFL2Cx7z-XSw)
+
+三、Golang来啦
+
+1. [你拥有的最宝贵的财富是什么？](https://mp.weixin.qq.com/s/FqlqBs6_cViNt579tXugUQ)
+
+2. [Go开源项目推荐：500行代码确认请求时间花在哪](https://mp.weixin.qq.com/s/4QPtRbIIyyo5q9Cc-RCpDw)
+
+四、polarisxu
+
+1. [这个行业也用 Go？内推一个 Go 职位](https://mp.weixin.qq.com/s/o-mOyKterK44KskFLnBEgA)
+
+五、Golang梦工厂
+
+1. [面试官：小松子来聊一聊内存逃逸](https://mp.weixin.qq.com/s/MepbrrSlGVhNrEkTQhfhhQ)
+
+六、董泽润的技术笔记
+
+1. [你适合做救火队长嘛？](https://mp.weixin.qq.com/s/CIH5QxIqrV_H0Bt42IurXA)
+
+2. [深度剖析 Linux cp 的秘密](https://mp.weixin.qq.com/s/Hc2h0s3zeEIcYd6UnIqAOg)
+
+七、吴亲强的深夜食堂
+
+1. [两款 go 开发实用工具](https://mp.weixin.qq.com/s/TXfAZYOTABdSY-Jq8Igaag)
+
+八、脑子进煎鱼了
+
+1. [我周末参加了个互联网架构大会！](https://mp.weixin.qq.com/s/YDzJHN1AOO5edCc0ydJqag)
+
+九、xueyuanjun
+
+1. [Go 常见算法面试题篇（一）：反转单链表](https://mp.weixin.qq.com/s/t5yZrMSzB_poBe8G3hC-ag)
+
+十、wegoer
+
+1. [学Go不迷路，第一波Go大佬来袭。](https://mp.weixin.qq.com/s/ui2avQlobhw-H6tsCq2a6w)
+
+十一、Go招聘
+
+1. [你负责的服务熔断了，还不赶紧进来看看。](https://mp.weixin.qq.com/s/plCS0Zv8U27Us4AED5M-nQ)
+
+
+## gopherDaily--2021-08-02
+- 1.Go是如何计算len()的？ - https://tpaschalis.github.io/golang-len/
+- 2.用于科学计算的Go语言教程 by 美国新墨西哥矿业理工大学 - http://kestrel.nmt.edu/~raymond/software/go_notes/go.html
+- 3.mtail: 从应用程序日志中提取指标的工具，可将其导出到时序数据库中，用于警报和仪表盘 -  https://github.com/google/mtail
+- 4.经典旧文：将一个团队从Scala迁移到Go - https://jimplush.com/talk/2015/12/19/moving-a-team-from-scala-to-golang/
+- 5.微服务的独特的可靠性工程要求 - https://rootly.io/blog/the-unique-reliability-engineering-requirements-of-microservices
+- 6.不要成为一个企业/IT架构师 - https://ea.rna.nl/2021/07/31/dont-become-an-enterprise-it-architect/
+- 7.在裸机上建立k8s集群 - https://github.com/shank-git/metal-kubes
+- 8.Git的新功能：切换(switch)和恢复(restore) - https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/
+
+
+## 码农桃花源--2021-08-02
+### 文章分享
+
+1.[go 曹大分析gc 强烈推荐！！](https://github.com/cch123/golang-notes/blob/master/gc.md)
+
+2.[图解 互斥锁、自旋锁、读写锁、悲观锁、乐观锁的应用场景](https://mp.weixin.qq.com/s?__biz=MzUxODAzNDg4NQ==&mid=2247485583&idx=1&sn=412546e55f9f5cf394bdda633fcc2b1c&chksm=f98e4c25cef9c53350fcfcae69d771298e535c3c15e77af2a0c241a4738766ff616354c3e3f3&scene=178&cur_album_id=1408057986861416450#rd)
+
+
+### 思考问题
+
+1.GC标记的对象是哪里来的
+
+2.gc时间，stw时间和响应延迟之间是什么关系
+
+3.宏观来看gc划分为多少个阶段
+
+
+### 每日算法
+算法：「有效的完全平方根」：https://leetcode-cn.com/problems/valid-perfect-square/
+
+
 ## go中文网每日资讯--2021-08-01
 
 
