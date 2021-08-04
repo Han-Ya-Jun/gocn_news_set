@@ -8,6 +8,73 @@
 # gocn_news_set_2021
 
 
+
+## go中文网每日资讯--2021-08-03
+
+
+一、Go语言中文网
+
+1. [Go 标准库 encoding/json 真的慢吗？](https://mp.weixin.qq.com/s/UWmnI2kPRYbjlF8Kgh2-ew)
+
+2. [Go 语言实现安全计数的若干种方法](https://mp.weixin.qq.com/s/x7E9s0fA7VRcoMfkO7lPHQ)
+
+二、脑子进煎鱼了
+
+1. [全网最全的 Go 书单来喽](https://mp.weixin.qq.com/s/Tnu3TVVOxU3iBJ7UoumF1A)
+
+三、polarisxu
+
+1. [Rust 牛逼：一个后现代的模式编辑器](https://mp.weixin.qq.com/s/YVNiab73DTn0MNsnbqYNzA)
+
+四、网管叨bi叨
+
+1. [推荐两款超实用的 gRPC 客户端调试工具](https://mp.weixin.qq.com/s/8_65ehMPJ9iwWybw6zOsCw)
+
+五、k8s技术圈
+
+1. [从零实现一个时序数据库](https://mp.weixin.qq.com/s/XEAu0C8DVoC5hJiXgvBVHw)
+
+六、机智的程序员小熊
+
+1. [如何有效地测试Go代码](https://mp.weixin.qq.com/s/ltRpuolYuOa8cXivLZLlUw)
+
+七、Gopher指北
+
+1. [惊！Go里面居然有这样精妙的小函数！](https://mp.weixin.qq.com/s/_zqSPvpUdeInUiE-DVeGmg)
+
+八、幼麟实验室
+
+1. [【Golang】信号量 - runtime提供的等待队列](https://mp.weixin.qq.com/s/NVZFzQ6wD_0Uzof9FAceMg)
+
+九、wegoer
+
+1. [Go圈第二波大佬也来喽。](https://mp.weixin.qq.com/s/xkq88ZqmQIj1nke7ygh6Vg)
+
+十、Go招聘
+
+1. [面试问题集锦-网络最全篇](https://mp.weixin.qq.com/s/AaZlb_cKsHb47q7WUiP3IQ)
+
+## gopherDaily--2021-08-03
+- 1.Go 1.17 RC2发布 - https://groups.google.com/g/golang-announce/c/yk30ovJGXWY
+
+- 2.Go：轻松实现基准测试 - https://tiagocmelo.medium.com/golang-benchmarking-made-easy-2cefc330701
+
+- 3.一个优化的故事：为大型Go应用程序构建代码扫描器  - https://nationalcybersecuritynews.today/an-optimisation-story-building-a-code-scanner-for-large-golang-apps-linux-linuxsecurity/ 
+
+- 4.详解Go错误处理 - https://www.iamyadav.com/post/error-handling-in-golang
+
+- 5.重新成为快乐程序员的Hashicorp创始人Mitchell Hashimoto专访 - https://thenewstack.io/hashicorps-mitchell-hashimoto-on-when-to-step-down-to-the-job-you-love/
+
+- 6.和Mitchell Hashimoto聊聊开发工具的开发历程 - https://www.youtube.com/watch?v=LA8KF9Fs2sk
+
+- 7.安全地在多个不同的机器上管理你的dotfiles - https://github.com/twpayne/chezmoi
+
+- 8.使用Helm钩子在Kubernetes上进行数据库迁移 - https://itnext.io/database-migrations-on-kubernetes-using-helm-hooks-fb80c0d97805
+
+- 9.为开发和测试管道轻松地部署数据库和服务 - https://github.com/Clivern/Peanut
+
+
+
 ## go中文网每日资讯--2021-08-02
 
 
