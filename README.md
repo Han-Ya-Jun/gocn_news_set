@@ -6,8 +6,76 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+## go中文网每日资讯--2021-08-04
+一、Go语言中文网
+
+1. [用 Go 实现类似 Nginx 的 Access Log](https://mp.weixin.qq.com/s/gif7zEB0FnyYtQABpxf20Q)
+
+2. [Go 数据结构和算法篇（十五）：二叉树的定义和存储](https://mp.weixin.qq.com/s/cWBrgJnJcidlbE5bs0QlhQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-03)——推荐两款超实用的 gRPC 客户端调试工具](https://mp.weixin.qq.com/s/1b98eWNdL0eG77zP6Q988Q)
+
+三、xueyuanjun
+
+1. [Go 数据结构和算法篇（十八）：平衡二叉树](https://mp.weixin.qq.com/s/s1cxU7xdW_tC0aZlJpJJmg)
+
+四、polarisxu
+
+1. [技巧分享：多 Goroutine 如何优雅处理错误？](https://mp.weixin.qq.com/s/ziAuAhYY1VHd4kv3C5R5dA)
+
+五、CloudNativeCommunity
+
+1. [Istio 安全最佳实践](https://mp.weixin.qq.com/s/mwZXKLHROwPhsoOhaG_79A)
+
+六、腾讯技术工程
+
+1. [自动化接口测试实践经验](https://mp.weixin.qq.com/s/WrfaCt39Jb4vViKB2-qynw)
+
+七、Go招聘
+
+1. [硬核篇：少见的Go Timer剖析](https://mp.weixin.qq.com/s/h5F7cj9IUIgbsWJ2RT3kvg)
+
+八、脑子进煎鱼了
+
+1. [来聊一聊，Go 的相对路径问题](https://mp.weixin.qq.com/s/QOA3Mk20M4rRM9oXOGB9HA)
+
+2. [Go1.17 快报之标准库越来越注重易用性](https://mp.weixin.qq.com/s/rr69WwPDqppeR-7HzUSD2g)
+
+九、董泽润的技术笔记
+
+1. [Fn FnMut FnOnce 傻傻分不清](https://mp.weixin.qq.com/s/sxfkVBjGSc6J1sVIWVdvTw)
+
+## GOCN每日新闻--2021-08-04
+
+1.GO 1.17 发布 RC2 https://groups.google.com/g/golang-announce/c/yk30ovJGXWY
+
+2.使用 Go DIY pprof 配置文件 https://www.polarsignals.com/blog/posts/2021/08/03/diy-pprof-profiles-using-go/
+
+3.Go 如何计算 len()? https://tpaschalis.github.io/golang-len/
+
+4.优化故事：为大型 Golang 应用程序构建代码扫描器 https://nationalcybersecuritynews.today/an-optimisation-story-building-a-code-scanner-for-large-golang-apps-linux-linuxsecurity/
+
+5.Golang 中的实用 DDD：值对象 https://levelup.gitconnected.com/practical-ddd-in-golang-value-object-4fc97bcad70
 
 
+## gopherDaily--2021-08-04
+- 1.NSA发布Kubernetes安全指南 - https://media.defense.gov/2021/Aug/03/2002820425/-1/-1/1/CTR_KUBERNETES%20HARDENING%20GUIDANCE.PDF
+
+- 2.gohugo发布v0.87.0，支持时间、日期以及货币的本地化 - https://gohugo.io/news/0.87.0-relnotes/
+
+- 3.Stack Overflow 最新开发者调查报告出炉！Go在最想学习榜中排名第四 - https://insights.stackoverflow.com/survey/2021
+
+- 4.深入pprof profile数据结构 - https://www.polarsignals.com/blog/posts/2021/08/03/diy-pprof-profiles-using-go/
+
+- 5.简约而有主见的Feed阅读器 - https://github.com/miniflux/v2
+
+- 6.Github action概述和ArgoCD部署实例 - https://itnext.io/github-github-actions-overview-and-argocd-deployment-example-b6cf0cf6f832
+
+- 7.Go实用DDD系列：value object - https://levelup.gitconnected.com/practical-ddd-in-golang-value-object-4fc97bcad70
+
+- 8.经典旧文：不要在可写的文件上调用defer close - https://www.joeshaw.org/dont-defer-close-on-writable-files/
 
 ## go中文网每日资讯--2021-08-03
 
