@@ -6,6 +6,78 @@
 # [gocn_news_set_2020(上)](gocn_news_set_2020_01.md)
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
+
+
+## go中文网每日资讯--2021-08-05
+一、Go语言中文网
+
+1. [只用 3 步构建 Go docker 最小镜像](https://mp.weixin.qq.com/s/7PGR_1xQUbQgI225rx245Q)
+
+2. [使用Go语言时，谨防锁拷贝！](https://mp.weixin.qq.com/s/CvHxFrIWlA70TYElPE3-cg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-04)——Fn FnMut FnOnce 傻傻分不清](https://mp.weixin.qq.com/s/W24JG_47t2rTrkNlil_wMg)
+
+三、章老师说
+
+1. [历史文章索引](https://mp.weixin.qq.com/s/1-6J7jYMnsL7ouRBQFpFiw)
+
+四、Go招聘
+
+1. [Go开源项目推荐：500行代码确认请求时间花在哪](https://mp.weixin.qq.com/s/RN82P3g7C4yYxKrQcRla9Q)
+
+五、Golang来啦
+
+1. [Go语言的并发与WorkerPool - 第二部分](https://mp.weixin.qq.com/s/u3h8mfNja_SAnFP4vawCGg)
+
+2. [超实用的 gRPC 客户端调试工具](https://mp.weixin.qq.com/s/zqiuu6DnxcT7IaL-X_MLqw)
+
+六、脑子进煎鱼了
+
+1. [Go 存储基础 — 内存结构体怎么写入文件？](https://mp.weixin.qq.com/s/28ScdoPWrQ2t870GtgLX1Q)
+
+七、polarisxu
+
+1. [重磅！GitHub 为 Go 社区带来安全支持](https://mp.weixin.qq.com/s/m3VkJU-m_TXnY59ELW12fQ)
+
+八、Golang梦工厂
+
+1. [并发编程包之 errgroup](https://mp.weixin.qq.com/s/NcrENqRyK9dYrOBBI0SGkA)
+
+九、GoUpUp
+
+1. [Go 每日一库之 testing](https://mp.weixin.qq.com/s/u2cAoRZN--FwAiySBzkqCQ)
+
+
+## GOCN每日新闻--2021-08-05
+
+1.TiDB 海量 region 集群调优实践 https://gocn.vip/topics/12413
+
+2.用 Go 实现类似 Nginx 的 Access Log https://mp.weixin.qq.com/s/gif7zEB0FnyYtQABpxf20Q
+
+3.多 Goroutine 如何优雅处理错误 https://mp.weixin.qq.com/s/ziAuAhYY1VHd4kv3C5R5dA
+
+4.自动化接口测试实践经验 https://mp.weixin.qq.com/s/WrfaCt39Jb4vViKB2-qynw
+
+5.Istio 安全最佳实践 https://mp.weixin.qq.com/s/mwZXKLHROwPhsoOhaG_79A
+
+
+## gopherDaily--2021-08-05
+- 1.纯Go实现的c语言到Go语言的翻译工具 - https://github.com/gotranspile/cxgo
+
+- 2.Kubernetes 1.22版本发布 - https://kubernetes.io/blog/2021/08/04/kubernetes-1-22-release-announcement/
+
+- 3.Google电话号码解析库的Go移植 - https://github.com/nyaruka/phonenumbers
+
+- 4.Go：你为什么要选择这种语言？ - https://content-app.com/?action=leadgen&id=MzI5MiMjIyNodHRwczovL3d3dy5pdHByb3BvcnRhbC5jb20vZmVhdHVyZXMvZ29sYW5nLXdoeS1zaG91bGQteW91LWNob29zZS10aGlzLWxhbmd1YWdlLz91dG1fc291cmNlPVBhaWdlciZ1dG1fbWVkaXVtPVJlZmVycmFsIyMjIw
+
+- 5.用Go实现微服务系列 - https://learnai1.home.blog/2021/08/05/https-server-in-go/
+
+- 6.单体程序的开发实践扼杀了强大的Kubernetes优势 - https://thenewstack.io/monolithic-development-practices-kill-powerful-kubernetes-benefits/
+
+- 7.用Go构建一个高可用的Kubernetes operator - https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2
+
 ## go中文网每日资讯--2021-08-04
 一、Go语言中文网
 
