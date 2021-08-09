@@ -7,6 +7,82 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-08-08
+一、Go语言中文网
+
+1. [Go1.16.7 发布，同时离 Go1.17 发布不远了](https://mp.weixin.qq.com/s/XpO2QZAhp4Q0dLAkLO9vXg)
+
+2. [Go语言爱好者周刊：第 107 期 — Statck Overflow 2021调查结果](https://mp.weixin.qq.com/s/TIoadA80kqj9iON6KpQ8rg)
+
+3. [Go 数据结构和算法篇（十六）：二叉树的遍历](https://mp.weixin.qq.com/s/c-m3xnRteS-QKeJU2wbVXg)
+
+二、k8s技术圈
+
+1. [Linux 虚拟网络设备之 tun/tap](https://mp.weixin.qq.com/s/VgC7DiZEyCRamFs_Fix1lw)
+
+三、架构之家
+
+1. [图解：消息传输的架构模式](https://mp.weixin.qq.com/s/xrhZnb_HiquVLdMfBxcxNw)
+
+四、polarisxu
+
+1. [Go 的时间格式化为什么是 2006-01-02 15:04:05？](https://mp.weixin.qq.com/s/f3VWaUGseWX6NCA2KGT-pw)
+
+五、小白debug
+
+1. [Golang unsafe.Pointer使用原则以及 uintptr 隐藏的坑](https://mp.weixin.qq.com/s/z_Pqf1jLHyk5zswVzvIZtQ)
+
+六、Golang技术分享
+
+1. [errgroup：并发任务 goroutine 的传播控制](https://mp.weixin.qq.com/s/qqva2Tj2qijWv_YCplWZ8A)
+
+七、幼麟实验室
+
+1. [深度探索Go语言：同步（一）](https://mp.weixin.qq.com/s/fkKmQ05idbTtBWcGATrWfQ)
+
+八、Go招聘
+
+1. [Stack Overflow 2021报告出炉：最想学榜单，Go排第4](https://mp.weixin.qq.com/s/3pN4EHmTqZhkm3B9wF2Rwg)
+
+
+## GOCN每日新闻--2021-08-08
+
+1.在 Go 中使用高阶函数进行 Mock https://medium.com/@tahasevim231/mocking-with-high-order-functions-in-go-b76d5a3103d2
+
+2.pomerium: 开源的 SSO 网关 https://github.com/pomerium/pomerium
+
+3.pgen: 新的基于代码生成的 ORM 库 https://medium.com/opendoor-labs/announcing-pggen-a-golang-orm-alternative-a34191f614c8
+
+4.Go pre-commit 检查 https://github.com/TekWizely/pre-commit-golang
+
+5.monibuca: 开源的流媒体服务器开发框架 https://github.com/langhuihui/monibuca
+
+
+
+## gopherDaily--2021-08-08
+1.Go 1.17版本深入解析系列之《Go 1.17：module依赖图修剪与延迟module加载》- https://t.zsxq.com/6y3RFI6
+
+2.Go channel的内部工作原理 - https://jerryan.medium.com/how-does-golang-channel-works-6d66acd54753
+
+3.Go项目的pre-commit-hook，支持monorepos，能够向所有钩子传递参数，并能够调用自定义go工具 - https://github.com/TekWizely/pre-commit-golang
+
+4.将InfluxDB与GitHub Actions一起用于GitOps、CI/CD和数据转换 - https://www.influxdata.com/blog/use-influxdb-with-github-actions-for-gitops-ci-cd-and-data-transformation/
+
+5.Go：注入构建时的变量 - https://klotzandrew.com/blog/inject-build-time-variables-golang
+
+6.关于Go的Defer，你需要知道什么？ - https://medium.com/@kevinesia/what-do-you-need-to-know-about-golangs-defer-4fac71e0f00b
+
+7.学习prometheus系列 - https://iximiuz.com/en/posts/prometheus-vector-matching/
+
+8.如何在Kubernetes中安装设置Vault-初学者教程 - https://devopscube.com/vault-in-kubernetes/
+
+9.使用Tekton和ArgoCD的Kubernetes CI/CD - https://piotrminkowski.com/2021/08/05/kubernetes-ci-cd-with-tekton-and-argocd/
+
+10.新UUID格式规范 - https://datatracker.ietf.org/doc/html/draft-peabody-dispatch-new-uuid-format
+
+11.今年学习zig语言 - https://ayende.com/blog/194404-A/looking-into-zig
+
+
 
 ## go中文网每日资讯--2021-08-05
 一、Go语言中文网
