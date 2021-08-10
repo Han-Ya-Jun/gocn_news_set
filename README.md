@@ -7,6 +7,86 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2021-08-09
+
+
+一、Go语言中文网
+
+1. [一个 Go 工具包揽一切 SQL 数据库客户端](https://mp.weixin.qq.com/s/FgY-MP0rIQVLW8Mi2BF61Q)
+
+2. [Go 数据结构和算法篇（十七）：二叉排序树](https://mp.weixin.qq.com/s/cbFRvW46-1af3Mm_PEyWsg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-08)——图解：消息传输的架构模式](https://mp.weixin.qq.com/s/GsL6iDzFoxOg8L4b-Dzqew)
+
+三、小白debug
+
+1. [Linux入门的基础知识点汇总，有这篇就够了](https://mp.weixin.qq.com/s/G_Fv9tstrlaJ36G7i3GvWw)
+
+四、菜鸟Miao
+
+1. [举例来学cond原语](https://mp.weixin.qq.com/s/dMfO3tTnzz6nrRppdxRr3g)
+
+五、polarisxu
+
+1. [图解 Go 微服务熔断器](https://mp.weixin.qq.com/s/ik_Dnjzmdm_tDbWBbJ_LDg)
+
+六、新亮笔记
+
+1. [关于分布式事务的理解](https://mp.weixin.qq.com/s/TCnvd9xsrL5yJfkbE02_3w)
+
+七、码农桃花源
+
+1. [曹大带我学 Go（11）—— 从 map 的 extra 字段谈起](https://mp.weixin.qq.com/s/SGv5vuh9aU2mqViC4Kj0YQ)
+
+八、后端研究所
+
+1. [图解|高性能服务器设计之缓存系统一致性](https://mp.weixin.qq.com/s/cZQZ-xrdg2nvwDGimqhAtg)
+
+九、脑子进煎鱼了
+
+1. [Go 提案：增加泛型版 slices 和 maps 新包](https://mp.weixin.qq.com/s/D7u7nxixctoFIL-Pch0zvw)
+
+十、TechPaper
+
+1. [编写与优化 Go 代码(一)](https://mp.weixin.qq.com/s/zv7gjs9w7d5brE-7_e1JOw)
+
+
+
+## GOCN每日新闻--2021-08-09
+
+1.编写与优化 Go 代码 (一) https://mp.weixin.qq.com/s/zv7gjs9w7d5brE-7_e1JOw
+
+2.译｜What “accept interfaces, return structs” means in Go https://www.cyningsun.com/08-08-2021/go-accept-interfaces-return-structs.html
+
+3.Golang 语言中怎么提升 JSON 编解码的性能？ https://mp.weixin.qq.com/s/wkqk1cgYKWnbIsHqoTA5UA
+
+4.HTTP context 生命周期 https://developer20.com/http-connection-livetime/
+
+5.Golang 实现 RTP https://segmentfault.com/a/1190000040483316
+
+
+
+## gopherDaily--2021-08-09
+
+- 1.在Go中编写可测试的代码 - https://www.youtube.com/watch?v=4h39Oi_PxR4
+- 2.在Go中，nil == nil真的为true？ - https://www.pixelstech.net/article/1628407126-Will-nil-==-nil-be-true-in-GoLang
+- 3.蚂蚁集团万级规模K8s集群etcd高可用建设之路 - https://zhuanlan.zhihu.com/p/396335220
+- 4.纯go实现的存储引擎pebble介绍，CockroachDB在新版本中将使用pebble替代rocksdb - https://zhuanlan.zhihu.com/p/264825380
+- 5.在Python和Go中开始使用Libsodium(NaCl库) - https://developer.okta.com/blog/2021/08/05/libsodium-encryption-go-python
+- 6.用go开发Minecraft服务器 - https://medium.com/@michalkowal567/drinking-coffee-and-developing-minecraft-server-in-golang-47cfc8d6955e
+- 7.服务网格实现的对比矩阵 - https://layer5.io/service-mesh-landscape
+- 8.一步步从docker compose迁移到k8s - https://loft.sh/blog/docker-compose-to-kubernetes-step-by-step-migration
+- 9.在Kubernetes中快速开发和测试而不破坏东西 - https://blog.kasten.io/move-fast-and-test-in-kubernetes-without-breaking-things
+- 10.最快的编程语言？戴夫带你”寻找答案 - https://thenewstack.io/the-fastest-programming-language-daves-garage-seeks-the-answer/
+- 11.万维网30岁了 - https://www.w3.org/blog/2021/08/30-years-on-from-introducing-the-web-to-the-world/
+- 12.搜索引擎架构演化 - http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html
+- 13.Go base64编码简介 - https://cmmorrow.medium.com/an-introduction-to-base64-encoding-716cdccc58ce
+
+
+
+
 ## go中文网每日资讯--2021-08-08
 一、Go语言中文网
 
