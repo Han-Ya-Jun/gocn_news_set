@@ -9,6 +9,81 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-08-16
+
+
+一、Go语言中文网
+
+1. [Go 每日一库：让等待心里更有底](https://mp.weixin.qq.com/s/wEal_e_aE_0eOlgGE-1Txg)
+
+2. [惊！Go里面居然有这样精妙的小函数！](https://mp.weixin.qq.com/s/kROprpgG21vD8gRkvjicQQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-15)——Google 的 “行星级” cron 系统](https://mp.weixin.qq.com/s/agg6CZovjQo3SdtsB9dJzQ)
+
+三、欧长坤
+
+1. [Eliminating A Source of Measurement Errors in Benchmarks](https://mp.weixin.qq.com/s/Xj5NqdEht_uhVSKju-JMzg)
+
+四、新亮笔记
+
+1. [分布式事务之最终一致性实现方案](https://mp.weixin.qq.com/s/icVCxJ4n2lUQ30yOGYtADg)
+
+五、Golang技术分享
+
+1. [师弟，给力！](https://mp.weixin.qq.com/s/RXr2eWtgATc3PkM0vzlL0w)
+
+六、polarisxu
+
+1. [有更新的动力了](https://mp.weixin.qq.com/s/NtMc9q-rEuOlYE6eUh3T6g)
+
+七、董泽润的技术笔记
+
+1. [线上真实问题：如何正确设置保活](https://mp.weixin.qq.com/s/EmawKOftz0OAnMd2ydcOgQ)
+
+八、脑子进煎鱼了
+
+1. [Go 插件系统，一个凉了快半截的特性？](https://mp.weixin.qq.com/s/Gp2KdHohxX6T8ROtLOw4qA)
+
+九、Golang技术分享
+
+1. [师弟，给力！](https://mp.weixin.qq.com/s/RXr2eWtgATc3PkM0vzlL0w)
+
+十、奇伢云存储
+
+1. [Linux fd 系列 — 定时器 timerfd 是什么？](https://mp.weixin.qq.com/s/cAu42eqHPzk6fXIIeirwhg)
+
+十一、CloudNativeCommunity
+
+1. [微服务的未来 —— 更多层抽象](https://mp.weixin.qq.com/s/Ys0bFB7v2payCIuHDnDpSA)
+
+十二、Go招聘
+
+1. [面试官问我聚簇和非聚簇索引的区别，我居然没答上来](https://mp.weixin.qq.com/s/2RPDe9QMSGloQ2Kiv-m6eQ)
+
+
+## gopherDaily--2021-08-16
+1.Go服务架构设计模式 - https://mp.weixin.qq.com/s/NpQIgh2VWVXqA6ab_Bo3TA
+
+2.腾讯发布的Go语言代码安全指南 - https://zhuanlan.zhihu.com/p/400078436
+
+3.sync.Once的作用没有得到充分利用 - https://blog.chuie.io/posts/synconce/
+
+4.linkedin SRE教程 - https://github.com/linkedin/school-of-sre
+
+5.在Go HTTP客户端中支持Unix域套接字 - https://github.com/peterbourgon/unixtransport
+
+6.分布式跟踪入门101 - https://blog.sentry.io/2021/08/12/distributed-tracing-101-for-full-stack-developers
+
+7.Terraform安全101：安全基础设施即代码的最佳实践 - https://bridgecrew.io/blog/terraform-security-101-best-practices-for-secure-infrastructure-as-code/
+
+8.在Kubernetes上使用容器附加存储的有状态的工作负载 - https://thenewstack.io/stateful-workloads-on-kubernetes-with-container-attached-storage/
+
+9.让我们编写一个编译器，第一部分：介绍、选择语言和做一些规划 - https://briancallahan.net/blog/20210814.html
+
+10.Go 1.17正式版预计周一晚上发布 - https://groups.google.com/g/golang-dev/c/O3ae8bhs0ZU
+
 
 ## go中文网每日资讯--2021-08-15
 一、Go语言中文网
