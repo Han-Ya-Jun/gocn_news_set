@@ -9,6 +9,37 @@
 
 # gocn_news_set_2021(下)
 
+## gopherDaily--2021-08-17
+
+- 1.Go 1.17版本正式发布 - https://blog.golang.org/go1.17
+- 2.基于Raft和Redis协议的分布式磁盘存储系统 - https://github.com/gitsrc/IceFireDB
+- 3.Kubernetes网络策略 - Cilium & EBPF - https://rewiko.github.io/posts/kubernetes-network-policies/kubernetesnetworkpolicies/
+- 4.编写一个用于检测竞态条件的静态代码分析工具 - https://medium.com/@amitdavidson234/write-a-static-code-analysis-tool-for-detecting-race-conditions-e05a49692ab1
+- 5.DorkScout - 可自动对整个互联网或特定目标进行google dork扫描的Go工具 - https://github.com/R4yGM/dorkscout
+- 6.Go中的Elasticsearch：开发者指南 - https://developer.okta.com/blog/2021/04/23/elasticsearch-go-developers-guide
+- 7.testcase: Go行为驱动的测试库 - https://github.com/adamluzsi/testcase
+- 8.InfluxDB技巧：跨标签或字段聚合和不分组 - https://www.influxdata.com/blog/tldr-influxdb-tech-tips-aggregating-across-tags-or-fields-and-ungrouping/
+- 9.人工智能的真正成功之处 - https://www.infoworld.com/article/3624703/the-real-successes-of-ai.html
+- 10.Hashicorp公司的云战略状况调查结果：我们已经进入多云时代 - https://www.hashicorp.com/state-of-the-cloud
+- 11.机器中的音乐家 - https://magenta.tensorflow.org/musician-in-the-machine
+- 12.用httprouter创建中间件 - https://madflojo.medium.com/creating-middleware-with-httprouter-52cbc786b02a
+
+
+## GOCN每日新闻--2021-08-17
+1.Go 1.17 is released!  Release notes https://golang.org/doc/go1.17
+
+2.Linux 内核网络包路径追踪利器 skbtracer Go 语言版本 https://gocn.vip/topics/12451
+
+3.Golang 详解内存对齐 https://segmentfault.com/a/1190000040528007
+
+4.Go 中使用 Deferred 函数处理 errors https://trstringer.com/golang-deferred-function-error-handling/
+
+5.Go 开发的文件传输工具 https://github.com/schollz/croc
+
+
+
+
+
 ## go中文网每日资讯--2021-08-16
 
 
