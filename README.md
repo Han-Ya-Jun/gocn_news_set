@@ -9,6 +9,48 @@
 
 # gocn_news_set_2021(下)
 
+## GOCN每日新闻--2021-08-22
+
+1.Go 1.17 中值得关注的几个变化  https://gocn.vip/topics/12464
+
+2.来聊一聊 Go 的相对路径问题 https://mp.weixin.qq.com/s/i9sbk_jvc1_C-sikDLvTVA
+
+3.担心密码提交到 GitHub？建议使用这个 Go 开源工具 https://mp.weixin.qq.com/s/wMaEkWr1O64tx7NkMooIpg
+
+4.Go 编译器已默认启用 -G=3，支持泛型 https://www.oschina.net/news/156729/generics-enabled-by-default-in-go-tip
+
+5.GoLand 2021.2.1 发布 https://blog.jetbrains.com/go/2021/08/20/goland-2021-2-1-is-out/
+
+## gopherDaily--2021-08-22
+
+- 1.Go tip版本已默认开启泛型，cmd/compile的-G标志的默认值已由0改为3，从而可以使用新的types2类型检查器并支持type parameter - https://go-review.googlesource.com/c/go/+/343732/
+- 2.关于go runtime内存分配级别导致的一个问题 - https://dave.cheney.net/2021/01/05/a-few-bytes-here-a-few-there-pretty-soon-youre-talking-real-memory
+- 3.parser生成器还是手写parser：2021年主流编程语言语法parser实现方式调查 - https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html
+- 4.更快的Base64编码 - https://github.com/cristalhq/base64
+- 5.ZITADEL：云时代的”云原生身份和访问管理”解决方案 - https://github.com/caos/zitadel
+- 6.经典旧文：处理大文件 - 使用Java和Go遇到瓶颈 - https://marcellanz.com/post/file-read-challenge/
+- 7.cAdvisor和Kubernetes监控指南 - https://cloudforecast.io/blog/cadvisor-and-kubernetes-monitoring-guide/
+
+## ISBDaily--2021-08-22
+
+### News
+1. 中国高超音速飞行器JF22 性能超群 https://r.coding-space.cn/r/6147
+2. 周以真将于9月1日任职哥大副校长 https://r.coding-space.cn/r/6148
+
+### Github Repo
+1. anko https://r.coding-space.cn/r/6145 一个基于Go实现的脚本解释器
+2. pyspider https://r.coding-space.cn/r/6146 一个Python实现的star多大15k的爬虫系统
+
+### Blog
+1. 美团小样本学习 https://r.coding-space.cn/r/6144
+
+### Misc
+1. 一个贵州山野道人 https://r.coding-space.cn/r/6149
+2. 古书画鉴定家钟银兰辞世 https://r.coding-space.cn/r/6150
+
+
+
+
 ## gopherDaily--2021-08-17
 
 - 1.Go 1.17版本正式发布 - https://blog.golang.org/go1.17
