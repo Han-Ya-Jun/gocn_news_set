@@ -9,6 +9,174 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-08-23
+
+
+一、Go语言中文网
+
+1. [Go 中的并发 bug 在真实场景的情况分析](https://mp.weixin.qq.com/s/O-tjWE216f4xFWvEdSVdSg)
+
+2. [Go：一个8bytes的内存优化](https://mp.weixin.qq.com/s/M7e2e3XjNkvp0lKtQFQ7bw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-22)——Go 1.17 中值得关注的几个变化](https://mp.weixin.qq.com/s/YakV8QDKRzgWf_lwJjd2kg)
+
+三、polarisxu
+
+1. [扬眉吐气：刚刚，Go 已经默认支持泛型了](https://mp.weixin.qq.com/s/EMcarjLe2CCJZO9t5rM_Ww)
+
+四、云加社区
+
+1. [go语言最全优化技巧总结，值得收藏！](https://mp.weixin.qq.com/s/_VGaV8ef65h9goxxfWejtQ)
+
+五、码农桃花源
+
+1. [iptables redirect 劫持跳转引起 Go 服务故障](https://mp.weixin.qq.com/s/fmrw-33cbKLdAkkMHyOrbw)
+
+六、网管叨bi叨
+
+1. [硬核图解| Kafka 如何保证消息不丢失？](https://mp.weixin.qq.com/s/nDs4zw8N1xBObj2Syf_JOQ)
+
+七、脑子进煎鱼了
+
+1. [分久必合，golang.org 将成为历史！](https://mp.weixin.qq.com/s/g_T_MO03G2n_N4HmO1DcCg)
+
+八、Go夜读
+
+1. [gotip 实践 golang-design/go2generics](https://mp.weixin.qq.com/s/zee0FgTwQCpHgex4lK67xg)
+
+九、Golang梦工厂
+
+1. [[警惕] 请勿滥用goroutine](https://mp.weixin.qq.com/s/JC14dWffHub0nfPlPipsHQ)
+
+十、Golang技术分享
+
+1. [Ginkgo：一款 BDD 的 Go 语言框架](https://mp.weixin.qq.com/s/cqt7CBe5YJkBlu_2yIXKnw)
+
+十一、奇伢云存储
+
+1. [Go 存储基础 — “文件”被偷偷修改？来，给它装个监控！](https://mp.weixin.qq.com/s/m0dRfKCeis53V866-vSKGQ)
+
+十二、Go招聘
+
+1. [面试官：kafka的投递语义你知道几个，exactly once 如何保证？](https://mp.weixin.qq.com/s/u5r5OYn9PqAz-FurcRlmEA)
+ 
+
+## GOCN每日新闻--2021-08-23
+
+1.Go 中的 channel 怎么实现的 https://gocn.vip/topics/12483
+
+2.toxiproxy: 开源的用于模拟网络状态进行混沌测试的 TCP 代理 https://github.com/Shopify/toxiproxy
+
+3.StaticBacked: 开源的轻量级 Firebase 替代产品 https://github.com/staticbackendhq/core
+
+4.Gitea 发布 1.15 版本 https://blog.gitea.io/2021/08/gitea-1.15.0-is-released/
+
+5.Peanut: 管理测试和开发数据库和依赖服务工具 https://github.com/Clivern/Peanut
+
+
+
+## gopherDaily--2021-08-23
+
+ - 1.使用Go实战DDD：实体(entity) - https://levelup.gitconnected.com/practical-ddd-in-golang-entity-40d32bdad2a3
+
+- 2.深入Go语言语法与类型 - https://dev.to/robogeek95/deep-dive-into-go-syntax-and-types-2l66
+
+- 3.SIMD指令的缺陷 - https://www.bitsnbites.eu/three-fundamental-flaws-of-simd
+
+- 4.一个模拟网络和系统条件的TCP代理，用于混沌和弹性测试 - https://github.com/Shopify/toxiproxy
+
+- 5.一个让hugo性能提升数倍pr - https://github.com/kubernetes/website/pull/29504
+
+- 6.深入了解Kubernetes的schema验证 - https://www.datree.io/resources/kubernetes-schema-validation
+
+- 7.gitea v1.15.0发布 - https://blog.gitea.io/2021/08/gitea-1.15.0-is-released/
+
+- 8.kubescape: 检查k8s部署是否满足NSA kubernetes加固指南要求 - https://github.com/armosec/kubescape
+
+- 9.用透明性改进TOFU(先信任后使用的认证方案) - https://dlorenc.medium.com/improving-tofu-with-transparency-da674aa2879d
+
+- 10.赌上cassandra，未来的数据库 - https://www.datastax.com/blog/betting-cassandra-database-future
+
+- 11.将Unix哲学带入21世纪 - https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/
+
+
+## SBDaily(20210823)
+
+### News
+1. PayPal将在英国提供加密货币服务 https://r.coding-space.cn/r/6155
+2. 蓝色起源流失了大量核心员工 https://r.coding-space.cn/r/6156
+
+### Github Repo
+1. Online_Tools https://r.coding-space.cn/r/6153 一些在线信息查询平台,很好的情报资源来源
+2. python-hacker https://r.coding-space.cn/r/6154 冰河亲自编写并整理的Python渗透脚本集合，可直接拿来用于渗透实战
+
+### Blog
+1. golang.org将被合并到go.dev https://r.coding-space.cn/r/6151
+2. 自己动手做一个CPU https://r.coding-space.cn/r/6152
+
+### Misc
+1. 真空三极管 https://r.coding-space.cn/r/6157
+2. 论胡金铨在中国武侠电影史上的地位 https://r.coding-space.cn/r/6158
+
+
+
+## go中文网每日资讯--2021-08-23
+
+
+一、Go语言中文网
+
+1. [Go 中的并发 bug 在真实场景的情况分析](https://mp.weixin.qq.com/s/O-tjWE216f4xFWvEdSVdSg)
+
+2. [Go：一个8bytes的内存优化](https://mp.weixin.qq.com/s/M7e2e3XjNkvp0lKtQFQ7bw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-22)——Go 1.17 中值得关注的几个变化](https://mp.weixin.qq.com/s/YakV8QDKRzgWf_lwJjd2kg)
+
+三、polarisxu
+
+1. [扬眉吐气：刚刚，Go 已经默认支持泛型了](https://mp.weixin.qq.com/s/EMcarjLe2CCJZO9t5rM_Ww)
+
+四、云加社区
+
+1. [go语言最全优化技巧总结，值得收藏！](https://mp.weixin.qq.com/s/_VGaV8ef65h9goxxfWejtQ)
+
+五、码农桃花源
+
+1. [iptables redirect 劫持跳转引起 Go 服务故障](https://mp.weixin.qq.com/s/fmrw-33cbKLdAkkMHyOrbw)
+
+六、网管叨bi叨
+
+1. [硬核图解| Kafka 如何保证消息不丢失？](https://mp.weixin.qq.com/s/nDs4zw8N1xBObj2Syf_JOQ)
+
+七、脑子进煎鱼了
+
+1. [分久必合，golang.org 将成为历史！](https://mp.weixin.qq.com/s/g_T_MO03G2n_N4HmO1DcCg)
+
+八、Go夜读
+
+1. [gotip 实践 golang-design/go2generics](https://mp.weixin.qq.com/s/zee0FgTwQCpHgex4lK67xg)
+
+九、Golang梦工厂
+
+1. [[警惕] 请勿滥用goroutine](https://mp.weixin.qq.com/s/JC14dWffHub0nfPlPipsHQ)
+
+十、Golang技术分享
+
+1. [Ginkgo：一款 BDD 的 Go 语言框架](https://mp.weixin.qq.com/s/cqt7CBe5YJkBlu_2yIXKnw)
+
+十一、奇伢云存储
+
+1. [Go 存储基础 — “文件”被偷偷修改？来，给它装个监控！](https://mp.weixin.qq.com/s/m0dRfKCeis53V866-vSKGQ)
+
+十二、Go招聘
+
+1. [面试官：kafka的投递语义你知道几个，exactly once 如何保证？](https://mp.weixin.qq.com/s/u5r5OYn9PqAz-FurcRlmEA)
+ 
+
+
 ## GOCN每日新闻--2021-08-22
 
 1.Go 1.17 中值得关注的几个变化  https://gocn.vip/topics/12464
