@@ -9,6 +9,94 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-08-24
+
+一、Go语言中文网
+
+1. [结合 MySQL 构建一个基于 Go 的 REST API 微服务](https://mp.weixin.qq.com/s/u0VLC4IRputge42lPvWlow)
+
+2. [Go标准库http与fasthttp服务端性能比较](https://mp.weixin.qq.com/s/X4ETAMlRHHaCuYh-gUF4tQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-23)——Kafka 如何保证消息不丢失？](https://mp.weixin.qq.com/s/7_454LBCrLqgY-qIEitzCA)
+
+三、吴亲强的深夜食堂
+
+1. [gRPC-shop:什么是 gRPC(一)](https://mp.weixin.qq.com/s/JmjqJScuVsTDbpvqsLalhw)
+
+四、HHFCodeRv
+
+1. [见微知著| 带你透过内存看 Slice 和 Array的异同](https://mp.weixin.qq.com/s/d9kP77eKRm2MSW_9ySlVGA)
+
+五、polarisxu
+
+1. [优于字节、阿里的薪酬招 Go 了](https://mp.weixin.qq.com/s/jd6M-Qzk7YfRtGYq-oSDlA)
+
+六、脑子进煎鱼了
+
+1. [Go 存储基础 — “文件”被偷偷修改？来，给它装个监控！](https://mp.weixin.qq.com/s/0GcjkYEiO6A7Wah3fuhUgA)
+
+七、网管叨bi叨
+
+1. [Context是怎么在Go语言中发挥关键作用的](https://mp.weixin.qq.com/s/NNYyBLOO949ElFriLVRWiA)
+
+八、Go招聘
+
+1. [Go整洁架构模版，建议收藏](https://mp.weixin.qq.com/s/9iQiaZCQaGgnnz6vtfdEFA)
+
+## GOCN每日新闻--2021-08-24
+
+1.[警惕] 请勿滥用 goroutine https://mp.weixin.qq.com/s/JC14dWffHub0nfPlPipsHQ
+
+2.译｜There Are No Reference Types in Go https://www.cyningsun.com/08-23-2021/there-are-no-reference-types-in-go-cn.html
+
+3.分久必合，golang.org 将成为历史！ https://mp.weixin.qq.com/s/g_T_MO03G2n_N4HmO1DcCg
+
+4.Golang 的字符编码与 regexp https://juejin.cn/post/6999523994558791687
+
+5.Gitea 1.15.0 is released https://blog.gitea.io/2021/08/gitea-1.15.0-is-released/
+
+## gopherDaily--2021-08-24
+1.Go中的迭代器、Map、Filter、Reduce和列表处理：实现Python的函数编程特性 - https://serge-hulne.medium.com/iterators-map-filter-reduce-and-list-processing-in-go-golang-implementing-python-functional-2d24d780051f
+
+2.blocky: 快速和轻量级的DNS代理 - https://github.com/0xERR0R/blocky
+
+3.如何通过抽象在Go中测试与数据库交互 - https://dev.to/ltvengineering/how-to-test-database-interactions-in-go-through-abstraction-1l41
+
+4.ledger: 一个可编写脚本的财务账簿，旨在使复杂的财务交易模型变得容易 - https://github.com/numary/ledger
+
+5.高性能的DNS over https - https://github.com/m13253/dns-over-https
+
+6.通过使用FluentBit收集审计日志，检测Kubernetes API服务器上的恶意行为 - https://falco.org/blog/detect-malicious-behaviour-on-kubernetes-api-server-through-gathering-audit-logs-by-using-fluentbit-part-2/
+
+7.如何让开发者安全访问Kubernetes集群 - https://medium.com/k8slens/how-to-give-developers-secure-access-to-kubernetes-clusters-c6025f0dd288
+在事件驱动的架构中管理API的生命周期：一个实用的方法 - https://developers.redhat.com/articles/2021/07/07/managing-api-life-cycle-event-driven-architecture-practical-approach
+
+
+## ISBDaily(20210824)
+
+### News
+1. 史玉柱被冻结1900万股权 https://r.coding-space.cn/r/6163
+2. 杭州：开展政商关系突出问题专项治理 https://r.coding-space.cn/r/6164
+
+### Github Repo
+1. godis https://r.coding-space.cn/r/6161 Go语言实现的Redis服务器和分布式集群
+2. trealla https://r.coding-space.cn/r/6162 一个C语言实现的Prolog语言解释器【于雨注：一个很老的人工智能编程语言】
+
+### Blog
+1. 人脸识别技术在机场应用现状分析 https://r.coding-space.cn/r/6159
+2. fastjson远程执行漏洞 https://r.coding-space.cn/r/6160
+
+###  Misc
+
+1. 像王思聪一样坑了爹的富力太子 https://r.coding-space.cn/r/6165
+2. 青海冷湖天文台 https://r.coding-space.cn/r/6166
+
+
+
+
+
 ## go中文网每日资讯--2021-08-23
 
 
