@@ -9,6 +9,92 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-08-25 😛
+
+
+一、Go语言中文网
+
+1. [Go 中的进阶测试模式](https://mp.weixin.qq.com/s/bVBX5sYbd32Il7IuL0waTw)
+
+2. [gRPC入门指南 — 自定义认证（六）](https://mp.weixin.qq.com/s/fdryzl4SgdBOZQv-DesL2Q)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-24)——[警惕] 请勿滥用 goroutine](https://mp.weixin.qq.com/s/cIl3Tacjkoc-BWgyeHPZcQ)
+
+三、脑子进煎鱼了
+
+1. [Go1.17 新特性：对 Go 依赖管理的一把大剪刀](https://mp.weixin.qq.com/s/2vVGVd_QJSrCeenuvwGS3g)
+
+2. [Context 是怎么在 Go 语言中发挥关键作用的](https://mp.weixin.qq.com/s/MW18jlpCs5n42maaCyc4zQ)
+
+四、TonyBai
+
+1. [Brooks、Wirth和Go[译]](https://mp.weixin.qq.com/s/28ohdvtv9eze63reSXMMEg)
+
+五、k8s技术圈
+
+1. [去哪儿网基于ChaosBlade的混沌工程实践](https://mp.weixin.qq.com/s/e_ixRGXuPOIhyGb9qTpspg)
+
+六、CloudNativeCommunity
+
+1. [基于 CODING CD + Nocalhost 在大型应用的 ChatOps 实践](https://mp.weixin.qq.com/s/K6GX4IjIYNpdxkL7tk9ayA)
+
+七、码农桃花源
+
+1. [图文结合，白话 Go 的垃圾回收原理](https://mp.weixin.qq.com/s/VIheVqCL9O_Jy7rff-StZA)
+
+八、Go招聘
+
+1. [写了50万行Go代码是一种什么样的体验？](https://mp.weixin.qq.com/s/JReQaNfpy_WUYSEind7rcQ)
+
+九、多颗糖
+
+1. [万字长文说透分布式锁](https://mp.weixin.qq.com/s/35aCS_5GqLyzZS3VobL6fg)
+
+## GOCN每日新闻--2021-08-25
+
+1.Pi Dashboard Go https://github.com/plutobell/pi-dashboard-go
+
+2.【译】并发安全的集中式指针管理设施 https://gocn.vip/topics/12493
+
+3.Go 语言中各式各样的优化手段 https://zhuanlan.zhihu.com/p/403417640
+
+4.CGO 入门和 OCR 文字识别实战 https://www.cnblogs.com/wishFreedom/p/15186746.html#at
+
+5.Dockerfile 文件全面详解 https://zhuanlan.zhihu.com/p/387855002
+
+## gopherDaily--2021-08-25
+- 1.使用Go实现Kubernetes opertor以管理有状态的应用程序 - https://developers.redhat.com/articles/2021/08/04/managing-stateful-applications-kubernetes-operators-golang
+- 2.Go轻量级状态机以及基于状态机的工作流实现 - https://github.com/shipt/plinko
+- 3.在Goland中使用go module - https://levelup.gitconnected.com/go-modules-in-goland-8af712adbcc6
+- 4.我们为什么从Kubernetes迁移到Nomad？ - https://thenewstack.io/conductor-why-we-migrated-from-kubernetes-to-nomad/
+- 5.solo.io发布Gloo Mesh 1.1和Gloo Mesh Gateway 1.0 - https://www.solo.io/blog/gloo-mesh-1-1-and-gloo-mesh-gateway-1-0-in-detail/
+- 6.容器的最佳实践：它们是什么以及为什么你应该关心 - https://thenewstack.io/container-best-practices-what-they-are-and-why-you-should-care/
+- 7.bencher: 支持持续benchmark的基础设施和产品 - https://medium.com/orijtech-developers/bencher-b60cc82e3ef1
+- 8.解析Open Containers Initiative(OCI) - https://dlorenc.medium.com/oci-artifacts-explained-8f4a77945c13
+- 9.discord是如何存储几十亿级别的消息的 - https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7
+- 10.使用公司内部的Kubernetes金丝雀控制器逐步发布代码 - https://doordash.engineering/2021/04/14/gradual-code-releases-using-an-in-house-kubernetes-canary-controller/
+
+
+## SBDaily(20210825)
+
+### News
+1. 大庆古龙页岩油预测地质储量超12亿吨 https://r.coding-space.cn/r/6171
+2. 谷歌称其员工无权抗议公司选择客户的权利 https://r.coding-space.cn/r/6172
+
+### Github Repo
+1. trpc https://r.coding-space.cn/r/6169 一个Js类型安全的RPC框架
+2. sqlitepp https://r.coding-space.cn/r/6170 一个头文件实现sqlite3功能引入
+### Blog
+1. 讲透低代码 https://r.coding-space.cn/r/6167
+2. 使用Kubernetes两年的经验教训 https://r.coding-space.cn/r/6168
+
+### Misc
+1. 秋天吃烤肉贴秋膘 https://r.coding-space.cn/r/6173
+2. 苏联拍摄的月亮图像 https://r.coding-space.cn/r/6174
+
+
 ## go中文网每日资讯--2021-08-24
 
 一、Go语言中文网
