@@ -10,6 +10,94 @@
 # gocn_news_set_2021(下)
 
 
+## go中文网每日资讯--2021-08-30
+
+
+一、Go语言中文网
+
+1. [原来sync.Once还能这么用](https://mp.weixin.qq.com/s/JcZi8GjA_sn_Oo74bqvipg)
+
+2. [Go语言的并发与WorkerPool - 第二部分](https://mp.weixin.qq.com/s/IONMXK1w1AkldJ9TIla3XA)
+
+二、polarisxu
+
+1. [新书推荐：用 Gin 框架构建分布式应用](https://mp.weixin.qq.com/s/geFEA3ydBiB6nwMJwJ_dQw)
+
+三、脑子进煎鱼了
+
+1. [Go1.17 新特性，凭什么提速 5~10%？](https://mp.weixin.qq.com/s/cYnlPTM3R02_kZsIukmVfg)
+
+四、HHFCodeRv
+
+1. [如何欺骗 Go Mod ?](https://mp.weixin.qq.com/s/S8XBbklDsGLyC4xquLK1eQ)
+
+五、码农桃花源
+
+1. [[]int 能转换为 []interface 吗？](https://mp.weixin.qq.com/s/tqR5zMPobm20lao-2QNrVA)
+
+六、Golang梦工厂
+
+1. [Go官方设计了一个信号量库](https://mp.weixin.qq.com/s/QvuoWkwePxcSpaGkQbtlLg)
+
+七、Golang技术分享
+
+1. [Go 如何利用 Linux 内核的负载均衡能力](https://mp.weixin.qq.com/s/lnOTaraGKINxaqbrMHPP5Q)
+
+八、TechPaper
+
+1. [简单看看 Go 1.17 的新版调用规约](https://mp.weixin.qq.com/s/lSbtmk0GcwdcvRY7By88Nw)
+
+九、Go招聘
+
+1. [你知道select是如何监听多个channel的吗？](https://mp.weixin.qq.com/s/EyzdtESgryleb2tVxAPBFQ)
+
+
+
+## GOCN每日新闻--2021-08-30
+
+1.golang：快来抓住让我内存泄漏的 “真凶”！ https://mp.weixin.qq.com/s/FyHEiaa-UfyLStMKl2VFGA
+
+2.go 反射 https://juejin.cn/post/7002164097689059359
+
+3.GO runtime 和 channels 练习 https://www.golangprograms.com/goroutines-and-channels-example.html
+
+4.腾讯开源的 Kubernetes 多集群管理和跨集群编排工具 Clusternet https://mp.weixin.qq.com/s/t9e0UpInm7S_ojMsX5qJDg 
+
+5.go 语言最全优化技巧总结 https://mp.weixin.qq.com/s/Ux7io_C1ghVLICuDPExHYg
+
+
+
+## gopherDaily--2021-08-30
+
+- 1.在gokrazy中使用Tailscale - https://gokrazy.org/userguide/tailscale/
+- 2.我如何在Go项目中实现clean code architecture - https://nurcahyaari.medium.com/how-i-implement-clean-code-architecture-on-golang-projects-68be58830621
+- 3.一文了解微软使用Go做什么 - https://preettheman.medium.com/this-is-what-microsoft-uses-go-golang-for-60ca48587be1
+- 4.现代编程语言的并发性：Go - https://deepu.tech/concurrency-in-modern-languages-go/
+- 5.用Go进行图像压缩 - https://dev.to/franciscomendes10866/image-compression-with-golang-k2p
+- 6.关于Go博客的新方式 - https://blog.klipse.tech/golang/2021/08/29/blog-go.html
+- 7.腾讯开源的Kubernetes多集群管理和跨集群编排工具Clusternet - https://mp.weixin.qq.com/s/t9e0UpInm7S_ojMsX5qJDg
+- 8.在Linux中用Go进行套接字分片的例子 - https://douglasmakey.medium.com/socket-sharding-in-linux-example-with-go-b0514d6b5d08
+- 9.使用Go从头构建一个区块链 - https://web3coach.gumroad.com/l/build-a-blockchain-from-scratch-in-go
+
+## SBDaily(20210830)
+
+### News
+1. 瑞士科学家实现光子与成对原子相互作用 https://r.coding-space.cn/r/6205
+2. 美军官发视频“问责”高层后遭免职 https://r.coding-space.cn/r/6206
+
+### Github Repo
+1. pgmock https://r.coding-space.cn/r/6203 一个Go语言PostgreSQL数据库mock库
+2. event https://r.coding-space.cn/r/6204 Go实现的轻量级的事件管理、调度程序库,支持设置监听器的优先级,支持根据事件名称来进行一组事件的监听
+
+### Blog
+1. 权限维持分析与内网渗透 https://r.coding-space.cn/r/6202
+
+### Misc
+1. 深度学习的本质 https://r.coding-space.cn/r/6207
+2. 中国的一些日本假景点 https://r.coding-space.cn/r/6208
+
+
+
 ## go中文网每日资讯--2021-08-29
 
 
