@@ -9,7 +9,96 @@
 
 # gocn_news_set_2021(下)
 
-## go中文网每日资讯--2021-08-25 😛
+
+## go中文网每日资讯--2021-08-29
+
+
+一、Go语言中文网
+
+1. [IEEE 2021 编程语言排行榜：Go 这排名不错](https://mp.weixin.qq.com/s/Vah7sPSyF4sgdMfbkuG_1Q)
+
+2. [Go语言爱好者周刊：第 110 期 — 这道题会？](https://mp.weixin.qq.com/s/26Gd-2-LuiLUZh7G7KxAMw)
+
+3. [Go语言的并发与WorkerPool - 第一部分](https://mp.weixin.qq.com/s/vv7Qd-eWXP9DSIOx-unr_g)
+
+二、吴亲强的深夜食堂
+
+1. [原来sync.Once还能这么用](https://mp.weixin.qq.com/s/zFDtkpRUgikgntaNxa2fGw)
+
+三、月牙寂道长
+
+1. [字节厦门招聘服务端开发](https://mp.weixin.qq.com/s/1YYjVBuT5jppHNrvUc_LeA)
+
+四、奇伢云存储
+
+1. [一文读懂 | 进程并发与同步](https://mp.weixin.qq.com/s/gip1kq4thogJ1aOTlpYebg)
+
+五、云影原生
+
+1. [Go程序内存假泄漏是怎么回事](https://mp.weixin.qq.com/s/U0LBkRYqf84occwjFPiy1A)
+
+
+
+## GOCN每日新闻--2021-08-29
+1.面向多场景而设计的 Erda Pipeline https://segmentfault.com/a/1190000040592040
+
+2.Go, Kafka and gRPC clean architecture CQRS microservices with Jaeger tracing https://dev.to/aleksk1ng/go-kafka-and-grpc-clean-architecture-cqrs-microservices-with-jaeger-tracing-45bj
+
+3.Go 1.17 泛型尝鲜 https://www.4async.com/2021/08/golang-117-generics/
+
+4.TDSQL MySQL 版基本原理 - 水平分表 读写分离 弹性扩展 强同步 https://my.oschina.net/u/4788009/blog/5212197
+
+5.https://segmentfault.com/a/1190000040596350 腾讯云 TKE Everywhere 特性发布，用户可在自有基础设施中托管 K8s 服务
+
+
+
+## ISBDaily(20210829)
+
+### News
+1. 央妈天量“放水”接近尾声 https://r.coding-space.cn/r/6198
+2. “黑嘴”大V黄生被批捕 https://r.coding-space.cn/r/6199
+
+### Github Repo
+1. fwatch https://r.coding-space.cn/r/6196 望哥的文件变化事件监听器实现
+2. sqlmodel https://r.coding-space.cn/r/6197 一个Python语言数据库实现
+
+### Blog
+1. “土法”修复一个Linux内核Bug https://r.coding-space.cn/r/6195
+
+### Misc
+1. 钱临照先生的回忆 https://r.coding-space.cn/r/6200
+2. 可编程网络算力调度机制 https://r.coding-space.cn/r/6201
+
+
+## gopherDaily--2021-08-29
+1.小厂内部私有go module拉取方案 - https://t.zsxq.com/rbiiA6M
+
+2.深入解析RBAC模型 - https://tailscale.com/blog/rbac-like-it-was-meant-to-be/
+
+3.Go播客：别忘了内存管理 - https://changelog.com/gotime/194
+
+4.使用x/xerror输出Go错误栈信息 - https://brandur.org/fragments/go-xerror
+
+5.gateway: 在AWS Lambda&API Gateway中用于直接替代Go net/http - https://github.com/apex/gateway
+
+6.缓存、模式和不稳定的系统 - https://brooker.co.za/blog/2021/08/27/caches.html
+
+7.经典旧文：字节序的谬论 - https://commandcenter.blogspot.com/2012/04/byte-order-fallacy.html
+
+8.TCP协议栈的单元测试 - http://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/
+
+9.Go跨平台轻量GUI界面对比：Wails vs Fyne vs Webview - https://zhuanlan.zhihu.com/p/404062419
+
+10.立于山巅！他，凭什么抗住万亿级流量冲击！！ - https://mp.weixin.qq.com/s/TSUcH5ai9APtK6rsSNr1-A
+
+11.万亿级别全链路数据治理最佳实践 - https://mp.weixin.qq.com/s/DLFbw-cyu2HR_Zq94KDXtw
+
+
+
+
+
+
+## go中文网每日资讯--2021-08-25
 
 
 一、Go语言中文网
