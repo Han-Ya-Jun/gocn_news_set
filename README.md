@@ -9,6 +9,87 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-08-31
+
+
+一、Go语言中文网
+
+1. [刚刚，又有Go新书出版了：送 5 本](https://mp.weixin.qq.com/s/7cfBGErKZlIzsdfWy4oZ6g)
+
+2. [Go: 监控模式](https://mp.weixin.qq.com/s/vkLfBYHh-zUpT78AeIsp9Q)
+
+3. [如何欺骗 Go Mod ?](https://mp.weixin.qq.com/s/rqtVoNe8h4lqxrNjESXjKw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-30)——go 语言最全优化技巧总结](https://mp.weixin.qq.com/s/w9PYNgCw0-AuNzoggElEcg)
+
+三、k8s技术圈
+
+1. [部署一个 Containerd 容器运行时的 Kubernetes 集群](https://mp.weixin.qq.com/s/auSU3F1XA4091aA0sw4GRA)
+
+四、脑子进煎鱼了
+
+1. [Go 整洁架构模版，建议收藏](https://mp.weixin.qq.com/s/NNAFm1TLfOTH_o6d-R3kpw)
+
+五、吴亲强的深夜食堂
+
+1. [gRPC-shop: 初识protobuf(二)](https://mp.weixin.qq.com/s/icWqlL9peVIDIi8u9scGzg)
+
+六、网管叨bi叨
+
+1. [你知道K8S暴露服务的方式有哪些吗？](https://mp.weixin.qq.com/s/04tptKvSYbuCdv3yQaJmeg)
+
+七、多颗糖
+
+1. [VLDB 2021 论文推荐(一)](https://mp.weixin.qq.com/s/3GrZ1dQANjtO5RCm8RWcLA)
+
+八、奇伢云存储
+
+1. [深度细节 | Go 的 panic 的三种诞生方式](https://mp.weixin.qq.com/s/sGdTVSRxqxIezdlEASB39A)
+
+九、高德技术
+
+1. [高德渲染网关Go语言重构实践](https://mp.weixin.qq.com/s/i9da19Z9MU5ENZ572P87rw)
+
+十、polarisxu
+
+1. [Go：自适应负载均衡算法原理和实现](https://mp.weixin.qq.com/s/BiJyD7V8yEFjKyCFXo3PPg)
+
+十一、Go招聘
+
+1. [总结了一下BAT面试中遇到的redis问题，文末送redis新书](https://mp.weixin.qq.com/s/eXtimi18mOrH2rkKMrKHpg)
+
+
+
+## gopherDaily--2021-08-31
+ - 1.Go泛型是怎么实现的? - https://colobu.com/2021/08/30/how-is-go-generic-implemented/
+ - 2.如何欺骗 Go Mod ? - https://gocn.vip/topics/12507
+ - 3.有效的Go测试技巧 - https://moshe-beladev-mb.medium.com/tips-for-effective-go-tests-6b9f1e242f02
+ - 4.Apache开源的Go实现的CDN网络 - https://github.com/apache/trafficcontrol
+ - 5.如何为Steam发布Ebiten游戏 - https://ebiten.org/blog/steam.html
+ - 6.star-tex: Go实现的开源Tex引擎 - https://git.sr.ht/~sbinet/star-tex
+ - 7.万字长文详解PaaS toB 场景下K8s离线部署方案 - https://blog.k8s.li/pass-tob-k8s-offline-deploy.html
+ - 8.在Go实践中，指针通常不与切片一起用 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoSlicesVsPointers
+ - 9.Go实现的Traceroute - https://github.com/zartbot/ztrace
+
+
+## ISBDaily(20210831)
+
+### News
+1. 遭禁之后过去中国App13个月在印度仍然获得1.15亿新用户 https://r.coding-space.cn/r/6212
+2. 上半年房地产行业资产不良率骤增 https://r.coding-space.cn/r/6213
+
+###  Github Repo
+1. surf https://r.coding-space.cn/r/6210 一个Rust语言异步http客户端框架
+2. sqlx https://r.coding-space.cn/r/6211 一个支持PostgreSQL/MySQL/SQLite/MSSQL的Rust语言SQL处理包
+
+### Blog
+1. Go泛型是怎样实现的 https://r.coding-space.cn/r/6209
+
+### Misc
+1. 德国《华商报》 https://r.coding-space.cn/r/6214
+2. 爱因斯坦:好奇心的野心 https://r.coding-space.cn/r/6215
 
 ## go中文网每日资讯--2021-08-30
 
