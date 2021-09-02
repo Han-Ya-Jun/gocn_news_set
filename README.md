@@ -8,7 +8,88 @@
 # [gocn_news_set_2021(上)](gocn_news_set_2021_01.md)
 
 # gocn_news_set_2021(下)
+## go中文网每日资讯--2021-09-01
 
+一、Go语言中文网
+
+1. [几行代码为老板省百万-某高并发服务Go GC及UDP Pool优化](https://mp.weixin.qq.com/s/YAz5NyiNWJCMlGsJRTAaxw)
+
+2. [为什么要使用 Go module proxy](https://mp.weixin.qq.com/s/2XfBNSbllD4AzSd3yAihdg)
+
+3. [[警惕] 请勿滥用goroutine](https://mp.weixin.qq.com/s/KnfajRg1xhKaiW4DNjpKeA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-08-31)——如何欺骗 Go Mod ?](https://mp.weixin.qq.com/s/ZA2Erzo5tmCEDbP1UjHDsg)
+
+三、k8s技术圈
+
+1. [为什么删除 Pod 时 webhook 收到三次 delete 请求](https://mp.weixin.qq.com/s/Rp31L7590HhI0g56u8BOCA)
+
+四、脑子进煎鱼了
+
+1. [Go1.17 新特性，优化抛出的错误堆栈](https://mp.weixin.qq.com/s/zu5atVDYYaRIJ5sj96mlmg)
+
+五、Go招聘
+
+1. [Go1.17 新特性，凭什么提速 5~10%？](https://mp.weixin.qq.com/s/DIesiFqnxLTg-0VEn7YppQ)
+
+六、Golang技术分享
+
+1. [Go官方设计了一个信号量库](https://mp.weixin.qq.com/s/ujEAxf4XqhaXTWW5okfXaw)
+
+七、polarisxu
+
+1. [Go select 竟然死锁了。。。](https://mp.weixin.qq.com/s/YB_mBJMAmRruNrb4NPy8sw)
+
+八、董泽润的技术笔记
+
+1. [分享一个 UT failed 引出的思考](https://mp.weixin.qq.com/s/iH4JdOCybwfaANT97zW7cg)
+
+九、菜鸟Miao
+
+1. [聊聊ringbuffer](https://mp.weixin.qq.com/s/ktw1gc-ff43bBTJ41Femrw)
+
+
+## GOCN每日新闻--2021-09-01
+
+1.原创分享 如何欺骗 Go Mod ? https://gocn.vip/topics/12507
+
+2.深度细节 | Go 的 panic 的三种诞生方式 https://mp.weixin.qq.com/s/sGdTVSRxqxIezdlEASB39A
+
+3.Golang DDD 实战：域服务 https://levelup.gitconnected.com/practical-ddd-in-golang-domain-service-4418a1650274
+
+4.一种关于 Golang 的新博客方式 https://blog.klipse.tech/golang/2021/08/29/blog-go.html
+
+5.[] int 能转换为 [] interface 吗？ https://mp.weixin.qq.com/s/tqR5zMPobm20lao-2QNrVA
+
+## gopherDaily--2021-09-01
+ - 1.github针对go仓库提供免费的持续benchmark服务 - https://github.com/marketplace/gobencher
+ - 2.Go程序内存泄露问题快速定位 - https://www.hitzhangjie.pro/blog/2021-04-14-go程序内存泄露问题快速定位/
+ - 3.短视频go研发框架实践 - https://mp.weixin.qq.com/s/RgkeZkyrELGeSbfTGEEpXw
+ - 4.quick-debug：容器程序调试利器，如本地运行般丝滑 - https://mp.weixin.qq.com/s/ZcA5ftyq29H12iSU6zX0CQ
+ - 5.Go DDD实战：Domain Service - https://levelup.gitconnected.com/practical-ddd-in-golang-domain-service-4418a1650274
+ - 6.Dolt数据库的fuzz test实战小结 - https://www.dolthub.com/blog/2021-08-30-unleash-the-fuzz/
+ - 7.部署一个Containerd容器运行时的Kubernetes集群 - https://mp.weixin.qq.com/s/auSU3F1XA4091aA0sw4GRA
+ - 8.支持10亿日流量的基础设施：当Apache APISIX遇上腾讯 - https://mp.weixin.qq.com/s/-hqozVwxbQdJE7JdICoTrg
+ - 9.Docker Desktop开始对大企业用户收费 - https://www.theregister.com/2021/08/31/docker_desktop_no_longer_free/
+
+## ISBDaily(20210901)
+
+### News
+1. 评论高晓松从阿里离职 https://r.coding-space.cn/r/6219
+2. 习主席开会强调加强反垄断力度 https://r.coding-space.cn/r/6220
+
+### Github Repo
+1. Information_Security_Books https://r.coding-space.cn/r/6217 150本信息安全方面的书籍书籍（持续更新）
+2. goInception https://r.coding-space.cn/r/6218 一个集审核、执行、备份及生成回滚语句于一身的MySQL运维工具
+
+### Blog
+1. 一个select死锁问题 https://r.coding-space.cn/r/6216
+
+### Misc
+1. 塔利班进城与韩国军方腐败 https://r.coding-space.cn/r/6221
+2. 超乎寻常的证据 https://r.coding-space.cn/r/6222
 ## go中文网每日资讯--2021-08-31
 
 
