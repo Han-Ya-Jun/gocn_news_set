@@ -8,6 +8,102 @@
 # [gocn_news_set_2021(上)](gocn_news_set_2021_01.md)
 
 # gocn_news_set_2021(下)
+
+
+## go中文网每日资讯--2021-09-05
+
+一、Go语言中文网
+
+1. [微软招 Go 都干什么？](https://mp.weixin.qq.com/s/JU4928-CQ-C_-_KuKuvgUQ)
+
+2. [Go语言爱好者周刊：第 111 期 — 多module工作区模式](https://mp.weixin.qq.com/s/CvdeBaPbXwVRA92yVlBSrg)
+
+3. [举例来学cond原语](https://mp.weixin.qq.com/s/tuVBwiO78CgEgQ6CPHe3sg)
+
+二、MoeLove
+
+1. [Lima：Docker Desktop for Mac 的免费开源且自由的替代品](https://mp.weixin.qq.com/s/TreV41cxXL5RXuFiLpg6Mw)
+
+三、polarisxu
+
+1. [Go1.17 新特性：go get 变了](https://mp.weixin.qq.com/s/jyr2mdq7hAOy7wKpBJHMgQ)
+
+四、后端研究所
+
+1. [微信事业群二面：聊聊Cookie、Session、Token背后的故事](https://mp.weixin.qq.com/s/ESPaiQOmxMYsHUVLwEOUMw)
+
+五、k8s技术圈
+
+1. [使用 Docker 构建 yum/apt 离线源](https://mp.weixin.qq.com/s/KwSRq8CbxXmv9XTd_9WPoQ)
+
+六、Gopher指北
+
+1. [一次带宽拉满引发的百分百超时血案！](https://mp.weixin.qq.com/s/02qtvjXmv7jdjfrYs5BRxQ)
+
+七、分布式实验室
+
+1. [分布式缓存的选择及问题](https://mp.weixin.qq.com/s/BwcMzwdCrQ1k-JzhqbWBvg)
+
+八、多颗糖
+
+1. [DDIA 对 Raft 的这种极端场景的描述，要如何理解？](https://mp.weixin.qq.com/s/ytYGDigJIS6YiUmop0bJdA)
+
+
+
+## GOCN每日新闻--2021-09-05
+
+1.Joker：Go 编写的 Clojure 解释型方言 https://www.oschina.net/news/158495/joker-lang
+
+2.GoSkeleton v1.5.24 发布，基于 Gin 框架封装的 Web 项目骨架 https://www.oschina.net/news/158547
+
+3.契约测试 pact 和 go 的终极指南 https://medium.com/nerd-for-tech/the-ultimate-guide-for-contract-testing-with-pact-and-go-177b4af13700
+
+4.高德渲染网关 Go 语言重构实践 https://mp.weixin.qq.com/s/i9da19Z9MU5ENZ572P87rw
+
+5.听说过对 Go map 做 GC 吗？https://mp.weixin.qq.com/s/R4aHsDXRWEkxgt8fGD8ZVQ
+
+## gopherDaily--2021-09-04
+
+1.Go多module工作区模式，这是Go 1.18中即将发布的功能 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoWorkspacesComing
+
+2.Go plugin介绍 - https://eli.thegreenplace.net/2021/plugins-in-go/
+
+3.Joker: Go实现的clousre方言 - https://joker-lang.org/
+
+4.类型系统创新的传播 - https://doma.dev/blog/innovation-propagation/#go-and-expression-problem-test
+
+5.monkey包：Arduino和SalesForce不知不觉中使用的讽刺性Go软件包 - https://esoteric.codes/blog/bouk-monkey-satirical-code-used-by-people-who-dont-get-the-joke
+
+6.github copilot生成的代码40%存在安全风险 - https://www.theinsaneapp.com/2021/09/github-copilot-generated-40-percent-insecure-code.html
+
+7.面向设计师们的开源emoji - https://github.com/hfg-gmuend/openmoji
+
+8.github在线编辑器 - https://docs.github.com/en/codespaces/developing-in-codespaces/web-based-editor
+
+9.用Go编写的用于查看sqlite数据库的TUI - https://github.com/mathaou/sqlite-tui
+
+10.如何记住你读过的书 - https://mp.weixin.qq.com/s?__biz=MzA4NDk5OTgzMg==&mid=2650591845&idx=1&sn=7510bf8bb6cf36d1f0de19151a3f3877&chksm=87d6d992b0a1508469ef4c884cb229c70f1d1cc8232b161960a3c13dadb8bdd0e13497de1aa8&token=2090030786&lang=zh_CN#rd
+
+
+
+## ISBDaily(20210903)
+### News
+1. 因芯片短缺通用暂时关闭北美六家工厂 https://r.coding-space.cn/r/6233
+
+### Github Repo
+1. influxdb_iox https://r.coding-space.cn/r/6231 一个基于Apache/Arrow实现的用Rust语言重构的InfluxDB新内核
+2. rodio https://r.coding-space.cn/r/6232 一个不错的Rust语言音频库
+
+### Blog
+1. 国密改造评估方案 https://r.coding-space.cn/r/6230
+
+### Misc
+1. 小米软文： Daniel Povey 会一直坚持将 Kaldi 的项目开源 https://r.coding-space.cn/r/6234
+2. 塔利班当家难 https://r.coding-space.cn/r/6235
+
+
+
+
 ## go中文网每日资讯--2021-09-01
 
 一、Go语言中文网
