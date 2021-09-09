@@ -10,6 +10,304 @@
 # gocn_news_set_2021(下)
 
 
+
+## go中文网每日资讯--2021-09-08
+
+
+一、Go语言中文网
+
+1. [Go: Finalizers 怎么使用？](https://mp.weixin.qq.com/s/H-VIhce4N3aH5HIhY-5UlQ)
+
+2. [Go：Gzip 的一个坑](https://mp.weixin.qq.com/s/yOa5EeUi1q7IH36YKJAJsQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-09-06)——杂谈代码整洁](https://mp.weixin.qq.com/s/0WpT1SXESQNzmzek2qIXng)
+
+2. [Go技术日报(2021-09-07)——Go的fasthttp快的秘诀：简单事情做到极致](https://mp.weixin.qq.com/s/3IJcvqKw87dROR1hSGC24g)
+
+三、k8s技术圈
+
+1. [使用 kube-vip 搭建高可用的 Kubernetes 集群(完整版)](https://mp.weixin.qq.com/s/ypIObV4ARzo-DOY81EDc_Q)
+
+四、HHFCodeRv
+
+1. [Go 网络库 getty 的那些事](https://mp.weixin.qq.com/s/rk4BjHda3fkDRh0MBQtTLw)
+
+五、网管叨bi叨
+
+1. [Go应用中优雅处理Error的几个技巧](https://mp.weixin.qq.com/s/Gnkyba2OjFnwxObqjlBePw)
+
+六、polarisxu
+
+1. [Go 官网要变天。。。](https://mp.weixin.qq.com/s/FfifPrpEWL_yn7YeLWI1kw)
+
+七、码农桃花源
+
+1. [写 Go 时如何优雅地查文档](https://mp.weixin.qq.com/s/ddl-6a567tE49RkykzYgZQ)
+
+八、Go生态
+
+1. [Go 实现 Photoshop 的功能。。。](https://mp.weixin.qq.com/s/SLiXxKMEtj7CS1k80cZ9sw)
+
+九、Go招聘
+
+1. [看看国外的Gopher培训教程是怎样的？](https://mp.weixin.qq.com/s/HIA-4AsPmvhtpCGj7Ij-8w)
+
+
+## gopherDaily--2021-09-08
+- 1.腾讯开源Go语言实现的百万级服务发现和治理中心北极星 - https://mp.weixin.qq.com/s/YP8aXGwd_vyYSgL8QyomvQ
+- 2.使用Go构建实时机器学习系统的方法考量 - https://towardsdatascience.com/approaches-for-building-real-time-ml-systems-79ea0e340269
+- 3.spice.ai: Go实现的开源的用于时序数据机器学习与深度学习的运行时 - https://blog.spiceai.org/posts/2021/09/07/introducing-spice.ai-open-source-time-series-ai-for-developers/
+- 4.DIY Go调试器 - https://poonai.github.io/posts/how-debuggers-works-part1/
+- 5.以零分配的方式调度函数调用 - https://golang.design/research/zero-alloc-call-sched/
+- 6.Docker是如何一分为二的 - https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html
+- 7.美国国家安全局(NSA) Kubernetes加固指南概述 - https://fairwinds.medium.com/an-overview-of-the-nsa-kubernetes-hardening-guide-d3d933562314
+- 8.Go、redis和lua脚本 - https://xitonix.io/go-lua-and-redis/
+- 9.使用kube-vip搭建高可用的Kubernetes集群 - https://mp.weixin.qq.com/s/ypIObV4ARzo-DOY81EDc_Q
+- 10.kubernetes实例计算器：根据你的工作负载，为你的集群探索最佳实例类型 - https://learnk8s.io/kubernetes-instance-calculator
+- 11.MangaDex动漫网站基础设施介绍 - https://mangadex.dev/mangadex-v5-infrastructure-overview/
+
+## GOCN每日新闻--2021-09-08
+
+1.理解真实项目中的 Go 并发 Bug https://gocn.vip/topics/12529
+
+2.Go Test 的一些小建议 https://moshe-beladev-mb.medium.com/tips-for-effective-go-tests-6b9f1e242f02
+
+3.Go 应用中优雅处理 Error 的几个技巧 https://mp.weixin.qq.com/s/Gnkyba2OjFnwxObqjlBePw
+
+4.深入理解 CNI（容器网络接口）https://mp.weixin.qq.com/s/z9-F4Oamnnlyuj5ARoMt_Q
+
+5.GO 编程模式: 泛型编程 https://coolshell.cn/articles/21615.html
+
+
+## ISBDaily(20210908)
+
+### News
+1. 许美征15年后再度呼吁 ：破产重整制度急需改革 https://r.coding-space.cn/r/6267
+2. 专家：“阿里事件”中不能要求受害人陈述和事实完全一致 https://r.coding-space.cn/r/6268
+
+### Github Repo
+1. bruteforce_cs_pwd https://r.coding-space.cn/r/6265 暴力破解cs的teamserver密码脚本
+2. lb-from-scratch https://r.coding-space.cn/r/6266 一个基于eBPF的负载均衡器实现
+
+### Blog
+1. 美团商品知识图谱 https://r.coding-space.cn/r/6264
+
+### Misc
+1. 不要low到什么都是“yyds、绝绝子” https://r.coding-space.cn/r/6269
+2. 拜登上台这半年 https://r.coding-space.cn/r/6270
+
+
+
+## go中文网每日资讯--2021-09-07
+一、Go语言中文网
+
+1. [Go Module 教程第 5 部分：Vendoring](https://mp.weixin.qq.com/s/VN1CrUzYfvQ1BxdLNie9Ng)
+
+2. [二分递归版orDone的问题](https://mp.weixin.qq.com/s/sxKmYhM9uBnS46Zbye6DnQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-09-05)——多module工作区模式](https://mp.weixin.qq.com/s/ZJ5cVFWNn9zoCnL6i_5qqA)
+
+三、Go招聘
+
+1. [Go 第三方库推荐：类型转换如此简单](https://mp.weixin.qq.com/s/SLsbwfQi4o8G3qWN3skOVA)
+
+四、董泽润的技术笔记
+
+1. [你真的了解 JWT 嘛](https://mp.weixin.qq.com/s/Jyb57Z3-nhAWlqLrrK_HKQ)
+
+五、Go生态
+
+1. [Go 实现 Photoshop 的功能。。。](https://mp.weixin.qq.com/s/SLiXxKMEtj7CS1k80cZ9sw)
+
+六、云影原生
+
+1. [Go的fasthttp快的秘诀：简单事情做到极致](https://mp.weixin.qq.com/s/V-_Rt0CEg5061YzfSP6ASg)
+
+> 来源: https://studygolang.com/go/godaily
+
+
+## GOCN每日新闻--2021-09-07
+
+1.[微服务架构下的熔断框架：hystrix-go ](https://mp.weixin.qq.com/s/jhHhowKj9bNVXSursDvIQw)
+
+2.[使用 Delve 调试远程 Go 应用 ](https://juejin.cn/post/7004731872735395877)
+
+3.[AWS Kinesis Firehose - 使用 Go 存储 JSON 到 AWS S3 Parquet ](https://medium.com/@starchycornet33/aws-kinesis-firehose-json-to-parquet-using-golang-for-columnar-based-queries-753a783c371c)
+
+4.[Bun - 简单高效的 PostgreSQL/MySQL/SQLite 客户端 ](https://bun.uptrace.dev/)
+
+5.[Fuzz 测试实践 ](https://www.dolthub.com/blog/2021-08-30-unleash-the-fuzz/)
+
+> 来源: https://gocn.vip/news
+
+
+
+## gopherDaily--2021-09-07
+- 1.[用于PostgreSQL、MySQL和SQLite的简单且性能良好的数据库客户端 ](https://github.com/uptrace/bun)
+
+- 2.[为什么Go正在占领软件行业：关于Go为何成为开发者的热门选择的思考]( https://betterprogramming.pub/why-golang-is-about-to-take-over-the-software-industry-fb48174a4cf)
+
+- 3.[由Go核心开发团队安全负责人Filippo Valsorda开源的文件加密工具age发布v1.0.0版本 ](https://github.com/FiloSottile/age/releases/tag/v1.0.0)
+
+- 4.[如何使用Go下载油管视频 ](https://preettheman.medium.com/how-to-download-youtube-videos-with-go-golang-45d279b8283e)
+
+- 5.[如何在Go中使用ZeroMQ的请求-回复模式]( https://dev.to/franciscomendes10866/how-to-use-zeromq-request-reply-pattern-in-golang-3n5g)
+
+- 6.[Go语言中怎么提升JSON編解码的性能？]( https://www.readfog.com/a/1643615563573989376)
+
+- 7.[对更薄的容器的需求 ](https://iximiuz.com/en/posts/thick-container-vulnerabilities/)
+
+- 8.[dtm: 分布式事务管理服务]( https://github.com/yedf/dtm)
+
+- 9.[增强隐私的技术和它们为什么重要 ](https://medium.com/@rachel_44286/ai-privacy-and-why-you-should-care-1ef503a789b6)
+
+- 10.[用扩展API扩展Ent ](https://entgo.io/blog/2021/09/02/ent-extension-api/)
+
+- 11.[支持github、gitlab、bitbucket等的webhook管理服务 ]( https://github.com/krok-o/krok)
+
+
+
+
+## go中文网每日资讯--2021-09-06
+
+
+一、Go语言中文网
+
+1. [Go Module 教程第 4 部分：镜像、校验和以及 Athens](https://mp.weixin.qq.com/s/b1mTUOKCs-L9Tt9TdzJpQw)
+
+2. [并发控制模式：orDone的两种实现](https://mp.weixin.qq.com/s/F5H0C--diuuPTcrZhSC0cA)
+
+二、欧长坤
+
+1. [Scheduling Function Calls with Zero Allocation](https://mp.weixin.qq.com/s/loW3pEu9uJBU3Jt3-nQmRA)
+
+三、k8s技术圈
+
+1. [kubelet 配置资源预留的姿势](https://mp.weixin.qq.com/s/GueahMq2t4NBPw1lvNc_IA)
+
+四、腾讯技术工程
+
+1. [杂谈代码整洁](https://mp.weixin.qq.com/s/s_2dfOnMqND1qKjTfnmg5A)
+
+五、码农桃花源
+
+1. [Go服务迁到K8s后老抽风重启? 记一次完整的线上问题解决过程](https://mp.weixin.qq.com/s/hw5GXHgI7TgdbGcbRiquiw)
+
+六、章老师说
+
+1. [七层负载均衡应如何选型？](https://mp.weixin.qq.com/s/bFSGtq73DrXLgtG29U9QsA)
+
+七、Go招聘
+
+1. [Go中的map有缩容机制吗?](https://mp.weixin.qq.com/s/4OP2zMERTQGcpvZB36Otkw)
+
+2. [土拨鼠联合其他号主来给大家送8本SRE](https://mp.weixin.qq.com/s/Kngf0uvXquI7MM_iYuVUsg)
+
+八、董泽润的技术笔记
+
+1. [读者提问：如何学习 redis 源码](https://mp.weixin.qq.com/s/5KOQOZRBbAdjaxH5Jd7JYQ)
+
+九、脑子进煎鱼了
+
+1. [Go 切片这道题，吵了一个下午！](https://mp.weixin.qq.com/s/kEQI74ge6VhvNEr1d3JW-Q)
+
+十、奇伢云存储
+
+1. [聊聊底线 | 坏数据与假数据](https://mp.weixin.qq.com/s/DvaGJlAusSxrCb3bTzqY7Q)
+
+十一、Golang梦工厂
+
+1. [微服务架构下的熔断框架：hystrix-go](https://mp.weixin.qq.com/s/jhHhowKj9bNVXSursDvIQw)
+
+十二、Golang技术分享
+
+1. [我终于识破了这个 Go 编译器把戏](https://mp.weixin.qq.com/s/KfsMJN36f0IpxabAwbL6iA)
+
+> 来源: https://studygolang.com/go/godaily
+
+
+
+
+
+
+
+
+## GOCN每日新闻--2021-09-06
+
+1.[理解 Go 中的封装 ](https://sagarsonwane230797.medium.com/understanding-encapsulation-in-go-ac575813c3ad)
+
+2.[Go 1.18 中新增多 module 工作区模式 ](https://utcc.utoronto.ca/~cks/space/blog/programming/GoWorkspacesComing)
+
+3.[使用扩展 API 扩展 Ent 功能 ](https://entgo.io/blog/2021/09/02/ent-extension-api/)
+
+4.[authelia：支持多因子认证的单点登录网关 ](https://github.com/authelia/authelia)
+
+5.[值得阅读的 Go 源代码推荐 ](https://news.ycombinator.com/item?id=14462125)
+
+> 来源: https://gocn.vip/news
+
+
+## gopherDaily--2021-09-06
+
+- 1.[2021年17本最佳Go技术书籍 ](https://realtoughcandy.com/best-golang-books/)
+
+- 2.[DNS基础知识和在Go中构建简单的DNS服务器 ](https://medium.com/@openmohan/dns-basics-and-building-simple-dns-server-in-go-6cb8e1cfe461)
+
+- 3.[使用pRest通过REST访问Postgres ](https://eltonminetto.dev/en/post/2021-08-31-prest/)
+
+- 4.[最佳Go项目：发现令人敬畏的Go项目]( https://bestofgo.dev/)
+
+- 5.[从Docker迁移到Podman]( https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/)
+
+- 6.[ZFS神秘地吃掉了我的CPU ](https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html)
+
+- 7.[油管视频：用Go建立自己的分布式数据库]( https://www.youtube.com/watch?v=rxzcx4HaCQo)
+
+- 8.[使用Fiber在Go中构建基本的CRUD操作 ](https://dev.to/eternaldev/building-basic-crud-operations-in-go-with-fiber-1l49)
+
+- 9.[GORM SQLChaos在程序运行时基于gorm对DML进行操作 ](https://github.com/u2386/gorm-sqlchaos)
+
+> 来源: https://gopher-daily.com/issues/last
+
+
+
+
+## ISBDaily(20210906)
+
+### News
+1. [以色列准备好第四针疫苗](https://r.coding-space.cn/r/6253) 
+
+2. [美团也喊起了“共同富裕” ](https://r.coding-space.cn/r/6254)
+
+### Github Repo
+1. [TexasSolver 一个开源的，极其高效的德州扑克和短牌solver]( https://r.coding-space.cn/r/6251 )
+2. [gateway 一个Go语言实现的AWS的Lambdda和API网关实现]( https://r.coding-space.cn/r/6252)
+
+### Blog
+1. [有赞商业模式背后的技术平台](https://r.coding-space.cn/r/6250)
+### Misc
+1. [年轻时读过的书不是白读的](https://r.coding-space.cn/r/6255)
+
+2. [塔利班20年进化史 ](https://r.coding-space.cn/r/6256)
+
+
+
+>施主日行一善 https://dailypay.coding-space.cn/#/    
+微信公众号: MyInternetSuperband
+
+- 归档地址：https://github.com/Han-Ya-Jun/gocn_news_set
+- Go 技术日报交流群:
+  > 关注公众号回复：**微信**，拉你入群。
+- 订阅公众号: **亚军进化史**
+  ![](https://cdn.hanyajun.com/扫码_搜索联合传播样式-标准色版.png)
+
+
+
+
 ## go中文网每日资讯--2021-09-05
 
 一、Go语言中文网
