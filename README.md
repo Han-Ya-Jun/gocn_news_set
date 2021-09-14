@@ -10,6 +10,91 @@
 # gocn_news_set_2021(下)
 
 
+## go中文网每日资讯--2021-09-13
+
+一、Go语言中文网
+
+1. [疯了吧！这帮人居然用 Go 写“前端”？（二）](https://mp.weixin.qq.com/s/3sitopDuqHyW6dhCLaaerw)
+
+2. [Go：如何高效地拼接字符串](https://mp.weixin.qq.com/s/9328Ju9pF80djNtRXqfSXQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-09-12)——如何保证缓存和数据库的一致性？](https://mp.weixin.qq.com/s/Q__mWuH2oaOGNZh7GGCJcA)
+
+三、k8s技术圈
+
+1. [​微服务 CI/CD 实践-GitOps 完整设计与实现](https://mp.weixin.qq.com/s/MN08YzdpDMYZ5xpQP1ECQQ)
+
+四、Go生态
+
+1. [Gin 框架绑定 JSON 参数使用 jsoniter](https://mp.weixin.qq.com/s/8aORG-cd_a4nIHOLUYi6Ew)
+
+五、Go招聘
+
+1. [你知道K8S暴露服务的方式有哪些吗？](https://mp.weixin.qq.com/s/na7HwDElPwhEnJonc1mGAg)
+
+六、微服务实践
+
+1. [微服务注册与发现的原理与实现](https://mp.weixin.qq.com/s/-WaWJaM_ePEQOf7ExNJe7w)
+
+七、董泽润的技术笔记
+
+1. [Fail at Scale 读后感](https://mp.weixin.qq.com/s/BNOr5e92atc2RZstv_afwQ)
+
+八、技术岁月
+
+1. [金融智能风控系统演进开发实践](https://mp.weixin.qq.com/s/1dUOwjxrjHu5maf603yHxA)
+
+九、脑子进煎鱼了
+
+1. [你对 Go 错误处理的 4 个误解！](https://mp.weixin.qq.com/s/Ey-yqIq__wpaLTlBAOHjxg)
+
+十、Golang梦工厂
+
+1. [Go语言如何操纵Kafka保证无消息丢失](https://mp.weixin.qq.com/s/XoSi3Cgp7ij-n9t4pvBoXQ)
+
+十一、Golang技术分享
+
+1. [Go 中 Set 的最佳实现方案](https://mp.weixin.qq.com/s/pcwCW7jtr2_CJ_k58He-6Q)
+
+十二、奇伢云存储
+
+1. [聊聊奇伢如何学习 Linux 内核源码](https://mp.weixin.qq.com/s/LaKA1KDHez7qYI6DPkpbrQ)
+
+
+## GOCN每日新闻--2021-09-13
+
+1.为忙碌开发者准备的 Go 语言性能分析、追踪和可观测性指南 https://gocn.vip/topics/12544
+
+2.Go 语言高性能图像处理神器 h2non/bimg https://gocn.vip/topics/12543
+
+3.一个实验带你真正搞懂 Go 结构体方法指针和值的区别 https://juejin.cn/post/7007438001181556773
+
+4.云原生应用发布组件 Triton 开源之旅 https://mp.weixin.qq.com/s/c0tFZ3yiDxFi6uuu77X65g
+
+5.Go 系列：语法糖和比较规则 https://juejin.cn/post/7006642121176252423
+
+
+## SBDaily(20210913)
+
+### News
+1. 郑州40万辆泡水车多渠道流向市场 https://r.coding-space.cn/r/6296
+2. 米国法官裁定苹果公司强迫开发者使用应用内支付 https://r.coding-space.cn/r/6297
+
+### Github Repo
+1. scala_coding_convention https://r.coding-space.cn/r/6294 Scala编码规范与最佳实践
+2. chinese-copywriting-guidelines https://r.coding-space.cn/r/6295 中文文案排版指北
+
+### Blog
+1. 微软与美国大公司组织模型 https://r.coding-space.cn/r/6293
+
+### Misc
+1. 耗散时间晶体被发现 https://r.coding-space.cn/r/6298
+2. 管金生和跳楼以及逃跑的A股枭雄们 https://r.coding-space.cn/r/6299
+
+
+
 ## go中文网每日资讯--2021-09-12
 
 
