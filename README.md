@@ -9,6 +9,69 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-09-14
+
+
+一、Go语言中文网
+
+1. [Go内存管理系列之二](https://mp.weixin.qq.com/s/RyDvCBFDm14xw_f7mOvCwg)
+
+2. [为开源项目 go-gin-api 增加后台任务模块](https://mp.weixin.qq.com/s/s4tZStaAMcxrhXg96Fsywg)
+
+二、亚军进化史
+
+1. [Go技术日报(202109-13)——你对 Go 错误处理的 4 个误解！](https://mp.weixin.qq.com/s/BvXPFNsTNjCe4QRVafu3rQ)
+
+三、脑子进煎鱼了
+
+1. [Go 官方限流器的用法详解](https://mp.weixin.qq.com/s/qAKQm9CVNxk-ltUxHql1nw)
+
+四、polarisxu
+
+1. [Go Module：私有不合规库怎么解决引用问题](https://mp.weixin.qq.com/s/Q28LwtYfU7KH_Zy0VbHvOA)
+
+五、GoOfficialBlog
+
+1. [云原生应用发布组件 Triton 开源之旅](https://mp.weixin.qq.com/s/c0tFZ3yiDxFi6uuu77X65g)
+
+六、李文周
+
+1. [Go单测从零到溜系列—0.单元测试基础](https://mp.weixin.qq.com/s/NGgn7E5AJX8hEVPtQ2DaDw)
+
+七、Go招聘
+
+1. [B站毛老师亲自操刀招聘Gopher](https://mp.weixin.qq.com/s/x5OANQNshEfn388wcRYqHg)
+## gopherDaily--2021-09-14
+- 1.如何成为一名Go开发人员：总共分六步 - https://betterprogramming.pub/how-to-become-a-golang-developer-a-6-step-career-guide-ce8274dd0eb3
+- 2.Go是值传递的–但它可能并不总是感觉如此 - https://neilalexander.dev/2021/08/29/go-pass-by-value.html
+- 3.Go中的一个讨厌的未定义时区行为 - https://www.dolthub.com/blog/2021-09-03-golang-time-bugs/
+- 4.使用PACT和Go进行契约测试的终极指南 - https://medium.com/nerd-for-tech/the-ultimate-guide-for-contract-testing-with-pact-and-go-177b4af13700
+- 5.Go DDD实战：module - https://levelup.gitconnected.com/practical-ddd-in-golang-module-51edf4c319ec
+- 6.使用ent生成openapi规范 - https://entgo.io/blog/2021/09/10/openapi-generator/
+- 7.一组用于go的优化汇编语言包 - https://github.com/segmentio/asm
+- 8.油管视频：Go接口的威力 - https://www.youtube.com/watch?v=TRoRluGIixs
+- 9.监控kubernetes job - https://itnext.io/monitoring-kubernetes-jobs-8adc241a7b60
+- 10.轻量级、基于CRD的kubernetes的envoy控制平面 - https://github.com/3scale-ops/marin3r
+- 11.GitHub Codespaces VS Gitpod - 全栈开发向云端转移 - https://www.freecodecamp.org/news/github-codespaces-vs-gitpod-cloud-based-dev-environments/
+
+
+
+## ISBDaily(20210914)
+
+### News
+1. 阿里x性侵案张某妻子：弱势群体不能只看性别 https://r.coding-space.cn/r/6303
+2. 福建delta病毒扩散到厦门 https://r.coding-space.cn/r/6304
+
+### Github Repo
+1. GoWebSSH https://r.coding-space.cn/r/6301 一个Go实现的一个WebSSH，支持文件上传下载
+2. linux-insides-zh https://r.coding-space.cn/r/6302 一系列关于Linux内核和其内在机理的帖子
+
+### Blog
+1. 有赞低代码平台 https://r.coding-space.cn/r/6300
+
+### Misc
+1. 梁思成诞辰120周年 https://r.coding-space.cn/r/6305
+
 
 ## go中文网每日资讯--2021-09-13
 
