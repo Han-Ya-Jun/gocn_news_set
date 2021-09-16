@@ -9,6 +9,83 @@
 
 # gocn_news_set_2021(下)
 
+
+
+## go中文网每日资讯--2021-09-15
+一、Go语言中文网
+
+1. [Go 内存管理之三：CGO](https://mp.weixin.qq.com/s/wD7JiWICzA0WHniVHu2-9w)
+
+2. [Go 与 C 的指针](https://mp.weixin.qq.com/s/Je03lXgyO9dVY8oHhPwKjg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-09-14)——Go Module：私有不合规库怎么解决引用问题](https://mp.weixin.qq.com/s/0OL25fLUlBnCQ6h6pZL7Lg)
+
+三、polarisxu
+
+1. [微软招 Go 不少~](https://mp.weixin.qq.com/s/RgAzqrrs-gmVw_5AI5uahA)
+
+四、TechPaper
+
+1. [关于复杂度的碎碎念](https://mp.weixin.qq.com/s/tvZ3hoz3W2yErr1G6d5OBg)
+
+五、Go招聘
+
+1. [为什么容器内存占用居高不下，频频 OOM](https://mp.weixin.qq.com/s/NDYjr2F7CY3ZFWrdUn3iSg)
+
+六、董泽润的技术笔记
+
+1. [PingCAP 故障注入利器 fail-rs](https://mp.weixin.qq.com/s/bOzSMrvkhquelEWEugtrmw)
+
+七、吴亲强的深夜食堂
+
+1. [云原生是怎么样让我们失去工作的](https://mp.weixin.qq.com/s/bMrVGWjOGrcs5PHIqHB5PQ)
+
+## GOCN每日新闻--2021-09-15
+1.使 go 的数据库测试更容易的工具https://github.com/RussellLuo/dbtest
+
+2.asm 库提供优化的算法以利用 CPU 的特性 https://github.com/segmentio/asm
+
+3.golang 源码分析：sarama kafka client(part I:生产者) https://mp.weixin.qq.com/s/he5cfeJyUDn2YjmgOOGp-w
+
+4.在 Go 中数据的提取、转换和加载 https://www.ardanlabs.com/blog/2021/09/extract-transform-load-in-go.html
+
+5.C/C++ 调用 golang 函数，golang 回调 C/C++ 函数  https://blog.51cto.com/u_15343979/3817251
+
+
+
+## gopherDaily--2021-09-15
+- 1.那些没有结果的Go错误处理提案集合 - https://seankhliao.com/blog/12020-11-23-go-error-handling-proposals/
+- 2.使用Gio构建一个图形界面 - https://jonegil.github.io/gui-with-gio/
+- 3.理解Go语言的多态 - https://sagarsonwane230797.medium.com/understanding-polymorphism-in-go-d704944e9816
+- 4.举例说明如何在Go中使用Context –取消、超时和值 - https://www.sohamkamani.com/golang/context-cancellation-and-values/
+- 5.Go GraphQL 101入门指南 - https://programmingpercy.tech/blog/using-graphql-in-golang/
+- 6.Go发疯系列：无尽的错误处理 - https://jesseduffield.com/Gos-Shortcomings-1/
+- 7.让Go中的错误处理变得更加强大 - https://medium.com/codealchemist/error-handling-in-go-made-more-powerful-ce164c2384ee
+- 8.Go是什么？我应该用它来实现我的后端吗？ - https://blog.skyegill.com/what-is-golang
+- 9.dbtest: 简化Go语言DB测试的工具 - https://github.com/RussellLuo/dbtest
+- 10.基于DevOps的开源治理 - https://mp.weixin.qq.com/s/2L-IgI0Dom0RmH0RXCCHbQ
+- 11.不要建立一个通用的API来支持你自己的前端 - https://max.engineer/server-informed-ui
+
+## ISBDaily(20210915)
+
+### News
+1. 中国工业机器人密度达187台/万人 https://r.coding-space.cn/r/6309
+2. 荷兰判决uber司机是正式雇员 https://r.coding-space.cn/r/6310
+
+### Github Repo
+1. ebpf https://r.coding-space.cn/r/6307 eBPF概念Go语言库实现
+2. Digital-Privacy https://r.coding-space.cn/r/6308 一个关于数字隐私搜集、保护、清理集一体的方案,外加开源信息收集(OSINT)对抗
+
+### Blog
+1. 数据中心数据质量线上监控 https://r.coding-space.cn/r/6306
+
+### Misc
+1. Golang 正在接管软件行业 https://r.coding-space.cn/r/6311
+2. 日本东北大学江刺正喜教授 https://r.coding-space.cn/r/6312
+
+
 ## go中文网每日资讯--2021-09-14
 
 
