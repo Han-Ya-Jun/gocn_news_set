@@ -9,6 +9,83 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-09-21
+
+一、Go语言中文网
+
+1. [国外Go社区吵起来了](https://mp.weixin.qq.com/s/2_jjNBwaj5rBD5acNjArwg)
+
+2. [Go：微服务注册与发现的原理与实现](https://mp.weixin.qq.com/s/_jn-0yb7lS_x-vGz-guuJg)
+
+3. [Go单测从零到溜系列—0.单元测试基础](https://mp.weixin.qq.com/s/Ky07ELyegJFSBh8w85Mi3Q)
+
+二、polarisxu
+
+1. [Go Fiber 框架系列教程 01: 和 Express 对比学习](https://mp.weixin.qq.com/s/AUdKsBpqwOU5wJPyAP0fgw)
+
+三、网管叨bi叨
+
+1. [Golang 五种原子性操作的用法详解](https://mp.weixin.qq.com/s/W48sjzxwjPYKgcY8DavBYA)
+
+四、k8s技术圈
+
+1. [深入浅出负载均衡](https://mp.weixin.qq.com/s/RFjTDNsGiqkMNnkjVus5Zw)
+
+五、luozhiyun很酷
+
+1. [在Go中使用Failpoint注入故障](https://mp.weixin.qq.com/s/BZyqsVnlJTb6j9OergxHRg)
+
+六、Gopher指北
+
+1. [sync.Once化作一道光让我顿悟](https://mp.weixin.qq.com/s/Eu6T5-4v82kdh-Url4O5_w)
+
+七、幼麟实验室
+
+1. [【Golang】泛型要来了吗？](https://mp.weixin.qq.com/s/CLSuf2R4wFV1RMV1BS2gFg)
+
+八、Go招聘
+
+1. [中秋快乐,布隆过滤器的原理了解一下](https://mp.weixin.qq.com/s/uu6knQiAtlMiMbRcgCQcOg)
+
+
+## GOCN每日新闻--2021-09-21
+1.讨论 Go 标准库 API 如何支持泛型 https://github.com/golang/go/discussions/48287
+
+2.Go 实践 DDD 领域驱动设计系列文章 https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629
+
+3.Golang 五种原子性操作的用法详解 https://mp.weixin.qq.com/s/W48sjzxwjPYKgcY8DavBYA
+
+4.Go 1.18 合并对 Fuzz 测试原生支持的代码 https://github.com/golang/go/commit/6e81f78c0f1653ea140e6c8d008700ddad1fa0a5
+
+5.Capoae 恶意软件利用软件漏洞安装 Go 挖矿程序 https://thehackernews.com/2021/09/new-capoae-malware-infiltrates.html
+
+## gopherDaily--2021-09-21
+- 1.Go 1.18合并了对Fuzz测试原生支持的代码 - https://github.com/golang/go/commit/6e81f78c0f1653ea140e6c8d008700ddad1fa0a5
+- 2.Go DDD实战：Aggregate - https://levelup.gitconnected.com/practical-ddd-in-golang-aggregate-de13f561e629
+- 3.高度可定制和轻量级的Go CLI应用框架 - https://github.com/SuperPaintman/nice
+- 4.混淆go构建 - https://github.com/burrowers/garble
+- 5.深入了解goroutine的泄漏和避免泄漏的最佳做法 - https://mourya-g9.medium.com/deep-dive-on-goroutine-leaks-and-best-practices-to-avoid-them-a35021383f64
+- 6.opentelemetry-go发布v1.0.0 - https://github.com/open-telemetry/opentelemetry-go/releases/tag/v1.0.0
+- 7.阅读代码是一种技能 - https://trishagee.com/2020/09/07/reading-code-is-a-skill/
+- 8.我创办SaaS公司的经历 - https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/
+- 9.用Snappy的S2扩展来加快压缩速度 - https://tech.marksblogg.com/snappy-s2-compression-golang.html
+
+## ISBDaily(20210919)
+
+### News
+1. 微信：一对一聊天可访问外部链接 https://r.coding-space.cn/r/6338
+2. 滴滴败亡之兆：橙心优选大撤退 https://r.coding-space.cn/r/6339
+
+### Github Repo
+1. gobang https://r.coding-space.cn/r/6336 一个Rust实现的命令行跨平台关系数据库管理平台
+2. CPP-Templates https://r.coding-space.cn/r/6337 《C++Templates第二版》中文翻译
+
+### Blog
+1. 云安全成熟度曲线 https://r.coding-space.cn/r/6335
+
+### Misc
+1. 再论社交牛×症 https://r.coding-space.cn/r/6340
+2. 日本御宅族 https://r.coding-space.cn/r/6341
 
 
 ## go中文网每日资讯--2021-09-15
