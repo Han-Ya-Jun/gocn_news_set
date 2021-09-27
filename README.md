@@ -9,6 +9,115 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-09-26
+
+
+一、Go语言中文网
+
+1. [用 Go 构建不可变的数据结构](https://mp.weixin.qq.com/s/_uSN003FGtuuA4KQ-H1lzQ)
+
+2. [Go单测从零到溜系列—3.接口测试](https://mp.weixin.qq.com/s/eSr8oiQlXLjnhjZrJ0HsZw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-09-25)——用MQ 能完全替代 RPC 调用？](https://mp.weixin.qq.com/s/35OytZctAeTWQeSXH7lKyg)
+
+三、脑子进煎鱼了
+
+1. [终于识破了这个 Go 编译器把戏](https://mp.weixin.qq.com/s/rAIhapDHrA7jQVr_uvQpEg)
+
+四、新亮笔记
+
+1. [为开源项目 go-gin-api 增加 WebSocket 模块](https://mp.weixin.qq.com/s/SquN0aUHXaNpsgQASUfoNA)
+
+五、HHFCodeRv
+
+1. [真实环境下大内存 Go 服务性能优化一例](https://mp.weixin.qq.com/s/ROmrno01biGjhR9V0SBkOQ)
+
+六、Go招聘
+
+1. [腾讯互娱流量生态部又来招聘Gopher啦](https://mp.weixin.qq.com/s/2Y4UwX2zdE4C2JrQetCZpQ)
+
+七、网管叨bi叨
+
+1. [存储基础 — 文件描述符 fd 究竟是什么？](https://mp.weixin.qq.com/s/VBDXLVip11VtAfHFhfEGag)
+
+八、董泽润的技术笔记
+
+1. [Go timer 是如何被调度的？](https://mp.weixin.qq.com/s/zy354p9MQq10fpTL20uuCA)
+
+九、TonyBai
+
+1. [gRPC服务的响应设计](https://mp.weixin.qq.com/s/nGTrKBHLVmHLuRMffHcKfw)
+
+十、polarisxu
+
+1. [Go中面向包的设计](https://mp.weixin.qq.com/s/BokIZgxLSJ8vLfaJrsds4g)
+
+十一、BFE开源项目
+
+1. [如何实现多数据中心流量调度](https://mp.weixin.qq.com/s/i5AJeC7_3CSJ1Ci8pYIFXg)
+
+十二、Golang技术分享
+
+1. [Go 中如何强制关闭 TCP 连接](https://mp.weixin.qq.com/s/Lbv4myGcvH6fIfNoQfyqQA)
+
+十三、腾讯云原生
+
+1. [斗鱼直播云原生实践之注册中心篇](https://mp.weixin.qq.com/s/_q7a7ch5bhXIiL8Kk3XWrg)
+
+十四、腾讯技术工程
+
+1. [分布式消息队列](https://mp.weixin.qq.com/s/-MXA4T-ei_U5ewXUNZ0QdQ)
+
+
+## GOCN每日新闻--2021-09-26
+
+1.Go map 如何缩容？  https://mp.weixin.qq.com/s/Slvgl3KZax2jsy2xGDdFKw
+
+2.聊聊如何解决 MySQL 深分页问题  https://juejin.cn/post/7012016858379321358
+
+3.gRPC 客户端的那些事儿  https://tonybai.com/2021/09/17/those-things-about-grpc-client/
+
+4.MySQL 8.0：新的身份验证插件  https://segmentfault.com/a/1190000040733952
+
+5.Golang 强行关闭 TCP 连接  https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6
+
+
+## gopherDaily--2021-09-26
+
+- 1.gRPC服务的响应设计 - https://t.zsxq.com/fIAEyZz
+- 2.使用SPIFFE/SPIRE实现云原生工作负载身份识别 - https://thenewstack.io/the-rise-of-workload-identity-in-cloud-native-with-spiffe-spire/
+- 3.使用ICMP协议隐匿数据传输的go程序 - https://www.kitploit.com/2021/09/queensono-golang-binary-for-data.html
+- 4.Go和JSON：标签、空字符串和nil值 - https://www.gophp.io/go-and-json-tags-empty-strings-and-nil-values/
+- 5.简化Go json处理  - https://alanstorm.com/simplified-json-handling-in-go/
+- 6.使用GitHub Actions、Helm和Kubernetes的多平台Go应用的CI/CD - https://itnext.io/ci-cd-for-a-multi-arch-go-application-using-github-actions-docker-buildx-helm-and-kubernetes-f415a42b2c82
+- 7.云计算的7个好处 - https://www.codecademy.com/resources/blog/7-benefits-of-cloud-computing/
+- 8.密切关注你的控制平面对于确保你的自我管理的OpenShift容器平台的高可用性和健康 - https://www.dynatrace.com/news/blog/keeping-an-eye-on-your-control-plane-is-critical-to-ensuring-the-high-availability-and-health-of-your-self-managed-openshift-container-platform/
+- 9.K0s作为轻量级的Kubernetes发布版，旨在缓解物联网安全挑战 - https://www.mirantis.com/blog/k0s-as-a-lightweight-kubernetes-distro-designed-to-mitigate-iot-security-challenges/
+- 10.如何在2021年提高生产力 - 最佳技巧和窍门 - https://clickup.com/blog/how-to-be-more-productive/
+- 11.如何获取客户端真实 IP？从Gin的一个”Bug”说起 - https://mp.weixin.qq.com/s/C-Xf6haLrOWkmBm2lRTdEQ
+
+
+## ISBDaily(20210926)
+
+### News
+1. 30年内中国出不了第二个杨振宁了 https://r.coding-space.cn/r/6386
+2. 八卦：马斯克和Grimes处于“半分离”状态 https://r.coding-space.cn/r/6387
+3. Linux基金会发布《2021开源职业报告》 https://r.coding-space.cn/r/6388
+
+### Github Repo
+1. XVulnFinder https://r.coding-space.cn/r/6384 Java静态代码安全审计工具，使用JavaParser项目做语法分析，计划支持常见的Web漏洞与组件漏洞
+2. awesome-crawler https://r.coding-space.cn/r/6385 一个爬虫列表清单，包含各种语言实现
+
+### Blog
+1. SRv6与5G技术 https://r.coding-space.cn/r/6383
+
+### Misc
+1. 中学毕业的哈佛教授埃里克森 https://r.coding-space.cn/r/6389
+2. 弗洛伊德小传 https://r.coding-space.cn/r/6390
+
+
 
 ## go中文网每日资讯--2021-09-25
 一、Go语言中文网
