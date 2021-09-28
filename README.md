@@ -9,6 +9,92 @@
 
 # gocn_news_set_2021(下)
 
+
+## go中文网每日资讯--2021-09-27
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 114 期](https://mp.weixin.qq.com/s/RRa9Dg26jW6_X26_nE821A)
+
+2. [Go单测从零到溜系列—4.使用monkey打桩](https://mp.weixin.qq.com/s/NVW5Tq8BKNv9XSFHaV1ZjA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-09-26)——gRPC服务的响应设计](https://mp.weixin.qq.com/s/nZBLL18pE0xx0fvAExcpHw)
+
+三、脑子进煎鱼了
+
+1. [一篇文章把 Go map 赋值和扩容扒干净！](https://mp.weixin.qq.com/s/nmhZEkWC-xB-Fr-0gvE3hw)
+
+2. [内联函数和编译器对 Go 代码的优化](https://mp.weixin.qq.com/s/gVGGzjgWZJPGwGwC9UDVuQ)
+
+四、Go生态
+
+1. [Golang中常见的option设计探讨](https://mp.weixin.qq.com/s/WUqpmyxWv_W5E6RtxazYAg)
+
+五、Go招聘
+
+1. [迷惑了，Go len() 是怎么计算出来的？](https://mp.weixin.qq.com/s/tklfoXdHLWIpdYXL46k_rg)
+
+六、HHFCodeRv
+
+1. [深度细节 | Go 的 panic 的三种诞生方式](https://mp.weixin.qq.com/s/njKyeShBnxcCaO0GhQqS7A)
+
+七、k8s技术圈
+
+1. [Prometheus Relabeling 重新标记的使用](https://mp.weixin.qq.com/s/6BtqApQKI4OzUWXM-8u_nw)
+
+八、Go夜读
+
+1. [【本周三晚上】Go 字符串匹配及 Rabin-Karp 算法](https://mp.weixin.qq.com/s/bQMhe64eU2xjqQ36QRpcRA)
+
+九、薯条的编程修养
+
+1. [Sync Once：不是吧，不到20行源码居然来回改了这么多次](https://mp.weixin.qq.com/s/nkhZyKG4nrUulpliMKdgRw)
+
+十、董泽润的技术笔记
+
+1. [开通个人博客啦！附带全部 Hexo + Nginx + Git 教程](https://mp.weixin.qq.com/s/mrAwE-go0vNSwrJ4g4L9Cg)
+
+## GOCN每日新闻--2021-09-27
+
+1.使用 Go 语言在图片中隐藏 Shellcode https://mp.weixin.qq.com/s/lAO9TjEPpfarSgMzQBY4Tw
+
+2.了解 go-micro 中的 transport https://juejin.cn/post/7012585167889891359
+
+3.你想知道的 Go 泛型都在这里 https://mp.weixin.qq.com/s/ZmKnD53xKyQWwuj64rL_7A
+
+4.Go 单测从零到溜系列—4.使用 monkey 打桩 https://mp.weixin.qq.com/s/NVW5Tq8BKNv9XSFHaV1ZjA
+
+5.用 Go 构建不可变的数据结构 https://mp.weixin.qq.com/s/_uSN003FGtuuA4KQ-H1lzQ
+
+
+
+
+## gopherDaily--2021-09-27
+
+1.详解即将于Go 1.18加入的Go泛型特性 - https://bitfieldconsulting.com/golang/generics
+
+2.使用IPFS构建Go应用的快速入门 - https://bartlomiejmika.com/post/2021/quickstart-to-building-golang-apps-using-ipfs/
+
+3.Go DDD实战：Factory - https://levelup.gitconnected.com/practical-ddd-in-golang-factory-5ba135df6362
+
+4.字节跳动是怎么做全链路压测的 - https://mp.weixin.qq.com/s/4DHwFBxiI9C8YH5FjbCkSw
+
+5.如何编写你自己的Go module proxy - https://betterprogramming.pub/how-to-write-your-own-go-module-proxy-ed2d861c577a
+
+6.使用Go与web技术创建桌面应用 - https://github.com/wailsapp/wails
+
+7.chore: 一个优雅而简单的工具，用于在远程服务器上执行普通任务 - https://github.com/AhmadWaleed/chore
+
+8.go-stash: logstash的替代品，性能是后者5倍 - https://github.com/tal-tech/go-stash
+
+9.在线免费的Istio中文基础教程上线 - https://mp.weixin.qq.com/s/CrxMKGqXZF4Rw_Z2DKmFNw
+
+10.Scala与Go的对比 - https://itnext.io/scala-vs-go-3e2e52f19de
+
+
+
 ## go中文网每日资讯--2021-09-26
 
 
@@ -69,6 +155,9 @@
 十四、腾讯技术工程
 
 1. [分布式消息队列](https://mp.weixin.qq.com/s/-MXA4T-ei_U5ewXUNZ0QdQ)
+
+
+
 
 
 ## GOCN每日新闻--2021-09-26
