@@ -9,6 +9,72 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-10-10
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 115 期](https://mp.weixin.qq.com/s/l_TM51foKeBq2emUs5iitA)
+
+2. [Go：浮点数精度丢失问题详解](https://mp.weixin.qq.com/s/xw37DwMwkWay8RWfJ3OCLg)
+
+二、Go招聘
+
+1. [Go 每日一库之 testify](https://mp.weixin.qq.com/s/w6yBqgPsoCPnWpMU_dxF0w)
+
+三、k8s技术圈
+
+1. [Promethues 应用监控的一些实践](https://mp.weixin.qq.com/s/Qzup03f_-CkCZ4fyU3_gew)
+
+四、Gopher指北
+
+1. [URL中的空格、加号究竟应该使用何种方式编码](https://mp.weixin.qq.com/s/ZcvXsldDQhumNgijbadCJg)
+
+五、奇伢云存储
+
+1. [图解网络｜收到RST，就一定会断开TCP连接吗？](https://mp.weixin.qq.com/s/8AGdziLX7Pl7x7iwpPd_yg)
+
+六、鸟窝
+
+1. [[译]更快的时间解析](https://colobu.com/2021/10/10/faster-time-parsing/)
+## GOCN每日新闻--2021-10-10
+1.使用 goland 进行 go 源码调试【go 是如何判断结构体实现了 interface 的 https://juejin.cn/post/7016875587792797733 
+2.C 和 Go 的指针 https://juejin.cn/post/7016624158687805471
+
+3.详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？ https://juejin.cn/post/7017009226702651406
+
+4.GRPC: 如何让 gRPC 提供 Swagger UI? https://juejin.cn/post/7017396592428711972
+
+5.Golang 无限开启 Goroutine？该如何限定 Goroutine 数量？ https://juejin.cn/post/7017286487502766093
+
+## gopherDaily--2021-10-10
+- 1.Tailscale公司的Go linker优化实战 - https://tailscale.com/blog/go-linker/
+- 2.我应该使用哪个Go router？(附决策流程图) - https://www.alexedwards.net/blog/which-go-router-should-i-use
+- 3.depstat：Kubernetes的go module依赖更新分析器，大型go项目都适用 - https://github.com/kubernetes-sigs/depstat
+- 4.不，我们不使用Kubernetes - https://ably.com/blog/no-we-dont-use-kubernetes
+- 5.使用Kubernetes Go client库中的informer - http://macias.info/entry/202109081800_k8s_informers.md
+- 6.部署到云端的API驱动的应用程序应考虑的安全因素 - https://thenewstack.io/security-considerations-for-api-driven-apps-deployed-to-cloud/
+- 7.Go和GraphQL的碰撞：genqlient的幕后故事 - https://blog.khanacademy.org/where-go-and-graphql-collide-behind-the-curtain-with-genqlient/
+- 8.需要了解的Kubernetes的顶级开源CI/CD工具 - https://cloud.redhat.com/blog/top-open-source-ci/cd-tools-for-kubernetes-to-know
+- 9.我在20年的软件工程师生涯中所学到的20件事 - https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/
+- 10.内部专业知识的价值 - https://danluu.com/in-house/
+- 11.500行代码实现自动泊车 - https://trekhleb.dev/blog/2021/self-parking-car-evolution/
+- 12.像写代码一样写文章 - https://about.sourcegraph.com/blog/dev-tool-time-adam-gordon-bell/
+
+## ISBDaily(20211009)
+
+### News
+1. 发改委：非公有资本不得从事新闻采编播发业务 https://r.coding-space.cn/r/6472
+2. 东亚人类30万年前已向现代人演化 https://r.coding-space.cn/r/6473
+
+### Github Repo
+1. mongo_fdw https://r.coding-space.cn/r/6470 一个PostgreSQL扩展：实现把MongoDB数据导入PostgreSQL
+2. pacman.c https://r.coding-space.cn/r/6471 一个C99版本的pacman实现
+
+### Blog
+1. 网络中队列的使用 https://r.coding-space.cn/r/6469
+
+### Misc
+1. 中国国家气候三十年周期 https://r.coding-space.cn/r/6474
+2. facebook故障通俗解读 https://r.coding-space.cn/r/6475
 
 ## go中文网每日资讯--2021-09-27
 
