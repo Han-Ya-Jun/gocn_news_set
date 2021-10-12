@@ -9,6 +9,113 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-10-11
+
+
+一、Go语言中文网
+
+1. [Go Module：私有不合规库怎么解决引用问题](https://mp.weixin.qq.com/s/sWlTylbW2f1llbz232P2Fw)
+
+2. [Go 每日一库之 termtables](https://mp.weixin.qq.com/s/aJdzytOR1TKuZb-x7f51bw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-10)——[译]更快的时间解析](https://mp.weixin.qq.com/s/tGl91tuXckA8IfDTfZrtnA)
+
+三、HHFCodeRv
+
+1. [硬核 | 图解TCP粘包原理](https://mp.weixin.qq.com/s/bNDAggLYNs6Ofesw2zMpCA)
+
+四、后端研究所
+
+1. [图解|什么是TCP拥塞控制及谷歌的BBR算法](https://mp.weixin.qq.com/s/pmUdUvHgEhZzAhz2EP5Evg)
+
+五、Go招聘
+
+1. [太期待了，终于要发布 1.0 版本了！](https://mp.weixin.qq.com/s/q-ywFinPb5HPiotpPeCZSg)
+
+2. [推荐一个 Go GUI 实战项目](https://mp.weixin.qq.com/s/OOfcv2nctZtuVqaiMz1CuA)
+
+六、微服务实践
+
+1. [多图详解万星 Restful 框架原理与实现](https://mp.weixin.qq.com/s/0cJj_H5kUJjYdz2btBbGWA)
+
+七、CloudNativeCommunity
+
+1. [边缘计算专家成长计划入门 20 篇](https://mp.weixin.qq.com/s/l_khnjlVTiyfJDCtvruOrw)
+
+八、Golang技术分享
+
+1. [几个秒杀 Go 官方库的第三方开源库](https://mp.weixin.qq.com/s/JRsstunuD2UClWb237kPTQ)
+
+九、董泽润的技术笔记
+
+1. [你真的了解 CDC 嘛](https://mp.weixin.qq.com/s/kzRf6zMDfElrN-VKXfo_Cw)
+
+十、脑子进煎鱼了
+
+1. [为什么 Go 语言把类型放在后面？](https://mp.weixin.qq.com/s/t3vEQXg1yfDUz1spRmTieQ)
+
+十一、Go生态
+
+1. [etcd:从应用场景到实现原理的全方位解读](https://mp.weixin.qq.com/s/98YyK9AW4__z-zphoKIf1Q)
+
+
+## GOCN每日新闻--2021-10-11
+
+1.[译] 更快的时间解析 https://colobu.com/2021/10/10/faster-time-parsing/
+
+2.Go1.17.2 发布暨 WebAssembly 入门教程。https://mp.weixin.qq.com/s/9JNyhwZ6Ki8vXdhFBjna_g
+
+3.Go 学习笔记-Go 编译器简介 https://segmentfault.com/a/1190000040792073
+
+4.源码分析 go channel 以及相关的操作 https://juejin.cn/post/7017723784002175006
+
+5.ORM 还是 非 ORM？https://mp.weixin.qq.com/s/IJ4oxnG0HekI_5jXHqzEhg
+
+
+## gopherDaily--2021-10-11
+1.Go是一门了不起的语言 - https://debugged.it/blog/go-is-awesome/
+
+2.Go的错误处理只是增加了噪音–是真的吗？ - https://appliedgo.com/blog/go-error-handling-noise
+
+3.parca: 持续性能剖析工具 - https://www.parca.dev/
+
+4.如何在Go中调度一个特定时间的任务 - https://stephenafamo.com/blog/posts/how-to-schedule-task-at-specific-time-in-go
+
+5.强制更改Go标准库的实现 - https://colobu.com/2021/10/06/replace-implementations-in-go-std-libs-at-runtime/
+
+6.Go模式：重试 - https://debugged.it/blog/go-patterns-retries/
+
+7.解读SSH隧道 - https://goteleport.com/blog/ssh-tunneling-explained/
+
+8.tile38: 实时地理空间和地理围栏数据库 - https://github.com/tidwall/tile38
+
+9.为什么考虑托管型(managed)Kubernetes是有意义的？ - https://www.weave.works/blog/managed-kubernetes
+
+10.处于十字路口的DevOps：软件交付的未来 - https://thenewstack.io/devops-at-the-crossroads-the-future-of-software-delivery/
+
+11.在苹果Mac M1笔记本电脑上使用虚拟机从头开始学习Linux - https://philsyme.github.io/lfs-tw/
+
+## ISBDaily(20211011)
+
+### News
+1. 因为罚的少美团大幅高开5.47% https://r.coding-space.cn/r/6485
+2. 法国运营商：华为是最好的 https://r.coding-space.cn/r/6486
+
+### Github Repo
+1. genqlient https://r.coding-space.cn/r/6483 一个类型安全的GraphQLGo语言客户端
+2. billboard.js https://r.coding-space.cn/r/6484 一个基于D3.js实现的二维图绘制库
+
+### Blog
+1. 如何训练大规模神经网络 https://r.coding-space.cn/r/6482
+
+### Misc
+1. 核反应在恒星演化中的作用 https://r.coding-space.cn/r/6487
+
+
+
+
 ## go中文网每日资讯--2021-10-10
 一、Go语言中文网
 
