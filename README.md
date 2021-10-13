@@ -9,6 +9,97 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-10-12
+
+一、Go语言中文网
+
+1. [15 张图带你深入理解浮点数](https://mp.weixin.qq.com/s/DGP4rENdy-N1VyZLS_uV4g)
+
+2. [每日一库之 Ginkgo：一款 BDD 的 Go 语言框架](https://mp.weixin.qq.com/s/hU-c23_7EuSa-BbKCZDxow)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-11)——硬核 | 图解TCP粘包原理](https://mp.weixin.qq.com/s/gmkJ36Ry2SWWzgVEowWx7g)
+
+三、脑子进煎鱼了
+
+1. [Go 五种原子性操作的用法详解](https://mp.weixin.qq.com/s/gLmOz7F_2t5IYtdus5xBRQ)
+
+四、HHFCodeRv
+
+1. [Context是怎么在Go语言中发挥关键作用的](https://mp.weixin.qq.com/s/UJfEzVXe_RjN360dzjkv1Q)
+
+五、polarisxu
+
+1. [Go Fiber 框架系列教程 04：测试应用](https://mp.weixin.qq.com/s/rNUI5se_sWLxWBR-Mm3yDg)
+
+六、董泽润的技术笔记
+
+1. [做业务真的没有技术含量嘛？不想做 crud boy 的可以好好读读](https://mp.weixin.qq.com/s/_ZCSDxLeI1xLy2Y8zWI_gA)
+
+七、k8s技术圈
+
+1. [使用 Zadig 快速接入 Jenkins 工作流](https://mp.weixin.qq.com/s/aVTIfT7OJBmrFuo1QanWmw)
+
+八、奇伢云存储
+
+1. [​云原生 etcd 系列｜Leader 是怎么选举出来的？](https://mp.weixin.qq.com/s/slYxA2Jzs37ZKOD9RFzM8Q)
+
+九、Go编程点滴
+
+1. [Go语言微服务框架 - 8.Gormer迭代-定制专属的ORM代码生成工具](https://mp.weixin.qq.com/s/xwFLiHmC3Nd9e3CuefC00g)
+
+十、Go招聘
+
+1. [网工人的辛酸转Go历程](https://mp.weixin.qq.com/s/GnUcjNF8CIxIGkTnCLXaZw)
+
+
+
+
+## GOCN每日新闻--2021-10-12
+
+1.Go 中的高性能、零分配、动态 JSON 威胁防护 https://github.com/ankur-anand/gojtp
+
+2.golang 从内核到 epoll  https://my.oschina.net/lwl1989/blog/5276867
+
+3.Golang 中的实用 DDD：规范 https://levelup.gitconnected.com/practical-ddd-in-golang-specification-6523d14438e6
+
+4.Linux 下使用 GitLab 的 runner 来自动部署 Go 项目 https://segmentfault.com/a/1190000040796973
+
+5.Golang 的 OpenID 连接客户端库 https://github.com/adhocore/goic
+
+
+## gopherDaily--2021-10-12
+- 1.为什么要使用Go进行你的下一个Go web业务应用的开发 - https://dev.to/amelias26018837/why-go-for-golang-web-development-for-your-next-business-application-1jdk
+- 2.Go是一门糟糕的语言 - https://debugged.it/blog/go-is-terrible/
+- 3.使用Go构建一个gRPC应用 - https://levelup.gitconnected.com/lets-go-and-build-an-application-with-grpc-c5b754400f64
+- 4.eBPF在微服务可观察性方面的应用 - https://speakerdeck.com/rakyll/ebpf-in-microservices-observability-at-ebpf-day
+- 5.eBPF的初学者网络编程指南 - https://static.sched.com/hosted_files/cloudnativeebpfdayna21/ed/Beginners%20guide%20to%20eBPF%20programming%20for%20networking.pdf
+- 6.在Go中定义安全的枚举 - https://threedots.tech/post/safer-enums-in-go/
+- 7.告诉你何为go语言 - https://www.freecodecamp.org/news/what-is-go-programming-language/
+- 8.rancher-desktop: Docker Desktop的替代品 - https://github.com/rancher-sandbox/rancher-desktop
+- 9.基于ANSI输出转换为SVG图片 - https://github.com/wader/ansisvg
+- 10.2021年的网络爬虫的状况 - https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/
+- 11.从头开始学习神经网络 - https://aegeorge42.github.io/
+
+## ISBDaily(20211012)
+
+### News
+1. 量罪虚拟币交易:挖矿有罪 https://r.coding-space.cn/r/6492
+2. 俞敏洪辟谣搞钱视频言论：无中生有 https://r.coding-space.cn/r/6493
+
+### Github Repo
+1. zk2etcd https://r.coding-space.cn/r/6490 一款同步zookeeper数据到etcd的工具
+2. rttr https://r.coding-space.cn/r/6491 一个C++反射库
+
+### Blog
+1. 云上 MySQL 运维8个要点 https://r.coding-space.cn/r/6488
+2. 5G公网专用 https://r.coding-space.cn/r/6489
+
+### Misc
+1. 非洲文明 https://r.coding-space.cn/r/6494
+
+
 ## go中文网每日资讯--2021-10-11
 
 
