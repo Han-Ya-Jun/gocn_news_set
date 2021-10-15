@@ -9,6 +9,47 @@
 
 # gocn_news_set_2021(下)
 
+## GOCN每日新闻--2021-10-14
+
+1.Go 常见错误集锦之切片使用不当会造成内存泄漏的那些场景 https://gocn.vip/topics/17387
+
+2.更快的时间转换 https://philpearl.github.io/post/perf_time/
+
+3.Go 实现高性能负载测试 https://github.com/ddosify/ddosify
+
+4.英文播客- Go 团队是如何运转的 https://changelog.com/gotime/198
+
+5.使用 Go 强行关闭 TCP 连接 https://itnext.io/forcefully-close-tcp-connections-in-golang-e5f5b1b14ce6
+
+
+## gopherDaily--2021-10-14
+- 1.如何使用Go查询Redis中的图数据 - https://developer.redis.com/howtos/redisgraph/using-go/
+- 2.goland新特性前瞻 - https://blog.jetbrains.com/go/2021/10/14/goland-2021-3-eap-4-run-targets-improvements-a-template-for-testify-assertions-accessibility-updates/
+- 3.容器安全最佳实践终极指南 - https://sysdig.com/blog/container-security-best-practices/
+- 4.Go常见框架和外部库的性能表现 - https://faun.pub/golang-frameworks-and-external-libraries-performace-5c0fb2cbfc4a
+- 5.k8s cni插件项目Cilium加入CNCF - https://www.cncf.io/blog/2021/10/13/cilium-joins-cncf-as-an-incubating-project/
+- 6.用inlets、VPC对等和直接上行链路将服务连接到Kubernetes集群 - https://inlets.dev/blog/2021/10/14/kubernetes-peering.html
+- 7.让你的数据库超越单一的Kubernetes集群 - https://thenewstack.io/taking-your-database-beyond-a-single-kubernetes-cluster/
+- 8.隔离命名空间的Kubernetes网络策略 - https://loft.sh/blog/kubernetes-network-policies-for-isolating-namespaces
+- 9.goreleaser支持生成MacOS Universal Binaries  - https://goreleaser.com/customization/universalbinaries/
+
+
+## ISBDaily(20211014)
+
+### News
+1. 加来道雄：SpaceX已经遥遥领先于蓝色起源 https://r.coding-space.cn/r/6505
+2. 赵薇夫妇和民生信托那些事 https://r.coding-space.cn/r/6506
+
+### Github Repo
+1. Troy https://r.coding-space.cn/r/6503 特洛伊-免杀webshell生成工具PLUS，适配冰蝎及蚁剑
+2. woodpecker https://r.coding-space.cn/r/6504 高危漏洞精准检测与深度利用框架
+
+### Blog
+1. App合规大全 https://r.coding-space.cn/r/6502
+
+### Misc
+1. 法国枪支交易 https://r.coding-space.cn/r/6507
+2. 鸟儿飞过珠穆朗玛峰 https://r.coding-space.cn/r/6508
 
 ## go中文网每日资讯--2021-10-13
 
