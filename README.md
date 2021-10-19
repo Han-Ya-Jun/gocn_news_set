@@ -9,6 +9,150 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-10-18
+
+
+一、Go语言中文网
+
+1. [Go Fiber 框架系列教程 03：中间件](https://mp.weixin.qq.com/s/cfBYeRdMRNwWANS8JKl_EQ)
+
+2. [go实现一个简单的文件反序列化器](https://mp.weixin.qq.com/s/MWioUusyzrADRBzX2zkeOw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-17)——Go语言核心编程读书笔记](https://mp.weixin.qq.com/s/CHbwrit_oD_JuCwko0WKEw)
+
+三、无闻是个码痴
+
+1. [高效工作的朴素方法论](https://mp.weixin.qq.com/s/iYscUpC7QxV6Lz7feRiAIg)
+
+四、幽鬼
+
+1. [通过 Gio 构建 Go GUI 程序](https://mp.weixin.qq.com/s/X0QvpHpnS_i4p_JGTxYFVA)
+
+五、k8s技术圈
+
+1. [Alertmanager 高可用安装配置](https://mp.weixin.qq.com/s/RkBfBVQRNpo3r6jiaaYP9Q)
+
+六、微服务实践
+
+1. [你了解微服务的超时传递吗？](https://mp.weixin.qq.com/s/vZlFS7lkKplil5cyHirSmA)
+
+七、脑子进煎鱼了
+
+1. [Go 和 Golang 有什么关系？](https://mp.weixin.qq.com/s/-fiXLhZQ5XChD8GmyCjhoQ)
+
+八、云原生技术爱好者社区
+
+1. [Golang标准库和外部库的性能对比](https://mp.weixin.qq.com/s/ayY8VGPsnv2G1cqNkFph_A)
+
+九、Go招聘
+
+1. [Go 文档注释要改进了：十几年才改一次](https://mp.weixin.qq.com/s/nKn8G6OepcwuYu5DqZG52g)
+
+十、Golang梦工厂
+
+1. [Go业务开发中常用的几个开源库](https://mp.weixin.qq.com/s/tAJg5ALnQy1mDC2z4vlAbw)
+
+
+
+
+
+
+
+## GOCN每日新闻--2021-10-18
+
+1.Tailscale 公司的 Go linker 优化 https://tailscale.com/blog/go-linker/
+
+2.Go 一些外部库的性能测试 https://faun.pub/golang-frameworks-and-external-libraries-performace-5c0fb2cbfc4a
+
+3.BFE Ingress Controller 正式发布！ https://mp.weixin.qq.com/s/7eia0WM9kbEBXKMPSlOT3A
+
+4.Golang 语言极简 HTTP 客户端 GoRequest https://mp.weixin.qq.com/s/vvzu_KDejpQ4rJUsT2wD_A
+
+5.听说，99% 的 Go 程序员都被 defer 坑过 https://mp.weixin.qq.com/s/1T6Z74Wri27Ap8skeJiyWQ
+
+
+## gopherDaily--2021-10-18
+- 1.使用Go打造下一代替代AWS的公有云平台 - https://github.com/m3o/m3o
+- 2.如何在Kubernetes上建立一个零停机时间的应用程序 - https://medium.com/adeo-tech/how-to-build-a-zero-downtime-application-on-kubernetes-9f509fac3eb8
+- 3.播客：通用交付引擎 by docker联合创始人 Solomon Hykes - https://changelog.com/shipit/23
+- 4.做出让人爱不释手的基础软件：可观测性和可交互性 by pingcap - https://mp.weixin.qq.com/s/WEO1y8vg21CXlix8wO28hw
+- 5.时序数据库是如何工作的 - https://www.honeycomb.io/blog/time-series-database/
+- 6.2021年排名Top75编程语言大比较 -  https://www.ishir.com/blog/36749/top-75-programming-languages-in-2021-comparison-and-by-type.htm
+- 7.字节跳动：超复杂调用网下的服务治理新思路 - https://mp.weixin.qq.com/s/qPh40UiPoL2dOfHpkiIaLA
+- 8.帮你找到你需要的git命令 - https://gitexplorer.com/
+- 9.经典旧文：每个软件工程师应该知道的搜索知识 -  https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d
+- 10.在线玩图灵完备测试游戏 - https://turingcomplete.game/
+
+
+## ISBDaily(20211018)
+
+### News
+1. 公安部：赶紧卸载微粒贷APP https://r.coding-space.cn/r/6532
+2. 中国航天站已收到17份申请 https://r.coding-space.cn/r/6533
+
+### Github Repo
+1. sumatrapdf https://r.coding-space.cn/r/6530 一个windows平台PDF,EPUB,MOBI,FB2,CHM,XPS,DjVu文件阅读器
+2. MyTT https://r.coding-space.cn/r/6531 量化工具箱里的瑞士军刀，精炼而高效，它将通达信,同花顺,文华麦语言等指标公式indicators,最简移植到Python中,核心库单个文件，仅百行代码,实现和转换同花顺通达信所有常见指标MACD,RSI,BOLL,ATR,KDJ,CCI,PSY等,全部基于numpy和pandas的函数封装，简洁且高性能，能非常方便的应用在各自股票股市技术分析，股票自动程序化交易,数字货币BTC等量化等领域
+
+### Blog
+1. 时序数据压缩解压技术 https://r.coding-space.cn/r/6529
+
+### Misc
+1. 同济大学《高等数学》 https://r.coding-space.cn/r/6534
+2. 年纪大了不抗冻 https://r.coding-space.cn/r/6535
+
+
+
+
+## go中文网每日资讯--2021-10-18
+
+
+一、Go语言中文网
+
+1. [Go Fiber 框架系列教程 03：中间件](https://mp.weixin.qq.com/s/cfBYeRdMRNwWANS8JKl_EQ)
+
+2. [go实现一个简单的文件反序列化器](https://mp.weixin.qq.com/s/MWioUusyzrADRBzX2zkeOw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-17)——Go语言核心编程读书笔记](https://mp.weixin.qq.com/s/CHbwrit_oD_JuCwko0WKEw)
+
+三、无闻是个码痴
+
+1. [高效工作的朴素方法论](https://mp.weixin.qq.com/s/iYscUpC7QxV6Lz7feRiAIg)
+
+四、幽鬼
+
+1. [通过 Gio 构建 Go GUI 程序](https://mp.weixin.qq.com/s/X0QvpHpnS_i4p_JGTxYFVA)
+
+五、k8s技术圈
+
+1. [Alertmanager 高可用安装配置](https://mp.weixin.qq.com/s/RkBfBVQRNpo3r6jiaaYP9Q)
+
+六、微服务实践
+
+1. [你了解微服务的超时传递吗？](https://mp.weixin.qq.com/s/vZlFS7lkKplil5cyHirSmA)
+
+七、脑子进煎鱼了
+
+1. [Go 和 Golang 有什么关系？](https://mp.weixin.qq.com/s/-fiXLhZQ5XChD8GmyCjhoQ)
+
+八、云原生技术爱好者社区
+
+1. [Golang标准库和外部库的性能对比](https://mp.weixin.qq.com/s/ayY8VGPsnv2G1cqNkFph_A)
+
+九、Go招聘
+
+1. [Go 文档注释要改进了：十几年才改一次](https://mp.weixin.qq.com/s/nKn8G6OepcwuYu5DqZG52g)
+
+十、Golang梦工厂
+
+1. [Go业务开发中常用的几个开源库](https://mp.weixin.qq.com/s/tAJg5ALnQy1mDC2z4vlAbw)
+
+
+
 ## go中文网每日资讯--2021-10-17
 
 
