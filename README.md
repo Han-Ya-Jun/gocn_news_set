@@ -9,6 +9,32 @@
 
 # gocn_news_set_2021(下)
 
+
+
+
+## GOCN每日新闻--2021-10-19
+1.一套优雅的 Go 错误问题解决方案 https://mp.weixin.qq.com/s/RFF2gSikqXiWXIaOxQZsxQ
+
+2.基于 tcpdump 原理手写抓包程序 https://mp.weixin.qq.com/s/8B5sjrufaGWBYgjqvw6GlQ
+
+3.Go 开源说第十七期 分布式事务 DTM https://mp.weixin.qq.com/s/5jAIHaIpO-Dk4F2kJzWQAQ
+
+4.在 GO 中, 你不需要用于文件遍历的开源库 https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations
+
+5.WebAssembly 能够快速执行的原因 https://zhuanlan.zhihu.com/p/422541443
+
+## gopherDaily--2021-10-19
+
+- 1.Go+ 1.0 发布会干货分享 - https://mp.weixin.qq.com/s/pMRAaqChxj_Aw45EnagoUA
+- 2.100秒认识Go语言 - https://www.youtube.com/watch?v=446E-r0rXHI
+- 3.寻找并修复Go中的内存泄漏 - https://dev.to/googlecloud/finding-and-fixing-memory-leaks-in-go-1k1h
+- 4.Mesh VPN是如何工作的？用Go编写我自己的VPN工具来寻找答案 - https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/
+- 5.用100行代码学习Go - https://fireship.io/lessons/learn-go-in-100-lines/
+- 6.在Go中，你不需要一个库来进行文件遍历 - https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations
+- 7.为什么要在Go中使用专用构造函数 - https://web3.coach/golang-why-you-should-use-constructors
+- 8.每个开发者都应避免的Redis反模式 - https://developer.redis.com/howtos/antipatterns/
+- 9.RudderStack提供的数据管道可以轻松地从每个应用程序、网站和SaaS平台收集数据 - https://github.com/rudderlabs/rudder-server
+
 ## go中文网每日资讯--2021-10-18
 
 
@@ -56,7 +82,24 @@
 
 
 
+## ISBDaily(20211019)
 
+### News
+1. 2008年微软高管劝诫盖茨b不要向女员工发不当电邮 https://r.coding-space.cn/r/6541
+2. 去肥增瘦降本提效 https://r.coding-space.cn/r/6542
+
+### Github Repo
+1. parca https://r.coding-space.cn/r/6538 一个性能极好的Go语言CPU/Memoryprofile采集库
+2. System-V https://r.coding-space.cn/r/6539 可在ARM上运行的System-VUNIX内核
+3. WokerLifeMatters https://r.coding-space.cn/r/6540 各大互联网公司作息统计
+
+### Blog
+1. 广告深度预估技术 https://r.coding-space.cn/r/6536
+2. 用数学符号搞黑产 https://r.coding-space.cn/r/6537
+
+### Misc
+1. 印度人吃牛肉 https://r.coding-space.cn/r/6543
+2. 那时的人皮肤真好啊 https://r.coding-space.cn/r/6544
 
 
 
