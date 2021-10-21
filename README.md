@@ -9,6 +9,82 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-10-20
+
+
+一、Go语言中文网
+
+1. [不要写破坏性的 Go 库](https://mp.weixin.qq.com/s/opscI_MMHo1Y7LkYdUcdcQ)
+
+2. [Go 改善开发人员生活质量](https://mp.weixin.qq.com/s/I4pnxUx-JqqsN3DM2Yd2Uw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-19)——一套优雅的 Go 错误问题解决方案](https://mp.weixin.qq.com/s/pwdbDDi-NGs9eVotgIuASw)
+
+三、幽鬼
+
+1. [定位并修复 Go 中的内存泄露](https://mp.weixin.qq.com/s/zcQxmqN0LT9L0qQsp2nypg)
+
+四、k8s技术圈
+
+1. [k8s开启临时容器进行debug](https://mp.weixin.qq.com/s/4CV_-ixYoCV7MhNpgYyzpA)
+
+五、脑子进煎鱼了
+
+1. [Go 语言设计失误，缺乏远见？](https://mp.weixin.qq.com/s/oJTs6LQZValdRb0zWnxXbw)
+
+2. [连接一个 IP 不存在的主机时，握手过程是怎样的？](https://mp.weixin.qq.com/s/BSU9j-TIpfFkHlZRLhLoYA)
+
+六、HHFCodeRv
+
+1. [gin 源码阅读(5) - 灵活的返回值处理](https://mp.weixin.qq.com/s/lE83EZ7eztjEWd_NU796YQ)
+
+七、码农桃花源
+
+1. [搞定系统设计 01：从 0 到百万用户的系统](https://mp.weixin.qq.com/s/43jtcyw34InZWm98-2-0Vg)
+
+八、polarisxu
+
+1. [告别 Go 的 CRUD，步入架构设计：好书送 5 本](https://mp.weixin.qq.com/s/mWidlZN8Bm94ySMI9vUMAQ)
+
+九、Go招聘
+
+1. [Go招聘网站上线啦！！！](https://mp.weixin.qq.com/s/tV7njwIpejJJM0VvvZJY0Q)
+
+
+## GOCN每日新闻--2021-10-20
+
+1.Golang 实现的中以隐私为重点的开源客户数据平台 https://github.com/rudderlabs/rudder-server
+
+2.Golang 中你不需要用于文件遍历的库 https://engineering.kablamo.com.au/posts/2021/quick-comparison-between-go-file-walk-implementations
+
+3.为什么你应该在 Go 中使用专用的构造函数 https://web3.coach/golang-why-you-should-use-constructors
+
+4.高性能 Redis-Server 多线程框架，基于 rawepoll 模型 https://github.com/IceFireDB/redhub
+
+5.Go 在 flow 中的开发 https://susamn.medium.com/be-in-the-flow-with-idiomatic-go-development-58058326bffe
+
+
+## ISBDaily(20211020)
+
+### News
+1. 马斯克有望凭SpaceX成首位万亿美元富豪 https://r.coding-space.cn/r/6550
+2. 小米汽车变更为台港澳法人独资 https://r.coding-space.cn/r/6551
+3. 通过大脑植入电极技术西班牙一名盲人成功识别形状和文字 https://r.coding-space.cn/r/6552
+
+### Github Repo
+1. prevent-boss-for-browser https://r.coding-space.cn/r/6547 搜索助手(摸鱼防老板工具)V1.0，一个摸鱼专用的浏览器插件，支持谷歌内核的浏览器（谷歌和edge）
+2. delta-rs https://r.coding-space.cn/r/6548 一个Rust数据湖库，可以包装成Python和Ruby库
+3. go-critic https://r.coding-space.cn/r/6549 又一个Go代码格式化工具库
+
+### Blog
+1. Oracle等保测评 https://r.coding-space.cn/r/6545
+2. GCC下使用O3编译的冒泡排序竟然比O2慢 https://r.coding-space.cn/r/6546
+
+### Misc
+1. 中国产品出海启示录 https://r.coding-space.cn/r/6553
+
 
 
 
