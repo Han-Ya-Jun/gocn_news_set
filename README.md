@@ -9,6 +9,70 @@
 
 # gocn_news_set_2021(下)
 
+
+
+## go中文网每日资讯--2021-10-24
+
+一、Go语言中文网
+
+1. [太顶了！网页版 VSCode 来了，写 Go 更方便了](https://mp.weixin.qq.com/s/t9YrZreoRLYoNnbhbZpRHQ)
+
+2. [1024 节日快乐！推荐 8 本 Go 中文图书](https://mp.weixin.qq.com/s/qpHQNFBQT_-cm9sbtUYrOg)
+
+3. [Go - 基于逃逸分析来提升程序性能](https://mp.weixin.qq.com/s/exQy5I7RQBVADFNe1wcbqw)
+
+二、GoOfficialBlog
+
+1. [云原生应用发布组件 Triton 支持 Helm 一键安装](https://mp.weixin.qq.com/s/QAp_EcOb_3eSfWMH-g-rlQ)
+
+三、章老师说
+
+1. [《软件开发的201个原则》(中译本)出版了](https://mp.weixin.qq.com/s/VQi2LjRYQyVHkz-yABWd2Q)
+
+四、腾讯云监控
+
+1. [新部署的服务 go_cpu 占满如何处理？](https://mp.weixin.qq.com/s/343ImRi82NCoLzDWm0iuwg)
+
+五、Kubernetes生态圈
+
+1. [Kubernetes 集群要崩溃了，关键时刻体现运维力](https://mp.weixin.qq.com/s/5ye8fV8SGPCgQ4Djsh6MoQ)
+
+六、章老师说
+
+1. [做一名真正的软件工程师](https://mp.weixin.qq.com/s/_YsFab4yuaNkDMVc_55qwQ)
+ 
+## gopherDaily--2021-10-24
+
+- 1.用Go解析和显示时间 - https://go-recipes.dev/parsing-and-displaying-time-with-go-a8ee85e23fff
+- 2.使用StoryBook与Go服务器端渲染构建UI组件 - https://adrianhesketh.com/2021/10/23/using-storybook-with-go-frontends/
+- 3.我养成的快速+高效编程的习惯 - https://cprimozic.net/blog/programming-speed-strategies/
+- 4.LFU(Least Frequently Used)缓存的Go实现 - https://acho.arnold.cm/lfu-cache-go/
+- 5.一个用Go编写的支持多个交易所的加密货币交易机器人和框架 - https://github.com/thrasher-corp/gocryptotrader
+- 6.为Java程序员设计的Go语言教程 - https://www.oreilly.com/library/view/go-for-java/9781484271995/
+- 7.一个模拟网络和系统条件的TCP代理，用于混沌和弹性测试 - https://github.com/Shopify/toxiproxy
+- 8.Arm架构是云计算的未来吗？ - https://thenewstack.io/is-arm-architecture-the-future-of-cloud-computing/
+- 9.LeetCode算法的Go参考实现 - https://github.com/aQuaYi/LeetCode-in-Go
+- 10.Kubernetes如何简化我们的云和开发平台的 - https://thenewstack.io/how-kubernetes-simplified-our-cloud-and-development-platform/
+
+
+## ISBDaily(20211023)
+
+### News
+1. 印度版蚂蚁Paytm将要IPO https://r.coding-space.cn/r/6574
+2. 字节游戏部门面临整体裁员 https://r.coding-space.cn/r/6575
+
+### Github Repo
+1. kafka-ui https://r.coding-space.cn/r/6572 一个有Web界面的kafka管理系统
+2. wal https://r.coding-space.cn/r/6573 一个Go语言WAL实现
+
+### Blog
+1. 超算网络演变：从TCP到RDMA https://r.coding-space.cn/r/6571
+
+### Misc
+1. 大神卡马克为Oculus搞了一个新OS https://r.coding-space.cn/r/6576
+2. 做事的八个建议 https://r.coding-space.cn/r/6577
+
+
 ## go中文网每日资讯--2021-10-20
 
 
