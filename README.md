@@ -11,6 +11,86 @@
 
 
 
+
+## go中文网每日资讯--2021-10-25
+
+
+一、Go语言中文网
+
+1. [定位并修复 Go 中的内存泄露](https://mp.weixin.qq.com/s/NEsoMtHElJwQ-n2CIH-Ogg)
+
+2. [Go 每日一库之 net/http（基础和中间件）](https://mp.weixin.qq.com/s/vlwX48Z6JBj6A8g7r-9dgA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-10-24)——做一名真正的软件工程师](https://mp.weixin.qq.com/s/h_VLJoK1NFbKcFV8CONCHg)
+
+三、脑子进煎鱼了
+
+1. [出泛型后 API 怎么办？Go 开发者要注意了](https://mp.weixin.qq.com/s/yWEM2EAwv80ZUFjbKGtpNA)
+
+2. [Go 看源码必会知识之 unsafe 包](https://mp.weixin.qq.com/s/wdFdPv3Bdnhy5pc8KL6w6w)
+
+四、码农桃花源
+
+1. [曹大：我的快速阅读法](https://mp.weixin.qq.com/s/Xv1qH_L4eQ0_e5PguLbmsQ)
+
+五、微服务实践
+
+1. [go-zero 实战之 blog 系统](https://mp.weixin.qq.com/s/XCm5xTx6dLR3uJFKEFx6Mw)
+
+六、CloudNativeCommunity
+
+1. [云原生社区 meetup 第八期上海站回顾及资料分享](https://mp.weixin.qq.com/s/oaab8fXED28YBoRni71buA)
+
+七、k8s技术圈
+
+1. [使用 Node Exporter 监控 Linux 主机(2)](https://mp.weixin.qq.com/s/FVAop1I8uGCH6lic-Ouyqw)
+
+八、新亮笔记
+
+1. [Go - 使用 sync.Map 来解决 map 的并发操作问题](https://mp.weixin.qq.com/s/WOuzCJWeuH41qoUP4_zRQA)
+
+九、Go招聘
+
+1. [你应该如何去选择Go router？](https://mp.weixin.qq.com/s/RnRkS8stazKlMN6aFAdtwA)
+ 
+ 
+ 
+## gopherDaily--2021-10-25
+- 1.要学习一种新的语言，请阅读其标准库 - http://patshaughnessy.net/2021/10/23/to-learn-a-new-language-read-its-standard-library
+- 2.Whatsapp是如何在只有50名工程师的情况下将用户规模扩大到10亿？- https://www.quastor.org/p/how-whatsapp-scaled-to-1-billion
+- 3.实用SOLID: 单一责任原则 - https://levelup.gitconnected.com/practical-solid-in-golang-single-responsibility-principle-20afb8643483
+- 4.go-zero实战之blog系统 - https://mp.weixin.qq.com/s/XCm5xTx6dLR3uJFKEFx6Mw
+- 5.在azure上使用Go构建无服务应用 - https://docs.microsoft.com/en-us/learn/modules/serverless-go/
+- 6.使用Go开发创建一个kube-scheduler插件 - https://medium.com/@juliorenner123/k8s-creating-a-kube-scheduler-plugin-8a826c486a1
+- 7.基于Prometheus、InfluxDB与Grafana打造监控平台 - http://dockone.io/article/2434515
+- 8.高可用Redis服务架构分析与搭建 - https://mp.weixin.qq.com/s/cqD7vrexNAK-ru00RRqC5g
+- 9.无模式、面向文档的流式数据库，为实时监测网络流量而优化 - https://github.com/up9inc/basenine
+- 10.代码搜索的未来 - https://changelog.com/founderstalk/81
+
+
+
+## ISBDaily(20211025)
+
+### News
+1. 周鸿祎：互联网大佬编程水平，我应该可以排到前三名 https://r.coding-space.cn/r/6588
+
+### Github Repo
+1. thdwb https://r.coding-space.cn/r/6585 一个Go语言实现的浏览器客户端
+2. bpftrace https://r.coding-space.cn/r/6586 一个linux平台eBPFtracing库
+3. grpcui https://r.coding-space.cn/r/6587 一个gRPC调试库，可与Postman配合使用
+
+### Blog
+1. Go泛型再简化 https://r.coding-space.cn/r/6583
+2. 红队实战攻防技术 https://r.coding-space.cn/r/6584
+
+### Misc
+1. 科研 https://r.coding-space.cn/r/6589
+2. 黄复生先生 https://r.coding-space.cn/r/6590
+
+
+
 ## go中文网每日资讯--2021-10-24
 
 一、Go语言中文网
