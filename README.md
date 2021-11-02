@@ -9,6 +9,99 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-11-01
+
+
+一、Go语言中文网
+
+1. [Go 官方 2021 年 Go 开发者调查开始](https://mp.weixin.qq.com/s/8MeOaRsLDtJ72jURIZbJrQ)
+
+2. [彻底搞懂channel原理(一)](https://mp.weixin.qq.com/s/3rFRc0t_adwxx5dpPrvRNA)
+
+二、脑子进煎鱼了
+
+1. [回归现实：Go Leader 对 1.18 泛型的期望](https://mp.weixin.qq.com/s/Vde8Y6_BcTy7VRfg5VxJdQ)
+
+三、k8s技术圈
+
+1. [你分库分表的姿势对么？——详谈水平分库分表](https://mp.weixin.qq.com/s/vqYRUEPnzFHExo4Ly7DPWw)
+
+四、polarisxu
+
+1. [Go：如何获得项目根目录？](https://mp.weixin.qq.com/s/NJwOfaOT80uFyDh5G0ILjQ)
+
+五、腾讯技术工程
+
+1. [微信终端自研 C++协程框架的设计与实现](https://mp.weixin.qq.com/s/TNkvze6YtdTaLtwUDHfwHg)
+
+2. [高并发系统建设经验总结](https://mp.weixin.qq.com/s/TTn3YNwKKWn5IS8F6HJHIg)
+
+六、幽鬼
+
+1. [25秒读取16GB文件，Go怎么做到的？](https://mp.weixin.qq.com/s/k6k9bwpKPdfShEEiTLSJ7w)
+
+七、Golang技术分享
+
+1. [如何保留 Go 程序崩溃现场](https://mp.weixin.qq.com/s/RktnMydDtOZFwEFLLYzlCA)
+
+八、Golang梦工厂
+
+1. [小白也能看懂的context包详解：从入门到精通](https://mp.weixin.qq.com/s/_5gBIwvtXKJME7AV2W2bqQ)
+
+九、奇伢云存储
+
+1. [云原生 etcd 系列｜快照技术是什么？](https://mp.weixin.qq.com/s/nbuh_iiRw-MoV_LV15Fcaw)
+
+十、Go招聘
+
+1. [Go web和微服务实战教程推荐](https://mp.weixin.qq.com/s/7jzPDm88XDkERwijLwlyKA)
+
+
+## GOCN每日新闻--2021-11-01
+1.实战演示 Go 反射的使用方法和应用场景 https://juejin.cn/post/7025523426060140551
+
+2.Kubernetes 网络方案——炫酷的 Cilium https://zhuanlan.zhihu.com/p/415695076
+
+3.使用 TinyGo 做一个钟 http://vay8.net:8081/binary_clock.md
+
+4.Go 语言服务、请求、响应、错误码设计与实现 https://juejin.cn/post/7025223216473833486
+
+5.TCP Keepalive 与 go-rpc 的 tcp 连接 https://segmentfault.com/a/1190000040885321
+
+
+## gopherDaily--2021-10-31
+- 1.Go语言第一课FAQ - https://tonybai.com/go-course-faq
+- 2.Go实战SOLOD设计原则之开闭原则 - https://levelup.gitconnected.com/practical-solid-in-golang-open-closed-principle-1dd361565452
+- 3.Kubernetes网络方案——炫酷的Cilium - https://zhuanlan.zhihu.com/p/415695076
+- 4.Go与Python哪一个是最好的，为什么？- https://techbiason.com/go-vs-python/
+- 5.在Kubernetes中使用client-go进行leader选举 - https://medium.com/@mayankshah1607/leader-election-in-kubernetes-using-client-go-a19cbe7a9a85
+- 6.使用hashicorp技术栈创建我的个人云 - https://cgamesplay.com/post/2021/10/27/creating-my-personal-cloud-with-hashicorp/
+- 7.使用go把一个slice或数组分割成规定数量的块 - https://pauldigian.hashnode.dev/split-a-slice-or-array-in-a-defined-number-of-chunks-in-golang-but-any-language-really
+- 8.元宇宙与边缘计算 - https://mp.weixin.qq.com/s/scXJb3gW12fb1WtaJ9iPMQ
+- 9.Raspberry Pi Zero 2 W的第一印象 - https://blog.alexellis.io/raspberry-pi-zero-2/
+- 10.github上100个最有价值的机器学习项目 - https://www.theinsaneapp.com/2021/09/best-github-repository-for-machine-learning.html
+- 11.Meta(原脸书)为社交图谱建立的分布式数据仓库 - https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html
+- 12.元宇宙是狗屎 - https://outline.com/DUdr8Y
+
+
+## SBDaily(20211101)
+
+### News
+1. 马斯克：60亿美元无法解决全球饥荒 https://r.coding-space.cn/r/6641
+2. 我国将再造5个天眼 https://r.coding-space.cn/r/6642
+
+### Github Repo
+1. awesome-fenix https://r.coding-space.cn/r/6639 讨论如何构建一套可靠的大型分布式系统
+2. Open-IM-Server https://r.coding-space.cn/r/6640 由前微信技术专家打造的基于Go实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app
+
+### Blog
+1. 反序列化漏洞核心知识 https://r.coding-space.cn/r/6638
+
+### Misc
+1. 京剧之美 https://r.coding-space.cn/r/6643
+2. 薛禹胜先生 https://r.coding-space.cn/r/6644
+
+
 
 ## go中文网每日资讯--2021-10-26
 
