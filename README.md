@@ -9,6 +9,94 @@
 
 # gocn_news_set_2021(下)
 
+
+## go中文网每日资讯--2021-11-03
+
+
+一、Go语言中文网
+
+1. [如何组织 Go 代码？Go 作者的回答惊呆了](https://mp.weixin.qq.com/s/ciAQo0bgjFd3Ktq9ryYecQ)
+
+2. [Go：环境变量知多少？](https://mp.weixin.qq.com/s/T83QgMGrheGdB0_7lwpZ4w)
+
+3. [彻底搞懂channel原理(三)](https://mp.weixin.qq.com/s/P0b6a3F-5yDNgnaiQQVAkA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-11-02)——定位并修复 Go 中的内存泄漏](https://mp.weixin.qq.com/s/55VeP3KGqss_6y8r46GMtg)
+
+三、码农桃花源
+
+1. [使用 golang gopacket 实现进程级流量监控](https://mp.weixin.qq.com/s/ibVM2ruofb397JMT1pts5w)
+
+四、HHFCodeRv
+
+1. [云原生环境下对“多活”架构的思考](https://mp.weixin.qq.com/s/cjTe2SV-ByZgz2hpiTFkzA)
+
+五、Go招聘
+
+1. [Go圈的原创博主推荐](https://mp.weixin.qq.com/s/d_OUJA1bza8Asu4ndTP8tw)
+
+2. [如何有效控制 Go 线程数？](https://mp.weixin.qq.com/s/tkmahKTvzPUrS2tREU_xWA)
+
+六、幽鬼
+
+1. [Go 中常用的四大重构技术](https://mp.weixin.qq.com/s/urdxZlq4nPassPwrQLzN3A)
+
+七、脑子进煎鱼了
+
+1. [你最想 Go 最改进的 TOP3 是什么？](https://mp.weixin.qq.com/s/-JDr6KqsARWUkW9EgdEJIA)
+
+八、MoeLove
+
+1. [K8S 生态周报| Helm 新版本发布增强对 OCI 的支持](https://mp.weixin.qq.com/s/4UXBE0KA2CllREq8ciAAVg)
+
+九、CloudNativeCommunity
+
+1. [多租户场景下 Istio 部署方案探索](https://mp.weixin.qq.com/s/rmf7te7w9JVa2mrCHmdS4g)
+
+十、k8s技术圈
+
+1. [Grafana 图形面板高级定制方法](https://mp.weixin.qq.com/s/4GHAr1gevw6leCYhuNWu4g)
+
+十一、polarisxu
+
+1. [Go1.18 快讯：新增字符串 Clone API](https://mp.weixin.qq.com/s/hYciyIlp0EEoM-TVjydRiA)
+
+
+## GOCN每日新闻--2021-11-03
+
+1.Go 的全功能测试框架断言、模拟、输入测试、输出捕获! https://github.com/MarvinJWendt/testza
+
+2.在 Go 项目中可视化嵌入结构图的工具 https://github.com/davidschlachter/embedded-struct-visualizer
+
+3.Go 实现的快速未使用和重复的依赖项检查器 https://github.com/CryogenicPlanet/depp
+
+4.用于 Neo4j 的 Golang 对象图映射器 https://github.com/mindstand/gogm
+
+5.将 Go 结构体转为 HTML 的编码器 https://github.com/DrGrimshaw/gohtml
+
+## ISBDaily(20211103)
+
+### News
+1. 新冠病毒在日本进化出自杀机制 https://r.coding-space.cn/r/6656
+2. 锂电池之父：锂材料未来十年内或用尽 https://r.coding-space.cn/r/6657
+3. 百度申请metaapp商标 https://r.coding-space.cn/r/6658
+
+### Github Repo
+1. node-packer https://r.coding-space.cn/r/6654 一个node.js可执行文件打包工具：打包成单个文件
+2. kerla https://r.coding-space.cn/r/6655 一个Rust实现的操作系统内核：可执行linuxbin文件
+
+### Blog
+1. 确定性网络 https://r.coding-space.cn/r/6652
+2. 98个常见网络概念 https://r.coding-space.cn/r/6653
+
+### Misc
+1. 塔里木盆地干尸 https://r.coding-space.cn/r/6659
+2. 人类进化 https://r.coding-space.cn/r/6660
+
+
+
 ## go中文网每日资讯--2021-11-02
 
 
