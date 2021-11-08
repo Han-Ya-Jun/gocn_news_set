@@ -10,6 +10,97 @@
 # gocn_news_set_2021(下)
 
 
+## go中文网每日资讯--2021-11-08
+
+
+一、Go语言中文网
+
+1. [Go1.17.3 发布了](https://mp.weixin.qq.com/s/FINDCHU3on5c4Mpby4GTGg)
+
+2. [Go语言爱好者周刊：第 118 期 — 北京下大雪了](https://mp.weixin.qq.com/s/54K1JV8n9rgaxngnhhc-Eg)
+
+3. [Go Web和微服务实战教程推荐](https://mp.weixin.qq.com/s/dbHSsvCAtt2vrfyz0s5eSg)
+
+二、TonyBai
+
+1. [Ian Lance Taylor：Go泛型使用的一般准则](https://mp.weixin.qq.com/s/ur1eiZl4PKbF1PqELAdfKg)
+
+三、Go101
+
+1. [Go 1.18前瞻](https://mp.weixin.qq.com/s/IMmbVBCrcWzb8bCYNL_LqA)
+
+四、Go学堂
+
+1. [Go实战 | 让flag支持从文件中读取命令行参数](https://mp.weixin.qq.com/s/t0x5N0ehaPnTTrD0fL6-GQ)
+
+五、幼麟实验室
+
+1. [【漫话GC】我是GC Mark Worker~](https://mp.weixin.qq.com/s/n-4YxL_irIBqd2fxszmDeg)
+
+六、polarisxu
+
+1. [Go1.18 快讯：废弃了这个 API](https://mp.weixin.qq.com/s/HQOobDUQi3p0hZEHp7XcvA)
+
+
+## GOCN每日新闻--2021-11-08
+
+1.Go 泛型使用 https://golangnews.com/stories/4652-video-using-generics-in-go
+
+2.Go 提案 runtime/debug：软内存限制 https://github.com/golang/go/issues/48409
+
+3.Go 使用 SSH 和域套接字进行服务 https://medium.com/@johnsiilver/go-using-ssh-and-domain-sockets-for-serving-3a037e00d5a7
+
+4.在 Go 中对依赖图进行排序 https://kendru.github.io/go/2021/10/26/sorting-a-dependency-graph-in-go/
+
+5.Go 使用 GIS https://www.ardanlabs.com/blog/2021/11/gis-in-go.html
+
+
+
+## gopherDaily--2021-11-08
+
+- 1. Go SOLID实战：里氏替换原则 - https://levelup.gitconnected.com/practical-solid-in-golang-liskov-substitution-principle-e0d2eb9dd39
+
+- 2. k8s上最广泛安装的无服务器层Knative发布1.0版 - https://mp.weixin.qq.com/s/4Q6KysVynMq76tEnmiHDcg
+
+- 3. Go高级技巧--用context.Context和channel使同步代码异步化 - https://pauldigian.hashnode.dev/advanced-go-make-synchronous-code-asynchronous-with-contextcontext-and-channels
+
+- 4. 破解Printf - https://philpearl.github.io/post/anathema/
+
+- 5. 在Go中如果有效组织API选项(option) - https://pthethanh.herokuapp.com/blog/articles/effective-options
+
+- 6. tunny: 一个goroutine池实现 - https://github.com/Jeffail/tunny
+
+- 7. 多语言算法大全 - https://www.algorithm-archive.org/
+
+- 8. Java之父James Gosling：你需要的软件可靠性越高，静态类型语言的帮助就越大 - https://mp.weixin.qq.com/s/zjmtt-PnKj0fIerWHauN3Q
+
+- 9. bombardier: Go实现的http压测工具 - https://github.com/codesenberg/bombardier
+
+- 10. 字节跳动踩过的Clickhouse的那些坑 - https://mp.weixin.qq.com/s/T2FEyGralguI9cQARgDdyg
+
+- 11. GPT-3不再是镇上唯一的游戏了 - https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game
+
+- 12. 游戏引擎的工作原理 - https://www.haroldserrano.com/blog/how-do-i-build-a-game-engine
+
+
+## SBDaily(20211108)
+
+### News
+1. NASA将用一艘宇宙飞船撞击一颗小行星 https://r.coding-space.cn/r/6694
+2. 台积电向美方提交供应链信息 https://r.coding-space.cn/r/6695
+
+### Github Repo
+1. questdb https://r.coding-space.cn/r/6692 一个快速的时序SQL数据库
+2. mandodb https://r.coding-space.cn/r/6693 从零开始实现一个TSDB
+
+### Blog
+1. 图像检索技术 https://r.coding-space.cn/r/6691
+
+### Misc
+1. 丘处机的招生 https://r.coding-space.cn/r/6696
+2. 河北作家谈歌 https://r.coding-space.cn/r/6697
+
+
 ## go中文网每日资讯--2021-11-03
 
 
