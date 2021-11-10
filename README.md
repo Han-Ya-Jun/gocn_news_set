@@ -10,6 +10,90 @@
 # gocn_news_set_2021(下)
 
 
+## go中文网每日资讯--2021-11-09
+
+一、Go语言中文网
+
+1. [Go 中常用的四大重构技术](https://mp.weixin.qq.com/s/8TQlCw4efIZ4c0X0DUuUQA)
+
+2. [Go Gio 实战：煮蛋计时器的实现 04— 布局](https://mp.weixin.qq.com/s/pH0mAnJExq-r9UW0gF3fIg)
+
+二、网管叨bi叨
+
+1. [这几个常用的 Go 官方库，性能居然还不如三方开源库](https://mp.weixin.qq.com/s/b8SnMJIQc4VfWJDGRyCFVg)
+
+三、k8s技术圈
+
+1. [Gitlab CI 在 Kubernetes 中的 Docker 缓存](https://mp.weixin.qq.com/s/rn2xm8YMCW_6JoPljyto9g)
+
+四、Golang梦工厂
+
+1. [为什么 Go 不支持循环引用？](https://mp.weixin.qq.com/s/kbygVLsmQZ_Cem6w8QubLQ)
+
+五、码农桃花源
+
+1. [Go 如何利用 Linux 内核的负载均衡能力？](https://mp.weixin.qq.com/s/yuUJj8w2hfofDoRuVaoYlQ)
+
+六、HHFCodeRv
+
+1. [小白也能看懂的context包详解：从入门到精通](https://mp.weixin.qq.com/s/J6KKC76fCXnbYf5hhdKY0A)
+
+七、架构之家
+
+1. [亿级流量架构之分布式事务解决方案解析](https://mp.weixin.qq.com/s/CJ219p87gmffzefSwC_CIQ)
+
+八、鸟窝
+
+1. [Go并发编程一年回顾(2021)](https://colobu.com/2021/11/09/the-state-of-go-sync-2021/)
+
+九、Go招聘
+
+1. [C轮企业级研发管理工具 | 诚邀 Gopher 加入！职位多多](https://mp.weixin.qq.com/s/IkUmlR7uabSuIRRdyy3-LA)
+
+
+
+## GOCN每日新闻--2021-11-10
+1.『每周译 Go』GO 1.18 中即将出现的功能特性 https://mp.weixin.qq.com/s/_CqUZ9Xqx_G1TeQBBNIkgA
+
+2.kratos 漫游指南 - 配置组件的使用 https://mp.weixin.qq.com/s/fu-ryADWQIdMCxXm8j2UJQ
+
+3.推荐结构体字段的重新排列以获取最佳结构大小的 Go 静态分析器 https://github.com/orijtech/structslop
+
+4.Go 源码里的这些 //go: 指令，你知道吗？ https://mp.weixin.qq.com/s/7OLTcAGlvCEU3OUfpw5BRA
+
+5.破解 Printf https://philpearl.github.io/post/anathema
+
+## gopherDaily--2021-11-09
+- 1.Go 1.18版本新特性前瞻 - https://sebastian-holstein.de/post/2021-11-08-go-1.18-features/
+- 2.在Go中使用dockertest进行集成测试 - https://sergiocarracedo.es/integration-tests-in-golang-with-dockertest/
+- 3.Go中的rune数据类型究竟是什么？ - https://kvs-vishnu23.medium.com/what-exactly-is-a-rune-datatype-in-go-f652093a88eb
+- 4.7种最佳密码学编程语言 - https://www.codecademy.com/resources/blog/programming-languages-for-cryptography/
+- 5.structslop是一个Go的静态分析器，它推荐结构字段的重新排列以提供最大的空间/分配效率 - https://github.com/orijtech/structslop
+- 6.k8s的分布式块存储系统longhorn成为CNCF孵化器项目 - https://www.cncf.io/blog/2021/11/04/longhorn-brings-cloud-native-distributed-storage-to-the-cncf-incubator/
+- 7.kubernetes如何验证自定义资源 - https://danielmangum.com/posts/how-kubernetes-validates-custom-resources/
+- 8.用Go判断IP距离你是否很近 - https://github.com/circa10a/go-geofence
+- 9.github支持markdown文件的目录功能 - https://github.blog/changelog/2021-04-13-table-of-contents-support-in-markdown-files/
+- 10.用Cosign进行无钥匙签名和验证你的容器镜像 -  https://www.appvia.io/blog/tutorial-keyless-sign-and-verify-your-container-images
+
+## ISBDaily(20211109)
+
+### News
+1. 东芝正考虑拆成三家公司 https://r.coding-space.cn/r/6702
+2. 史玉柱：元宇宙有些基础问题需要解决 https://r.coding-space.cn/r/6703
+
+### Github Repo
+1. gitops-engine https://r.coding-space.cn/r/6700 一个GitOps引擎
+2. quickemu https://r.coding-space.cn/r/6701 一个可以快速启动Windows/macOS/Linux的虚拟机脚本
+
+### Blog
+1. 音视频质量检测 https://r.coding-space.cn/r/6698
+2. IBM《2021云安全威胁态势报告》 https://r.coding-space.cn/r/6699
+
+### Misc
+1. 保加利亚二战老兵IliaDeleff https://r.coding-space.cn/r/6704
+2. 一战以及当时的世界秩序 https://r.coding-space.cn/r/6705
+
+
 ## go中文网每日资讯--2021-11-08
 
 
