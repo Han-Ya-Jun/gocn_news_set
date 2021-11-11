@@ -9,6 +9,86 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-11-10
+
+
+一、Go语言中文网
+
+1. [Go 中优化字符串的比较操作](https://mp.weixin.qq.com/s/oR7KbNPISkl_-lKStrn-Nw)
+
+2. [Go 每日一库之 goth](https://mp.weixin.qq.com/s/ghw6Vr8AGXKMos9QfT_Fjg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-11-09)——Go并发编程一年回顾](https://mp.weixin.qq.com/s/Z8uESa7mYmLnZ0NOcKdEPA)
+
+三、脑子进煎鱼了
+
+1. [Go 源码里的这些 //go: 指令，你知道吗？](https://mp.weixin.qq.com/s/7OLTcAGlvCEU3OUfpw5BRA)
+
+2. [聊一聊 Go 中面向包的设计](https://mp.weixin.qq.com/s/pN9Ae4692VBLfrvKgsKL8g)
+
+四、Go招聘
+
+1. [Go：如何获得项目根目录？](https://mp.weixin.qq.com/s/tKFlm2K6_zBELOL-I6m5Qw)
+
+五、Golang梦工厂
+
+1. [如何有效控制 Go 线程数？](https://mp.weixin.qq.com/s/kA6CQY0ZIey_J9WFV1cXkg)
+
+六、Golang技术分享
+
+1. [应该如何去选择 Go router？](https://mp.weixin.qq.com/s/OoZRkIVVK9Yz63NMYJ34tw)
+
+七、polarisxu
+
+1. [历史上的今天：Go 语言以开源方式向全球发布](https://mp.weixin.qq.com/s/v0kI9eLvR6RNl_cES8xq-w)
+
+八、CloudNativeCommunity
+
+1. [小红书服务网格大规模落地实践分享直播回顾](https://mp.weixin.qq.com/s/aZlM4tyTj6bRUUWvU7G8Xg)
+
+九、腾讯大讲堂
+
+1. [如何从0到1实践DDD](https://mp.weixin.qq.com/s/rb929NWJ-Dnh5wOuLoUnug)
+
+十、阿里技术
+
+1. [一种命令行解析的新思路（Go 语言描述）](https://mp.weixin.qq.com/s/RxpcqBGhUT-5z4N5kRXvBg)
+
+
+
+## GOCN每日新闻--2021-11-10
+1.『每周译 Go』GO 1.18 中即将出现的功能特性 https://mp.weixin.qq.com/s/_CqUZ9Xqx_G1TeQBBNIkgA
+
+2.kratos 漫游指南 - 配置组件的使用 https://mp.weixin.qq.com/s/fu-ryADWQIdMCxXm8j2UJQ
+
+3.推荐结构体字段的重新排列以获取最佳结构大小的 Go 静态分析器 https://github.com/orijtech/structslop
+
+4.Go 源码里的这些 //go: 指令，你知道吗？ https://mp.weixin.qq.com/s/7OLTcAGlvCEU3OUfpw5BRA
+
+5.破解 Printf https://philpearl.github.io/post/anathema
+
+
+## ISBDaily(20211110)
+
+### News
+1. 明天是陀思妥耶夫斯基诞辰200年 https://r.coding-space.cn/r/6709
+2. 餐饮机器人正在风口 https://r.coding-space.cn/r/6710
+
+### Github Repo
+1. Go https://r.coding-space.cn/r/6707 Go算法集合
+2. high-performance-go https://r.coding-space.cn/r/6708 Go语言高性能编程，Go语言陷阱
+
+### Blog
+1. Go并发编程一年回顾 https://r.coding-space.cn/r/6706
+
+
+### Misc
+1. 陀思妥耶夫斯基主要作品 https://r.coding-space.cn/r/6711
+2. 张忠谋讲台积电 https://r.coding-space.cn/r/6712
+3. 过程管理与结果导向 https://r.coding-space.cn/r/6713
+
 
 ## go中文网每日资讯--2021-11-09
 
