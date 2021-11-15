@@ -9,6 +9,84 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-11-14
+一、Go语言中文网
+
+1. [一定记住，Go 中不要犯这 5 个错误](https://mp.weixin.qq.com/s/ZJvGqPYbudzjd8KcAozA_A)
+
+2. [Go语言爱好者周刊：第 119 期](https://mp.weixin.qq.com/s/mABmXu856cm14dBgHoUaiA)
+
+3. [Go 每日一库之 testify](https://mp.weixin.qq.com/s/P4Bt7I3_Zlsbzy4eNyp3GA)
+
+4. [Go1.18 泛型约束语法变了，可通过新 playground 验证](https://mp.weixin.qq.com/s/OmvL7K8jovlzrX4N5TiNJA)
+
+5. [Go 官方发文庆祝开源 12 周年](https://mp.weixin.qq.com/s/c07iSqsBdyRGN5RgNkWhng)
+
+6. [Go 每日一库之 testing](https://mp.weixin.qq.com/s/vmGxg9KbyaQsjWjj9czoGg)
+
+二、polarisxu
+
+1. [go generate 完全指南](https://mp.weixin.qq.com/s/yUvRe9i3RuQpipFF_i4aRQ)
+
+三、网管叨bi叨
+
+1. [会动的图解！GMP模型里为什么要有P？背后的原因让人暖心](https://mp.weixin.qq.com/s/idU0Rb1_a9-PLfX2b_M1JA)
+
+四、腾讯技术工程
+
+1. [从 RPC 到服务化框架设计](https://mp.weixin.qq.com/s/-T6X-qxjNNonaMJ4hjF3gQ)
+
+五、幼麟实验室
+
+1. [图文汇总（一）](https://mp.weixin.qq.com/s/az1yie-7knF2TgTaM-jxlA)
+
+
+
+## GOCN每日新闻--2021-11-14
+1.Go 1.18 新特性前瞻：Go 工作区模式 https://tonybai.com/2021/11/12/go-workspace-mode-in-go-1-18/
+
+2.datree: 通过规则验证阻止 K8s 错误配置到达生产环境 https://www.datree.io/
+
+3.使用 Go 和 Pulumi 在 AWS 上实践基础设施即代码 https://dev.to/aws-builders/infrastructure-as-code-on-aws-using-go-and-pulumi-gn5
+
+4.LuaHelper: Go 实现的 Lua LSP https://github.com/Tencent/LuaHelper
+
+5.Go tip 版本的 Playground https://gotipplay.golang.org/
+
+
+## gopherDaily--2021-11-14
+- 1.Go并发编程一年回顾(2021) - https://colobu.com/2021/11/09/the-state-of-go-sync-2021/
+- 2.可维护的Go工程 - https://huseyinbabal.com/2021/11/14/maintainable-go-projects/
+- 3.Go给所有程序员带来的5点启示 - https://levelup.gitconnected.com/5-lessons-that-golang-teaches-to-all-programmers-71b332504cf2
+- 4.详解Go context.Context - https://pauldigian.hashnode.dev/golang-and-context-an-explanation
+- 5.Go项目迁移：从 GOPATH 到 go mod - https://mp.weixin.qq.com/s/yk6iXZo_1jfG2LaCerXYXw
+- 6.《分布式系统模式》中文版来了 - https://mp.weixin.qq.com/s/sVMoIcQC9sLC9G7yHP41TQ
+- 7.Go播客：使用Go进行黑客活动 - https://changelog.com/gotime/205
+- 8.无框架编写go web应用教程 - https://github.com/thewhitetulip/web-dev-golang-anti-textbook
+- 9.2021年GoLand IDE插件排行榜11强 - https://www.tabnine.com/blog/top-11-goland-ide-plugins-for-2022/
+- 10.也许是时候停止推荐《clean code》了 - https://qntm.org/clean
+
+## ISBDaily(20211114)
+
+### News
+1. FBI服务器被黑客攻击 https://r.coding-space.cn/r/6739
+2. 我无人潜水器和有人潜水器双双同时潜入马里亚纳海沟 https://r.coding-space.cn/r/6740
+3. 北京证券交易所门牌今日正式吊装 https://r.coding-space.cn/r/6741
+
+### Github Repo
+1. free-font https://r.coding-space.cn/r/6737 2020年最全的免费可商用字体
+2. GenshinPlayerQuery https://r.coding-space.cn/r/6738 游戏机器人探测系统，识破云玩家
+
+### Blog
+1. 如何写好一份“漏洞报告” https://r.coding-space.cn/r/6736
+
+### Misc
+1. 我们的先人如何上班 https://r.coding-space.cn/r/6742
+2. 一种全新的化学吸附模式 https://r.coding-space.cn/r/6743
+
+
+
+
 ## go中文网每日资讯--2021-11-10
 
 
