@@ -9,6 +9,106 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-11-15
+
+
+一、Go语言中文网
+
+1. [为什么说 Go 是 DevOps 专业人士的第一首选？](https://mp.weixin.qq.com/s/p1S1W37jQfCNzY4XBfI3lA)
+
+2. [gRPC客户端的那些事儿](https://mp.weixin.qq.com/s/9eFtjNMSVxxq2qPPN7aGBA)
+
+二、Go夜读
+
+1. [【深圳】AfterShip 招聘 Go 工程师](https://mp.weixin.qq.com/s/o1lGNUAd98sW_lqNM3BnpQ)
+
+三、脑子进煎鱼了
+
+1. [分享 3 件与 Go 开发者有关的大小事](https://mp.weixin.qq.com/s/22TeQOUjf_glPX3QLPX8yw)
+
+四、GoSpring实战
+
+1. [使用 Go-Spring 构建最小 Web API](https://mp.weixin.qq.com/s/gGLy6GvpjF_eUi8F7ynFQA)
+
+五、网管叨bi叨
+
+1. [学会这几招让 Go 程序自己监控自己](https://mp.weixin.qq.com/s/kASxY9NDYsUpDltO2U3qEw)
+
+六、Golang技术分享
+
+1. [Go 语言类型可比性](https://mp.weixin.qq.com/s/_a5kd6bBMEToCPZNR7D4Pw)
+
+七、Golang梦工厂
+
+1. [Go语言中结构体打Tag是什么意思？](https://mp.weixin.qq.com/s/3sz8oE8nGmba8WECXa0AWg)
+
+八、码农桃花源
+
+1. [Go map[int64]int64 写入 redis 占用多少内存](https://mp.weixin.qq.com/s/TwtweAh_tcU8kjdWwZrDKA)
+
+九、Go招聘
+
+1. [一个Go方法，五种变换](https://mp.weixin.qq.com/s/4P1jRbvCH8NTyNFROrZGmQ)
+
+十、奇伢云存储
+
+1. [云原生 etcd 系列｜用“租约”给 key 加一个期限！](https://mp.weixin.qq.com/s/dWmzNhBxtd6MtBepqSGsfg)
+
+十一、腾讯技术工程
+
+1. [开源监控系统 Prometheus 最佳实践](https://mp.weixin.qq.com/s/SzWUe4GNlkauLa4gGGQUng)
+
+
+## GOCN每日新闻--2021-11-15
+1.使用 golang gopacket 实现进程级流量监控 https://mp.weixin.qq.com/s/qEAG4G-wa40iAeUq9NyzaA
+
+2.Go 1.18 支持 amd64 作为架构目标 https://utcc.utoronto.ca/~cks/space/blog/programming/GoAmd64ArchitectureLevels
+
+3.NS 上使用 Go 开发游戏 https://docs.google.com/presentation/d/e/2PACX-1vTMRSmuWjhpOx3DIgetfi72jcOGvlqPU5z0Nps24YN6dxaBbu4dWm0FXS2f--D4G2b1aAvTmfqNA2IG/pub
+
+4.如何维护 Go 项目 https://huseyinbabal.com/2021/11/14/maintainable-go-projects/
+
+5.Go 实现 k-d 树 https://github.com/downflux/go-kd
+
+
+## gopherDaily--2021-11-15
+1.用Go为任天堂Switch开发游戏 - https://docs.google.com/presentation/d/e/2PACX-1vTMRSmuWjhpOx3DIgetfi72jcOGvlqPU5z0Nps24YN6dxaBbu4dWm0FXS2f--D4G2b1aAvTmfqNA2IG/
+
+2.自下而上学习容器：掌握容器基础知识的高效学习途径 - https://iximiuz.com/en/posts/container-learning-path/
+
+3.万字长文带你全面认识 Kubernetes 中如何实现蓝绿部署、金丝雀发布和滚动更新 - https://mp.weixin.qq.com/s/6Ko9tqSoyLYElw0TmF5zOw
+
+4.面向数据的架构 - https://blog.eyas.sh/2020/03/data-oriented-architecture/
+
+5.在Go中测试shell命令 - https://blog.sergeyev.info/golang-shell-commands/
+
+6.在静态生成的网站上使用Cloudflare worker的OAuth - https://abyteofcoding.com/blog/oauth-with-cloudflare-workers-on-a-statically-generated-site/
+
+7.Go中的服务器发送事件 - https://toretto460.github.io/posts/sse/
+
+8.用Semgrep发现goroutine的泄漏 - https://blog.trailofbits.com/2021/11/08/discovering-goroutine-leaks-with-semgrep/
+
+## ISBDaily(20211115)
+
+### News
+1. 传英国将调查英伟达收购Arm交易 https://r.coding-space.cn/r/6747
+2. 蚂蚁AI首席科学家漆远入职复旦大学 https://r.coding-space.cn/r/6748
+
+### Github Repo
+1. C-interpreter https://r.coding-space.cn/r/6745 一个C语言解释器实现
+2. wg-meshconf https://r.coding-space.cn/r/6746 WireGuard团队出品的一个网络mesh动态配置系统
+
+### Blog
+1. 一次授权引起全域名沦陷 https://r.coding-space.cn/r/6744
+
+### Misc
+1. 辽南石棚 https://r.coding-space.cn/r/6749
+2. 阿尔泰语系与辽河 https://r.coding-space.cn/r/6750
+
+
+
+
+
 ## go中文网每日资讯--2021-11-14
 一、Go语言中文网
 
