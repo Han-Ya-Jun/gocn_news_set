@@ -9,6 +9,117 @@
 
 # gocn_news_set_2021(下)
 
+
+## go中文网每日资讯--2021-11-16
+
+
+一、Go语言中文网
+
+1. [mutex 出问题怎么办？强大的 goroutine 诊断工具](https://mp.weixin.qq.com/s/JadUu7odckhNfcXDULoXVA)
+
+2. [在 Go 中对依赖图进行排序](https://mp.weixin.qq.com/s/W3I3j1-Ln2geUNa8q0JfUw)
+
+3. [gRPC服务的响应设计](https://mp.weixin.qq.com/s/iN1mnp0tdEjwpbEzRy3ApA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-11-15)——开源监控系统 Prometheus 最佳实践](https://mp.weixin.qq.com/s/bY3HN7zBQRXfcsYeTXIbNQ)
+
+三、码农桃花源
+
+1. [神奇的 Go init 函数](https://mp.weixin.qq.com/s/gwYzZWYLFVa6vWwWfSoLog)
+
+四、脑子进煎鱼了
+
+1. [命中率极高的 Go 面试题，赶紧收藏！](https://mp.weixin.qq.com/s/7rCsaGy8B2lwbZ4duEC7Nw)
+
+五、polarisxu
+
+1. [劲爆！Java 版 goroutine 要来了，戏称 joroutine](https://mp.weixin.qq.com/s/U-MDXkd-F7gz43cOG-4qgg)
+
+六、网管叨bi叨
+
+1. [国外的老师是怎么教Golang的？](https://mp.weixin.qq.com/s/EMEdwtJkgKU3LTthnajQJw)
+
+七、Go招聘
+
+1. [网络安全领军企业-中台核心部门招聘Gopher](https://mp.weixin.qq.com/s/LSzZl3ThnI5mw_5kK9bsig)
+
+八、微服务实践
+
+1. [一文讲透自适应熔断的原理和实现](https://mp.weixin.qq.com/s/DDtFvFuJ1DMTBW-ViD7XTw)
+ 
+
+## GOCN每日新闻--2021-11-17
+1.一篇文章讲清 Go 的内存布局和分配原理 https://mp.weixin.qq.com/s/gCDxWzslfPXayJ_RFQVb7g
+
+2.全面认识 Kubernetes 中如何实现蓝绿部署、金丝雀发布和滚动更新 https://mp.weixin.qq.com/s/6Ko9tqSoyLYElw0TmF5zOw
+
+3.Go Ballast 让内存控制更加丝滑 https://www.cnblogs.com/457220157-FTD/p/15567442.html 
+4.mutex 诊断 https://mp.weixin.qq.com/s/JadUu7odckhNfcXDULoXVA
+
+5.许式伟：Go+ 1.0 发布 https://juejin.cn/post/7031463181226606606
+
+
+
+## gopherDaily--2021-11-17
+1.Go五种原子操作用法详解 - https://www.readfog.com/a/1647618448450228224
+
+2.怎样选择编程语言 - https://mp.weixin.qq.com/s/MIVrMf3AgW9jI7MVXZAPXw
+
+3.gRPC的错误处理实践 - https://mp.weixin.qq.com/s/3XLmGAlGDHfarbLyQoAh7Q
+
+4.经典设计模式的Go实现 - https://smartscribs.com/tag/design-patterns/
+
+5.文档化gRPC API - 工具比较 - https://blog.gendocu.com/posts/documenting-grpc/
+
+6.在Go中如何实现优雅退出 - https://rudderstack.com/blog/implementing-graceful-shutdown-in-go
+
+7.数据结构和算法（Golang实现）- https://goa.lenggirl.com/
+
+8.Docker安全最佳实践和速查表 - https://blog.gitguardian.com/how-to-improve-your-docker-containers-security-cheat-sheet/
+
+9.计算机科学理论何时变得如此困难？ - http://blog.computationalcomplexity.org/2021/11/when-did-computer-science-theory-get-so.html
+
+10.在Twitter实时处理数十亿的事件 - https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-
+
+## ISBDaily(20211116)
+
+### News
+1. 市场监管总局：社区团购挤压小摊主就业空间 https://r.coding-space.cn/r/6755
+2. Xbox发布20周年 https://r.coding-space.cn/r/6756
+
+### Github Repo
+1. yakit https://r.coding-space.cn/r/6752 gRPC集成化单兵安全能力平台
+2. pwru https://r.coding-space.cn/r/6753 Go语言实现的linux内核网络debug工具
+3. odyssey https://r.coding-space.cn/r/6754 PostgreSQL可扩展连接池实现
+
+### Blog
+1. Nginx渗透 https://r.coding-space.cn/r/6751
+
+### Misc
+1. 王坚的云计算 https://r.coding-space.cn/r/6757
+2. 阿城：很多人在思想上，还不属于现代 https://r.coding-space.cn/r/6758
+
+## SBDaily(20211117)
+
+### News
+1. 走下坡路的微博 https://r.coding-space.cn/r/6762
+2. 虫洞可能是穿越时空的可行捷径 https://r.coding-space.cn/r/6763
+
+### Github Repo
+1. docker-qemu-win2000 https://r.coding-space.cn/r/6760 一个Windows2000SP4操作系统docker镜像
+2. typhon https://r.coding-space.cn/r/6761 Go语言net/http封装包，不再担心忘记调用body.Close()
+
+### Blog
+1. 哈希传递攻击 https://r.coding-space.cn/r/6759
+
+### Misc
+1. 80年代的东北 https://r.coding-space.cn/r/6764
+2. 氨能量利用 https://r.coding-space.cn/r/6765
+
+
+
 ## go中文网每日资讯--2021-11-15
 
 
