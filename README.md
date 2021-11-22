@@ -9,6 +9,107 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-11-21
+
+
+一、Go语言中文网
+
+1. [Go1.18 快讯：废弃了这个 API](https://mp.weixin.qq.com/s/UHKfYNC7c-A40nA4HQQneg)
+
+2. [Go语言爱好者周刊：第 120 期 — 送 Go 图书](https://mp.weixin.qq.com/s/lH8vfCl3Ov0aKzbMXqX_tQ)
+
+3. [使用 Sourcegraph 进行多仓库批量变更](https://mp.weixin.qq.com/s/kJEU9ex6FaVZX_Rm1FaQlw)
+
+二、码农桃花源
+
+1. [一文搞懂一致性hash的原理和实现](https://mp.weixin.qq.com/s/5vSqkgzgnaxVSJuMwyeYNw)
+
+三、分布式实验室
+
+1. [万字长文带你入门Istio](https://mp.weixin.qq.com/s/8zTEaqHwPckYdTvRfmxnMw)
+
+四、脑子进煎鱼了
+
+1. [劲爆！Java 版 goroutine 要来了，戏称 joroutine](https://mp.weixin.qq.com/s/9_FC_MtEe9zbnns3jwN8GA)
+
+五、Golang技术分享
+
+1. [Go 程序是怎样跑起来的](https://mp.weixin.qq.com/s/5vMG67SgRuhwrtJAu0iaDQ)
+
+六、云影原生
+
+1. [Go的profile label能解决什么问题？](https://mp.weixin.qq.com/s/oApnsFSbrr-fG2LvSR_hHA)
+
+七、菜鸟Miao
+
+1. [如何在docker中缓存加速Rust依赖构建](https://mp.weixin.qq.com/s/Sh2-92U4fKS4PUMFCZyMug)
+ 
+
+## GOCN每日新闻--2021-11-21
+1. https://blog.kennycoder.io/2021/09/06/Golang-%E5%B8%B8%E8%A6%8B%E7%9A%84-option-%E8%A8%AD%E8%A8%88%E6%8E%A2%E8%A8%8E/   Golang 中常见的 option 设计探讨
+
+2.https://mp.weixin.qq.com/s/UHKfYNC7c-A40nA4HQQneg   Go1.18 快讯：废弃了这个 API
+
+3.https://mp.weixin.qq.com/s/c3NYmCTf8LbakL5ZS1Fv-g TCP 粘包
+
+4.https://mp.weixin.qq.com/s/YI0DSTeXeVxAZcTRM2NNEw Go BalLast
+
+5.https://mp.weixin.qq.com/s/_a5kd6bBMEToCPZNR7D4Pw Go 语言类型可比性
+
+
+## SBDaily(20211121)
+
+### News
+1. 曹德旺出资100亿建设福耀科技大学 https://r.coding-space.cn/r/6795
+2. 清华启动文科博士论文质量全面审查 https://r.coding-space.cn/r/6796
+3. 公关作秀大王马斯克：支持上班听音乐【潜台词：我是大善人，你们要多买特斯拉，智商税全在里面】 https://r.coding-space.cn/r/6797
+
+### Github Repo
+1. natpass https://r.coding-space.cn/r/6793 新一代NAT内网穿透+shell+vnc工具
+2. trojan https://r.coding-space.cn/r/6794 GFW库，西渣渣实现的静态库，可以被集成使用
+
+### Blog
+1. 美团搜索实践 https://r.coding-space.cn/r/6792
+
+### Misc
+1. 子安宣邦的汉字论 https://r.coding-space.cn/r/6798
+2. 台湾文坛这五年 https://r.coding-space.cn/r/6799
+
+
+
+
+## GOCN每日新闻--2021-11-19
+1.整明白 Golang struct 实例化和赋值 https://segmentfault.com/a/1190000040986113
+
+2.Go 语言必须支持多返回值函数，你知道为什么吗？https://blog.csdn.net/nokiaguy/article/details/121410109
+
+3.Go 的 WASM 运行时 https://ggaaooppeenngg.github.io/zh-CN/2021/10/26/Go%E7%9A%84WASM%E8%BF%90%E8%A1%8C%E6%97%B6
+
+4.不要在 Go HTTP 服务器上犯这个错误 https://ryanc118.medium.com/dont-make-this-mistake-with-go-http-servers-bd313baee41
+
+5.什么是 SRE？与 DevOps 相比，到底谁才是真正的王者！ https://mp.weixin.qq.com/s/dzo9LgIRJI3bfY3Ty8D7rQ
+
+
+
+## gopherDaily--2021-11-19
+1. Istio 1.12 发布 - https://mp.weixin.qq.com/s/Q52IQrXxxHEn2c8rkAVTgA
+
+2. Go 1.18将允许你设置"AMD64"架构的目标版本 - https://utcc.utoronto.ca/~cks/space/blog/programming/GoAmd64ArchitectureLevels
+
+3. Go语言的高性能模式 - https://www.dolthub.com/blog/2021-11-12-golang-perf-patterns/
+
+4. Go 1.18 泛型的一些技巧和困扰 - https://mp.weixin.qq.com/s/aI2sNrrue67kMbTythjQiQ
+
+5. meshery: Go实现的服务网格控制平面 - https://github.com/meshery/meshery
+
+6. 为带有子命令的CLI编写zsh完成功能 - https://www.dolthub.com/blog/2021-11-15-zsh-completions-with-subcommands/
+
+7. 做负载测试时如何少写三倍的Go代码行数 - https://dev.to/tarantool/how-to-write-three-times-fewer-lines-of-code-when-doing-load-testing-9lb
+
+8. 全文搜索引擎技术原理入门 - https://mp.weixin.qq.com/s/X6OyBloNreB7eyqIZN3Rsg
+
+9. 一篇搞懂容器技术的基石： cgroup - https://zhuanlan.zhihu.com/p/434731896
+
 
 ## go中文网每日资讯--2021-11-16
 
