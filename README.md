@@ -9,6 +9,90 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-11-22
+
+一、Go语言中文网
+
+1. [Go: Goroutine 泄漏检查器](https://mp.weixin.qq.com/s/eSa6B1Z1cnpUJ1Vn3bxhUA)
+
+2. [性能优化：Go Ballast 让内存控制更加丝滑](https://mp.weixin.qq.com/s/SlQkv74hXZzZEdUAhTobuw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-11-21)——一文搞懂一致性hash的原理和实现](https://mp.weixin.qq.com/s/3aY2wB-EBxw4E-wnAyAEiQ)
+
+三、码农桃花源
+
+1. [一次流量不均衡问题的排查记录](https://mp.weixin.qq.com/s/Dfw-mQhqxLL_i5NPZdxnUg)
+
+四、k8s技术圈
+
+1. [云原生项目可扩展性的利器 WebAssembly 简介](https://mp.weixin.qq.com/s/fap0bl6GFGi8zN5BFLpkCw)
+
+五、CloudNativeCommunity
+
+1. [无需 Dockerfile 的镜像构建：BuildPack vs Dockerfile](https://mp.weixin.qq.com/s/40soaRJPCOFxjUb8M5FDew)
+
+六、Go招聘
+
+1. [山东这家企业招Gopher，学历要求要火哦](https://mp.weixin.qq.com/s/pGzKIfwZkU6wAH_RkEYWGg)
+
+七、微服务实践
+
+1. [微服务治理之自适应降载](https://mp.weixin.qq.com/s/dt3rfgTHTqWGNYJFaZJ2aA)
+
+八、董泽润的技术笔记
+
+1. [Go error 处理最佳实践](https://mp.weixin.qq.com/s/XojOIIZfKm_wXul9eSU1tQ)
+
+九、MoeLove
+
+1. [Shell 脚本避坑指南（一）](https://mp.weixin.qq.com/s/tGbHRm4--eQYcP45ZXmoPQ)
+
+十、脑子进煎鱼了
+
+1. [泛型是双刃剑？Go1.18 编译会慢近 20%](https://mp.weixin.qq.com/s/m5lkdQ5JhLt5Uwab6NLwLg)
+
+十一、网管叨bi叨
+
+1. [K8s入门教程|这个给集群搞硬装的才是幕后英雄](https://mp.weixin.qq.com/s/-ww9w4Uyy3LJSk7bsF-MyA)
+
+十二、Golang技术分享
+
+1. [新功能！Go 模糊测试](https://mp.weixin.qq.com/s/cKNMtEkJoRZ_lC9yEIocJw)
+
+十三、Golang梦工厂
+
+1. [Go语言如何高效的进行字符串拼接（6种方式进行对比分析）](https://mp.weixin.qq.com/s/TDU_lnxbQmlnGosN4Ss7Tw)
+
+
+## gopherDaily--2021-11-22
+1.调试一个奇怪的"找不到文件"的错误 - https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/
+
+2.AWKGo，一个AWK到Go的编译器 - https://benhoyt.com/writings/awkgo/
+
+3.基于Go 1.18泛型实现的一个简单的result类型 - https://csgrinding.xyz/go-result-1/
+
+4.应用不停机发布的思考与初识 - https://mp.weixin.qq.com/s/dt3rfgTHTqWGNYJFaZJ2aA
+
+5.Go播客：聊聊最终一致性 - https://changelog.com/gotime/206
+
+6.万字长文带你入门Istio - https://mp.weixin.qq.com/s/8zTEaqHwPckYdTvRfmxnMw
+
+7.选择Go API框架时需要考虑的4个问题 - https://dev.to/markphelps/4-things-to-consider-when-choosing-a-go-api-framework-4bei
+
+8.Berkeley DB的历史 - https://queue.acm.org/detail.cfm?id=3501713
+
+9.亚马逊Ion是一种丰富的类型、自我描述、分层的数据序列化格式 - https://amzn.github.io/ion-docs/
+
+10.azure上的Cosmos DB漏洞分析 - https://www.wiz.io/blog/chaosdb-explained-azures-cosmos-db-vulnerability-walkthrough
+
+11.Go语言环保程度达标么？ - https://hackaday.com/2021/11/18/c-is-the-greenest-programming-language/
+
+12.微服务治理之自适应降载 - https://mp.weixin.qq.com/s/dt3rfgTHTqWGNYJFaZJ2aA
+
+
+
 ## go中文网每日资讯--2021-11-21
 
 
