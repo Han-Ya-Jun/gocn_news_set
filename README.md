@@ -9,6 +9,119 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-11-23
+
+
+一、Go语言中文网
+
+1. [Go1.18 快讯：新增的 Cut 函数太方便了](https://mp.weixin.qq.com/s/pZld4h2-9vLo6au355uZUw)
+
+2. [一文了解 etcd watch 实现](https://mp.weixin.qq.com/s/zrv-rI45Ix06PJyMWOu0hA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-11-22)——Go error 处理最佳实践](https://mp.weixin.qq.com/s/sL7MfuqCKgyj51VAcHjJCA)
+
+三、码农桃花源
+
+1. [一行代码搞定 GitHub 访问徽章](https://mp.weixin.qq.com/s/Ixjs-ux1Wk9OmE_rpWMXoA)
+
+四、Go夜读
+
+1. [golang.org 已经成为历史](https://mp.weixin.qq.com/s/lWIZlVoWjYtiSY27vFPrbg)
+
+五、Golang梦工厂
+
+1. [如何保留 Go 程序崩溃现场](https://mp.weixin.qq.com/s/lmLb8kShvhtdgBsPz3DHzQ)
+
+六、脑子进煎鱼了
+
+1. [Go 流水线编程模式](https://mp.weixin.qq.com/s/2HbtRwqQSvtczBTMF3bM0w)
+
+七、网管叨bi叨
+
+1. [几个提升Go业务开发效率的流行框架和开源库](https://mp.weixin.qq.com/s/6G_wUY1nxJp9vwBKQ8_-pA)
+
+2. [localhost 就一定是 localhost 么?](https://mp.weixin.qq.com/s/x0798dbodAxdyUIGYfEBjA)
+
+八、Go招聘
+
+1. [Go语言如何操纵Kafka保证无消息丢失](https://mp.weixin.qq.com/s/r6bIYkyGPt5kXEZHWgLrFw)
+
+## GOCN每日新闻--2021-11-24
+1.「GoCN 酷 Go 推荐」​chromedp 一期 —— 截图小工具 https://mp.weixin.qq.com/s/pxbR9iK5I6-NJZbSHf9Ecg
+
+2.死锁：并发的阴暗面 https://www.craig-wood.com/nick/articles/deadlocks-in-go
+
+3.万字长文：Go error 处理最佳实践 https://mp.weixin.qq.com/s/XdRe_yOiFGI8NiR9eWLEoQ
+
+4.使用 Go 和 PostgreSQL 编写应用程序 https://henvic.dev/posts/go-postgres
+
+5.Go 新语法挺丑？最新的泛型类型约束介绍 https://mp.weixin.qq.com/s/A1JYIbPmjIpCOg2TAzdcnA
+
+
+## GOCN每日新闻--2021-11-23
+
+1.微服务治理之如何优雅应对突发流量洪峰 https://gocn.vip/topics/17498
+
+2.【Golang】基于 beego/orm 实现相同表结构不同表名的分表方法实现  https://www.cnblogs.com/voipman/p/15589974.html#at
+
+3.Golang 中 defer Close() 的潜在风险 https://juejin.cn/post/7033373573473370143
+
+4.Go 错误处理 https://juejin.cn/post/7033314733369327652
+
+5.k8s CNI 之 aws vpc-cni 插件源码解析 https://juejin.cn/post/7033412051879854088
+
+
+
+## gopherDaily--2021-11-24
+1.深入Go基于寄存器的调用规约 - https://menno.io/posts/golang-register-calling/
+
+2.Go 1.18: 你需要知道的事情 - https://betterprogramming.pub/golang-1-18-what-you-need-to-know-a5701f7e14ab
+
+3.基于 gRPC 和 Istio 的无 Sidecar 代理的服务网格 - https://mp.weixin.qq.com/s/aYwo2criOotqNp8lD39QAA
+
+4.ants：在Submit中再调用当前Pool的Submit可能导致阻塞 - https://t.zsxq.com/maUrRNB
+
+5.使用Docker Compose构建一键启动的运行环境 - https://t.zsxq.com/FaYjqV3
+
+6.在我们的Go网络应用程序中建立默认安全的工具 - https://incident.io/blog/safe-by-default
+
+7.基于Go编译器深入研究SSA(静态单一赋值) - https://mattermost.com/blog/diving-into-static-single-assignment-with-the-go-compiler/
+
+8.我从研发数据库产品中学到的42件事 - https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html
+
+9.porto: 自动为包添加vanity import path - https://github.com/jcchavezs/porto
+
+
+
+
+## gopherDaily--2021-11-23
+1.play.golang.org迁移到go.dev/play - https://go.dev/play/
+
+2.死锁：并发的黑暗面 - https://www.craig-wood.com/nick/articles/deadlocks-in-go/
+
+3.groot：用Go读取ROOT数据，比ROOT更快 - https://talks.sbinet.org/2021/2021-11-16-ji-groot/talk.slide#1
+
+4.Go的滑动窗口计数器Redis限速实现 - https://www.jdon.com/57707
+
+5.与Docker兼容的containerd CLI，支持Compose, Rootless, eStargz, OCIcrypt, IPFS等 - https://github.com/containerd/nerdctl
+
+6.在Kubernetes上的Elastic Cloud（ECK）上部署Elasticsearch的详细指南 - https://medium.com/99dotco/a-detail-guide-to-deploying-elasticsearch-on-elastic-cloud-on-
+kubernetes-eck-31808ac60466
+
+7.Go SOLID实战：依赖反转原则 - https://levelup.gitconnected.com/practical-solid-in-golang-dependency-inversion-principle-8cbd4eed484b
+
+8.使用Go和PostgreSQL编写一个应用程序 - https://henvic.dev/posts/go-postgres/
+
+9.无需 Dockerfile 的镜像构建：BuildPack vs Dockerfile - https://mp.weixin.qq.com/s/40soaRJPCOFxjUb8M5FDew
+
+10.使用Open Policy Agent和GitHub action的自动管理文件验证 - https://medium.com/@ravindursr/automated-manifest-file-validation-using-open-policy-agent-and-github-actions-697fa9fd74f0
+
+
+
+
+
 ## go中文网每日资讯--2021-11-22
 
 一、Go语言中文网
