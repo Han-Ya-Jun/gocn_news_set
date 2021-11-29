@@ -9,6 +9,188 @@
 
 # gocn_news_set_2021(下)
 
+
+## go中文网每日资讯--2021-11-27/28
+一、Go语言中文网
+
+1. [用泛型实现 Result 类型处理 error](https://mp.weixin.qq.com/s/VvoQWt_afIGCmckvKhTD3Q)
+
+2. [Go语言爱好者周刊：第 121 期](https://mp.weixin.qq.com/s/uISXENaxaInlOKHkgXC29A)
+
+3. [让flag支持从文件中读取命令行参数](https://mp.weixin.qq.com/s/M_2M_BtVLHmPJLuD41HwIg)
+
+4. [Go：Recover 那些事](https://mp.weixin.qq.com/s/y6bLqjevvqlP3AEjTaztYw)
+
+5. [使用Docker Compose构建一键启动的运行环境](https://mp.weixin.qq.com/s/c9u9T_E4IBll6iyBny09ug)
+
+二、幼麟实验室
+
+1. [【Golang】堆内存分配mallocgc](https://mp.weixin.qq.com/s/SKhy0Xj681rdPlvGlfSMCw)
+
+三、MoeLove
+
+1. [新功能：Prometheus Agent 模式上手体验](https://mp.weixin.qq.com/s/09X5sbrjaj5c6UZ10tddIw)
+
+四、网管叨bi叨
+
+1. [会动的图解 (二) 怎么让goroutine跑一半就退出？](https://mp.weixin.qq.com/s/KBDXzcPLXFovnuY6WSIdoA)
+
+五、Golang技术分享
+
+1. [在你的 Android 手机上运行 Golang 程序](https://mp.weixin.qq.com/s/iIkOd4_wsqHbc9SJhHzDhg)
+
+六、polarisxu
+
+1. [Go泛型系列：slices 包讲解](https://mp.weixin.qq.com/s/z30xJqiweIROlSp1YgcIsQ)
+
+
+## go中文网每日资讯--2021-11-26
+一、Go语言中文网
+
+1. [终于，golang.org 官网被彻底抛弃了](https://mp.weixin.qq.com/s/OXkiL3AWbGvdBiOi3xB_kw)
+
+2. [通过 100 行代码入门 Go](https://mp.weixin.qq.com/s/Z2M0dwt68SwuPsciT2msaA)
+
+3. [Go runtime.KeepAlive 有什么用？](https://mp.weixin.qq.com/s/1KlMbvnflFwQS2e-SFG-IA)
+
+二、polarisxu
+
+1. [Go Gio 实战：煮蛋计时器的实现 05 — 重构](https://mp.weixin.qq.com/s/9SxObRjOWLh7LsE7xfDtJA)
+
+三、Go招聘
+
+1. [Go1.18 快讯：废弃了这个 API](https://mp.weixin.qq.com/s/xVH0uqDn7sdEUHk-dBfvQg)
+
+四、TonyBai
+
+1. [ants：在Submit中再调用当前Pool的Submit可能导致阻塞](https://mp.weixin.qq.com/s/-My5QKNefWsh_sA-Sl63KA)
+
+五、Golang梦工厂
+
+1. [你应该如何去选择Go router？](https://mp.weixin.qq.com/s/QEwUFIvuLD7FfUAHZhYNvg)
+
+六、冰岩作坊
+
+1. [Go Runtime RWMutex](https://mp.weixin.qq.com/s/j6C6hzHb2Cr_WmShJy_r-A)
+
+
+## go中文网每日资讯--2021-11-24/25
+一、Go语言中文网
+
+1. [Go中的程序诊断](https://mp.weixin.qq.com/s/-Lgz_6AzQhUE90VFsX0jjQ)
+
+2. [Go Gio 实战：煮蛋计时器的实现 05 — 重构](https://mp.weixin.qq.com/s/MBcjm0QkWSlikYkVIj9tOQ)
+
+3. [Nginx 竟然也有 playground：还是 Go 语言构建的](https://mp.weixin.qq.com/s/meBX4v3B2XusLVxwdicfeA)
+
+4. [万字长文：Go error 处理最佳实践](https://mp.weixin.qq.com/s/XdRe_yOiFGI8NiR9eWLEoQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-11-23/24)——无需 Dockerfile 的镜像构建](https://mp.weixin.qq.com/s/Dk-yO0SBlYuZoE8QDkgYTg)
+
+三、脑子进煎鱼了
+
+1. [Go 新语法挺丑？最新的泛型类型约束介绍](https://mp.weixin.qq.com/s/A1JYIbPmjIpCOg2TAzdcnA)
+
+2. [Go语言中结构体打 Tag 是什么意思？](https://mp.weixin.qq.com/s/b7OusN25JvY9TdxRPt1UOg)
+
+四、Gopher指北
+
+1. [终于解决了这个线上偶现的panic问题](https://mp.weixin.qq.com/s/VOwlkkm_KC9FG_c2jQhcew)
+
+五、Go招聘
+
+1. [Go 中的 WASM 很棒：全网最全示例教程](https://mp.weixin.qq.com/s/BTzjcuPYfZou35a2xxXOgA)
+
+2. [Golang 中不要犯这 5 个错误](https://mp.weixin.qq.com/s/hEv6dgrhtIrM_ob4dvEoTg)
+
+
+
+## GOCN每日新闻--2021-11-28
+1.石墨文档 Websocket 百万长连接技术实践 https://mp.weixin.qq.com/s/MUourpb0IqqFo5XlxRLE0w
+
+2.ants：在 Submit 中再调用当前 Pool 的 Submit 可能导致阻塞 https://mp.weixin.qq.com/s/-My5QKNefWsh_sA-Sl63KA
+
+3.我们是如何在项目中抛弃 ORM 的 https://alanilling.com/exiting-the-vietnam-of-programming-our-journey-in-dropping-the-orm-in-golang-3ce7dff24a0f
+
+4.缓存预热：利用 EBS 移动 PB 级数据 https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3
+
+5.Lake：开源的 DevOps 面板 https://github.com/merico-dev/lake
+
+
+## GOCN每日新闻--2021-11-27
+1. 带着问题读 TiDB 源码：Hive 元数据使用 TiDB 启动报错  https://gocn.vip/topics/17519
+
+2. env 环境变量获取库（开源推荐）https://gocn.vip/topics/17520
+
+3. 在 Go1.18 中实现一个简单的 Result 类型 https://mp.weixin.qq.com/s/MAKcuI6M8xcbP3bSkkimoQ
+
+4. Gio 实战：煮蛋计时器的实现 05 — 重构 https://mp.weixin.qq.com/s/LbtmlYzmW9wKw6m2VyLwXA
+
+5. Golang 日志美化输出-ketty  https://studygolang.com/articles/35349#reply0
+
+
+
+## GOCN每日新闻--2021-11-26
+1. go 没有一个 go 风格的 GC  https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60
+
+2.k8s 中的 golang 设计模式 https://aly.arriqaaq.com/golang-design-patterns/
+
+3.使用 go 实现一个玩具版编程语言 https://github.com/CheungChan/duang
+
+4.使用 go 实现 zip unzip 算法 https://notes.eatonphil.com/implementing-zip-in-go-unzipping.html
+
+5.golang1.18 你需要知道的  https://betterprogramming.pub/golang-1-18-what-you-need-to-know-a5701f7e14ab 
+
+
+
+## gopherDaily--2021-11-27
+1.使用Go实现zip文件的解压缩 - https://notes.eatonphil.com/implementing-zip-in-go-unzipping.html
+
+2.基于属性的Go测试 - https://earthly.dev/blog/property-based-testing/
+
+3.通过io.Writer将JPEG转换为JFIF - https://nigeltao.github.io/blog/2021/from-jpeg-to-jfif.html
+
+4.使用Docker Compose构建一键启动的运行环境 - https://mp.weixin.qq.com/s/KVaAQW3LbWeY_ElpRhwDIg
+
+5.石墨文档 Websocket 百万长连接技术实践 - https://mp.weixin.qq.com/s/MUourpb0IqqFo5XlxRLE0w
+
+6.Go设计模式--基于对kubernetes源码的案例研究 - https://titanwolf.org/Network/Articles/Article?AID=4b549eb2-5934-4cbb-a657-fd5d8defe5c0
+
+7.evans: 更具表现力的通用gRPC客户端 - https://github.com/ktr0731/evans
+
+8.tally: uber开源的高性能、支持缓存的分层的统计信息收集接口 - https://github.com/uber-go/tally
+
+9.Go atomic包解析 - https://www.sixt.tech/golangs-atomic
+
+10.通过使用FluentBit收集审计日志，检测Kubernetes API服务器上的恶意行为 - https://falco.org/blog/detect-malicious-behaviour-on-kubernetes-api-server-through-gathering-audit-logs-by-using-fluentbit-part-2/
+
+11.用Containerd在IPFS上进行P2P容器镜像分发 - https://medium.com/nttlabs/nerdctl-ipfs-975569520e3d
+
+
+
+## gopherDaily--2021-11-26
+1.Go官方放出泛型maps包：golang.org/x/exp/maps - https://cs.opensource.google/go/x/exp/+/master:maps/maps.go
+
+2.Go不需要Java风格的GC - https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60
+
+3.Go官网golang.org正式重定向到go.dev - https://golang.org
+
+4.懂得Go 1.17新特性：轻松获得5%的性能提升 - https://mp.weixin.qq.com/s/nXF6ctOaGwHFoil2YIMNPg
+
+5.都 2021 年了，对于服务网格，社区到底在讨论什么 - https://mp.weixin.qq.com/s/ZDDC4YAebbdws8Md9zCrqQ
+
+6.在业务系统中寻求技术含量 - https://mp.weixin.qq.com/s/TGpdi0P-jl_8h5BsvHqm_A
+
+7.Kubernetes中的Go设计模式 - https://aly.arriqaaq.com/golang-design-patterns/
+
+8.通过基于寄存器的调用加快Go应用运行速度 - https://menno.io/posts/golang-register-calling/
+
+9.面向容器和 Serverless Computing 的存储创新 - https://mp.weixin.qq.com/s/INrFp_uc-f6S1Ldroo3Xcw
+
+10.雷军做程序员时写的博客，大家学习一下 - https://mp.weixin.qq.com/s/mlJxi5bvhbm4Ju_Wt5mLQw
+
 ## go中文网每日资讯--2021-11-23
 
 
