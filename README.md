@@ -9,6 +9,176 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-11-30
+
+
+一、Go语言中文网
+
+1. [Go：用 kqueue 实现一个简单的 TCP Server](https://mp.weixin.qq.com/s/LbaWZCZzlHsxcpc8FHrKGQ)
+
+2. [浅析gowatch监听文件变动实现原理](https://mp.weixin.qq.com/s/f3q5ryWvLonOKMOZEJnXNQ)
+
+二、码农桃花源
+
+1. [如何有效控制 Go 线程数？](https://mp.weixin.qq.com/s/LV0I2Aq6jLj2io52AFgzXw)
+
+三、k8s技术圈
+
+1. [ensp 模拟 calico 跨网段 bgp 网络](https://mp.weixin.qq.com/s/qEPQBr5VfSCeQ9pTZOhQTQ)
+
+四、Go招聘
+
+1. [如何组织 Go 代码？Go 作者的回答惊呆了](https://mp.weixin.qq.com/s/BywgNH-2ueWEpLPHoQT7hA)
+
+五、网管叨bi叨
+
+1. [透过一个编译报错，总结两个Go程序编译的重要知识](https://mp.weixin.qq.com/s/XFOsQnxAu97qvFbznGpOWA)
+
+六、CloudNativeCommunity
+
+1. [Chaos Mesh + SkyWalking，打造可观测的混沌工程](https://mp.weixin.qq.com/s/MO6uXlZlxGOuA2EYjfW_AQ)
+
+七、MoeLove
+
+1. [理清 Kubernetes 中的准入控制（Admission Controller）](https://mp.weixin.qq.com/s/lPmPiEAHwis5Sxa5BS3fYQ)
+
+八、Golang技术分享
+
+1. [Go 存储基础 | 怎么使用 direct io ？](https://mp.weixin.qq.com/s/GVBRAT7YdQwdLDygCtVagw)
+
+
+## go中文网每日资讯--2021-11-29
+
+
+一、Go语言中文网
+
+1. [Go泛型系列：Go1.18 类型约束那些事](https://mp.weixin.qq.com/s/jBk4pJAM7NNdolVRVzsBLg)
+
+2. [Go：微服务治理之自适应降载](https://mp.weixin.qq.com/s/OEK-FizDhcl5BsM507N-Xg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-11-24——28)——雷军做程序员时写的博客](https://mp.weixin.qq.com/s/PLMZHCv77orv694P4SXZcA)
+
+三、Go招聘
+
+1. [《clean architecture》第一部分笔记](https://mp.weixin.qq.com/s/3kLamSuTdlZZ31VQTc5tsg)
+
+四、polarisxu
+
+1. [Go编程模式：详解函数式选项模式](https://mp.weixin.qq.com/s/B-HZu1oZGseaOuNUznjJFA)
+
+2. [通过 100 行代码入门 Go](https://mp.weixin.qq.com/s/N5zn08gcWx-dFEq9jyZTRQ)
+
+五、Gopher指北
+
+1. [一些常用的代码规范总结](https://mp.weixin.qq.com/s/nuLhPa_wm2uwyXARj7YLMQ)
+
+六、TechPaper
+
+1. [2020 年我学到了什么](https://mp.weixin.qq.com/s/C4Gc_sXgY1oMcRDXB54aWA)
+
+七、腾讯技术工程
+
+1. [提速 30%！腾讯TQUIC 网络传输协议](https://mp.weixin.qq.com/s/Sf8JsZKeZYxT9WBZrh_etg)
+
+八、幽鬼
+
+1. [在 Go 中使用 dockertest 进行集成测试](https://mp.weixin.qq.com/s/-nytxEAtHn9mDCq2IhmEoQ)
+
+九、微服务实践
+
+1. [一文讲透一致性哈希的原理和实现](https://mp.weixin.qq.com/s/V8nOmxWchnK97aJLEeT6WA)
+
+十、脑子进煎鱼了
+
+1. [Rust 内讧，PHP 主力淡出？Go：好好放假](https://mp.weixin.qq.com/s/v9MQSvJtRiIA666mVmJEbA)
+
+十一、网管叨bi叨
+
+1. [由一条编译报错信息，引出两个Go编译的重要知识](https://mp.weixin.qq.com/s/gmaHeG655zmkUmBr4U2Gsg)
+
+十二、Golang技术分享
+
+1. [Go 真的有枚举吗？](https://mp.weixin.qq.com/s/cvjWL1nRgqzLwQyXjcTVRA)
+
+十三、奇伢云存储
+
+1. [云原生 etcd 系列｜深入剖析数据多版本 MVCC 机制](https://mp.weixin.qq.com/s/bDOHa7-OU6hFsIvhP3WKDQ)
+ 
+## GOCN每日新闻--2021-11-30
+
+1.一文讲透一致性哈希的原理和实现 https://gocn.vip/topics/17526
+
+2.如何有效控制 Go 线程数？ https://mp.weixin.qq.com/s/LV0I2Aq6jLj2io52AFgzXw
+
+3.使用 Prometheus 实现应用监控的一些实践 https://mp.weixin.qq.com/s/VLaJZ3rFcejwiIkbD8oHBg
+
+4.会动的图解 (二) 怎么让 goroutine 跑一半就退出？ https://mp.weixin.qq.com/s/KBDXzcPLXFovnuY6WSIdoA
+
+5.我给 ” Go 语言 “ 开发了 6 个在线工具 https://zhuanlan.zhihu.com/p/438165485
+
+## GOCN每日新闻--2021-11-29
+
+1.JetBrains 下一代 IDE fleet 支持 Go https://www.jetbrains.com/fleet/
+
+2.Go 操作 k8s 对象 https://itnext.io/generically-working-with-kubernetes-resources-in-go-53bce678f887
+
+3.GopherCon UK 2021 技术大会视频全集
+
+4.Golang 程序启动过程 https://juejin.cn/post/7035633561805783070
+
+5.我给 ” Go 语言 “ 开发了 6 个在线工具 https://segmentfault.com/a/1190000041034693
+
+
+
+## gopherDaily--2021-11-30
+1. Go逆向工程入门 - http://www.blackstormsecurity.com/docs/BHACK_2021_ALEXANDREBORGES.pdf
+
+2. 惊了！原来Go语言也有隐式转型 - https://t.zsxq.com/E66mEuJ
+
+3. 为什么Go不再需要Java风格的GC(中文版) - https://zhuanlan.zhihu.com/p/439334300
+
+4. GoLab 2021大会视频全集 - https://www.youtube.com/watch?v=2FzW6QLrm2s&list=PLGN1AjiJJv0noFge_-nKu95N5Zd1nHpur
+
+5. GO--遵循领域驱动的设计方法 - https://goninja.hashnode.dev/go-following-the-domain-driven-design-approach
+
+6. Go语言之路 -  https://engineering.godeltech.com/the-road-to-go/
+
+7. 负载测试普罗米修斯的度量摄取 - https://blog.freshtracks.io/load-testing-prometheus-metric-ingestion-5b878711711ic
+
+8. 如何从零设计一款高并发架构 - https://mp.weixin.qq.com/s/FdhEryE1rkcAFMTw8nswkA
+
+9. Web3不是去中心化--它是让加密货币兄弟掌权的伎俩 - https://medium.com/@rossstalker_5939/web3-is-not-decentralisation-its-a-ploy-to-put-crypto-bros-in-charge-c791752e2bb6
+
+10. 缓存预热：利用EBS来移动PB级的数据 - https://netflixtechblog.medium.com/cache-warming-leveraging-ebs-for-moving-petabytes-of-data-adcf7a4a78c3
+
+11. 不要让互联网欺骗了你，Event Sourcing是很难的 - https://chriskiehl.com/article/event-sourcing-is-hard
+
+
+## gopherDaily--2021-11-29
+1.CasaOS: 一个Go实现的简单、易用、优雅的开源家庭云系统 - https://github.com/IceWhaleTech/CasaOS
+
+2.Go flag包：奇怪但很好？ - http://touchlabs.io/blog/the-go-flag-package-strange-but-good
+
+3.GopherCon HK 2021技术大会视频全集 - https://www.youtube.com/watch?v=OVVldYFoITo&list=PLDWZ5uzn69ex0U5MmbKWorsTuVBgUePxw 
+
+4.《程序员的大脑》摘要 - https://skarlso.github.io/2021/11/27/summary-of-programmers-brain/
+
+5.在Go中对Kubernetes对象进行的通用处理 - https://itnext.io/generically-working-with-kubernetes-resources-in-go-53bce678f887
+
+6.Go中的channel和死锁 - https://g14a.dev/posts/channels-and-deadlocks/
+
+7.jetbrains的下一代IDE:fleet支持Go - https://www.jetbrains.com/fleet/
+
+8.改变我的软件工程师生涯的五本书 - https://julianogtz.github.io/my-personal-blog/posts/five-books-that-changed-my-career-as-a-software-engineer
+
+9.一文讲透一致性哈希的原理和实现 - https://mp.weixin.qq.com/s/V8nOmxWchnK97aJLEeT6WA
+
+10.边缘上的容器化 - https://mp.weixin.qq.com/s/cG5seANW-pLogghBMVlyjg
+
+11.在Go中使用领域驱动设计（DDD）- https://dev.to/stevensunflash/using-domain-driven-design-ddd-in-golang-3ee5
+
 
 ## go中文网每日资讯--2021-11-27/28
 一、Go语言中文网
