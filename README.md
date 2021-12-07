@@ -10,6 +10,206 @@
 # gocn_news_set_2021(下)
 
 
+## go中文网每日资讯--2021-12-06
+
+
+一、Go语言中文网
+
+1. [如何在 Go 中组织项目结构](https://mp.weixin.qq.com/s/W11VL3t29EB3Javd3_7q8w)
+
+2. [Go源码分析：grpc context](https://mp.weixin.qq.com/s/HrZxfnerelWEIvrb3-y6Tw)
+
+二、新亮笔记
+
+1. [Go - 如何编写 ProtoBuf 插件 (一) ？](https://mp.weixin.qq.com/s/yeqeMNsD0W1aOzK7RZcSIw)
+
+三、TonyBai
+
+1. [惊了！原来Go语言也有隐式转型](https://mp.weixin.qq.com/s/NCM-RrzxYiAUlAAYshdAaQ)
+
+四、Golang梦工厂
+
+1. [推荐几个可以写到简历上的Go方向优质开源项目（需花点心思研究）](https://mp.weixin.qq.com/s/SJaWPrMB5g9MZte4qtV6Nw)
+
+五、云原生技术爱好者社区
+
+1. [Kubernetes v1.23即将发布，有哪些重磅更新？](https://mp.weixin.qq.com/s/d1t3DAJ1-EIhY02JKFaIzA)
+
+六、腾讯云原生
+
+1. [虚拟节点轻松应对 LOL S11 百万并发流量——腾竞体育的弹性容器实践](https://mp.weixin.qq.com/s/ioJIyp1DdEpchQgEjvBMrg)
+
+七、polarisxu
+
+1. [GoLand 2021.3 正式发布，有哪些新功能？](https://mp.weixin.qq.com/s/R6k2omMDTt-hiNLPgjL4OQ)
+
+八、Go招聘
+
+1. [武汉伴伴招聘Gopher，这待遇香嘛？](https://mp.weixin.qq.com/s/Q-KrZlhCJb1QiE_aaFA74g)
+
+九、微服务实践
+
+1. [详解布隆过滤器原理与实现](https://mp.weixin.qq.com/s/5zHQbDs978OoA3g83NaVmw)
+
+十、Golang技术分享
+
+1. [看完这期图解，别再搞不清切片拷贝了](https://mp.weixin.qq.com/s/u74E8QbLRPl6YAL7PxjwSQ)
+
+十一、奇伢云存储
+
+1. [云原生 etcd 系列｜Quorum 和唱票那回事](https://mp.weixin.qq.com/s/44Fd8zygjQrH1DsEOMqK7w)
+
+十二、luozhiyun很酷
+
+1. [8.深入TiDB：解析Hash Join实现原理](https://mp.weixin.qq.com/s/f-9xchuuTfLNiXdik3wXZQ)
+ 
+
+
+
+## go中文网每日资讯--2021-12-04/05
+
+一、Go语言中文网
+
+1. [2022 年 11 大 GoLand 插件](https://mp.weixin.qq.com/s/K6Cl2Gm83FYBZRroabjeMw)
+2. [Go：七步制作精简镜像](https://mp.weixin.qq.com/s/c3-6AOFwOMRuG9ubT8eq0A)
+3. [深入剖析 Go Pprof 标签](https://mp.weixin.qq.com/s/HfH3y3ik884nshLKnQW0Ew)
+4. [《整洁架构》阅读笔记（一）](https://mp.weixin.qq.com/s/7Dnxs_j0SnxZHwwuLNjXuQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-01)——Go 1.18新特性前瞻：原生支持Fuzzing测试](https://mp.weixin.qq.com/s/cwZxmGgk50CFxrKCcJ-ZmQ)
+
+三、幽鬼
+
+1. [选择 Go API 框架时要考虑的 4 件事](https://mp.weixin.qq.com/s/bgK6P9TgCX-osZncxsrK9Q)
+
+四、Go招聘
+
+1. [Go 在 Google：服务于软件工程的语言设计（翻译）](https://mp.weixin.qq.com/s/3F9WAcxuCNCs7aNn5gjnew)
+2. [Go 源码里的这些 //go: 指令，你知道吗？](https://mp.weixin.qq.com/s/jsU2DoUSk2-7g1giOClfXQ)
+
+五、k8s技术圈
+
+1. [Grafana 8.0 告警使用](https://mp.weixin.qq.com/s/1aJOqhGOXaOas2lPUcP2-g)
+2. [任务中心之Ansible进阶篇](https://mp.weixin.qq.com/s/QAcGg63VjAEtr5mcU81jTw)
+
+六、Golang技术分享
+
+1. [线上实战:大内存 Go 服务性能优化](https://mp.weixin.qq.com/s/SHcBZNO_t9dNOiWug3weSw)
+
+七、
+
+1. [go启动原理(视频)](https://mp.weixin.qq.com/s/c4sISWwg0FcMVHSc64A3BQ)
+
+八、CloudNativeCommunity
+
+1. [直播回放|云原生中间件之道](https://mp.weixin.qq.com/s/Qb5zm9_vEnUZ5I3qcOFYAg)
+
+九、码农桃花源
+
+1. [看透 Go 对象内部细节的神器](https://mp.weixin.qq.com/s/T5Kc8vETz7Dmp0KVQP7YNg)
+
+十、脑子进煎鱼了
+
+1. [动图图解！既然IP层会分片，为什么TCP层也还要分段？](https://mp.weixin.qq.com/s/-r3f90E6CyIDLPq5W6w6ag)
+
+十一、Golang梦工厂
+
+1. [gin框架是如何处理请求参数？](https://mp.weixin.qq.com/s/jaoHQX9AN2znqJ2YOE-BJg)
+
+
+## GOCN每日新闻--2021-12-05
+1.一种轻量级的 Elasticsearch 替代方案，需要最少的资源 https://github.com/prabhatsharma/zinc
+
+2.详解布隆过滤器原理与实现 https://mp.weixin.qq.com/s/5zHQbDs978OoA3g83NaVmw
+
+3.令人惊叹的软件架构 https://github.com/mehdihadeli/awesome-software-architecture
+
+4.深入 TiDB：解析 Hash Join 实现原理 https://www.luozhiyun.com/archives/631
+
+5.探索、创建和共享技术学习路线图 https://github.com/guyandtheworld/reallyconfused
+
+
+## GOCN每日新闻--2021-12-04
+1.https://mp.weixin.qq.com/s/O-6FdYn2l8hxOfGUUz9CHg grpc context
+
+2.https://mp.weixin.qq.com/s/qvXr7300EX7HrB4KlspPGQ 蚂蚁集团大规模 Sigma 集群 ApiServer 优化实践
+
+3.https://mp.weixin.qq.com/s/qaDfrlc1UR8_q6SGGaGB0Q Go 操作 Kafka 如何保证无消息丢失
+
+4.https://mp.weixin.qq.com/s/T5Kc8vETz7Dmp0KVQP7YNg 看透 Go 对象内部细节的神器
+
+5.https://mp.weixin.qq.com/s/5yf8LNA0zupknZgfhSoI-w 曹大碎碎念之：热门技术的思考
+
+## gopherDaily--2021-12-04
+1.Zinc: Go实现的轻量级的ElasticSearch的替代品，需要更少的资源 - https://github.com/prabhatsharma/zinc
+
+2.Go Context使用教程 - https://tutorialedge.net/golang/go-context-tutorial/
+
+3.goose: Go实现的数据库迁移工具 - https://github.com/pressly/goose
+
+4.Go应用中的模式 - https://medium.com/@tranngoclam/patterns-in-go-applications-42dcd10fd0e5
+
+5.Go 1.17.4和1.16.11版本发布! - https://groups.google.com/g/golang-announce/c/Xcefh1Tfj-U/m/vVWkIVTVBwAJ
+
+6.漏桶限流库：uber-go/ratelimit - https://mp.weixin.qq.com/s/q3wRIvoXpnPLPJsDAPTdeA
+
+7.再见Docker桌面，你好Minikube! - https://itnext.io/goodbye-docker-desktop-hello-minikube-3649f2a1c469
+
+8.破解kubernetes节点代理（又称kube-proxy）- https://arthurchiao.art/blog/cracking-k8s-node-proxy/
+
+9.用SIMD指令快速处理CSV(C语言版) - https://nullprogram.com/blog/2021/12/04/
+
+## go中文网每日资讯--2021-12-02/03
+
+一、Go语言中文网
+
+1. [Go 泛型包 slices 来了](https://mp.weixin.qq.com/s/wg5fNsB--5nIgJ6EBBc0PA)
+2. [Go语言爱好者周刊：第 122 期](https://mp.weixin.qq.com/s/RB4guz_r1v7ronaKO0q5dw)
+3. [想学 Rust 但不知道从哪里开始？读读该文](https://mp.weixin.qq.com/s/rxC5RYTNuXD8TM12H4MrHg)
+4. [GoLand 2021.3 正式发布，有哪些新功能？](https://mp.weixin.qq.com/s/NFPv4OKMAgHeD_NXVX0kgg)
+5. [Go1.17.4 和 Go1.16.11 发布](https://mp.weixin.qq.com/s/cttL4nmP00bRbi_mw_r8Kw)
+6. [半小时入门 Rust？是的，你没看错](https://mp.weixin.qq.com/s/_elPKI64bRk1-8lC8V9mMQ)
+
+二、网管叨bi叨
+
+1. [简单易懂的 Raft 分布式共识算法讲义](https://mp.weixin.qq.com/s/JOzK15Y85FFwIuMwJifIAw)
+
+三、Go夜读
+
+1. [[fixes\] Go 1.17.4 and 1.16.11 are released!](https://mp.weixin.qq.com/s/1XYLoYb04M3SbMBgLpQE9A)
+
+四、TechPaper
+
+1. [三个优化材料分享](https://mp.weixin.qq.com/s/w5Lgkv4Oj9gH7mFC-DK4fg)
+
+五、polarisxu
+
+1. [Go 企业应用案例分享：用于支付和奖励系统](https://mp.weixin.qq.com/s/biz-bs0xJHnspHZFx-4slQ)
+
+## gopherDaily--2021-12-02
+1.使用Go自动生成C4架构图 - https://threedots.tech/post/auto-generated-c4-architecture-diagrams-in-go/
+
+2.使用NATS构建微服务 - https://nats.io/blog/building-scalable-microservices-with-nats/
+
+3.Kubernetes API服务访问安全加固 - https://goteleport.com/blog/kubernetes-api-access-security
+
+4.Go Devroom@FOSDEM 2021视频全集 - https://www.youtube.com/watch?v=O2RB_8ircdE&list=PLvPgJa3brKQZJFlgINzX-XowwzETNJju0
+
+5.链路追踪（Tracing）的前世今生（上） - https://mp.weixin.qq.com/s/HaYWdaBsyQOO7u4wU9ithA
+
+6.Knative如何释放无服务器的力量 - https://mp.weixin.qq.com/s/UWI5PEaBCNXwXpUPWq6cXA
+
+7.与Kubernetes的containerd运行时交互 - https://www.vxav.fr/2021-09-13-interacting-with-containerd-runtime-for-kubernetes/
+
+8.播客：如何用Go编写一个解析器 - https://techpodcast.form3.tech/episodes/ep-22-tech-how-do-interpreters-work-4JYqBPZV
+
+9.hedgedhttp：可减少长尾延迟的http client端 - https://github.com/cristalhq/hedgedhttp
+
+10.Paper Digest：利用AI为每篇论文生成摘要，将paper阅读时间缩短为 3 分钟 - https://www.paper-digest.com/
+
+
+
 ## go中文网每日资讯--2021-12-01
 
 
