@@ -10,6 +10,105 @@
 # gocn_news_set_2021(下)
 
 
+## go中文网每日资讯--2021-12-07
+
+
+一、Go语言中文网
+
+1. [Go playground 再增强](https://mp.weixin.qq.com/s/jOUMbeg6mjjiUdqx97dQFA)
+
+2. [Go：详解布隆过滤器原理与实现](https://mp.weixin.qq.com/s/zfZgUO6KePgbYfXqAaPBGw)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-02/03)——GoLand 2021.3 正式发布，有哪些新功能？](https://mp.weixin.qq.com/s/M7EzntlhcXlZDpPvg7_rZw)
+
+2. [Go技术日报(2021-12-12-04—06) ——详解布隆过滤器原理与实现](https://mp.weixin.qq.com/s/gZIF9rBPhJpeLuR4NubYlg)
+
+三、爱因诗贤
+
+1. [Golang如何自举 - 6g的编译过程（三）(视频)](https://mp.weixin.qq.com/s/oP-aKoCrsw3mI3FDxP02Lg)
+
+四、polarisxu
+
+1. [Go Gio 实战：煮蛋计时器的实现 06 — 带边距的按钮](https://mp.weixin.qq.com/s/NUp9EVo3gy0q1UNv9rkWEg)
+
+五、腾讯技术工程
+
+1. [梳理正则表达式发展史](https://mp.weixin.qq.com/s/hYYDRHgjBs0TVTQty9pSBw)
+
+六、腾讯云原生
+
+1. [游戏案例｜Service Mesh 在欢乐游戏的应用演变和实践](https://mp.weixin.qq.com/s/82jZ4wIvERogBjRaQqsfvw)
+
+七、幽鬼
+
+1. [Go Gio 实战：煮蛋计时器的实现 06 — 带边距的按钮](https://mp.weixin.qq.com/s/Huau-z9G4NaHPy2ACLdQag)
+
+八、脑子进煎鱼了
+
+1. [Go 新关键字 any，interface 会成历史吗？](https://mp.weixin.qq.com/s/jIWXBixuPCh1uxNTXGY0YA)
+
+2. [看透 Go 对象内部细节的神器](https://mp.weixin.qq.com/s/mHRTuBRhmbb1Oc89LXDHmw)
+
+九、网管叨bi叨
+
+1. [写 Go 时如何优雅地查文档](https://mp.weixin.qq.com/s/Zh1mlLwZuXkoHuWRrSdy4g)
+
+十、码农桃花源
+
+1. [飞哥：程序员完全没时间提升自己该怎么办?](https://mp.weixin.qq.com/s/03t7fgIBKIHI9thADNBeSQ)
+
+十一、Go招聘
+
+1. [GoLand 2021.3 正式发布，有哪些新功能？](https://mp.weixin.qq.com/s/8lHwRp1E3OoObqsdrJe17g)
+
+
+
+
+## GOCN每日新闻--2021-12-07
+
+1.带你重走 TiDB TPS 提升 1000 倍的性能优化之旅 https://gocn.vip/topics/20825
+
+2.Go 不需要 Java 风格的 GC https://itnext.io/go-does-not-need-a-java-style-gc-ac99b8d26c60
+
+3.聊聊 TokenBucket 限流器的基本原理及实现 https://gocn.vip/topics/20824
+
+4.Go - 如何编写 ProtoBuf 插件 (一) https://mp.weixin.qq.com/s/yeqeMNsD0W1aOzK7RZcSIw
+
+5.Go 源码分析：grpc context https://mp.weixin.qq.com/s/HrZxfnerelWEIvrb3-y6Tw
+
+
+
+## gopherDaily--2021-12-07
+
+1.如何使用Go泛型 - https://qvault.io/golang/how-to-use-golangs-generics/
+
+2.在下一个项目不使用Go的10个“理由” - https://dev.to/valeriavg/10-reasons-not-to-use-go-for-your-next-project-313i
+
+3.用于Go持续集成的GitHub action工作流程 - https://dev.to/chefgs/github-actions-workflow-for-go-continuous-integration-32id
+
+4.如何在Terraform中开发一个自定义provider - https://www.cncf.io/blog/2021/12/02/how-to-develop-a-custom-provider-in-terraform
+
+5.为什么 Web3 与区块链有关 - https://www.ruanyifeng.com/blog/2021/12/web3.html
+
+6.开始尝试Go范型版本的map和slice - https://zhuanlan.zhihu.com/p/441842452
+
+7.网易云音乐 DBA 谈 TiDB 选型：效率的选择 - https://mp.weixin.qq.com/s/8SHPWEU94b1XnxXTXxkqTQ
+
+8.通过对Zoekt的内存优化，内存使用量减少5倍 - https://about.sourcegraph.com/blog/zoekt-memory-optimizations-for-sourcegraph-cloud/
+
+9.机器学习的解释 - https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained
+
+10.Karpenter：开源的、高性能的Kubernetes集群Autoscaler - https://itnext.io/karpenter-open-source-high-performance-kubernetes-cluster-autoscaler-d56e3ab06aae
+
+
+
+
+
+
+
+
 ## go中文网每日资讯--2021-12-06
 
 
