@@ -10,6 +10,244 @@
 # gocn_news_set_2021(下)
 
 
+## go中文网每日资讯--2021-12-08
+
+
+一、Go语言中文网
+
+1. [Go编程模式：详解函数式选项模式](https://mp.weixin.qq.com/s/PkOYRAoJyemMe5LGb-_eQA)
+
+2. [Rust 不能做的事情，用什么替代？](https://mp.weixin.qq.com/s/XBoLvqMpdpat7lJQt2DZDA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-07)——Go 源码分析：grpc context](https://mp.weixin.qq.com/s/ainfeO5HeRpdJDZuQw5uIA)
+
+三、脑子进煎鱼了
+
+1. [透过一个编译报错，总结两个 Go 程序编译的重要知识](https://mp.weixin.qq.com/s/u0gfKNNjNmhq4UJy2Hl9Cw)
+
+四、Golang技术分享
+
+1. [Go 大杀器之跟踪剖析 trace](https://mp.weixin.qq.com/s/OY-w05uJIgjov9qGmJ-Wwg)
+
+五、网管叨bi叨
+
+1. [长挺丑，Go 最新的泛型类型约束语法介绍](https://mp.weixin.qq.com/s/Y-6kCx9KcYuWGcpWwA4fYA)
+
+六、新亮笔记
+
+1. [关于复杂度的碎碎念](https://mp.weixin.qq.com/s/CZeHNc8aJF2ysf25I5fPkw)
+
+七、云加社区
+
+1. [Go Modules基础精进，六大核心概念全解析（上）](https://mp.weixin.qq.com/s/AFoSGJkk0fMd2eWb0R0nTg)
+
+八、行云创新
+
+1. [API标准化对Dapr的重要性](https://mp.weixin.qq.com/s/d1TaY_eR2_b0Nbty204cjw)
+
+九、aoho求索
+
+1. [自己动手实现 Go 的服务注册与发现（中）](https://mp.weixin.qq.com/s/0G3OkAlbqd6mhtZFDYWvMQ)
+
+十、码农桃花源
+
+1. [用 Go 解析复杂 JSON 的思路](https://mp.weixin.qq.com/s/Fmv57xYj57j1h7LAMynuZg)
+
+十一、MoeLove
+
+1. [K8S 生态周报| Kubernetes v1.23.0 正式发布，新特性一览](https://mp.weixin.qq.com/s/lIbsDXo29ANfVbjtdJez2g)
+
+十二、幽鬼
+
+1. [Go：通过 io.Writer 将 JPEG 转为 JFIF](https://mp.weixin.qq.com/s/8l5jWf8kJkoIOD_RR296fw)
+
+十三、Golang梦工厂
+
+1. [动手实现一个localcache - 设计篇](https://mp.weixin.qq.com/s/ZtSA3J8HK4QarhrJwBQtXw)
+
+、Go招聘
+
+1. [推荐一个强大的Go库-rk-boot](https://mp.weixin.qq.com/s/2v-4Z3Ew4DRq17SWGas63A)
+ 
+
+
+## go中文网每日资讯--2021-12-09
+
+
+一、Go语言中文网
+
+1. [学学 Go1.18 新 IP 包的设计思路](https://mp.weixin.qq.com/s/VxJvLRTt3zoGRTzAhZTUsQ)
+
+2. [Go Gio 实战：煮蛋计时器的实现 06 — 带边距的按钮](https://mp.weixin.qq.com/s/VcE6u1qD5dgJcvk26Ws2YA)
+
+二、幽鬼
+
+1. [Kubernetes 1.23 发布：探索新边界](https://mp.weixin.qq.com/s/Kp2tJ-LrtrGRB4q4XwPxhQ)
+
+三、腾讯技术工程
+
+1. [微信支付团队精益研发实践总结](https://mp.weixin.qq.com/s/rISdGd-BNiQVd6WWfcyOig)
+
+四、云加社区
+
+1. [Go Modules基础精进，六大核心概念全解析（下）](https://mp.weixin.qq.com/s/CUZ4uYvT9oKlP9FfvIBwRg)
+
+五、Kubernetes生态圈
+
+1. [Kubernetes 如何实现蓝绿部署、金丝雀发布和滚动更新？](https://mp.weixin.qq.com/s/H4-GBqZJwtI-7dfAfP2zYA)
+
+六、Golang技术分享
+
+1. [惊了！goroutine 跑一半就被踢了？](https://mp.weixin.qq.com/s/wb8clXGAjJOzbbdNjq0HvQ)
+
+七、Golang梦工厂
+
+1. [Go error 处理最佳实践](https://mp.weixin.qq.com/s/-kNu1kZKfgFIyWcMG2em4Q)
+
+八、RememberGo
+
+1. [那些用Go实现的分布式事务框架](https://mp.weixin.qq.com/s/VnpFLfyrnNczhvK2p3gA_w)
+
+九、脑子进煎鱼了
+
+1. [Go 为什么不支持类和继承？](https://mp.weixin.qq.com/s/-AHYgGy-BkcLPc3p6yzkHQ)
+
+十、董泽润的技术笔记
+
+1. [聊聊为什么 IDL 只能扩展字段而非修改](https://mp.weixin.qq.com/s/6Y40fr2qGvOxl8xX5HBCjg)
+
+十一、Go招聘
+
+1. [王者荣耀团队高级Gopher虚位以待，非你莫属](https://mp.weixin.qq.com/s/-HNUsUpcUh3_hiT7gXqPgQ)
+
+十二、Go生态
+
+1. [程序员史诗级必读日志篇：第一部分-什么是日志](https://mp.weixin.qq.com/s/iqlQ0Au_uvP2yu5NsRzALg)
+
+
+
+
+
+
+
+
+## GOCN每日新闻--2021-12-10
+
+1.  bob 一个从天上掉下来的构建工具  https://github.com/benchkram/bob
+
+2.  hackgo 编译器让 go 添加一个新的关键字   https://avi.im/blag/2021/rc-day-24/
+
+3.  一个” 自由 “解析 xml 而不是预定义 struct 的工具  https://github.com/xrfang/fxml
+
+4.  一个真开源的 mongodb 的替代者 https://github.com/FerretDB/FerretDB
+
+5.  go1.17.5 和 go16.12 发布 安全更新 https://mp.weixin.qq.com/s/gguSdYRkrGH0yD9MwDX4Ew
+
+
+
+## GOCN每日新闻--2021-12-09
+
+1.Hugo v0.90.0 发布 https://github.com/gohugoio/hugo/releases/tag/v0.90.0
+
+2.Docker 容器中使用 GPU https://segmentfault.com/a/1190000041090167
+
+3.我好像发现了一个 Go 的 Bug？https://www.cnblogs.com/zhuochongdashi/p/15660936.html
+
+4.Go modules 基础精进，六大核心概念全解析（上）https://segmentfault.com/a/1190000041087597
+
+5.全面解锁 Kubernetes？百度爱番番技术实践全揭秘！ https://segmentfault.com/a/1190000041089200
+
+
+## GOCN每日新闻--2021-12-11
+1.快速搭建私有云服务 go-btfs https://gocn.vip/topics/20839
+
+2.基于寄存器调用的软件加速 https://gocn.vip/topics/20835
+
+3.详解布隆过滤器的原理和实现 https://gocn.vip/topics/20832
+
+4.动手实现一个 localcache https://mp.weixin.qq.com/s/ZtSA3J8HK4QarhrJwBQtXw
+
+5.Go：不用标准库如何解压 zip 文件？ https://mp.weixin.qq.com/s/gfUfYfK79f8qOKMNl-l8og
+
+
+
+
+## GOCN每日新闻--2021-12-12
+1.GopherCon 2021 视频 https://space.bilibili.com/756684/channel/seriesdetail?sid=586416
+
+2.告别 Sidecar-使用 eBPF 解锁内核级服务网格 https://mp.weixin.qq.com/s/W9NySdKnxuQ6S917QQn3PA
+
+3.我为 ent gRPC 插件贡献功能学到的 https://entgo.io/blog/2021/12/09/contributing-my-first-feature-to-ent-grpc-plugin/
+
+4.高性能结构日志库 https://github.com/phuslu/log
+
+5.Phalanx: 基于 Bluge 的云原生全文搜索服务 https://github.com/mosuka/phalanx
+
+
+## GOCN每日新闻--2021-12-13
+
+1.尝鲜 Go 1.18 范型版本的 map 和 slice！ https://juejin.cn/post/7040800455349239822
+
+2.Go 实现可序列化的 Roaring Bitmaps https://dgraph.io/blog/post/serialized-roaring-bitmaps-golang/
+
+3.Go 使用 Github Actions 做 CI https://www.alexedwards.net/blog/ci-with-go-and-github-actions
+
+4.Go 服务无中断重启 https://bunrouter.uptrace.dev/guide/go-zero-downtime-restarts.html#systemd-socket
+
+5.使用 go 实现一个超级 mini 的消息队列 https://juejin.cn/post/7041085344481017887
+
+
+## gopherDaily--2021-12-09
+
+1.使用systemd实现Go应用的零停机时间重启和部署 - https://bunrouter.uptrace.dev/guide/go-zero-downtime-restarts.html#systemd-socket
+
+2.Go vs Node.js：哪个是2022 Web开发的更好选择 - https://www.bacancytechnology.com/blog/golang-vs-node-js
+
+3.带你重走TiDB TPS提升1000倍的性能优化之旅-https://pingcap.com/zh/blog/database-performance-optimisation
+
+4.Hack Go编译器：为Go增加一个新的关键字 - https://avi.im/blag/2021/rc-day-24/
+
+5.GopherCon 2021开幕：Robert Griesemer & Ian Lance Taylor为大家讲解Go泛型 - https://www.youtube.com/watch?v=KepBhuQJT9E
+
+6.在Golang中介绍序列化的roaring bitmap - https://dgraph.io/blog/post/serialized-roaring-bitmaps-golang/
+
+7.每个开发者都应该知道的5个Go模块/包 - https://medium.com/golangd/5-golang-modules-packages-that-every-developer-should-know-c945f40ea173
+
+8.如何在gRPC中使用Consul作为主机解析器 - https://hackernoon.com/how-to-use-consul-as-a-host-resolver-in-grpc
+
+9.用不到125行的C语言编写一个简单的16位虚拟机 - https://www.andreinc.net/2021/12/01/writing-a-simple-vm-in-less-than-125-lines-of-c
+
+10.苹果公司开源产品官网 - https://opensource.apple.com/
+
+
+## gopherDaily--2021-12-11
+1.Go中的不可或缺的七种代码模式 - https://betterprogramming.pub/7-code-patterns-in-go-i-cant-live-without-f46f72f58c4b
+
+2.使用Docker容器突破客户端6w可用端口的误区 - https://t.zsxq.com/IEyZnai
+
+3.Go 1.17.5和1.16.12版本发布，修复安全漏洞 - https://groups.google.com/g/golang-announce/c/hcmEScgc00k
+
+4.argo相关的awesome项目 - https://github.com/terrytangyuan/awesome-argo
+
+5.告别 Sidecar—— 使用eBPF解锁内核级服务网格 - https://mp.weixin.qq.com/s/W9NySdKnxuQ6S917QQn3PA
+
+6.用Telegraf Operator扩展Kubernetes监控 - https://www.influxdata.com/blog/expand-kubernetes-monitoring-telegraf-operator/
+
+7.我为Ent的gRPC插件贡献第一个功能时我所学到的东西 - https://entgo.io/blog/2021/12/09/contributing-my-first-feature-to-ent-grpc-plugin/
+
+8.经典旧文：使用外部测试的代码覆盖率 - https://blog.cloudflare.com/go-coverage-with-external-tests/
+
+9.Go教育资源速查表 - https://mehdihadeli.github.io/awesome-go-education/
+
+10.MLOps和DevOps：为什么数据让它与众不同 - https://www.oreilly.com/radar/mlops-and-devops-why-data-makes-it-different/
+
+11.我是如何写这本关于AWS Lambda和Go的书的 - https://www.kevinwmcconnell.com/writing/how-i-wrote-my-book
+
+12.DeepMind发布新AI模型Gopher，其新AI几乎具有高中生的阅读理解能力 - https://deepmind.com/blog/article/language-modelling-at-scale
+
+
 ## go中文网每日资讯--2021-12-07
 
 
