@@ -10,6 +10,99 @@
 # gocn_news_set_2021(下)
 
 
+## go中文网每日资讯--2021-12-13
+
+
+一、Go语言中文网
+
+1. [Go：maps 包能干嘛？](https://mp.weixin.qq.com/s/R5vUpMDo04ygOxOrbxfDOQ)
+
+2. [Go - 关于 protoc 工具的小疑惑](https://mp.weixin.qq.com/s/m_CoHXInJQUevQp9aq6F4A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-11/12)——go1.17.5 和 go16.12 发布 安全更新](https://mp.weixin.qq.com/s/-jZpZGqzftccVZHmjG4-nw)
+
+三、k8s技术圈
+
+1. [如何使用 Kubernetes 监测定位慢调用](https://mp.weixin.qq.com/s/mOdn5eE0QtLfHuotpgacwg)
+
+四、云影原生
+
+1. [kubernetes 指南 -- 弹性伸缩](https://mp.weixin.qq.com/s/bsItzu69ENQ0GsKPM59WuQ)
+
+五、Go招聘
+
+1. [《clean architecture》第二部分编程范式读书笔记](https://mp.weixin.qq.com/s/2QmWMjWk19oeKzyhT92--w)
+
+六、CloudNativeCommunity
+
+1. [直播回放|云原生应用可观测性实践](https://mp.weixin.qq.com/s/yXg6P-iXpWNVNsCqpH3fBw)
+
+七、打码匠
+
+1. [BigCache针对Go垃圾回收的设计优化](https://mp.weixin.qq.com/s/URiURNrXHUYP1v2Q50i7Bg)
+
+八、polarisxu
+
+1. [终于有 Go 版的 Elasticsearch 了](https://mp.weixin.qq.com/s/oJG0XB2UcLpCBu3FCxzMPw)
+
+九、网管叨bi叨
+
+1. [这个认证申请下来Goland IDEA 等全系产品免费使用 ｜ 附申请说明](https://mp.weixin.qq.com/s/N3ZeH0rdh6JzMxpeDP-_7g)
+
+十、Golang梦工厂
+
+1. [垃圾回收、三色标记原理，终于能跟面试官扯皮了！](https://mp.weixin.qq.com/s/wat7PjQbey-w1fa4Jvmkug)
+
+十一、脑子进煎鱼了
+
+1. [Go 泛型玩出花，详解新提案 switch type！](https://mp.weixin.qq.com/s/H4IZOyLbWeQ7UxzuFBts4w)
+
+十二、微服务实践
+
+1. [用 Go + Redis 实现分布式锁](https://mp.weixin.qq.com/s/k_dX2HF8hTf6XseeeXYivg)
+
+
+
+
+## GOCN每日新闻--2021-12-13
+1.尝鲜 Go 1.18 范型版本的 map 和 slice！ https://juejin.cn/post/7040800455349239822
+
+2.Go 实现可序列化的 Roaring Bitmaps https://dgraph.io/blog/post/serialized-roaring-bitmaps-golang/
+
+3.Go 使用 Github Actions 做 CI https://www.alexedwards.net/blog/ci-with-go-and-github-actions
+
+4.Go 服务无中断重启 https://bunrouter.uptrace.dev/guide/go-zero-downtime-restarts.html#systemd-socket
+
+5.使用 go 实现一个超级 mini 的消息队列 https://juejin.cn/post/7041085344481017887
+
+
+
+
+## gopherDaily--2021-12-13
+1.升级到Kubernetes v1.24时会发生什么？ - https://jimangel.io/post/dockershim-kubernetes-v1.24/
+
+2.plumber: 一个用于与Kafka、RabbitMQ和其他消息传递系统交互的瑞士军刀CLI工具 - https://github.com/batchcorp/plumber
+
+3.一个新的go raft算法实现 - https://github.com/shaj13/raft
+
+4.Go实现的简单易用的Map Reduce框架 - https://github.com/BWbwchen/MapReduce
+
+5.使用GDB调试Go代码 - https://go.dev/doc/gdb
+
+6.Prometheus + Grafana 实现服务器的可视化 - https://mp.weixin.qq.com/s/8wGnEOu-gWHgxKDSZS2MFg
+
+7.Go语言泛型设计 - https://taoshu.in/go/generics/design.html
+
+8.用 Go + Redis 实现分布式锁 - https://mp.weixin.qq.com/s/k_dX2HF8hTf6XseeeXYivg
+
+9.专访 KubeVela 核心团队：如何简化云原生复杂环境下的应用交付和管理 - https://mp.weixin.qq.com/s/HISIbkhgPgDIIdX10yf_OQ
+
+10.性能调优利器--火焰图 - https://zhuanlan.zhihu.com/p/147875569
+
+
+
 ## go中文网每日资讯--2021-12-08
 
 
