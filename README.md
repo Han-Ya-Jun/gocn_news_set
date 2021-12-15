@@ -10,6 +10,93 @@
 # gocn_news_set_2021(下)
 
 
+## go中文网每日资讯--2021-12-14
+
+
+一、Go语言中文网
+
+1. [实战：如何使用 Go 从 HTML 生成 PDF 报告](https://mp.weixin.qq.com/s/fqk9Oe_8jkj8QUkQj5AefQ)
+
+2. [Go 执行脚本命令源码分析](https://mp.weixin.qq.com/s/4YP9cvavSfgmhdaxM-9e7A)
+
+3. [终于解决了这个线上偶现的panic问题](https://mp.weixin.qq.com/s/cmOrlOo4t0JuK1-cY5HEkg)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-13)——BigCache针对Go垃圾回收的设计优化](https://mp.weixin.qq.com/s/6us6YKP-61bG87cwF7J1dA)
+
+三、Golang梦工厂
+
+1. [源码里的这些 //go: 指令，你知道是什么吗？](https://mp.weixin.qq.com/s/KK_rWHqTTy4zzqG96RKbsQ)
+
+四、小白debug
+
+1. [Go 中如何强制关闭 TCP 连接](https://mp.weixin.qq.com/s/plPjVPGZVPQGZQQuHz90jA)
+
+五、轩脉刃的刀光剑影
+
+1. [使用plantuml，业务交接就是这么简单](https://mp.weixin.qq.com/s/Q_gNkPYXuuOOZrEpR05h8g)
+
+六、脑子进煎鱼了
+
+1. [Go 语言类型可比性](https://mp.weixin.qq.com/s/_AYOAtNhPGZy4ttfsDDw8w)
+
+七、MoeLove
+
+1. [彻底搞懂容器技术的基石：namespace（下）](https://mp.weixin.qq.com/s/o5nZZzOTNXOFjv2aaIZ6OA)
+
+八、Go招聘
+
+1. [看透 Go 对象内部细节的神器](https://mp.weixin.qq.com/s/ry8NC3xBYp0FaV1ytCadAw)
+
+九、Golang技术分享
+
+1. [一个 Go 新关键字？](https://mp.weixin.qq.com/s/B-ndR7Bu6RHWjwvB1Xt6Xg)
+
+十、董泽润的技术笔记
+
+1. [Gopher 需要知道的几个结构体骚操作](https://mp.weixin.qq.com/s/Lq0X-7cC-q23oF4eFU1B3w)
+
+十一、TechPaper
+
+1. [是什么影响了我的接口延迟](https://mp.weixin.qq.com/s/k69-rs64XSkOFOpvUwq9sw)
+ 
+
+## GOCN每日新闻--2021-12-14
+1.发生即看见，一切可回溯，TiDB  Continuous Profiling 应用实践 https://mp.weixin.qq.com/s/61OVu5B9nzCqI-z65NYjRQ
+
+2.直播流媒体网络传输服务 https://github.com/q191201771/lal
+
+3.基于寄存器调用的软件加速 https://gocn.vip/topics/20835
+
+4.Go Ballast 让内存控制更加丝滑 https://gocn.vip/topics/17480
+
+5.Go 并不需要 Java 风格的 GC https://robberphex.com/go-does-not-need-a-java-style-gc/
+
+
+## gopherDaily--2021-12-14
+
+1.gRPC将继续存在的原因 - https://levelup.gitconnected.com/grpc-part-1-a-case-for-grpc-69592155cfbd
+
+2.GopherCon 2021大会视频 - https://www.youtube.com/watch?v=35eIxI_n5ZM
+
+3.Go中的软件架构：可观察性 - https://www.youtube.com/watch?v=r8JY1AQtkj8
+
+4.Go 语言高性能编程 - https://github.com/geektutu/high-performance-go
+
+5.Kubernetes集群中的灾难恢复 - https://medium.com/@lessandro.ugulino/disaster-recovery-in-the-kubernetes-cluster-31b5c24248e
+
+6.Go 中的阻塞分析 - https://gocn.vip/topics/17448
+
+7.lyft 的线下开发环境秘籍 - https://xargin.com/lyft-offline-env/
+
+8.使用Fiber和minio实现文件上传 - https://dev.to/minhblues/easy-file-uploads-in-go-fiber-with-minio-393c
+
+9.tilt: 开发环境即代码 - https://github.com/tilt-dev/tilt
+
+10.Go实现的轻量级云原生API网关 - https://github.com/Spacewalkio/Helmet
+
+
 ## go中文网每日资讯--2021-12-13
 
 
