@@ -10,6 +10,94 @@
 # gocn_news_set_2021(下)
 
 
+## go中文网每日资讯--2021-12-15
+
+
+一、Go语言中文网
+
+1. [『Go网址导航』：学习Go，从这里开始](https://mp.weixin.qq.com/s/4BDDDPPX8z49_BE3N_w2aA)
+
+2. [从 JavaScript 到 Go 语言的排序算法](https://mp.weixin.qq.com/s/B6XxminkSJqCXZWC-Cm4uQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-14)——是什么影响了我的接口延迟](https://mp.weixin.qq.com/s/5gEq5CHDXtq5b3Prx59h1g)
+
+三、k8s技术圈
+
+1. [Ingress API 的增强属性](https://mp.weixin.qq.com/s/Zqmto0fQ28w9xYqRqxxtCA)
+
+四、奇伢云存储
+
+1. [Go 细节篇｜结构体标签的姿势剖析](https://mp.weixin.qq.com/s/FjUXX561pEftD6aCj4qJYQ)
+
+五、脑子进煎鱼了
+
+1. [Go 为什么不支持可重入锁？](https://mp.weixin.qq.com/s/pQBsAxnaBXkk7G1cdUgsww)
+
+六、网管叨bi叨
+
+1. [万字长文剖析清楚 Go 语言 defer 原理](https://mp.weixin.qq.com/s/yM5iX-5VRELAqb0qy4c8Yg)
+
+七、董泽润的技术笔记
+
+1. [Go语言如何实现可重入锁？](https://mp.weixin.qq.com/s/LFkPlsLVj24OWZKvanUNVA)
+
+八、Golang技术分享
+
+1. [简洁的 Go 多版本管理机制](https://mp.weixin.qq.com/s/GQMWsbx5j3ubdpULzsLheg)
+
+九、爱因诗贤
+
+1. [golang源码函数调用栈&amp;defer分析 (视频)](https://mp.weixin.qq.com/s/mLJ-3SdsV6cHfl--g9dPjQ)
+
+十、腾讯云原生
+
+1. [KubeCon 2021｜使用 eBPF 代替 iptables 优化服务网格数据面性能](https://mp.weixin.qq.com/s/U6-wcBsBC-Khffb7kTBtjA)
+
+十一、Go招聘
+
+1. [【快报】Go 1.18 Beta 1发布啦，带有泛型](https://mp.weixin.qq.com/s/fPQ75vVzY4s00IFORt9rBw)
+
+
+
+## GOCN每日新闻--2021-12-15
+
+1.Go 1.18beta1 https://go.dev/blog/go1.18beta1
+
+2.Go 中易于使用的 Raft 库，使您的应用程序具有分布式、高可用性和容错性 https://github.com/ksrichard/easyraft
+
+3.Go 实现的开源的、不可变的数据库 immudb  https://github.com/codenotary/immudb/tree/v1.2.1
+
+4.Rust vs Go：你应该知道的 8 大核心差异 https://www.javaassignmenthelp.com/blog/rust-vs-go/
+
+5.Go 快速指南：go1.18 特性 https://gocn.vip/topics/20849
+
+
+
+## gopherDaily--2021-12-15
+
+1. 为什么Go程序不能像C程序那样快速运行？ - https://github.com/go101/go101/wiki/Why-can't-Go-programs-run-as-fast-as-C-programs%3F
+
+2. 切换到Go 1.18后的第一件事：将interface{}全部替换为any - https://t.zsxq.com/AIyv7Ia
+
+3. 为什么编译器函数内联很重要 - https://www.polarsignals.com/blog/posts/2021/12/15/why-compiler-function-inlining-matters/
+
+4. 什么时候使用Go泛型 - https://teivah.medium.com/when-to-use-generics-in-go-36d49c1aeda
+
+5. 深入剖析全链路灰度技术内幕 - https://mp.weixin.qq.com/s/JklS0ZBNRCEBvLWUOo-UrQ
+
+6. Kubernetes 1.23：双栈IPv4/IPv6、CronJobs、Ephemeral卷 - https://mp.weixin.qq.com/s/JE2hxKfIqRUrVcLiG4b97g
+
+7. 不要从微服务开始：单体是你的朋友 - https://arnoldgalovics.com/microservices-in-production/
+
+8. Kubernetes API访问安全加固 - https://goteleport.com/blog/kubernetes-api-access-security
+
+9. 2021年最佳代码审查工具调查结果 - https://blog.jetbrains.com/space/2021/12/15/best-code-review-tools/
+
+10. 顶层日志记录 -  https://developer20.com/top-level-logging/
+ 
+
 ## go中文网每日资讯--2021-12-14
 
 
