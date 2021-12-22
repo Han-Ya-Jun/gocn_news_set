@@ -9,6 +9,50 @@
 
 # gocn_news_set_2021(下)
 
+## go中文网每日资讯--2021-12-21
+
+
+一、Go语言中文网
+
+1. [盘点那些提高生产力的 VS Code 插件](https://mp.weixin.qq.com/s/n4ZsyES7uEdtDeBUQK8pCg)
+
+2. [如何使用 WebAsemmbly 在浏览器中编译 Go 代码](https://mp.weixin.qq.com/s/AqEaYIRPSKjzZ1AE4cDtHA)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-20)——探讨系统中钱的精度问题](https://mp.weixin.qq.com/s/V6i4f2XlX4I5DE8j3Zf6nA)
+
+三、云原生技术爱好者社区
+
+1. [深入理解 goroutine 泄漏和避免泄漏的最佳实践](https://mp.weixin.qq.com/s/cSY2jU9x71YN69hmggyzgQ)
+
+四、董泽润的技术笔记
+
+1. [案例：一次不寻常的慢查调优经历](https://mp.weixin.qq.com/s/s1QmqB7Xf3IrgRebd3RFow)
+
+2. [SQL优化系列之 in与range 查询](https://mp.weixin.qq.com/s/LmBH5Acl-GxtRmEMuLITaw)
+
+五、幽鬼
+
+1. [Go 1.18 中的自引用接口，你看懂了吗？](https://mp.weixin.qq.com/s/r7W3WigooZ49GtmGaIBlPQ)
+
+六、小白debug
+
+1. [推荐一个强大的Go库-rk-boot](https://mp.weixin.qq.com/s/_6xlN7WEDslNeihQ_4d_1w)
+
+七、网管叨bi叨
+
+1. [Go 除了泛型外最值得期待的新功能，模糊测试](https://mp.weixin.qq.com/s/hKYMJy3wpvjWG1LZdJIqNw)
+
+八、脑子进煎鱼了
+
+1. [长达 12 年，Go 才引入泛型，是政治，还是技术问题？](https://mp.weixin.qq.com/s/bL5ZZ4blJgkkSw5uxWkmHg)
+
+九、Go招聘
+
+1. [学会这几招让 Go 程序自己监控自己](https://mp.weixin.qq.com/s/eh7Wlc___Z4uJz2cVtig1g)
+ 
+
 
 
 ## GOCN每日新闻--2021-12-21
@@ -25,6 +69,27 @@ https://gocn.vip/topics/20887
 5.Go 语言逆向技术：常量字符串 https://juejin.cn/post/7043615695480815646
 
 
+## gopherDaily--2021-12-21
+
+1.Go泛型的facilitator模式 - https://rakyll.org/generics-facilititators/
+
+2.Go泛型约束不是enum - https://zephyrtronium.github.io/articles/generics-enums.html
+
+3.Go语言深拷贝与浅拷贝详解 - https://echorand.me/posts/go-values-references-etc/
+
+4.ichiban/prolog：一种可嵌入Go的prolog脚本引擎 - https://github.com/ichiban/prolog
+
+5.Go有序map数据结构的基准测试大比较 - https://gitlab.com/cznic/benchmark-ordered-map/-/blob/master/README.md
+
+6.使用Go实现merkle tree - https://prog-bytes.hashnode.dev/merkle-trees
+
+7.调试器寻宝之旅 - https://github.com/suzmue/gophercon#treasure-hunting-in-other-editors
+
+8.Harvester：建立在Kubernetes上的开源超融合基础设施（HCI）软件，发布了1.0版本 - https://github.com/harvester/harvester
+
+9.作为缓存的Redis与作为主数据库的Redis在90秒内的对比 - https://redis.com/blog/redis-cache-vs-redis-primary-database-in-90-seconds/
+
+10.我做系统架构的一些原则 - https://coolshell.cn/articles/21672.html
 
 
 ## go中文网每日资讯--2021-12-20
