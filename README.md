@@ -9,6 +9,35 @@
 
 # gocn_news_set_2021(下)
 
+
+
+
+
+## GOCN每日新闻--2021-12-22
+1.使用 Go 和 SQLite 构建生产应用程序
+
+2.使用 context.Context 模拟 API 客户端 https://incident.io/blog/golang-client-mocks
+
+3.一种可嵌入的 Go 脚本语言,实现了逻辑编程语言 Prolog https://github.com/ichiban/prolog
+
+4.SSA：终于知道编译器偷摸做了哪些事 https://mp.weixin.qq.com/s/nOhMsMeP1pUFEXKAMUzbWg
+
+5.从 Golang 调用 C 代码 https://tech-lessons.in/invoking-C-code-from-golang/
+
+## gopherDaily--2021-12-22
+
+1. Go101作者又出新作：Go优化101 - https://go101.org/optimizations/101.html
+2. 聊聊Go 1.18的三个小特性 - https://blog.carlmjohnson.net/post/2021/golang-118-minor-features/
+3. 纯Go实现的io-uring包 - https://github.com/ii64/gouring
+4. 用Go+Redis实现分布式锁 - https://kevwan.medium.com/implementing-distributed-lock-with-go-redis-8d943267e21f
+5. 在你的控制器中使用Finalizer进行自定义清理 - https://skhnv.me/finalizers/
+6. Go切片是传值还是传引用 - https://simondrake.dev/2021-11-19-are_slices_copied_by_value_or_reference/
+7. cznic的Go泛型版btree实现 - https://gitlab.com/cznic/b/-/tree/master/v2
+8. 大规模服务网格性能优化 | Aeraki xDS 按需加载 - https://mp.weixin.qq.com/s/LbeQAeADllUbrxaeTTbvyg
+9. fq: 用于检查二进制数据的工具、语言和解码器 - https://github.com/wader/fq
+10. 阿里巴巴超大规模Kubernetes基础设施运维体系揭秘 -  https://mp.weixin.qq.com/s/Q8-xNYk7a5oSYLvsb5Tk7g
+11. 使用BFE如何实现地址透传 - https://mp.weixin.qq.com/s/hpQlD-J_p1SObwBo0ut9FQ
+
 ## go中文网每日资讯--2021-12-21
 
 
