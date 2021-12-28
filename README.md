@@ -11,6 +11,100 @@
 
 
 
+## go中文网每日资讯--2021-12-27
+
+
+一、Go语言中文网
+
+1. [BPF 和 Go: Linux 中的现代内省形式](https://mp.weixin.qq.com/s/XjthFHWG6GMbrh1zyGpteg)
+
+2. [Gopher 需要知道的几个结构体骚操作](https://mp.weixin.qq.com/s/A4m1xlFwh9pD0qy3p7ItSA)
+
+二、云加社区
+
+1. [手把手带你从0搭建一个Golang ORM框架（上）！](https://mp.weixin.qq.com/s/BkQkTWQBQBZPSMuZYnRDjA)
+
+三、CloudNativeCommunity
+
+1. [构建适合组织的云原生可观测性能力](https://mp.weixin.qq.com/s/B75T1w4JQa-23G8pJEw2BA)
+
+四、微服务实践
+
+1. [梦想总是要有的 - 工作20年程序员的2021年终总结](https://mp.weixin.qq.com/s/0sGwhQNzYDTAVGCm35URQg)
+
+五、幽鬼
+
+1. [Golang AI 开发：通过将 AI 集成到你的应用程序](https://mp.weixin.qq.com/s/XaP97Z78iX0dg2-inMxj6Q)
+
+六、MoeLove
+
+1. [K8S 生态周报| Helm 新版本发布，解决了内存泄漏的问题](https://mp.weixin.qq.com/s/3lzFrljdmhadJ3bKrlY2jQ)
+
+七、脑子进煎鱼了
+
+1. [Go 读者提问：值为 nil 能调用函数吗？](https://mp.weixin.qq.com/s/mH51UmolTqCAb7E0LxEjDA)
+
+八、轩脉刃的刀光剑影
+
+1. [Golang 数组的一些自问自答](https://mp.weixin.qq.com/s/2ehRUxDB9W1IhQp0tc1MzA)
+
+九、polarisxu
+
+1. [Go1.18 新特性：TryLock 是什么？需要它吗？](https://mp.weixin.qq.com/s/NGiBcw0Je-clQd0paAsI9Q)
+
+十、Golang技术分享
+
+1. [Go 新的函数调用惯例能快多少？](https://mp.weixin.qq.com/s/8Ej59BPH2R6fuDaK77I6pQ)
+
+十一、腾讯技术工程
+
+1. [服务器开发设计之算法宝典](https://mp.weixin.qq.com/s/fcaQJxlBaP6mgeHIM5gTog)
+
+十二、Go招聘
+
+1. [Go 泛型简明入门教程](https://mp.weixin.qq.com/s/voLL8iPkgpPcpaq-7vX0eQ)
+
+十三、mohuishou
+
+1. [Go 工程化(十一) 如何优雅的写出 repo 层代码](https://mp.weixin.qq.com/s/pb0P_y34N3uOhMu0SDqC2A)
+
+十四、网管叨bi叨
+
+1. [Go 服务进行自动采样性能分析的方案设计与实现](https://mp.weixin.qq.com/s/MNj7SqooyCYLo0ooUt5APA)
+ 
+## GOCN每日新闻--2021-12-27
+
+1.ApacheCN Golang 译文集 https://github.com/apachecn/apachecn-golang-zh
+
+2.Dubbo-go v3.0 正式发布 ——打造国内一流开源 Go 服务框架 https://developer.aliyun.com/article/839884
+
+3.Go Quiz: 从 Go 面试题看 slice 的底层原理和注意事项 https://juejin.cn/post/7045953087080497166
+
+4.为什么 Go 里值为 nil 可以调用函数？ https://segmentfault.com/a/1190000041184903
+
+5.Zinc 一款基于 Go 语言开发的搜索引擎 https://github.com/prabhatsharma/zinc
+
+
+## gopherDaily--2021-12-25
+1.Go 1.18泛型：好的、坏的、丑的 - https://itnext.io/golang-1-18-generics-the-good-the-bad-the-ugly-5e9fa2520e76
+
+2.py4go: go与python互操作包 - https://github.com/tliron/py4go
+
+3.Go调试器发布Delve 1.8.0版本 - https://github.com/go-delve/delve/releases/tag/v1.8.0
+
+4.又一个Go泛型Btree实现，benchmark的成绩不错 - https://github.com/tidwall/btree
+
+5.使用Go与colly构建网络爬虫 - https://blog.logrocket.com/building-web-scraper-go-colly/
+
+6.Go实现的用于测试SSL握手延迟的命令行工具 - https://github.com/tuladhar/ssl-handshake
+
+7.十大go web开发框架 - https://reportwire.org/2021/12/24/10-web-frameworks-for-golang-development/
+
+8.编写代码注释的最佳实践 - https://stackoverflow.blog/2021/12/23/best-practices-for-writing-code-comments/
+
+9.用Go编写的测试SSL握手延迟的命令行工具 - https://github.com/tuladhar/ssl-handshake
+
+10.软件定义汽车实例：特斯拉灯光秀自定义 - https://github.com/teslamotors/light-show
 
 
 ## GOCN每日新闻--2021-12-22
