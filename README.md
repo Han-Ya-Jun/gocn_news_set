@@ -10,6 +10,89 @@
 # gocn_news_set_2021(下)
 
 
+## GOCN每日新闻--2021-12-29
+
+1.用 Go 实现向手机推送工具 https://github.com/binwiederhier/ntfy
+
+2.基于 Go 实现 Mumble 和 Discord 之间的语音工具 https://github.com/Stieneee/mumble-discord-bridge
+
+3.Go 中这么多创建 error 的方式，你真的了解它们各自的应用场景吗 https://gocn.vip/topics/20911
+
+4.Go 依赖分析工具包 https://github.com/loov/goda
+
+5.Godot 的 GDNative 和 NativeScript API 的 Go 绑定 https://github.com/godot-go/godot-go
+
+
+
+
+## go中文网每日资讯--2021-12-28
+
+一、Go语言中文网
+
+1. [Golang AI 开发：通过将 AI 集成到你的应用程序](https://mp.weixin.qq.com/s/VlSGXKRURXQ2XH3VoK5mRg)
+
+2. [Go 1.18新特性前瞻：原生支持Fuzzing测试](https://mp.weixin.qq.com/s/UqjSA2i3s1VoLFACt_EL2A)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-12-27)——Go1.18 新特性：TryLock 是什么？](https://mp.weixin.qq.com/s/1ON9A0KUjk8X-Az1IYS2NA)
+
+三、脑子进煎鱼了
+
+1. [简洁的 Go 多版本管理机制](https://mp.weixin.qq.com/s/P2LrviH2IVMCHo52H0BUBw)
+
+四、polarisxu
+
+1. [Go 1.18 中基于泛型的自引用接口](https://mp.weixin.qq.com/s/A71-iNfozKdmQZRbO6Xpnw)
+
+五、腾讯云原生
+
+1. [TKE 用户故事 - 作业帮 PB 级低成本日志检索服务](https://mp.weixin.qq.com/s/-x0VLC4Id6VriOyhXYuqiQ)
+
+六、后端研究所
+
+1. [深入理解Go Json.Unmarshal精度丢失之谜](https://mp.weixin.qq.com/s/36CqC1U54LUd4-izt4iZ1g)
+
+七、董泽润的技术笔记
+
+1. [如何应对不断膨胀的接口](https://mp.weixin.qq.com/s/PBTP4vnwEXtrtsHdq0oL0g)
+
+八、Go招聘
+
+1. [通过 100 行代码入门 Go](https://mp.weixin.qq.com/s/ThaCUFLg_zcycPMF6J2ROQ)
+
+九、幽鬼
+
+1. [Go1.18 泛型的好、坏亦或丑？](https://mp.weixin.qq.com/s/Xp7B3okOOcNedhNMM1pU3Q)
+
+十、k8s技术圈
+
+1. [自定义 Traefik（本地）插件](https://mp.weixin.qq.com/s/uwMEQgS56OOolgSJes8n2Q)
+
+十一、Golang梦工厂
+
+1. [一些实用的编程模式 | Options模式](https://mp.weixin.qq.com/s/cbZ05jLlp8XtpYBzF80YTA)
+
+十二、Golang技术分享
+
+1. [写 Go 时如何优雅地查文档](https://mp.weixin.qq.com/s/cCLKCPWEminsC1BJcaguSQ)
+
+
+
+
+## GOCN每日新闻--2021-12-28
+
+1.使用 Go SDK 与 OCI 对象存储交互 https://lucasjellema.medium.com/interacting-with-oci-object-storage-using-go-sdk-first-steps-f50682418488
+
+2.深入理解 Go Json.Unmarshal 精度丢失之谜 https://mp.weixin.qq.com/s/36CqC1U54LUd4-izt4iZ1g
+
+3.基于 OpenTelemetry 和 ClickHouse 的分布式链路追踪系统 https://github.com/uptrace/uptrace
+
+4.Go 语言错误与错误包装方法 https://trstringer.com/errors-and-error-wrapping-go/
+
+5.开发与维护 Ebiten(一款 2D 游戏引擎) 的 8 年心路历程 https://medium.com/@hajimehoshi/game-engines-as-an-art-form-f66c835c0a92
+
+
 
 ## go中文网每日资讯--2021-12-27
 
