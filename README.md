@@ -10,6 +10,56 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2022-01-11
+
+
+一、Go语言中文网
+
+1. [Go1.18 泛型的好、坏亦或丑？](https://mp.weixin.qq.com/s/GeEWBcnQ-r-Fl64Th3wKCw)
+
+2. [吐槽过后，我为什么要夸夸 Go 语言](https://mp.weixin.qq.com/s/aBW_umoBhTVY0wPOEPuFYw)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-01-10)——解读Go语言的2021：稳定为王](https://mp.weixin.qq.com/s/QUfoZCAZzHTHCLT_0HPQAA)
+
+三、脑子进煎鱼了
+
+1. [Go 如何实现启动参数的加载](https://mp.weixin.qq.com/s/0Hgbb-WZwX9HUeY3PiL2mw)
+
+四、polarisxu
+
+1. [GitHub 发现了 studygolang 项目依赖的漏洞](https://mp.weixin.qq.com/s/jFqy_HtK-1qIh--RIx00rQ)
+
+2. [Go 有哪几种无法恢复的致命场景？](https://mp.weixin.qq.com/s/QRILNHs1Uej-EO1OIaTXFQ)
+
+五、网管叨bi叨
+
+1. [Go 语言泛型，简明入门教程](https://mp.weixin.qq.com/s/xxHva8cbiw5HhLir4vhwYQ)
+
+六、我的小碗汤
+
+1. [一个有趣的Go项目，3D界面管理k8s集群，真好玩！](https://mp.weixin.qq.com/s/Ke3MppsvV3TmpPShRsOW6g)
+
+七、小白debug
+
+1. [Go 网络编程和 TCP 抓包实操](https://mp.weixin.qq.com/s/YT71cQr6vbz4wsF5I3flNA)
+
+八、分布式实验室
+
+1. [所有的定时任务系统，都绕不开这套处理逻辑](https://mp.weixin.qq.com/s/poRF-xFgBHT-AYpBMnQCoA)
+
+九、Go学堂
+
+1. [Go实战 | 基于有向无环图的并发执行流的实现](https://mp.weixin.qq.com/s/F5BbHeMP7gBZHjiUL0qeeQ)
+
+十、Go招聘
+
+1. [i/o timeout ， 希望你不要踩到这个net/http包的坑](https://mp.weixin.qq.com/s/5d1tyFKBKYzeDgWzDrefOQ)
+
+
+
+
 ## GOCN每日新闻--2022-01-11
 
 1.解读 Go 语言的 2021：稳定为王 https://mp.weixin.qq.com/s/9LKyPfhwldgZY7H4iS7sjg
