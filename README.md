@@ -10,6 +10,40 @@
 # gocn_news_set_2021
 
 
+
+## GOCN每日新闻--2022-01-12
+
+1.Go 实现的自动保存 Git 项目中未提交代码 https://github.com/nikochiko/autosaved
+
+2.Go 的 3 个强大功能 https://betterprogramming.pub/3-powerful-features-of-go-which-i-found-bizarre-2064263629a3
+
+3.Golang Redis RESP3 客户端，自动流水线并支持客户端缓存 https://github.com/rueian/rueidis
+
+4.Runtime 不变性检查库 https://github.com/goodbadreviewer/immcheck
+
+5.消息最终一致性最易用的新架构 https://gocn.vip/topics/20945
+
+
+## gopherDaily--2022-01-12
+
+1.Go项目技术负责人Russ Cox谈colors项目故意破坏对各语言包管理器依赖策略的影响 - https://research.swtch.com/npm-colors
+
+2.asm: 提供优化的算法库，充分利用现代CPU的特性 - https://github.com/segmentio/asm
+
+3.理解Go栈跟踪信息 - https://dev.to/mcaci/reading-stack-traces-in-go-3ah5
+
+4.一图告诉你go 1.18中有哪些变化 - https://miro.com/app/board/uXjVOaLW7dY=/
+
+5.Go 分布式令牌桶限流 + 兜底保障 - https://mp.weixin.qq.com/s/ulGRw4qkWbGKdF83VaIb7A
+
+6.eBPF 和 Wasm：探索服务网格数据平面的未来 - https://mp.weixin.qq.com/s/9eAX74YnBTO_DqKOE9pLUg
+
+7.从Kubernetes yaml创建Helm chart - https://github.com/arttor/helmify
+
+8.Kubernetes 深入研究: 日志管理 - https://aws.plainenglish.io/kubernetes-deep-dive-log-management-a60b06e2d738
+
+9.camellia: 一个轻量级的、持久的、分层的键值存储，用Go语言编写 - https://github.com/debevv/camellia
+
 ## go中文网每日资讯--2022-01-11
 
 
