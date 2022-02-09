@@ -10,6 +10,75 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2022-02-08
+一、Go语言中文网
+
+1. [Go中的程序诊断](https://mp.weixin.qq.com/s/-Lgz_6AzQhUE90VFsX0jjQ)
+
+2. [Go Gio 实战：煮蛋计时器的实现 05 — 重构](https://mp.weixin.qq.com/s/MBcjm0QkWSlikYkVIj9tOQ)
+
+3. [Nginx 竟然也有 playground：还是 Go 语言构建的](https://mp.weixin.qq.com/s/meBX4v3B2XusLVxwdicfeA)
+
+4. [万字长文：Go error 处理最佳实践](https://mp.weixin.qq.com/s/XdRe_yOiFGI8NiR9eWLEoQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-11-23/24)——无需 Dockerfile 的镜像构建](https://mp.weixin.qq.com/s/Dk-yO0SBlYuZoE8QDkgYTg)
+
+三、脑子进煎鱼了
+
+1. [Go 新语法挺丑？最新的泛型类型约束介绍](https://mp.weixin.qq.com/s/A1JYIbPmjIpCOg2TAzdcnA)
+
+2. [Go语言中结构体打 Tag 是什么意思？](https://mp.weixin.qq.com/s/b7OusN25JvY9TdxRPt1UOg)
+
+四、Gopher指北
+
+1. [终于解决了这个线上偶现的panic问题](https://mp.weixin.qq.com/s/VOwlkkm_KC9FG_c2jQhcew)
+
+五、Go招聘
+
+1. [Go 中的 WASM 很棒：全网最全示例教程](https://mp.weixin.qq.com/s/BTzjcuPYfZou35a2xxXOgA)
+
+2. [Golang 中不要犯这 5 个错误](https://mp.weixin.qq.com/s/hEv6dgrhtIrM_ob4dvEoTg)
+
+## gopherDaily--2022-02-08
+1.用Go和HCL构建你自己的DSL - https://ivan-corrales-solera.medium.com/build-your-own-dsl-with-go-hcl-602c92ce24c0
+
+2.以太坊2.0区块链fuzzing test和漏洞发现之旅 - https://fuzzinglabs.com/wp-content/uploads/2022/02/Beaconfuzz_OffensiveCon2022_patrick_ventuzelo.pdf
+
+3.以Go为例-探究并行与并发的区别 - https://mp.weixin.qq.com/s/lKGtEbwf1Y0KvWDjOshsYA
+
+4.当前Kubernetes发行版的比较 - https://dzone.com/articles/a-comparison-of-current-kubernetes-distributions
+
+5.将Kubernetes扩展到4千多个节点和20万个Pod by paypal - https://medium.com/paypal-tech/scaling-kubernetes-to-over-4k-nodes-and-200k-pods-29988fad6ed
+
+6.OpenTelemetry可观测性的未来(中文版) - https://jimmysong.io/opentelemetry-obervability/
+
+7.2022年值得关注的8个企业架构趋势 by redhat - https://www.redhat.com/architect/2022-trends-enterprise-architects
+
+8.缺失的kubernetes类型系统 - https://danielmangum.com/posts/the-missing-kubernetes-type-system/
+
+9.八大Kubernetes安全最佳实践 - https://www.magalix.com/blog/top-8-kubernetes-security-best-practices
+
+10.使用GitHub、GitHub Actions和Argo CD的Kubernetes CI/CD - https://igboie.medium.com/kubernetes-ci-cd-with-github-github-actions-and-argo-cd-36b88b6bda64
+
+11.以太坊上数字签名的魔力 - https://medium.com/mycrypto/the-magic-of-digital-signatures-on-ethereum-98fe184dc9c7
+
+
+## GOCN每日新闻--2022-02-07
+
+1.Go Devroom 2022 https://www.youtube.com/watch?v=WcyDnx-ypug&list=PLvPgJa3brKQbCYvgxewUwwfGHu8iqfYQJ
+
+2.利用字节码编译器和虚拟机优化GoAWK https://benhoyt.com/writings/goawk-compiler-vm/
+
+3.以Go为例-探究并行与并发的区别 https://mp.weixin.qq.com/s/lKGtEbwf1Y0KvWDjOshsYA
+
+4.shortuuid: 高效的去除歧义字符URL安全的uuid生成库 https://github.com/lithammer/shortuuid
+
+5.Go1.18泛型掠影 https://osinet.fr/go/en/articles/go1.18-generics-intro/
+
+
+
 
 ## GOCN每日新闻--2022-01-12
 
