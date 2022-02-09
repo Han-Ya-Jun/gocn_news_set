@@ -11,35 +11,50 @@
 
 
 ## go中文网每日资讯--2022-02-08
+
 一、Go语言中文网
 
-1. [Go中的程序诊断](https://mp.weixin.qq.com/s/-Lgz_6AzQhUE90VFsX0jjQ)
+1. [Go爱好者这么卷。。。](https://mp.weixin.qq.com/s/JGgqGdETPbvEoOdzMLWI6A)
 
-2. [Go Gio 实战：煮蛋计时器的实现 05 — 重构](https://mp.weixin.qq.com/s/MBcjm0QkWSlikYkVIj9tOQ)
+2. [理解go中空结构体的应用和实现原理](https://mp.weixin.qq.com/s/YU45CYk7Q-Na2WISMrUYCQ)
 
-3. [Nginx 竟然也有 playground：还是 Go 语言构建的](https://mp.weixin.qq.com/s/meBX4v3B2XusLVxwdicfeA)
+3. [Go每日一题 今日（2022-02-08）](https://studygolang.com/interview/question/60a1meceg00)
 
-4. [万字长文：Go error 处理最佳实践](https://mp.weixin.qq.com/s/XdRe_yOiFGI8NiR9eWLEoQ)
+二、网管叨bi叨
 
-二、亚军进化史
+1. [用gRPC建设微服务，Proto 怎么管理更合适](https://mp.weixin.qq.com/s/77TRANRUAEJ9vRNRVe3NKg)
 
-1. [Go技术日报(2021-11-23/24)——无需 Dockerfile 的镜像构建](https://mp.weixin.qq.com/s/Dk-yO0SBlYuZoE8QDkgYTg)
+三、Go招聘
 
-三、脑子进煎鱼了
+1. [Go 不同的特性有这么多！！](https://mp.weixin.qq.com/s/63Ui3GPmMISklq47rrdorw)
 
-1. [Go 新语法挺丑？最新的泛型类型约束介绍](https://mp.weixin.qq.com/s/A1JYIbPmjIpCOg2TAzdcnA)
+四、polarisxu
 
-2. [Go语言中结构体打 Tag 是什么意思？](https://mp.weixin.qq.com/s/b7OusN25JvY9TdxRPt1UOg)
+1. [GoLand 发布新版](https://mp.weixin.qq.com/s/SYNqVjp1hViNuILevtoCnQ)
 
-四、Gopher指北
+五、Golang来啦
 
-1. [终于解决了这个线上偶现的panic问题](https://mp.weixin.qq.com/s/VOwlkkm_KC9FG_c2jQhcew)
+1. [学妹力荐，从入门到精通 Go 语言必读的十本书（附电子书）](https://mp.weixin.qq.com/s/BGvFmQHY_kNSIPAnGNYHPA)
 
-五、Go招聘
+六、幽鬼
 
-1. [Go 中的 WASM 很棒：全网最全示例教程](https://mp.weixin.qq.com/s/BTzjcuPYfZou35a2xxXOgA)
+1. [VSCode 1.64 正式发布](https://mp.weixin.qq.com/s/3A2AIUmCrJGjm2W6BFMyBw)
 
-2. [Golang 中不要犯这 5 个错误](https://mp.weixin.qq.com/s/hEv6dgrhtIrM_ob4dvEoTg)
+七、k8s技术圈
+
+1. [访问者模式在 Kubernetes 中的使用](https://mp.weixin.qq.com/s/Pd-W4-cdwb7Pbk2kXOfqWg)
+
+八、CloudNativeCommunity
+
+1. [Tetrate 推出免费的 Envoy 在线基础教程](https://mp.weixin.qq.com/s/gDmc6N6b5oQ0-k6kwPNdzw)
+
+九、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（二、网关）](https://mp.weixin.qq.com/s/iQF2cpMa6fXmeYT1xZg_Pg)
+
+十、Golang梦工厂
+
+1. [面试官：Context携带数据是线程安全的吗？](https://mp.weixin.qq.com/s/cNmEnYUB07OWICcNu7wGfA)
 
 ## gopherDaily--2022-02-08
 1.用Go和HCL构建你自己的DSL - https://ivan-corrales-solera.medium.com/build-your-own-dsl-with-go-hcl-602c92ce24c0
