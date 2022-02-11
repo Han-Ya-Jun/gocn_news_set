@@ -10,6 +10,134 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2022-02-10
+
+一、Go语言中文网
+
+1. [Go：基于 MongoDB 构建 REST API — Fiber 版](https://mp.weixin.qq.com/s/NWoUMwvN6ot7yLuDP0Heiw)
+
+2. [VSCode 1.64 正式发布](https://mp.weixin.qq.com/s/b_uu0dyW6kue-OaDgwcpfg)
+
+3. [Go每日一题 今日（2022-02-10）](https://studygolang.com/interview/question/8d2c8cceg00)
+
+二、脑子进煎鱼了
+
+1. [面试官：Context携带数据是线程安全的吗？](https://mp.weixin.qq.com/s/L1jCsSP55E1QCjBGfZFirw)
+
+三、Golang来啦
+
+1. [学到了！将缓冲 channel 当做 Mutex 来使用](https://mp.weixin.qq.com/s/DRE38mOYYqURMFVkqYPu3w)
+
+四、华仔聊技术
+
+1. [源码系列第1弹 | 带你快速攻略Kafka源码之旅入门篇](https://mp.weixin.qq.com/s/DuGJou6CAsFEvDHKKQz2dw)
+
+五、k8s技术圈
+
+1. [HTTP 缓存协议实战](https://mp.weixin.qq.com/s/op68-6GacxQ8sqHP-TKQAg)
+
+六、ServiceMesher
+
+1. [我做了一个 Istio Workshop，这是第一讲介绍](https://mp.weixin.qq.com/s/81iIeXZ8IEQlSeM4WWl1uQ)
+
+七、云加社区
+
+1. [CGO让Go与C手牵手，打破双方“壁垒”！](https://mp.weixin.qq.com/s/I9IvJnKeJY8IpVB4lcWXNA)
+
+八、幽鬼
+
+1. [2022年2月编程语言排行榜：Go要进前10了，Rust 啥时候进前20呀](https://mp.weixin.qq.com/s/G5E-1xCIUF6zYkpYKSr0EA)
+
+九、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（四、用户中心）](https://mp.weixin.qq.com/s/LtwxbEa9jnLwbkHkKuWkFw)
+
+十、Go招聘
+
+1. [互联网域名系统国家工程研究中心DDI寻Gopher，巴适得很哦](https://mp.weixin.qq.com/s/N1qo6nFnbv_3uFMIWEuAjQ)
+
+
+
+## GOCN每日新闻--2022-02-10
+
+1.Go 1.18 中的新功能 https://lwn.net/SubscriberLink/883602/7b180145da88e058/
+
+2.Kita 一个声明式、反应式、跨平台的类 Web 原生 GUI 工具包，没有依赖项 https://github.com/zhuah/kita
+
+3.研究受Linux Kernel 的 CFS 启发的可能的 Go 调度器改进 https://github.com/golang/go/issues/51071
+
+4.在 Go 中GoF设计模式仍然是有意义的设计模式 https://dev.to/mauriciolinhares/gof-design-patterns-that-still-make-sense-in-go-27k5
+
+5.提案：go/doc：Go doc 注释中的标题、列表和链接 https://github.com/golang/proposal/blob/master/design/51082-godocfmt.md
+
+## go中文网每日资讯--2022-02-09
+一、Go语言中文网
+
+1. [Go 使用场景和用 Go 的顶级公司](https://mp.weixin.qq.com/s/d4flRvQQB1Y1nOj6fU3A2Q)
+
+2. [浅谈Golang两种线程安全的map](https://mp.weixin.qq.com/s/H5HDrwhxZ_4v6Vf5xXUsIg)
+
+3. [Go切片与技巧（附图解）](https://mp.weixin.qq.com/s/IQRHWNUnxiaCDleayNVRVg)
+
+4. [Go每日一题 今日（2022-02-09）](https://studygolang.com/interview/question/8cremcoeg00)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-02-08)——以Go为例-探究并行与并发的区别](https://mp.weixin.qq.com/s/Hw_rKUIWMuha39CeWcyzAA)
+
+三、阿里云云栖号
+
+1. [技术揭秘 | 实时数仓 Hologres 如何支持超大规模部署与运维](https://mp.weixin.qq.com/s/wU-yHNYTZm_ZPPO0TM7uTg)
+
+四、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（三、鉴权）](https://mp.weixin.qq.com/s/hWTjAgBe1QTAVUsmbEk_uw)
+
+五、polarisxu
+
+1. [Rust 项目实战：从头构建一个笔记命令行程序（1）](https://mp.weixin.qq.com/s/pQ3JorFmCZWURj3QsnO19A)
+
+六、Go招聘
+
+1. [Go 应用的持续性分析](https://mp.weixin.qq.com/s/2aLBsFDE_ZQIMWH14Qk3Fw)
+
+七、幽鬼
+
+1. [Go：基于 MongoDB 构建 REST API — Fiber 版](https://mp.weixin.qq.com/s/8k6SJ5NOV7E4UdWDrJ-EgA)
+
+## GOCN每日新闻--2022-02-09
+1.Golang 在大规模流处理场景下的最小化内存使用 https://mp.weixin.qq.com/s/RWDyDmeI1YhstAh-rHd2-A
+
+2.我总结的30条架构原则 https://mp.weixin.qq.com/s/a6hzgn8-ZqOpXZd_OQ_cXQ
+
+3.强大的字符表格生成器 tablewriter https://mp.weixin.qq.com/s/tydkm4SzBCtEE-rYtEZdFA
+
+4.Go 应用的持续性分析 https://mp.weixin.qq.com/s/2aLBsFDE_ZQIMWH14Qk3Fw
+
+5.新升级!简单好用还带black magic的go http client库 https://github.com/imroc/req
+
+
+## gopherDaily--2022-02-09
+1.使用go泛型实现actor模型 - https://viscarra.dev/post/go-generics-actor/
+
+2.Go doc样式增强的提案 by Russ Cox - https://github.com/golang/proposal/blob/master/design/51082-godocfmt.md
+
+3.关于借鉴Linux内核CFS调度器优化Goroutine调度的想法 - https://github.com/golang/go/issues/51071
+
+4.初始化go struct的另类方法 - https://asankov.dev/blog/2022/01/29/different-ways-to-initialize-go-structs/
+
+5.Go 1.18都有哪些功能特性 - https://lwn.net/SubscriberLink/883602/7b180145da88e058/
+
+6.为繁忙的gopher提供go泛型简明教程 - https://sethops1.net/post/go-generics-for-the-busy-gopher/
+
+7.用M3O构建Go Micro服务 - https://blog.m3o.com/building-go-micro-services-with-m3o-259856c2d789?gi=30ad5e246181
+
+8.管理工程团队对Kubernetes集群的访问 - https://loft.sh/blog/managing-access-to-kubernetes-clusters-for-engineering-teams/
+
+9.为什么我们喜欢Go进行下一代应用开发 - https://sagacitysoftware.co.in/why-we-love-golang-for-next-gen-application-development/
+
+10.建立一个Kubernetes集群(2022版本) - https://www.armosec.io/blog/setting-up-kubernetes-cluster/
+
 ## go中文网每日资讯--2022-02-08
 
 一、Go语言中文网
@@ -55,6 +183,11 @@
 十、Golang梦工厂
 
 1. [面试官：Context携带数据是线程安全的吗？](https://mp.weixin.qq.com/s/cNmEnYUB07OWICcNu7wGfA)
+
+
+
+
+
 
 ## gopherDaily--2022-02-08
 1.用Go和HCL构建你自己的DSL - https://ivan-corrales-solera.medium.com/build-your-own-dsl-with-go-hcl-602c92ce24c0
