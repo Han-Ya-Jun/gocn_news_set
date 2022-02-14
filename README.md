@@ -10,6 +10,83 @@
 # gocn_news_set_2021
 
 
+
+## go中文网每日资讯--2022-02-13
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 131 期 — 这道题你做对了吗？](https://mp.weixin.qq.com/s/vLcUA0b6QhMWAb2UFsgHRw)
+
+2. [Go 1.17.7 发布](https://mp.weixin.qq.com/s/xSeBvTbfRt6s0wnI9hbTdg)
+
+3. [浅析gowatch监听文件变动实现原理](https://mp.weixin.qq.com/s/tsavVgnxFb6anLvcjvQwlA)
+
+4. [Go每日一题 今日（2022-02-13）](https://studygolang.com/interview/question/a16keh8eg00)
+
+二、Golang来啦
+
+1. [看完这期图解，别再搞不清切片拷贝了](https://mp.weixin.qq.com/s/reQTIzJ8uj9_E0kcfrNrHw)
+
+2. [你想在Go 2中看到什么？](https://mp.weixin.qq.com/s/6UsCa7_XUOWrT1goOUCgjA)
+
+三、幼麟实验室
+
+1. [【Golang】slice类型存什么？make和new？slice和数组？扩容规则？](https://mp.weixin.qq.com/s/5un37cl6adUsUTI2jGdbCg)
+
+四、脑子进煎鱼了
+
+1. [Go 第三方库推荐：类型转换如此简单](https://mp.weixin.qq.com/s/YS_K9K94SrCXxgJIBxAfSQ)
+
+五、多颗糖
+
+1. [[译] 我做基础架构学到的42件事](https://mp.weixin.qq.com/s/onk3Vteh-82MgIx_7SRgvA)
+
+六、polarisxu
+
+1. [「2022 版」轻松搞定 Go 开发环境](https://mp.weixin.qq.com/s/jq8hmovN7YD90dCBOToKuQ)
+
+七、专家极客圈
+
+1. [经典并发问题: 哲学家就餐问题](https://mp.weixin.qq.com/s/qvDGAtaCkMSrYPmywyHFpg)
+## GOCN每日新闻--2022-02-13
+
+1.Redis 7.0 Multi Part AOF的设计和实现 https://mp.weixin.qq.com/s/v9yvJo7mKb5Hffw8Dw7gDQ
+
+2.手机没网了，却还能支付，这是什么原理？ https://www.helloworld.net/p/4843817912
+
+3.一文读懂分布式架构知识体系 https://mp.weixin.qq.com/s/aLBOGLRjvF0oi9a4yiScMg
+
+4.硬核 ZooKeeper 核心知识总结 https://mp.weixin.qq.com/s/WplqA9lFzSyAtxflfqocFQ
+
+5.从0到1：美团端侧CDN容灾解决方案 https://tech.meituan.com/2022/01/13/phoenix-cdn.html
+
+
+## gopherDaily--2022-02-13
+1.Go中大量堆内存的进一步危险 - https://syslog.ravelin.com/further-dangers-of-large-heaps-in-go-7a267b57d487
+
+2.谷歌大神详解Kubernetes配置管理最佳方法 - https://zhuanlan.zhihu.com/p/463156904
+
+3.Go究竟是否为空切片分配了底层数组 - https://t.zsxq.com/JmeiUVN
+
+4.保护你的Kubernetes集群的7个顶级开源工具 by mattermost - https://mattermost.com/blog/the-top-7-open-source-tools-for-securing-your-kubernetes-cluster/
+
+5.Go性能剖析实战 - https://felixge.de/2021/12/01/advent-of-go-profiling-2021-day-1-1/
+
+6.如何用Goroutines和Channels实现并发性 - https://blog.axdietrich.com/golang-how-to-implement-concurrency-with-goroutines-channels-2b78b8077984
+
+7.用Cilium和eBPF检测container逃逸(到主机)的情况 - https://isovalent.com/blog/post/2021-11-container-escape
+
+8.使用GitOps、多个Argo实例和环境与Argo CD的规模化使用 - https://medium.com/containers-101/using-gitops-multiple-argo-instances-and-environments-with-argo-cd-at-scale-e6b19c86be36
+
+9.数据库存储选型经验总结 - https://mp.weixin.qq.com/s/YpRQa9YguOqJygJbdRZ-nA
+
+10.聊聊veth数据流 - https://mp.weixin.qq.com/s/hJRPTvgvRT_YZK__5VFFtg
+
+11.“一把梭：REST API 全用 POST” - https://coolshell.cn/articles/22173.html
+
+12.多图汇总梳理VPC与三种K8s网络模型 - https://mp.weixin.qq.com/s/W04uff4sHrPM_VtjzHPoJA
+
+13.解析Kubernetes HPA(Horizontal pod autoscaling) - https://awstip.com/kubernetes-hpa-8b7cf54f115
+
 ## go中文网每日资讯--2022-02-10
 
 一、Go语言中文网
