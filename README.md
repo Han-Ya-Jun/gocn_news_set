@@ -10,6 +10,81 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2022-02-14
+一、Go语言中文网
+
+1. [Go 分布式令牌桶限流 + 兜底保障](https://mp.weixin.qq.com/s/sAYaIprZDCjVEJT4TNTzXg)
+
+2. [Golang 函数和 C 函数深度对比](https://mp.weixin.qq.com/s/hTsNu-KrMOLFk2j7fP5w1w)
+
+3. [Go每日一题 今日（2022-02-14）](https://studygolang.com/interview/question/a177jfkeg00)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-02-13)——数据库存储选型经验总结](https://mp.weixin.qq.com/s/oIDil0piAt0PONkmUdTdmw)
+
+三、脑子进煎鱼了
+
+1. [Go1.18 新特性：被折腾 N 次的 TryLock](https://mp.weixin.qq.com/s/mHf2g7SIBRUC1a7UfDlwpw)
+
+2. [用 Go 写的文件传输工具 croc 了解一下](https://mp.weixin.qq.com/s/Cd-KERf8vO9HecS29WWwbA)
+
+四、网管叨bi叨
+
+1. [分享一个 Go 应用的可视化持续采样分析的开源方案](https://mp.weixin.qq.com/s/fSlEYH5YDC8zBFtSHnuncA)
+
+五、Golang来啦
+
+1. [浅析 unsafe.Pointer 与 uintptr](https://mp.weixin.qq.com/s/xyfCR57cd5mNRRsOKvrFRA)
+
+六、Golang梦工厂
+
+1. [Go语言切片面试真题8连问](https://mp.weixin.qq.com/s/Qo_DNAAcamXXwU9ihrY6jA)
+
+七、Golang技术分享
+
+1. [Go 中的那些语法糖](https://mp.weixin.qq.com/s/jN5E9p0BenF7yGof_4fOeg)
+
+八、polarisxu
+
+1. [跟着 Go 作者学泛型](https://mp.weixin.qq.com/s/cLxQrgNfydzCqIQ3lsdzYg)
+
+九、Go招聘
+
+1. [极限科技 - 招聘 Golang 后端开发工程师](https://mp.weixin.qq.com/s/j-J20iOMS56qrx63iCvSdQ)
+
+十、幽鬼
+
+1. [Go 语言中包的风格指南](https://mp.weixin.qq.com/s/pnZoYKAWbUGduvVVsxQDWA)
+
+十一、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（六、订单服务）](https://mp.weixin.qq.com/s/yzUqcLAVbUJ52IxQ5rFzGA)
+
+
+## GOCN每日新闻--2022-02-14
+
+1. Go语言的版本控制历史 - https://research.swtch.com/govcs
+
+2. 完美逃逸Go gc机制的Go内存管理器 - https://github.com/heiyeluren/XMM
+
+3. Go语言的第一次提交（1972年）- https://repography.com/blog/go-first-commit
+
+4. 我们如何用Go编写GitHub action - https://full-stack.blend.com/how-we-write-github-actions-in-go.html
+
+5. 图解Go Context - https://anupamgogoi.medium.com/go-context-for-a-layman-35d3521629d4
+
+6. Go区块链：第一部分：数字账户、签名和验证 - https://www.ardanlabs.com/blog/2022/02/blockchain-01-digital-accounts-signatures-verification.html
+
+7. 当太多的并发使你变慢时 - https://medium.com/@_orcaman/when-too-much-concurrency-slows-you-down-golang-9c144ca305a
+
+8. eBPF相关资源大全 - https://github.com/zoidbergwill/awesome-ebpf
+
+9. 2021中国开源开发者报告 - https://mp.weixin.qq.com/s/7h5cTM6jDnLTq7JLePjRxQ
+
+10. Kubernetes与下一代PaaS - https://thenewstack.io/kubernetes-and-the-next-generation-of-paas/
+
+
 
 ## go中文网每日资讯--2022-02-13
 一、Go语言中文网
