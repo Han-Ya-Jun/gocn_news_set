@@ -10,6 +10,98 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2022-02-15
+
+一、Go语言中文网
+
+1. [把Go的BoltDB用在生产环境，结果18000台服务器瘫痪了](https://mp.weixin.qq.com/s/xZTZj94nHwVh-sLHcrZmag)
+
+2. [浅析 unsafe.Pointer 与 uintptr](https://mp.weixin.qq.com/s/NG0k9KpBry9bC_m30tmu1A)
+
+3. [Go每日一题 今日（2022-02-15）](https://studygolang.com/interview/question/a1vdr9oeg00)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-02-14)——Go语言切片面试真题8连问](https://mp.weixin.qq.com/s/8tG8Z2c7FJ6o19GqfHkDDw)
+
+三、脑子进煎鱼了
+
+1. [生产环境Go程序内存泄露，用pprof如何快速定位](https://mp.weixin.qq.com/s/8UG7qJabqHi6yWARKkZsgA)
+
+四、polarisxu
+
+1. [Go1.18 新特性：编译后的二进制文件，将包含更多信息](https://mp.weixin.qq.com/s/-nWfd05-YOD7Nk02iAiEaA)
+
+五、Go招聘
+
+1. [项目实战：使用 Fiber + Gorm 构建 REST API](https://mp.weixin.qq.com/s/TKphSzgM443DuO9KgZlgKw)
+
+六、TonyBai
+
+1. [Go究竟是否为空切片分配了底层数组](https://mp.weixin.qq.com/s/NMz4PMtFYqkYb5oUo1-FzA)
+
+七、网管叨bi叨
+
+1. [Go 函数的 Map 型参数，会发生扩容后指向不同底层内存的事儿吗？](https://mp.weixin.qq.com/s/WfzeNWV1j0fSXUiVOLe5jw)
+
+八、幽鬼
+
+1. [通过 eBPF 深入探究 Go GC](https://mp.weixin.qq.com/s/Nx5yLo80nCtTuSD_34HN4w)
+
+九、CloudNativeCommunity
+
+1. [DaoCloud 开源 Merbridge，使用 eBPF 代替 iptables，加速 Istio](https://mp.weixin.qq.com/s/21jR7nJCI17VNCFOOj28qw)
+
+十、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（七、支付服务）](https://mp.weixin.qq.com/s/86Xb9U1oSM8rda0Y5iV9dw)
+
+十一、轩脉刃的刀光剑影
+
+1. [为hade增加model自动生成功能](https://mp.weixin.qq.com/s/RS6BWqyNhLB5fAnApEWmKA)
+
+十二、董泽润的技术笔记
+
+1. [体验 http3: 基于 nginx quic 分支](https://mp.weixin.qq.com/s/8CPWh_Ly61m8rkHvPT5n2g)
+
+十三、云加社区
+
+1. [10分钟搞懂！消息队列选型全方位对比](https://mp.weixin.qq.com/s/K6xj4LfplB16Q_DfQL75PA)
+
+
+## GOCN每日新闻--2022-02-15
+1.Go1.18 新特性：三顾茅庐，被折腾 N 次的 TryLock https://segmentfault.com/a/1190000041406598
+
+2.通过 eBPF 深入探究 Go GC https://developer.51cto.com/article/701487.html
+
+3.用 Cobra 写一个命令行工具 https://old-panda.com/2022/02/12/write-a-cli-using-golang-cobra/
+
+4.微服务网关选型，请收下我的膝盖! https://mp.weixin.qq.com/s/qSywaMu6ez1BzLryFDgKPg
+
+5.Salesforce架构师的10大原则 https://mp.weixin.qq.com/s/rsht_PVqo1kmYW-u-R38vA
+
+
+## gopherDaily--2022-02-15
+1.Go语言的版本控制历史 - https://research.swtch.com/govcs
+
+2.完美逃逸Go gc机制的Go内存管理器 - https://github.com/heiyeluren/XMM
+
+3.Go语言的第一次提交（1972年）- https://repography.com/blog/go-first-commit
+
+4.我们如何用Go编写GitHub action - https://full-stack.blend.com/how-we-write-github-actions-in-go.html
+
+5.图解Go Context - https://anupamgogoi.medium.com/go-context-for-a-layman-35d3521629d4
+
+6.Go区块链：第一部分：数字账户、签名和验证 - https://www.ardanlabs.com/blog/2022/02/blockchain-01-digital-accounts-signatures-verification.html
+
+7.当太多的并发使你变慢时 - https://medium.com/@_orcaman/when-too-much-concurrency-slows-you-down-golang-9c144ca305a
+
+8.eBPF相关资源大全 - https://github.com/zoidbergwill/awesome-ebpf
+
+9.2021中国开源开发者报告 - https://mp.weixin.qq.com/s/7h5cTM6jDnLTq7JLePjRxQ
+
+10.Kubernetes与下一代PaaS - https://thenewstack.io/kubernetes-and-the-next-generation-of-paas/
+
 ## go中文网每日资讯--2022-02-14
 一、Go语言中文网
 
