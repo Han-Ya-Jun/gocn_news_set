@@ -10,6 +10,64 @@
 # gocn_news_set_2021
 
 
+
+## go中文网每日资讯--2022-02-16
+一、Go语言中文网
+
+1. [带你十天轻松搞定 Go 微服务系列（一）](https://mp.weixin.qq.com/s/oRX-OUOP9Ak5R1MEHRU5gg)
+
+2. [体验 http3: 基于 nginx quic 分支](https://mp.weixin.qq.com/s/ynqqlSOIOSyp6USynEtrEg)
+
+3. [Go每日一题 今日（2022-02-16）](https://studygolang.com/interview/question/a2fma98eg00)
+
+二、亚军进化史
+
+1. [Go技术日报(2021-02-15)——Go为空切片分配了底层数组？](https://mp.weixin.qq.com/s/uTC2beV0aEdTBZVcpFD9hQ)
+
+三、脑子进煎鱼了
+
+1. [Go1.18 新特性：弃用 strings.Title 方法，换个新坑吧！](https://mp.weixin.qq.com/s/UiP-up751_Q3N0xzE2qkfA)
+
+四、k8s技术圈
+
+1. [无法拉取 gcr.io 镜像？用魔法来打败魔法](https://mp.weixin.qq.com/s/zfpvI24NPXPlSMfT83D6Mw)
+
+五、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（八、各种队列）](https://mp.weixin.qq.com/s/-OAtjaZlP419xOVqvNKtFg)
+
+六、Go招聘
+
+1. [两年刚需房，五年大平层，来这里一起朝九晚六策人生](https://mp.weixin.qq.com/s/_evCfqtLF6JLezHyEEQQqg)
+
+七、MoeLove
+
+1. [K8S 生态周报| Istio 即将发布重大安全更新，多个版本受影响](https://mp.weixin.qq.com/s/Z7XRxO3wTx8gb2-FQGxChA)
+
+八、Kubernetes技术栈
+
+1. [生产环境搭建高可用Harbor（包括恢复演练实操）](https://mp.weixin.qq.com/s/EAiC_zIdiA0kTdhMGM8QDw)
+
+九、Golang来啦
+
+1. [教妹子学 Go 并发原语：啥是 Semaphore ？](https://mp.weixin.qq.com/s/mXLJBmjMl05s-aMEcECeBw)
+
+十、字节跳动技术团队
+
+1. [如何使用高阶函数编程提升代码的简洁性](https://mp.weixin.qq.com/s/w1ebAgnzfDzoGG0sn6KGlQ)
+
+
+## GOCN每日新闻--2022-02-16
+1.使用golang bufio读取trace_pipe遇到的内核bug https://gocn.vip/topics/21234
+
+2.伪数据生成器 bxcodec/faker https://gocn.vip/topics/21229
+
+3.Go1.18 新特性：弃用 strings.Title 方法，换个新坑吧！ https://segmentfault.com/a/1190000041413266
+
+4.使用 Cilium 增强 Kubernetes 网络安全 https://my.oschina.net/u/5110404/blog/5448938
+
+5.微服务从代码到k8s部署应有尽有系列（八、各种队列） https://juejin.cn/post/7065142917312020494
+
 ## go中文网每日资讯--2022-02-15
 
 一、Go语言中文网
