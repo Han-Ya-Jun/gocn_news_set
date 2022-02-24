@@ -9,6 +9,137 @@
 # [gocn_news_set_2021(下)](gocn_news_set_2021_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2022-02-23
+一、Go语言中文网
+
+1. [rsc 大爆料：Go源码的那些有趣历史](https://mp.weixin.qq.com/s/xcbwhFarogiis35v0rFVqg)
+
+2. [带你十天轻松搞定 Go 微服务系列（七）](https://mp.weixin.qq.com/s/cBPZHvrKs_CwBdqd8BfImQ)
+
+3. [Go每日一题 今日（2022-02-23)](https://studygolang.com/interview/question/ctsvdtceg00)
+
+二、polarisxu
+
+1. [这个开源项目牛逼：牙医教你用450行Go代码写出一个编程语言](https://mp.weixin.qq.com/s/2_tVDqZWmc_ttOp9_MlVEQ)
+
+2. [真是头疼，Proto 代码到底放哪里？](https://mp.weixin.qq.com/s/26tJGafFlxwOmJxcuibuFg)
+
+三、幽鬼
+
+1. [如何哄女神欢心，这个Go开源项目说的一清二楚](https://mp.weixin.qq.com/s/UaACcQRZZBAA1u029g09wg)
+
+四、百度Geek说
+
+1. [Golang保姆级Debug教程](https://mp.weixin.qq.com/s/JZR1gaZTR0QtNhk_hQX3CA)
+
+五、k8s技术圈
+
+1. [通过 Kubernetes CSI 实现 Longhorn 卷快照备份、恢复、克隆与扩容功能](https://mp.weixin.qq.com/s/L7h6INpWJOUnpd9Vq7rMPw)
+
+六、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（十三、服务监控）](https://mp.weixin.qq.com/s/6Mvnah6UlG9EVZqeXzyZeg)
+
+七、Golang来啦
+
+1. [我的面试经验忠告，不要被框架所束缚](https://mp.weixin.qq.com/s/XS0HnRRFmqjml0jvibeM3Q)
+
+2. [Go 函数的 Map 型参数，会发生扩容后指向不同底层内存的事儿吗？](https://mp.weixin.qq.com/s/jfsaaIoTN5aWqI-iu_CcEw)
+
+八、腾讯云监控
+
+1. [【Golang 技术分享】关于 Go 并发编程，你不得不知的“左膀右臂”——并发与通道！](https://mp.weixin.qq.com/s/Wwnnx9BLw5Z-ksgJYAe-Vw)
+
+九、脑子进煎鱼了
+
+1. [网友：Go 你是 Google 的，Go：我不是。](https://mp.weixin.qq.com/s/F6JcFwYr0pzCDyqd2XNAaQ)
+
+
+# GOCN每日新闻--2022-02-23
+1.Go GC如何检测内存对象中是否包含指针 https://tonybai.com/2022/02/21/how-gc-detect-pointer-in-mem-obj/
+
+2.运行 Kubernetes 集群失败案例！https://mp.weixin.qq.com/s/7udyJDK5xcNIi9uSMtdXdQ
+
+3.Golang 简洁架构实战 https://mp.weixin.qq.com/s/Xzlt_WcdcfLWhofafY3c6g
+
+4.无代码测试平台 Keploy https://github.com/keploy/keploy
+
+5.Fuzz Testing in Go https://www.reddit.com/r/golang/comments/sx7h1u/packagemain_23_fuzz_testing_in_go/
+
+## gopherDaily--2022-02-23
+1.新proposal: 标准库增加arenas包，最高省15%cpu和mem使用 - https://github.com/golang/go/issues/51317
+
+2.lem: 一个用于断言预期逃逸分析结果和堆分配的Golang测试框架 - https://github.com/akutz/lem
+
+3.keploy: 将API调用自动转换为testcase的无代码测试框架 - https://github.com/keploy/keploy
+
+4.pprof数据在线分析工具 - https://flamegraph.com/
+
+5.干货：我们是如何从头构建我们的API的 by Polar Signals - https://www.polarsignals.com/blog/posts/2022/02/22/how-we-build-our-apis-from-scratch/
+
+6.在阿里云Kubernetes上用MinIO安装私有S3存储 - https://dzone.com/articles/installing-private-s3-storage-with-minio-on-alibab
+
+7.让基于Linux的eBPF程序在Windows的eBPF中运行 - https://cloudblogs.microsoft.com/opensource/2022/02/22/getting-linux-based-ebpf-programs-to-run-with-ebpf-for-windows/
+
+8.使用Go中的yaml.v3包来处理YAML文件 - https://linuxhint.com/golang-yaml/
+
+9.容器101：attach与exec--有什么区别？ - https://iximiuz.com/en/posts/containers-101-attach-vs-exec/
+
+10.Joel Spolsky谈用区块协议构建网络的问题 - https://thenewstack.io/joel-spolsky-on-structuring-the-web-with-the-block-protocol
+
+## go中文网每日资讯--2022-02-22
+
+一、Go语言中文网
+
+1. [带你十天轻松搞定 Go 微服务系列（六）](https://mp.weixin.qq.com/s/Ks5JXrHcXhczh4KBA7BU3g)
+
+二、Go招聘
+
+1. [百度-HCG中台部门招聘Gopher](https://mp.weixin.qq.com/s/_7xJWWyTJQVR03J808e4iA)
+
+2. [这几个土拨鼠你都认识吗？](https://mp.weixin.qq.com/s/8t3tKsrf7qRTVMMdqtRtcg)
+
+三、亚军进化史
+
+1. [Go技术日报(2022-02-21)——你应该如何选择笔记软件？](https://mp.weixin.qq.com/s/VZqsLarPNNsR8CKgodyAAQ)
+
+四、Golang技术分享
+
+1. [这 Go 的边界检查，简直让人抓狂~](https://mp.weixin.qq.com/s/397sL-TCaZrOGR2-s1NFLw)
+
+五、Golang来啦
+
+1. [细数 Context 使用场景](https://mp.weixin.qq.com/s/_IBg5McNrAyLdRdfU1qAcg)
+
+2. [泛型版 singleflight：Go 中如何防止缓存击穿？](https://mp.weixin.qq.com/s/GAqK0Zs6VTJwRIo0Yyt_Ew)
+
+六、脑子进煎鱼了
+
+1. [Go项目实战：从零构建一个并发文件下载器](https://mp.weixin.qq.com/s/Bfbrk72aWHEB99z3DG6Z1w)
+
+七、polarisxu
+
+1. [127.0.0.1 之本机网络通信过程知多少 ?！](https://mp.weixin.qq.com/s/_yRC90iThCsP_zlLA6J12w)
+
+八、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列（十二、链路追踪）](https://mp.weixin.qq.com/s/M6NT1quZGGbmAKO4soLbfg)
+
+
+# GOCN每日新闻--2022-02-22
+
+1.分析并发的 Goroutine https://trstringer.com/analyze-goroutines/
+
+2.K8s 中 Client-go源码分析之Reflector https://bbs.huaweicloud.com/blogs/332737
+
+3.Go 开发者 AWS Lambda 入门 https://blog.mantil.com/dummy-guide-to-aws-lambda-for-go-developers-63192b684898
+
+4.如何退出子 goroutine https://medium.com/debugger22/how-to-exit-a-child-goroutine-65fcb917e994
+
+5.Go 中的接口 https://medium.com/nerd-for-tech/interfaces-in-golang-f9df59b0b71e
+
+
+
 
 ## go中文网每日资讯--2022-02-21
 
