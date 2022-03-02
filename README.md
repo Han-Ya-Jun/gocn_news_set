@@ -9,6 +9,125 @@
 # [gocn_news_set_2021(下)](gocn_news_set_2021_02.md)
 # gocn_news_set_2021
 
+
+
+## go中文网每日资讯--2022-03-01
+
+一、Go语言中文网
+
+1. [微服务从代码到k8s部署应有尽有系列（二、网关）](https://mp.weixin.qq.com/s/RTQN1kv_MOE51XrUZrxBqQ)
+
+2. [Go每日一题 今日（2022-03-01）](https://studygolang.com/interview/question/3v0m17u800)
+
+二、脑子进煎鱼了
+
+1. [要发布了，Go1.18 新特性+泛型文章大汇总！](https://mp.weixin.qq.com/s/535BykFddxKCc0oyxZGwfg)
+
+2. [Go 函数的 Map 型参数，会发生扩容后指向不同底层内存的事儿吗？](https://mp.weixin.qq.com/s/ypgt-g69_13Vi0HHmQKI9g)
+
+三、Golang来啦
+
+1. [Go语言 | 基于channel实现的并发安全的字节池](https://mp.weixin.qq.com/s/91_FxpV5qbR-XNqh0Dh8EA)
+
+2. [Go select 竟然死锁了。。。](https://mp.weixin.qq.com/s/Ov1FvLsLfSaY8GNzfjfMbg)
+
+四、Golang梦工厂
+
+1. [推荐一个强大的Go库-rk-boot](https://mp.weixin.qq.com/s/ueVz4yL5VsuDBdyadWL9hg)
+
+五、后端研究所
+
+1. [面试导论第二弹：看完HTTP协议的艰辛发家史，我悟到了......](https://mp.weixin.qq.com/s/1TWisgy0wdN2dFMFSRZMUg)
+
+六、小白debug
+
+1. [一道正确率只有15%的命名返回值和闭包的问题](https://mp.weixin.qq.com/s/wv2VPC-GP1fc4jyxaMq02Q)
+
+七、Go招聘
+
+1. [车神科技招聘各级别Gopher](https://mp.weixin.qq.com/s/upX3nrKgkJnm2hy6-aUaHw)
+
+八、polarisxu
+
+1. [惊！Rust 中这样操作字符串竟然是错的](https://mp.weixin.qq.com/s/_BYIDReajIGRyTEmdRo5AQ)
+
+九、CloudNativeCommunity
+
+1. [《Envoy 基础教程》史上首本 Envoy 中文电子书上线](https://mp.weixin.qq.com/s/ldbkyUWbRZdP_LSoQCD6BA)
+
+十、k8s技术圈
+
+1. [Zoom - 基础架构 - 云平台开发工程师 | 云原生招聘](https://mp.weixin.qq.com/s/wecRSRFBdT7J32ymnvVELQ)
+
+
+
+## go中文网每日资讯--2022-02-28
+一、Go语言中文网
+
+1. [Go：分布式高并发服务限流实现方案](https://mp.weixin.qq.com/s/GkEAVQ6AWGRadB4fEBlepg)
+
+2. [你可能没那么了解 JWT](https://mp.weixin.qq.com/s/4XClqgPkF2qO4ETWG2uriA)
+
+3. [Go每日一题 今日（2022-02-28）](https://studygolang.com/interview/question/ctukmuoeg00)
+
+二、polarisxu
+
+1. [Go：最简单的服务响应时长优化方法，没有之一](https://mp.weixin.qq.com/s/YP06ErRfydZ1R6-_J5-fcQ)
+
+三、网管叨bi叨
+
+1. [写了 30 多个 Go 常用文件操作的示例，收藏这一篇就够了](https://mp.weixin.qq.com/s/dczWeHW6JWSJMJx1nBx7rA)
+
+四、Go招聘
+
+1. [理解Go中的分配](https://mp.weixin.qq.com/s/cWKW7r0IpUZDmhErcS0x3Q)
+
+五、微服务实践
+
+1. [史上最强代码自测方法，没有之一！](https://mp.weixin.qq.com/s/THsJVIFZ5J8Vzf2h-hgTOQ)
+
+六、Gopher指北
+
+1. [用Go构建你专属的JA3指纹](https://mp.weixin.qq.com/s/uJZBneajgyd55n367awh4A)
+
+七、技术岁月
+
+1. [金融风控领域的 DDD 与中台思考](https://mp.weixin.qq.com/s/uQBJFl4eWqwFe6HCXxvmAA)
+
+八、Golang梦工厂
+
+1. [一道正确率只有15%的命名返回值和闭包的问题](https://mp.weixin.qq.com/s/ACkpo73Msn8f1bGSY0FosA)
+
+九、Golang技术分享
+
+1. [还在自己写 Go 系统监控函数吗](https://mp.weixin.qq.com/s/jGWbisa0Q56EQo_yBKGceQ)
+
+## gopherDaily--2022-02-28
+0. 为什么这个T类型实例无法调用\*T类型的方法 - https://mp.weixin.qq.com/s/RIpeKEP7kveTGEwkCw6CTQ
+
+1. Go 1.18泛型的性能基准测试 - https://programmingpercy.tech/blog/benchmarking-generics-in-go
+
+2. 在Go中使用uber-go/fx进行依赖注入 - https://vincent.composieux.fr/article/dependency-injection-in-go-with-uber-go-fx
+
+3. Go - 你一直错过的实用功能 - https://blog.canopas.com/golang-utility-functions-you-always-missed-ebeabae6b276
+
+4. goutil/dump - 打印漂亮且易于阅读的go数据结构 - https://dev.to/inhere/goutildump-print-beautiful-and-easy-to-read-go-data-504j
+
+5. Prig：类似于AWK，但使用Go作为"脚本" - https://benhoyt.com/writings/prig/
+
+6. 简化operator构建的新模式 - 用Kubebuilder和声明式模式构建Kubernetes运营商
+
+7. 在家庭实验室(homelab)中使用Ansible和Nomad - https://blog.aleksic.dev/using-ansible-and-nomad-for-a-homelab-part-1
+
+8. 离线IP地址定位库 - https://github.com/lionsoul2014/ip2region/tree/master/binding/golang
+
+9. gost: GO语言实现的安全隧道 - https://github.com/ginuerzh/gost
+
+10. 深入理解百度在离线混部技术 - https://mp.weixin.qq.com/s/ZqWWj_jPo_y4YObYieDJXQ
+
+11. 聊聊Go 1.18引入的TryLock - https://appliedgo.com/blog/trylock
+
+
 ## go中文网每日资讯--2022-02-23
 一、Go语言中文网
 
@@ -53,6 +172,8 @@
 九、脑子进煎鱼了
 
 1. [网友：Go 你是 Google 的，Go：我不是。](https://mp.weixin.qq.com/s/F6JcFwYr0pzCDyqd2XNAaQ)
+
+
 
 
 # GOCN每日新闻--2022-02-23
