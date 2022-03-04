@@ -9,6 +9,147 @@
 # [gocn_news_set_2021(下)](gocn_news_set_2021_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2022-03-03
+
+一、Go语言中文网
+
+1. [网友惊呼！Go：完了，我成C++了](https://mp.weixin.qq.com/s/9ys5DYOllFgQGw2GXQDijQ)
+
+2. [微服务从代码到k8s部署应有尽有系列（四、用户中心）](https://mp.weixin.qq.com/s/vc8_OnfsB-ikryHWxatc3A)
+
+二、高可用架构
+
+1. [一文解密 Netflix 的快速事件通知系统是如何工作的](https://mp.weixin.qq.com/s/HdlO0lgzj3KlLYfOxbUinA)
+
+三、脑子进煎鱼了
+
+1. [mysql 主库更新后，从库都读到最新值了，主库还有可能读到旧值吗？](https://mp.weixin.qq.com/s/LMFCfb94f-CvN0DZJl1Qaw)
+
+四、Golang来啦
+
+1. [为什么建议你来公司线下面试](https://mp.weixin.qq.com/s/omjdBTG5uTdIFEYQWIxzJA)
+
+2. [Go 真的有枚举吗？](https://mp.weixin.qq.com/s/4N1aokiQ2g1QDy00w8EogA)
+
+五、小白debug
+
+1. [Go业务开发中常用的几个开源库](https://mp.weixin.qq.com/s/1eq9gp-9cto9HrDQbUtesQ)
+
+六、Go生态
+
+1. [go单例实现—双重检测是否安全](https://mp.weixin.qq.com/s/0MFGgSi0aIbynzx92rhWNQ)
+
+七、Go招聘
+
+1. [「2022 版」轻松搞定 Go 开发环境](https://mp.weixin.qq.com/s/Fzcafd_qwSraQQRdQCf_VA)
+
+八、Golang梦工厂
+
+1. [mysql主库更新后，从库都读到最新值了，主库还有可能读到旧值吗？](https://mp.weixin.qq.com/s/EaTI063DJSH3gDNQhi-OZg)
+
+九、贝壳产品技术
+
+1. [贝壳Go实现的多云对接存储网关建设](https://mp.weixin.qq.com/s/m2d4GRIB9uR2T3zidiTdHw)
+
+十、polarisxu
+
+1. [Go 使用场景和用 Go 的顶级公司](https://mp.weixin.qq.com/s/Y1Dr3UykTvWuzjNKr-NMTg)
+
+## GOCN每日新闻--2022-03-03
+1.全新的国产 golang 框架准备发布啦，快来看看吧 https://gocn.vip/topics/4RWJeAH6oO
+
+2.Go 1.18 中的泛型 - 使用实例介绍 https://www.meetup.com/gophers-frm/events/284176991
+
+3.SOFAStack CAFE 单元化混合云产品中的 Kubernetes 多集群实践 https://juejin.cn/post/7070690605151551519
+
+4.高危！！Kubernetes 新型容器逃逸漏洞预警 https://my.oschina.net/u/4197945/blog/5472774
+
+5.企业深入使用微服务后会面临哪些问题？云原生全链路灰度给了新思路 https://juejin.cn/post/7070425139950649374
+
+
+
+## go中文网每日资讯--2022-03-02
+一、Go语言中文网
+
+1. [太难了：昨晚迁移studygolang搞到半夜3点](https://mp.weixin.qq.com/s/zrYTMZ8TiKJx-Q-Aub6GqQ)
+
+2. [微服务从代码到k8s部署应有尽有系列（三、鉴权）](https://mp.weixin.qq.com/s/h3V5piuq6zPQ8ApkaoxP-w)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-03-01)——Go1.18 新特性+泛型文章大汇总](https://mp.weixin.qq.com/s/UN3vRm3L2d7-U29VP--SOA)
+
+三、新亮笔记
+
+1. [应用架构设计 - 智能物流柜](https://mp.weixin.qq.com/s/sam7hXQ-opOFfDsZwalF0g)
+
+四、ServiceMesher
+
+1. [《Envoy 基础教程》史上首本 Envoy 中文电子书上线](https://mp.weixin.qq.com/s/3yKTjTVTrrEcB8i1PgLOHw)
+
+五、微服务实践
+
+1. [微服务从代码到k8s部署应有尽有系列全集](https://mp.weixin.qq.com/s/8U2h85YJHy3H3hzlBakPPw)
+
+六、网管叨bi叨
+
+1. [Go 的新关键字 any 是个啥](https://mp.weixin.qq.com/s/pToVWRqV6DgZts93GYReXQ)
+
+七、Go学堂
+
+1. [Go实战 | 记一次降低30%的CPU使用率的优化](https://mp.weixin.qq.com/s/16Fn7LahXSadTHS0NXcapQ)
+
+八、Golang技术分享
+
+1. [网友：Go 你是 Google 的，Go：我不是。](https://mp.weixin.qq.com/s/NtwXewy0s0HU6pjlBWCx4Q)
+
+九、Go招聘
+
+1. [Go1.18 新特性：被折腾 N 次的 TryLock](https://mp.weixin.qq.com/s/VY4O8yIfrmy33fDfF7qBlg)
+
+
+## GOCN每日新闻--2022-03-02
+
+1.Go 1.18通过map和Gcshape模板实现泛型 https://github.com/golang/proposal/blob/master/design/generics-implementation-dictionaries-go1.18.md
+
+2.「GoCN酷Go推荐」使用gops诊断运行中的go程序 https://mp.weixin.qq.com/s/fy4nWS6RbU71Ebzcc4njqg
+
+3.Go实战 | 记一次降低30%的CPU使用率的优化 https://gocn.vip/topics/dwn8V7FyR7
+
+4.Go 语言社区新提案 arena https://segmentfault.com/a/1190000041482720
+
+5.微服务从代码到k8s部署应有尽有系列全集 https://mp.weixin.qq.com/s/8U2h85YJHy3H3hzlBakPPw
+
+
+## gopherDaily--2022-03-02
+1. arenas proposal的原型实现 - https://go-review.googlesource.com/c/go/+/387975  
+
+2. 实时视频和音频流代理服务器 - https://github.com/aler9/rtsp-simple-server
+
+3. Go中的回滚函数 - https://dev.to/omniawahid/rollback-functions-in-golang-7e9
+
+4. Kubernetes - 主动/被动服务负载平衡 - https://faun.pub/active-passive-load-balancing-with-kubernetes-services-742cae1938af
+
+5. 使用Go实现Transaction ID Logging - https://www.bellingthecat.xyz/blog/go-transaction-id-logging
+
+6. 使用Go编写高性能GraphQL应用程序的工具 - https://github.com/jensneuse/graphql-go-tools
+
+7. 使用gops诊断运行中的go程序 - https://mp.weixin.qq.com/s/fy4nWS6RbU71Ebzcc4njqg
+
+8. Juniper：一个使用泛型的第三方Go标准库扩展库，包括容器、迭代器和流 - https://github.com/bradenaw/juniper
+
+9. TiDB发布5.4版本 - https://en.pingcap.com/blog/tidb-5-4-kicking-off-2022-with-faster-htap-ease-of-use-and-lower-cost/
+
+10. 无服务器系统的设计模式 - https://mp.weixin.qq.com/s/6XWMLVNPRZaHnCi7SUdOjg
+
+11. Git(Hub)Flow、基于主干的开发和代码审查 - https://reviewpad.com/blog/github-flow-trunk-based-development-and-code-reviews/
+
+12. 每个开发者都应该拥有的5个k8s工具 - https://medium.com/@painhardcore/5-tools-for-k8s-every-developer-should-have-f05f08b43161
+
+13. 视频：数据的版本控制 - https://www.youtube.com/watch?v=zYWuwDRkKU0
+
+14. 在Go中对Kubernetes object进行通用处理 - https://itnext.io/generically-working-with-kubernetes-resources-in-go-53bce678f887
+
 
 
 ## go中文网每日资讯--2022-03-01
