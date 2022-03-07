@@ -9,6 +9,107 @@
 # [gocn_news_set_2021(下)](gocn_news_set_2021_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2022-03-05/06
+
+一、Go语言中文网
+
+1. [Go语言爱好者周刊：第 134 期 — Go GUI 开发者调查](https://mp.weixin.qq.com/s/tGdZhbD8Uvu-OvqRrrnv7g)
+
+2. [这个 Go 程序分析工具太帅了](https://mp.weixin.qq.com/s/63ghkqXgcAlnV583h110dA)
+
+3. [微服务从代码到k8s部署应有尽有系列（五、民宿服务）](https://mp.weixin.qq.com/s/-H5SaQ9r1Pq5U6i-o-boFQ)
+
+4. [Go每日一题 今日（2022-03-06）](https://studygolang.com/interview/question/ctq02j4eg00)
+
+二、RememberGo
+
+1. [一个用go实现的有限状态机](https://mp.weixin.qq.com/s/qjQDgbnce21U1wjr3f05_Q)
+
+三、专家极客圈
+
+1. [经典并发问题](https://mp.weixin.qq.com/s/Qn_l6KnxYgTvXcbrY02crA)
+
+四、脑子进煎鱼了
+
+1. [Go 语言切片面试真题 8 连问](https://mp.weixin.qq.com/s/h4pQcLADBav2ig5TmHrbcg)
+
+五、k8s技术圈
+
+1. [UCloud(上海) - 容器云开发工程师 | 云原生招聘](https://mp.weixin.qq.com/s/N5b8a2hB8V4iPytGbWJW5g)
+
+六、小白debug
+
+1. [生产环境Go程序内存泄露，用pprof如何快速定位](https://mp.weixin.qq.com/s/vfYZ06nBD6VWCOiPfLxcOg)
+
+
+## GOCN每日新闻--2022-03-05/06
+
+1.快速启动一个管理平台项目 GIN-VUE-ADMIN https://mp.weixin.qq.com/s/-ZrgVEizuvdQY_3G04j90Q
+
+2.go单例实现—双重检测是否安全 https://mp.weixin.qq.com/s/0MFGgSi0aIbynzx92rhWNQ
+
+3.go 真的有枚举吗？ https://mp.weixin.qq.com/s/4N1aokiQ2g1QDy00w8EogA
+
+4.helmet一款轻量级云原生网关 https://github.com/Spacewalkio/Helmet
+
+5.Go 中的那些语法糖 https://mp.weixin.qq.com/s/cptwLjQBLI7C0l7jHVWx9g
+
+6.获取”真正“的客户端ip的危险 https://adam-p.ca/blog/2022/03/x-forwarded-for/
+
+7.渲染golang模板指定timeout https://blog.carlosnunez.me/post/render-golang-templates-with-a-timeout/
+
+8.云原生去中心化的nosql数据库 IceFireDB https://github.com/IceFireDB/IceFireDB
+
+9.一个免费开源高性能XMPP服务器 https://github.com/ortuman/jackal/tree/v0.58.0
+
+10.用Lolcat 构建命令行程序 https://blog.ultirequiem.com/chigo
+
+## gopherDaily--2022-03-05/06
+1.关于Go泛型的早期看法 - https://dev.to/matthewdale/early-perspectives-on-go-generics-387m
+
+2.Gopher部落：2022年要做的事儿 - https://tonybai.com/2022/03/06/the-2022-plan-of-gopher-tribe
+
+3.为什么我们迁移到Go - https://medium.com/@samuellaroche/why-we-switched-to-golang-53cb15868eef
+
+4.REST API设计的原则和最佳实践 - https://blog.devgenius.io/best-practice-and-cheat-sheet-for-rest-api-design-6a6e12dfa89f
+
+5.Playwright: 浏览器自动化库，用同一套API控制Chromium、Firefox和WebKit - https://github.com/playwright-community/playwright-go
+
+6.一个轻量级云原生API网关 - https://github.com/Spacewalkio/Helmet
+
+7.经典旧文：如何实现拼写校正器 - http://www.norvig.com/spell-correct.html
+
+8.netshoot：一个Docker + Kubernetes网络故障排除的“瑞士军刀” - https://github.com/nicolaka/netshoot
+
+9.区块链上的机器学习 - https://towardsdatascience.com/machine-learning-haiku-generator-on-blockchain-f6e5a801ca25
+
+10.在基础设施和应用中使用Crossplane和Argo CD实现GitOps - https://codefresh.io/about-gitops/gitops-for-infrastructure-and-applications/
+
+
+
+1.聊聊Go应用输出日志的工程实践 - https://tonybai.com/2022/03/05/go-logging-practice
+
+2.Go播客：为什么要用Go创建一个不可变数据库(immudb) - https://changelog.com/gotime/219
+
+3.字节安全团队开源自研敏感信息保护方案：GoDLP - https://github.com/bytedance/godlp
+
+4.CNCF弹性数据编排和加速沙箱开源项目fluid架构创新论文被国际数据库顶会ICDE收录 - https://mp.weixin.qq.com/s/G1AEBoVlS9wa8JvheVgsBg
+
+5.使用Prometheus构建发布工具promu - https://mp.weixin.qq.com/s/Lc24FmjMHnEC44YbcJkRHg
+
+6.真实客户IP的危险性 - https://adam-p.ca/blog/2022/03/x-forwarded-for/
+
+7.如何用Hugo和Cloudflare建立一个博客 - https://smaller.fish/posts/hugo
+
+8.Go标准库的一个扩展：使用泛型实现包括容器、迭代器和流 - https://github.com/bradenaw/juniper
+
+9.如何在Sourcegraph上使用搜索上下文 - https://dev.to/sourcegraph/how-to-use-search-contexts-on-sourcegraph-138n
+
+10.关于基础软件产品价值的思考 - https://mp.weixin.qq.com/s/r7uyIS1pP31v50r8j7Xjtg
+
+11.在Google的11年 - https://www.industrialempathy.com/posts/11-years-at-google/
+
 ## go中文网每日资讯--2022-03-03
 
 一、Go语言中文网
