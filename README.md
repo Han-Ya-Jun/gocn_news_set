@@ -10,6 +10,101 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2022-03-07
+
+一、Go语言中文网
+
+1. [微服务从代码到k8s部署应有尽有系列（六、订单服务）](https://mp.weixin.qq.com/s/QC0NzSZPKIaVajOuiOoB-A)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-03-05/06)——Go 中的那些语法糖](https://mp.weixin.qq.com/s/4XtYtVUTHHDyIeqRgFrfZQ)
+
+三、捉虫大师
+
+1. [惨，给Go提的代码被批麻了](https://mp.weixin.qq.com/s/5kxj9B7mwmTDIYPflAVZbQ)
+
+四、云加社区
+
+1. [来，5W1H分析法帮你系统掌握缓存！（图文并茂）](https://mp.weixin.qq.com/s/q6T0mbvbTtt46C64638p2A)
+
+五、polarisxu
+
+1. [一文理解Go中的内存分配](https://mp.weixin.qq.com/s/UARz-SexNbF5pRQt7NveZQ)
+
+六、Go招聘
+
+1. [Go 原生并发原语和最佳实践](https://mp.weixin.qq.com/s/8SDm0ADq6BO9rj8Zcx6lZg)
+
+七、MoeLove
+
+1. [K8S 生态周报| Knative 进入 CNCF 孵化，K8S ingress-nginx 解决多实例问题](https://mp.weixin.qq.com/s/INxSawTXLkoKtsjvVDxDQQ)
+
+八、网管叨bi叨
+
+1. [图解算法基础--快速排序，附 Go 代码实现](https://mp.weixin.qq.com/s/R4oIaBO-mQjemwNtA6sjBA)
+
+九、微服务实践
+
+1. [构建 Go 应用 docker 镜像的十八种姿势](https://mp.weixin.qq.com/s/udpNP2LzF0bfn8w_wNcMYQ)
+
+十、码农桃花源
+
+1. [为什么你不应该接受有 race 的代码](https://mp.weixin.qq.com/s/0vz9uR8zIT64Gvv3qjTENQ)
+
+十一、奇伢云存储
+
+1. [Linux 存储系列｜请描述一下文件的 io 栈？](https://mp.weixin.qq.com/s/IrZF9lWweEs1rhxuvMUCKA)
+
+十二、Golang梦工厂
+
+1. [Go1.18 引入了新的 netip 网络库](https://mp.weixin.qq.com/s/ht_yoL23-GdAmOn_gQnwqw)
+
+十三、Golang技术分享
+
+1. [怎么选择 Go 文件读取方案](https://mp.weixin.qq.com/s/Z-19Yj8Je7Wb9bqvMR35Cg)
+
+
+## GOCN每日新闻--2022-03-07
+
+1.最常用的架构模式 https://colobu.com/2022/03/06/most-useful-software-architecture-patterns/
+
+2.聊聊Go应用输出日志的工程实践 https://tonybai.com/2022/03/05/go-logging-practice/
+
+3.juniper：使用泛型扩展Go标准库 https://github.com/bradenaw/juniper
+
+4.lo:泛型实现的实用工具集 https://github.com/samber/lo
+
+5.Helmet：新的云原生网关 https://github.com/Spacewalkio/Helmet
+
+
+## gopherDaily--2022-03-07
+1. 数据结构和算法的Go实现 - https://goa.lenggirl.com/
+
+2. 一个Nodejs程序员在7天内学会关于Go的一切 - https://github.com/harrytran103/7_days_of_go
+
+3. 开始一个新的Gin网络应用的坚实基础 -  https://universalglue.dev/posts/solid-foundation-new-gin-app/
+
+4. 在Go中打印一个带有（逗号）千位分隔符的数字 - https://gosamples.dev/print-number-thousands-separator/
+
+5. 为你的Go项目提供Git Hooks - https://dev.to/aarushgoyal/git-hooks-for-your-golang-project-1168
+
+6. 作为一名Java开发者，如何开始使用Go？ - https://dev.to/rubyshiv/how-to-get-started-with-golang-as-a-java-developer-1icd
+
+7. 支持大规模系统的设计模式和原则 - https://medium.com/everything-full-stack/design-patterns-and-principles-that-support-large-scale-systems-f3c9adf89ad
+
+8. 为基于OpenID连接的单点登录配置MinIO - https://www.oak-tree.tech/blog/minio-oauth2-acorn
+
+9. Go中的可选函数参数 - https://bojanz.github.io/optional-parameters-go/
+
+10. 简化K8S Operator构建的新模式 - https://medium.com/geekculture/a-new-pattern-that-simplifies-operator-building-39df5d021cfa
+
+11. 现代C++速查表 - https://hackingcpp.com/cpp/cheat_sheets.html
+
+12. Kubernetes中的多调度器 - https://faun.pub/multiple-schedulers-in-kubernetes-a78a7b4fa4b2
+
+13. 汇编语言编程的艺术 - http://www.phatcode.net/res/223/files/html/toc.html
+
 ## go中文网每日资讯--2022-03-05/06
 
 一、Go语言中文网
@@ -64,6 +159,9 @@
 9.一个免费开源高性能XMPP服务器 https://github.com/ortuman/jackal/tree/v0.58.0
 
 10.用Lolcat 构建命令行程序 https://blog.ultirequiem.com/chigo
+
+
+
 
 ## gopherDaily--2022-03-05/06
 1.关于Go泛型的早期看法 - https://dev.to/matthewdale/early-perspectives-on-go-generics-387m
