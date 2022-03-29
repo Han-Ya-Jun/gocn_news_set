@@ -9,6 +9,95 @@
 # [gocn_news_set_2021(下)](gocn_news_set_2021_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2022-03-25
+一、Go语言中文网
+
+1. [一本 Go 新书，中文的](https://mp.weixin.qq.com/s/UDhbtLBsoM6WTp8JfKMVBg)
+
+2. [微服务从代码到k8s部署应有尽有系列（十四、部署环境搭建）](https://mp.weixin.qq.com/s/N6Rq8NA7pz_shkhlVJBJfQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-03-23)——Go程序性能瓶颈实战分析](https://mp.weixin.qq.com/s/akwV9U5FNyUxZ258hLsCOA)
+
+三、多颗糖
+
+1. [《深入理解分布式系统》正式出版，聊聊背后的故事，文末送书！](https://mp.weixin.qq.com/s/2NHPHhNacHeusx2-HrZSnA)
+
+四、polarisxu
+
+1. [在 golang 中是如何对 epoll 进行封装的？](https://mp.weixin.qq.com/s/ey9Xb8B0WTg0nXAtya3SLQ)
+
+五、腾讯技术工程
+
+1. [深入揭秘 epoll 是如何实现 IO 多路复用的](https://mp.weixin.qq.com/s/9vVs2olnfoVEpoJCFWUmMQ)
+
+六、Go招聘
+
+1. [Go 要违背初心吗？新提案：手动管理内存](https://mp.weixin.qq.com/s/i8XM8Rwaiu7LcwAgXxSJgg)
+
+七、taowen
+
+1. [为什么真实世界的代码总是难以理解](https://mp.weixin.qq.com/s/dI_-GdcJUJYz7kbtWit5gw)
+
+八、网管叨bi叨
+
+1. [かいわ面试官 の 两个事务并发写，能保证数据唯一吗？](https://mp.weixin.qq.com/s/jfo_iov-ubPFF1bwTVPMmw)
+
+九、Golang来啦
+
+1. [Go 语言基础 - 循环语句](https://mp.weixin.qq.com/s/yG7DFomXgCR5uXsG2O8GlQ)
+
+2. [Go语言 JSON 与 Cache 库 调研与选型](https://mp.weixin.qq.com/s/TlCi9qUKAZKRJ2SlSLiXSA)
+
+十、小白debug
+
+1. [读书分享｜高效能人士要培养哪些习惯](https://mp.weixin.qq.com/s/xxT-_TyzU7NX9F2GG871HA)
+
+
+## GOCN每日新闻--2022-03-27
+
+1.Go优化简易手册 https://medium.com/scum-gazeta/golang-simple-optimization-notes-70bc64673980
+
+2.Facebook 开源的 Golang 实体框架 Ent https://mp.weixin.qq.com/s/5y109CWvj0B4xM3fgkX5WA
+
+3.为什么我们使用Go实现所有 https://bitly.com/blog/why-we-write-everything-in-go/
+
+4.什么是Go工作区，我是如何使用他们的 https://dev.to/gophers/what-are-go-workspaces-and-how-do-i-use-them-1643
+
+5.使用AplineJS和Webview实现Go GUI https://dev.to/tschuehly/creating-a-go-gui-with-alpinejs-and-webview-3290
+
+## gopherDaily--2022-03-28
+
+1.Go社区主流Kakfa客户端简要对比 - https://tonybai.com/2022/03/28/the-comparison-of-the-go-community-leading-kakfa-clients
+
+2.Go程序优化注意事项简要说明 - https://medium.com/scum-gazeta/golang-simple-optimization-notes-70bc64673980
+
+3.PDF不能被tokenized（修复rsc/pdf）- https://www.wowsignal.io/articles/pdf
+
+4.Facebook开源Go实体框架 Ent - https://mp.weixin.qq.com/s/5y109CWvj0B4xM3fgkX5WA
+
+5.Go本地缓存(bigcache/freecache/fastcache等)选型对比及原理总结 - https://zhuanlan.zhihu.com/p/487455942
+
+6.将自己暴露为socks5代理的Wireguard客户端 - https://github.com/octeep/wireproxy
+
+7.用Zap在Go中进行结构化日志记录 - https://codewithmukesh.com/blog/structured-logging-in-golang-with-zap/
+
+8.揭开 kube-proxy 的神秘面纱 - https://mayankshah.dev/blog/demystifying-kube-proxy/
+
+9.如何用Gin处理表单(Form) - https://universalglue.dev/posts/gin-post-form-data/
+
+10.用Go编写的实验性计算机代数系统 - https://corywalker.github.io/expreduce-docs/
+
+11.漫画图解：一台Linux服务器最多能支撑多少个TCP连接？ - https://mp.weixin.qq.com/s/iQuSst6WYsn6IS_DTG4YAg
+
+12.为什么每个程序员都要写博客 - https://dev.to/ruppysuppy/why-every-programmers-must-blog-3953
+
+13.数据科学家的工作是什么？ - https://www.stratascratch.com/blog/what-does-a-data-scientist-do/
+
+14.用Go制造有趣的声音 - https://github.com/rbren/WinslowSynth
+
+15.开发者布道手册 - https://mp.weixin.qq.com/s/s0MkJzW2gVWMhubqA_ihmQ
 
 ## go中文网每日资讯--2022-03-22
 一、Go语言中文网
