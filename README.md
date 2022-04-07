@@ -9,6 +9,99 @@
 # [gocn_news_set_2021(下)](gocn_news_set_2021_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2022-04-08
+
+一、Go语言中文网
+
+1. [Go 内存泄漏排查实战](https://mp.weixin.qq.com/s/7bpzvGLPd0MiOL6w-AdYHw)
+
+2. [Go是如何缓解供应链攻击的](https://mp.weixin.qq.com/s/Zn7ee8Mos4aSgBcHvXRDBg)
+
+二、脑子进煎鱼了
+
+1. [Go 之父：聊聊我眼中的 Go 语言和环境](https://mp.weixin.qq.com/s/amZ2A4UOf_0E8_k39rn2hA)
+
+三、网管叨bi叨
+
+1. [用 Go 学算法--归并排序](https://mp.weixin.qq.com/s/XX4NvwSjUXBZjCwTnYnbhQ)
+
+四、roseduan写字的地方
+
+1. [LotusDB 设计与实现—1 基本概念](https://mp.weixin.qq.com/s/ZonJYwa_kGY8z7uQuC6l_Q)
+
+五、进击云原生
+
+1. [如何调试Kubernetes集群中的网络延迟问题](https://mp.weixin.qq.com/s/78yVKmNP-huNAiHH7K_3aw)
+
+六、Golang梦工厂
+
+1. [Go语言切片原生支持并发吗？](https://mp.weixin.qq.com/s/CbGPnuYOLyzuxn2zKL9yaQ)
+
+七、polarisxu
+
+1. [厉害了：Docker创始人再创业，拿到2000万美元融资](https://mp.weixin.qq.com/s/RJlBr79SS_RJns0t8A7rcQ)
+
+八、码农桃花源
+
+1. [计算密集型服务 性能优化实战始末](https://mp.weixin.qq.com/s/aIKNqQAaI37iJPEEi9z8YQ)
+
+九、腾讯技术工程
+
+1. [Git 全功能介绍](https://mp.weixin.qq.com/s/8WvmW3rs7KxRg8OLSZV_5Q)
+
+十、云加社区
+
+1. [作为Gopher，你知道Go的注释即文档应该怎么写吗？](https://mp.weixin.qq.com/s/r4IWY6bzKph2QvxrKZszPA)
+
+十一、Go招聘
+
+1. [Go HTTP服务优雅关闭中出现的小插曲](https://mp.weixin.qq.com/s/HY82uS2eYzt7cHqvdHKF-Q)
+
+## GOCN每日新闻--2022-04-07
+
+1.【官方发布教程】熟悉工作区 https://gocn.vip/topics/1Qrgzlt0wJ
+
+2. eBPF/Ftrace 双剑合璧：no space left on device 无处遁形 https://mp.weixin.qq.com/s/VuD20JgMQlbf-RIeCGniaA
+
+3. Go 有限状态机库 fsm https://github.com/looplab/fsm
+
+4. json-filter 一个golang的json字段过滤器 https://gocn.vip/topics/3Qz4jeTKoe
+
+5. 彻底搞懂 Kubernetes 中的 Events https://mp.weixin.qq.com/s/PMak5GZXTQdKGA0L6hAkxQ
+
+
+## gopherDaily--2022-04-07
+
+1.真实世界Go data race研究 by uber - https://arxiv.org/abs/2204.00764
+
+2.让Go错误处理与Sentry错误监控配合更默契 - https://incident.io/blog/golang-errors
+
+3.以静态网站形式部署的、直接在浏览器中使用Go编译器的全部功能的go playground - https://github.com/Yeicor/static-go-playground/
+
+4.使用Go开发的 Djinn CI平台 - https://github.com/djinn-ci/djinn
+
+5.基于Go的Ebiten 游戏开发大赛 - https://ebitencookbook.vercel.app/blog/2022/04/04/gamejam
+
+6.数据约束语言CUE是何方神圣？ - https://mp.weixin.qq.com/s/J2Hid1dO8ebkWL5UrVBeyA
+
+7.云原生时代如何用Prometheus实现性能压测可观测-Metrics篇 - https://mp.weixin.qq.com/s/EALj-qDIgEwWjlItGcSoww
+
+8.Go语言实现的BGP协议 - https://github.com/osrg/gobgp
+
+9.图灵奖得主、《龙书》作者万字长文讲解：什么是抽象？- https://zhuanlan.zhihu.com/p/491926469
+
+10.解读OpenShift的逻辑架构和技术架构 - https://mp.weixin.qq.com/s/Kvf0jq-wY1otal1ptneNZA
+
+11.虚幻引擎5终于来了！- https://mp.weixin.qq.com/s/XGUc8RtMGuLdnSJtC8I5Sw
+
+12.Docker创始人的新产品Dagger好用吗？ - https://mp.weixin.qq.com/s/4hwtgV6WJ-60FL1lGHoAQw
+
+13.Kubernetes、集群联邦和资源分发 - https://mp.weixin.qq.com/s/vvJXkDKkeVGs3N6G4vSdBg
+
+14.在单体仓库中如何共享Go package - https://passage.id/post/shared-go-packages-in-a-monorepo
+
+
 ## go中文网每日资讯--2022-03-25
 一、Go语言中文网
 
