@@ -10,6 +10,103 @@
 # gocn_news_set_2021
 
 
+
+## go中文网每日资讯--2022-04-13
+一、Go语言中文网
+
+1. [Go：gRPC-Gateway 完全指南](https://mp.weixin.qq.com/s/pMXsG-rx_WAS8OJalLEh4A)
+
+2. [在docker环境导入私有仓库的问题](https://mp.weixin.qq.com/s/iHX6ty2XDUwxF-G_aWDEQw)
+
+二、脑子进煎鱼了
+
+1. [好物分享：快速找到 Goroutine 泄露的地方](https://mp.weixin.qq.com/s/E3Lgl9T8iQYl65T3e0vDTA)
+
+三、k8s技术圈
+
+1. [Thanos Ruler 组件的使用](https://mp.weixin.qq.com/s/o3Gr8X5Br3DsOATvXXlZBw)
+
+四、腾讯技术工程
+
+1. [腾讯网关 TGW 基础原理入门](https://mp.weixin.qq.com/s/w6oGa9YombLvRSzqxfiWrw)
+
+五、腾讯云原生
+
+1. [技术集锦 | 服务网格 &amp; Istio 技术原理及最佳实践系列](https://mp.weixin.qq.com/s/kt-iu8dCHpitfeiSy6stVQ)
+
+六、云加社区
+
+1. [Go 1.18新特性让多模块开发变得更简单！](https://mp.weixin.qq.com/s/CEcbl4OcTMO6ko3XQ_0PDQ)
+
+七、Go招聘
+
+1. [WASM in Go 真的有前途？都出书了](https://mp.weixin.qq.com/s/kBOtyZUg8AhiCYrFFexGLw)
+
+八、小白debug
+
+1. [Redis 缓存击穿（失效）、缓存穿透、缓存雪崩怎么解决？](https://mp.weixin.qq.com/s/5ox0qq1TMRCDBitpxuJyoA)
+
+九、犀利豆的技术空间
+
+1. [《SRE google 运维解密》读书笔记 （一）](https://mp.weixin.qq.com/s/CpYdqZ4XAW5vST8skm2g2Q)
+
+十、Go学堂
+
+1. [深入浅出Go泛型之泛型使用三步曲](https://mp.weixin.qq.com/s/1qtAMerSS3hqCLVlXf670Q)
+
+十一、CloudNativeCommunity
+
+1. [利用eBPF技术带来的可观测性的上帝视角：Kindling开源项目介绍](https://mp.weixin.qq.com/s/GWVjpUeInzrL3esftmlavQ)
+
+十二、Golang来啦
+
+1. [Go语言init函数你必须记住的六个特征](https://mp.weixin.qq.com/s/sko5Wr3t6usx4BHOl_zyrA)
+
+2. [Go错误集锦 | 通过示例理解数据竞争及竞争条件](https://mp.weixin.qq.com/s/BI_ZM__EdX6YH_E9yVOppg)
+
+
+## GOCN每日新闻--2022-04-13
+
+1.golang常用库包：Go依赖注入(DI)工具-wire使用 https://www.cnblogs.com/jiujuan/p/16136633.html
+
+2.一文了解字节跳动微服务中间件 CloudWeGo https://my.oschina.net/u/4843764/blog/5513465
+
+3.B+树原理以及Go语言实现 https://segmentfault.com/a/1190000041696709
+
+4.go-carbon 2.1.0 版本发布， 增加对 go1.18 版本的兼容支持 https://gocn.vip/topics/OR34MDUOQY
+
+5.Excelize 发布 2.6.0 版本，功能强大的 Excel 文档基础库 https://gocn.vip/topics/GopMegfXRg
+
+
+## gopherDaily--2022-04-13
+
+1. 从真实事故出发：Go内存问题排查指北 - https://mp.weixin.qq.com/s/HdSIC93HMbqvbQisCr186Q
+
+2. 在Twitch打破单体架构：第一部分 - https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch/
+
+3. 80倍的缓存性能提升 - https://www.ksred.com/80x-caching-improvement-in-go/
+
+4. 为数以百万计的并发任务实现一个计时轮 - https://kevwan.medium.com/implement-a-timing-wheel-for-millions-of-concurrent-tasks-942c8d9e4abe
+
+5. Go vs. Java：你应该选择哪个？- https://www.turing.com/blog/golang-vs-java-which-language-is-best/
+
+6. 用Go构建一个带有设备代码授予的CLI应用程序 - https://fusionauth.io/blog/2020/06/17/building-cli-app-with-device-grant-and-golang
+
+7. 如何使用GoReleaser来自动发布Go版本？ - https://digitalskeleton.com.ng/threads/how-to-use-goreleaser-to-automate-golang-build-releases.19092/
+
+8. 详细panic/recover机制 - https://go101.org/article/panic-and-recover-more.html
+
+9. 如何在Go中使用Bcrypt对密码进行正确的哈希和加盐处理 - https://dev.to/gregorygaines/how-to-properly-hash-and-salt-passwords-in-golang-using-bcrypt-io4
+
+10. 如何从零开始搭建SRE？ - https://mp.weixin.qq.com/s/ll63bjjZYoJfkZJpo9FhWA
+
+11. 如何减少你的prometheus使用成本 - https://medium.com/gumgum-tech/how-to-reduce-your-prometheus-cost-6c7cc685e347
+
+12. Go 1.18 和 Google Cloud - https://cloud.google.com/blog/products/gcp/go-1-18-and-google-cloud-go-now-with-google-cloud
+
+
+
+
 ## go中文网每日资讯--2022-04-08
 
 一、Go语言中文网
