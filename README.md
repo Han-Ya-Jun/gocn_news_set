@@ -9,6 +9,94 @@
 # [gocn_news_set_2021(下)](gocn_news_set_2021_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2022-04-16/17
+一、Go语言中文网
+
+1. [Go1.18.1 发布](https://mp.weixin.qq.com/s/1w0EEQw6gjcFdSz7FYPWBQ)
+
+2. [Go语言爱好者周刊：第 140 期 — Go 开源的推荐系统](https://mp.weixin.qq.com/s/VRs2b4LnNRyvJh7R2KM_5w)
+
+二、Gopher指北
+
+1. [Go 语言空结构体详解](https://mp.weixin.qq.com/s/ThHog9kSDxV6NUXKsE_sig)
+
+三、luozhiyun很酷
+
+1. [透过Redis源码探究Hash表的实现](https://mp.weixin.qq.com/s/HKgFrW3lOnqwLoz5-4HJ_w)
+
+四、云影原生
+
+1. [GO 1.17调用规约到底优化了多少](https://mp.weixin.qq.com/s/7T3Gh4H-qyUrv-WBxT9jcg)
+
+五、多颗糖
+
+1. [爱讲故事的计算机科学家，和他的分布式系统](https://mp.weixin.qq.com/s/mgnSvVkPlP4uoe6QoCLq7g)
+
+六、RememberGo
+
+1. [Go netpoll大解析](https://mp.weixin.qq.com/s/0g8YiJPOUjqUbEcJ66i38Q)
+
+七、gopher梦工厂
+
+1. [深入Go代码覆盖率使用、场景与原理](https://mp.weixin.qq.com/s/RrU_jNrR-xPZlPRnQWT-Vw)
+
+八、Go生态
+
+1. [gRPC 客户端长连接机制实现及 keepalive 分析](https://mp.weixin.qq.com/s/U6WMwrowutsvfvrYLz0wOQ)
+
+
+
+## GOCN每日新闻--2022-04-17
+
+1.在命令行终端里画画 https://github.com/maaslalani/draw
+
+2.用k8s helm和skaffold开发golang https://tompriordev.com/2022/04/16/golang-dev-with-kubernetes-helm-and-skaffold/
+
+3.golang中间件的一个自研实现  https://betterprogramming.pub/a-do-it-yourself-implementation-of-the-golang-middleware-6f02f155ed17
+
+4.我最喜欢的特性之一是go是怎样实现接口的 https://www.reddit.com/r/golang/comments/u4pb8u/one_of_my_favorite_features_of_go_is_how/
+
+5.go1.18.1 macOS版发布  https://go.dev/dl/
+
+
+
+## GOCN每日新闻--2022-04-16
+1.只专注于记录 JSON 格式的日志，0 内存分配 https://github.com/rs/zerolog
+
+2.[英文播客] 组织公共 Golang 代码的最佳实践 https://changelog.com/gotime/225
+
+3.降低 Prometheus 成本 https://medium.com/gumgum-tech/how-to-reduce-your-prometheus-cost-6c7cc685e347
+
+4.《SRE google 运维解密》读书笔记 （一）https://mp.weixin.qq.com/s/CpYdqZ4XAW5vST8skm2g2Q
+
+5.Twitch 打破巨石架构 https://blog.twitch.tv/en/2022/03/30/breaking-the-monolith-at-twitch/
+
+## gopherDaily--2022-04-17
+1.万字长文介绍Go 1.18中值得关注的几个变化 - https://t.zsxq.com/jy7QBei
+
+2.Go 语言的 GC 实现分析 - https://xargin.com/impl-of-go-gc/
+
+3.Uber工程师对真实世界并发问题的研究 - https://colobu.com/2022/04/07/A-Study-of-Real-World-Data-Races-in-Golang/
+
+4.Go官博：何时使用泛型 - https://go.dev/blog/when-generics
+
+5.使用Kubernetes、Helm和Skaffold的Go开发 - https://tompriordev.com/2022/04/16/golang-dev-with-kubernetes-helm-and-skaffold/
+
+6.Go播客：Go代码组织最佳实践 - https://changelog.com/gotime/225
+
+7.让我们用Go建立一个具有独立分层结构的电影API - https://medium.com/@dilaragorum/lets-build-a-movie-api-with-clean-architecture-ef1f555b563d
+
+8.想建立一个Kubernetes operator？以下是你需要了解的内容 - https://medium.com/@sherinekhoury_5175/thinking-of-building-a-kubernetes-operator-heres-what-you-need-to-know-46fc3e878cb1
+
+9.好代码的“货物崇拜” - https://pboyd.io/posts/cargo-cult-of-good-code/
+
+10.编程方法论的思考 - https://mp.weixin.qq.com/s/ajvKJUQPJ93_JcAPZr5O_w
+
+11.lyft公司如何做验收测试？- https://mp.weixin.qq.com/s/E-r4TqzgKztuRPx3Bb34Xg
+
+12.Go字符串比较，终于有人讲清楚了 - https://t.zsxq.com/RFAQBIA
+
+
 
 
 ## go中文网每日资讯--2022-04-13
