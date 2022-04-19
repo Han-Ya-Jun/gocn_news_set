@@ -9,6 +9,93 @@
 # [gocn_news_set_2021(下)](gocn_news_set_2021_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2022-04-18
+
+一、Go语言中文网
+
+1. [使用 Go 泛型的最佳时机](https://mp.weixin.qq.com/s/kJJDb0r8XA7Ed-YxOFs4rg)
+
+2. [一个select死锁问题](https://mp.weixin.qq.com/s/F1RGLrh371l_NpeC42FRKw)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-04-16/17)——Go语言的GC实现分析](https://mp.weixin.qq.com/s/Obw0bX8R8mtxHdBrMkOxpw)
+
+三、脑子进煎鱼了
+
+1. [为什么 Go 语言能在中国这么火？](https://mp.weixin.qq.com/s/9b3AS73bcuNhLxPSggbAhQ)
+
+2. [通过消息重排自动检测 Go 程序中的并发缺陷](https://mp.weixin.qq.com/s/D2Yl7FQ1tDUVp0XHGlCqaQ)
+
+四、polarisxu
+
+1. [Go限制Committer群体？](https://mp.weixin.qq.com/s/GHcC-kT_27B4-gwsD0yT7g)
+
+五、云加社区
+
+1. [来了！Go的2个黑魔法技巧](https://mp.weixin.qq.com/s/OXJG_Krfsg9YjU2JEVn3gg)
+
+六、腾讯技术工程
+
+1. [后台自动化测试与持续部署实践](https://mp.weixin.qq.com/s/lqwGUCKZM0AvEw_xh-7BDA)
+
+七、微服务实践
+
+1. [进城内优雅管理多个服务](https://mp.weixin.qq.com/s/Tw0Qqu31cmDTsPwvxkSNsw)
+
+八、网管叨bi叨
+
+1. [關於用 Go 实现堆和堆操作，可能是最通俗易懂的讲解了](https://mp.weixin.qq.com/s/jkHoVL6Ex93WuTr4lUaAJg)
+
+九、roseduan写字的地方
+
+1. [LotusDB 设计与实现—3 内存 memtable](https://mp.weixin.qq.com/s/byEV6viOQLYM_o2MPa33ng)
+
+十、Golang技术分享
+
+1. [Go 自定义 Json 序列化规则](https://mp.weixin.qq.com/s/MW2fXzRWHl5vxc15MHR_Bw)
+
+十一、奇伢云存储
+
+1. [Linux 块层 IO 子系统｜最核心的逻辑是什么？](https://mp.weixin.qq.com/s/7MyGpP8awUp5QURJb_2KGA)
+
+
+
+
+
+## GOCN每日新闻--2022-04-18
+
+1.探寻云原生时代应用研发新模式 https://mp.weixin.qq.com/s/uMyHw7G_QsJYXhAy3MunlQ
+
+2.go-carbon 2.1.1 版本发布， 修复bug和新增功能 https://gocn.vip/topics/OwVp3YslR1
+
+3.Aurora 第3次迭代升级 https://gocn.vip/topics/3Qz4ByHqoe
+
+4.Go 自定义 Json 序列化规则 https://mp.weixin.qq.com/s/MW2fXzRWHl5vxc15MHR_Bw
+
+5.關於用 Go 实现堆和堆操作，可能是最通俗易懂的讲解了 https://mp.weixin.qq.com/s/jkHoVL6Ex93WuTr4lUaAJg
+
+## gopherDaily--2022-04-18
+1.c2go: 通过sqlite3 迁移实践重新认识C语言 - https://mp.weixin.qq.com/s/03Nb46z2U0K3E8crKIL8FQ
+
+2.用OpenTelemetry监控gRPC调用--用一个Go的例子来解释 - https://dev.to/signoz/monitor-grpc-calls-with-opentelemetry-explained-with-a-golang-example-350o
+
+3.Go播客：为好奇的Go爱好者解答问题 - https://changelog.com/gotime/224
+
+4.安全、简单、快速的Go的Jwt实现 - https://github.com/cristalhq/jwt
+
+5.Go：2022年实用技巧和实用库1分钟指南 - https://blog.canopas.com/1-min-guide-to-golang-development-best-practices-in-2022-b50d846fd6c
+
+6.微服务架构中的Outbox模式的替代方案 - https://betterprogramming.pub/an-alternative-to-outbox-pattern-7564562843ae
+
+7.OpenTelemetry，为每个人提供标准化的可观察性框架 - https://blog.devgenius.io/opentelemetry-the-standardized-observability-framework-for-everyone-76b10c4148f7
+
+8.用Go和SQLite建立一个应用程序 - https://dev.to/pluralsight/building-an-application-with-go-and-sqlite-11h
+
+9.如何保证Kubernetes deployment的安全？ https://medium.com/@jonathan_37674/how-to-secure-kubernetes-deployment-armo-2aeb2b3e3189
+
+10.麦肯锡称将塑造未来十年的十大科技趋势 - https://www.weforum.org/agenda/2021/10/technology-trends-top-10-mckinsey/
+
 ## go中文网每日资讯--2022-04-16/17
 一、Go语言中文网
 
