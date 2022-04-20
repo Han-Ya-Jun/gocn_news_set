@@ -9,6 +9,48 @@
 # [gocn_news_set_2021(下)](gocn_news_set_2021_02.md)
 # gocn_news_set_2021
 
+
+## go中文网每日资讯--2022-04-19
+
+一、Go语言中文网
+
+1. [24 个常见的 Docker 疑难杂症处理技巧](https://mp.weixin.qq.com/s/R58f7fac2F3MP0TLV36vyQ)
+
+2. [Go：进程内优雅管理多个服务](https://mp.weixin.qq.com/s/Kx-GBthh5oVSSkbZUWGULw)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-04-18)——探寻云原生时代应用研发新模式](https://mp.weixin.qq.com/s/ALVin6hSdkIRXEcVEZgPHQ)
+
+三、脑子进煎鱼了
+
+1. [Go 语言 JSON 与 Cache 库 调研与选型](https://mp.weixin.qq.com/s/2WVBYJjeDkTBr9dDkbouqg)
+
+四、网管叨bi叨
+
+1. [两次Go服务内存泄露后总结的Tips](https://mp.weixin.qq.com/s/MA0C94sNN0BFrYH-AdG7iw)
+
+五、Go招聘
+
+1. [字节跳动-可观测性团队：天青色等烟雨，而我在等Gopher](https://mp.weixin.qq.com/s/HspWJNxZdvC5NzJKx9PMBw)
+
+六、董泽润的技术笔记
+
+1. [为什么泛型使你的程序变慢](https://mp.weixin.qq.com/s/veu5W0BFmLIZ-yvs39NdUw)
+
+## GOCN每日新闻--2022-04-19
+1.c2go: 通过 sqlite3 迁移实践重新认识 C 语言 https://mp.weixin.qq.com/s/03Nb46z2U0K3E8crKIL8FQ
+
+2.Harbor v2.5远程复制：制品的签名如影随形 https://mp.weixin.qq.com/s/erH1iCbNn9yM1Bl5UlgGMg
+
+3.Go汇编语法和MatrixOne使用介绍 https://gocn.vip/topics/8QGlV0ULwO
+
+4.Go能实现AOP吗？https://juejin.cn/post/7088171517816619022
+
+5.基于 K8s, Helm 和 Skaffold 构建 Go 开发环境 https://tompriordev.com/2022/04/16/golang-dev-with-kubernetes-helm-and-skaffold/
+
+
+
 ## go中文网每日资讯--2022-04-18
 
 一、Go语言中文网
