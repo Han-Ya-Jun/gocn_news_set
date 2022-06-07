@@ -10,6 +10,87 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2022-06-06
+
+一、Go语言中文网
+
+1. [Go 官方调查变频繁了：6 月份开启新的调查，参与下吧](https://mp.weixin.qq.com/s/8zJQTIClQL7DaEnItdUlHg)
+
+2. [为什么会有atomic.LoadInt32](https://mp.weixin.qq.com/s/QegQ_kP13DgQaSfPAwSM3w)
+
+二、polarisxu
+
+1. [这道 Go 题正确率只有44%，稍微改下你能做对吗？](https://mp.weixin.qq.com/s/r-fare05-_BUd0z8CLjs3g)
+
+三、云加社区
+
+1. [解锁tRPC高性能密码：网络方案简介！](https://mp.weixin.qq.com/s/CgMXai1oshtKRqD4VCyvSQ)
+
+四、幽鬼
+
+1. [Gopher 应该记住这 10 个命令](https://mp.weixin.qq.com/s/UIeIBtC9MZJh3w-EphWHiA)
+
+五、微服务实践
+
+1. [go-zero 微服务实战系列（一、开篇）](https://mp.weixin.qq.com/s/iU-61r6fQOu5bw3VL9KRDQ)
+
+六、网管叨bi叨
+
+1. [K8s 长什么样？一文道清它的整体架构](https://mp.weixin.qq.com/s/8Lao8XdBxY5nEfGy6FjT-w)
+
+七、TonyBai
+
+1. [Go：方法集合中“消失的方法”](https://mp.weixin.qq.com/s/9PpcejjGOXWQtKROLHI3iw)
+
+八、Golang语言开发栈
+
+1. [Go 语言怎么使用对称加密？](https://mp.weixin.qq.com/s/rKPyAHfjR_UPsU_Fi9CQdQ)
+
+九、TechPaper
+
+1. [为什么要旗帜鲜明地反对 orm 和 sql builder](https://mp.weixin.qq.com/s/5DIRKlWpr3pwx2h5YJhnAQ)
+
+十、Go招聘
+
+1. [你该刷新gomonkey的惯用法了](https://mp.weixin.qq.com/s/t1yNIahYgbPLU8auxxShMw)
+
+
+## GOCN每日新闻--2022-06-06
+
+1.[译] 是什么让 Golang 如此受欢迎？语言创造者的回顾 https://www.pseudoyu.com/zh/2022/06/06/golang_creators_look_back/
+
+2.你该刷新gomonkey的惯用法了 https://mp.weixin.qq.com/s/t1yNIahYgbPLU8auxxShMw
+
+3.GO GMP协程调度实现原理 5w字长文史上最全 https://www.cnblogs.com/dojo-lzz/p/16342622.html
+
+4.使用BPF, 将Go网络程序的吞吐提升8倍 https://colobu.com/2022/06/05/use-bpf-to-make-the-go-network-program-8x-faster/
+
+5.为什么要旗帜鲜明地反对 orm 和 sql builder https://mp.weixin.qq.com/s/5DIRKlWpr3pwx2h5YJhnAQ
+
+
+## gopherDaily--2022-06-05
+
+1.Go团队发起半年度Go用户调查 - https://go.dev/blog/survey2022-q2
+
+2.Go，基于连接与组合的语言 - https://mp.weixin.qq.com/s/4GFyng2XOoDI09bSjOzJ5A
+
+3.cockroachlabs: 分布式数据库中的准入控制和资源分配 - https://www.cockroachlabs.com/blog/admission-control-in-cockroachdb/
+
+4.Go常用I/O模式解析 - https://medium.com/dev-bits/explaining-common-i-o-patterns-in-go-cd01b1b749c4
+
+5.Go 1.19 regexp包将有性能提升 - https://github.com/golang/go/commit/0293c51bc5d8ca0728913c4b7f9f92339f8fd9a6
+
+6.Go高级并发模式 - https://dev.to/karanpratapsingh/advanced-concurrency-patterns-in-go-2je1
+
+7.etcd源码剖析 - https://csunny.gitbook.io/etcd/
+
+8.Dolt Diff vs. Sqlite Diff - https://www.dolthub.com/blog/2022-06-03-dolt-diff-vs-sqlite-diff/
+
+9.适用于各种类型测试的Go测试框架 - https://speedscale.com/2022/02/22/golang-testing-frameworks/
+
+10.失落的架构艺术 - https://levelup.gitconnected.com/the-lost-art-of-architecting-part-1-305c5d628a91
+
+
 ## go中文网每日资讯--2022-04-19
 
 一、Go语言中文网
