@@ -10,6 +10,86 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2022-06-07
+
+一、Go语言中文网
+
+1. [golang：快来抓住内存泄漏的“真凶”！](https://mp.weixin.qq.com/s/HosxXlz9e1jOmIY60RRkaQ)
+
+二、亚军进化史
+
+1. [Go技术日报(2022-06-06)——你该刷新gomonkey的惯用法了](https://mp.weixin.qq.com/s/0KIXzP8u5G4KzZj6eFAI7Q)
+
+三、云原生社区动态
+
+1. [一种灵活注入 Istio Sidecar 的方案探索](https://mp.weixin.qq.com/s/bV6055HcIwI1uI16cG2OnQ)
+
+四、Go招聘
+
+1. [从Go log库到Zap，怎么打造出好用又实用的Logger](https://mp.weixin.qq.com/s/vQQGci-45YZ2jhlAu6dyCQ)
+
+五、k8s技术圈
+
+1. [VictorialMetrics存储原理之索引存储格式](https://mp.weixin.qq.com/s/fa_3TJuZ-p2uzjUvqAwung)
+
+六、腾讯云原生
+
+1. [Istio 中实现客户端源 IP 的保持](https://mp.weixin.qq.com/s/-ntUY5leJva3tWCqTb_ecw)
+
+七、Golang来啦
+
+1. [用手写一个工具的过程讲清楚Go反射的使用方法和应用场景](https://mp.weixin.qq.com/s/-Psm6C_lxuRwCgakjEq2OA)
+
+八、Go夜读
+
+1. [Go 夜读第 133 期：缓存与数据库一致的开源方案](https://mp.weixin.qq.com/s/o_Ve0mygZT0PoKFriAu1dg)
+
+九、小白debug
+
+1. [掘地三尺搞定 Redis 与 MySQL 数据一致性问题](https://mp.weixin.qq.com/s/sVVIzZFDnYGWIcqiRZdSuQ)
+
+
+
+
+## GOCN每日新闻--2022-06-07
+
+1.golang：快来抓住内存泄漏的“真凶” https://mp.weixin.qq.com/s/HosxXlz9e1jOmIY60RRkaQ.
+
+2.某些情况下，合理使用Go指针将大大提升程序的运行效率 https://mp.weixin.qq.com/s/0zwSjHdpxcVZvNihA90Bpg.
+
+3.go程序员开发效率神器汇总 https://blog.51cto.com/ghostwritten/5359691
+
+4.go压测工具 https://github.com/link1st/go-stress-testing
+
+5. 从Go log库到Zap，怎么打造出好用又实用的Logger https://mp.weixin.qq.com/s/3GcZEuNDXgzjJrF8TkfbdQ
+
+## gopherDaily--2022-06-07
+1. Goroutine内幕 - https://osmh.dev/posts/goroutines-under-the-hood
+
+2. 如何在Go中实现HTTP长轮询 - https://kerkour.com/go-http-long-polling
+
+3. GoFound: 一个go实现的全文检索引擎 - https://mp.weixin.qq.com/s/ZRJeiD57KrP9zWEOChmeMQ
+
+4. WunderGraph: 下一代API开发者平台 - https://wundergraph.com/blog/wundergraph_the_next_generation_api_developer_platform_is_open_source
+
+5. Istio 1.14 发布 - https://mp.weixin.qq.com/s/WYYxtxNDzRcr2y0VQHWsLw
+
+6. 使用eBPF跟踪TLS流量 - https://bmiguel-teixeira.medium.com/tracing-tls-traffic-ebpf-style-b588523133ab
+
+7. 消息队列的精髓与灵魂 - https://mp.weixin.qq.com/s/eitRBEhuunhS0bSl7JDksA
+
+8. 一种灵活注入 Istio Sidecar 的方案探索 - https://mp.weixin.qq.com/s/bV6055HcIwI1uI16cG2OnQ
+
+9. 为什么要旗帜鲜明地反对 orm 和 sql builder - https://xargin.com/you-should-avoid-orm-and-sql-builder/ 
+
+10. http协议核心规范 - https://github.com/httpwg/http-core
+
+11. http/3协议规范 - https://www.rfc-editor.org/rfc/rfc9114.html
+
+12. 观察并对Kubernetes对象的变化做出反应 - https://dev.to/lucasepe/watch-and-react-to-kubernetes-objects-changes-3kcg
+
+13. 使用BPF, 将Go网络程序的吞吐提升8倍 - https://colobu.com/2022/06/05/use-bpf-to-make-the-go-network-program-8x-faster/
+
 ## go中文网每日资讯--2022-06-06
 
 一、Go语言中文网
