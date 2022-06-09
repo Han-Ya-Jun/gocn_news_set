@@ -10,6 +10,53 @@
 # gocn_news_set_2021
 
 
+
+## go中文网每日资讯--2022-06-08
+
+
+一、Go语言中文网
+
+1. [Go：从一个data race问题学到的](https://mp.weixin.qq.com/s/P_bPVzfZZhpokoLXllGxdw)
+
+二、脑子进煎鱼了
+
+1. [Go 要加个箭头语法，这下更像 PHP 了！](https://mp.weixin.qq.com/s/uo23gKC_Lbm0JNe5_YbVfA)
+
+2. [从 Go log 库到 Zap，怎么打造出好用又实用的 Logger](https://mp.weixin.qq.com/s/dqtwCx7bDuAxsEUvHTigAg)
+
+三、Go招聘
+
+1. [2022年 需求中最佳的DevOps 工具](https://mp.weixin.qq.com/s/IUFf3Owgra4BQPh8lLDxSA)
+
+四、网管叨bi叨
+
+1. [做 Go 代码Review时，建议先检查这几个错误，太坑了](https://mp.weixin.qq.com/s/ALHrgbbBrTuFo6PLj3bczQ)
+
+五、亚军进化史
+
+1. [Go技术日报(2022-06-07)——go程序员开发效率神器汇总](https://mp.weixin.qq.com/s/p9AOozN3PcZX0pdX-g3OCA)
+
+六、云加社区
+
+1. [码住！Golang并发安全与引用传递总结](https://mp.weixin.qq.com/s/svKtrTbEU-2MsChqvZKjMA)
+
+七、新亮笔记
+
+1. [非功能需求的测试](https://mp.weixin.qq.com/s/OXtYDF8aeGS7gkLqC127Gw)
+
+八、小白debug
+
+1. [聊聊索引失效的10种场景，太坑了](https://mp.weixin.qq.com/s/iY6aM5kAw7NmmdYHDBPw4Q)
+
+九、榫卯江湖
+
+1. [Tetragon进程阻断原理](https://mp.weixin.qq.com/s/BT1efaHicwqHWrwDtT_f5w)
+
+
+
+
+
+
 ## go中文网每日资讯--2022-06-07
 
 一、Go语言中文网
@@ -62,6 +109,8 @@
 4.go压测工具 https://github.com/link1st/go-stress-testing
 
 5. 从Go log库到Zap，怎么打造出好用又实用的Logger https://mp.weixin.qq.com/s/3GcZEuNDXgzjJrF8TkfbdQ
+
+
 
 ## gopherDaily--2022-06-07
 1. Goroutine内幕 - https://osmh.dev/posts/goroutines-under-the-hood
