@@ -10,6 +10,158 @@
 # gocn_news_set_2021
 
 
+## go中文网每日资讯--2022-06-09/12
+
+一、Go语言中文网
+
+1. [提高效率的 5 个 GoLand 快捷键，你都知道吗？](https://mp.weixin.qq.com/s/5-ebv0lxEM8ZMiOXYYPsoQ)
+
+2. [golang刷leetcode：统计区间中的整数数目](https://mp.weixin.qq.com/s/wyQOZG6ZEqjw4rH_Gh7Asg)
+
+3. [PHP 跌出前 10，Go 机会来了？6 月 TIOBE 榜单](https://mp.weixin.qq.com/s/DlvMClQorruvF0FetDdl4w)
+
+4. [Go语言爱好者周刊：第 148 期](https://mp.weixin.qq.com/s/YDe572BdjMJHH8pZe5uK5w)
+
+二、GoOfficialBlog
+
+1. [[摘要]如何构建分布式数据库 severless 服务?](https://mp.weixin.qq.com/s/2sNMaRuowPnbfAYgRw1RtA)
+
+三、亚军进化史
+
+1. [Go技术日报(2022-06-08)——聊聊索引失效的10种场景，太坑了](https://mp.weixin.qq.com/s/4Owhi1w3khAIYupkyP2_3Q)
+
+四、轩脉刃的刀光剑影
+
+1. [cgo调用c动态库实战](https://mp.weixin.qq.com/s/Xs5Ngi9444z6SyVVu0byUg)
+
+五、RememberGo
+
+1. [Go 网络库 Gnet 解析](https://mp.weixin.qq.com/s/aBdvYvoIO2FTMTPDY_IFYQ)
+
+六、章老师说
+
+1. [软件，以人为本](https://mp.weixin.qq.com/s/YI-GBXDD8kgg2TFs7M3caA)
+
+七、云影原生
+
+1. [监控中的GC延迟是在说什么？](https://mp.weixin.qq.com/s/wWWtCsXdoBSAXVZhXQY7Dw)
+
+八、k8s技术圈
+
+1. [可视化 Kubernetes 历史记录](https://mp.weixin.qq.com/s/JpdFQHqvuJqS3cDsNYy2Ag)
+
+九、polarisxu
+
+1. [Go 1.19 Beta1 发布，这个改动挺有意思](https://mp.weixin.qq.com/s/kFo-T47zXLgOD9PKRCQizA)
+
+十、网管叨bi叨
+
+1. [K8s也面向对象？学会这三要素，用K8s就跟编程一样](https://mp.weixin.qq.com/s/3_P_fpsC0ZQywlSoqdQ9Sg)
+
+
+## GOCN每日新闻--2022-06-12
+
+1.使用 stdlib 接口 https://eltonminetto.dev/en/post/2022-06-07-using-go-interfaces/
+
+2.如何调试第二次测试运行？ https://osinet.fr/go/en/articles/debug-second-test/
+
+3.简化 Go 中对 JSON 的处理 https://mp.weixin.qq.com/s/yyZ7JAn8RG1-N8o3TUsK-A
+
+4.如何调用一个只支持batch_call的服务 https://mp.weixin.qq.com/s/S80RmHp87gvWfFZ226hp0A
+
+5.Categraf - 夜莺监控发布新轮子 https://mp.weixin.qq.com/s/VkdRP1tMMIcunMoO8g-8sA
+
+## GOCN每日新闻--2022-06-12
+
+1.使用 stdlib 接口 https://eltonminetto.dev/en/post/2022-06-07-using-go-interfaces/
+
+2.如何调试第二次测试运行？ https://osinet.fr/go/en/articles/debug-second-test/
+
+3.简化 Go 中对 JSON 的处理 https://mp.weixin.qq.com/s/yyZ7JAn8RG1-N8o3TUsK-A
+
+4.如何调用一个只支持batch_call的服务 https://mp.weixin.qq.com/s/S80RmHp87gvWfFZ226hp0A
+
+5.Categraf - 夜莺监控发布新轮子 https://mp.weixin.qq.com/s/VkdRP1tMMIcunMoO8g-8sA
+
+
+## GOCN每日新闻--2022-06-11
+
+1.Go 1.19 beta1发布 https://groups.google.com/g/golang-announce/c/SNruPJUSFz0
+
+2.使用 Go 和 go4vl 构建网络摄像头 https://medium.com/go4vl/building-a-webcam-with-go-and-go4vl-7b56d2c54e39
+
+3.Go语言 WaitGroup 详解 https://segmentfault.com/a/1190000041968136
+
+4.微服务效率工具 goctl 深度解析（上） https://segmentfault.com/a/1190000041963346
+
+5.可视化Go内存管理 https://juejin.cn/post/7107533102083211301
+
+
+## GOCN每日新闻--2022-06-10
+
+1.范型下，优雅的Lodash风 https://mp.weixin.qq.com/s/BFsoQPvrog_sMKMTEofZyQ
+
+2.Ory Kratos是世界上第一个云原生身份和用户管理系统 https://github.com/ory/kratos#what-is-ory-kratos
+
+3.Golang中的简洁架构示例 https://github.com/cyruzin/hexagony
+
+4.go-zero 微服务实战系列（二、服务拆分） https://mp.weixin.qq.com/s/H-YiH1rxqXEpF_QzV81bVw
+
+5.十年磨一剑 go 1.18泛型 https://juejin.cn/post/7106393821943955463
+
+
+
+
+## gopherDaily--2022-06-12
+
+1.Go 1.19新特性前瞻 - https://tonybai.com/2022/06/12/go-1-19-foresight
+
+2.Go 1.19 Beta1版本发布 - https://go.dev/dl/#go1.19beta1
+
+3.协程风格Go词法分析器的性能 - https://eli.thegreenplace.net/2022/performance-of-coroutine-style-lexers-in-go/
+
+4.garr: 高性能、线程安全、无锁的go数据结构集合 - https://github.com/line/garr
+
+5.使用Go从头开始构建更快的rsync - https://hackaday.com/2022/06/01/building-faster-rsync-from-scratch-in-go/
+
+6.如何将react应用嵌入到Go二进制文件中 - https://www.smartinary.com/blog/how-to-embed-a-react-app-in-a-go-binary/
+
+7.Ebiten 2D游戏开发框架更名为Ebitengine - https://ebiten.org/blog/ebitengine.html
+
+8.Prometheus采不到数据了！居然是Prometheus client包的锅 - https://t.zsxq.com/02AUBAmmM
+
+9.Categraf - 夜莺监控发布新轮子 - https://mp.weixin.qq.com/s/VkdRP1tMMIcunMoO8g-8sA
+
+10.Grafana Loki 学习之踩坑记 - https://mp.weixin.qq.com/s/zfXNEkdDC9Vqd9lh1ptC1g
+
+11.WebAssembly会取代Docker吗？ - https://mp.weixin.qq.com/s/iZbgnmZc8S6ybx_t_bUCeg
+
+12.gta：通过传递分析快速找到依赖关系发生变化的软件包 - https://github.com/digitalocean/gta
+
+
+
+
+## gopherDaily--2022-06-10
+1.实战Go汇编：汇编在MatrixOne项目中的使用 - https://gocn.vip/topics/8QGlV0ULwO
+
+2.在Go中使用Chi的restful routing - https://thedevelopercafe.com/articles/restful-routing-with-chi-in-go-d05a2f952b3d
+
+3.详解Go分布式链路追踪实现原理 - https://mp.weixin.qq.com/s/9FxZuyPu93PuyQK9IhqXEg
+
+4.使用Go标准库中的接口类型 - https://eltonminetto.dev/en/post/2022-06-07-using-go-interfaces/
+
+5.Cilium开源Tetragon - 基于eBPF 的安全可观测性&运行时增强 - https://icloudnative.io/posts/tetragon/
+
+6.sealer，“集群”版本的 Docker，交付复杂度的终结者 - https://mp.weixin.qq.com/s/81Gl0b8s3OfWWVCLR_SmLQ
+
+7.浅谈MatrixOne如何用Go语言高性能哈希表的设计与实现 - https://www.matrixorigin.cn/h-nd-81.html
+
+8.进大厂，看这些学习资源就好了 - https://medium.com/the-weekly-readme/how-i-got-in-to-amazon-microsoft-google-all-from-studying-these-resources-31724508ce0e
+
+9.Tailscale 基础教程：Headscale 的部署方法和使用教程 - https://icloudnative.io/posts/how-to-set-up-or-migrate-headscale/
+
+10.Kratos：云原生身份和用户管理系统 - https://github.com/ory/kratos
+
 
 ## go中文网每日资讯--2022-06-08
 
