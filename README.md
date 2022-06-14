@@ -9,6 +9,63 @@
 # [gocn_news_set_2021(下)](gocn_news_set_2021_02.md)
 # gocn_news_set_2021
 
+## go中文网每日资讯--2022-06-13
+
+一、Go语言中文网
+
+1. [Go 1.19 Beta1 发布了：一些改动挺好的](https://mp.weixin.qq.com/s/_EK5leyiRDNDu6Y7dYrNow)
+
+2. [Go 网络库 Gnet 解析](https://mp.weixin.qq.com/s/ktfDnqM2nDbbIrPs0Wr8Pg)
+
+二、腾讯技术工程
+
+1. [Redis 知识总结](https://mp.weixin.qq.com/s/MdKl5QJCEis-TjTqkPQP4g)
+
+三、云加社区
+
+1. [不得不知道的Golang之sync.Map解读！](https://mp.weixin.qq.com/s/HFUyiS7OH0jIPDg4rEmcLw)
+
+四、亚军进化史
+
+1. [Go技术日报(2022-06-09/12)——微服务效率工具 goctl 深度解析（上）](https://mp.weixin.qq.com/s/652IrI6fXYcKmM0uortlcA)
+
+五、幽鬼
+
+1. [Java、Go 和 Python 的多线程性能对比](https://mp.weixin.qq.com/s/IKpaJE4icDhX6kyNaxsqRw)
+
+六、Go招聘
+
+1. [艾睿光电 招聘Go工程师](https://mp.weixin.qq.com/s/tmXjN-A7PQAbWNq5LQcuJQ)
+
+七、云原生社区动态
+
+1. [基于AutoTagging技术实践 构建统一的可观测性数据平台](https://mp.weixin.qq.com/s/3n5TmJseYKOT-mz2TeETng)
+
+八、微服务实践
+
+1. [go-zero微服务实战系列（三、API定义和表结构设计）](https://mp.weixin.qq.com/s/ZWfzuJuJKeyJM3PMJ-SysQ)
+
+
+
+
+
+
+## GOCN每日新闻--2022-06-13
+
+1.Watermill 用go构建简易事件驱动程序https://github.com/ThreeDotsLabs/watermill
+
+2.分层web应用http的测试库 https://github.com/protogodev/httptest
+
+3.事件分发的库observe https://github.com/decima/gobserve
+
+4.Sqlc-connect 根据SQL生成连接go server代码 https://github.com/walterwanderley/sqlc-connect
+
+5.kratos 下一代身份认证server https://github.com/ory/kratos
+
+
+
+
+
 
 ## go中文网每日资讯--2022-06-09/12
 
