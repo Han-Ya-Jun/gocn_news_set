@@ -9,6 +9,70 @@
 # [gocn_news_set_2021(下)](gocn_news_set_2021_02.md)
 # gocn_news_set_2021
 
+
+
+## go中文网每日资讯--2022-06-14
+
+一、Go语言中文网
+
+1. [Gopher 应该记住这 10 个命令](https://mp.weixin.qq.com/s/mGJFFMlDLLcDaBFKSyuyaw)
+
+2. [golang刷leetcode：巫师的总力量和](https://mp.weixin.qq.com/s/vAtiONIf170vQWqFa18i-A)
+
+二、脑子进煎鱼了
+
+1. [goto 语句让 Go 代码变成意大利面条？](https://mp.weixin.qq.com/s/lPB_VYaXUPtjoPjEh8FXLQ)
+
+2. [Go 语言如何自定义 linter（静态检查工具）](https://mp.weixin.qq.com/s/CDYjx6XriUKkRZRXx7BsPg)
+
+三、Golang来啦
+
+1. [你该刷新gomonkey的惯用法了](https://mp.weixin.qq.com/s/D-DK6lNz4qkOR6LMP-kdcw)
+
+四、Golang技术分享
+
+1. [Go能实现AOP吗？](https://mp.weixin.qq.com/s/HIK9b8qqw7sHfqVYPM-q2Q)
+
+五、亚军进化史
+
+1. [Go技术日报(2022-06-13)——Redis 知识总结](https://mp.weixin.qq.com/s/z8qXVUH6gXYpPXsie_H3pA)
+
+六、云原生社区动态
+
+1. [浅析 Istio：服务治理之概念和原理](https://mp.weixin.qq.com/s/72xZqLscVsjLaGH1Yd9Pzw)
+
+七、Go招聘
+
+1. [Go 1.19 Beta1 发布，这个改动挺有意思](https://mp.weixin.qq.com/s/uXlUT07S5Jl7N-oQ7k_R4g)
+
+八、小白debug
+
+1. [数据库主键一定要自增吗？有哪些场景不建议自增？](https://mp.weixin.qq.com/s/vNRIFKjbe7itRTxmq-bkAA)
+
+九、哔哩哔哩技术
+
+1. [SRE对B站活动保障体系的实践总结](https://mp.weixin.qq.com/s/KUPSAC055umz48eQG1VlRw)
+
+十、TechPaper
+
+1. [memory ballast 和 auto gc tuner 成为历史](https://mp.weixin.qq.com/s/ry9HpZqFt4nZD_BZYLUBeA)
+
+
+
+
+## GOCN每日新闻--2022-06-14
+
+1.golang刷leetcode：巫师的总力量和 https://mp.weixin.qq.com/s/vAtiONIf170vQWqFa18i-A
+
+2.一文告诉你Go 1.19都有哪些新特性 https://mp.weixin.qq.com/s/H22hF__6PfEfqEm307F0TA
+
+3.goto 语句让 Go 代码变成意大利面条？ https://mp.weixin.qq.com/s/lPB_VYaXUPtjoPjEh8FXLQ
+
+5.Go netpoll大解析 https://mp.weixin.qq.com/s/0g8YiJPOUjqUbEcJ66i38Q
+
+6.garr ：高性能、线程安全、无锁的 go 数据结构集合 https://github.com/line/garr
+
+
 ## go中文网每日资讯--2022-06-13
 
 一、Go语言中文网
