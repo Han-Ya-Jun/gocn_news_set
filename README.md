@@ -7,7 +7,96 @@
 # [gocn_news_set_2020(下)](gocn_news_set_2020_02.md)
 # [gocn_news_set_2021(上)](gocn_news_set_2021_01.md)
 # [gocn_news_set_2021(下)](gocn_news_set_2021_02.md)
-# gocn_news_set_2021
+# gocn_news_set_2022
+
+
+
+## go中文网每日资讯--2022-06-15
+
+一、Go语言中文网
+
+1. [一本广受好评的 Go 新书：Go语言学习指南](https://mp.weixin.qq.com/s/rUI3Gql8nZVeMsdlBoRqgA)
+
+2. [golang：快来抓住让我内存泄漏的“真凶”！](https://mp.weixin.qq.com/s/O84T-8NcU5aW8BhmbprvJg)
+
+二、新亮笔记
+
+1. [记录第一次视频分享 - 安装篇](https://mp.weixin.qq.com/s/j3DVxns9o9p8CeVLw7jU-w)
+
+三、亚军进化史
+
+1. [Go技术日报(2022-06-14)——一文告诉你Go 1.19都有哪些新特性](https://mp.weixin.qq.com/s/G6sROJPua9QCCjoD8YzS3A)
+
+四、polarisxu
+
+1. [看来大家对 append、slice 掌握还不到位](https://mp.weixin.qq.com/s/PG-ZjkhOHQCeWLaWnqqZQg)
+
+五、k8s技术圈
+
+1. [云原生存储解决方案Rook-Ceph与Rainbond结合的实践](https://mp.weixin.qq.com/s/q0W1midxf6Ox133bXUI5aA)
+
+六、Go招聘
+
+1. [发现了国外不加班的秘诀，各种Go代码示例都能在这搜到](https://mp.weixin.qq.com/s/Quw1LILDyxjisp7dmD-Dmg)
+
+七、幽鬼
+
+1. [关于 Go1.18 新函数 TryLock 的故事](https://mp.weixin.qq.com/s/Lnr3ohaJlgqzZYonnczWSA)
+
+八、脑子进煎鱼了
+
+1. [一个 Benchmark 比较分析工具](https://mp.weixin.qq.com/s/Plg0-WC0WKbONKK7dNX_NA)
+
+九、网管叨bi叨
+
+1. [真香预警，这个VSCODE可视化调试Go程序的方式，比直接用 dlv 命令香多了](https://mp.weixin.qq.com/s/pmNCkj55UeCx2LosjF9mjA)
+
+十、Gopher指北
+
+1. [好记性不如烂笔头，这些年积累的命令现在是你们的了！](https://mp.weixin.qq.com/s/ylIqPqO-cDGPyPbYo5RuNw)
+
+
+## GOCN每日新闻--2022-06-15
+
+1.Go中的并发并不是魔法 https://medium.com/@scott_white/concurrency-in-go-is-not-magic-37bb16af4b1a
+
+2.Prometheus查询是如何执行的和你为什么需要关心 https://www.timescale.com/blog/how-prometheus-querying-works-and-why-you-should-care/
+
+3.memory ballast 和 gc tuner 成为历史 https://xargin.com/the-new-api-for-heap-limit/
+
+4.tproxy: 可以分析TCP流量的代理命令行工具 https://github.com/kevwan/tproxy
+
+5.图解Go内存管理器 https://mp.weixin.qq.com/s/3StZZCzu-AzTIAo2uM5E5A
+
+
+## gopherDaily--2022-06-15
+
+1.Prometheus采不到数据了！居然是Prometheus client包的锅 - https://tonybai.com/2022/06/15/prometheus-can-not-pick-up-data-because-of-the-prometheus-client-package
+
+2.别把代码放入internal包 - https://ido50.net/rants/dont-put-all-your-code-in-internal
+
+3.All Systems Are Go：Go语言的联合开发者Rob Pike的早期采访记录 - https://www.informit.com/articles/article.aspx?p=1623555
+
+4.你的Go应用程序是否符合FIPS标准？ - https://developers.redhat.com/articles/2022/05/31/your-go-application-fips-compliant
+
+5.是什么让Go如此受欢迎？语言创造者的回顾 - https://mp.weixin.qq.com/s/XE178f-xWXXLfFgtWHhCWw
+
+6.记一次成功的AWS Lambda迁移 - https://spacelift.io/blog/aws-lambda-migration
+
+7.为什么BFE可以取代Nginx - https://mp.weixin.qq.com/s/F17a068m-zgb2ffN7PaCYQ
+
+8.Go+ v1.1 版正式发布 - https://mp.weixin.qq.com/s/CoDV-2eahWh33eE_sjPGXA
+
+9.聊聊可观测性之数据模型 - https://mp.weixin.qq.com/s/K11XBQlPJIxFGmsC39_lNQ
+
+10.从单机到分布式数据库存储系统的演进 - https://mp.weixin.qq.com/s/dMk34u_9R2w1piU-yHHQ9Q
+
+11.eBPF暂时不适合取代服务网格和sidecar模式 - https://mp.weixin.qq.com/s/1Cj8KfZ9ElCP6xaLeGOf2Q
+
+12.快速上手Thanos：高可用的 Prometheus - https://mp.weixin.qq.com/s/N7kbzr7Pua-F5TJDyQizfA
+
+13.Go并发不是魔法 - https://medium.com/@scott_white/concurrency-in-go-is-not-magic-37bb16af4b1a
+
 
 
 
