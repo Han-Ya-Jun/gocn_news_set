@@ -10,6 +10,95 @@
 # gocn_news_set_2022
 
 
+## go中文网每日资讯--2022-06-20
+
+一、Go语言中文网
+
+1. [关于 Go1.18 新函数 TryLock 的故事](https://mp.weixin.qq.com/s/Whb5wm28KR_6QmqDsAdtcw)
+
+2. [Go 语言中的零拷贝优化](https://mp.weixin.qq.com/s/wz-In-r1z91Te_HChsIMkA)
+
+二、脑子进煎鱼了
+
+1. [Go 内联优化：如何让我们的程序更快？](https://mp.weixin.qq.com/s/fKxITKsBct9GLRYk4HLdKA)
+
+2. [分库分表会带来读扩散问题？怎么解决？](https://mp.weixin.qq.com/s/RAt0z0nL53yE38sIsF1JcQ)
+
+三、网管叨bi叨
+
+1. [Go 1.18 让写测试的代码量骤减，你会开始写测试吗？](https://mp.weixin.qq.com/s/7I0zB_AsltzDLmc9ew48Bg)
+
+四、Golang技术分享
+
+1. [Go：简单的优化笔记](https://mp.weixin.qq.com/s/0E466avtngc_V_CsIAqyvQ)
+
+五、k8s技术圈
+
+1. [你不是不会处理多行日志，只是不会写正则表达式而已~](https://mp.weixin.qq.com/s/PI3E5-S0Qhbmn0OgEvYy-Q)
+
+六、polarisxu
+
+1. [惊！这道题正确率竟然只有 22%：答案详解](https://mp.weixin.qq.com/s/xEiXN2JT-RHVMHlYl0hVjQ)
+
+七、云原生社区动态
+
+1. [分布式存储系统 Curve 成为 CNCF 沙箱项目](https://mp.weixin.qq.com/s/G6WG_-C6d-raoRmH4hBjoQ)
+
+八、幽鬼
+
+1. [在 Golang 中使用 -w 和 -s 标志](https://mp.weixin.qq.com/s/_jD63AEvegboHA6MBJkP2A)
+
+九、许式伟
+
+1. [Go+ 类文件：DSL vs. SDF](https://mp.weixin.qq.com/s/GHaMHXvHrAOOQacUa2FkLQ)
+
+十、微服务实践
+
+1. [go-zero微服务实战系列（五、缓存代码怎么写）](https://mp.weixin.qq.com/s/QqrLOq7DcDVuIM_1YAaVTw)
+
+十一、奇伢云存储
+
+1. [Go 的 nil 值判断，千方百计，还是踩坑!](https://mp.weixin.qq.com/s/BwqHMhc2WtAY_R-UffNQ4w)
+
+
+
+## GOCN每日新闻--2022-06-20
+
+1.万字长文带你探究 Docker 容器化技术背后的黑科技 https://mp.weixin.qq.com/s/Fx6bLAKQCvrymhZ6IpBtuQ
+
+2.在 Golang 中使用 -w 和 -s 标志 https://mp.weixin.qq.com/s/_jD63AEvegboHA6MBJkP2A
+
+3.Go+ 类文件：DSL vs. SDF https://mp.weixin.qq.com/s/GHaMHXvHrAOOQacUa2FkLQ
+
+4.k8s client-go源码分析 informer源码分析(5)-Indexer源码分析 https://www.cnblogs.com/lianngkyle/p/16343460.html
+
+5.k8s client-go源码分析 informer源码分析(6)-Indexer源码分析 https://www.cnblogs.com/lianngkyle/p/16390060.html
+
+
+
+## gopherDaily--2022-06-20
+
+1.等等，怎么使用 SetMemoryLimit? - https://mp.weixin.qq.com/s/EIuM073G7VV1rIsnTXWyEw
+
+2.Go和SQL:现有库中的陷阱（以及更好的解决方案） - https://betterprogramming.pub/golang-sql-problems-with-existing-libraries-145a037261b8
+
+3.Go+ 类文件：DSL vs. SDF - https://mp.weixin.qq.com/s/GHaMHXvHrAOOQacUa2FkLQ
+
+4.在Go应用中实现分布式跟踪 - https://dev.to/signoz/implementing-distributed-tracing-in-a-golang-application-5cm1
+
+5.用Go在单个二进制文件中提供单页服务 - https://dev.to/aryaprakasa/serving-single-page-application-in-a-single-binary-file-with-go-12ij
+
+6.使用Terraform配置Kubernetes资源的方法 - https://dev.to/kubestack/a-better-way-to-provision-kubernetes-resources-using-terraform-355n
+
+7.用Devcontainers进行可重复的开发 - https://www.infoq.com/articles/devcontainers/
+
+8.如何用Docker部署Go Web应用程序 - https://semaphoreci.com/community/tutorials/how-to-deploy-a-go-web-application-with-docker
+
+9.Cilium 原理解析：网络数据包在内核中的流转过程 - https://zhuanlan.zhihu.com/p/501488062
+
+10.Kubernetes指南 - https://github.com/mikeroyal/Kubernetes-Guide
+
+
 
 ## go中文网每日资讯--2022-06-15
 
